@@ -1,0 +1,68 @@
+{
+  "id": 303277809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.656785,41.01502,-73.656785,41.01502",
+    "geom:latitude":41.01502,
+    "geom:longitude":-73.656785,
+    "iso:country":"US",
+    "sg:address":"98 Riverdale Ave",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 531 6100",
+    "sg:postcode":"06831",
+    "sg:province":"NY",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930941,
+        102084283,
+        85885307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uL5k3YC4NnAqdKZMADo5t_41.015020_-73.656785@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1ec3e6626ad60e5292d626ac5cf6d77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":303277809
+        }
+    ],
+    "wof:id":303277809,
+    "wof:lastmodified":1448998397,
+    "wof:name":"Pickwick Plumbing & Heating",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [-73.656785,41.01502,-73.656785,41.01502],
+  "geometry": {"coordinates":[-73.656785,41.01502],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 370526601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.640104,41.14205,-73.640104,41.14205",
+    "geom:latitude":41.14205,
+    "geom:longitude":-73.640104,
+    "iso:country":"US",
+    "sg:address":"8 Bates Ln",
+    "sg:city":"Bedford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 234 9789",
+    "sg:postcode":"10506",
+    "sg:province":"NY",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930787,
+        102084283,
+        85838073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_423czoVBo5btdjeoGYjnkO_41.142050_-73.640104@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"6aae65c32c5504d9827bb22e758a7225",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930787,
+            "neighbourhood_id":85838073,
+            "region_id":85688629,
+            "venue_id":370526601
+        }
+    ],
+    "wof:id":370526601,
+    "wof:lastmodified":1449030134,
+    "wof:name":"Riccardi Yard",
+    "wof:parent_id":85838073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [-73.640104,41.14205,-73.640104,41.14205],
+  "geometry": {"coordinates":[-73.640104,41.14205],"type":"Point"}
+}

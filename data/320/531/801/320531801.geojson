@@ -1,0 +1,67 @@
+{
+  "id": 320531801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.630723,41.02944,-73.630723,41.02944",
+    "geom:latitude":41.02944,
+    "geom:longitude":-73.630723,
+    "iso:country":"US",
+    "sg:address":"4 Dearfield Dr",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 869 1045",
+    "sg:postcode":"06831",
+    "sg:province":"NY",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930941,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40vBqFfGBJPcx27xqTVerl_41.029440_-73.630723@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a86b2e8a60358953997ee947a120fda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930941,
+            "neighbourhood_id":-1,
+            "region_id":85688629,
+            "venue_id":320531801
+        }
+    ],
+    "wof:id":320531801,
+    "wof:lastmodified":1449012147,
+    "wof:name":"Greenwich Surgical Group Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-73.630723,41.02944,-73.630723,41.02944],
+  "geometry": {"coordinates":[-73.630723,41.02944],"type":"Point"}
+}

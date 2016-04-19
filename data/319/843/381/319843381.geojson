@@ -1,0 +1,69 @@
+{
+  "id": 319843381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.489171,41.149212,-73.489171,41.149212",
+    "geom:latitude":41.149212,
+    "geom:longitude":-73.489171,
+    "iso:country":"US",
+    "sg:address":"39 Cross St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06840",
+    "sg:province":"NY",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        102084283,
+        85851779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nSyvFxn4ZDzTBWhSlD1Gx_41.149212_-73.489171@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a832de606165d5948bae7b92f95a7f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":-1,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":319843381
+        }
+    ],
+    "wof:id":319843381,
+    "wof:lastmodified":1449024163,
+    "wof:name":"New Canaan Auto Body Inc",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [-73.489171,41.149212,-73.489171,41.149212],
+  "geometry": {"coordinates":[-73.489171,41.149212],"type":"Point"}
+}

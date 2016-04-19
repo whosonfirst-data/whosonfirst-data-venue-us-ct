@@ -1,0 +1,78 @@
+{
+  "id": 253553095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.655838,41.010986,-73.655838,41.010986",
+    "geom:latitude":41.010986,
+    "geom:longitude":-73.655838,
+    "iso:country":"US",
+    "sg:address":"505 N Main St",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 934 7711",
+    "sg:postcode":"10573",
+    "sg:province":"NY",
+    "sg:tags":[
+        "inspection",
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        102084283,
+        85808713,
+        85930941,
+        85885307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XmMbqqedtFEsA9jKzvuXR_41.010986_-73.655838@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"f2da641b8a4ec2162e9dcd8d99e57c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":-1,
+            "neighbourhood_id":85808713,
+            "region_id":85688629,
+            "venue_id":253553095
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":253553095
+        }
+    ],
+    "wof:id":253553095,
+    "wof:lastmodified":1449062840,
+    "wof:name":"Novello Innovations",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection",
+        "motorcycle"
+    ]
+},
+  "bbox": [-73.655838,41.010986,-73.655838,41.010986],
+  "geometry": {"coordinates":[-73.655838,41.010986],"type":"Point"}
+}

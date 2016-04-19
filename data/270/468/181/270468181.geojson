@@ -1,0 +1,80 @@
+{
+  "id": 270468181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.656783,41.008729,-73.656783,41.008729",
+    "geom:latitude":41.008729,
+    "geom:longitude":-73.656783,
+    "iso:country":"US",
+    "sg:address":"460 N Main St",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 939 1100",
+    "sg:postcode":"10573",
+    "sg:province":"NY",
+    "sg:tags":[
+        "tile",
+        "ceramic",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        102084283,
+        85808713,
+        85930941,
+        85885307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uZwVac6Rg0Q7XlX9uZJ1Q_41.008729_-73.656783@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"11e0eee0bacff00b8c9cd5e90b495d86",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":-1,
+            "neighbourhood_id":85808713,
+            "region_id":85688629,
+            "venue_id":270468181
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":270468181
+        }
+    ],
+    "wof:id":270468181,
+    "wof:lastmodified":1449010406,
+    "wof:name":"Rye Ridge Ceramic Tile Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "ceramic",
+        "retail"
+    ]
+},
+  "bbox": [-73.656783,41.008729,-73.656783,41.008729],
+  "geometry": {"coordinates":[-73.656783,41.008729],"type":"Point"}
+}

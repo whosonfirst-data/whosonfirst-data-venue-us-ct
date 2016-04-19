@@ -1,0 +1,76 @@
+{
+  "id": 303323851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.459758,41.136535,-73.459758,41.136535",
+    "geom:latitude":41.136535,
+    "geom:longitude":-73.459758,
+    "iso:country":"US",
+    "sg:address":"824 Carter St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 966 5345",
+    "sg:postcode":"06840",
+    "sg:province":"NY",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930795,
+        102084283,
+        85879307,
+        85848785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GJbZkfBrUXK06q1gZfoW5_41.136535_-73.459758@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"ba11cd29a83780cc9050278e832eac7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930795,
+            "neighbourhood_id":85879307,
+            "region_id":85688629,
+            "venue_id":303323851
+        },
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":-1,
+            "neighbourhood_id":85848785,
+            "region_id":85688629,
+            "venue_id":303323851
+        }
+    ],
+    "wof:id":303323851,
+    "wof:lastmodified":1448998330,
+    "wof:name":"David Bucciarelli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [-73.459758,41.136535,-73.459758,41.136535],
+  "geometry": {"coordinates":[-73.459758,41.136535],"type":"Point"}
+}

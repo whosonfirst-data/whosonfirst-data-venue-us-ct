@@ -1,0 +1,65 @@
+{
+  "id": 269486075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-73.500108,41.145531,-73.500108,41.145531",
+    "geom:latitude":41.145531,
+    "geom:longitude":-73.500108,
+    "iso:country":"US",
+    "sg:address":"288 Elm St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 966 7818",
+    "sg:postcode":"06840",
+    "sg:province":"NY",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        102084283,
+        85851779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mUtfow2pgscsBHmggGDc7_41.145531_-73.500108@1294177022"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"255b656ae33f0fb11ba4b9ab946d8711",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":-1,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":269486075
+        }
+    ],
+    "wof:id":269486075,
+    "wof:lastmodified":1449037466,
+    "wof:name":"Food Emporium",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [-73.500108,41.145531,-73.500108,41.145531],
+  "geometry": {"coordinates":[-73.500108,41.145531],"type":"Point"}
+}
