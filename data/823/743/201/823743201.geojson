@@ -1,0 +1,71 @@
+{
+  "id": 823743201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086366,41.390296,-73.086366,41.390296",
+    "geom:latitude":41.390296,
+    "geom:longitude":-73.086366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"232 W Church St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 5920",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dyvc1lsvtLK5TfMsmAl6a_41.390296_-73.086366@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445226,
+    "wof:geomhash":"fe837dd4e42e723756d050b2b60fc02d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823743201
+        }
+    ],
+    "wof:id":823743201,
+    "wof:lastmodified":1466424461,
+    "wof:name":"Sweeter Than Wine",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -73.086366,
+    41.390296,
+    -73.086366,
+    41.390296
+],
+  "geometry": {"coordinates":[-73.086366,41.390296],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823520441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.949155,41.270607,-72.949155,41.270607",
+    "geom:latitude":41.270607,
+    "geom:longitude":-72.949155,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"453 Campbell Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 934 6556",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "seafood",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868719,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66jUwhqgLZKlvCEdNkKvEY_41.270607_-72.949155@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440038,
+    "wof:geomhash":"3b3692f1c6a3df72468e21914ba428cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85868719,
+            "region_id":85688629,
+            "venue_id":823520441
+        }
+    ],
+    "wof:id":823520441,
+    "wof:lastmodified":1466422159,
+    "wof:name":"Zeb's Fish House",
+    "wof:parent_id":85868719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.949155,
+    41.270607,
+    -72.949155,
+    41.270607
+],
+  "geometry": {"coordinates":[-72.949155,41.270607],"type":"Point"}
+}

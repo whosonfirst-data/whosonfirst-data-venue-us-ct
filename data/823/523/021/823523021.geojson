@@ -1,0 +1,79 @@
+{
+  "id": 823523021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.431223,41.259467,-73.431223,41.259467",
+    "geom:latitude":41.259467,
+    "geom:longitude":-73.431223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 N Main St",
+    "sg:city":"West Redding",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 544 9093",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807091,
+        102191575,
+        404495863,
+        85633793,
+        85930985,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2HFjlAtDwcMYHNzMJBts_41.259467_-73.431223@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440092,
+    "wof:geomhash":"8e13d2b7d22b11d05147820249dc5fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":823523021
+        }
+    ],
+    "wof:id":823523021,
+    "wof:lastmodified":1466422120,
+    "wof:name":"Tom's Toy Box",
+    "wof:parent_id":85807091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.431223,
+    41.259467,
+    -73.431223,
+    41.259467
+],
+  "geometry": {"coordinates":[-73.431223,41.259467],"type":"Point"}
+}

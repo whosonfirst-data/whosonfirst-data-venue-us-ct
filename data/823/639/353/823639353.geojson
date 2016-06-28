@@ -1,0 +1,71 @@
+{
+  "id": 823639353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.837076,41.734538,-72.837076,41.734538",
+    "geom:latitude":41.734538,
+    "geom:longitude":-72.837076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1051 Farmington Ave",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i0qfKZUJ5gmMIbjnem4rF_41.734538_-72.837076@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442840,
+    "wof:geomhash":"a4a821f394d936d2730a2e07bd83c70c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823639353
+        }
+    ],
+    "wof:id":823639353,
+    "wof:lastmodified":1466423661,
+    "wof:name":"Bella Salon",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.837076,
+    41.734538,
+    -72.837076,
+    41.734538
+],
+  "geometry": {"coordinates":[-72.837076,41.734538],"type":"Point"}
+}

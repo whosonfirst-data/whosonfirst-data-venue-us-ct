@@ -1,0 +1,73 @@
+{
+  "id": 823835017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.425278,41.188325,-73.425278,41.188325",
+    "geom:latitude":41.188325,
+    "geom:longitude":-73.425278,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"238 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 563 0126",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YSazs38bni7iYvc4NMFBy_41.188325_-73.425278@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447760,
+    "wof:geomhash":"33d8095e91c6a163a9c5c6943306437d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823835017
+        }
+    ],
+    "wof:id":823835017,
+    "wof:lastmodified":1466425415,
+    "wof:name":"Wilton Water Pollution Control",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.425278,
+    41.188325,
+    -73.425278,
+    41.188325
+],
+  "geometry": {"coordinates":[-73.42527800000001,41.188325],"type":"Point"}
+}

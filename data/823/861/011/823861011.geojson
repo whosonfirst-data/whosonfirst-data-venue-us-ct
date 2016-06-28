@@ -1,0 +1,73 @@
+{
+  "id": 823861011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.670462,41.921278,-72.670462,41.921278",
+    "geom:latitude":41.921278,
+    "geom:longitude":-72.670462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Ella Grasso Tpke",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 627 8010",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LJBHRx8n0UiljZVOPWRj2_41.921278_-72.670462@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448518,
+    "wof:geomhash":"3e20da96067f46949c2469313e7c74d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823861011
+        }
+    ],
+    "wof:id":823861011,
+    "wof:lastmodified":1466425639,
+    "wof:name":"Shell",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.670462,
+    41.921278,
+    -72.670462,
+    41.921278
+],
+  "geometry": {"coordinates":[-72.670462,41.921278],"type":"Point"}
+}

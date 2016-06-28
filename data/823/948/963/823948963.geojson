@@ -1,0 +1,71 @@
+{
+  "id": 823948963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200056,41.528928,-73.200056,41.528928",
+    "geom:latitude":41.528928,
+    "geom:longitude":-73.200056,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Sherman Hill Rd",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6458ygZOvDv6Jf05VEue5l_41.528928_-73.200056@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450757,
+    "wof:geomhash":"4f83ff11512f69c4ec1e56c4582003ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823948963
+        }
+    ],
+    "wof:id":823948963,
+    "wof:lastmodified":1466426491,
+    "wof:name":"Premier Financial Service Inc",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.200056,
+    41.528928,
+    -73.200056,
+    41.528928
+],
+  "geometry": {"coordinates":[-73.200056,41.528928],"type":"Point"}
+}

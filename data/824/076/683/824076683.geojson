@@ -1,0 +1,80 @@
+{
+  "id": 824076683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.64897,41.559572,-72.64897,41.559572",
+    "geom:latitude":41.559572,
+    "geom:longitude":-72.64897,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Main St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/middletown/144106-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 344 8422",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4syJeI8yeXDJEBiMuoo3kC_41.559572_-72.648970@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453777,
+    "wof:geomhash":"a8ad1be84815328dec17dce92c894d27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824076683
+        }
+    ],
+    "wof:id":824076683,
+    "wof:lastmodified":1466422599,
+    "wof:name":"Subway",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.64897,
+    41.559572,
+    -72.64897,
+    41.559572
+],
+  "geometry": {"coordinates":[-72.64897000000001,41.559572],"type":"Point"}
+}

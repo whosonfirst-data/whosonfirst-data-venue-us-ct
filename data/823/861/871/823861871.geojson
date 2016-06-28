@@ -1,0 +1,71 @@
+{
+  "id": 823861871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093426,41.406597,-73.093426,41.406597",
+    "geom:latitude":41.406597,
+    "geom:longitude":-73.093426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qQRjWCKRcvtyZtZV9LS6y_41.406597_-73.093426@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448540,
+    "wof:geomhash":"06477a92199d9b81b9e4abdc791f5cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823861871
+        }
+    ],
+    "wof:id":823861871,
+    "wof:lastmodified":1466425719,
+    "wof:name":"Auto Motion LLC",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.093426,
+    41.406597,
+    -73.093426,
+    41.406597
+],
+  "geometry": {"coordinates":[-73.09342599999999,41.406597],"type":"Point"}
+}

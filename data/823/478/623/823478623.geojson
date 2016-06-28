@@ -1,0 +1,71 @@
+{
+  "id": 823478623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927316,41.71309,-72.927316,41.71309",
+    "geom:latitude":41.71309,
+    "geom:longitude":-72.927316,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Stevens St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 582 7311",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gDFgnXSMVZnIEM2TsOfhT_41.713090_-72.927316@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439050,
+    "wof:geomhash":"f8a1c949bcc4ae107af35a19bc72c114",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823478623
+        }
+    ],
+    "wof:id":823478623,
+    "wof:lastmodified":1466421404,
+    "wof:name":"Trips Mechanical Services LLC",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.927316,
+    41.71309,
+    -72.927316,
+    41.71309
+],
+  "geometry": {"coordinates":[-72.927316,41.71309],"type":"Point"}
+}

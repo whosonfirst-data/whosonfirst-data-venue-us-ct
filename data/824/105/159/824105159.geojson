@@ -1,0 +1,74 @@
+{
+  "id": 824105159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.411568,41.288222,-72.411568,41.288222",
+    "geom:latitude":41.288222,
+    "geom:longitude":-72.411568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Center Rd Ste 4",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 1819",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.dtails.biz",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SIs4JYV0g0FZCCfZnbxCf_41.288222_-72.411568@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454448,
+    "wof:geomhash":"426207e264739680b5566e0a4e30c7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105159
+        }
+    ],
+    "wof:id":824105159,
+    "wof:lastmodified":1466423062,
+    "wof:name":"D Tails",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.411568,
+    41.288222,
+    -72.411568,
+    41.288222
+],
+  "geometry": {"coordinates":[-72.411568,41.288222],"type":"Point"}
+}

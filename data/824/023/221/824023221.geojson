@@ -1,0 +1,77 @@
+{
+  "id": 824023221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198651,41.173657,-73.198651,41.173657",
+    "geom:latitude":41.173657,
+    "geom:longitude":-73.198651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"773 State St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876483,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dQClQon2k6OAtxsSLWGKh_41.173657_-73.198651@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452500,
+    "wof:geomhash":"1040fa6b4b77645a1c9c9d1b505bf310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876483,
+            "region_id":85688629,
+            "venue_id":824023221
+        }
+    ],
+    "wof:id":824023221,
+    "wof:lastmodified":1466421537,
+    "wof:name":"Superior Auto Sales",
+    "wof:parent_id":85876483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.198651,
+    41.173657,
+    -73.198651,
+    41.173657
+],
+  "geometry": {"coordinates":[-73.198651,41.173657],"type":"Point"}
+}

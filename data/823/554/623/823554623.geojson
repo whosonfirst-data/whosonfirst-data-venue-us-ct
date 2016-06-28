@@ -1,0 +1,71 @@
+{
+  "id": 823554623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.403301,41.578793,-73.403301,41.578793",
+    "geom:latitude":41.578793,
+    "geom:longitude":-73.403301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Lea Ln",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 675 9369",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gcz9vR0Itjl0pcQqLhTKi_41.578793_-73.403301@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440812,
+    "wof:geomhash":"5d9e7f5f195df64db9d4e6b401fa43c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823554623
+        }
+    ],
+    "wof:id":823554623,
+    "wof:lastmodified":1466422652,
+    "wof:name":"New England Renovation LLC",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.403301,
+    41.578793,
+    -73.403301,
+    41.578793
+],
+  "geometry": {"coordinates":[-73.403301,41.578793],"type":"Point"}
+}

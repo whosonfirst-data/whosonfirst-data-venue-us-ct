@@ -1,0 +1,66 @@
+{
+  "id": 823583975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.604086,41.303697,-72.604086,41.303697",
+    "geom:latitude":41.303697,
+    "geom:longitude":-72.604086,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"376 Durham Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 4851",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wrSWAKTkZzSsh3sNl2Jw0_41.303697_-72.604086@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441514,
+    "wof:geomhash":"6fc2dadd7e790cdf639ce844f5e5ba76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823583975
+        }
+    ],
+    "wof:id":823583975,
+    "wof:lastmodified":1466423066,
+    "wof:name":"Madison Flower Shop & Garden",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.604086,
+    41.303697,
+    -72.604086,
+    41.303697
+],
+  "geometry": {"coordinates":[-72.604086,41.303697],"type":"Point"}
+}

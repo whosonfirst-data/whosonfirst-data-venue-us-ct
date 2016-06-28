@@ -1,0 +1,71 @@
+{
+  "id": 823998435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.482568,41.478208,-73.482568,41.478208",
+    "geom:latitude":41.478208,
+    "geom:longitude":-73.482568,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Short Woods Rd",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 746 3744",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828691,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056IYeLMoBwK1N91ZXJYhI_41.478208_-73.482568@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451951,
+    "wof:geomhash":"01789f7752feb45fe4a934f7c61bdcbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85828691,
+            "region_id":85688629,
+            "venue_id":823998435
+        }
+    ],
+    "wof:id":823998435,
+    "wof:lastmodified":1466426840,
+    "wof:name":"Stoneworks",
+    "wof:parent_id":85828691,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.482568,
+    41.478208,
+    -73.482568,
+    41.478208
+],
+  "geometry": {"coordinates":[-73.482568,41.478208],"type":"Point"}
+}

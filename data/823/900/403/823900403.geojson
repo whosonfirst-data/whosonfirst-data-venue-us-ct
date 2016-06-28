@@ -1,0 +1,71 @@
+{
+  "id": 823900403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.290932,41.830214,-72.290932,41.830214",
+    "geom:latitude":41.830214,
+    "geom:longitude":-72.290932,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1856 Storrs Rd",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832175,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mHSjjnXkH9mFPrlof186P_41.830214_-72.290932@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449463,
+    "wof:geomhash":"dd529b9419acc927dcccd8a115dda7ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85832175,
+            "region_id":85688629,
+            "venue_id":823900403
+        }
+    ],
+    "wof:id":823900403,
+    "wof:lastmodified":1466425987,
+    "wof:name":"Tonys Garage Ltd",
+    "wof:parent_id":85832175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.290932,
+    41.830214,
+    -72.290932,
+    41.830214
+],
+  "geometry": {"coordinates":[-72.290932,41.830214],"type":"Point"}
+}

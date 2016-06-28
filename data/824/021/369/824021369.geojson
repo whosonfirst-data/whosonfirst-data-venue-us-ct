@@ -1,0 +1,82 @@
+{
+  "id": 824021369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.768319,41.671699,-72.768319,41.671699",
+    "geom:latitude":41.671699,
+    "geom:longitude":-72.768319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"532 E Main St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0od1o8jWP4HYx5yE6MyLCO_41.671699_-72.768319@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452453,
+    "wof:geomhash":"095a83b22bd6afa9cf7af63686243168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":824021369
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":824021369
+        }
+    ],
+    "wof:id":824021369,
+    "wof:lastmodified":1466421689,
+    "wof:name":"Halinas Beauty Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.768319,
+    41.671699,
+    -72.768319,
+    41.671699
+],
+  "geometry": {"coordinates":[-72.76831900000001,41.671699],"type":"Point"}
+}

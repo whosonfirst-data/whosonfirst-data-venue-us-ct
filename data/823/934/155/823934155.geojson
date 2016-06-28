@@ -1,0 +1,79 @@
+{
+  "id": 823934155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.461205,41.393,-73.461205,41.393",
+    "geom:latitude":41.393,
+    "geom:longitude":-73.461205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Stevens St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 730 0047",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "horse",
+        "transporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OzhvXFyDSTGltaagxAZhh_41.393000_-73.461205@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450367,
+    "wof:geomhash":"d4effcb136ed4e8c363a2bdeb8a7ce37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823934155
+        }
+    ],
+    "wof:id":823934155,
+    "wof:lastmodified":1466426326,
+    "wof:name":"Alex Horse Transportation",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "transporting"
+    ]
+},
+  "bbox": [
+    -73.461205,
+    41.393,
+    -73.461205,
+    41.393
+],
+  "geometry": {"coordinates":[-73.46120500000001,41.393],"type":"Point"}
+}

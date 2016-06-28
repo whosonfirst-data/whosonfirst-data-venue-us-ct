@@ -1,0 +1,81 @@
+{
+  "id": 824086883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.321869,42.023739,-73.321869,42.023739",
+    "geom:latitude":42.023739,
+    "geom:longitude":-73.321869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 E Main St",
+    "sg:city":"Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 824 7325",
+    "sg:postcode":"06018",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaner",
+        "inspection",
+        "rug"
+    ],
+    "sg:website":"http://www.laiglefloorcoveringanddesign.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841753,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69TsqoAdqUdWXRj1NcJyas_42.023739_-73.321869@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454017,
+    "wof:geomhash":"2c0a441bd166ba20c5a1ea2aadf42784",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85841753,
+            "region_id":85688629,
+            "venue_id":824086883
+        }
+    ],
+    "wof:id":824086883,
+    "wof:lastmodified":1466422811,
+    "wof:name":"Laigle Floorcovering and Design",
+    "wof:parent_id":85841753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "inspection",
+        "rug"
+    ]
+},
+  "bbox": [
+    -73.321869,
+    42.023739,
+    -73.321869,
+    42.023739
+],
+  "geometry": {"coordinates":[-73.32186900000001,42.023739],"type":"Point"}
+}

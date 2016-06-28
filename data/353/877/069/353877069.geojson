@@ -2,13 +2,14 @@
   "id": 353877069,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491675,41.147774,-73.491675,41.147774",
     "geom:latitude":41.147774,
     "geom:longitude":-73.491675,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 East Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353877069,
-    "wof:lastmodified":1449020042,
+    "wof:lastmodified":1466421133,
     "wof:name":"New Canaan Eye Associates",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "good"
     ]
 },
-  "bbox": [-73.491675,41.147774,-73.491675,41.147774],
+  "bbox": [
+    -73.491675,
+    41.147774,
+    -73.491675,
+    41.147774
+],
   "geometry": {"coordinates":[-73.491675,41.147774],"type":"Point"}
 }

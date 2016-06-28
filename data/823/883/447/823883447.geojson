@@ -1,0 +1,71 @@
+{
+  "id": 823883447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.826338,41.72069,-72.826338,41.72069",
+    "geom:latitude":41.72069,
+    "geom:longitude":-72.826338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Mountain Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 678 0051",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_603Ne4PCxFSaS5swpquK56_41.720690_-72.826338@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449046,
+    "wof:geomhash":"d37c74fd5700edea232ba1bc62b9614c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823883447
+        }
+    ],
+    "wof:id":823883447,
+    "wof:lastmodified":1466425842,
+    "wof:name":"Fletchers Plumbing & Heating",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.826338,
+    41.72069,
+    -72.826338,
+    41.72069
+],
+  "geometry": {"coordinates":[-72.82633800000001,41.72069],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 824017133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965279,41.652099,-72.965279,41.652099",
+    "geom:latitude":41.652099,
+    "geom:longitude":-72.965279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"278 Old Wolcott Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 314 1870",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_352X9MneuNxjUMG1i2c3ED_41.652099_-72.965279@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452362,
+    "wof:geomhash":"38af6d5d4de630122806a9518362ddf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824017133
+        }
+    ],
+    "wof:id":824017133,
+    "wof:lastmodified":1466421401,
+    "wof:name":"Mikes Custom Cabinets",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "wood",
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -72.965279,
+    41.652099,
+    -72.965279,
+    41.652099
+],
+  "geometry": {"coordinates":[-72.965279,41.652099],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823629549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178019,41.275615,-73.178019,41.275615",
+    "geom:latitude":41.275615,
+    "geom:longitude":-73.178019,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"62 Rolling Ridge Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6339",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AcS41d36b7ROTjQA6IFlB_41.275615_-73.178019@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442620,
+    "wof:geomhash":"3d29aafd1a7cf47065155823c48cc588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823629549
+        }
+    ],
+    "wof:id":823629549,
+    "wof:lastmodified":1466423611,
+    "wof:name":"Chestnut Hill Carting",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.178019,
+    41.275615,
+    -73.178019,
+    41.275615
+],
+  "geometry": {"coordinates":[-73.17801900000001,41.275615],"type":"Point"}
+}

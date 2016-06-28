@@ -1,0 +1,99 @@
+{
+  "id": 823579219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.420544,41.110242,-73.420544,41.110242",
+    "geom:latitude":41.110242,
+    "geom:longitude":-73.420544,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Elmcrest Ter",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 851 2077",
+    "sg:postcode":"06850",
+    "sg:province":"CT",
+    "sg:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85849909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51wR2LgfywjBkZETYyFT09_41.110242_-73.420544@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441405,
+    "wof:geomhash":"e90d0e3baf8459d4d02f2a73ae0fe9d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823579219
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":823579219
+        }
+    ],
+    "wof:id":823579219,
+    "wof:lastmodified":1466422741,
+    "wof:name":"Meridian Hl Detoxification Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "treatment",
+        "alcoholism",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.420544,
+    41.110242,
+    -73.420544,
+    41.110242
+],
+  "geometry": {"coordinates":[-73.42054400000001,41.110242],"type":"Point"}
+}

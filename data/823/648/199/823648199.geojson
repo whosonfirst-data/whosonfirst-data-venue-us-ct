@@ -1,0 +1,66 @@
+{
+  "id": 823648199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.268649,41.327456,-73.268649,41.327456",
+    "geom:latitude":41.327456,
+    "geom:longitude":-73.268649,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Freedman Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 7164",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NgXWt39GPsUPVKOIKHjlq_41.327456_-73.268649@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443043,
+    "wof:geomhash":"010df693cde12718b3fba26809c190dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823648199
+        }
+    ],
+    "wof:id":823648199,
+    "wof:lastmodified":1466423790,
+    "wof:name":"Richardson Landscaping",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.268649,
+    41.327456,
+    -73.268649,
+    41.327456
+],
+  "geometry": {"coordinates":[-73.268649,41.327456],"type":"Point"}
+}

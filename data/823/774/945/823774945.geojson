@@ -1,0 +1,71 @@
+{
+  "id": 823774945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.89359,41.928095,-71.89359,41.928095",
+    "geom:latitude":41.928095,
+    "geom:longitude":-71.89359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"145 Thompson Ave",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 0145",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lAxaeT9yHlEU5oanENCzR_41.928095_-71.893590@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445956,
+    "wof:geomhash":"8fd6cac1e070716ff95a65fa002d1073",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823774945
+        }
+    ],
+    "wof:id":823774945,
+    "wof:lastmodified":1466424975,
+    "wof:name":"Good House Company",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -71.89359,
+    41.928095,
+    -71.89359,
+    41.928095
+],
+  "geometry": {"coordinates":[-71.89359,41.928095],"type":"Point"}
+}

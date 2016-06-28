@@ -1,0 +1,83 @@
+{
+  "id": 823870225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.542077,41.059351,-73.542077,41.059351",
+    "geom:latitude":41.059351,
+    "geom:longitude":-73.542077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"141 Franklin St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 388 0152",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "welfare"
+    ],
+    "sg:website":"www.stlukeslifeworks.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LZpBCbx7dESv2bHkvF2cU_41.059351_-73.542077@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448744,
+    "wof:geomhash":"2d1a3988a6b6b72afdbd3e534e806ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823870225
+        }
+    ],
+    "wof:id":823870225,
+    "wof:lastmodified":1466425754,
+    "wof:name":"Bread & Roses Inc",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.542077,
+    41.059351,
+    -73.542077,
+    41.059351
+],
+  "geometry": {"coordinates":[-73.54207700000001,41.059351],"type":"Point"}
+}

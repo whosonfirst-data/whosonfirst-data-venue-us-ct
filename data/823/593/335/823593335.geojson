@@ -1,0 +1,77 @@
+{
+  "id": 823593335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13126,41.20158,-73.13126,41.20158",
+    "geom:latitude":41.20158,
+    "geom:longitude":-73.13126,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3017 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QOArpIxUwbNkcuZSnojbd_41.201580_-73.131260@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441730,
+    "wof:geomhash":"0464f0a34e004f86c3bfd606a40fe215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823593335
+        }
+    ],
+    "wof:id":823593335,
+    "wof:lastmodified":1466423202,
+    "wof:name":"John Kirkland MD",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.13126,
+    41.20158,
+    -73.13126,
+    41.20158
+],
+  "geometry": {"coordinates":[-73.13126,41.20158],"type":"Point"}
+}

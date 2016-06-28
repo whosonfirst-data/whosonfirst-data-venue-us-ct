@@ -1,0 +1,73 @@
+{
+  "id": 823465101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.271028,41.369383,-73.271028,41.369383",
+    "geom:latitude":41.369383,
+    "geom:longitude":-73.271028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 1522",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "charitable",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kiARacyqVuZBXvCha6j1R_41.369383_-73.271028@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438719,
+    "wof:geomhash":"ba93059f8230963705c61096c426593e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823465101
+        }
+    ],
+    "wof:id":823465101,
+    "wof:lastmodified":1466421099,
+    "wof:name":"Water For Life Corp",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charitable",
+        "institution"
+    ]
+},
+  "bbox": [
+    -73.271028,
+    41.369383,
+    -73.271028,
+    41.369383
+],
+  "geometry": {"coordinates":[-73.271028,41.369383],"type":"Point"}
+}

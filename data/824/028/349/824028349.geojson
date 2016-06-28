@@ -1,0 +1,80 @@
+{
+  "id": 824028349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.065073,41.230042,-73.065073,41.230042",
+    "geom:latitude":41.230042,
+    "geom:longitude":-73.065073,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"537 Boston Post Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 0206",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "sg:website":"www.brancas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IdABfWpg7unaNUbLmlM6O_41.230042_-73.065073@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452625,
+    "wof:geomhash":"be446f3893a189d5826baf32f87ecf01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824028349
+        }
+    ],
+    "wof:id":824028349,
+    "wof:lastmodified":1466421587,
+    "wof:name":"Branca's Auto Ctr",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -73.065073,
+    41.230042,
+    -73.065073,
+    41.230042
+],
+  "geometry": {"coordinates":[-73.065073,41.230042],"type":"Point"}
+}

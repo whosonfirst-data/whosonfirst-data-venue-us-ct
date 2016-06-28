@@ -1,0 +1,71 @@
+{
+  "id": 823597789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.463704,41.461,-72.463704,41.461",
+    "geom:latitude":41.461,
+    "geom:longitude":-72.463704,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Old E Haddam Rd",
+    "sg:city":"East Haddam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 526 2000",
+    "sg:postcode":"06423",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830917,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MjEai0oQpIMGGR1VlqfuJ_41.461000_-72.463704@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441832,
+    "wof:geomhash":"f89e6abd2fded1ac2f2d7fb00d28458c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85830917,
+            "region_id":85688629,
+            "venue_id":823597789
+        }
+    ],
+    "wof:id":823597789,
+    "wof:lastmodified":1466423327,
+    "wof:name":"Brownell Plumbing Heating LLC",
+    "wof:parent_id":85830917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.463704,
+    41.461,
+    -72.463704,
+    41.461
+],
+  "geometry": {"coordinates":[-72.46370400000001,41.461],"type":"Point"}
+}

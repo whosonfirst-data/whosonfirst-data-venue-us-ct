@@ -1,0 +1,71 @@
+{
+  "id": 823602099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.431617,41.210163,-73.431617,41.210163",
+    "geom:latitude":41.210163,
+    "geom:longitude":-73.431617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"378 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 9611",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "yard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JTclMTV0xx3ntXVuG22ol_41.210163_-73.431617@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441959,
+    "wof:geomhash":"0f6e986241a3afc0b3ad277b8136f3c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823602099
+        }
+    ],
+    "wof:id":823602099,
+    "wof:lastmodified":1466423336,
+    "wof:name":"Taylor Rental Ctr",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard"
+    ]
+},
+  "bbox": [
+    -73.431617,
+    41.210163,
+    -73.431617,
+    41.210163
+],
+  "geometry": {"coordinates":[-73.431617,41.210163],"type":"Point"}
+}

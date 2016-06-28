@@ -1,0 +1,79 @@
+{
+  "id": 824060901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.11815,41.808215,-73.11815,41.808215",
+    "geom:latitude":41.808215,
+    "geom:longitude":-73.11815,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Brook St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 482 4533",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76FbqCQBnNaBgVi5YPLAIr_41.808215_-73.118150@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453408,
+    "wof:geomhash":"367441974ff8238b8e27c4c4113df79e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":824060901
+        }
+    ],
+    "wof:id":824060901,
+    "wof:lastmodified":1466422103,
+    "wof:name":"Leifert Automotive Machine",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.11815,
+    41.808215,
+    -73.11815,
+    41.808215
+],
+  "geometry": {"coordinates":[-73.11815,41.808215],"type":"Point"}
+}

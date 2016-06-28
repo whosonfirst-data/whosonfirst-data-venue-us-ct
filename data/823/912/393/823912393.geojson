@@ -1,0 +1,66 @@
+{
+  "id": 823912393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976457,41.334377,-72.976457,41.334377",
+    "geom:latitude":41.334377,
+    "geom:longitude":-72.976457,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1471 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 387 7079",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oyQwBCuD44EdhRasyi1KP_41.334377_-72.976457@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449815,
+    "wof:geomhash":"4c8f82265e1603551b45656d1ababe68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823912393
+        }
+    ],
+    "wof:id":823912393,
+    "wof:lastmodified":1466426105,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.976457,
+    41.334377,
+    -72.976457,
+    41.334377
+],
+  "geometry": {"coordinates":[-72.976457,41.334377],"type":"Point"}
+}

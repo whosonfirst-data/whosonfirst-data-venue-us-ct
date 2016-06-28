@@ -1,0 +1,73 @@
+{
+  "id": 823730581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05629,41.223125,-73.05629,41.223125",
+    "geom:latitude":41.223125,
+    "geom:longitude":-73.05629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Daniel St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 7947",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:website":"www.stonebridgerestaurant.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VqD4PX03Uv4JeS2OPdgtM_41.223125_-73.056290@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444918,
+    "wof:geomhash":"895e772dbde21ffc98e3976014d99a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823730581
+        }
+    ],
+    "wof:id":823730581,
+    "wof:lastmodified":1466424517,
+    "wof:name":"Stonebridge Restaurant",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.05629,
+    41.223125,
+    -73.05629,
+    41.223125
+],
+  "geometry": {"coordinates":[-73.05629,41.223125],"type":"Point"}
+}

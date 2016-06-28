@@ -2,13 +2,14 @@
   "id": 404072763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.621904,41.098064,-73.621904,41.098064",
     "geom:latitude":41.098064,
     "geom:longitude":-73.621904,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 Taconic Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404072763,
-    "wof:lastmodified":1449039769,
+    "wof:lastmodified":1466421091,
     "wof:name":"Andrew's Farm Guard Booth",
     "wof:parent_id":85844811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.621904,41.098064,-73.621904,41.098064],
+  "bbox": [
+    -73.621904,
+    41.098064,
+    -73.621904,
+    41.098064
+],
   "geometry": {"coordinates":[-73.621904,41.098064],"type":"Point"}
 }

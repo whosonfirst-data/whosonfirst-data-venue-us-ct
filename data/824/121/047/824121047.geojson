@@ -1,0 +1,83 @@
+{
+  "id": 824121047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.520358,41.069127,-73.520358,41.069127",
+    "geom:latitude":41.069127,
+    "geom:longitude":-73.520358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"456 Glenbrook Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Embassy",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 9902",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "information",
+        "visa",
+        "passport",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0efNRnd89zvGC5GYGUJcrI_41.069127_-73.520358@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454784,
+    "wof:geomhash":"fef60b77e97c8e242dedcd7b2de0916c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824121047
+        }
+    ],
+    "wof:id":824121047,
+    "wof:lastmodified":1466423313,
+    "wof:name":"Passport Photo Immediate",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "visa",
+        "passport",
+        "photo"
+    ]
+},
+  "bbox": [
+    -73.520358,
+    41.069127,
+    -73.520358,
+    41.069127
+],
+  "geometry": {"coordinates":[-73.520358,41.069127],"type":"Point"}
+}

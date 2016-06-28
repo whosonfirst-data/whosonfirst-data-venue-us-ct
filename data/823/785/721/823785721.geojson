@@ -1,0 +1,71 @@
+{
+  "id": 823785721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115405,41.447046,-73.115405,41.447046",
+    "geom:latitude":41.447046,
+    "geom:longitude":-73.115405,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Greenbriar Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 0861",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Snl4ir2m7ajKgY6kpYKFV_41.447046_-73.115405@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446273,
+    "wof:geomhash":"9f4916b58894db43c68a3714a17ece58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823785721
+        }
+    ],
+    "wof:id":823785721,
+    "wof:lastmodified":1466425170,
+    "wof:name":"Instron Corp",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.115405,
+    41.447046,
+    -73.115405,
+    41.447046
+],
+  "geometry": {"coordinates":[-73.115405,41.447046],"type":"Point"}
+}

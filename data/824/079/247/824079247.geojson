@@ -1,0 +1,74 @@
+{
+  "id": 824079247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417211,41.554113,-73.417211,41.554113",
+    "geom:latitude":41.554113,
+    "geom:longitude":-73.417211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"132 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-milford/158494-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 354 5227",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HuFFdjKfdqTXPXmD1WA9i_41.554113_-73.417211@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453836,
+    "wof:geomhash":"2282de3e29c96c28aca14c4024ace571",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":824079247
+        }
+    ],
+    "wof:id":824079247,
+    "wof:lastmodified":1466422560,
+    "wof:name":"Arby's",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.417211,
+    41.554113,
+    -73.417211,
+    41.554113
+],
+  "geometry": {"coordinates":[-73.41721099999999,41.554113],"type":"Point"}
+}

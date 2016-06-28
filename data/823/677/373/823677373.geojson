@@ -1,0 +1,77 @@
+{
+  "id": 823677373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161893,41.240259,-73.161893,41.240259",
+    "geom:latitude":41.240259,
+    "geom:longitude":-73.161893,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1721 Huntington Tpke",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 0902",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dpa3odtbtUJsW5MxIw8fH_41.240259_-73.161893@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443733,
+    "wof:geomhash":"692241273e72ff5eedb2e44269e2edac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888499,
+            "region_id":85688629,
+            "venue_id":823677373
+        }
+    ],
+    "wof:id":823677373,
+    "wof:lastmodified":1466423812,
+    "wof:name":"Beacon Hill Building",
+    "wof:parent_id":85888499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.161893,
+    41.240259,
+    -73.161893,
+    41.240259
+],
+  "geometry": {"coordinates":[-73.16189300000001,41.240259],"type":"Point"}
+}

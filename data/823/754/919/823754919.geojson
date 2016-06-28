@@ -1,0 +1,75 @@
+{
+  "id": 823754919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.693954,41.861002,-72.693954,41.861002",
+    "geom:latitude":41.861002,
+    "geom:longitude":-72.693954,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Old Windsor Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 242 9409",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DijBpKTIjiKO2UHRwF4Ht_41.861002_-72.693954@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445506,
+    "wof:geomhash":"0ac348a33f654e2dd2793728bec93cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823754919
+        }
+    ],
+    "wof:id":823754919,
+    "wof:lastmodified":1466424780,
+    "wof:name":"Burhoes Automotive",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.693954,
+    41.861002,
+    -72.693954,
+    41.861002
+],
+  "geometry": {"coordinates":[-72.69395400000001,41.861002],"type":"Point"}
+}

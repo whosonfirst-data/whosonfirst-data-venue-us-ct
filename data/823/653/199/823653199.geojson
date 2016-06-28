@@ -1,0 +1,73 @@
+{
+  "id": 823653199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.437801,41.493312,-73.437801,41.493312",
+    "geom:latitude":41.493312,
+    "geom:longitude":-73.437801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Cotton Tail Ln",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 7778",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809225,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F4R9aIlMVrieDLwdZiu9L_41.493312_-73.437801@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443148,
+    "wof:geomhash":"ecfa2318c29f80c6ee35a8596cbbd70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809225,
+            "region_id":85688629,
+            "venue_id":823653199
+        }
+    ],
+    "wof:id":823653199,
+    "wof:lastmodified":1466423791,
+    "wof:name":"Victoria Wilkin Photography",
+    "wof:parent_id":85809225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -73.437801,
+    41.493312,
+    -73.437801,
+    41.493312
+],
+  "geometry": {"coordinates":[-73.43780099999999,41.493312],"type":"Point"}
+}

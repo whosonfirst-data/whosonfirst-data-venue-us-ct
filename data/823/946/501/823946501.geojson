@@ -1,0 +1,90 @@
+{
+  "id": 823946501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031372,41.209184,-73.031372,41.209184",
+    "geom:latitude":41.209184,
+    "geom:longitude":-73.031372,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 Warren St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 254 0022",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85820241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DKsRV8pzT5jztRXkyw8fZ_41.209184_-73.031372@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450702,
+    "wof:geomhash":"0b3ada02b7c4712550b6c1eab7e0f486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823946501
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823946501
+        }
+    ],
+    "wof:id":823946501,
+    "wof:lastmodified":1466426405,
+    "wof:name":"Green Giant Lawn Care",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.031372,
+    41.209184,
+    -73.031372,
+    41.209184
+],
+  "geometry": {"coordinates":[-73.031372,41.209184],"type":"Point"}
+}

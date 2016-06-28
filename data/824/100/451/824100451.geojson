@@ -1,0 +1,73 @@
+{
+  "id": 824100451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900738,41.497486,-72.900738,41.497486",
+    "geom:latitude":41.497486,
+    "geom:longitude":-72.900738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"132 Elm St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 439 7766",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931411,
+        102086923,
+        85844387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_348JoyM8wXln01ppXCgiz4_41.497486_-72.900738@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454353,
+    "wof:geomhash":"4924189436f1cd94474ffc8bb367124f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "locality_id":85931411,
+            "neighbourhood_id":85844387,
+            "region_id":85688629,
+            "venue_id":824100451
+        }
+    ],
+    "wof:id":824100451,
+    "wof:lastmodified":1466423004,
+    "wof:name":"The Alphabet Garden",
+    "wof:parent_id":85844387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -72.900738,
+    41.497486,
+    -72.900738,
+    41.497486
+],
+  "geometry": {"coordinates":[-72.900738,41.497486],"type":"Point"}
+}

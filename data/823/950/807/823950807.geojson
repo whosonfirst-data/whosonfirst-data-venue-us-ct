@@ -1,0 +1,88 @@
+{
+  "id": 823950807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.402339,41.398784,-73.402339,41.398784",
+    "geom:latitude":41.398784,
+    "geom:longitude":-73.402339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Brookview Ct",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 6605",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "installation",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P0IxEsXqfRtDr5fVSH9Tm_41.398784_-73.402339@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450795,
+    "wof:geomhash":"0b5ac1e7249c3e0246c34487d39a72a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":823950807
+        }
+    ],
+    "wof:id":823950807,
+    "wof:lastmodified":1466426466,
+    "wof:name":"Dun Rite Karpet Kleen",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "installation",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -73.402339,
+    41.398784,
+    -73.402339,
+    41.398784
+],
+  "geometry": {"coordinates":[-73.402339,41.398784],"type":"Point"}
+}

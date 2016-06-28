@@ -1,0 +1,79 @@
+{
+  "id": 823996109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0961,41.204405,-73.0961,41.204405",
+    "geom:latitude":41.204405,
+    "geom:longitude":-73.0961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"384 Bridgeport Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 7724",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85814411,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22SxaaWYit9njdEWOZ4vm7_41.204405_-73.096100@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451891,
+    "wof:geomhash":"810f4806418c4346921edfcd2b704a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85814411,
+            "region_id":85688629,
+            "venue_id":823996109
+        }
+    ],
+    "wof:id":823996109,
+    "wof:lastmodified":1466426754,
+    "wof:name":"Frank's Service & Repair",
+    "wof:parent_id":85814411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -73.0961,
+    41.204405,
+    -73.0961,
+    41.204405
+],
+  "geometry": {"coordinates":[-73.09610000000001,41.204405],"type":"Point"}
+}

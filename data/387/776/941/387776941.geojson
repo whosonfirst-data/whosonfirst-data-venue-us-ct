@@ -2,13 +2,14 @@
   "id": 387776941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.457696,41.141942,-73.457696,41.141942",
     "geom:latitude":41.141942,
     "geom:longitude":-73.457696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Betsys Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":387776941,
-    "wof:lastmodified":1449056930,
+    "wof:lastmodified":1466421106,
     "wof:name":"Stan Adler Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "relations"
     ]
 },
-  "bbox": [-73.457696,41.141942,-73.457696,41.141942],
+  "bbox": [
+    -73.457696,
+    41.141942,
+    -73.457696,
+    41.141942
+],
   "geometry": {"coordinates":[-73.457696,41.141942],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253640155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.652578,41.058379,-73.652578,41.058379",
     "geom:latitude":41.058379,
     "geom:longitude":-73.652578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14 Wildflower Trl",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":253640155,
-    "wof:lastmodified":1449064106,
+    "wof:lastmodified":1466421110,
     "wof:name":"Woodhaven Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commodity"
     ]
 },
-  "bbox": [-73.652578,41.058379,-73.652578,41.058379],
-  "geometry": {"coordinates":[-73.652578,41.058379],"type":"Point"}
+  "bbox": [
+    -73.652578,
+    41.058379,
+    -73.652578,
+    41.058379
+],
+  "geometry": {"coordinates":[-73.65257800000001,41.058379],"type":"Point"}
 }

@@ -1,0 +1,73 @@
+{
+  "id": 823813707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.908005,41.923213,-71.908005,41.923213",
+    "geom:latitude":41.923213,
+    "geom:longitude":-71.908005,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"148 Providence St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QR5PKCNYbzANZ5hxYHH1u_41.923213_-71.908005@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447112,
+    "wof:geomhash":"b6e12e129cca67bac494a3fee191bcc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823813707
+        }
+    ],
+    "wof:id":823813707,
+    "wof:lastmodified":1466425276,
+    "wof:name":"Great American Cinema Putnam",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -71.908005,
+    41.923213,
+    -71.908005,
+    41.923213
+],
+  "geometry": {"coordinates":[-71.908005,41.923213],"type":"Point"}
+}

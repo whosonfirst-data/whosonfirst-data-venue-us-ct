@@ -1,0 +1,71 @@
+{
+  "id": 823974277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.070911,41.388528,-73.070911,41.388528",
+    "geom:latitude":41.388528,
+    "geom:longitude":-73.070911,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"56 Pearl St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 3211",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37DAeWyl3gjtSuStKzR1bD_41.388528_-73.070911@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451340,
+    "wof:geomhash":"a881ca3258ee343b3572b62462a7c3c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823974277
+        }
+    ],
+    "wof:id":823974277,
+    "wof:lastmodified":1466426452,
+    "wof:name":"Elm Food Catering By Tom",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -73.070911,
+    41.388528,
+    -73.070911,
+    41.388528
+],
+  "geometry": {"coordinates":[-73.070911,41.388528],"type":"Point"}
+}

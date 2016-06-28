@@ -1,0 +1,90 @@
+{
+  "id": 824089705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.558628,41.805127,-72.558628,41.805127",
+    "geom:latitude":41.805127,
+    "geom:longitude":-72.558628,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1540 Pleasant Valley Rd Ste A",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 9025",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uWx3YxUtUZkDr3dr8fxwM_41.805127_-72.558628@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454083,
+    "wof:geomhash":"620c585d9fca964a2d8249e078719c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":824089705
+        }
+    ],
+    "wof:id":824089705,
+    "wof:lastmodified":1466422892,
+    "wof:name":"Between Rounds Bakery Sandwich Cafe",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -72.558628,
+    41.805127,
+    -72.558628,
+    41.805127
+],
+  "geometry": {"coordinates":[-72.558628,41.805127],"type":"Point"}
+}

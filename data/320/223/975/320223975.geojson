@@ -2,13 +2,14 @@
   "id": 320223975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.463045,41.159639,-73.463045,41.159639",
     "geom:latitude":41.159639,
     "geom:longitude":-73.463045,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"553 Silvermine Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320223975,
-    "wof:lastmodified":1449011503,
+    "wof:lastmodified":1466421094,
     "wof:name":"Milan J Turk & Associates LLC",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-73.463045,41.159639,-73.463045,41.159639],
-  "geometry": {"coordinates":[-73.463045,41.159639],"type":"Point"}
+  "bbox": [
+    -73.463045,
+    41.159639,
+    -73.463045,
+    41.159639
+],
+  "geometry": {"coordinates":[-73.46304499999999,41.159639],"type":"Point"}
 }

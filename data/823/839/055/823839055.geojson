@@ -1,0 +1,73 @@
+{
+  "id": 823839055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.577039,41.614594,-72.577039,41.614594",
+    "geom:latitude":41.614594,
+    "geom:longitude":-72.577039,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"332 Old Marlborough Tpke",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 342 2139",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819713,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CWvVMOh2Hpi3ENuOKoSal_41.614594_-72.577039@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447913,
+    "wof:geomhash":"76ef1b980766caccd511bbc4c7a52031",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85819713,
+            "region_id":85688629,
+            "venue_id":823839055
+        }
+    ],
+    "wof:id":823839055,
+    "wof:lastmodified":1466425596,
+    "wof:name":"Current Electric Inc",
+    "wof:parent_id":85819713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.577039,
+    41.614594,
+    -72.577039,
+    41.614594
+],
+  "geometry": {"coordinates":[-72.577039,41.614594],"type":"Point"}
+}

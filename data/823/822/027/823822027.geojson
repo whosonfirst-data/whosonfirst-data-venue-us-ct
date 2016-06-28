@@ -1,0 +1,71 @@
+{
+  "id": 823822027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199594,41.746143,-73.199594,41.746143",
+    "geom:latitude":41.746143,
+    "geom:longitude":-73.199594,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"258 West St",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 567 0147",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NiIaGFoOr5jbazrOx9dfa_41.746143_-73.199594@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447350,
+    "wof:geomhash":"c4ef782c9a3fbc988ecc179be101ba3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":823822027
+        }
+    ],
+    "wof:id":823822027,
+    "wof:lastmodified":1466425239,
+    "wof:name":"Litchfield Fire Company Inc",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.199594,
+    41.746143,
+    -73.199594,
+    41.746143
+],
+  "geometry": {"coordinates":[-73.199594,41.746143],"type":"Point"}
+}

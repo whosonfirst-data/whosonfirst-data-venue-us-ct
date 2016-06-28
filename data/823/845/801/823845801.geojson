@@ -1,0 +1,73 @@
+{
+  "id": 823845801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.990314,41.35439,-72.990314,41.35439",
+    "geom:latitude":41.35439,
+    "geom:longitude":-72.990314,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"388 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 6684",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2quWVElripsRAJfV5oFhJ0_41.354390_-72.990314@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448095,
+    "wof:geomhash":"abbcb36ddd592ca7a61ec67d25dec7f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823845801
+        }
+    ],
+    "wof:id":823845801,
+    "wof:lastmodified":1466425574,
+    "wof:name":"Dennis Photographer Martens",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -72.990314,
+    41.35439,
+    -72.990314,
+    41.35439
+],
+  "geometry": {"coordinates":[-72.990314,41.35439],"type":"Point"}
+}

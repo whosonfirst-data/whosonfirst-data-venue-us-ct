@@ -1,0 +1,79 @@
+{
+  "id": 823686891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962091,41.554767,-72.962091,41.554767",
+    "geom:latitude":41.554767,
+    "geom:longitude":-72.962091,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1621 Meriden Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 3335",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816299,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mJS7fUrVk3cIp3KseOiEm_41.554767_-72.962091@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443949,
+    "wof:geomhash":"f2e6823c90a1c65c49723b2ec401c05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85816299,
+            "region_id":85688629,
+            "venue_id":823686891
+        }
+    ],
+    "wof:id":823686891,
+    "wof:lastmodified":1466424132,
+    "wof:name":"Vito's Pizzeria",
+    "wof:parent_id":85816299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.962091,
+    41.554767,
+    -72.962091,
+    41.554767
+],
+  "geometry": {"coordinates":[-72.962091,41.554767],"type":"Point"}
+}

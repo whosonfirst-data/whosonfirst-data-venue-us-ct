@@ -1,0 +1,73 @@
+{
+  "id": 823609025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255528,41.347808,-73.255528,41.347808",
+    "geom:latitude":41.347808,
+    "geom:longitude":-73.255528,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"551 Pepper St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 3377",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27GvA9uZmcVVuelfZ2QZir_41.347808_-73.255528@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442110,
+    "wof:geomhash":"fdce7e2bb8a08ae2f854d08f85a4f914",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823609025
+        }
+    ],
+    "wof:id":823609025,
+    "wof:lastmodified":1466423416,
+    "wof:name":"Pepper Street Park Self Strg",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.255528,
+    41.347808,
+    -73.255528,
+    41.347808
+],
+  "geometry": {"coordinates":[-73.255528,41.347808],"type":"Point"}
+}

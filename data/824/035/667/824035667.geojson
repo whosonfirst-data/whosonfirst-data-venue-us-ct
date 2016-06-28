@@ -1,0 +1,73 @@
+{
+  "id": 824035667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.570076,41.976864,-72.570076,41.976864",
+    "geom:latitude":41.976864,
+    "geom:longitude":-72.570076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"138 South Rd",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2maArpvGGboj9xKD36TKUi_41.976864_-72.570076@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452803,
+    "wof:geomhash":"386fb75bf1d8838a7840dc8b196d70a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824035667
+        }
+    ],
+    "wof:id":824035667,
+    "wof:lastmodified":1466421815,
+    "wof:name":"Ryder",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.570076,
+    41.976864,
+    -72.570076,
+    41.976864
+],
+  "geometry": {"coordinates":[-72.570076,41.976864],"type":"Point"}
+}

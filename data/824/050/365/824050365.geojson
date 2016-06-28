@@ -1,0 +1,81 @@
+{
+  "id": 824050365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085004,41.523762,-73.085004,41.523762",
+    "geom:latitude":41.523762,
+    "geom:longitude":-73.085004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Whittemore Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 758 1077",
+    "sg:postcode":"06762",
+    "sg:province":"CT",
+    "sg:tags":[
+        "installs",
+        "burner",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807003,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TUWt4LdUBNA9CGlFw85VM_41.523762_-73.085004@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453177,
+    "wof:geomhash":"a8ae45c90982e6080794c1dc7f13e7b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85807003,
+            "region_id":85688629,
+            "venue_id":824050365
+        }
+    ],
+    "wof:id":824050365,
+    "wof:lastmodified":1466421817,
+    "wof:name":"Connecticut Combustion Corp",
+    "wof:parent_id":85807003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installs",
+        "burner",
+        "boiler"
+    ]
+},
+  "bbox": [
+    -73.085004,
+    41.523762,
+    -73.085004,
+    41.523762
+],
+  "geometry": {"coordinates":[-73.085004,41.523762],"type":"Point"}
+}

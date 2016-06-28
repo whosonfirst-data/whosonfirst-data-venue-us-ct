@@ -1,0 +1,71 @@
+{
+  "id": 823600401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593585,41.840919,-72.593585,41.840919",
+    "geom:latitude":41.840919,
+    "geom:longitude":-72.593585,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"374 Strong Rd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85818997,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E62mzWCVVqDr2IZtzsGPb_41.840919_-72.593585@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441907,
+    "wof:geomhash":"c6a01fa3e99de6d8b8439eac91e0c38e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85818997,
+            "region_id":85688629,
+            "venue_id":823600401
+        }
+    ],
+    "wof:id":823600401,
+    "wof:lastmodified":1466423293,
+    "wof:name":"Guys Electric Service Inc",
+    "wof:parent_id":85818997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.593585,
+    41.840919,
+    -72.593585,
+    41.840919
+],
+  "geometry": {"coordinates":[-72.593585,41.840919],"type":"Point"}
+}

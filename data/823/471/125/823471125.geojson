@@ -1,0 +1,75 @@
+{
+  "id": 823471125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.195993,41.322775,-72.195993,41.322775",
+    "geom:latitude":41.322775,
+    "geom:longitude":-72.195993,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"316 Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 4455",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gUxKh3wpLZrkwKCGMG38X_41.322775_-72.195993@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438857,
+    "wof:geomhash":"e49fcb26cf2b6b207c9b74fe2cfe5b4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":823471125
+        }
+    ],
+    "wof:id":823471125,
+    "wof:lastmodified":1466421238,
+    "wof:name":"Rachel Thomas Properties",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.195993,
+    41.322775,
+    -72.195993,
+    41.322775
+],
+  "geometry": {"coordinates":[-72.195993,41.322775],"type":"Point"}
+}

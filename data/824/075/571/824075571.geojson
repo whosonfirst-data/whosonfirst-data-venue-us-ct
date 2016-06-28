@@ -1,0 +1,82 @@
+{
+  "id": 824075571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.075513,41.376546,-72.075513,41.376546",
+    "geom:latitude":41.376546,
+    "geom:longitude":-72.075513,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"403 Pleasant Valley Rd S",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/groton/83131-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 449 9135",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14i3UXFj0GNWGwP8d2Fr40_41.376546_-72.075513@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453752,
+    "wof:geomhash":"923babee3ac5e08e3d5530bff5235733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":824075571
+        }
+    ],
+    "wof:id":824075571,
+    "wof:lastmodified":1466422596,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.075513,
+    41.376546,
+    -72.075513,
+    41.376546
+],
+  "geometry": {"coordinates":[-72.075513,41.376546],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 824073843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.561023,41.845882,-72.561023,41.845882",
+    "geom:latitude":41.845882,
+    "geom:longitude":-72.561023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1006 Sullivan Ave",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/south-windsor/144025-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 9373",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85818997,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eNrH1bqlPxKaisfvHK3HF_41.845882_-72.561023@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453716,
+    "wof:geomhash":"48eb7cf3879386f55c604e761b5c2867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85818997,
+            "region_id":85688629,
+            "venue_id":824073843
+        }
+    ],
+    "wof:id":824073843,
+    "wof:lastmodified":1466422452,
+    "wof:name":"Subway",
+    "wof:parent_id":85818997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.561023,
+    41.845882,
+    -72.561023,
+    41.845882
+],
+  "geometry": {"coordinates":[-72.56102300000001,41.845882],"type":"Point"}
+}

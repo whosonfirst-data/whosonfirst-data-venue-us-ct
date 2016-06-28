@@ -1,0 +1,73 @@
+{
+  "id": 823821965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.576933,41.778302,-72.576933,41.778302",
+    "geom:latitude":41.778302,
+    "geom:longitude":-72.576933,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"114 Downey Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 4503",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14jm0wHkOXqvNyTgDn4qpu_41.778302_-72.576933@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447348,
+    "wof:geomhash":"44f59e6c19f040bb85dd12c653381a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823821965
+        }
+    ],
+    "wof:id":823821965,
+    "wof:lastmodified":1466425344,
+    "wof:name":"Cornerstone Est Properties LLC",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.576933,
+    41.778302,
+    -72.576933,
+    41.778302
+],
+  "geometry": {"coordinates":[-72.576933,41.778302],"type":"Point"}
+}

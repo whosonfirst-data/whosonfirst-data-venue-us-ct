@@ -1,0 +1,73 @@
+{
+  "id": 823714349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.551822,41.860251,-72.551822,41.860251",
+    "geom:latitude":41.860251,
+    "geom:longitude":-72.551822,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Graham Rd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 5487",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85818997,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zK4wKazPY9JJSGzBZhjVQ_41.860251_-72.551822@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444535,
+    "wof:geomhash":"5cbedbb5ca1259c71cdc56b6341046fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85818997,
+            "region_id":85688629,
+            "venue_id":823714349
+        }
+    ],
+    "wof:id":823714349,
+    "wof:lastmodified":1466424341,
+    "wof:name":"Giroux Electric",
+    "wof:parent_id":85818997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.551822,
+    41.860251,
+    -72.551822,
+    41.860251
+],
+  "geometry": {"coordinates":[-72.551822,41.860251],"type":"Point"}
+}

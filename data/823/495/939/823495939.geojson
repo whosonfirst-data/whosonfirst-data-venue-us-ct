@@ -1,0 +1,71 @@
+{
+  "id": 823495939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.406268,41.350548,-73.406268,41.350548",
+    "geom:latitude":41.350548,
+    "geom:longitude":-73.406268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Long Meadow Ln",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j01uPX458JcupI1MP3aEZ_41.350548_-73.406268@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439454,
+    "wof:geomhash":"89b18996ebf32aafc98a49a774fab77d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823495939
+        }
+    ],
+    "wof:id":823495939,
+    "wof:lastmodified":1466421716,
+    "wof:name":"Pediatric Home Care LLP",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.406268,
+    41.350548,
+    -73.406268,
+    41.350548
+],
+  "geometry": {"coordinates":[-73.406268,41.350548],"type":"Point"}
+}

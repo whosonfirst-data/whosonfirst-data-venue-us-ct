@@ -1,0 +1,73 @@
+{
+  "id": 823983253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.476693,41.278931,-73.476693,41.278931",
+    "geom:latitude":41.278931,
+    "geom:longitude":-73.476693,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Florida Hill Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 431 8325",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "architect",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d41pwvnbFruAO7TEejdi4_41.278931_-73.476693@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451569,
+    "wof:geomhash":"11ed20e8b10247bad8bcd8c4c4729985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823983253
+        }
+    ],
+    "wof:id":823983253,
+    "wof:lastmodified":1466426822,
+    "wof:name":"Environmental Design Assoc",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architect",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.476693,
+    41.278931,
+    -73.476693,
+    41.278931
+],
+  "geometry": {"coordinates":[-73.476693,41.278931],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824103163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.456741,41.629822,-72.456741,41.629822",
+    "geom:latitude":41.629822,
+    "geom:longitude":-72.456741,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 S Main St",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 715 4291",
+    "sg:postcode":"06447",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "laboratories-veterinary"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9356955%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865197,
+        102191575,
+        404495987,
+        85633793,
+        85931033,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l5ARJjPC0E7SHOYpR4LGh_41.629822_-72.456741@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454407,
+    "wof:geomhash":"a76e418977fd17eaff7b513f7e283248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495987,
+            "locality_id":85931033,
+            "neighbourhood_id":85865197,
+            "region_id":85688629,
+            "venue_id":824103163
+        }
+    ],
+    "wof:id":824103163,
+    "wof:lastmodified":1466423030,
+    "wof:name":"Marlborough Bird & Animal Hospital",
+    "wof:parent_id":85865197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "laboratories-veterinary"
+    ]
+},
+  "bbox": [
+    -72.456741,
+    41.629822,
+    -72.456741,
+    41.629822
+],
+  "geometry": {"coordinates":[-72.45674099999999,41.629822],"type":"Point"}
+}

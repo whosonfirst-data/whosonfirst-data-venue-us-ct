@@ -1,0 +1,78 @@
+{
+  "id": 824078607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.948512,41.294957,-72.948512,41.294957",
+    "geom:latitude":41.294957,
+    "geom:longitude":-72.948512,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"201 Terminal Ln",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-haven/48205-brazis-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 498 2488",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879183,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SeUDnWlA4UsUSaYxyf9Td_41.294957_-72.948512@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453823,
+    "wof:geomhash":"b376bf5f4138855a44a7c95053dcf584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85879183,
+            "region_id":85688629,
+            "venue_id":824078607
+        }
+    ],
+    "wof:id":824078607,
+    "wof:lastmodified":1466422596,
+    "wof:name":"Brazi's Italian Restaurant",
+    "wof:parent_id":85879183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -72.948512,
+    41.294957,
+    -72.948512,
+    41.294957
+],
+  "geometry": {"coordinates":[-72.94851199999999,41.294957],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823594267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.146515,41.296188,-73.146515,41.296188",
+    "geom:latitude":41.296188,
+    "geom:longitude":-73.146515,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Huntington St",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 8322",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T7DNxGOL4GqD2pbop2II1_41.296188_-73.146515@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441746,
+    "wof:geomhash":"5555589db8298475bff7269e33abf4b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823594267
+        }
+    ],
+    "wof:id":823594267,
+    "wof:lastmodified":1466423242,
+    "wof:name":"Pediatric Health Care Assoc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.146515,
+    41.296188,
+    -73.146515,
+    41.296188
+],
+  "geometry": {"coordinates":[-73.14651499999999,41.296188],"type":"Point"}
+}

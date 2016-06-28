@@ -1,0 +1,85 @@
+{
+  "id": 823581825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.825076,41.541233,-72.825076,41.541233",
+    "geom:latitude":41.541233,
+    "geom:longitude":-72.825076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"652 W Main St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 238 4345",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "oil",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78YV3Tc1316wvc8YItYgMs_41.541233_-72.825076@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441464,
+    "wof:geomhash":"1d84a16ea54c67937968de4a23b79e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":823581825
+        }
+    ],
+    "wof:id":823581825,
+    "wof:lastmodified":1466423039,
+    "wof:name":"Boucher's Service Station",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "oil",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.825076,
+    41.541233,
+    -72.825076,
+    41.541233
+],
+  "geometry": {"coordinates":[-72.825076,41.541233],"type":"Point"}
+}

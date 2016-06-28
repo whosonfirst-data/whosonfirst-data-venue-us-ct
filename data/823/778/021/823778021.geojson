@@ -1,0 +1,66 @@
+{
+  "id": 823778021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.125109,41.670728,-73.125109,41.670728",
+    "geom:latitude":41.670728,
+    "geom:longitude":-73.125109,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1101 Hickory Hill Rd",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 1889",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G9wZZT3pdYsKvtmQfI0HS_41.670728_-73.125109@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446037,
+    "wof:geomhash":"1c89d8eea194c59e6d220609c988f171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823778021
+        }
+    ],
+    "wof:id":823778021,
+    "wof:lastmodified":1466424894,
+    "wof:name":"On Golden Paws LLC",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.125109,
+    41.670728,
+    -73.125109,
+    41.670728
+],
+  "geometry": {"coordinates":[-73.12510899999999,41.670728],"type":"Point"}
+}

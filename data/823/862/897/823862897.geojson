@@ -1,0 +1,71 @@
+{
+  "id": 823862897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416962,41.557647,-73.416962,41.557647",
+    "geom:latitude":41.557647,
+    "geom:longitude":-73.416962,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"107 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZXQbAjbYwPqMo10QDF8hS_41.557647_-73.416962@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448570,
+    "wof:geomhash":"138d1e238a214d32928f933d37e27d0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":823862897
+        }
+    ],
+    "wof:id":823862897,
+    "wof:lastmodified":1466425704,
+    "wof:name":"New Milford Car Wash Inc",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -73.416962,
+    41.557647,
+    -73.416962,
+    41.557647
+],
+  "geometry": {"coordinates":[-73.416962,41.557647],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823843357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.402716,41.123405,-73.402716,41.123405",
+    "geom:latitude":41.123405,
+    "geom:longitude":-73.402716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Dry Hill Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 3940",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879317,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wMc4rwi3r0YXzEAIReUZu_41.123405_-73.402716@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448036,
+    "wof:geomhash":"044bfbf519a7227764ce64124751bdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":823843357
+        }
+    ],
+    "wof:id":823843357,
+    "wof:lastmodified":1466425404,
+    "wof:name":"Tatto's Sewer & Drain Cleaning",
+    "wof:parent_id":85879317,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -73.402716,
+    41.123405,
+    -73.402716,
+    41.123405
+],
+  "geometry": {"coordinates":[-73.402716,41.123405],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823801937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245014,41.303961,-73.245014,41.303961",
+    "geom:latitude":41.303961,
+    "geom:longitude":-73.245014,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"447 Purdy Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 0103",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75DNPtlte8vhZP8yMj80ix_41.303961_-73.245014@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446756,
+    "wof:geomhash":"5ddd8dbd84e8aa7e3552031daee0b273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823801937
+        }
+    ],
+    "wof:id":823801937,
+    "wof:lastmodified":1466425220,
+    "wof:name":"Laidlaw Transit Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -73.245014,
+    41.303961,
+    -73.245014,
+    41.303961
+],
+  "geometry": {"coordinates":[-73.245014,41.303961],"type":"Point"}
+}

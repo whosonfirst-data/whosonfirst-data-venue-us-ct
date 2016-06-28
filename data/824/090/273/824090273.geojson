@@ -1,0 +1,101 @@
+{
+  "id": 824090273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.858468,41.67254,-72.858468,41.67254",
+    "geom:latitude":41.67254,
+    "geom:longitude":-72.858468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Woodford Ave",
+    "sg:city":"Plainville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 747 7111",
+    "sg:postcode":"06062",
+    "sg:province":"CT",
+    "sg:tags":[
+        "major",
+        "electric",
+        "supply",
+        "consumer",
+        "appliances-small",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.geconsumerandindustrial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tsMhBVwbKkLKt0O2CM9g8_41.672540_-72.858468@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454093,
+    "wof:geomhash":"000445e8cac997688932267eff6570de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824090273
+        }
+    ],
+    "wof:id":824090273,
+    "wof:lastmodified":1466422832,
+    "wof:name":"General Electric Co.",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "electric",
+        "supply",
+        "consumer",
+        "appliances-small",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.858468,
+    41.67254,
+    -72.858468,
+    41.67254
+],
+  "geometry": {"coordinates":[-72.858468,41.67254],"type":"Point"}
+}

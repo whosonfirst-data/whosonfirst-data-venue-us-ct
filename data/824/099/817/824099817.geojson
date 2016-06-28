@@ -1,0 +1,88 @@
+{
+  "id": 824099817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.83326,41.377178,-71.83326,41.377178",
+    "geom:latitude":41.377178,
+    "geom:longitude":-71.83326,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Mechanic St",
+    "sg:city":"Pawcatuck",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 599 2034",
+    "sg:postcode":"06379",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grill",
+        "american",
+        "tavern"
+    ],
+    "sg:website":"http://www.ccobriens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720625,
+        102081219,
+        85851065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d0J9ikkKI2dfPpqYVQ7Km_41.377178_-71.833260@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454337,
+    "wof:geomhash":"43374ea37c78aad3960c1bae8ebb29db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720625,
+            "neighbourhood_id":85851065,
+            "region_id":85688509,
+            "venue_id":824099817
+        }
+    ],
+    "wof:id":824099817,
+    "wof:lastmodified":1466423020,
+    "wof:name":"CC O'Brien's",
+    "wof:parent_id":85851065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "american",
+        "tavern"
+    ]
+},
+  "bbox": [
+    -71.83326,
+    41.377178,
+    -71.83326,
+    41.377178
+],
+  "geometry": {"coordinates":[-71.83326,41.377178],"type":"Point"}
+}

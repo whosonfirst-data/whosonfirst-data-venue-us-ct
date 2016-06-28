@@ -1,0 +1,71 @@
+{
+  "id": 823924051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206045,41.531019,-73.206045,41.531019",
+    "geom:latitude":41.531019,
+    "geom:longitude":-73.206045,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 S Pomperaug Ave",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tRYec2KaSEhAq9B2taJHz_41.531019_-73.206045@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450102,
+    "wof:geomhash":"038c6c8d419307d1db7021cf471ef869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823924051
+        }
+    ],
+    "wof:id":823924051,
+    "wof:lastmodified":1466426186,
+    "wof:name":"Andrea Needleman MD",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.206045,
+    41.531019,
+    -73.206045,
+    41.531019
+],
+  "geometry": {"coordinates":[-73.206045,41.531019],"type":"Point"}
+}

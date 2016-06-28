@@ -1,0 +1,73 @@
+{
+  "id": 823561391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.644762,41.872708,-72.644762,41.872708",
+    "geom:latitude":41.872708,
+    "geom:longitude":-72.644762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Ravine Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 688 9665",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LgLtnNuTPkqtcE60byWJM_41.872708_-72.644762@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440974,
+    "wof:geomhash":"aae45de9b9a0fbe85f2c1877e7280d76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":823561391
+        }
+    ],
+    "wof:id":823561391,
+    "wof:lastmodified":1466422974,
+    "wof:name":"John M Lamenzo",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.644762,
+    41.872708,
+    -72.644762,
+    41.872708
+],
+  "geometry": {"coordinates":[-72.644762,41.872708],"type":"Point"}
+}

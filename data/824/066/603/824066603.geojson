@@ -1,0 +1,71 @@
+{
+  "id": 824066603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.845263,41.997909,-71.845263,41.997909",
+    "geom:latitude":41.997909,
+    "geom:longitude":-71.845263,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1088 Thompson Rd",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06277",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843329,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SzE89E1LqsKVvQ0H3wbcA_41.997909_-71.845263@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453537,
+    "wof:geomhash":"36e3f0744c6245cb415e968acddd5b02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85843329,
+            "region_id":85688629,
+            "venue_id":824066603
+        }
+    ],
+    "wof:id":824066603,
+    "wof:lastmodified":1466422375,
+    "wof:name":"Property Maintenence",
+    "wof:parent_id":85843329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -71.845263,
+    41.997909,
+    -71.845263,
+    41.997909
+],
+  "geometry": {"coordinates":[-71.845263,41.997909],"type":"Point"}
+}

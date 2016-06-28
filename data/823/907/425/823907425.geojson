@@ -1,0 +1,71 @@
+{
+  "id": 823907425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.302244,41.276611,-73.302244,41.276611",
+    "geom:latitude":41.276611,
+    "geom:longitude":-73.302244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Silver Hill Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 7577",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0avQ74YxdPH4PGI7UnbWaa_41.276611_-73.302244@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449656,
+    "wof:geomhash":"5bf085cc35f881ecf5f60ac5db02b7a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823907425
+        }
+    ],
+    "wof:id":823907425,
+    "wof:lastmodified":1466426069,
+    "wof:name":"Ciop Upholstery",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -73.302244,
+    41.276611,
+    -73.302244,
+    41.276611
+],
+  "geometry": {"coordinates":[-73.302244,41.276611],"type":"Point"}
+}

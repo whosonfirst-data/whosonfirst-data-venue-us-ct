@@ -1,0 +1,90 @@
+{
+  "id": 823958107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.703131,41.687639,-72.703131,41.687639",
+    "geom:latitude":41.687639,
+    "geom:longitude":-72.703131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Back Ln",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sewer",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HaUbpwLcMsTWFuUmHnaxO_41.687639_-72.703131@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450976,
+    "wof:geomhash":"b53d01720be9db76e68120dea285a7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823958107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823958107
+        }
+    ],
+    "wof:id":823958107,
+    "wof:lastmodified":1466426471,
+    "wof:name":"Drain Rite",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -72.703131,
+    41.687639,
+    -72.703131,
+    41.687639
+],
+  "geometry": {"coordinates":[-72.703131,41.687639],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823851689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.945535,41.277885,-72.945535,41.277885",
+    "geom:latitude":41.277885,
+    "geom:longitude":-72.945535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Elm St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 937 6521",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EMsCmwy1R2sPrfGeIsZzZ_41.277885_-72.945535@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448265,
+    "wof:geomhash":"03a05490967dbe0180d9a6eb48eabf73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823851689
+        }
+    ],
+    "wof:id":823851689,
+    "wof:lastmodified":1466425624,
+    "wof:name":"Elm Cafe",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.945535,
+    41.277885,
+    -72.945535,
+    41.277885
+],
+  "geometry": {"coordinates":[-72.94553500000001,41.277885],"type":"Point"}
+}

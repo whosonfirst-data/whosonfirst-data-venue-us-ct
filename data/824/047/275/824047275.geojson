@@ -1,0 +1,75 @@
+{
+  "id": 824047275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214158,41.735872,-73.214158,41.735872",
+    "geom:latitude":41.735872,
+    "geom:longitude":-73.214158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Harris Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 567 9588",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aId03eIaJeCm6RbQJZt9p_41.735872_-73.214158@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453087,
+    "wof:geomhash":"d60e43c03b5f9b2d0856891ce714f10b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":824047275
+        }
+    ],
+    "wof:id":824047275,
+    "wof:lastmodified":1466421912,
+    "wof:name":"Litchfield County Electric",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.214158,
+    41.735872,
+    -73.214158,
+    41.735872
+],
+  "geometry": {"coordinates":[-73.214158,41.735872],"type":"Point"}
+}

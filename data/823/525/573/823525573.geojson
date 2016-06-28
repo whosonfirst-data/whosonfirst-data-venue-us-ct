@@ -1,0 +1,71 @@
+{
+  "id": 823525573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.437001,41.582695,-73.437001,41.582695",
+    "geom:latitude":41.582695,
+    "geom:longitude":-73.437001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"219 Kent Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y4ITlKSm7tst8ltPjdCDb_41.582695_-73.437001@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440151,
+    "wof:geomhash":"b79ca08bb52827c0de2e5473ea635bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823525573
+        }
+    ],
+    "wof:id":823525573,
+    "wof:lastmodified":1466422328,
+    "wof:name":"Marc D Legris MD",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.437001,
+    41.582695,
+    -73.437001,
+    41.582695
+],
+  "geometry": {"coordinates":[-73.437001,41.582695],"type":"Point"}
+}

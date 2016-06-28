@@ -1,0 +1,84 @@
+{
+  "id": 823708429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.931835,41.35042,-72.931835,41.35042",
+    "geom:latitude":41.35042,
+    "geom:longitude":-72.931835,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1350 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 0055",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KHOhaYtgCr5ReFdjzVmeN_41.350420_-72.931835@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444413,
+    "wof:geomhash":"6e37b65ca250534088d67909f1c4797b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823708429
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823708429
+        }
+    ],
+    "wof:id":823708429,
+    "wof:lastmodified":1466424300,
+    "wof:name":"Mug Shotz Cafe LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -72.931835,
+    41.35042,
+    -72.931835,
+    41.35042
+],
+  "geometry": {"coordinates":[-72.93183500000001,41.35042],"type":"Point"}
+}

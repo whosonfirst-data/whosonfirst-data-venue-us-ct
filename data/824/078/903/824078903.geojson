@@ -1,0 +1,80 @@
+{
+  "id": 824078903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136386,41.191809,-73.136386,41.191809",
+    "geom:latitude":41.191809,
+    "geom:longitude":-73.136386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 W Broad St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stratford/279283-acropolis-pizza-family-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 4683",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KFBj8b6ecq6Eu9Mxf1uw0_41.191809_-73.136386@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453829,
+    "wof:geomhash":"e11a1e770ba5432e08fcd45547487ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":824078903
+        }
+    ],
+    "wof:id":824078903,
+    "wof:lastmodified":1466422622,
+    "wof:name":"Acropolis Pizza Family Restaurant",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.136386,
+    41.191809,
+    -73.136386,
+    41.191809
+],
+  "geometry": {"coordinates":[-73.136386,41.191809],"type":"Point"}
+}

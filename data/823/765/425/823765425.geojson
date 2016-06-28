@@ -1,0 +1,94 @@
+{
+  "id": 823765425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74644,41.687848,-72.74644,41.687848",
+    "geom:latitude":41.687848,
+    "geom:longitude":-72.74644,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Locust Dr",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 8760",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mHN87ZH8LGHNu5vWp3qvc_41.687848_-72.746440@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445725,
+    "wof:geomhash":"8aacb86a8bbbe6492d9c16c4cc5d2252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823765425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823765425
+        }
+    ],
+    "wof:id":823765425,
+    "wof:lastmodified":1466424828,
+    "wof:name":"Bl T Plumbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.74644,
+    41.687848,
+    -72.74644,
+    41.687848
+],
+  "geometry": {"coordinates":[-72.74644000000001,41.687848],"type":"Point"}
+}

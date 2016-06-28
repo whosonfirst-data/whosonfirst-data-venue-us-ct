@@ -2,13 +2,14 @@
   "id": 270271847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618196,41.100595,-73.618196,41.100595",
     "geom:latitude":41.100595,
     "geom:longitude":-73.618196,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Skyridge Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270271847,
-    "wof:lastmodified":1449009924,
+    "wof:lastmodified":1466421099,
     "wof:name":"Flying Colors Interiors",
     "wof:parent_id":85844811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.618196,41.100595,-73.618196,41.100595],
+  "bbox": [
+    -73.618196,
+    41.100595,
+    -73.618196,
+    41.100595
+],
   "geometry": {"coordinates":[-73.618196,41.100595],"type":"Point"}
 }

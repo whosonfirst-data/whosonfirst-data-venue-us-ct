@@ -1,0 +1,73 @@
+{
+  "id": 824119409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.462503,41.204452,-73.462503,41.204452",
+    "geom:latitude":41.204452,
+    "geom:longitude":-73.462503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"132 Signal Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 563 9830",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838173,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e7ylSj0whstBkweCBBzUN_41.204452_-73.462503@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454754,
+    "wof:geomhash":"091f98c80f4cab163934e3579d25ba48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85838173,
+            "region_id":85688629,
+            "venue_id":824119409
+        }
+    ],
+    "wof:id":824119409,
+    "wof:lastmodified":1466423286,
+    "wof:name":"S & G Painting",
+    "wof:parent_id":85838173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.462503,
+    41.204452,
+    -73.462503,
+    41.204452
+],
+  "geometry": {"coordinates":[-73.462503,41.204452],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823688233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.058842,41.332671,-73.058842,41.332671",
+    "geom:latitude":41.332671,
+    "geom:longitude":-73.058842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 Finney St",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 2393",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.ansonia.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kwCwE8Rt77bFt30VvjDEh_41.332671_-73.058842@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443976,
+    "wof:geomhash":"3f2902642c6c645075ae9e9ce983a7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823688233
+        }
+    ],
+    "wof:id":823688233,
+    "wof:lastmodified":1466424081,
+    "wof:name":"YMCA Prendergast School",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.058842,
+    41.332671,
+    -73.058842,
+    41.332671
+],
+  "geometry": {"coordinates":[-73.058842,41.332671],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 371177371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.476832,41.137464,-73.476832,41.137464",
     "geom:latitude":41.137464,
     "geom:longitude":-73.476832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"45 Holly Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":371177371,
-    "wof:lastmodified":1449050138,
+    "wof:lastmodified":1466421140,
     "wof:name":"Close Out Consultants",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.476832,41.137464,-73.476832,41.137464],
+  "bbox": [
+    -73.476832,
+    41.137464,
+    -73.476832,
+    41.137464
+],
   "geometry": {"coordinates":[-73.476832,41.137464],"type":"Point"}
 }

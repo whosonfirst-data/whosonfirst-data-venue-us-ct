@@ -1,0 +1,83 @@
+{
+  "id": 823962847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199124,41.169212,-73.199124,41.169212",
+    "geom:latitude":41.169212,
+    "geom:longitude":-73.199124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"184 Garden St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential",
+        "clinic",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882197,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h8owWce0StmJKPdlKBOu4_41.169212_-73.199124@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451088,
+    "wof:geomhash":"47e2b18fc70e1e1fe523596494aaee5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85882197,
+            "region_id":85688629,
+            "venue_id":823962847
+        }
+    ],
+    "wof:id":823962847,
+    "wof:lastmodified":1466426635,
+    "wof:name":"Kennedy Industries",
+    "wof:parent_id":85882197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "clinic",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -73.199124,
+    41.169212,
+    -73.199124,
+    41.169212
+],
+  "geometry": {"coordinates":[-73.199124,41.169212],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823751065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.630236,41.664989,-72.630236,41.664989",
+    "geom:latitude":41.664989,
+    "geom:longitude":-72.630236,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Meadow Rd",
+    "sg:city":"Rocky Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06067",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kp7hTY8LdzygCnuWyrytu_41.664989_-72.630236@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445409,
+    "wof:geomhash":"7601a7f71583314d3a6cd48ba2ecbf49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":823751065
+        }
+    ],
+    "wof:id":823751065,
+    "wof:lastmodified":1466424710,
+    "wof:name":"Friendly Auto",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.630236,
+    41.664989,
+    -72.630236,
+    41.664989
+],
+  "geometry": {"coordinates":[-72.630236,41.664989],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823481259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.856971,41.275915,-72.856971,41.275915",
+    "geom:latitude":41.275915,
+    "geom:longitude":-72.856971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Rose Hill Rd",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 8324",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KpgEmNsD9YaLyBTlK1quK_41.275915_-72.856971@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439103,
+    "wof:geomhash":"858cb6a279ae0594b982b8cb905597ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823481259
+        }
+    ],
+    "wof:id":823481259,
+    "wof:lastmodified":1466421380,
+    "wof:name":"Waste Tech",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.856971,
+    41.275915,
+    -72.856971,
+    41.275915
+],
+  "geometry": {"coordinates":[-72.856971,41.275915],"type":"Point"}
+}

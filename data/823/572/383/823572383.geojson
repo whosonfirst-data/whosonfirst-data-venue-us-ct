@@ -1,0 +1,88 @@
+{
+  "id": 823572383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930009,41.352019,-72.930009,41.352019",
+    "geom:latitude":41.352019,
+    "geom:longitude":-72.930009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"62 Bagley Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 7303",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "desi",
+        "embroidery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CIn3U0pXiGbN8LFQH6p8u_41.352019_-72.930009@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441238,
+    "wof:geomhash":"12d43da40777ab2952bf216331f7bca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823572383
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823572383
+        }
+    ],
+    "wof:id":823572383,
+    "wof:lastmodified":1466422817,
+    "wof:name":"Embroidery World Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "desi",
+        "embroidery"
+    ]
+},
+  "bbox": [
+    -72.930009,
+    41.352019,
+    -72.930009,
+    41.352019
+],
+  "geometry": {"coordinates":[-72.930009,41.352019],"type":"Point"}
+}

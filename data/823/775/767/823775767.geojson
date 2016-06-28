@@ -1,0 +1,71 @@
+{
+  "id": 823775767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.262013,41.355648,-73.262013,41.355648",
+    "geom:latitude":41.355648,
+    "geom:longitude":-73.262013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"352 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 6680",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SvzhpjgClwec88QyC3GEe_41.355648_-73.262013@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445978,
+    "wof:geomhash":"d43f01b5d2616be833e2420114684bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823775767
+        }
+    ],
+    "wof:id":823775767,
+    "wof:lastmodified":1466424948,
+    "wof:name":"Richardson Diesel Svc",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.262013,
+    41.355648,
+    -73.262013,
+    41.355648
+],
+  "geometry": {"coordinates":[-73.262013,41.355648],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823527667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.44665,41.095314,-73.44665,41.095314",
+    "geom:latitude":41.095314,
+    "geom:longitude":-73.44665,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Keeler Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 899 1234",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AWSCTgGOsZF0IxZUs5Ey0_41.095314_-73.446650@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440207,
+    "wof:geomhash":"d11e9b80967197b0588131f96f43a14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":823527667
+        }
+    ],
+    "wof:id":823527667,
+    "wof:lastmodified":1466422219,
+    "wof:name":"Westy Self-Storage",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.44665,
+    41.095314,
+    -73.44665,
+    41.095314
+],
+  "geometry": {"coordinates":[-73.44665000000001,41.095314],"type":"Point"}
+}

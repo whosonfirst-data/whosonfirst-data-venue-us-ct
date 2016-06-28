@@ -1,0 +1,73 @@
+{
+  "id": 824083097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.836899,41.797001,-72.836899,41.797001",
+    "geom:latitude":41.797001,
+    "geom:longitude":-72.836899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Sandscreen Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 8765",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fLvRyk16lT8EgBUROkV6R_41.797001_-72.836899@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453920,
+    "wof:geomhash":"9e976ced6b3c1a6fe9817471e4b854e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824083097
+        }
+    ],
+    "wof:id":824083097,
+    "wof:lastmodified":1466422653,
+    "wof:name":"Car Biz Autobody",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.836899,
+    41.797001,
+    -72.836899,
+    41.797001
+],
+  "geometry": {"coordinates":[-72.836899,41.797001],"type":"Point"}
+}

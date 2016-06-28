@@ -1,0 +1,82 @@
+{
+  "id": 824121395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.627316,41.022074,-73.627316,41.022074",
+    "geom:latitude":41.022074,
+    "geom:longitude":-73.627316,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"Two Soundview Drive",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 930 2109",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "icall",
+        "mobile",
+        "voip"
+    ],
+    "sg:website":"http://www.icall.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ceUWhusXnRLKyZclwQW7h_41.022074_-73.627316@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1463454791,
+    "wof:geomhash":"c293574ef0441a6dd71230369de8422e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824121395
+        }
+    ],
+    "wof:id":824121395,
+    "wof:lastmodified":1466423369,
+    "wof:name":"iCall",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "icall",
+        "mobile",
+        "voip"
+    ]
+},
+  "bbox": [
+    -73.627316,
+    41.022074,
+    -73.627316,
+    41.022074
+],
+  "geometry": {"coordinates":[-73.62731599999999,41.022074],"type":"Point"}
+}

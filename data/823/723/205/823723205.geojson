@@ -1,0 +1,82 @@
+{
+  "id": 823723205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.960586,41.329136,-72.960586,41.329136",
+    "geom:latitude":41.329136,
+    "geom:longitude":-72.960586,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Valley St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 7405",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "housing",
+        "program",
+        "rest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZitQ9xmKdHzvKU9fsjeu_41.329136_-72.960586@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444731,
+    "wof:geomhash":"6e71e275e00bf848ea02d0a442ef51d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823723205
+        }
+    ],
+    "wof:id":823723205,
+    "wof:lastmodified":1466424596,
+    "wof:name":"Mountain Valley Place",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "housing",
+        "program",
+        "rest"
+    ]
+},
+  "bbox": [
+    -72.960586,
+    41.329136,
+    -72.960586,
+    41.329136
+],
+  "geometry": {"coordinates":[-72.96058600000001,41.329136],"type":"Point"}
+}

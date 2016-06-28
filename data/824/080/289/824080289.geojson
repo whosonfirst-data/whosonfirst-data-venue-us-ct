@@ -1,0 +1,85 @@
+{
+  "id": 824080289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.493204,41.146606,-73.493204,41.146606",
+    "geom:latitude":41.146606,
+    "geom:longitude":-73.493204,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 South Ave",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-canaan/25374-brueggers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 972 6610",
+    "sg:postcode":"06840",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48KDZKJP3DyapC2DJaDahZ_41.146606_-73.493204@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453858,
+    "wof:geomhash":"b2d1fae63cad0973c16b7df29536d448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":824080289
+        }
+    ],
+    "wof:id":824080289,
+    "wof:lastmodified":1466422565,
+    "wof:name":"Bruegger's",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -73.493204,
+    41.146606,
+    -73.493204,
+    41.146606
+],
+  "geometry": {"coordinates":[-73.49320400000001,41.146606],"type":"Point"}
+}

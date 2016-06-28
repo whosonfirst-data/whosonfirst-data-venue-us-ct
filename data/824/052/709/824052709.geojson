@@ -1,0 +1,71 @@
+{
+  "id": 824052709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.058617,41.352223,-72.058617,41.352223",
+    "geom:latitude":41.352223,
+    "geom:longitude":-72.058617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"565 Long Hill Rd",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85831297,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vrIHNJneJZeVEEu4MxaMT_41.352223_-72.058617@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453224,
+    "wof:geomhash":"e3e35021d12a98f769c9631397095ae3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85831297,
+            "region_id":85688629,
+            "venue_id":824052709
+        }
+    ],
+    "wof:id":824052709,
+    "wof:lastmodified":1466422142,
+    "wof:name":"Open M R I of Groton LLC",
+    "wof:parent_id":85831297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.058617,
+    41.352223,
+    -72.058617,
+    41.352223
+],
+  "geometry": {"coordinates":[-72.058617,41.352223],"type":"Point"}
+}

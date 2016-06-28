@@ -1,0 +1,71 @@
+{
+  "id": 823940203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.388764,41.263193,-72.388764,41.263193",
+    "geom:latitude":41.263193,
+    "geom:longitude":-72.388764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 W Shore Dr",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828733,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53yPBBTPVDhSDzy2WFDA5z_41.263193_-72.388764@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450527,
+    "wof:geomhash":"ec079ccc238ced46d7852abea6300673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85828733,
+            "region_id":85688629,
+            "venue_id":823940203
+        }
+    ],
+    "wof:id":823940203,
+    "wof:lastmodified":1466426351,
+    "wof:name":"Elizabeth A Davey",
+    "wof:parent_id":85828733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.388764,
+    41.263193,
+    -72.388764,
+    41.263193
+],
+  "geometry": {"coordinates":[-72.38876399999999,41.263193],"type":"Point"}
+}

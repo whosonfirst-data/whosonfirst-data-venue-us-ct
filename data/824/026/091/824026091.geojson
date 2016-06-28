@@ -1,0 +1,71 @@
+{
+  "id": 824026091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.661209,41.849971,-72.661209,41.849971",
+    "geom:latitude":41.849971,
+    "geom:longitude":-72.661209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Cook Hill Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c39HoZSPTtXLDqEdHAWIz_41.849971_-72.661209@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452565,
+    "wof:geomhash":"7b5772cd79b863343b5b2082e4d07a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824026091
+        }
+    ],
+    "wof:id":824026091,
+    "wof:lastmodified":1466421646,
+    "wof:name":"Enviro Tech Laboratory",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.661209,
+    41.849971,
+    -72.661209,
+    41.849971
+],
+  "geometry": {"coordinates":[-72.661209,41.849971],"type":"Point"}
+}

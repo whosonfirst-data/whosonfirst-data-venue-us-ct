@@ -1,0 +1,71 @@
+{
+  "id": 824110765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230392,41.725719,-73.230392,41.725719",
+    "geom:latitude":41.725719,
+    "geom:longitude":-73.230392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"634 Bantam Rd",
+    "sg:city":"Bantam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 567 0766",
+    "sg:postcode":"06750",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d51qD2cmWqNCjEaAeR4Kj_41.725719_-73.230392@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454567,
+    "wof:geomhash":"cdb7bd273c163d7550b7c14a0f44540a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":824110765
+        }
+    ],
+    "wof:id":824110765,
+    "wof:lastmodified":1466423139,
+    "wof:name":"Doyle, Daniel B Dvm",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.230392,
+    41.725719,
+    -73.230392,
+    41.725719
+],
+  "geometry": {"coordinates":[-73.23039199999999,41.725719],"type":"Point"}
+}

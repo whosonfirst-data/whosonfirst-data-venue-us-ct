@@ -1,0 +1,71 @@
+{
+  "id": 823650773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.926234,41.358385,-72.926234,41.358385",
+    "geom:latitude":41.358385,
+    "geom:longitude":-72.926234,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1676 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cVg2ApCk7shynQ75dKOB9_41.358385_-72.926234@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443094,
+    "wof:geomhash":"b19e55e7a55305dbc788ee6f7a8ca411",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823650773
+        }
+    ],
+    "wof:id":823650773,
+    "wof:lastmodified":1466423841,
+    "wof:name":"Mauros Coin Op Laundroma",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -72.926234,
+    41.358385,
+    -72.926234,
+    41.358385
+],
+  "geometry": {"coordinates":[-72.92623399999999,41.358385],"type":"Point"}
+}

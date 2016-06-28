@@ -1,0 +1,88 @@
+{
+  "id": 823559759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.03733,41.206175,-73.03733,41.206175",
+    "geom:latitude":41.206175,
+    "geom:longitude":-73.03733,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Lawrence Ct",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 877 1384",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85820241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28oOiVHcf2AFbCq7wtgvZm_41.206175_-73.037330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440930,
+    "wof:geomhash":"74f544f06c098afe31151385eebc76f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823559759
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823559759
+        }
+    ],
+    "wof:id":823559759,
+    "wof:lastmodified":1466422754,
+    "wof:name":"McCue Mortgage Company",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -73.03733,
+    41.206175,
+    -73.03733,
+    41.206175
+],
+  "geometry": {"coordinates":[-73.03733,41.206175],"type":"Point"}
+}

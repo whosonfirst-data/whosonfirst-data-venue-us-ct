@@ -1,0 +1,68 @@
+{
+  "id": 824033293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22949,41.155883,-73.22949,41.155883",
+    "geom:latitude":41.155883,
+    "geom:longitude":-73.22949,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3074 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 2500",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bGPEvU0MEzoHbFv3p1UoK_41.155883_-73.229490@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452741,
+    "wof:geomhash":"d4dc4e1310c88c75f84f30ce9e17ad70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824033293
+        }
+    ],
+    "wof:id":824033293,
+    "wof:lastmodified":1466421787,
+    "wof:name":"Picasso's",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.22949,
+    41.155883,
+    -73.22949,
+    41.155883
+],
+  "geometry": {"coordinates":[-73.22949,41.155883],"type":"Point"}
+}

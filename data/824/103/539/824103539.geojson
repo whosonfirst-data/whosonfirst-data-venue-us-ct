@@ -1,0 +1,82 @@
+{
+  "id": 824103539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.622601,41.540371,-72.622601,41.540371",
+    "geom:latitude":41.540371,
+    "geom:longitude":-72.622601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"534 Saybrook Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 358 2500",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f6zsJ3eiwGkwGLz9MiZbr_41.540371_-72.622601@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454413,
+    "wof:geomhash":"99c7ccd5de620b095c66e9d3150841e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824103539
+        }
+    ],
+    "wof:id":824103539,
+    "wof:lastmodified":1466422980,
+    "wof:name":"Middlesex Hospital Outpatient Center",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.622601,
+    41.540371,
+    -72.622601,
+    41.540371
+],
+  "geometry": {"coordinates":[-72.622601,41.540371],"type":"Point"}
+}

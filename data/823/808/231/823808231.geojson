@@ -1,0 +1,79 @@
+{
+  "id": 823808231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218505,41.314209,-73.218505,41.314209",
+    "geom:latitude":41.314209,
+    "geom:longitude":-73.218505,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 7297",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888497,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_413V99hJ4bdNUKZZvn3a3z_41.314209_-73.218505@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446951,
+    "wof:geomhash":"8c3d419c003693ed631721baed2b1fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888497,
+            "region_id":85688629,
+            "venue_id":823808231
+        }
+    ],
+    "wof:id":823808231,
+    "wof:lastmodified":1466425184,
+    "wof:name":"Dance Workshop",
+    "wof:parent_id":85888497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -73.218505,
+    41.314209,
+    -73.218505,
+    41.314209
+],
+  "geometry": {"coordinates":[-73.21850499999999,41.314209],"type":"Point"}
+}

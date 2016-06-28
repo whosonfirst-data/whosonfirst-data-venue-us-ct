@@ -1,0 +1,85 @@
+{
+  "id": 824107667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.856201,41.469131,-72.856201,41.469131",
+    "geom:latitude":41.469131,
+    "geom:longitude":-72.856201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Gaylord Farm Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 284 2800",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical",
+        "rehabilitation"
+    ],
+    "sg:website":"http://www.gaylord.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FSEsbQUVExHOkNDel8Szj_41.469131_-72.856201@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454501,
+    "wof:geomhash":"0bfe81b19a98605abc58abdf7ec52ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":824107667
+        }
+    ],
+    "wof:id":824107667,
+    "wof:lastmodified":1466423078,
+    "wof:name":"Gaylord Hospital",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "rehabilitation"
+    ]
+},
+  "bbox": [
+    -72.856201,
+    41.469131,
+    -72.856201,
+    41.469131
+],
+  "geometry": {"coordinates":[-72.856201,41.469131],"type":"Point"}
+}

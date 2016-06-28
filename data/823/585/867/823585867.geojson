@@ -1,0 +1,71 @@
+{
+  "id": 823585867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.944022,41.279945,-72.944022,41.279945",
+    "geom:latitude":41.279945,
+    "geom:longitude":-72.944022,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"502 1st Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 479 8531",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FdTJyWdAz50QaQlYDhMIg_41.279945_-72.944022@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441551,
+    "wof:geomhash":"01a9ef808499a67fb4f63c3cc2094880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823585867
+        }
+    ],
+    "wof:id":823585867,
+    "wof:lastmodified":1466423131,
+    "wof:name":"Greatway Food Store",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -72.944022,
+    41.279945,
+    -72.944022,
+    41.279945
+],
+  "geometry": {"coordinates":[-72.944022,41.279945],"type":"Point"}
+}

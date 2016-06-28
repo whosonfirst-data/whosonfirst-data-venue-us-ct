@@ -1,0 +1,71 @@
+{
+  "id": 823687315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190271,41.414555,-73.190271,41.414555",
+    "geom:latitude":41.414555,
+    "geom:longitude":-73.190271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Jackson Cove Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 9635",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810099,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dXEUhelRxhkVqCoz9mMks_41.414555_-73.190271@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443958,
+    "wof:geomhash":"11473e7bae9dc348fe2106e0785545a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810099,
+            "region_id":85688629,
+            "venue_id":823687315
+        }
+    ],
+    "wof:id":823687315,
+    "wof:lastmodified":1466424089,
+    "wof:name":"Oak Wood Construction",
+    "wof:parent_id":85810099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -73.190271,
+    41.414555,
+    -73.190271,
+    41.414555
+],
+  "geometry": {"coordinates":[-73.190271,41.414555],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824048493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.31845,41.288173,-73.31845,41.288173",
+    "geom:latitude":41.288173,
+    "geom:longitude":-73.31845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Vista Dr",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4297",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jHfriVRQ1ZsoPHkVoXJan_41.288173_-73.318450@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453132,
+    "wof:geomhash":"4a7b26c91c51f49ca4ccf721716c4f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824048493
+        }
+    ],
+    "wof:id":824048493,
+    "wof:lastmodified":1466422012,
+    "wof:name":"J M Candee Sanitation",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.31845,
+    41.288173,
+    -73.31845,
+    41.288173
+],
+  "geometry": {"coordinates":[-73.31845,41.288173],"type":"Point"}
+}

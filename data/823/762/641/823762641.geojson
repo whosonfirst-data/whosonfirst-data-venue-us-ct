@@ -1,0 +1,71 @@
+{
+  "id": 823762641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.46471,41.931575,-73.46471,41.931575",
+    "geom:latitude":41.931575,
+    "geom:longitude":-73.46471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"126 Long Pond Rd",
+    "sg:city":"Lakeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06039",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85850959,
+        102082363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hvPkVoM41jTLF6eLJDIzX_41.931575_-73.464710@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445670,
+    "wof:geomhash":"4f32d506f68ea044d6414051cf058835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85850959,
+            "region_id":85688543,
+            "venue_id":823762641
+        }
+    ],
+    "wof:id":823762641,
+    "wof:lastmodified":1466424835,
+    "wof:name":"Dr Richard Collins",
+    "wof:parent_id":85850959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.46471,
+    41.931575,
+    -73.46471,
+    41.931575
+],
+  "geometry": {"coordinates":[-73.46471,41.931575],"type":"Point"}
+}

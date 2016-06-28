@@ -1,0 +1,73 @@
+{
+  "id": 823789291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.582285,41.281057,-72.582285,41.281057",
+    "geom:latitude":41.281057,
+    "geom:longitude":-72.582285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Essex Ln",
+    "sg:city":"Essex",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 767 9997",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "material",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847627,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69nx00egmngA6KijdWtiUa_41.281057_-72.582285@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446407,
+    "wof:geomhash":"3650621e648458eea971562aa72ac05b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85847627,
+            "region_id":85688629,
+            "venue_id":823789291
+        }
+    ],
+    "wof:id":823789291,
+    "wof:lastmodified":1466425200,
+    "wof:name":"Bowden Development T L I",
+    "wof:parent_id":85847627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.582285,
+    41.281057,
+    -72.582285,
+    41.281057
+],
+  "geometry": {"coordinates":[-72.582285,41.281057],"type":"Point"}
+}

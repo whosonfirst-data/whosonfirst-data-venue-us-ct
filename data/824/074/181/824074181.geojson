@@ -1,0 +1,80 @@
+{
+  "id": 824074181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060267,41.920927,-73.060267,41.920927",
+    "geom:latitude":41.920927,
+    "geom:longitude":-73.060267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 Main St",
+    "sg:city":"Winsted",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/winchester/164958-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 379 6733",
+    "sg:postcode":"06098",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835175,
+        102191575,
+        404495849,
+        85633793,
+        85931209,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7U66NSaBDivAjaYA9aAi12_41.920927_-73.060267@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453722,
+    "wof:geomhash":"b2220d08c85c301417549d1d19d6e3ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404495849,
+            "locality_id":85931209,
+            "neighbourhood_id":85835175,
+            "region_id":85688629,
+            "venue_id":824074181
+        }
+    ],
+    "wof:id":824074181,
+    "wof:lastmodified":1466422414,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85835175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.060267,
+    41.920927,
+    -73.060267,
+    41.920927
+],
+  "geometry": {"coordinates":[-73.060267,41.920927],"type":"Point"}
+}

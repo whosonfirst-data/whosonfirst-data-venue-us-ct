@@ -1,0 +1,71 @@
+{
+  "id": 823765547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.123738,41.679016,-73.123738,41.679016",
+    "geom:latitude":41.679016,
+    "geom:longitude":-73.123738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"339 Valley View Rd",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 4739",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Zfzt76SDJtW0pSU2Hzgho_41.679016_-73.123738@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445728,
+    "wof:geomhash":"9888f35a2fa9dd174ab929fab8719920",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823765547
+        }
+    ],
+    "wof:id":823765547,
+    "wof:lastmodified":1466425025,
+    "wof:name":"Richard Marcel Building Co",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.123738,
+    41.679016,
+    -73.123738,
+    41.679016
+],
+  "geometry": {"coordinates":[-73.123738,41.679016],"type":"Point"}
+}

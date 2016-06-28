@@ -1,0 +1,81 @@
+{
+  "id": 824115453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.264061,41.14225,-73.264061,41.14225",
+    "geom:latitude":41.14225,
+    "geom:longitude":-73.264061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Mill Plain Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ice Rink",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 254 8399",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "skating",
+        "instruction",
+        "rinks-ice"
+    ],
+    "sg:website":"http://www.fairfieldiceacademy.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HKZdo2bLQWsCc7sZ2B7J9_41.142250_-73.264061@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454666,
+    "wof:geomhash":"0a44ed7944bf308437b8642547b58125",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824115453
+        }
+    ],
+    "wof:id":824115453,
+    "wof:lastmodified":1466423139,
+    "wof:name":"Fairfield Ice Academy",
+    "wof:parent_id":85823291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skating",
+        "instruction",
+        "rinks-ice"
+    ]
+},
+  "bbox": [
+    -73.264061,
+    41.14225,
+    -73.264061,
+    41.14225
+],
+  "geometry": {"coordinates":[-73.264061,41.14225],"type":"Point"}
+}

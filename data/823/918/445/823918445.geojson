@@ -1,0 +1,73 @@
+{
+  "id": 823918445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228301,41.315545,-73.228301,41.315545",
+    "geom:latitude":41.315545,
+    "geom:longitude":-73.228301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"381 Cross Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 3275",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JExSQzamLMkxqhTXe6Yrf_41.315545_-73.228301@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449964,
+    "wof:geomhash":"493191f201135375504200a2e6989191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823918445
+        }
+    ],
+    "wof:id":823918445,
+    "wof:lastmodified":1466426181,
+    "wof:name":"R & L Construction",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.228301,
+    41.315545,
+    -73.228301,
+    41.315545
+],
+  "geometry": {"coordinates":[-73.228301,41.315545],"type":"Point"}
+}

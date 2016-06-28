@@ -1,0 +1,87 @@
+{
+  "id": 823810933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.746592,41.65407,-72.746592,41.65407",
+    "geom:latitude":41.65407,
+    "geom:longitude":-72.746592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"175 Kelsey St",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 6122",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manufacture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HY64jMxPrYPi4u5W1ISd0_41.654070_-72.746592@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447037,
+    "wof:geomhash":"a3bf897f41428d7d1763ae8e47a6c2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823810933
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823810933
+        }
+    ],
+    "wof:id":823810933,
+    "wof:lastmodified":1466425224,
+    "wof:name":"Newington Use Auto Parts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacture"
+    ]
+},
+  "bbox": [
+    -72.746592,
+    41.65407,
+    -72.746592,
+    41.65407
+],
+  "geometry": {"coordinates":[-72.74659200000001,41.65407],"type":"Point"}
+}

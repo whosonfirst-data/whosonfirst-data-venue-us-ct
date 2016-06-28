@@ -1,0 +1,66 @@
+{
+  "id": 824068299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.851283,41.642281,-72.851283,41.642281",
+    "geom:latitude":41.642281,
+    "geom:longitude":-72.851283,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Quail Hollow Dr",
+    "sg:city":"Southington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 793 6903",
+    "sg:postcode":"06489",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XT7al2DYWXNVyghmCtF97_41.642357_-72.851082@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453571,
+    "wof:geomhash":"e528c47d2732d6c5d78e06884db1854d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824068299
+        }
+    ],
+    "wof:id":824068299,
+    "wof:lastmodified":1466422307,
+    "wof:name":"Plant Doctor Inc",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.851283,
+    41.642281,
+    -72.851283,
+    41.642281
+],
+  "geometry": {"coordinates":[-72.851283,41.642281],"type":"Point"}
+}

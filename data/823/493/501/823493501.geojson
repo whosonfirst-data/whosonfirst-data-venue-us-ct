@@ -1,0 +1,83 @@
+{
+  "id": 823493501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.025899,41.569768,-73.025899,41.569768",
+    "geom:latitude":41.569768,
+    "geom:longitude":-73.025899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1540 N Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 574 1176",
+    "sg:postcode":"06704",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "used",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831301,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k6Bu3cQLq9kEwgDdt7zyp_41.569768_-73.025899@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439387,
+    "wof:geomhash":"af2654bc83a96f2681710add53749f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85831301,
+            "region_id":85688629,
+            "venue_id":823493501
+        }
+    ],
+    "wof:id":823493501,
+    "wof:lastmodified":1466421586,
+    "wof:name":"Lakewood Auto Painting & Body",
+    "wof:parent_id":85831301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "used",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.025899,
+    41.569768,
+    -73.025899,
+    41.569768
+],
+  "geometry": {"coordinates":[-73.025899,41.569768],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823576899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.662445,41.763581,-72.662445,41.763581",
+    "geom:latitude":41.763581,
+    "geom:longitude":-72.662445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 E River Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 528 9703",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation",
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878033,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k09d4bKzEZLtwoUATAdvU_41.763581_-72.662445@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441339,
+    "wof:geomhash":"998a5fd5cdd60addf81950f9949cacf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878033,
+            "region_id":85688629,
+            "venue_id":823576899
+        }
+    ],
+    "wof:id":823576899,
+    "wof:lastmodified":1466423049,
+    "wof:name":"Sheraton",
+    "wof:parent_id":85878033,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "drinking"
+    ]
+},
+  "bbox": [
+    -72.662445,
+    41.763581,
+    -72.662445,
+    41.763581
+],
+  "geometry": {"coordinates":[-72.66244500000001,41.763581],"type":"Point"}
+}

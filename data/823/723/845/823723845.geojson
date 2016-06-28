@@ -1,0 +1,66 @@
+{
+  "id": 823723845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.397205,41.4937,-73.397205,41.4937",
+    "geom:latitude":41.4937,
+    "geom:longitude":-73.397205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Long Meadow Hill Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 9682",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CYTau8h2GUFdt2UWJz7sn_41.493700_-73.397205@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444745,
+    "wof:geomhash":"d924e453465c4ba96b3967f498c15fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823723845
+        }
+    ],
+    "wof:id":823723845,
+    "wof:lastmodified":1466424483,
+    "wof:name":"Real Audet",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.397205,
+    41.4937,
+    -73.397205,
+    41.4937
+],
+  "geometry": {"coordinates":[-73.397205,41.4937],"type":"Point"}
+}

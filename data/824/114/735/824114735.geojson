@@ -1,0 +1,95 @@
+{
+  "id": 824114735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.450996,41.4128,-73.450996,41.4128",
+    "geom:latitude":41.4128,
+    "geom:longitude":-73.450996,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Tamarack Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 790 8500",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mail",
+        "receiving",
+        "mailbox-rental",
+        "shipping",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GEEEe9zXMaKMuUgQbHF3p_41.412800_-73.450996@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454652,
+    "wof:geomhash":"968b807e0f67e49b1dcb3bc126a507ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824114735
+        }
+    ],
+    "wof:id":824114735,
+    "wof:lastmodified":1466423360,
+    "wof:name":"Danbury Business & Shipping Center",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "receiving",
+        "mailbox-rental",
+        "shipping",
+        "direct"
+    ]
+},
+  "bbox": [
+    -73.450996,
+    41.4128,
+    -73.450996,
+    41.4128
+],
+  "geometry": {"coordinates":[-73.450996,41.4128],"type":"Point"}
+}

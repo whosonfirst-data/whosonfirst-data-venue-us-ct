@@ -1,0 +1,84 @@
+{
+  "id": 824091131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.480715,41.879605,-73.480715,41.879605",
+    "geom:latitude":41.879605,
+    "geom:longitude":-73.480715,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Hospital Hill Rd",
+    "sg:city":"Sharon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 364 4000",
+    "sg:postcode":"06069",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical",
+        "surgery"
+    ],
+    "sg:website":"http://www.sharonhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85850959,
+        102082363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Yicy0INtbZCC9R5GT0lcl_41.879605_-73.480715@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454111,
+    "wof:geomhash":"35a80f0a3fc1e8a4b253728ecc8f0703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85850959,
+            "region_id":85688543,
+            "venue_id":824091131
+        }
+    ],
+    "wof:id":824091131,
+    "wof:lastmodified":1466422826,
+    "wof:name":"Sharon Hospital",
+    "wof:parent_id":85850959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -73.480715,
+    41.879605,
+    -73.480715,
+    41.879605
+],
+  "geometry": {"coordinates":[-73.480715,41.879605],"type":"Point"}
+}

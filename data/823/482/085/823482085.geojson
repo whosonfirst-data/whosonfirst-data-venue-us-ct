@@ -1,0 +1,71 @@
+{
+  "id": 823482085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.463907,41.46159,-72.463907,41.46159",
+    "geom:latitude":41.46159,
+    "geom:longitude":-72.463907,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"56 Old E Haddam Rd",
+    "sg:city":"East Haddam",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 399 6004",
+    "sg:postcode":"06423",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830917,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q2fLEGQkhJn5IH3uT8red_41.461590_-72.463907@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439128,
+    "wof:geomhash":"3fa013ff21cd7cebe5df2149f3e1a273",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85830917,
+            "region_id":85688629,
+            "venue_id":823482085
+        }
+    ],
+    "wof:id":823482085,
+    "wof:lastmodified":1466421430,
+    "wof:name":"Dennys",
+    "wof:parent_id":85830917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.463907,
+    41.46159,
+    -72.463907,
+    41.46159
+],
+  "geometry": {"coordinates":[-72.46390700000001,41.46159],"type":"Point"}
+}

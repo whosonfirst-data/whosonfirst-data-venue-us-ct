@@ -1,0 +1,76 @@
+{
+  "id": 824075681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.106312,41.514036,-72.106312,41.514036",
+    "geom:latitude":41.514036,
+    "geom:longitude":-72.106312,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Salem Tpke",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwich/166593-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 889 7040",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JJYVolNn5epkp2YQF2Hrg_41.514036_-72.106312@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453756,
+    "wof:geomhash":"29b5eb00ce35033112f8c95be086ac69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":824075681
+        }
+    ],
+    "wof:id":824075681,
+    "wof:lastmodified":1466422615,
+    "wof:name":"Burger King",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.106312,
+    41.514036,
+    -72.106312,
+    41.514036
+],
+  "geometry": {"coordinates":[-72.106312,41.514036],"type":"Point"}
+}

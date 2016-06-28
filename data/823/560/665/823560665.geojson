@@ -1,0 +1,73 @@
+{
+  "id": 823560665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.909043,41.925161,-71.909043,41.925161",
+    "geom:latitude":41.925161,
+    "geom:longitude":-71.909043,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Smith St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 2667",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gRs7N01XUa1SCH4g3Plcd_41.925161_-71.909043@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440958,
+    "wof:geomhash":"71006eb455cce28b517796c2e8e1698b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823560665
+        }
+    ],
+    "wof:id":823560665,
+    "wof:lastmodified":1466422986,
+    "wof:name":"Briere Electrical Plbg & Htg",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.909043,
+    41.925161,
+    -71.909043,
+    41.925161
+],
+  "geometry": {"coordinates":[-71.909043,41.925161],"type":"Point"}
+}

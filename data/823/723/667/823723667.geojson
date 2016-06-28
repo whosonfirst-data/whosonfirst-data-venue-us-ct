@@ -1,0 +1,73 @@
+{
+  "id": 823723667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.308536,41.413293,-72.308536,41.413293",
+    "geom:latitude":41.413293,
+    "geom:longitude":-72.308536,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"149 Beaver Brook Rd",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 434 9468",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "work",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823623,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17VNw5SPAWcXeFSks6lvdf_41.413293_-72.308536@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444742,
+    "wof:geomhash":"b779f6cb66a43acc23f5ad0451480ea0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85823623,
+            "region_id":85688629,
+            "venue_id":823723667
+        }
+    ],
+    "wof:id":823723667,
+    "wof:lastmodified":1466424464,
+    "wof:name":"Cz Electric Co",
+    "wof:parent_id":85823623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "work",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.308536,
+    41.413293,
+    -72.308536,
+    41.413293
+],
+  "geometry": {"coordinates":[-72.308536,41.413293],"type":"Point"}
+}

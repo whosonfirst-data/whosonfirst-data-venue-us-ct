@@ -1,0 +1,66 @@
+{
+  "id": 823883831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973664,41.331629,-72.973664,41.331629",
+    "geom:latitude":41.331629,
+    "geom:longitude":-72.973664,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1307 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 6889",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UHG6ZcwPFUjpSebv3Qvwk_41.331629_-72.973664@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449056,
+    "wof:geomhash":"57ad6c43271f3a809aad6036859aee83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823883831
+        }
+    ],
+    "wof:id":823883831,
+    "wof:lastmodified":1466425892,
+    "wof:name":"Golden Restaurant",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.973664,
+    41.331629,
+    -72.973664,
+    41.331629
+],
+  "geometry": {"coordinates":[-72.973664,41.331629],"type":"Point"}
+}

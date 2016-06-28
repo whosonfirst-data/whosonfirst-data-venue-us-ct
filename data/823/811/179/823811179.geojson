@@ -1,0 +1,73 @@
+{
+  "id": 823811179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659286,41.288416,-72.659286,41.288416",
+    "geom:latitude":41.288416,
+    "geom:longitude":-72.659286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"450 Boston Post Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 0361",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yAcDVBvvrSxqJoBuDxpy0_41.288416_-72.659286@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447044,
+    "wof:geomhash":"fea74880fef0dfe658d3f2ca4adf6f5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823811179
+        }
+    ],
+    "wof:id":823811179,
+    "wof:lastmodified":1466425390,
+    "wof:name":"Guilford Internal Medicine Grp",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.659286,
+    41.288416,
+    -72.659286,
+    41.288416
+],
+  "geometry": {"coordinates":[-72.65928599999999,41.288416],"type":"Point"}
+}

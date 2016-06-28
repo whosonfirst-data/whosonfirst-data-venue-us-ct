@@ -1,0 +1,80 @@
+{
+  "id": 824081965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.964181,41.260509,-72.964181,41.260509",
+    "geom:latitude":41.260509,
+    "geom:longitude":-72.964181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"867 Jones Hill Rd",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/west-haven/144279-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 933 7259",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847505,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cKAM3eQRKNnS2DHANbhyR_41.260560_-72.963957@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453895,
+    "wof:geomhash":"4af2088aad3f066702f2f1b4fecb9f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85847505,
+            "region_id":85688629,
+            "venue_id":824081965
+        }
+    ],
+    "wof:id":824081965,
+    "wof:lastmodified":1466422673,
+    "wof:name":"Subway",
+    "wof:parent_id":85847505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.964181,
+    41.260509,
+    -72.964181,
+    41.260509
+],
+  "geometry": {"coordinates":[-72.964181,41.260509],"type":"Point"}
+}

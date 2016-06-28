@@ -1,0 +1,66 @@
+{
+  "id": 823481143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.280785,41.418521,-73.280785,41.418521",
+    "geom:latitude":41.418521,
+    "geom:longitude":-73.280785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Washington Ave",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 2827",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L5H1YuasTQQuTKkAmyCYL_41.418521_-73.280785@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439101,
+    "wof:geomhash":"5ea82a5e9e0031db7e39d65ab9b7fbb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823481143
+        }
+    ],
+    "wof:id":823481143,
+    "wof:lastmodified":1466421376,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.280785,
+    41.418521,
+    -73.280785,
+    41.418521
+],
+  "geometry": {"coordinates":[-73.28078499999999,41.418521],"type":"Point"}
+}

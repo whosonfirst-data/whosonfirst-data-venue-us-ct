@@ -1,0 +1,78 @@
+{
+  "id": 824074235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67909,41.768656,-72.67909,41.768656",
+    "geom:latitude":41.768656,
+    "geom:longitude":-72.67909,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Allyn St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/263137-agave-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 882 1557",
+    "sg:postcode":"06103",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866871,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ydWzFiashKx1Ufhq2eyDb_41.768656_-72.679090@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453722,
+    "wof:geomhash":"cf28a8ffda87d95506fb2044557b03f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85866871,
+            "region_id":85688629,
+            "venue_id":824074235
+        }
+    ],
+    "wof:id":824074235,
+    "wof:lastmodified":1466422416,
+    "wof:name":"Agave Grill",
+    "wof:parent_id":85866871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.67909,
+    41.768656,
+    -72.67909,
+    41.768656
+],
+  "geometry": {"coordinates":[-72.67909,41.768656],"type":"Point"}
+}

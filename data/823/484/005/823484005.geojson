@@ -1,0 +1,83 @@
+{
+  "id": 823484005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.162034,41.188501,-73.162034,41.188501",
+    "geom:latitude":41.188501,
+    "geom:longitude":-73.162034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 Grant St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 384 9984",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VuVlGPKYPnfyorrC17V05_41.188501_-73.162034@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439166,
+    "wof:geomhash":"905113e629a661a4913decdc87fcbd02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823484005
+        }
+    ],
+    "wof:id":823484005,
+    "wof:lastmodified":1466421413,
+    "wof:name":"Roncalli Apartments",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "residential",
+        "apartment",
+        "care"
+    ]
+},
+  "bbox": [
+    -73.162034,
+    41.188501,
+    -73.162034,
+    41.188501
+],
+  "geometry": {"coordinates":[-73.16203400000001,41.188501],"type":"Point"}
+}

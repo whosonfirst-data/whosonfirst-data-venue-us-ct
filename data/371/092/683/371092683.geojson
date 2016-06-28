@@ -2,13 +2,14 @@
   "id": 371092683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.461297,41.14426,-73.461297,41.14426",
     "geom:latitude":41.14426,
     "geom:longitude":-73.461297,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"136 Beech Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":371092683,
-    "wof:lastmodified":1449049905,
+    "wof:lastmodified":1466421140,
     "wof:name":"Fran-Ang Realty Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.461297,41.14426,-73.461297,41.14426],
+  "bbox": [
+    -73.461297,
+    41.14426,
+    -73.461297,
+    41.14426
+],
   "geometry": {"coordinates":[-73.461297,41.14426],"type":"Point"}
 }

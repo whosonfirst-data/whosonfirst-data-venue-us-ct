@@ -2,13 +2,14 @@
   "id": 370932223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.477801,41.131883,-73.477801,41.131883",
     "geom:latitude":41.131883,
     "geom:longitude":-73.477801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 White Oak Shade Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370932223,
-    "wof:lastmodified":1449030337,
+    "wof:lastmodified":1466421101,
     "wof:name":"Mirza Technologies",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.477801,41.131883,-73.477801,41.131883],
+  "bbox": [
+    -73.477801,
+    41.131883,
+    -73.477801,
+    41.131883
+],
   "geometry": {"coordinates":[-73.477801,41.131883],"type":"Point"}
 }

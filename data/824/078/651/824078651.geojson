@@ -1,0 +1,78 @@
+{
+  "id": 824078651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200503,41.173137,-73.200503,41.173137",
+    "geom:latitude":41.173137,
+    "geom:longitude":-73.200503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"840 State St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bridgeport/60799-golden-krust/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 331 8081",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "caribbean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RwLyAMl4ecYcuORSRTZ23_41.173137_-73.200503@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453824,
+    "wof:geomhash":"0efa6e51f76a1d9db4da1e54667608f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824078651
+        }
+    ],
+    "wof:id":824078651,
+    "wof:lastmodified":1466422601,
+    "wof:name":"Golden Krust",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caribbean"
+    ]
+},
+  "bbox": [
+    -73.200503,
+    41.173137,
+    -73.200503,
+    41.173137
+],
+  "geometry": {"coordinates":[-73.200503,41.173137],"type":"Point"}
+}

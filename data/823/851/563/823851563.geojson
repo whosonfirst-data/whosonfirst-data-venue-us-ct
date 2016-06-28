@@ -1,0 +1,82 @@
+{
+  "id": 823851563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.60045,41.044734,-73.60045,41.044734",
+    "geom:latitude":41.044734,
+    "geom:longitude":-73.60045,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 Orchard St",
+    "sg:city":"Cos Cob",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 622 8315",
+    "sg:postcode":"06807",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833939,
+        102191575,
+        404495949,
+        85633793,
+        85930955,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3F3p9gRDazeuNZwOw6ci74_41.044734_-73.600450@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448262,
+    "wof:geomhash":"3c82500724f67e75326c01ef4e3b1abf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930955,
+            "neighbourhood_id":85833939,
+            "region_id":85688629,
+            "venue_id":823851563
+        }
+    ],
+    "wof:id":823851563,
+    "wof:lastmodified":1466425553,
+    "wof:name":"Rinaldi's Country Deli",
+    "wof:parent_id":85833939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.60045,
+    41.044734,
+    -73.60045,
+    41.044734
+],
+  "geometry": {"coordinates":[-73.60045,41.044734],"type":"Point"}
+}

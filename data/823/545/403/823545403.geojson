@@ -1,0 +1,80 @@
+{
+  "id": 823545403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.118753,41.165848,-73.118753,41.165848",
+    "geom:latitude":41.165848,
+    "geom:longitude":-73.118753,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"325 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 1100",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "sg:website":"www.atlanticaviation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831419,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WcLXNAuMiEWIIFyoVIc8m_41.165848_-73.118753@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440590,
+    "wof:geomhash":"751ba1802620ec0d9d05903b44c21522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85831419,
+            "region_id":85688629,
+            "venue_id":823545403
+        }
+    ],
+    "wof:id":823545403,
+    "wof:lastmodified":1466422469,
+    "wof:name":"Atlantic Aviation Bridgeport",
+    "wof:parent_id":85831419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.118753,
+    41.165848,
+    -73.118753,
+    41.165848
+],
+  "geometry": {"coordinates":[-73.118753,41.165848],"type":"Point"}
+}

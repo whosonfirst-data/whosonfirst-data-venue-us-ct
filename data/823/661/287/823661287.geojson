@@ -1,0 +1,71 @@
+{
+  "id": 823661287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.862079,41.277627,-72.862079,41.277627",
+    "geom:latitude":41.277627,
+    "geom:longitude":-72.862079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Main St",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6s7BPMCmpbme1X1W6aKgAc_41.277627_-72.862079@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443365,
+    "wof:geomhash":"feffe2bfd06ff73aff38948be2a2fa8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823661287
+        }
+    ],
+    "wof:id":823661287,
+    "wof:lastmodified":1466424032,
+    "wof:name":"Anzilotti Amy MD",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.862079,
+    41.277627,
+    -72.862079,
+    41.277627
+],
+  "geometry": {"coordinates":[-72.86207899999999,41.277627],"type":"Point"}
+}

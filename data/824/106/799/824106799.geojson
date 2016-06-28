@@ -1,0 +1,80 @@
+{
+  "id": 824106799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.140445,41.332219,-73.140445,41.332219",
+    "geom:latitude":41.332219,
+    "geom:longitude":-73.140445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 Leavenworth Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 4972",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grill",
+        "espresso",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LC1knXRFBN1S4OK2PLCoz_41.332219_-73.140445@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454482,
+    "wof:geomhash":"eb14939d563d9f1ec7f218cacc239474",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824106799
+        }
+    ],
+    "wof:id":824106799,
+    "wof:lastmodified":1466423104,
+    "wof:name":"Jeremiah's Grille & Cafe",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "espresso",
+        "bar"
+    ]
+},
+  "bbox": [
+    -73.140445,
+    41.332219,
+    -73.140445,
+    41.332219
+],
+  "geometry": {"coordinates":[-73.140445,41.332219],"type":"Point"}
+}

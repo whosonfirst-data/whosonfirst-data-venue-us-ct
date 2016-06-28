@@ -1,0 +1,72 @@
+{
+  "id": 824080335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.49206,41.14803,-73.49206,41.14803",
+    "geom:latitude":41.14803,
+    "geom:longitude":-73.49206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Forest St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-canaan/25292-gates/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 966 8666",
+    "sg:postcode":"06840",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FakGQVeiNE6UzyfCflqa7_41.148030_-73.492060@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453859,
+    "wof:geomhash":"05a98ca576768c6375f6f931bf792e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":824080335
+        }
+    ],
+    "wof:id":824080335,
+    "wof:lastmodified":1466422663,
+    "wof:name":"Gates",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.49206,
+    41.14803,
+    -73.49206,
+    41.14803
+],
+  "geometry": {"coordinates":[-73.49206,41.14803],"type":"Point"}
+}

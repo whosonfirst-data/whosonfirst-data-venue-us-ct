@@ -1,0 +1,83 @@
+{
+  "id": 823753567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.391579,41.125769,-73.391579,41.125769",
+    "geom:latitude":41.125769,
+    "geom:longitude":-73.391579,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"314 Westport Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 750 0766",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "salon"
+    ],
+    "sg:website":"www.beachclubtanning.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879315,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69rcwaTn1KzgVpziY62IEf_41.125769_-73.391579@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445462,
+    "wof:geomhash":"a86ca15b750c156de19b35192717ab9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879315,
+            "region_id":85688629,
+            "venue_id":823753567
+        }
+    ],
+    "wof:id":823753567,
+    "wof:lastmodified":1466424713,
+    "wof:name":"Beach Club Tanning Studios LLC",
+    "wof:parent_id":85879315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -73.391579,
+    41.125769,
+    -73.391579,
+    41.125769
+],
+  "geometry": {"coordinates":[-73.39157899999999,41.125769],"type":"Point"}
+}

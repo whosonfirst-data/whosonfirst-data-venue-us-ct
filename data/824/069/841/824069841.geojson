@@ -1,0 +1,78 @@
+{
+  "id": 824069841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.787395,41.27437,-72.787395,41.27437",
+    "geom:latitude":41.27437,
+    "geom:longitude":-72.787395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"157 Pine Orchard Rd",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 9660",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "kennel",
+        "sitting"
+    ],
+    "sg:website":"http://www.shorelinepetlodge.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fzkRydeN7RvitDIbMn33F_41.274124_-72.787172@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453605,
+    "wof:geomhash":"73f4e0967b26171ec6f1112f7b6318b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":824069841
+        }
+    ],
+    "wof:id":824069841,
+    "wof:lastmodified":1466422327,
+    "wof:name":"Shoreline Pet Lodge",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "kennel",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.787395,
+    41.27437,
+    -72.787395,
+    41.27437
+],
+  "geometry": {"coordinates":[-72.787395,41.27437],"type":"Point"}
+}

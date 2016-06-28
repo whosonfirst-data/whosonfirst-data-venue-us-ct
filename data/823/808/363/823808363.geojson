@@ -1,0 +1,73 @@
+{
+  "id": 823808363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.42855,41.530292,-73.42855,41.530292",
+    "geom:latitude":41.530292,
+    "geom:longitude":-73.42855,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Sullivan Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809223,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rZlZpNgvZejMqZevh5PpM_41.530292_-73.428550@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446954,
+    "wof:geomhash":"a6ce67c0cd4f90c13cc908e17984b6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809223,
+            "region_id":85688629,
+            "venue_id":823808363
+        }
+    ],
+    "wof:id":823808363,
+    "wof:lastmodified":1466425186,
+    "wof:name":"Equip Corporation",
+    "wof:parent_id":85809223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.42855,
+    41.530292,
+    -73.42855,
+    41.530292
+],
+  "geometry": {"coordinates":[-73.42855,41.530292],"type":"Point"}
+}

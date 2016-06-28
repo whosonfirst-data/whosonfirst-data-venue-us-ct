@@ -1,0 +1,73 @@
+{
+  "id": 823759769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.335414,41.837011,-72.335414,41.837011",
+    "geom:latitude":41.837011,
+    "geom:longitude":-72.335414,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"262 Baxter St",
+    "sg:city":"Tolland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 875 5866",
+    "sg:postcode":"06084",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857899,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P0oUoovGTtb1bK3kTmiRE_41.837011_-72.335414@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445610,
+    "wof:geomhash":"d93453fdd552d879a4c39ceffb9b3bdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85857899,
+            "region_id":85688629,
+            "venue_id":823759769
+        }
+    ],
+    "wof:id":823759769,
+    "wof:lastmodified":1466424802,
+    "wof:name":"Bergeron Excavation",
+    "wof:parent_id":85857899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.335414,
+    41.837011,
+    -72.335414,
+    41.837011
+],
+  "geometry": {"coordinates":[-72.335414,41.837011],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823645201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089157,41.805191,-73.089157,41.805191",
+    "geom:latitude":41.805191,
+    "geom:longitude":-73.089157,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Santa Maria Dr",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 482 7555",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mzGX10rtKv0M9FlMX5oeu_41.805191_-73.089157@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442970,
+    "wof:geomhash":"064ce156af3d371532f9b68e953ad2f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823645201
+        }
+    ],
+    "wof:id":823645201,
+    "wof:lastmodified":1466423637,
+    "wof:name":"Lemieux Mechanical LLC",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.089157,
+    41.805191,
+    -73.089157,
+    41.805191
+],
+  "geometry": {"coordinates":[-73.089157,41.805191],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 824114577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.480438,41.387772,-73.480438,41.387772",
+    "geom:latitude":41.387772,
+    "geom:longitude":-73.480438,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 School Ridge Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 797 4722",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "private",
+        "k-",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834261,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nZFa9ToGTkv9c8X3kgcBS_41.387772_-73.480438@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454649,
+    "wof:geomhash":"e01b8e4df15065ff294ed9dc62d7963c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834261,
+            "region_id":85688629,
+            "venue_id":824114577
+        }
+    ],
+    "wof:id":824114577,
+    "wof:lastmodified":1466423318,
+    "wof:name":"Mill Ridge Intermediate School",
+    "wof:parent_id":85834261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "private",
+        "k-",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.480438,
+    41.387772,
+    -73.480438,
+    41.387772
+],
+  "geometry": {"coordinates":[-73.48043800000001,41.387772],"type":"Point"}
+}

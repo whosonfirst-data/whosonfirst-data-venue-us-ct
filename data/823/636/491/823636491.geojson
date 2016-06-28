@@ -1,0 +1,73 @@
+{
+  "id": 823636491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255835,41.78268,-73.255835,41.78268",
+    "geom:latitude":41.78268,
+    "geom:longitude":-73.255835,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Hemlock Hill Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 567 0188",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LfyWbN8qOJdJzQQwKj4xl_41.782680_-73.255835@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442772,
+    "wof:geomhash":"537e23d84ee1b43c9e7db16f7335a43c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":823636491
+        }
+    ],
+    "wof:id":823636491,
+    "wof:lastmodified":1466423664,
+    "wof:name":"Knox Construction Inc",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.255835,
+    41.78268,
+    -73.255835,
+    41.78268
+],
+  "geometry": {"coordinates":[-73.255835,41.78268],"type":"Point"}
+}

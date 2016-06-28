@@ -1,0 +1,82 @@
+{
+  "id": 824071143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083241,41.343236,-73.083241,41.343236",
+    "geom:latitude":41.343236,
+    "geom:longitude":-73.083241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Lester St",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 2463",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "place",
+        "worship",
+        "church"
+    ],
+    "sg:website":"http://www.starbethlehem.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cNCIwUWxM8DFmV0CG4WRT_41.343788_-73.083113@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453645,
+    "wof:geomhash":"4c2e4bc51c945b7eb137fd65d084bf6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":824071143
+        }
+    ],
+    "wof:id":824071143,
+    "wof:lastmodified":1466422304,
+    "wof:name":"Star Bethlehem Church",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "worship",
+        "church"
+    ]
+},
+  "bbox": [
+    -73.083241,
+    41.343236,
+    -73.083241,
+    41.343236
+],
+  "geometry": {"coordinates":[-73.083241,41.343236],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 824084405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.865196,41.8153,-72.865196,41.8153",
+    "geom:latitude":41.8153,
+    "geom:longitude":-72.865196,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Dale Rd Ste 201",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 676 9350",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15Ak3bCQN0E0oqq62p5X73_41.815300_-72.865196@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453952,
+    "wof:geomhash":"5dc880a1bc63edc7426c3b02d9c6f25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824084405
+        }
+    ],
+    "wof:id":824084405,
+    "wof:lastmodified":1466422550,
+    "wof:name":"Cpg Behavioral Health Resources",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental",
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -72.865196,
+    41.8153,
+    -72.865196,
+    41.8153
+],
+  "geometry": {"coordinates":[-72.865196,41.8153],"type":"Point"}
+}

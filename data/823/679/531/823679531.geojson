@@ -1,0 +1,73 @@
+{
+  "id": 823679531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.259633,41.346944,-73.259633,41.346944",
+    "geom:latitude":41.346944,
+    "geom:longitude":-73.259633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"786 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6279",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62EV6x5jzwSfKdcaQW3Tr1_41.346944_-73.259633@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443778,
+    "wof:geomhash":"1fd7be3ba73a559ad850969f8df15757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823679531
+        }
+    ],
+    "wof:id":823679531,
+    "wof:lastmodified":1466423995,
+    "wof:name":"Edgerton Inc",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.259633,
+    41.346944,
+    -73.259633,
+    41.346944
+],
+  "geometry": {"coordinates":[-73.25963299999999,41.346944],"type":"Point"}
+}

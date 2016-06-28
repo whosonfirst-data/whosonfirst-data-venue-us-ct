@@ -1,0 +1,79 @@
+{
+  "id": 824068115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.910301,41.7005,-72.910301,41.7005",
+    "geom:latitude":41.7005,
+    "geom:longitude":-72.910301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"910 Stafford Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 0503",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pmjD5brNo88XjwVkm6MCb_41.700628_-72.910456@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453568,
+    "wof:geomhash":"daa734ca88ceea7366faa7f18ba87207",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824068115
+        }
+    ],
+    "wof:id":824068115,
+    "wof:lastmodified":1466422294,
+    "wof:name":"Taste of China",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -72.910301,
+    41.7005,
+    -72.910301,
+    41.7005
+],
+  "geometry": {"coordinates":[-72.910301,41.7005],"type":"Point"}
+}

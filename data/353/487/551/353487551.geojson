@@ -2,13 +2,14 @@
   "id": 353487551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.499136,41.145094,-73.499136,41.145094",
     "geom:latitude":41.145094,
     "geom:longitude":-73.499136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Grove St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -55,16 +56,22 @@
         }
     ],
     "wof:id":353487551,
-    "wof:lastmodified":1449019083,
+    "wof:lastmodified":1466421131,
     "wof:name":"Builders Supply",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.499136,41.145094,-73.499136,41.145094],
-  "geometry": {"coordinates":[-73.499136,41.145094],"type":"Point"}
+  "bbox": [
+    -73.499136,
+    41.145094,
+    -73.499136,
+    41.145094
+],
+  "geometry": {"coordinates":[-73.49913599999999,41.145094],"type":"Point"}
 }

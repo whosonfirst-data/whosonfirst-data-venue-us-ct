@@ -1,0 +1,75 @@
+{
+  "id": 823609693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.297297,41.269826,-73.297297,41.269826",
+    "geom:latitude":41.269826,
+    "geom:longitude":-73.297297,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Westport Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 0714",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mTy1cJTuzo97RshW3NbeX_41.269826_-73.297297@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442123,
+    "wof:geomhash":"37d3e514e57e37472270abc01c15419c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823609693
+        }
+    ],
+    "wof:id":823609693,
+    "wof:lastmodified":1466423518,
+    "wof:name":"Easton Public Works Dept",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -73.297297,
+    41.269826,
+    -73.297297,
+    41.269826
+],
+  "geometry": {"coordinates":[-73.297297,41.269826],"type":"Point"}
+}

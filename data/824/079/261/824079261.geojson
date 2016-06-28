@@ -1,0 +1,91 @@
+{
+  "id": 824079261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064032,41.67439,-73.064032,41.67439",
+    "geom:latitude":41.67439,
+    "geom:longitude":-73.064032,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"369 E Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/thomaston/130119-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 6763",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aoaMSeK1nBvX1qnsz06CH_41.674390_-73.064032@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453836,
+    "wof:geomhash":"109b0b48ac9d659fb87eabad8bf69e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824079261
+        }
+    ],
+    "wof:id":824079261,
+    "wof:lastmodified":1466422561,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.064032,
+    41.67439,
+    -73.064032,
+    41.67439
+],
+  "geometry": {"coordinates":[-73.064032,41.67439],"type":"Point"}
+}

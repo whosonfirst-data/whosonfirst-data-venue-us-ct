@@ -2,13 +2,14 @@
   "id": 303907611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.696118,41.082638,-73.696118,41.082638",
     "geom:latitude":41.082638,
     "geom:longitude":-73.696118,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Heronvue Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303907611,
-    "wof:lastmodified":1449000379,
+    "wof:lastmodified":1466421120,
     "wof:name":"Sequoia Inc",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.696118,41.082638,-73.696118,41.082638],
+  "bbox": [
+    -73.696118,
+    41.082638,
+    -73.696118,
+    41.082638
+],
   "geometry": {"coordinates":[-73.696118,41.082638],"type":"Point"}
 }

@@ -1,0 +1,77 @@
+{
+  "id": 823741549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054485,41.327291,-73.054485,41.327291",
+    "geom:latitude":41.327291,
+    "geom:longitude":-73.054485,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Pulaski Hwy",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 3525",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HIWHapDxIVLCLJmIiXaJK_41.327291_-73.054485@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445188,
+    "wof:geomhash":"20ec752b96f67fa5e9ab545b53c36f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823741549
+        }
+    ],
+    "wof:id":823741549,
+    "wof:lastmodified":1466424676,
+    "wof:name":"Ansonia Fire Marshall",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.054485,
+    41.327291,
+    -73.054485,
+    41.327291
+],
+  "geometry": {"coordinates":[-73.054485,41.327291],"type":"Point"}
+}

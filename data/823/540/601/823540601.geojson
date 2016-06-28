@@ -1,0 +1,75 @@
+{
+  "id": 823540601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.30858,41.412935,-73.30858,41.412935",
+    "geom:latitude":41.412935,
+    "geom:longitude":-73.30858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 5841",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "enforcement",
+        "law"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CnQWo0o2ymrzCShnjFNny_41.412935_-73.308580@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440482,
+    "wof:geomhash":"a6323a685821eb186e8e0d10b2c12f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823540601
+        }
+    ],
+    "wof:id":823540601,
+    "wof:lastmodified":1466422451,
+    "wof:name":"Newtown Police Department",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "enforcement",
+        "law"
+    ]
+},
+  "bbox": [
+    -73.30858,
+    41.412935,
+    -73.30858,
+    41.412935
+],
+  "geometry": {"coordinates":[-73.30858000000001,41.412935],"type":"Point"}
+}

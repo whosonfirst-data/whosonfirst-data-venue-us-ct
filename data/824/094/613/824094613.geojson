@@ -1,0 +1,90 @@
+{
+  "id": 824094613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.64436,41.849706,-72.64436,41.849706",
+    "geom:latitude":41.849706,
+    "geom:longitude":-72.64436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"296 Broad St",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 683 0384",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hardware",
+        "repair",
+        "equipment-service",
+        "equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.pcdevelopmentgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ilXSKSsACBjcIhubuTYbP_41.849706_-72.644360@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454210,
+    "wof:geomhash":"708e82f765d06fd866f6387b88a590b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824094613
+        }
+    ],
+    "wof:id":824094613,
+    "wof:lastmodified":1466422930,
+    "wof:name":"PC Development Group",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardware",
+        "repair",
+        "equipment-service",
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.64436,
+    41.849706,
+    -72.64436,
+    41.849706
+],
+  "geometry": {"coordinates":[-72.64436000000001,41.849706],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823968627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.955067,41.291382,-72.955067,41.291382",
+    "geom:latitude":41.291382,
+    "geom:longitude":-72.955067,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Locust St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 932 0550",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "general",
+        "sup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882017,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cF5LB9VpdKpV8NtNICp92_41.291382_-72.955067@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451226,
+    "wof:geomhash":"26d8357e7bf75e8e59e2a02c6d5faeb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85882017,
+            "region_id":85688629,
+            "venue_id":823968627
+        }
+    ],
+    "wof:id":823968627,
+    "wof:lastmodified":1466426605,
+    "wof:name":"Degennaro Auto & Trck Repr LLC",
+    "wof:parent_id":85882017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general",
+        "sup"
+    ]
+},
+  "bbox": [
+    -72.955067,
+    41.291382,
+    -72.955067,
+    41.291382
+],
+  "geometry": {"coordinates":[-72.955067,41.291382],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 270007759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.482538,41.144951,-73.482538,41.144951",
     "geom:latitude":41.144951,
     "geom:longitude":-73.482538,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 Lakeview Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270007759,
-    "wof:lastmodified":1449010650,
+    "wof:lastmodified":1466421090,
     "wof:name":"City Highway Dept Garage",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "parking"
     ]
 },
-  "bbox": [-73.482538,41.144951,-73.482538,41.144951],
-  "geometry": {"coordinates":[-73.482538,41.144951],"type":"Point"}
+  "bbox": [
+    -73.482538,
+    41.144951,
+    -73.482538,
+    41.144951
+],
+  "geometry": {"coordinates":[-73.48253800000001,41.144951],"type":"Point"}
 }

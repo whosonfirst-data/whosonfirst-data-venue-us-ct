@@ -1,0 +1,71 @@
+{
+  "id": 823855067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43455,41.533268,-73.43455,41.533268",
+    "geom:latitude":41.533268,
+    "geom:longitude":-73.43455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Skyview Dr",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809223,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F8B8Dp4BIBDIHtSeVHFHR_41.533268_-73.434550@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448360,
+    "wof:geomhash":"f306bf2669f9c1c5a8f6d82b5bb61bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809223,
+            "region_id":85688629,
+            "venue_id":823855067
+        }
+    ],
+    "wof:id":823855067,
+    "wof:lastmodified":1466425623,
+    "wof:name":"Foot Doctor",
+    "wof:parent_id":85809223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.43455,
+    41.533268,
+    -73.43455,
+    41.533268
+],
+  "geometry": {"coordinates":[-73.43455,41.533268],"type":"Point"}
+}

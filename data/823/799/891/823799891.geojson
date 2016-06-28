@@ -1,0 +1,71 @@
+{
+  "id": 823799891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.231281,41.222903,-73.231281,41.222903",
+    "geom:latitude":41.222903,
+    "geom:longitude":-73.231281,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3749 Madison Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 372 1426",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851229,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dHsu9neSowZkEHwJTyVv3_41.222903_-73.231281@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446709,
+    "wof:geomhash":"0a9051905bf85c4d836e2e9c0a0fbfff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851229,
+            "region_id":85688629,
+            "venue_id":823799891
+        }
+    ],
+    "wof:id":823799891,
+    "wof:lastmodified":1466425146,
+    "wof:name":"Top-Hat Cleaners",
+    "wof:parent_id":85851229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.231281,
+    41.222903,
+    -73.231281,
+    41.222903
+],
+  "geometry": {"coordinates":[-73.231281,41.222903],"type":"Point"}
+}

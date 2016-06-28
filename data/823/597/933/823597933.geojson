@@ -1,0 +1,83 @@
+{
+  "id": 823597933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.550241,41.093238,-73.550241,41.093238",
+    "geom:latitude":41.093238,
+    "geom:longitude":-73.550241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Nichols Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 968 9141",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831311,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cM16eLDRYmEFwgypnjM0F_41.093238_-73.550241@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441835,
+    "wof:geomhash":"b9580e52bb2a53d3a4831a3fdde90748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85831311,
+            "region_id":85688629,
+            "venue_id":823597933
+        }
+    ],
+    "wof:id":823597933,
+    "wof:lastmodified":1466423341,
+    "wof:name":"Controlled Temperatures Inc",
+    "wof:parent_id":85831311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.550241,
+    41.093238,
+    -73.550241,
+    41.093238
+],
+  "geometry": {"coordinates":[-73.550241,41.093238],"type":"Point"}
+}

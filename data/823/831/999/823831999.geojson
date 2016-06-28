@@ -1,0 +1,83 @@
+{
+  "id": 823831999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109937,41.35503,-73.109937,41.35503",
+    "geom:latitude":41.35503,
+    "geom:longitude":-73.109937,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Great Hill Rd",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 4740",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZJ9oKH1eit1KMQztbs8FA_41.355030_-73.109937@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447662,
+    "wof:geomhash":"222b909c3237e1d8f32a4f5a2504674f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823831999
+        }
+    ],
+    "wof:id":823831999,
+    "wof:lastmodified":1466425414,
+    "wof:name":"Le Claire Heating & Air Cond",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.109937,
+    41.35503,
+    -73.109937,
+    41.35503
+],
+  "geometry": {"coordinates":[-73.109937,41.35503],"type":"Point"}
+}

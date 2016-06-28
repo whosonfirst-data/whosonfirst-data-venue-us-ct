@@ -1,0 +1,85 @@
+{
+  "id": 823968483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.608097,41.811158,-72.608097,41.811158",
+    "geom:latitude":41.811158,
+    "geom:longitude":-72.608097,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"350 Chapel Rd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 436 4340",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y1dZBfxipumc6yArNnIxB_41.811158_-72.608097@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451222,
+    "wof:geomhash":"1573a183896156ebf683f0e2df9c6eac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823968483
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823968483
+        }
+    ],
+    "wof:id":823968483,
+    "wof:lastmodified":1466426650,
+    "wof:name":"MB Masonry",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.608097,
+    41.811158,
+    -72.608097,
+    41.811158
+],
+  "geometry": {"coordinates":[-72.608097,41.811158],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823987763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.118408,41.318379,-72.118408,41.318379",
+    "geom:latitude":41.318379,
+    "geom:longitude":-72.118408,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Goundry Dr",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 437 8659",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847609,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RAj8xq0olMtF1KZZ07lVL_41.318379_-72.118408@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451665,
+    "wof:geomhash":"392230369045d2a539c431cf02789634",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85847609,
+            "region_id":85688629,
+            "venue_id":823987763
+        }
+    ],
+    "wof:id":823987763,
+    "wof:lastmodified":1466426749,
+    "wof:name":"Spellman Properties LLC",
+    "wof:parent_id":85847609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.118408,
+    41.318379,
+    -72.118408,
+    41.318379
+],
+  "geometry": {"coordinates":[-72.118408,41.318379],"type":"Point"}
+}

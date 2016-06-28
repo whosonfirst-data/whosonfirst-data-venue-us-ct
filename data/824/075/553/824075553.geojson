@@ -1,0 +1,78 @@
+{
+  "id": 824075553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.070329,41.367715,-72.070329,41.367715",
+    "geom:latitude":41.367715,
+    "geom:longitude":-72.070329,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"195 Route 12",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/groton/207955-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 446 9296",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eoNQ1MVCYvYjjv9fzl4RD_41.367715_-72.070329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453751,
+    "wof:geomhash":"ff97e7dfd566839775e39760ba9c068f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":824075553
+        }
+    ],
+    "wof:id":824075553,
+    "wof:lastmodified":1466422592,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.070329,
+    41.367715,
+    -72.070329,
+    41.367715
+],
+  "geometry": {"coordinates":[-72.070329,41.367715],"type":"Point"}
+}

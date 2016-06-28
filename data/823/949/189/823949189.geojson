@@ -1,0 +1,80 @@
+{
+  "id": 823949189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.829921,41.444879,-72.829921,41.444879",
+    "geom:latitude":41.444879,
+    "geom:longitude":-72.829921,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 S Orchard St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 5667",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "car"
+    ],
+    "sg:website":"www.tperformance.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EkNfNsddrmq64G5BV67aK_41.444879_-72.829921@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450761,
+    "wof:geomhash":"bd0624be39f8d1fbf5bcc3c32656669e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823949189
+        }
+    ],
+    "wof:id":823949189,
+    "wof:lastmodified":1466426402,
+    "wof:name":"Total Performance",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.829921,
+    41.444879,
+    -72.829921,
+    41.444879
+],
+  "geometry": {"coordinates":[-72.829921,41.444879],"type":"Point"}
+}

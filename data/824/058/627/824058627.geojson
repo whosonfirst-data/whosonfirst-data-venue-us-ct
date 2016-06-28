@@ -1,0 +1,71 @@
+{
+  "id": 824058627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.657499,41.850971,-72.657499,41.850971",
+    "geom:latitude":41.850971,
+    "geom:longitude":-72.657499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Parkwood Dr",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h49bdKKXHQZ36XOJTB4P4_41.850971_-72.657499@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453366,
+    "wof:geomhash":"34f05ef11426c2b63180160bad5318a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824058627
+        }
+    ],
+    "wof:id":824058627,
+    "wof:lastmodified":1466422113,
+    "wof:name":"Parkwood Drive Group Home",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.657499,
+    41.850971,
+    -72.657499,
+    41.850971
+],
+  "geometry": {"coordinates":[-72.657499,41.850971],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824030201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.934691,41.342361,-72.934691,41.342361",
+    "geom:latitude":41.342361,
+    "geom:longitude":-72.934691,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1049 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 907 0513",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_685knB2T6Fqs4WxKe0MZpI_41.342361_-72.934691@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452668,
+    "wof:geomhash":"84705322788f6acd7ac93dc9ff520341",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824030201
+        }
+    ],
+    "wof:id":824030201,
+    "wof:lastmodified":1466421691,
+    "wof:name":"Checkered Flag Towing",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -72.934691,
+    41.342361,
+    -72.934691,
+    41.342361
+],
+  "geometry": {"coordinates":[-72.934691,41.342361],"type":"Point"}
+}

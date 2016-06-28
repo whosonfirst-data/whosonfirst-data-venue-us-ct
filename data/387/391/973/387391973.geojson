@@ -2,13 +2,14 @@
   "id": 387391973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.505463,41.141537,-73.505463,41.141537",
     "geom:latitude":41.141537,
     "geom:longitude":-73.505463,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Frogtown Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387391973,
-    "wof:lastmodified":1449058543,
+    "wof:lastmodified":1466421202,
     "wof:name":"Tinico LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.505463,41.141537,-73.505463,41.141537],
-  "geometry": {"coordinates":[-73.505463,41.141537],"type":"Point"}
+  "bbox": [
+    -73.505463,
+    41.141537,
+    -73.505463,
+    41.141537
+],
+  "geometry": {"coordinates":[-73.50546300000001,41.141537],"type":"Point"}
 }

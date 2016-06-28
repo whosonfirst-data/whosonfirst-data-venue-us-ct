@@ -1,0 +1,73 @@
+{
+  "id": 823876001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.490931,41.469851,-73.490931,41.469851",
+    "geom:latitude":41.469851,
+    "geom:longitude":-73.490931,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"96 State Hwy 37",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 746 6000",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85806093,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q9XiTj9prSjboU6MtaMJl_41.469851_-73.490931@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448872,
+    "wof:geomhash":"67f2d7a3877bd31b2e0da3d9a8b5276f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85806093,
+            "region_id":85688629,
+            "venue_id":823876001
+        }
+    ],
+    "wof:id":823876001,
+    "wof:lastmodified":1466425614,
+    "wof:name":"New Fairfield Family Practice",
+    "wof:parent_id":85806093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.490931,
+    41.469851,
+    -73.490931,
+    41.469851
+],
+  "geometry": {"coordinates":[-73.490931,41.469851],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823968743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.456726,41.40028,-73.456726,41.40028",
+    "geom:latitude":41.40028,
+    "geom:longitude":-73.456726,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 E Franklin St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 3012",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.test-con.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78NGPlrsTuBKUEDfN7lYZ6_41.400280_-73.456726@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451228,
+    "wof:geomhash":"adb56996508bbc45e0fe3282eb2eba54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823968743
+        }
+    ],
+    "wof:id":823968743,
+    "wof:lastmodified":1466426609,
+    "wof:name":"Test-Con Inc",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.456726,
+    41.40028,
+    -73.456726,
+    41.40028
+],
+  "geometry": {"coordinates":[-73.456726,41.40028],"type":"Point"}
+}

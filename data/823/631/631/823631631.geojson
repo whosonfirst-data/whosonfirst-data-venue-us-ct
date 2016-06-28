@@ -1,0 +1,71 @@
+{
+  "id": 823631631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200142,41.440522,-73.200142,41.440522",
+    "geom:latitude":41.440522,
+    "geom:longitude":-73.200142,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"162 Britiani Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810099,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xpnBntr2k93YiIDzWh0R7_41.440522_-73.200142@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442663,
+    "wof:geomhash":"5cf04677a40758189d94079e53f88def",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810099,
+            "region_id":85688629,
+            "venue_id":823631631
+        }
+    ],
+    "wof:id":823631631,
+    "wof:lastmodified":1466423649,
+    "wof:name":"Ship Shape Inc",
+    "wof:parent_id":85810099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.200142,
+    41.440522,
+    -73.200142,
+    41.440522
+],
+  "geometry": {"coordinates":[-73.200142,41.440522],"type":"Point"}
+}

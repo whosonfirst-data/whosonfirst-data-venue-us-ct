@@ -1,0 +1,82 @@
+{
+  "id": 824076629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.651358,41.545894,-72.651358,41.545894",
+    "geom:latitude":41.545894,
+    "geom:longitude":-72.651358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"370 S Main St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/middletown/17525-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 704 0606",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807267,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3thG6uHNXq9iFqjROPzBqD_41.545894_-72.651358@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453776,
+    "wof:geomhash":"9dad62fd6640e7029575b5ffdf03597e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85807267,
+            "region_id":85688629,
+            "venue_id":824076629
+        }
+    ],
+    "wof:id":824076629,
+    "wof:lastmodified":1466422594,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85807267,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.651358,
+    41.545894,
+    -72.651358,
+    41.545894
+],
+  "geometry": {"coordinates":[-72.651358,41.545894],"type":"Point"}
+}

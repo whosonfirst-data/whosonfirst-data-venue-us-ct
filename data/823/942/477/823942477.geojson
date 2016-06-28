@@ -1,0 +1,75 @@
+{
+  "id": 823942477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.370009,41.549426,-73.370009,41.549426",
+    "geom:latitude":41.549426,
+    "geom:longitude":-73.370009,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"62 Second Hill Rd",
+    "sg:city":"Bridgewater",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 4438",
+    "sg:postcode":"06752",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mfg",
+        "milk",
+        "fluid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ma9L0ghPwabbPpVmV8bQo_41.549426_-73.370009@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450581,
+    "wof:geomhash":"1590a4b018b37d1f171bb3e59973705e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":823942477
+        }
+    ],
+    "wof:id":823942477,
+    "wof:lastmodified":1466426404,
+    "wof:name":"Royal Meadows Dairy",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "milk",
+        "fluid"
+    ]
+},
+  "bbox": [
+    -73.370009,
+    41.549426,
+    -73.370009,
+    41.549426
+],
+  "geometry": {"coordinates":[-73.370009,41.549426],"type":"Point"}
+}

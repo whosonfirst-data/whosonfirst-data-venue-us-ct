@@ -1,0 +1,88 @@
+{
+  "id": 824117995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.429595,41.08287,-73.429595,41.08287",
+    "geom:latitude":41.08287,
+    "geom:longitude":-73.429595,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Rockland Rd",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 853 1500",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846241,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hhMG6XsjTr3Zitk6gUuUa_41.082870_-73.429595@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454725,
+    "wof:geomhash":"7f699cad9a36a82a7fefe6ef2d12d856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85846241,
+            "region_id":85688629,
+            "venue_id":824117995
+        }
+    ],
+    "wof:id":824117995,
+    "wof:lastmodified":1466423353,
+    "wof:name":"Liquid Distributors, Inc.",
+    "wof:parent_id":85846241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -73.429595,
+    41.08287,
+    -73.429595,
+    41.08287
+],
+  "geometry": {"coordinates":[-73.42959500000001,41.08287],"type":"Point"}
+}

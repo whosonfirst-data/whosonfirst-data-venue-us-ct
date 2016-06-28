@@ -1,0 +1,73 @@
+{
+  "id": 823464919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.362791,41.331602,-73.362791,41.331602",
+    "geom:latitude":41.331602,
+    "geom:longitude":-73.362791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Sunny View Dr",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 9838",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826245,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35LXpGSHpRK3VkPoYxejwD_41.331602_-73.362791@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438713,
+    "wof:geomhash":"9661d368c4fe81bb679ba5efacfb2b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826245,
+            "region_id":85688629,
+            "venue_id":823464919
+        }
+    ],
+    "wof:id":823464919,
+    "wof:lastmodified":1466421149,
+    "wof:name":"Alterio Electrical",
+    "wof:parent_id":85826245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.362791,
+    41.331602,
+    -73.362791,
+    41.331602
+],
+  "geometry": {"coordinates":[-73.362791,41.331602],"type":"Point"}
+}

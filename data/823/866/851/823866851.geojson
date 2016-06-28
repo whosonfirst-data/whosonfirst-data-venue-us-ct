@@ -1,0 +1,79 @@
+{
+  "id": 823866851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.651016,41.555536,-72.651016,41.555536",
+    "geom:latitude":41.555536,
+    "geom:longitude":-72.651016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Church St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "surgeon",
+        "plastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Iy8C3xqpAwbLQpDKc7H7O_41.555536_-72.651016@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448669,
+    "wof:geomhash":"b379e0d61ae3d0fb5b0bf8eb2e636602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":823866851
+        }
+    ],
+    "wof:id":823866851,
+    "wof:lastmodified":1466425759,
+    "wof:name":"John J Borkowski MD",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "plastic"
+    ]
+},
+  "bbox": [
+    -72.651016,
+    41.555536,
+    -72.651016,
+    41.555536
+],
+  "geometry": {"coordinates":[-72.651016,41.555536],"type":"Point"}
+}

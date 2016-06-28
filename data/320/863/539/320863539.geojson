@@ -2,13 +2,14 @@
   "id": 320863539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.536299,41.446869,-73.536299,41.446869",
     "geom:latitude":41.446869,
     "geom:longitude":-73.536299,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 State Line Rd",
     "sg:city":"Brewster",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320863539,
-    "wof:lastmodified":1449013851,
+    "wof:lastmodified":1466421127,
     "wof:name":"Wanninger & Wanninger",
     "wof:parent_id":85868711,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-73.536299,41.446869,-73.536299,41.446869],
+  "bbox": [
+    -73.536299,
+    41.446869,
+    -73.536299,
+    41.446869
+],
   "geometry": {"coordinates":[-73.536299,41.446869],"type":"Point"}
 }

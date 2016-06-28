@@ -1,0 +1,66 @@
+{
+  "id": 823485757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.91581,41.374313,-72.91581,41.374313",
+    "geom:latitude":41.374313,
+    "geom:longitude":-72.91581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2195 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 6368",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I4sRVIHAbi9WSrC7RtLp8_41.374313_-72.915810@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439199,
+    "wof:geomhash":"5d7f0354e56433d90734e571cb5491e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823485757
+        }
+    ],
+    "wof:id":823485757,
+    "wof:lastmodified":1466421487,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.91581,
+    41.374313,
+    -72.91581,
+    41.374313
+],
+  "geometry": {"coordinates":[-72.91580999999999,41.374313],"type":"Point"}
+}

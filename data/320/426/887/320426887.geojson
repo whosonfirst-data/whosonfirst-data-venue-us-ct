@@ -2,13 +2,14 @@
   "id": 320426887,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.674746,41.097894,-73.674746,41.097894",
     "geom:latitude":41.097894,
     "geom:longitude":-73.674746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"62 Mooreland Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320426887,
-    "wof:lastmodified":1449012055,
+    "wof:lastmodified":1466421124,
     "wof:name":"Jean Pierre Diels",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-73.674746,41.097894,-73.674746,41.097894],
+  "bbox": [
+    -73.674746,
+    41.097894,
+    -73.674746,
+    41.097894
+],
   "geometry": {"coordinates":[-73.674746,41.097894],"type":"Point"}
 }

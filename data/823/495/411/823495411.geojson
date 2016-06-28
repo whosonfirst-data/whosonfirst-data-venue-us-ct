@@ -1,0 +1,73 @@
+{
+  "id": 823495411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.294338,41.275936,-73.294338,41.275936",
+    "geom:latitude":41.275936,
+    "geom:longitude":-73.294338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Stepney Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 5557",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ovNLXMJmj0qaf7squs8Ox_41.275936_-73.294338@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439442,
+    "wof:geomhash":"823daea6b97dbfd2b16716e27db6347a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823495411
+        }
+    ],
+    "wof:id":823495411,
+    "wof:lastmodified":1466421628,
+    "wof:name":"Mastroni Excavating Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.294338,
+    41.275936,
+    -73.294338,
+    41.275936
+],
+  "geometry": {"coordinates":[-73.294338,41.275936],"type":"Point"}
+}

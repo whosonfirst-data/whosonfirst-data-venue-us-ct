@@ -1,0 +1,87 @@
+{
+  "id": 824062233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099336,41.841899,-73.099336,41.841899",
+    "geom:latitude":41.841899,
+    "geom:longitude":-73.099336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"287 Old Winsted Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "engine",
+        "automotive",
+        "diesel",
+        "an",
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808607,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N9rVk2u9DxoFZ9zPAeOF0_41.841899_-73.099336@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453436,
+    "wof:geomhash":"c5f4f8ee084100740c3c35ce26743eb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85808607,
+            "region_id":85688629,
+            "venue_id":824062233
+        }
+    ],
+    "wof:id":824062233,
+    "wof:lastmodified":1466422206,
+    "wof:name":"Torrington Diesel Corporation",
+    "wof:parent_id":85808607,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "automotive",
+        "diesel",
+        "an",
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.099336,
+    41.841899,
+    -73.099336,
+    41.841899
+],
+  "geometry": {"coordinates":[-73.09933599999999,41.841899],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 823712773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22806,41.156282,-73.22806,41.156282",
+    "geom:latitude":41.156282,
+    "geom:longitude":-73.22806,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2931 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 579 2233",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WkWXOTsLYvi1KG2I2QwaT_41.156282_-73.228060@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444505,
+    "wof:geomhash":"79f3f6f84ce2b1bf401fc4cb1f83f413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823712773
+        }
+    ],
+    "wof:id":823712773,
+    "wof:lastmodified":1466424424,
+    "wof:name":"John Adams Bar & Grill",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.22806,
+    41.156282,
+    -73.22806,
+    41.156282
+],
+  "geometry": {"coordinates":[-73.22806,41.156282],"type":"Point"}
+}

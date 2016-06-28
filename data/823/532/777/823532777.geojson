@@ -1,0 +1,75 @@
+{
+  "id": 823532777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.791116,41.672969,-72.791116,41.672969",
+    "geom:latitude":41.672969,
+    "geom:longitude":-72.791116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"229 Broad St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jMoLYLpItetHG07VDjfgP_41.672969_-72.791116@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440307,
+    "wof:geomhash":"d08c089178220717143b243b8a871215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823532777
+        }
+    ],
+    "wof:id":823532777,
+    "wof:lastmodified":1466422353,
+    "wof:name":"Jay Video II",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.791116,
+    41.672969,
+    -72.791116,
+    41.672969
+],
+  "geometry": {"coordinates":[-72.791116,41.672969],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824045421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.453321,41.138023,-73.453321,41.138023",
+    "geom:latitude":41.138023,
+    "geom:longitude":-73.453321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 May St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 846 3063",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879307,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85848785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IsZsE4Ew60BfuoXi529fs_41.138023_-73.453321@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453050,
+    "wof:geomhash":"e58edc2fbe891d2c21548757266c4885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879307,
+            "region_id":85688629,
+            "venue_id":824045421
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85848785,
+            "region_id":85688629,
+            "venue_id":824045421
+        }
+    ],
+    "wof:id":824045421,
+    "wof:lastmodified":1466421936,
+    "wof:name":"Rainbow News & Variety Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.453321,
+    41.138023,
+    -73.453321,
+    41.138023
+],
+  "geometry": {"coordinates":[-73.453321,41.138023],"type":"Point"}
+}

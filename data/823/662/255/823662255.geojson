@@ -1,0 +1,66 @@
+{
+  "id": 823662255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.614683,41.721997,-72.614683,41.721997",
+    "geom:latitude":41.721997,
+    "geom:longitude":-72.614683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2854 Main St",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 9393",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34vcqwEG9vXE9k9zrSAsnF_41.721997_-72.614683@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443394,
+    "wof:geomhash":"f1aa4115fc4fedfa27754a8c5a3c4404",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823662255
+        }
+    ],
+    "wof:id":823662255,
+    "wof:lastmodified":1466423876,
+    "wof:name":"Center of Plate LLC",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.614683,
+    41.721997,
+    -72.614683,
+    41.721997
+],
+  "geometry": {"coordinates":[-72.614683,41.721997],"type":"Point"}
+}

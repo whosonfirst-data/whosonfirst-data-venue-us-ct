@@ -2,13 +2,14 @@
   "id": 370395957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496557,41.147046,-73.496557,41.147046",
     "geom:latitude":41.147046,
     "geom:longitude":-73.496557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Seminary St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370395957,
-    "wof:lastmodified":1449031971,
+    "wof:lastmodified":1466421143,
     "wof:name":"McEvoy/Batchelor Intl LLP",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.496557,41.147046,-73.496557,41.147046],
+  "bbox": [
+    -73.496557,
+    41.147046,
+    -73.496557,
+    41.147046
+],
   "geometry": {"coordinates":[-73.496557,41.147046],"type":"Point"}
 }

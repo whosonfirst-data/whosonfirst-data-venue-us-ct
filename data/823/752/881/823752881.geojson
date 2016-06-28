@@ -1,0 +1,71 @@
+{
+  "id": 823752881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.896748,41.394195,-72.896748,41.394195",
+    "geom:latitude":41.394195,
+    "geom:longitude":-72.896748,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2679 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WGO7hKiDIyaKIhLIvrrSI_41.394195_-72.896748@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445448,
+    "wof:geomhash":"679cec99fc47825d06436983cd8b4824",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823752881
+        }
+    ],
+    "wof:id":823752881,
+    "wof:lastmodified":1466424766,
+    "wof:name":"Jose Asis MD",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.896748,
+    41.394195,
+    -72.896748,
+    41.394195
+],
+  "geometry": {"coordinates":[-72.896748,41.394195],"type":"Point"}
+}

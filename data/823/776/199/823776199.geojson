@@ -1,0 +1,71 @@
+{
+  "id": 823776199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977129,41.330732,-72.977129,41.330732",
+    "geom:latitude":41.330732,
+    "geom:longitude":-72.977129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"149 Ramsdell St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58jV0EUDoxyXp4JT02ZYk1_41.330732_-72.977129@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445988,
+    "wof:geomhash":"327f6793821ad6d8088d19c5d83ed4fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823776199
+        }
+    ],
+    "wof:id":823776199,
+    "wof:lastmodified":1466424909,
+    "wof:name":"S & B Auto Detailing",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.977129,
+    41.330732,
+    -72.977129,
+    41.330732
+],
+  "geometry": {"coordinates":[-72.97712900000001,41.330732],"type":"Point"}
+}

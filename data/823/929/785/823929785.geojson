@@ -1,0 +1,71 @@
+{
+  "id": 823929785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.054146,41.371959,-72.054146,41.371959",
+    "geom:latitude":41.371959,
+    "geom:longitude":-72.054146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"489 Gold Star Hwy",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85831297,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QMaLW71fOxx0YLi9rB80u_41.371959_-72.054146@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450238,
+    "wof:geomhash":"d5badb80ed96dcad3fd5546252ad0967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85831297,
+            "region_id":85688629,
+            "venue_id":823929785
+        }
+    ],
+    "wof:id":823929785,
+    "wof:lastmodified":1466426262,
+    "wof:name":"Found View Orthopedics",
+    "wof:parent_id":85831297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.054146,
+    41.371959,
+    -72.054146,
+    41.371959
+],
+  "geometry": {"coordinates":[-72.054146,41.371959],"type":"Point"}
+}

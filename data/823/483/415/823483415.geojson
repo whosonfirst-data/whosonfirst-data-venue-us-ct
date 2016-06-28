@@ -1,0 +1,83 @@
+{
+  "id": 823483415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.906258,41.476571,-72.906258,41.476571",
+    "geom:latitude":41.476571,
+    "geom:longitude":-72.906258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1035 S Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 699 0222",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mailing",
+        "shipping",
+        "business"
+    ],
+    "sg:website":"www.upsstore.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931411,
+        102086923,
+        85844387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GuDXtcGUIDScURxpAxNKd_41.476571_-72.906258@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439153,
+    "wof:geomhash":"2b4ea92da503a8247b0965e092d9f3cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "locality_id":85931411,
+            "neighbourhood_id":85844387,
+            "region_id":85688629,
+            "venue_id":823483415
+        }
+    ],
+    "wof:id":823483415,
+    "wof:lastmodified":1466421455,
+    "wof:name":"UPS Stores",
+    "wof:parent_id":85844387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailing",
+        "shipping",
+        "business"
+    ]
+},
+  "bbox": [
+    -72.906258,
+    41.476571,
+    -72.906258,
+    41.476571
+],
+  "geometry": {"coordinates":[-72.90625799999999,41.476571],"type":"Point"}
+}

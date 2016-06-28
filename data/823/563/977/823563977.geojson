@@ -1,0 +1,71 @@
+{
+  "id": 823563977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.422209,41.441179,-73.422209,41.441179",
+    "geom:latitude":41.441179,
+    "geom:longitude":-73.422209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 N Nabby Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 7162",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DkbcK12W1gjAK2P6nCRcN_41.441179_-73.422209@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441040,
+    "wof:geomhash":"72639d608cb1d689e53f4b8896ff8c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823563977
+        }
+    ],
+    "wof:id":823563977,
+    "wof:lastmodified":1466422991,
+    "wof:name":"Brookfield Roofing",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.422209,
+    41.441179,
+    -73.422209,
+    41.441179
+],
+  "geometry": {"coordinates":[-73.422209,41.441179],"type":"Point"}
+}

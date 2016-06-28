@@ -1,0 +1,71 @@
+{
+  "id": 824110793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201738,41.649111,-73.201738,41.649111",
+    "geom:latitude":41.649111,
+    "geom:longitude":-73.201738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Kasson Rd",
+    "sg:city":"Bethlehem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 266 7675",
+    "sg:postcode":"06751",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847045,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r27jv71c4ZM2xwWlihcoR_41.649111_-73.201738@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454567,
+    "wof:geomhash":"0c8cc62fefa58c121922069ae5201596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":824110793
+        }
+    ],
+    "wof:id":824110793,
+    "wof:lastmodified":1466423142,
+    "wof:name":"Cemetary Road",
+    "wof:parent_id":85847045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -73.201738,
+    41.649111,
+    -73.201738,
+    41.649111
+],
+  "geometry": {"coordinates":[-73.20173800000001,41.649111],"type":"Point"}
+}

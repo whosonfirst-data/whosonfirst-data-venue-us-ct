@@ -1,0 +1,73 @@
+{
+  "id": 823566999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.127168,41.31585,-72.127168,41.31585",
+    "geom:latitude":41.31585,
+    "geom:longitude":-72.127168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Susan Ter",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 443 9573",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847609,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_264xDRVHYK1qeQJOHupjWA_41.315850_-72.127168@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441114,
+    "wof:geomhash":"c43064ae87a393a3a6cd671a0599fe20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85847609,
+            "region_id":85688629,
+            "venue_id":823566999
+        }
+    ],
+    "wof:id":823566999,
+    "wof:lastmodified":1466422798,
+    "wof:name":"Broad Street Realty LLC",
+    "wof:parent_id":85847609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.127168,
+    41.31585,
+    -72.127168,
+    41.31585
+],
+  "geometry": {"coordinates":[-72.127168,41.31585],"type":"Point"}
+}

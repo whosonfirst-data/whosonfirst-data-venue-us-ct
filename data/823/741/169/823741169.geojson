@@ -1,0 +1,81 @@
+{
+  "id": 823741169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.236992,41.153769,-73.236992,41.153769",
+    "geom:latitude":41.153769,
+    "geom:longitude":-73.236992,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3445 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 7848",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78zemNWWtJ7TVm9vv9VYru_41.153769_-73.236992@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445179,
+    "wof:geomhash":"7411314c339ee0eb5f4d47a441d42d9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823741169
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823741169
+        }
+    ],
+    "wof:id":823741169,
+    "wof:lastmodified":1466424620,
+    "wof:name":"The Avenue Cafe Black Rock",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.236992,
+    41.153769,
+    -73.236992,
+    41.153769
+],
+  "geometry": {"coordinates":[-73.236992,41.153769],"type":"Point"}
+}

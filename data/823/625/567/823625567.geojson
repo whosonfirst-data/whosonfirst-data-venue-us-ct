@@ -1,0 +1,71 @@
+{
+  "id": 823625567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.077587,41.904514,-72.077587,41.904514",
+    "geom:latitude":41.904514,
+    "geom:longitude":-72.077587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 County Rd",
+    "sg:city":"Eastford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06242",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828179,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aiydshNS4eBzEfZSa0UVl_41.904514_-72.077587@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442525,
+    "wof:geomhash":"e8096349de91301f4ac8a3dc4608295a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85828179,
+            "region_id":85688629,
+            "venue_id":823625567
+        }
+    ],
+    "wof:id":823625567,
+    "wof:lastmodified":1466423565,
+    "wof:name":"Bergson Tire Co Inc",
+    "wof:parent_id":85828179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.077587,
+    41.904514,
+    -72.077587,
+    41.904514
+],
+  "geometry": {"coordinates":[-72.07758699999999,41.904514],"type":"Point"}
+}

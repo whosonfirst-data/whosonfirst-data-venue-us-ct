@@ -1,0 +1,77 @@
+{
+  "id": 823745389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15046,41.178941,-73.15046,41.178941",
+    "geom:latitude":41.178941,
+    "geom:longitude":-73.15046,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"480 Surf Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 6260",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EkSzDDxr7AbNi22yaQQD6_41.178941_-73.150460@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445272,
+    "wof:geomhash":"5696e9b8309db31369dd07d879eec780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823745389
+        }
+    ],
+    "wof:id":823745389,
+    "wof:lastmodified":1466424611,
+    "wof:name":"Tadduni Services",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.15046,
+    41.178941,
+    -73.15046,
+    41.178941
+],
+  "geometry": {"coordinates":[-73.15046,41.178941],"type":"Point"}
+}

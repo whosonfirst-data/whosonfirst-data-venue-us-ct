@@ -1,0 +1,66 @@
+{
+  "id": 823503247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781475,41.493189,-72.781475,41.493189",
+    "geom:latitude":41.493189,
+    "geom:longitude":-72.781475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1069 N Farms Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 5002",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16BEVlHOZT5scZ0JvlKx0D_41.493189_-72.781475@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439649,
+    "wof:geomhash":"ef589d457b9e13dfb487b90470163fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823503247
+        }
+    ],
+    "wof:id":823503247,
+    "wof:lastmodified":1466421663,
+    "wof:name":"Walter Werbiski",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.781475,
+    41.493189,
+    -72.781475,
+    41.493189
+],
+  "geometry": {"coordinates":[-72.781475,41.493189],"type":"Point"}
+}

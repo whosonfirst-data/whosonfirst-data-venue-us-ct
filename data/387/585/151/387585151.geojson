@@ -2,13 +2,14 @@
   "id": 387585151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.662746,41.015387,-73.662746,41.015387",
     "geom:latitude":41.015387,
     "geom:longitude":-73.662746,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Halstead Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":387585151,
-    "wof:lastmodified":1449058639,
+    "wof:lastmodified":1466421102,
     "wof:name":"Ralph Signorelli",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-73.662746,41.015387,-73.662746,41.015387],
+  "bbox": [
+    -73.662746,
+    41.015387,
+    -73.662746,
+    41.015387
+],
   "geometry": {"coordinates":[-73.662746,41.015387],"type":"Point"}
 }

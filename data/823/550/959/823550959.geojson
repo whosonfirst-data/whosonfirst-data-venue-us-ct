@@ -1,0 +1,71 @@
+{
+  "id": 823550959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.516307,41.338497,-73.516307,41.338497",
+    "geom:latitude":41.338497,
+    "geom:longitude":-73.516307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Virginia Ct",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 438 6100",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844499,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41cxljYBi3JsX6JEdwttpN_41.338497_-73.516307@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440721,
+    "wof:geomhash":"ce74504206f63609ade7eee789de859c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844499,
+            "region_id":85688629,
+            "venue_id":823550959
+        }
+    ],
+    "wof:id":823550959,
+    "wof:lastmodified":1466422561,
+    "wof:name":"Equity Appraisal",
+    "wof:parent_id":85844499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -73.516307,
+    41.338497,
+    -73.516307,
+    41.338497
+],
+  "geometry": {"coordinates":[-73.516307,41.338497],"type":"Point"}
+}

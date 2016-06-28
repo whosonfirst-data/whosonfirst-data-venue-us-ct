@@ -1,0 +1,75 @@
+{
+  "id": 823737481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492551,41.286918,-72.492551,41.286918",
+    "geom:latitude":41.286918,
+    "geom:longitude":-72.492551,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"204 Old Post Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 256 9541",
+    "sg:postcode":"06413",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823261,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51lDktuofvn9WOEq5G9gu6_41.286918_-72.492551@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445097,
+    "wof:geomhash":"0e57c2a54512e0992f4ecab6f1ca1917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85823261,
+            "region_id":85688629,
+            "venue_id":823737481
+        }
+    ],
+    "wof:id":823737481,
+    "wof:lastmodified":1466424660,
+    "wof:name":"Euro Automotive",
+    "wof:parent_id":85823261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.492551,
+    41.286918,
+    -72.492551,
+    41.286918
+],
+  "geometry": {"coordinates":[-72.49255100000001,41.286918],"type":"Point"}
+}

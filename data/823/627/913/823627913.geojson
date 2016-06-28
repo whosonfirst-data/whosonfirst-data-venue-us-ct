@@ -1,0 +1,74 @@
+{
+  "id": 823627913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930961,41.351955,-72.930961,41.351955",
+    "geom:latitude":41.351955,
+    "geom:longitude":-72.930961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Oregon Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 1213",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dk3iiqlLWGT0jEBO6rX3O_41.351955_-72.930961@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442580,
+    "wof:geomhash":"4ae8caa9d0cd02ab2a411fa72f4c1f28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823627913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823627913
+        }
+    ],
+    "wof:id":823627913,
+    "wof:lastmodified":1466423742,
+    "wof:name":"Neighborhood Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.930961,
+    41.351955,
+    -72.930961,
+    41.351955
+],
+  "geometry": {"coordinates":[-72.930961,41.351955],"type":"Point"}
+}

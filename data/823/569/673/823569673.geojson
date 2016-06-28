@@ -1,0 +1,73 @@
+{
+  "id": 823569673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.388179,41.933174,-73.388179,41.933174",
+    "geom:latitude":41.933174,
+    "geom:longitude":-73.388179,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 Lime Rock Rd",
+    "sg:city":"Lakeville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 9880",
+    "sg:postcode":"06039",
+    "sg:province":"CT",
+    "sg:tags":[
+        "processing",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830509,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oRKzVk0leVt2PwRSoxipR_41.933174_-73.388179@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441182,
+    "wof:geomhash":"b7050ba6e721dc6f03c842ac086fc91a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85830509,
+            "region_id":85688629,
+            "venue_id":823569673
+        }
+    ],
+    "wof:id":823569673,
+    "wof:lastmodified":1466422857,
+    "wof:name":"Bills Refuse Service",
+    "wof:parent_id":85830509,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.388179,
+    41.933174,
+    -73.388179,
+    41.933174
+],
+  "geometry": {"coordinates":[-73.38817899999999,41.933174],"type":"Point"}
+}

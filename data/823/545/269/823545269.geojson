@@ -1,0 +1,83 @@
+{
+  "id": 823545269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927711,41.354472,-72.927711,41.354472",
+    "geom:latitude":41.354472,
+    "geom:longitude":-72.927711,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Marne St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photocopying",
+        "duplicating",
+        "offset"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72cs7OvwxmMcWeJSdemBSA_41.354472_-72.927711@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440588,
+    "wof:geomhash":"1579ecb86d5ddee82523408749b504dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823545269
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823545269
+        }
+    ],
+    "wof:id":823545269,
+    "wof:lastmodified":1466422455,
+    "wof:name":"Science Park Copy Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photocopying",
+        "duplicating",
+        "offset"
+    ]
+},
+  "bbox": [
+    -72.927711,
+    41.354472,
+    -72.927711,
+    41.354472
+],
+  "geometry": {"coordinates":[-72.927711,41.354472],"type":"Point"}
+}

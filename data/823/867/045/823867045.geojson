@@ -1,0 +1,73 @@
+{
+  "id": 823867045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.820796,41.489586,-72.820796,41.489586",
+    "geom:latitude":41.489586,
+    "geom:longitude":-72.820796,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Chapel St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 949 9979",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eaahJFMcEXGy1dkUIcpeN_41.489586_-72.820796@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448672,
+    "wof:geomhash":"b6406ef026bc456734b68cffa8dfe5a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823867045
+        }
+    ],
+    "wof:id":823867045,
+    "wof:lastmodified":1466425674,
+    "wof:name":"Keith's Hauling & Rolloffs",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.820796,
+    41.489586,
+    -72.820796,
+    41.489586
+],
+  "geometry": {"coordinates":[-72.820796,41.489586],"type":"Point"}
+}

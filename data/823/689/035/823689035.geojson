@@ -1,0 +1,71 @@
+{
+  "id": 823689035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.822623,41.277703,-72.822623,41.277703",
+    "geom:latitude":41.277703,
+    "geom:longitude":-72.822623,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"214 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 483 7900",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55ui7E9PlUBC0GdxIpl4QZ_41.277703_-72.822623@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443992,
+    "wof:geomhash":"c8e70813bee61338d75c3edad03252d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823689035
+        }
+    ],
+    "wof:id":823689035,
+    "wof:lastmodified":1466424061,
+    "wof:name":"Cosmic Cat Veterinary Clinic",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.822623,
+    41.277703,
+    -72.822623,
+    41.277703
+],
+  "geometry": {"coordinates":[-72.82262299999999,41.277703],"type":"Point"}
+}

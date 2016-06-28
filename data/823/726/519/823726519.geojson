@@ -1,0 +1,71 @@
+{
+  "id": 823726519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.591851,41.80013,-72.591851,41.80013",
+    "geom:latitude":41.80013,
+    "geom:longitude":-72.591851,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"793 Burnham St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 2154",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yJna0bzHpVT5XXigUBybm_41.800130_-72.591851@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444815,
+    "wof:geomhash":"7a83b339c69ddeabc32889b3b5c5bed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823726519
+        }
+    ],
+    "wof:id":823726519,
+    "wof:lastmodified":1466424517,
+    "wof:name":"Palla Construction",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.591851,
+    41.80013,
+    -72.591851,
+    41.80013
+],
+  "geometry": {"coordinates":[-72.59185100000001,41.80013],"type":"Point"}
+}

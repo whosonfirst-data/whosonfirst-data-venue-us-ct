@@ -1,0 +1,90 @@
+{
+  "id": 824089377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.785187,41.95285,-72.785187,41.95285",
+    "geom:latitude":41.95285,
+    "geom:longitude":-72.785187,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Bank St",
+    "sg:city":"Granby",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 653 6300",
+    "sg:postcode":"06035",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931053,
+        102085381,
+        85865191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66pQSnNDdICXz6BO9zrWBZ_41.952850_-72.785187@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454076,
+    "wof:geomhash":"012305227d936dcd3416546f808ef5a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931053,
+            "neighbourhood_id":85865191,
+            "region_id":85688629,
+            "venue_id":824089377
+        }
+    ],
+    "wof:id":824089377,
+    "wof:lastmodified":1466422852,
+    "wof:name":"Subway",
+    "wof:parent_id":85865191,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -72.785187,
+    41.95285,
+    -72.785187,
+    41.95285
+],
+  "geometry": {"coordinates":[-72.78518699999999,41.95285],"type":"Point"}
+}

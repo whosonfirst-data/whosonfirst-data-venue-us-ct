@@ -1,0 +1,71 @@
+{
+  "id": 823867545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.750581,41.836897,-72.750581,41.836897",
+    "geom:latitude":41.836897,
+    "geom:longitude":-72.750581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Sharon Rd",
+    "sg:city":"Sharon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_783zjEMrkoc0F8T5mB9DjT_41.836897_-72.750581@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448682,
+    "wof:geomhash":"9e8c91e975571336dc0d826c67646015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":823867545
+        }
+    ],
+    "wof:id":823867545,
+    "wof:lastmodified":1466425726,
+    "wof:name":"John C Whitsell II MD PC",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.750581,
+    41.836897,
+    -72.750581,
+    41.836897
+],
+  "geometry": {"coordinates":[-72.750581,41.836897],"type":"Point"}
+}

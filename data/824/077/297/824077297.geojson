@@ -1,0 +1,97 @@
+{
+  "id": 824077297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112703,41.289071,-73.112703,41.289071",
+    "geom:latitude":41.289071,
+    "geom:longitude":-73.112703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"484 Bridgeport Ave",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/shelton/130053-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 402 0497",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yVbnRWfIVH2uy4T9m2P1E_41.289071_-73.112703@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453793,
+    "wof:geomhash":"d92dac0a80d2a3865cce43a47dd3aacf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":824077297
+        }
+    ],
+    "wof:id":824077297,
+    "wof:lastmodified":1466422567,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.112703,
+    41.289071,
+    -73.112703,
+    41.289071
+],
+  "geometry": {"coordinates":[-73.112703,41.289071],"type":"Point"}
+}

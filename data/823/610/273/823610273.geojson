@@ -1,0 +1,83 @@
+{
+  "id": 823610273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.052349,41.215668,-73.052349,41.215668",
+    "geom:latitude":41.215668,
+    "geom:longitude":-73.052349,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Rose St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 4173",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation",
+        "station",
+        "gasoline",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gQjd2gy6naJu2OYqUBLS0_41.215668_-73.052349@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442149,
+    "wof:geomhash":"c89f1f3aacabd0bc83352ecca9089cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823610273
+        }
+    ],
+    "wof:id":823610273,
+    "wof:lastmodified":1466423435,
+    "wof:name":"Marina Spencers Inc",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "station",
+        "gasoline",
+        "boat"
+    ]
+},
+  "bbox": [
+    -73.052349,
+    41.215668,
+    -73.052349,
+    41.215668
+],
+  "geometry": {"coordinates":[-73.05234900000001,41.215668],"type":"Point"}
+}

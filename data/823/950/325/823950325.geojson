@@ -1,0 +1,87 @@
+{
+  "id": 823950325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.7581,41.671751,-72.7581,41.671751",
+    "geom:latitude":41.671751,
+    "geom:longitude":-72.7581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"189 Newington Ave",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P5pEYfrlomnjGUYcc7N4p_41.671751_-72.758100@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450785,
+    "wof:geomhash":"e472202abf5500eecac94bafc8a6857a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823950325
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823950325
+        }
+    ],
+    "wof:id":823950325,
+    "wof:lastmodified":1466426417,
+    "wof:name":"Recor Welding Center Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.7581,
+    41.671751,
+    -72.7581,
+    41.671751
+],
+  "geometry": {"coordinates":[-72.7581,41.671751],"type":"Point"}
+}

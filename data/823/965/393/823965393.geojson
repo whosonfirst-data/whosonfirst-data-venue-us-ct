@@ -1,0 +1,83 @@
+{
+  "id": 823965393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.351379,41.474962,-73.351379,41.474962",
+    "geom:latitude":41.474962,
+    "geom:longitude":-73.351379,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Obtuse Hill Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 1200",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "development",
+        "agricultural",
+        "product",
+        "consultant"
+    ],
+    "sg:website":"www.biologicconsulting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CmAv3AwrmG0x97pIzEsVf_41.474962_-73.351379@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451142,
+    "wof:geomhash":"74b4fb84c5572f0bac2e30e19a136af0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823965393
+        }
+    ],
+    "wof:id":823965393,
+    "wof:lastmodified":1466426567,
+    "wof:name":"Bio Logic Inc",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "agricultural",
+        "product",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -73.351379,
+    41.474962,
+    -73.351379,
+    41.474962
+],
+  "geometry": {"coordinates":[-73.35137899999999,41.474962],"type":"Point"}
+}

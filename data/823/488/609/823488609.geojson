@@ -1,0 +1,73 @@
+{
+  "id": 823488609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.601676,41.73134,-72.601676,41.73134",
+    "geom:latitude":41.73134,
+    "geom:longitude":-72.601676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"79 Britt Rd",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 568 7493",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aoYLpiTx1gNrrMlfATb86_41.731340_-72.601676@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439281,
+    "wof:geomhash":"3094935163ca591b3b45cc0176648f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823488609
+        }
+    ],
+    "wof:id":823488609,
+    "wof:lastmodified":1466421674,
+    "wof:name":"Robert Beaulieu",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.601676,
+    41.73134,
+    -72.601676,
+    41.73134
+],
+  "geometry": {"coordinates":[-72.601676,41.73134],"type":"Point"}
+}

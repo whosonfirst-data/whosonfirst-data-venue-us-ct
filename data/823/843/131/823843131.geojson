@@ -1,0 +1,71 @@
+{
+  "id": 823843131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.54643,41.753129,-72.54643,41.753129",
+    "geom:latitude":41.753129,
+    "geom:longitude":-72.54643,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Leland Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 643 0237",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q9wU9dmfX6F2njnzOmDC9_41.753129_-72.546430@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448025,
+    "wof:geomhash":"4d83f1f0b7b7a4add719aec725c8ba3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823843131
+        }
+    ],
+    "wof:id":823843131,
+    "wof:lastmodified":1466425401,
+    "wof:name":"Westbrook Drywall Co",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.54643,
+    41.753129,
+    -72.54643,
+    41.753129
+],
+  "geometry": {"coordinates":[-72.54643,41.753129],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824082785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.866582,41.814128,-72.866582,41.814128",
+    "geom:latitude":41.814128,
+    "geom:longitude":-72.866582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 W Avon Rd Ste 301",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 269 4335",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LU4B4MbaJrKRDkF97i32E_41.814128_-72.866582@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453912,
+    "wof:geomhash":"0a87d9ede53ade158de77f9757c7fc5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824082785
+        }
+    ],
+    "wof:id":824082785,
+    "wof:lastmodified":1466422642,
+    "wof:name":"Hartford OB Gyn Group",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.866582,
+    41.814128,
+    -72.866582,
+    41.814128
+],
+  "geometry": {"coordinates":[-72.86658199999999,41.814128],"type":"Point"}
+}

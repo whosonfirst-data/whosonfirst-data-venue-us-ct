@@ -1,0 +1,85 @@
+{
+  "id": 824089875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.02625,41.831328,-73.02625,41.831328",
+    "geom:latitude":41.831328,
+    "geom:longitude":-73.02625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1087 Litchfield Tpke",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 496 1852",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AfIE8TWohZt6BlVFun0mK_41.831328_-73.026250@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454086,
+    "wof:geomhash":"457b2e8fb2804eeef8b035727e9d1c16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824089875
+        }
+    ],
+    "wof:id":824089875,
+    "wof:lastmodified":1466422906,
+    "wof:name":"The Bakerville Community Nursery School",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -73.02625,
+    41.831328,
+    -73.02625,
+    41.831328
+],
+  "geometry": {"coordinates":[-73.02625,41.831328],"type":"Point"}
+}

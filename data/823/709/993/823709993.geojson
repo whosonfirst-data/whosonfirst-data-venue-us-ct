@@ -1,0 +1,81 @@
+{
+  "id": 823709993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.707903,41.766556,-72.707903,41.766556",
+    "geom:latitude":41.766556,
+    "geom:longitude":-72.707903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"493 Farmington Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tape",
+        "video",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868763,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23vJUd0YWl2mDs6Y4ntbvI_41.766556_-72.707903@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444445,
+    "wof:geomhash":"a80ec6f50b8fed569ac839949a098c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85868763,
+            "region_id":85688629,
+            "venue_id":823709993
+        }
+    ],
+    "wof:id":823709993,
+    "wof:lastmodified":1466424423,
+    "wof:name":"Metrostore",
+    "wof:parent_id":85868763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tape",
+        "video",
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.707903,
+    41.766556,
+    -72.707903,
+    41.766556
+],
+  "geometry": {"coordinates":[-72.707903,41.766556],"type":"Point"}
+}

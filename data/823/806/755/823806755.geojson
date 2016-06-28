@@ -1,0 +1,66 @@
+{
+  "id": 823806755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.668498,41.904111,-72.668498,41.904111",
+    "geom:latitude":41.904111,
+    "geom:longitude":-72.668498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"287 Strawberry Cir",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 752 9090",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NqTHo8g1zIR9PesrG5WY5_41.904111_-72.668498@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446893,
+    "wof:geomhash":"e2bc9a87447874db94044e87bbddc2f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":823806755
+        }
+    ],
+    "wof:id":823806755,
+    "wof:lastmodified":1466425381,
+    "wof:name":"Burrells",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.668498,
+    41.904111,
+    -72.668498,
+    41.904111
+],
+  "geometry": {"coordinates":[-72.668498,41.904111],"type":"Point"}
+}

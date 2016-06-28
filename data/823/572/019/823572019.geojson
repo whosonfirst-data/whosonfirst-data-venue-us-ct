@@ -1,0 +1,66 @@
+{
+  "id": 823572019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.917516,41.371892,-72.917516,41.371892",
+    "geom:latitude":41.371892,
+    "geom:longitude":-72.917516,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2300 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 0285",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13JN5cKFA7CZlMg9w6pkuV_41.371892_-72.917516@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441231,
+    "wof:geomhash":"f68f0abf1d0153d23ddf9a3cbfcd8a41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823572019
+        }
+    ],
+    "wof:id":823572019,
+    "wof:lastmodified":1466422782,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.917516,
+    41.371892,
+    -72.917516,
+    41.371892
+],
+  "geometry": {"coordinates":[-72.91751600000001,41.371892],"type":"Point"}
+}

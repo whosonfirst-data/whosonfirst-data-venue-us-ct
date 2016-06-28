@@ -1,0 +1,66 @@
+{
+  "id": 823985697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.727141,41.840896,-72.727141,41.840896",
+    "geom:latitude":41.840896,
+    "geom:longitude":-72.727141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Longview Dr",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70YAfDXVlUxJXhos5Pd4us_41.840896_-72.727141@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451621,
+    "wof:geomhash":"96a85647eac8d6130cefb6f5bab23536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823985697
+        }
+    ],
+    "wof:id":823985697,
+    "wof:lastmodified":1466426744,
+    "wof:name":"Duraclean",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.727141,
+    41.840896,
+    -72.727141,
+    41.840896
+],
+  "geometry": {"coordinates":[-72.727141,41.840896],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823748645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.909832,41.359131,-72.909832,41.359131",
+    "geom:latitude":41.359131,
+    "geom:longitude":-72.909832,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1632 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 2104",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A2El0RTfIKZvW87mdb42r_41.359131_-72.909832@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445343,
+    "wof:geomhash":"04b5efa8c737609b583d5dc4508129a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823748645
+        }
+    ],
+    "wof:id":823748645,
+    "wof:lastmodified":1466425011,
+    "wof:name":"Spring Glen Veterinary Clinic",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.909832,
+    41.359131,
+    -72.909832,
+    41.359131
+],
+  "geometry": {"coordinates":[-72.90983199999999,41.359131],"type":"Point"}
+}

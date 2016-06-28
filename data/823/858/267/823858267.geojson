@@ -1,0 +1,71 @@
+{
+  "id": 823858267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227811,41.629409,-73.227811,41.629409",
+    "geom:latitude":41.629409,
+    "geom:longitude":-73.227811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Arch Bridge Rd",
+    "sg:city":"Bethlehem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 266 6079",
+    "sg:postcode":"06751",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847045,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v20ICUkmZUxEt48OxoCN5_41.629409_-73.227811@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448461,
+    "wof:geomhash":"f52b370fc57e7820d3364b677014d5ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":823858267
+        }
+    ],
+    "wof:id":823858267,
+    "wof:lastmodified":1466425660,
+    "wof:name":"Fortuna Builders",
+    "wof:parent_id":85847045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.227811,
+    41.629409,
+    -73.227811,
+    41.629409
+],
+  "geometry": {"coordinates":[-73.227811,41.629409],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824070127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.474404,41.382973,-73.474404,41.382973",
+    "geom:latitude":41.382973,
+    "geom:longitude":-73.474404,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Segar St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 792 5555",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:website":"http://www.chuckssteakhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QGE3vBlLGwAuxldGo8b5K_41.382804_-73.474431@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453612,
+    "wof:geomhash":"51355e91547840de881ba89a97fef0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824070127
+        }
+    ],
+    "wof:id":824070127,
+    "wof:lastmodified":1466422236,
+    "wof:name":"Chuck's Steak House",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.474404,
+    41.382973,
+    -73.474404,
+    41.382973
+],
+  "geometry": {"coordinates":[-73.47440400000001,41.382973],"type":"Point"}
+}

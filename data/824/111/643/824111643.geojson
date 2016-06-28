@@ -1,0 +1,87 @@
+{
+  "id": 824111643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.005693,41.678445,-73.005693,41.678445",
+    "geom:latitude":41.678445,
+    "geom:longitude":-73.005693,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"156 Main St Apt 13",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 583 5357",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lens",
+        "physician",
+        "surgeon",
+        "contact"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q3169Wsl0C8UsxlqtsCBC_41.678445_-73.005693@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454583,
+    "wof:geomhash":"e6ffd5af6feef7434a56527131676109",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824111643
+        }
+    ],
+    "wof:id":824111643,
+    "wof:lastmodified":1466423126,
+    "wof:name":"Garry S Kain Dr",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lens",
+        "physician",
+        "surgeon",
+        "contact"
+    ]
+},
+  "bbox": [
+    -73.005693,
+    41.678445,
+    -73.005693,
+    41.678445
+],
+  "geometry": {"coordinates":[-73.00569299999999,41.678445],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823577693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.710762,41.936158,-72.710762,41.936158",
+    "geom:latitude":41.936158,
+    "geom:longitude":-72.710762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Kripes Rd",
+    "sg:city":"East Granby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06026",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mfg",
+        "testing",
+        "emission",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_257sunDFRakfQ1dnUrYi0j_41.936158_-72.710762@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441363,
+    "wof:geomhash":"5440134233c555231ad9aac1d51adb41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823577693
+        }
+    ],
+    "wof:id":823577693,
+    "wof:lastmodified":1466422969,
+    "wof:name":"ESP",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "testing",
+        "emission",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -72.710762,
+    41.936158,
+    -72.710762,
+    41.936158
+],
+  "geometry": {"coordinates":[-72.710762,41.936158],"type":"Point"}
+}

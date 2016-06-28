@@ -1,0 +1,71 @@
+{
+  "id": 823613431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.696068,41.816539,-72.696068,41.816539",
+    "geom:latitude":41.816539,
+    "geom:longitude":-72.696068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Cottage Grove Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 242 0738",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eTLiercnFrLm8CTd6vMQa_41.816539_-72.696068@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442236,
+    "wof:geomhash":"23206cb4610fb91136269758d9a85d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823613431
+        }
+    ],
+    "wof:id":823613431,
+    "wof:lastmodified":1466423512,
+    "wof:name":"Mount Saint Benedict Cemetery",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.696068,
+    41.816539,
+    -72.696068,
+    41.816539
+],
+  "geometry": {"coordinates":[-72.696068,41.816539],"type":"Point"}
+}

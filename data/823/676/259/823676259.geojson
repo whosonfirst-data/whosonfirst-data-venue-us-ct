@@ -1,0 +1,90 @@
+{
+  "id": 823676259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212725,41.173584,-73.212725,41.173584",
+    "geom:latitude":41.173584,
+    "geom:longitude":-73.212725,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1061 Howard Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 2173",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "machine",
+        "shop",
+        "aircraft",
+        "parts",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FbZ6ppNpfaGawQMjYwSsY_41.173584_-73.212725@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443708,
+    "wof:geomhash":"1abd289e2afac168fc0424c2b06f2ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":823676259
+        }
+    ],
+    "wof:id":823676259,
+    "wof:lastmodified":1466424029,
+    "wof:name":"Rayflex Company Inc",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop",
+        "aircraft",
+        "parts",
+        "engine"
+    ]
+},
+  "bbox": [
+    -73.212725,
+    41.173584,
+    -73.212725,
+    41.173584
+],
+  "geometry": {"coordinates":[-73.21272500000001,41.173584],"type":"Point"}
+}

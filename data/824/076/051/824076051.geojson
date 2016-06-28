@@ -1,0 +1,91 @@
+{
+  "id": 824076051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.799822,41.289586,-72.799822,41.289586",
+    "geom:latitude":41.289586,
+    "geom:longitude":-72.799822,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"207 E Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/branford/129776-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 7334",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WAYAJYiZIYUI5WmgxjDoz_41.289586_-72.799822@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453765,
+    "wof:geomhash":"51de3551188d6b736ea625210fedd5b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":824076051
+        }
+    ],
+    "wof:id":824076051,
+    "wof:lastmodified":1466422534,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.799822,
+    41.289586,
+    -72.799822,
+    41.289586
+],
+  "geometry": {"coordinates":[-72.79982200000001,41.289586],"type":"Point"}
+}

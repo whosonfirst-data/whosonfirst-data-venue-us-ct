@@ -2,13 +2,14 @@
   "id": 286755865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.522535,41.190642,-73.522535,41.190642",
     "geom:latitude":41.190642,
     "geom:longitude":-73.522535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Wakeman Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":286755865,
-    "wof:lastmodified":1449016021,
+    "wof:lastmodified":1466421113,
     "wof:name":"Chapman Construction LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "construction"
     ]
 },
-  "bbox": [-73.522535,41.190642,-73.522535,41.190642],
+  "bbox": [
+    -73.522535,
+    41.190642,
+    -73.522535,
+    41.190642
+],
   "geometry": {"coordinates":[-73.522535,41.190642],"type":"Point"}
 }

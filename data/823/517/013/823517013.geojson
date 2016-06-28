@@ -1,0 +1,77 @@
+{
+  "id": 823517013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.34998,41.139815,-73.34998,41.139815",
+    "geom:latitude":41.139815,
+    "geom:longitude":-73.34998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"515 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 341 5011",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KHi9LaU8hYHDzPZfpWZqu_41.139815_-73.349980@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439952,
+    "wof:geomhash":"37162005569ae58cfc705f7a4c859c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823517013
+        }
+    ],
+    "wof:id":823517013,
+    "wof:lastmodified":1466422038,
+    "wof:name":"Fire Department",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.34998,
+    41.139815,
+    -73.34998,
+    41.139815
+],
+  "geometry": {"coordinates":[-73.34998,41.139815],"type":"Point"}
+}

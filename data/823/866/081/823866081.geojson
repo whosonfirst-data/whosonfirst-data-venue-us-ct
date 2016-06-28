@@ -1,0 +1,73 @@
+{
+  "id": 823866081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.902387,41.381358,-72.902387,41.381358",
+    "geom:latitude":41.381358,
+    "geom:longitude":-72.902387,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2345 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 9212",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Na2SD0b1rJAB6V2xL3YQl_41.381358_-72.902387@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448647,
+    "wof:geomhash":"099bb09388b2560c6fcafae1a5575249",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823866081
+        }
+    ],
+    "wof:id":823866081,
+    "wof:lastmodified":1466425679,
+    "wof:name":"Naturally Green Lawn Care LLC",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.902387,
+    41.381358,
+    -72.902387,
+    41.381358
+],
+  "geometry": {"coordinates":[-72.902387,41.381358],"type":"Point"}
+}

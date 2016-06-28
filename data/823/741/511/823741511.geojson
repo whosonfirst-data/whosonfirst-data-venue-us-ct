@@ -1,0 +1,71 @@
+{
+  "id": 823741511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09849,41.409712,-73.09849,41.409712",
+    "geom:latitude":41.409712,
+    "geom:longitude":-73.09849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Park Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 4755",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LIogWDFAwKbyAEKi9mcF6_41.409712_-73.098490@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445187,
+    "wof:geomhash":"7be801724b3c36738f5ca8cdc4288077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823741511
+        }
+    ],
+    "wof:id":823741511,
+    "wof:lastmodified":1466424675,
+    "wof:name":"Valley Limousine Svc",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.09849,
+    41.409712,
+    -73.09849,
+    41.409712
+],
+  "geometry": {"coordinates":[-73.09849,41.409712],"type":"Point"}
+}

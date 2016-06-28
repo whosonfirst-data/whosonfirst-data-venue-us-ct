@@ -1,0 +1,75 @@
+{
+  "id": 823720609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083392,41.811363,-73.083392,41.811363",
+    "geom:latitude":41.811363,
+    "geom:longitude":-73.083392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"462 Torringford St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iCRITjFlekxSUUbD4iyoU_41.811363_-73.083392@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444663,
+    "wof:geomhash":"bc068f8b213f9b63babf63d337296b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823720609
+        }
+    ],
+    "wof:id":823720609,
+    "wof:lastmodified":1466424620,
+    "wof:name":"Santoros Cleaners Inc",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "coin"
+    ]
+},
+  "bbox": [
+    -73.083392,
+    41.811363,
+    -73.083392,
+    41.811363
+],
+  "geometry": {"coordinates":[-73.083392,41.811363],"type":"Point"}
+}

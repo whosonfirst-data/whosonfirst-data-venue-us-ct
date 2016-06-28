@@ -1,0 +1,79 @@
+{
+  "id": 823571349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000652,41.552457,-73.000652,41.552457",
+    "geom:latitude":41.552457,
+    "geom:longitude":-73.000652,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"550 Meriden Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 6027",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CTZ2SvYgPPTHeWCa1R1ZF_41.552457_-73.000652@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441219,
+    "wof:geomhash":"ce0822c5bc1b1dd46aa95a24de834867",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":823571349
+        }
+    ],
+    "wof:id":823571349,
+    "wof:lastmodified":1466422811,
+    "wof:name":"S&S Food Mart",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.000652,
+    41.552457,
+    -73.000652,
+    41.552457
+],
+  "geometry": {"coordinates":[-73.000652,41.552457],"type":"Point"}
+}

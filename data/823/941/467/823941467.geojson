@@ -1,0 +1,67 @@
+{
+  "id": 823941467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225893,41.219477,-73.225893,41.219477",
+    "geom:latitude":41.219477,
+    "geom:longitude":-73.225893,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3455 Madison Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 7423",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:website":"www.bridgeportpubliclibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851229,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hs7goBMYingk8gMJz95IY_41.219477_-73.225893@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450561,
+    "wof:geomhash":"cb9ef48f90310b8d692f1ba0c6aa7d6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851229,
+            "region_id":85688629,
+            "venue_id":823941467
+        }
+    ],
+    "wof:id":823941467,
+    "wof:lastmodified":1466426387,
+    "wof:name":"Bridgeport Library North",
+    "wof:parent_id":85851229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.225893,
+    41.219477,
+    -73.225893,
+    41.219477
+],
+  "geometry": {"coordinates":[-73.225893,41.219477],"type":"Point"}
+}

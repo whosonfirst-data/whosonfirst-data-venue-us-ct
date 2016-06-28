@@ -1,0 +1,66 @@
+{
+  "id": 823699471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.377852,41.441367,-73.377852,41.441367",
+    "geom:latitude":41.441367,
+    "geom:longitude":-73.377852,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 W Whisconier Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 4016",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pj4l747L3H40B0uCFGjtG_41.441367_-73.377852@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444227,
+    "wof:geomhash":"615a7248ad36484861f3c21bcd7cb3ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823699471
+        }
+    ],
+    "wof:id":823699471,
+    "wof:lastmodified":1466424248,
+    "wof:name":"Montessori Community School",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.377852,
+    41.441367,
+    -73.377852,
+    41.441367
+],
+  "geometry": {"coordinates":[-73.377852,41.441367],"type":"Point"}
+}

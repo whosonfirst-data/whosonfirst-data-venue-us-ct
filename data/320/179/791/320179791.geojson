@@ -2,13 +2,14 @@
   "id": 320179791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.636921,41.026362,-73.636921,41.026362",
     "geom:latitude":41.026362,
     "geom:longitude":-73.636921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Edgewood Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320179791,
-    "wof:lastmodified":1449014580,
+    "wof:lastmodified":1466421123,
     "wof:name":"Legges",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.636921,41.026362,-73.636921,41.026362],
+  "bbox": [
+    -73.636921,
+    41.026362,
+    -73.636921,
+    41.026362
+],
   "geometry": {"coordinates":[-73.636921,41.026362],"type":"Point"}
 }

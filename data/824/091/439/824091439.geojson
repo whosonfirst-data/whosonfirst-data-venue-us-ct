@@ -1,0 +1,81 @@
+{
+  "id": 824091439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.86803,41.817202,-72.86803,41.817202",
+    "geom:latitude":41.817202,
+    "geom:longitude":-72.86803,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Albany Tpke",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 651 1710",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Htj5wp32JKfUrSOeWaUq1_41.817202_-72.868030@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454118,
+    "wof:geomhash":"e81977366645fb8885edc39f690afa51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824091439
+        }
+    ],
+    "wof:id":824091439,
+    "wof:lastmodified":1466422859,
+    "wof:name":"Liquor Depot of Simsbury",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -72.86803,
+    41.817202,
+    -72.86803,
+    41.817202
+],
+  "geometry": {"coordinates":[-72.86803,41.817202],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 404008555,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.528524,41.175288,-73.528524,41.175288",
     "geom:latitude":41.175288,
     "geom:longitude":-73.528524,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 Turtle Back Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404008555,
-    "wof:lastmodified":1449039397,
+    "wof:lastmodified":1466421144,
     "wof:name":"Affiliated Opportunities Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.528524,41.175288,-73.528524,41.175288],
+  "bbox": [
+    -73.528524,
+    41.175288,
+    -73.528524,
+    41.175288
+],
   "geometry": {"coordinates":[-73.528524,41.175288],"type":"Point"}
 }

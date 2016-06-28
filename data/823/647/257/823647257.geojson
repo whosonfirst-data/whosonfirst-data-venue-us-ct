@@ -1,0 +1,83 @@
+{
+  "id": 823647257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.016338,41.467714,-73.016338,41.467714",
+    "geom:latitude":41.467714,
+    "geom:longitude":-73.016338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1344 New Haven Rd",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "leasing",
+        "car",
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85851223,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72nfxitsDUM1URwJQz6hzR_41.467714_-73.016338@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443023,
+    "wof:geomhash":"6e4dc3769467ebf4e44968f9a11ab024",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85851223,
+            "region_id":85688629,
+            "venue_id":823647257
+        }
+    ],
+    "wof:id":823647257,
+    "wof:lastmodified":1466423799,
+    "wof:name":"Precision Leasing Inc",
+    "wof:parent_id":85851223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "leasing",
+        "car",
+        "passenger"
+    ]
+},
+  "bbox": [
+    -73.016338,
+    41.467714,
+    -73.016338,
+    41.467714
+],
+  "geometry": {"coordinates":[-73.016338,41.467714],"type":"Point"}
+}

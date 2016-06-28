@@ -2,13 +2,14 @@
   "id": 269820565,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.498025,41.158849,-73.498025,41.158849",
     "geom:latitude":41.158849,
     "geom:longitude":-73.498025,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Siwanoy Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":269820565,
-    "wof:lastmodified":1449037388,
+    "wof:lastmodified":1466421103,
     "wof:name":"Canaan Building Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-73.498025,41.158849,-73.498025,41.158849],
+  "bbox": [
+    -73.498025,
+    41.158849,
+    -73.498025,
+    41.158849
+],
   "geometry": {"coordinates":[-73.498025,41.158849],"type":"Point"}
 }

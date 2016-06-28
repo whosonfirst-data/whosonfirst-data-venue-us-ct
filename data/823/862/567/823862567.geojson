@@ -1,0 +1,81 @@
+{
+  "id": 823862567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.424849,41.103799,-73.424849,41.103799",
+    "geom:latitude":41.103799,
+    "geom:longitude":-73.424849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Cedar St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 831 9564",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garment",
+        "agent",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x4rCWSy9gYwp4G9Mbh8BN_41.103799_-73.424849@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448564,
+    "wof:geomhash":"52e41b80f436e4516d808b22cec9933a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":823862567
+        }
+    ],
+    "wof:id":823862567,
+    "wof:lastmodified":1466425908,
+    "wof:name":"Right Touch Cleaners",
+    "wof:parent_id":85849909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.424849,
+    41.103799,
+    -73.424849,
+    41.103799
+],
+  "geometry": {"coordinates":[-73.42484899999999,41.103799],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823519951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.006285,41.573185,-73.006285,41.573185",
+    "geom:latitude":41.573185,
+    "geom:longitude":-73.006285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Industry Ln",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 756 1124",
+    "sg:postcode":"06704",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831301,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dBf2XP95W7Cm8HbK55hnN_41.573185_-73.006285@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440027,
+    "wof:geomhash":"3edb3edb9e98618a4e2da1da3d7aa498",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85831301,
+            "region_id":85688629,
+            "venue_id":823519951
+        }
+    ],
+    "wof:id":823519951,
+    "wof:lastmodified":1466422012,
+    "wof:name":"City Automatic Transmission",
+    "wof:parent_id":85831301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.006285,
+    41.573185,
+    -73.006285,
+    41.573185
+],
+  "geometry": {"coordinates":[-73.00628500000001,41.573185],"type":"Point"}
+}

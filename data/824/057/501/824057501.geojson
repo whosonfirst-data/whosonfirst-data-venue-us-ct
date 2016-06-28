@@ -1,0 +1,66 @@
+{
+  "id": 824057501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250485,41.330497,-73.250485,41.330497",
+    "geom:latitude":41.330497,
+    "geom:longitude":-73.250485,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"252 Pepper St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 0807",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WJNxipQgBEzsLA8r6e3Lt_41.330497_-73.250485@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453340,
+    "wof:geomhash":"23e6c4614916c92c78dc8b7ce6d93398",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824057501
+        }
+    ],
+    "wof:id":824057501,
+    "wof:lastmodified":1466422173,
+    "wof:name":"Cornut Landscaping",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.250485,
+    41.330497,
+    -73.250485,
+    41.330497
+],
+  "geometry": {"coordinates":[-73.250485,41.330497],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823912733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.585286,41.040857,-73.585286,41.040857",
+    "geom:latitude":41.040857,
+    "geom:longitude":-73.585286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1063 E Putnam Ave",
+    "sg:city":"Riverside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06878",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "oil",
+        "change"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833939,
+        102191575,
+        404495949,
+        85633793,
+        85930955,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u29qYXjpRUgxMhx2P13ox_41.040857_-73.585286@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449825,
+    "wof:geomhash":"befe5ca4b0a88c0fbc27541f7d6786d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930955,
+            "neighbourhood_id":85833939,
+            "region_id":85688629,
+            "venue_id":823912733
+        }
+    ],
+    "wof:id":823912733,
+    "wof:lastmodified":1466426123,
+    "wof:name":"Oil Star Lube Centers",
+    "wof:parent_id":85833939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "oil",
+        "change"
+    ]
+},
+  "bbox": [
+    -73.585286,
+    41.040857,
+    -73.585286,
+    41.040857
+],
+  "geometry": {"coordinates":[-73.585286,41.040857],"type":"Point"}
+}

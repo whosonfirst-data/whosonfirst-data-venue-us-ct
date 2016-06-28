@@ -1,0 +1,66 @@
+{
+  "id": 824048011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228196,41.363482,-73.228196,41.363482",
+    "geom:latitude":41.363482,
+    "geom:longitude":-73.228196,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Hammertown Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 2889",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fN5Lhg4WQZma55jHJAf05_41.363482_-73.228196@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453120,
+    "wof:geomhash":"770eb185f7140bc97787e8606e0a194a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824048011
+        }
+    ],
+    "wof:id":824048011,
+    "wof:lastmodified":1466421886,
+    "wof:name":"Green Acres Tree & Landscape",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.228196,
+    41.363482,
+    -73.228196,
+    41.363482
+],
+  "geometry": {"coordinates":[-73.228196,41.363482],"type":"Point"}
+}

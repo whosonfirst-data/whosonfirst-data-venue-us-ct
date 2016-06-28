@@ -1,0 +1,85 @@
+{
+  "id": 823534179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.928129,41.353178,-72.928129,41.353178",
+    "geom:latitude":41.353178,
+    "geom:longitude":-72.928129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Manila Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "testing",
+        "repair",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08Ku0TJkA92oXauQBVVXzs_41.353178_-72.928129@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440338,
+    "wof:geomhash":"e7e3c56c20986557626bc1805f9a80d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823534179
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823534179
+        }
+    ],
+    "wof:id":823534179,
+    "wof:lastmodified":1466422199,
+    "wof:name":"Baltimore Elec Auto & Nuton",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "testing",
+        "repair",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.928129,
+    41.353178,
+    -72.928129,
+    41.353178
+],
+  "geometry": {"coordinates":[-72.928129,41.353178],"type":"Point"}
+}

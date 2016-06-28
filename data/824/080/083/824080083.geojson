@@ -1,0 +1,80 @@
+{
+  "id": 824080083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.624366,41.021752,-73.624366,41.021752",
+    "geom:latitude":41.021752,
+    "geom:longitude":-73.624366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"599 Greenwich Ave",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/greenwich/25428-chola/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 869 0700",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qOQkOpYgJH5pNG7aMTKVx_41.021752_-73.624366@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453854,
+    "wof:geomhash":"9e536eef1b23e33d11cd412156212b8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824080083
+        }
+    ],
+    "wof:id":824080083,
+    "wof:lastmodified":1466422544,
+    "wof:name":"Chola",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -73.624366,
+    41.021752,
+    -73.624366,
+    41.021752
+],
+  "geometry": {"coordinates":[-73.62436599999999,41.021752],"type":"Point"}
+}

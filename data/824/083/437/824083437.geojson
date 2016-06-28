@@ -1,0 +1,72 @@
+{
+  "id": 824083437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.863771,41.787342,-72.863771,41.787342",
+    "geom:latitude":41.787342,
+    "geom:longitude":-72.863771,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"427 W. Avon Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 8888",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"www.davincict.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21RxRApaHwkqSDBBo9hDRP_41.787342_-72.863771@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453933,
+    "wof:geomhash":"fd203307cb776b4e113645b00abe801f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824083437
+        }
+    ],
+    "wof:id":824083437,
+    "wof:lastmodified":1466422451,
+    "wof:name":"Pizzeria Da Vinci",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.863771,
+    41.787342,
+    -72.863771,
+    41.787342
+],
+  "geometry": {"coordinates":[-72.863771,41.787342],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823663119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171377,41.308872,-73.171377,41.308872",
+    "geom:latitude":41.308872,
+    "geom:longitude":-73.171377,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Abbey Ln",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 364 0005",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65KSi5sRFk46xzuUihnW1M_41.308872_-73.171377@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443411,
+    "wof:geomhash":"75307dbac8adaf271206a50bfad8cd4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823663119
+        }
+    ],
+    "wof:id":823663119,
+    "wof:lastmodified":1466423901,
+    "wof:name":"Chads Lawn Care LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.171377,
+    41.308872,
+    -73.171377,
+    41.308872
+],
+  "geometry": {"coordinates":[-73.17137700000001,41.308872],"type":"Point"}
+}

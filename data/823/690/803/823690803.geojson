@@ -1,0 +1,71 @@
+{
+  "id": 823690803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109459,41.426967,-73.109459,41.426967",
+    "geom:latitude":41.426967,
+    "geom:longitude":-73.109459,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"338 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 9041",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HJqJzBEfvaSJwxgHd4z6G_41.426967_-73.109459@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444035,
+    "wof:geomhash":"e73e91d5e1fb51486ee763f03f22fc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823690803
+        }
+    ],
+    "wof:id":823690803,
+    "wof:lastmodified":1466424148,
+    "wof:name":"Fritz's Cleaning Svc",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.109459,
+    41.426967,
+    -73.109459,
+    41.426967
+],
+  "geometry": {"coordinates":[-73.109459,41.426967],"type":"Point"}
+}

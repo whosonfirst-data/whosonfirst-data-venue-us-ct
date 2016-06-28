@@ -1,0 +1,93 @@
+{
+  "id": 824075241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.908961,41.797391,-71.908961,41.797391",
+    "geom:latitude":41.797391,
+    "geom:longitude":-71.908961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"483 Providence Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/brooklyn/129824-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 2756",
+    "sg:postcode":"06234",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20Np0u9QZZGDKUiTmJePKJ_41.797391_-71.908961@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453746,
+    "wof:geomhash":"de8eaa05c78352eca08d0e5f6ef99092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824075241
+        }
+    ],
+    "wof:id":824075241,
+    "wof:lastmodified":1466422559,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.908961,
+    41.797391,
+    -71.908961,
+    41.797391
+],
+  "geometry": {"coordinates":[-71.90896100000001,41.797391],"type":"Point"}
+}

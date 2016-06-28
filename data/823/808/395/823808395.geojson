@@ -1,0 +1,73 @@
+{
+  "id": 823808395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.915559,41.910499,-71.915559,41.910499",
+    "geom:latitude":41.910499,
+    "geom:longitude":-71.915559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 Pomfret St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931297,
+        102085377,
+        85824107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ELYBtfG4hwFf36ypSl3LN_41.910499_-71.915559@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446955,
+    "wof:geomhash":"9d6265bb18896ded76fb9b0686f62c00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85931297,
+            "neighbourhood_id":85824107,
+            "region_id":85688629,
+            "venue_id":823808395
+        }
+    ],
+    "wof:id":823808395,
+    "wof:lastmodified":1466425186,
+    "wof:name":"Putnam Orthopedics",
+    "wof:parent_id":85824107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.915559,
+    41.910499,
+    -71.915559,
+    41.910499
+],
+  "geometry": {"coordinates":[-71.915559,41.910499],"type":"Point"}
+}

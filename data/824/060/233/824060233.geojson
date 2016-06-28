@@ -1,0 +1,71 @@
+{
+  "id": 824060233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.638483,41.652533,-72.638483,41.652533",
+    "geom:latitude":41.652533,
+    "geom:longitude":-72.638483,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Webber Rd",
+    "sg:city":"Rocky Hill",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06067",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18XO90w2BgRi1zYNZy6cWB_41.652533_-72.638483@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453395,
+    "wof:geomhash":"905cb3a5c9e7b83c269c6973e0d0ffc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":824060233
+        }
+    ],
+    "wof:id":824060233,
+    "wof:lastmodified":1466422071,
+    "wof:name":"SES",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.638483,
+    41.652533,
+    -72.638483,
+    41.652533
+],
+  "geometry": {"coordinates":[-72.63848299999999,41.652533],"type":"Point"}
+}

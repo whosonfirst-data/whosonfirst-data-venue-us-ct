@@ -1,0 +1,66 @@
+{
+  "id": 823891067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082734,41.39724,-73.082734,41.39724",
+    "geom:latitude":41.39724,
+    "geom:longitude":-73.082734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Klarides Village Dr",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 5098",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EtA83xHwZV5CusQHDfuRw_41.397240_-73.082734@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449234,
+    "wof:geomhash":"aed0c647634cf4f80abba1c17e97712a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823891067
+        }
+    ],
+    "wof:id":823891067,
+    "wof:lastmodified":1466425648,
+    "wof:name":"Village Fabric Care Ctr",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.082734,
+    41.39724,
+    -73.082734,
+    41.39724
+],
+  "geometry": {"coordinates":[-73.082734,41.39724],"type":"Point"}
+}

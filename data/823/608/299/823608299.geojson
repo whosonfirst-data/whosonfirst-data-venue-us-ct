@@ -1,0 +1,73 @@
+{
+  "id": 823608299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.437004,41.471962,-72.437004,41.471962",
+    "geom:latitude":41.471962,
+    "geom:longitude":-72.437004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Daniels Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 0412",
+    "sg:postcode":"06423",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830917,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62U2unHk0XhnDQUdJ6y4KF_41.471962_-72.437004@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442093,
+    "wof:geomhash":"7df056ba8d926c2827a312e83242b7e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85830917,
+            "region_id":85688629,
+            "venue_id":823608299
+        }
+    ],
+    "wof:id":823608299,
+    "wof:lastmodified":1466423261,
+    "wof:name":"DR Charles Envmtl Excav",
+    "wof:parent_id":85830917,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.437004,
+    41.471962,
+    -72.437004,
+    41.471962
+],
+  "geometry": {"coordinates":[-72.437004,41.471962],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823950491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.512216,41.110904,-73.512216,41.110904",
+    "geom:latitude":41.110904,
+    "geom:longitude":-73.512216,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"156 Slice Dr",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 329 7497",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MEXmBAfYmMCaaQ5ZnYt9P_41.110904_-73.512216@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450788,
+    "wof:geomhash":"d3159f56acdcb04125f62ebd6a52cd87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":823950491
+        }
+    ],
+    "wof:id":823950491,
+    "wof:lastmodified":1466426435,
+    "wof:name":"Good Dog U LLC",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.512216,
+    41.110904,
+    -73.512216,
+    41.110904
+],
+  "geometry": {"coordinates":[-73.512216,41.110904],"type":"Point"}
+}

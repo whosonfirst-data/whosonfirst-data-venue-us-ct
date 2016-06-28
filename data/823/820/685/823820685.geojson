@@ -1,0 +1,71 @@
+{
+  "id": 823820685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.39794,41.386409,-73.39794,41.386409",
+    "geom:latitude":41.386409,
+    "geom:longitude":-73.39794,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"49 Plumtrees Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 5500",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZHfgu7D7A9aJaO2W4mJNl_41.386409_-73.397940@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447313,
+    "wof:geomhash":"7b314b752926aaf1ce805550bd40c90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823820685
+        }
+    ],
+    "wof:id":823820685,
+    "wof:lastmodified":1466425322,
+    "wof:name":"Bethel Police Dept",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.39794,
+    41.386409,
+    -73.39794,
+    41.386409
+],
+  "geometry": {"coordinates":[-73.39794000000001,41.386409],"type":"Point"}
+}

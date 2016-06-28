@@ -1,0 +1,74 @@
+{
+  "id": 823784591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.137586,41.469758,-73.137586,41.469758",
+    "geom:latitude":41.469758,
+    "geom:longitude":-73.137586,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"183 Christian St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 0266",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "sg:website":"www.masministorage.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nKqAaxyt85X1lxW9jPeAR_41.469758_-73.137586@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446232,
+    "wof:geomhash":"f8303974349c979c4eb79d7f36a99440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823784591
+        }
+    ],
+    "wof:id":823784591,
+    "wof:lastmodified":1466424741,
+    "wof:name":"Ma's Mini Storage",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.137586,
+    41.469758,
+    -73.137586,
+    41.469758
+],
+  "geometry": {"coordinates":[-73.137586,41.469758],"type":"Point"}
+}

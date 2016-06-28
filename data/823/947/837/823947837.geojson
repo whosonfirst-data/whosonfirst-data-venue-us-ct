@@ -1,0 +1,71 @@
+{
+  "id": 823947837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161329,41.30369,-73.161329,41.30369",
+    "geom:latitude":41.30369,
+    "geom:longitude":-73.161329,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"177 Ripton Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 1222",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_176mMEiIN3k7b9T0vMMDZI_41.303690_-73.161329@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450729,
+    "wof:geomhash":"9186cd46c2c7549dbe0f04c87e384e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823947837
+        }
+    ],
+    "wof:id":823947837,
+    "wof:lastmodified":1466426378,
+    "wof:name":"Huntington Chapel",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -73.161329,
+    41.30369,
+    -73.161329,
+    41.30369
+],
+  "geometry": {"coordinates":[-73.16132899999999,41.30369],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824040839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064197,41.444714,-73.064197,41.444714",
+    "geom:latitude":41.444714,
+    "geom:longitude":-73.064197,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"78 N Main St",
+    "sg:city":"Beacon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06403",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O9aF1WLf38qOFsAaWxxFz_41.444714_-73.064197@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452946,
+    "wof:geomhash":"b5e26519c13925c4c4d846b729092ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":824040839
+        }
+    ],
+    "wof:id":824040839,
+    "wof:lastmodified":1466421920,
+    "wof:name":"Samuel Kosko III",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.064197,
+    41.444714,
+    -73.064197,
+    41.444714
+],
+  "geometry": {"coordinates":[-73.06419699999999,41.444714],"type":"Point"}
+}

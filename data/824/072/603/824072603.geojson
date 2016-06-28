@@ -1,0 +1,93 @@
+{
+  "id": 824072603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.731849,41.828362,-72.731849,41.828362",
+    "geom:latitude":41.828362,
+    "geom:longitude":-72.731849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"760 Park Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bloomfield/129773-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 5633",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nHfz5GQJ8jHknlb3X0qg1_41.828362_-72.731849@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453684,
+    "wof:geomhash":"a5768c7de0d47fe921266825846afee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":824072603
+        }
+    ],
+    "wof:id":824072603,
+    "wof:lastmodified":1466422458,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.731849,
+    41.828362,
+    -72.731849,
+    41.828362
+],
+  "geometry": {"coordinates":[-72.731849,41.828362],"type":"Point"}
+}

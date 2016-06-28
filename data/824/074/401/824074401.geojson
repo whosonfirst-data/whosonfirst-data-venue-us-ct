@@ -1,0 +1,80 @@
+{
+  "id": 824074401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.706785,41.766631,-72.706785,41.766631",
+    "geom:latitude":41.766631,
+    "geom:longitude":-72.706785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"471 Farmington Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/144193-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 232 5429",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878017,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wxKDKNc9LyTaigGKPQvVH_41.766631_-72.706785@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453726,
+    "wof:geomhash":"1fa8a538dae34a209693171b66e75008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878017,
+            "region_id":85688629,
+            "venue_id":824074401
+        }
+    ],
+    "wof:id":824074401,
+    "wof:lastmodified":1466422422,
+    "wof:name":"Subway",
+    "wof:parent_id":85878017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.706785,
+    41.766631,
+    -72.706785,
+    41.766631
+],
+  "geometry": {"coordinates":[-72.706785,41.766631],"type":"Point"}
+}

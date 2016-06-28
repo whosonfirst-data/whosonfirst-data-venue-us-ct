@@ -1,0 +1,75 @@
+{
+  "id": 823693555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809668,41.487971,-72.809668,41.487971",
+    "geom:latitude":41.487971,
+    "geom:longitude":-72.809668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"995 N Colony Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 284 1423",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SamAIG88PcsUYdLUiWDPD_41.487971_-72.809668@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444093,
+    "wof:geomhash":"85d7e7ba63fc810cdb056f34de76a92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823693555
+        }
+    ],
+    "wof:id":823693555,
+    "wof:lastmodified":1466424200,
+    "wof:name":"Read's Auto Repair Inc",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.809668,
+    41.487971,
+    -72.809668,
+    41.487971
+],
+  "geometry": {"coordinates":[-72.809668,41.487971],"type":"Point"}
+}

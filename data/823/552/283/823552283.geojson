@@ -1,0 +1,76 @@
+{
+  "id": 823552283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.944328,41.278361,-72.944328,41.278361",
+    "geom:latitude":41.278361,
+    "geom:longitude":-72.944328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"73 Elm St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 932 1024",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HPis5WSK0G1PMdr2OCWUo_41.278361_-72.944328@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440762,
+    "wof:geomhash":"73401235c6143e6f856225df34aa572c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823552283
+        }
+    ],
+    "wof:id":823552283,
+    "wof:lastmodified":1466422510,
+    "wof:name":"Perretta's Tailor Shop",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -72.944328,
+    41.278361,
+    -72.944328,
+    41.278361
+],
+  "geometry": {"coordinates":[-72.944328,41.278361],"type":"Point"}
+}

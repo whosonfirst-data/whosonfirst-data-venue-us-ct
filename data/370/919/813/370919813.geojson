@@ -2,13 +2,14 @@
   "id": 370919813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.48847,41.148864,-73.48847,41.148864",
     "geom:latitude":41.148864,
     "geom:longitude":-73.48847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Vitti St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":370919813,
-    "wof:lastmodified":1449031653,
+    "wof:lastmodified":1466421200,
     "wof:name":"United Way Of New Canaan Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "welfare"
     ]
 },
-  "bbox": [-73.48847,41.148864,-73.48847,41.148864],
-  "geometry": {"coordinates":[-73.48847,41.148864],"type":"Point"}
+  "bbox": [
+    -73.48847,
+    41.148864,
+    -73.48847,
+    41.148864
+],
+  "geometry": {"coordinates":[-73.48847000000001,41.148864],"type":"Point"}
 }

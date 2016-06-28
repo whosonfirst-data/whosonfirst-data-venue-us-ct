@@ -1,0 +1,84 @@
+{
+  "id": 824083651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.881989,41.809994,-72.881989,41.809994",
+    "geom:latitude":41.809994,
+    "geom:longitude":-72.881989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Lakeview Blvd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 321 7016",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aCTtk2dhZvVfXjcUHEs45_41.809994_-72.881989@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453937,
+    "wof:geomhash":"b37aafe96144df4bddeb019337a28ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824083651
+        }
+    ],
+    "wof:id":824083651,
+    "wof:lastmodified":1466422476,
+    "wof:name":"Terraine Realty",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -72.881989,
+    41.809994,
+    -72.881989,
+    41.809994
+],
+  "geometry": {"coordinates":[-72.881989,41.809994],"type":"Point"}
+}

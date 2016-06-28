@@ -1,0 +1,85 @@
+{
+  "id": 824092763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.572225,41.939883,-72.572225,41.939883",
+    "geom:latitude":41.939883,
+    "geom:longitude":-72.572225,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 Bass Dr",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 265 2116",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "technical",
+        "consultant",
+        "industrial",
+        "trade"
+    ],
+    "sg:website":"http://www.meditrans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rQVGUi5lPbst4uKKaCg5S_41.939883_-72.572225@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454144,
+    "wof:geomhash":"2dc8b8e3c10498ce339a68606f2dee71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824092763
+        }
+    ],
+    "wof:id":824092763,
+    "wof:lastmodified":1466422902,
+    "wof:name":"Meditrans",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "consultant",
+        "industrial",
+        "trade"
+    ]
+},
+  "bbox": [
+    -72.572225,
+    41.939883,
+    -72.572225,
+    41.939883
+],
+  "geometry": {"coordinates":[-72.572225,41.939883],"type":"Point"}
+}

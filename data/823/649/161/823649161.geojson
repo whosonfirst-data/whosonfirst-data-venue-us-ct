@@ -1,0 +1,79 @@
+{
+  "id": 823649161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.78122,41.671151,-72.78122,41.671151",
+    "geom:latitude":41.671151,
+    "geom:longitude":-72.78122,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"586 Main St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential",
+        "specialty",
+        "outpatient",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37QILHWbFisCDvvCoamfIL_41.671151_-72.781220@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443063,
+    "wof:geomhash":"523a95e854ed4c8b3d9186fb47006290",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823649161
+        }
+    ],
+    "wof:id":823649161,
+    "wof:lastmodified":1466423790,
+    "wof:name":"Farrell Treatment Center",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "specialty",
+        "outpatient",
+        "care"
+    ]
+},
+  "bbox": [
+    -72.78122,
+    41.671151,
+    -72.78122,
+    41.671151
+],
+  "geometry": {"coordinates":[-72.78122,41.671151],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824067523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.909632,41.921841,-71.909632,41.921841",
+    "geom:latitude":41.921841,
+    "geom:longitude":-71.909632,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"189 Church St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 6565",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jWrDZ2wXaxPNlEzbgA8ih_41.921841_-71.909632@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453555,
+    "wof:geomhash":"85df1d53b4986c010dc816d5f7dd5fc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":824067523
+        }
+    ],
+    "wof:id":824067523,
+    "wof:lastmodified":1466422378,
+    "wof:name":"Putnam Police Department",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.909632,
+    41.921841,
+    -71.909632,
+    41.921841
+],
+  "geometry": {"coordinates":[-71.909632,41.921841],"type":"Point"}
+}

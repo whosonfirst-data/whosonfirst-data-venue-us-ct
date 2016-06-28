@@ -1,0 +1,66 @@
+{
+  "id": 823875053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.280224,41.259579,-73.280224,41.259579",
+    "geom:latitude":41.259579,
+    "geom:longitude":-73.280224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Hickory Knoll Dr",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BqKeDArpl33aP3ZNCJqzm_41.259579_-73.280224@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448846,
+    "wof:geomhash":"e028db7e73d2ce62cc0822844f0ccb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823875053
+        }
+    ],
+    "wof:id":823875053,
+    "wof:lastmodified":1466425745,
+    "wof:name":"Center For TMJ Disorders",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.280224,
+    41.259579,
+    -73.280224,
+    41.259579
+],
+  "geometry": {"coordinates":[-73.280224,41.259579],"type":"Point"}
+}

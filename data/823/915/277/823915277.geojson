@@ -1,0 +1,66 @@
+{
+  "id": 823915277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.902523,41.736714,-72.902523,41.736714",
+    "geom:latitude":41.736714,
+    "geom:longitude":-72.902523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Circle Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 2625",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rEdrGgpPlDt2rfeB86HAT_41.736714_-72.902523@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449887,
+    "wof:geomhash":"60e532f1525c8825552fa3d4d34acbf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823915277
+        }
+    ],
+    "wof:id":823915277,
+    "wof:lastmodified":1466426120,
+    "wof:name":"Scsc Tackle LLC",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.902523,
+    41.736714,
+    -72.902523,
+    41.736714
+],
+  "geometry": {"coordinates":[-72.902523,41.736714],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823671953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492642,41.286742,-72.492642,41.286742",
+    "geom:latitude":41.286742,
+    "geom:longitude":-72.492642,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"250 Old Post Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 259 2990",
+    "sg:postcode":"06413",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823261,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56x4x9Zf0RFjQ2cg02UmvF_41.286742_-72.492642@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443617,
+    "wof:geomhash":"409df2bf072022e7d7ac26c07342bd98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85823261,
+            "region_id":85688629,
+            "venue_id":823671953
+        }
+    ],
+    "wof:id":823671953,
+    "wof:lastmodified":1466423762,
+    "wof:name":"Fancy Cleaners",
+    "wof:parent_id":85823261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -72.492642,
+    41.286742,
+    -72.492642,
+    41.286742
+],
+  "geometry": {"coordinates":[-72.492642,41.286742],"type":"Point"}
+}

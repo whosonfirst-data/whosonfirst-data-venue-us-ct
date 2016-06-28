@@ -1,0 +1,74 @@
+{
+  "id": 824076109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.822361,41.277612,-72.822361,41.277612",
+    "geom:latitude":41.277612,
+    "geom:longitude":-72.822361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"246 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/branford/47617-main-street-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 5507",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PmR6BNBOgfwWFCN0GTbbT_41.277612_-72.822361@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453767,
+    "wof:geomhash":"727195aac767b48e27ff5f7cb94e2b43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824076109
+        }
+    ],
+    "wof:id":824076109,
+    "wof:lastmodified":1466422540,
+    "wof:name":"Main Street Diner",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -72.822361,
+    41.277612,
+    -72.822361,
+    41.277612
+],
+  "geometry": {"coordinates":[-72.822361,41.277612],"type":"Point"}
+}

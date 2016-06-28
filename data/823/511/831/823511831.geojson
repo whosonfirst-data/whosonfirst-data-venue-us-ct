@@ -1,0 +1,79 @@
+{
+  "id": 823511831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.622999,41.585536,-72.622999,41.585536",
+    "geom:latitude":41.585536,
+    "geom:longitude":-72.622999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 William St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 342 1945",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821535,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2STnCvVD6fKEmBgud82zJT_41.585536_-72.622999@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439827,
+    "wof:geomhash":"68a2bc0a0581e597953c3f5fb6ccfea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85821535,
+            "region_id":85688629,
+            "venue_id":823511831
+        }
+    ],
+    "wof:id":823511831,
+    "wof:lastmodified":1466422000,
+    "wof:name":"B & M Excavating",
+    "wof:parent_id":85821535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.622999,
+    41.585536,
+    -72.622999,
+    41.585536
+],
+  "geometry": {"coordinates":[-72.62299899999999,41.585536],"type":"Point"}
+}

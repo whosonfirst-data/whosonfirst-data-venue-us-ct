@@ -1,0 +1,73 @@
+{
+  "id": 824096343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.089587,41.877436,-72.089587,41.877436",
+    "geom:latitude":41.877436,
+    "geom:longitude":-72.089587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Hartford Tpke",
+    "sg:city":"Eastford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 974 2638",
+    "sg:postcode":"06242",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clinic",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828179,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yiBVJZUbVIkTfuVetTXV8_41.877436_-72.089587@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454252,
+    "wof:geomhash":"16eb9c48c083e2740480d8a5a4c4afdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85828179,
+            "region_id":85688629,
+            "venue_id":824096343
+        }
+    ],
+    "wof:id":824096343,
+    "wof:lastmodified":1466422912,
+    "wof:name":"Eastford Veterinary Clinic",
+    "wof:parent_id":85828179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -72.089587,
+    41.877436,
+    -72.089587,
+    41.877436
+],
+  "geometry": {"coordinates":[-72.08958699999999,41.877436],"type":"Point"}
+}

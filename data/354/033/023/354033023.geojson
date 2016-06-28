@@ -2,13 +2,14 @@
   "id": 354033023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.450403,41.151507,-73.450403,41.151507",
     "geom:latitude":41.151507,
     "geom:longitude":-73.450403,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1032 Silvermine Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354033023,
-    "wof:lastmodified":1449066285,
+    "wof:lastmodified":1466421135,
     "wof:name":"Silvermine Market",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "market"
     ]
 },
-  "bbox": [-73.450403,41.151507,-73.450403,41.151507],
-  "geometry": {"coordinates":[-73.450403,41.151507],"type":"Point"}
+  "bbox": [
+    -73.450403,
+    41.151507,
+    -73.450403,
+    41.151507
+],
+  "geometry": {"coordinates":[-73.45040299999999,41.151507],"type":"Point"}
 }

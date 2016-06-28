@@ -1,0 +1,80 @@
+{
+  "id": 824077343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.113125,41.288423,-73.113125,41.288423",
+    "geom:latitude":41.288423,
+    "geom:longitude":-73.113125,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"494 Bridgeport Ave",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/shelton/144195-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 1049",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x1vuUFdbcVoVrzaph8K43_41.288423_-73.113125@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453794,
+    "wof:geomhash":"858ef9e11a6a085ce5b5c16f31688de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":824077343
+        }
+    ],
+    "wof:id":824077343,
+    "wof:lastmodified":1466422571,
+    "wof:name":"Subway",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.113125,
+    41.288423,
+    -73.113125,
+    41.288423
+],
+  "geometry": {"coordinates":[-73.113125,41.288423],"type":"Point"}
+}

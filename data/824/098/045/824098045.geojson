@@ -1,0 +1,66 @@
+{
+  "id": 824098045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.96759,41.628048,-71.96759,41.628048",
+    "geom:latitude":41.628048,
+    "geom:longitude":-71.96759,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"522 Plainfield Rd",
+    "sg:city":"Jewett City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 376 1700",
+    "sg:postcode":"06351",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811237,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GXyaM9L2GaVWY0nt1Vys7_41.628048_-71.967590@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454290,
+    "wof:geomhash":"04440314b551a20f331263fe1a3d4d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85811237,
+            "region_id":85688629,
+            "venue_id":824098045
+        }
+    ],
+    "wof:id":824098045,
+    "wof:lastmodified":1466422966,
+    "wof:name":"Stilly's Automotive",
+    "wof:parent_id":85811237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.96759,
+    41.628048,
+    -71.96759,
+    41.628048
+],
+  "geometry": {"coordinates":[-71.96759,41.628048],"type":"Point"}
+}

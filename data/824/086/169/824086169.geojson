@@ -1,0 +1,79 @@
+{
+  "id": 824086169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.959714,41.76621,-72.959714,41.76621",
+    "geom:latitude":41.76621,
+    "geom:longitude":-72.959714,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"715 George Washington Tpke",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 6339",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kO0yfumEHno1rKAM33yKi_41.766210_-72.959714@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453999,
+    "wof:geomhash":"01f92d4d4039a23c466891353a17fc63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824086169
+        }
+    ],
+    "wof:id":824086169,
+    "wof:lastmodified":1466422765,
+    "wof:name":"USPS - United States Post Office - Burlington",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -72.959714,
+    41.76621,
+    -72.959714,
+    41.76621
+],
+  "geometry": {"coordinates":[-72.95971400000001,41.76621],"type":"Point"}
+}

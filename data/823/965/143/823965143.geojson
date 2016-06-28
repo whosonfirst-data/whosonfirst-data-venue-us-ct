@@ -1,0 +1,79 @@
+{
+  "id": 823965143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.674248,41.005198,-73.674248,41.005198",
+    "geom:latitude":41.005198,
+    "geom:longitude":-73.674248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 Westchester Ave",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 934 3340",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846517,
+        102191575,
+        404523389,
+        85633793,
+        85978769,
+        102082373,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yDGytWqsihJrregtxf4UL_41.005198_-73.674248@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451137,
+    "wof:geomhash":"1f2f2f746ffeb8b34a62cdf63fe4aa42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978769,
+            "neighbourhood_id":85846517,
+            "region_id":85688543,
+            "venue_id":823965143
+        }
+    ],
+    "wof:id":823965143,
+    "wof:lastmodified":1466426551,
+    "wof:name":"Rye Ob-Gyn",
+    "wof:parent_id":85846517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.674248,
+    41.005198,
+    -73.674248,
+    41.005198
+],
+  "geometry": {"coordinates":[-73.67424800000001,41.005198],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823502609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.931414,41.280832,-72.931414,41.280832",
+    "geom:latitude":41.280832,
+    "geom:longitude":-72.931414,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"98 S Water St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 624 5895",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O3NGQotfKBvy0IPEu1Qnf_41.280832_-72.931414@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439638,
+    "wof:geomhash":"cb68111d22c0a979c1501560a4c335c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823502609
+        }
+    ],
+    "wof:id":823502609,
+    "wof:lastmodified":1466421625,
+    "wof:name":"Oyster Point Marina",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -72.931414,
+    41.280832,
+    -72.931414,
+    41.280832
+],
+  "geometry": {"coordinates":[-72.931414,41.280832],"type":"Point"}
+}

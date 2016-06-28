@@ -1,0 +1,79 @@
+{
+  "id": 823679891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.06456,41.217627,-73.06456,41.217627",
+    "geom:latitude":41.217627,
+    "geom:longitude":-73.06456,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"309 Seaside Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 783 1831",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PyEtZ6tCHAGOL32flTuA3_41.217627_-73.064560@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443784,
+    "wof:geomhash":"34997fc2c101f283b3ec1e4253aa0154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823679891
+        }
+    ],
+    "wof:id":823679891,
+    "wof:lastmodified":1466424057,
+    "wof:name":"Milford Anesthesia Assoc",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.06456,
+    41.217627,
+    -73.06456,
+    41.217627
+],
+  "geometry": {"coordinates":[-73.06456,41.217627],"type":"Point"}
+}

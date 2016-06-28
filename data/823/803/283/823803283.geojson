@@ -1,0 +1,73 @@
+{
+  "id": 823803283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.431316,41.227628,-73.431316,41.227628",
+    "geom:latitude":41.227628,
+    "geom:longitude":-73.431316,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"79 Blue Ridge Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 8627",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yw8c38SaJwRFPbE5Dc3k8_41.227628_-73.431316@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446795,
+    "wof:geomhash":"f363b560a090dd0668eac51f75f7dac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823803283
+        }
+    ],
+    "wof:id":823803283,
+    "wof:lastmodified":1466425174,
+    "wof:name":"W D Mulreed Refuse Co",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.431316,
+    41.227628,
+    -73.431316,
+    41.227628
+],
+  "geometry": {"coordinates":[-73.431316,41.227628],"type":"Point"}
+}

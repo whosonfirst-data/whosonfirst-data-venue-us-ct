@@ -1,0 +1,73 @@
+{
+  "id": 823649261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.267094,41.325612,-73.267094,41.325612",
+    "geom:latitude":41.325612,
+    "geom:longitude":-73.267094,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"450 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 1695",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "store",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hzmXMM1mGLuFtOkyvwhA7_41.325612_-73.267094@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443067,
+    "wof:geomhash":"6f5ff6e7f601ad9a0cf65b53e0a739e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823649261
+        }
+    ],
+    "wof:id":823649261,
+    "wof:lastmodified":1466423810,
+    "wof:name":"Stepney Wine & Liquor Store",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "wine"
+    ]
+},
+  "bbox": [
+    -73.267094,
+    41.325612,
+    -73.267094,
+    41.325612
+],
+  "geometry": {"coordinates":[-73.267094,41.325612],"type":"Point"}
+}

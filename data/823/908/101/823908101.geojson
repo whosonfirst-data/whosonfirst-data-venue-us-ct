@@ -1,0 +1,68 @@
+{
+  "id": 823908101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.315318,41.781561,-72.315318,41.781561",
+    "geom:latitude":41.781561,
+    "geom:longitude":-72.315318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1827 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06238",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931285,
+        102085379,
+        85865199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63JCLMlGgjdKj5PvtXcOjQ_41.781561_-72.315318@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449676,
+    "wof:geomhash":"dd36aec0f7c86a66b348febe8e2058ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931285,
+            "neighbourhood_id":85865199,
+            "region_id":85688629,
+            "venue_id":823908101
+        }
+    ],
+    "wof:id":823908101,
+    "wof:lastmodified":1466426271,
+    "wof:name":"Ideaworks",
+    "wof:parent_id":85865199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.315318,
+    41.781561,
+    -72.315318,
+    41.781561
+],
+  "geometry": {"coordinates":[-72.315318,41.781561],"type":"Point"}
+}

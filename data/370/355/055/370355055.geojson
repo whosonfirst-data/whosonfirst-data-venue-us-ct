@@ -2,13 +2,14 @@
   "id": 370355055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.430475,41.341732,-72.430475,41.341732",
     "geom:latitude":41.341732,
     "geom:longitude":-72.430475,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53155 Route 25",
     "sg:city":"Southold",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370355055,
-    "wof:lastmodified":1449030049,
+    "wof:lastmodified":1466421143,
     "wof:name":"Indulge Day Spa",
     "wof:parent_id":85842637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-72.430475,41.341732,-72.430475,41.341732],
+  "bbox": [
+    -72.430475,
+    41.341732,
+    -72.430475,
+    41.341732
+],
   "geometry": {"coordinates":[-72.430475,41.341732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 286874909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665079,41.092583,-73.665079,41.092583",
     "geom:latitude":41.092583,
     "geom:longitude":-73.665079,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Old Mill Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286874909,
-    "wof:lastmodified":1449017906,
+    "wof:lastmodified":1466421114,
     "wof:name":"Robt D Blashek",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "relations"
     ]
 },
-  "bbox": [-73.665079,41.092583,-73.665079,41.092583],
-  "geometry": {"coordinates":[-73.665079,41.092583],"type":"Point"}
+  "bbox": [
+    -73.665079,
+    41.092583,
+    -73.665079,
+    41.092583
+],
+  "geometry": {"coordinates":[-73.66507900000001,41.092583],"type":"Point"}
 }

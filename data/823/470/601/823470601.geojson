@@ -1,0 +1,71 @@
+{
+  "id": 823470601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186175,41.27517,-73.186175,41.27517",
+    "geom:latitude":41.27517,
+    "geom:longitude":-73.186175,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"268 Beacon Hill Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 8040",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZKc1cWPhT8WFwamtQsD7m_41.275170_-73.186175@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438848,
+    "wof:geomhash":"1b970dae601b5376cfee6b1d40b9192e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823470601
+        }
+    ],
+    "wof:id":823470601,
+    "wof:lastmodified":1466421284,
+    "wof:name":"Decor Cabinets Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.186175,
+    41.27517,
+    -73.186175,
+    41.27517
+],
+  "geometry": {"coordinates":[-73.18617500000001,41.27517],"type":"Point"}
+}

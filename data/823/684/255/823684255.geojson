@@ -1,0 +1,83 @@
+{
+  "id": 823684255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.609241,41.930242,-72.609241,41.930242",
+    "geom:latitude":41.930242,
+    "geom:longitude":-72.609241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"168 Bridge St",
+    "sg:city":"East Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 2522",
+    "sg:postcode":"06088",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TpZrlZwuY7zmzA94R5FOI_41.930242_-72.609241@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443878,
+    "wof:geomhash":"11bace1b8e8223d8678d50c104c2d85d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823684255
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823684255
+        }
+    ],
+    "wof:id":823684255,
+    "wof:lastmodified":1466424084,
+    "wof:name":"Bridge Street Shell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.609241,
+    41.930242,
+    -72.609241,
+    41.930242
+],
+  "geometry": {"coordinates":[-72.609241,41.930242],"type":"Point"}
+}

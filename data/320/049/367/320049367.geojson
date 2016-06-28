@@ -2,13 +2,14 @@
   "id": 320049367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494306,41.141765,-73.494306,41.141765",
     "geom:latitude":41.141765,
     "geom:longitude":-73.494306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"252 Park St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":320049367,
-    "wof:lastmodified":1449013112,
+    "wof:lastmodified":1466421122,
     "wof:name":"Henderson W Lee Associates",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.494306,41.141765,-73.494306,41.141765],
-  "geometry": {"coordinates":[-73.494306,41.141765],"type":"Point"}
+  "bbox": [
+    -73.494306,
+    41.141765,
+    -73.494306,
+    41.141765
+],
+  "geometry": {"coordinates":[-73.49430599999999,41.141765],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 253361243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.653257,41.016693,-73.653257,41.016693",
     "geom:latitude":41.016693,
     "geom:longitude":-73.653257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"41 Byram Terrace Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":253361243,
-    "wof:lastmodified":1449064981,
+    "wof:lastmodified":1466421108,
     "wof:name":"Greenwich Structural Inc",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.653257,41.016693,-73.653257,41.016693],
+  "bbox": [
+    -73.653257,
+    41.016693,
+    -73.653257,
+    41.016693
+],
   "geometry": {"coordinates":[-73.653257,41.016693],"type":"Point"}
 }

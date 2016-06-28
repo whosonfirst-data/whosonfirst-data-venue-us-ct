@@ -1,0 +1,82 @@
+{
+  "id": 824096519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.195297,41.7593,-72.195297,41.7593",
+    "geom:latitude":41.7593,
+    "geom:longitude":-72.195297,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Old Mill Ct",
+    "sg:city":"Mansfield Center",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 429 1144",
+    "sg:postcode":"06250",
+    "sg:province":"CT",
+    "sg:tags":[
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832171,
+        102191575,
+        404495903,
+        85633793,
+        85931277,
+        102085379,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DKs7gDutjlDJHt2FXDxii_41.759300_-72.195297@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454256,
+    "wof:geomhash":"43a00284ef4a7040521072a8f7d10f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085379,
+            "localadmin_id":404495903,
+            "locality_id":85931277,
+            "neighbourhood_id":85832171,
+            "region_id":85688629,
+            "venue_id":824096519
+        }
+    ],
+    "wof:id":824096519,
+    "wof:lastmodified":1466423015,
+    "wof:name":"Champlion's General Store",
+    "wof:parent_id":85832171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market"
+    ]
+},
+  "bbox": [
+    -72.195297,
+    41.7593,
+    -72.195297,
+    41.7593
+],
+  "geometry": {"coordinates":[-72.195297,41.7593],"type":"Point"}
+}

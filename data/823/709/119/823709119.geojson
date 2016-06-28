@@ -1,0 +1,73 @@
+{
+  "id": 823709119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.666229,41.278593,-72.666229,41.278593",
+    "geom:latitude":41.278593,
+    "geom:longitude":-72.666229,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 S Union St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 1007",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xKHssuEAE6CprgvOaCH2c_41.278593_-72.666229@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444426,
+    "wof:geomhash":"35369bd49148f97c69e9ce241fecd53f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823709119
+        }
+    ],
+    "wof:id":823709119,
+    "wof:lastmodified":1466424266,
+    "wof:name":"Reiss Excavating",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.666229,
+    41.278593,
+    -72.666229,
+    41.278593
+],
+  "geometry": {"coordinates":[-72.666229,41.278593],"type":"Point"}
+}

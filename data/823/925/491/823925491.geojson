@@ -1,0 +1,71 @@
+{
+  "id": 823925491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.418678,41.336131,-72.418678,41.336131",
+    "geom:latitude":41.336131,
+    "geom:longitude":-72.418678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"192 Westbrook Rd",
+    "sg:city":"Essex",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06426",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4StuIWjClY6tE2I2Cr7q4f_41.336131_-72.418678@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450136,
+    "wof:geomhash":"d46769361b265f5c372679aa705a0ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":823925491
+        }
+    ],
+    "wof:id":823925491,
+    "wof:lastmodified":1466426232,
+    "wof:name":"Dixon Peter S MD",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.418678,
+    41.336131,
+    -72.418678,
+    41.336131
+],
+  "geometry": {"coordinates":[-72.418678,41.336131],"type":"Point"}
+}

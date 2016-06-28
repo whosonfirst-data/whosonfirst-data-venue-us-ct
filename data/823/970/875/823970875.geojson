@@ -1,0 +1,83 @@
+{
+  "id": 823970875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.837649,41.518578,-72.837649,41.518578",
+    "geom:latitude":41.518578,
+    "geom:longitude":-72.837649,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Douglas Dr",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 238 3502",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YffS059A55Nzk5Hr4bLNd_41.518578_-72.837649@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451273,
+    "wof:geomhash":"376bb79d9b955b82c503a2d3d5dbd0ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":823970875
+        }
+    ],
+    "wof:id":823970875,
+    "wof:lastmodified":1466426615,
+    "wof:name":"AAA Rooter",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -72.837649,
+    41.518578,
+    -72.837649,
+    41.518578
+],
+  "geometry": {"coordinates":[-72.837649,41.518578],"type":"Point"}
+}

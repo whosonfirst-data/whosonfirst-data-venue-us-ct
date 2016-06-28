@@ -1,0 +1,87 @@
+{
+  "id": 824093293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.563223,41.988452,-72.563223,41.988452",
+    "geom:latitude":41.988452,
+    "geom:longitude":-72.563223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Hazard Ave",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 749 8252",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "assistive",
+        "device",
+        "audiologists",
+        "aid",
+        "hearing"
+    ],
+    "sg:website":"http://www.hearagaincenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hnH4pvOxwKFbOxU4LXHDg_41.988452_-72.563223@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454158,
+    "wof:geomhash":"001109b9f0821f950b5c0115762d1564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093293
+        }
+    ],
+    "wof:id":824093293,
+    "wof:lastmodified":1466422893,
+    "wof:name":"Hear Again Center",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assistive",
+        "device",
+        "audiologists",
+        "aid",
+        "hearing"
+    ]
+},
+  "bbox": [
+    -72.563223,
+    41.988452,
+    -72.563223,
+    41.988452
+],
+  "geometry": {"coordinates":[-72.56322299999999,41.988452],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824063583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.069953,41.219237,-73.069953,41.219237",
+    "geom:latitude":41.219237,
+    "geom:longitude":-73.069953,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Hill St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 876 1256",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O7QovOrVdzYjhNReQ17I4_41.219237_-73.069953@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453462,
+    "wof:geomhash":"0b2f6e9ed018ecdca501274193982a2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":824063583
+        }
+    ],
+    "wof:id":824063583,
+    "wof:lastmodified":1466422212,
+    "wof:name":"Sweetwater Fence Co",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.069953,
+    41.219237,
+    -73.069953,
+    41.219237
+],
+  "geometry": {"coordinates":[-73.069953,41.219237],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823465779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.612471,41.742287,-72.612471,41.742287",
+    "geom:latitude":41.742287,
+    "geom:longitude":-72.612471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Cross Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 569 2477",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808571,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yS6qwGurRFl2po95tKp28_41.742287_-72.612471@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438740,
+    "wof:geomhash":"8f14f84519c5a0fba3fad30ad223425d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823465779
+        }
+    ],
+    "wof:id":823465779,
+    "wof:lastmodified":1466421167,
+    "wof:name":"William P McDermott",
+    "wof:parent_id":85808571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.612471,
+    41.742287,
+    -72.612471,
+    41.742287
+],
+  "geometry": {"coordinates":[-72.612471,41.742287],"type":"Point"}
+}

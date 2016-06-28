@@ -1,0 +1,82 @@
+{
+  "id": 823813955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.757458,41.668265,-72.757458,41.668265",
+    "geom:latitude":41.668265,
+    "geom:longitude":-72.757458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"168 Linden St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 826 7170",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OBTJp21BRlTD9ZjcJdciy_41.668265_-72.757458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447117,
+    "wof:geomhash":"7e2fdaa624aa29956671c8e31456f5e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823813955
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823813955
+        }
+    ],
+    "wof:id":823813955,
+    "wof:lastmodified":1466425301,
+    "wof:name":"Sitios",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.757458,
+    41.668265,
+    -72.757458,
+    41.668265
+],
+  "geometry": {"coordinates":[-72.757458,41.668265],"type":"Point"}
+}

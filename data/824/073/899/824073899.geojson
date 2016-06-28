@@ -1,0 +1,78 @@
+{
+  "id": 824073899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.577132,41.997867,-72.577132,41.997867",
+    "geom:latitude":41.997867,
+    "geom:longitude":-72.577132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 Elm St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/enfield/75336-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 745 9100",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hb7JzZCuvITGO8Awpt9Q3_41.997867_-72.577132@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453717,
+    "wof:geomhash":"e8082898851cc78008f5aac7eab9f15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824073899
+        }
+    ],
+    "wof:id":824073899,
+    "wof:lastmodified":1466422458,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -72.577132,
+    41.997867,
+    -72.577132,
+    41.997867
+],
+  "geometry": {"coordinates":[-72.57713200000001,41.997867],"type":"Point"}
+}

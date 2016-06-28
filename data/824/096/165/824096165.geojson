@@ -1,0 +1,85 @@
+{
+  "id": 824096165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.882301,41.766499,-71.882301,41.766499",
+    "geom:latitude":41.766499,
+    "geom:longitude":-71.882301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Green Hollow Rd",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 0252",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UQP8iqDJBFZxkis6NS9De_41.766499_-71.882301@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454248,
+    "wof:geomhash":"f3042f1012ca5c113a7135436cb8207e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824096165
+        }
+    ],
+    "wof:id":824096165,
+    "wof:lastmodified":1466422899,
+    "wof:name":"Occupational Health",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -71.882301,
+    41.766499,
+    -71.882301,
+    41.766499
+],
+  "geometry": {"coordinates":[-71.882301,41.766499],"type":"Point"}
+}

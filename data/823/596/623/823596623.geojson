@@ -1,0 +1,66 @@
+{
+  "id": 823596623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230685,41.34643,-73.230685,41.34643",
+    "geom:latitude":41.34643,
+    "geom:longitude":-73.230685,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"375 Fan Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 5837",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iiZgcIaE548t4NcG8csRf_41.346430_-73.230685@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441804,
+    "wof:geomhash":"b9c30e18ce24fd803fd4bea0fe8e43a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823596623
+        }
+    ],
+    "wof:id":823596623,
+    "wof:lastmodified":1466423312,
+    "wof:name":"Chalk Hill School",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.230685,
+    41.34643,
+    -73.230685,
+    41.34643
+],
+  "geometry": {"coordinates":[-73.23068499999999,41.34643],"type":"Point"}
+}

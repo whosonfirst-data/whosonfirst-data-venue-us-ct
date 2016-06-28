@@ -2,13 +2,14 @@
   "id": 387047479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.669283,41.037299,-73.669283,41.037299",
     "geom:latitude":41.037299,
     "geom:longitude":-73.669283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Curt Ter",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387047479,
-    "wof:lastmodified":1449058566,
+    "wof:lastmodified":1466421148,
     "wof:name":"Forgione Brothers Paving Contr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.669283,41.037299,-73.669283,41.037299],
-  "geometry": {"coordinates":[-73.669283,41.037299],"type":"Point"}
+  "bbox": [
+    -73.669283,
+    41.037299,
+    -73.669283,
+    41.037299
+],
+  "geometry": {"coordinates":[-73.66928299999999,41.037299],"type":"Point"}
 }

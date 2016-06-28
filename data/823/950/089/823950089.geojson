@@ -1,0 +1,80 @@
+{
+  "id": 823950089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.477675,41.069165,-73.477675,41.069165",
+    "geom:latitude":41.069165,
+    "geom:longitude":-73.477675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1421 Post Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 2623",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "sg:website":"www.splashcarwashes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nClPkXbXs1lVzHEnktSsh_41.069165_-73.477675@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450780,
+    "wof:geomhash":"a38f67d3fc825ed177ed7d01edfcc8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":823950089
+        }
+    ],
+    "wof:id":823950089,
+    "wof:lastmodified":1466426392,
+    "wof:name":"Splash Hand Wash Of Darien",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.477675,
+    41.069165,
+    -73.477675,
+    41.069165
+],
+  "geometry": {"coordinates":[-73.477675,41.069165],"type":"Point"}
+}

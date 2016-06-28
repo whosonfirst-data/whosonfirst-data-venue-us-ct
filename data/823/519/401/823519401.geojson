@@ -1,0 +1,71 @@
+{
+  "id": 823519401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.95871,41.366856,-72.95871,41.366856",
+    "geom:latitude":41.366856,
+    "geom:longitude":-72.95871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Benham Hill Pl",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 7688",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879185,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mvHeFL0gPPuUQWJQhahbu_41.366856_-72.958710@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440012,
+    "wof:geomhash":"a091352c31e81dce69ea564e4abb8cde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879185,
+            "region_id":85688629,
+            "venue_id":823519401
+        }
+    ],
+    "wof:id":823519401,
+    "wof:lastmodified":1466421969,
+    "wof:name":"Ercolano Cleaning",
+    "wof:parent_id":85879185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.95871,
+    41.366856,
+    -72.95871,
+    41.366856
+],
+  "geometry": {"coordinates":[-72.95871,41.366856],"type":"Point"}
+}

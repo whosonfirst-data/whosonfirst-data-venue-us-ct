@@ -1,0 +1,90 @@
+{
+  "id": 823502731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.017597,41.20526,-73.017597,41.20526",
+    "geom:latitude":41.20526,
+    "geom:longitude":-73.017597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Elaine Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 4546",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85835257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dnVNNx0gYFAE3FcfPjewM_41.205260_-73.017597@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439640,
+    "wof:geomhash":"67ddd43170768217304fabd7ec6b20a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823502731
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85835257,
+            "region_id":85688629,
+            "venue_id":823502731
+        }
+    ],
+    "wof:id":823502731,
+    "wof:lastmodified":1466421635,
+    "wof:name":"Westport Wastewater Treatment",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -73.017597,
+    41.20526,
+    -73.017597,
+    41.20526
+],
+  "geometry": {"coordinates":[-73.01759699999999,41.20526],"type":"Point"}
+}

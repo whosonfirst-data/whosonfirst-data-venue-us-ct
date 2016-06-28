@@ -1,0 +1,66 @@
+{
+  "id": 824104355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.378502,41.292099,-72.378502,41.292099",
+    "geom:latitude":41.292099,
+    "geom:longitude":-72.378502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Maynard Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 0849",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04WHcNo4dHTfmMPN0GfCNF_41.292099_-72.378502@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454428,
+    "wof:geomhash":"51f9ef984aefe4e04f580b7b04328185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824104355
+        }
+    ],
+    "wof:id":824104355,
+    "wof:lastmodified":1466423072,
+    "wof:name":"St John's Catholic School",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.378502,
+    41.292099,
+    -72.378502,
+    41.292099
+],
+  "geometry": {"coordinates":[-72.378502,41.292099],"type":"Point"}
+}

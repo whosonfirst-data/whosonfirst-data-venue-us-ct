@@ -1,0 +1,66 @@
+{
+  "id": 823743145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930439,41.334896,-72.930439,41.334896",
+    "geom:latitude":41.334896,
+    "geom:longitude":-72.930439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"383 Shelton Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 787 3014",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1m3W1C3Nx9AdO82HsfJNir_41.334896_-72.930439@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445225,
+    "wof:geomhash":"a3969f89e0093b4993ec965e099b35cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823743145
+        }
+    ],
+    "wof:id":823743145,
+    "wof:lastmodified":1466424459,
+    "wof:name":"Quik Check Stop",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.930439,
+    41.334896,
+    -72.930439,
+    41.334896
+],
+  "geometry": {"coordinates":[-72.93043900000001,41.334896],"type":"Point"}
+}

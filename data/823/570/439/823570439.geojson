@@ -1,0 +1,73 @@
+{
+  "id": 823570439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.279689,41.422013,-73.279689,41.422013",
+    "geom:latitude":41.422013,
+    "geom:longitude":-73.279689,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Riverside Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 0333",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACu5ZcROHPurPitMJtBWM_41.422013_-73.279689@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441196,
+    "wof:geomhash":"b3035b610744345bd02e3ea3934153ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823570439
+        }
+    ],
+    "wof:id":823570439,
+    "wof:lastmodified":1466422820,
+    "wof:name":"Digestive Disease Center-W Ct",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.279689,
+    41.422013,
+    -73.279689,
+    41.422013
+],
+  "geometry": {"coordinates":[-73.279689,41.422013],"type":"Point"}
+}

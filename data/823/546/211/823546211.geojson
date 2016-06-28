@@ -1,0 +1,81 @@
+{
+  "id": 823546211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.671934,41.784995,-72.671934,41.784995",
+    "geom:latitude":41.784995,
+    "geom:longitude":-72.671934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Warren St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 724 9180",
+    "sg:postcode":"06120",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878031,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nh0aJVjVORAP9RwkGxjjg_41.784995_-72.671934@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440609,
+    "wof:geomhash":"7b9cbeed205de4ff287a7a09c2d323a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878031,
+            "region_id":85688629,
+            "venue_id":823546211
+        }
+    ],
+    "wof:id":823546211,
+    "wof:lastmodified":1466422450,
+    "wof:name":"Waller Brothers Express LLC",
+    "wof:parent_id":85878031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.671934,
+    41.784995,
+    -72.671934,
+    41.784995
+],
+  "geometry": {"coordinates":[-72.67193399999999,41.784995],"type":"Point"}
+}

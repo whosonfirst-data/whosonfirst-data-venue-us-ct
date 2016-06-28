@@ -1,0 +1,71 @@
+{
+  "id": 823720047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.47325,41.714216,-73.47325,41.714216",
+    "geom:latitude":41.714216,
+    "geom:longitude":-73.47325,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 S Kent Rd",
+    "sg:city":"South Kent",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06785",
+    "sg:province":"CT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OnXfwW0B3mkcOguh3I3qI_41.714216_-73.473250@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444652,
+    "wof:geomhash":"4652bc4634762882c1d7c3d6f2eb8570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":823720047
+        }
+    ],
+    "wof:id":823720047,
+    "wof:lastmodified":1466424575,
+    "wof:name":"Francis Camp",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -73.47325,
+    41.714216,
+    -73.47325,
+    41.714216
+],
+  "geometry": {"coordinates":[-73.47324999999999,41.714216],"type":"Point"}
+}

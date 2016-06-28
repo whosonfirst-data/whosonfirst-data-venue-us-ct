@@ -1,0 +1,80 @@
+{
+  "id": 824081989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.899622,41.389232,-72.899622,41.389232",
+    "geom:latitude":41.389232,
+    "geom:longitude":-72.899622,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2538 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/270307-glenwood-drive-in/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 0604",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "seafood",
+        "hot",
+        "american",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vi6aIx5uW73xqfvpkf6vk_41.389839_-72.899125@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453895,
+    "wof:geomhash":"da7adccae82d624f7f5c815c7ae43b31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":824081989
+        }
+    ],
+    "wof:id":824081989,
+    "wof:lastmodified":1466422673,
+    "wof:name":"Glenwood Drive-In",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "seafood",
+        "hot",
+        "american",
+        "dog"
+    ]
+},
+  "bbox": [
+    -72.899622,
+    41.389232,
+    -72.899622,
+    41.389232
+],
+  "geometry": {"coordinates":[-72.89962199999999,41.389232],"type":"Point"}
+}

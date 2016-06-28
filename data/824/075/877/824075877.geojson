@@ -1,0 +1,74 @@
+{
+  "id": 824075877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.83141,41.280103,-72.83141,41.280103",
+    "geom:latitude":41.280103,
+    "geom:longitude":-72.83141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Commercial Pkwy",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/branford/144044-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 5198",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40D6LksdGsZVYcnXnt01XQ_41.280103_-72.831410@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453759,
+    "wof:geomhash":"327c1f6a770912d1d296c36497892051",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824075877
+        }
+    ],
+    "wof:id":824075877,
+    "wof:lastmodified":1466422675,
+    "wof:name":"Subway",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.83141,
+    41.280103,
+    -72.83141,
+    41.280103
+],
+  "geometry": {"coordinates":[-72.83141000000001,41.280103],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823582175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192416,41.198814,-73.192416,41.198814",
+    "geom:latitude":41.198814,
+    "geom:longitude":-73.192416,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"292 North Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 924 9228",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E9L4Tu3gThQof8xODO8UC_41.198814_-73.192416@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441470,
+    "wof:geomhash":"eefbebbae33b7ac495cbab3a1983f2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823582175
+        }
+    ],
+    "wof:id":823582175,
+    "wof:lastmodified":1466423019,
+    "wof:name":"Safelight Auto Glass",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.192416,
+    41.198814,
+    -73.192416,
+    41.198814
+],
+  "geometry": {"coordinates":[-73.19241599999999,41.198814],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823735849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.360003,41.473513,-73.360003,41.473513",
+    "geom:latitude":41.473513,
+    "geom:longitude":-73.360003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Maple Tree Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 5528",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OfAJGeeh25VkOTOwKRdD4_41.473513_-73.360003@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445061,
+    "wof:geomhash":"85eb503701e8e3b3ab0ffc8a58878088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823735849
+        }
+    ],
+    "wof:id":823735849,
+    "wof:lastmodified":1466424609,
+    "wof:name":"Maple Valley Excavating LLC",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.360003,
+    41.473513,
+    -73.360003,
+    41.473513
+],
+  "geometry": {"coordinates":[-73.36000300000001,41.473513],"type":"Point"}
+}

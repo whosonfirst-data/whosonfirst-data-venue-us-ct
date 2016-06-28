@@ -1,0 +1,79 @@
+{
+  "id": 823642805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186603,41.185525,-73.186603,41.185525",
+    "geom:latitude":41.185525,
+    "geom:longitude":-73.186603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 William St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 1873",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876485,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XAvQ7S39UWD6fzIJjKYRU_41.185525_-73.186603@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442916,
+    "wof:geomhash":"db19ca5edf644be6b09e24f35f5f64a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876485,
+            "region_id":85688629,
+            "venue_id":823642805
+        }
+    ],
+    "wof:id":823642805,
+    "wof:lastmodified":1466423709,
+    "wof:name":"Innovations Mechanical",
+    "wof:parent_id":85876485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.186603,
+    41.185525,
+    -73.186603,
+    41.185525
+],
+  "geometry": {"coordinates":[-73.18660300000001,41.185525],"type":"Point"}
+}

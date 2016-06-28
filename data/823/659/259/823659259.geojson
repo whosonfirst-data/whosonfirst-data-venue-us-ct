@@ -1,0 +1,79 @@
+{
+  "id": 823659259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.521388,41.068835,-73.521388,41.068835",
+    "geom:latitude":41.068835,
+    "geom:longitude":-73.521388,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Parker Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 0300",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QOpNMIAJFno2E758zFbVM_41.068835_-73.521388@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443312,
+    "wof:geomhash":"7754491634c6b091641e34bbe895426f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":823659259
+        }
+    ],
+    "wof:id":823659259,
+    "wof:lastmodified":1466423891,
+    "wof:name":"Mr Electric",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.521388,
+    41.068835,
+    -73.521388,
+    41.068835
+],
+  "geometry": {"coordinates":[-73.521388,41.068835],"type":"Point"}
+}

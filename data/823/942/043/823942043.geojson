@@ -1,0 +1,73 @@
+{
+  "id": 823942043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.583263,41.73278,-72.583263,41.73278",
+    "geom:latitude":41.73278,
+    "geom:longitude":-72.583263,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 Timber Trl",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 8775",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hf1YCUIUzqcUSIIJbDVn7_41.732780_-72.583263@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450572,
+    "wof:geomhash":"27dd161485fe27e777e0f8d5b67509b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823942043
+        }
+    ],
+    "wof:id":823942043,
+    "wof:lastmodified":1466426590,
+    "wof:name":"David F Brennan",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.583263,
+    41.73278,
+    -72.583263,
+    41.73278
+],
+  "geometry": {"coordinates":[-72.583263,41.73278],"type":"Point"}
+}

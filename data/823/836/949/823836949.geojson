@@ -1,0 +1,86 @@
+{
+  "id": 823836949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.41084,41.103058,-73.41084,41.103058",
+    "geom:latitude":41.103058,
+    "geom:longitude":-73.41084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Reynolds St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 838 2093",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "linen",
+        "supply",
+        "uniform"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816631,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_607ZZUwvOKIhTqVUCP7bLR_41.103058_-73.410840@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447825,
+    "wof:geomhash":"c6b277acd0a44b4af9574bdf48d6f354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":823836949
+        }
+    ],
+    "wof:id":823836949,
+    "wof:lastmodified":1466425600,
+    "wof:name":"A Uniforms Factory",
+    "wof:parent_id":85816631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply",
+        "uniform"
+    ]
+},
+  "bbox": [
+    -73.41084,
+    41.103058,
+    -73.41084,
+    41.103058
+],
+  "geometry": {"coordinates":[-73.41083999999999,41.103058],"type":"Point"}
+}

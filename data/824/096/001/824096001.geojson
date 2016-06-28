@@ -1,0 +1,81 @@
+{
+  "id": 824096001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.909221,41.797434,-71.909221,41.797434",
+    "geom:latitude":41.797434,
+    "geom:longitude":-71.909221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"479 Providence Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 774 9644",
+    "sg:postcode":"06234",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.abvi.com/bestv.cfm?idp=475&rcode=lcl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Brb8VnSXnAWqn3a1RTGIQ_41.797434_-71.909221@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454245,
+    "wof:geomhash":"eca817be314970ebc2bc0ca11d6b8546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824096001
+        }
+    ],
+    "wof:id":824096001,
+    "wof:lastmodified":1466423003,
+    "wof:name":"Americas Best Value Inn",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -71.909221,
+    41.797434,
+    -71.909221,
+    41.797434
+],
+  "geometry": {"coordinates":[-71.909221,41.797434],"type":"Point"}
+}

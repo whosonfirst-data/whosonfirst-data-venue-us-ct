@@ -1,0 +1,88 @@
+{
+  "id": 824082009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.220412,41.16389,-73.220412,41.16389",
+    "geom:latitude":41.16389,
+    "geom:longitude":-73.220412,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2264 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bridgeport/18002-panaros-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 7000",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "pasta",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28gRTJHKfU7ngMgSYSxfvx_41.163582_-73.220677@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453896,
+    "wof:geomhash":"e8e628552de4d3e2502c4e675e8e3e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824082009
+        }
+    ],
+    "wof:id":824082009,
+    "wof:lastmodified":1466422570,
+    "wof:name":"Panaro's Pizzeria",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "pasta",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.220412,
+    41.16389,
+    -73.220412,
+    41.16389
+],
+  "geometry": {"coordinates":[-73.220412,41.16389],"type":"Point"}
+}

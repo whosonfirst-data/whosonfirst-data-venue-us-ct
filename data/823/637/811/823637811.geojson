@@ -1,0 +1,73 @@
+{
+  "id": 823637811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.495795,41.10256,-73.495795,41.10256",
+    "geom:latitude":41.10256,
+    "geom:longitude":-73.495795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Timber Ln",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 0657",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manager",
+        "or"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LdHWVNnGHb0ESySuPIRaR_41.102560_-73.495795@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442804,
+    "wof:geomhash":"ec3b46a57b96000935316e3526791bc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":823637811
+        }
+    ],
+    "wof:id":823637811,
+    "wof:lastmodified":1466423692,
+    "wof:name":"Barton Properties",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "or"
+    ]
+},
+  "bbox": [
+    -73.495795,
+    41.10256,
+    -73.495795,
+    41.10256
+],
+  "geometry": {"coordinates":[-73.495795,41.10256],"type":"Point"}
+}

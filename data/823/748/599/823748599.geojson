@@ -1,0 +1,73 @@
+{
+  "id": 823748599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.545417,41.804289,-72.545417,41.804289",
+    "geom:latitude":41.804289,
+    "geom:longitude":-72.545417,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Pavilion Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 5109",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45Yeo0oxjjRQMYABTQVIne_41.804289_-72.545417@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445341,
+    "wof:geomhash":"23d0dd867e15f2260a445c0423f501cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823748599
+        }
+    ],
+    "wof:id":823748599,
+    "wof:lastmodified":1466425010,
+    "wof:name":"Wireless Retail",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -72.545417,
+    41.804289,
+    -72.545417,
+    41.804289
+],
+  "geometry": {"coordinates":[-72.545417,41.804289],"type":"Point"}
+}

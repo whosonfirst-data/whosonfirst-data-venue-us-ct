@@ -1,0 +1,79 @@
+{
+  "id": 823600193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.861983,41.424893,-72.861983,41.424893",
+    "geom:latitude":41.424893,
+    "geom:longitude":-72.861983,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"355 Kings Hwy",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 1234",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23dObnWmANjKIKTfXTj0b1_41.424893_-72.861983@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441903,
+    "wof:geomhash":"eab9a9f4df26903a8c73f25c2f1eb478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823600193
+        }
+    ],
+    "wof:id":823600193,
+    "wof:lastmodified":1466423286,
+    "wof:name":"Miller Buick",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.861983,
+    41.424893,
+    -72.861983,
+    41.424893
+],
+  "geometry": {"coordinates":[-72.861983,41.424893],"type":"Point"}
+}

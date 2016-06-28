@@ -1,0 +1,77 @@
+{
+  "id": 823801299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15096,41.184207,-73.15096,41.184207",
+    "geom:latitude":41.184207,
+    "geom:longitude":-73.15096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2205 Stratford Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 0404",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D6N3nr5WpVcZRzd54FCuV_41.184207_-73.150960@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446741,
+    "wof:geomhash":"9c58d5b1fe321ae055aa5b1108372495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823801299
+        }
+    ],
+    "wof:id":823801299,
+    "wof:lastmodified":1466425133,
+    "wof:name":"Gate of Heaven Cemetery",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -73.15096,
+    41.184207,
+    -73.15096,
+    41.184207
+],
+  "geometry": {"coordinates":[-73.15096,41.184207],"type":"Point"}
+}

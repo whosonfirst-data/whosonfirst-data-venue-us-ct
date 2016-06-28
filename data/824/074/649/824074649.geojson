@@ -1,0 +1,91 @@
+{
+  "id": 824074649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.587795,41.783729,-72.587795,41.783729",
+    "geom:latitude":41.783729,
+    "geom:longitude":-72.587795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1166 Burnside Ave",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/129834-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 290 8151",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wx1fOWx9g6NWUynPhZQu8_41.783729_-72.587795@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453730,
+    "wof:geomhash":"b5b4180cdc626a5b20a18cf3b7e95848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":824074649
+        }
+    ],
+    "wof:id":824074649,
+    "wof:lastmodified":1466422427,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.587795,
+    41.783729,
+    -72.587795,
+    41.783729
+],
+  "geometry": {"coordinates":[-72.587795,41.783729],"type":"Point"}
+}

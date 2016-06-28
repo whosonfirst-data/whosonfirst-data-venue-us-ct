@@ -1,0 +1,77 @@
+{
+  "id": 823741025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.461525,41.399283,-73.461525,41.399283",
+    "geom:latitude":41.399283,
+    "geom:longitude":-73.461525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Franklin St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 792 0292",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ezTCpMFXSKYKQb6JWEuMJ_41.399283_-73.461525@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445176,
+    "wof:geomhash":"c4b110f02d4573e65b88652ae199873d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823741025
+        }
+    ],
+    "wof:id":823741025,
+    "wof:lastmodified":1466424666,
+    "wof:name":"Ambassador Express Svc",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -73.461525,
+    41.399283,
+    -73.461525,
+    41.399283
+],
+  "geometry": {"coordinates":[-73.46152499999999,41.399283],"type":"Point"}
+}

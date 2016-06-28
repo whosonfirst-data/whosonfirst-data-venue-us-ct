@@ -1,0 +1,73 @@
+{
+  "id": 823884685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.324153,41.28961,-72.324153,41.28961",
+    "geom:latitude":41.28961,
+    "geom:longitude":-72.324153,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Kinner Ave",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "engineering",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85806253,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L2gLIYmiKsWUpaiBclZDl_41.289610_-72.324153@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449073,
+    "wof:geomhash":"87b1e774e3b8e103a92d03c6647297e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85806253,
+            "region_id":85688629,
+            "venue_id":823884685
+        }
+    ],
+    "wof:id":823884685,
+    "wof:lastmodified":1466425823,
+    "wof:name":"South Shore Testing Inc",
+    "wof:parent_id":85806253,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -72.324153,
+    41.28961,
+    -72.324153,
+    41.28961
+],
+  "geometry": {"coordinates":[-72.324153,41.28961],"type":"Point"}
+}

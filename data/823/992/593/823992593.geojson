@@ -1,0 +1,73 @@
+{
+  "id": 823992593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136904,41.465616,-73.136904,41.465616",
+    "geom:latitude":41.465616,
+    "geom:longitude":-73.136904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"154 Christian St",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 9433",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_100toxsfedpmgjOKJkeyHn_41.465616_-73.136904@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451777,
+    "wof:geomhash":"69cb761856654a16a2009177669d1fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823992593
+        }
+    ],
+    "wof:id":823992593,
+    "wof:lastmodified":1466426838,
+    "wof:name":"Concrete Crafters",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.136904,
+    41.465616,
+    -73.136904,
+    41.465616
+],
+  "geometry": {"coordinates":[-73.136904,41.465616],"type":"Point"}
+}

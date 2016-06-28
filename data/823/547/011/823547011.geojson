@@ -1,0 +1,71 @@
+{
+  "id": 823547011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060424,41.395516,-73.060424,41.395516",
+    "geom:latitude":41.395516,
+    "geom:longitude":-73.060424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Smith St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 1302",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g23d8QKO4mGXktgBOctgn_41.395516_-73.060424@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440632,
+    "wof:geomhash":"33b31a3d3e4f93b2cfc383f3624d5d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823547011
+        }
+    ],
+    "wof:id":823547011,
+    "wof:lastmodified":1466422430,
+    "wof:name":"Tlc Cleaning Svc",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -73.060424,
+    41.395516,
+    -73.060424,
+    41.395516
+],
+  "geometry": {"coordinates":[-73.060424,41.395516],"type":"Point"}
+}

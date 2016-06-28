@@ -1,0 +1,73 @@
+{
+  "id": 824113103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.402657,41.449051,-73.402657,41.449051",
+    "geom:latitude":41.449051,
+    "geom:longitude":-73.402657,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Old New Milford Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 7000",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "buses-charter",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_580cxlkx6eqyendYeIOr1z_41.449051_-73.402657@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454621,
+    "wof:geomhash":"06028636b28a1c16671efcaf160d065c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824113103
+        }
+    ],
+    "wof:id":824113103,
+    "wof:lastmodified":1466423169,
+    "wof:name":"Foton America Bus Company",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "rental"
+    ]
+},
+  "bbox": [
+    -73.402657,
+    41.449051,
+    -73.402657,
+    41.449051
+],
+  "geometry": {"coordinates":[-73.402657,41.449051],"type":"Point"}
+}

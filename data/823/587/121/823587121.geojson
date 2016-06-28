@@ -1,0 +1,73 @@
+{
+  "id": 823587121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.940502,41.275059,-72.940502,41.275059",
+    "geom:latitude":41.275059,
+    "geom:longitude":-72.940502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Hine St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 937 7392",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZVSazlhyYeX689fOOuVi_41.275059_-72.940502@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441582,
+    "wof:geomhash":"07e9a8031c721cb7baf0ba948d4f7524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823587121
+        }
+    ],
+    "wof:id":823587121,
+    "wof:lastmodified":1466423145,
+    "wof:name":"Fondi Properties LLC",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.940502,
+    41.275059,
+    -72.940502,
+    41.275059
+],
+  "geometry": {"coordinates":[-72.940502,41.275059],"type":"Point"}
+}

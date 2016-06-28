@@ -1,0 +1,71 @@
+{
+  "id": 823766833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.428393,41.296812,-73.428393,41.296812",
+    "geom:latitude":41.296812,
+    "geom:longitude":-73.428393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 White Birch Rd",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 2654",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29nqLsW9ECBNif1bwIR1yF_41.296812_-73.428393@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445755,
+    "wof:geomhash":"da98c08f819fbb3dacefeaf0d1582dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823766833
+        }
+    ],
+    "wof:id":823766833,
+    "wof:lastmodified":1466424873,
+    "wof:name":"Johnson D Plumbing & Heating",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.428393,
+    41.296812,
+    -73.428393,
+    41.296812
+],
+  "geometry": {"coordinates":[-73.428393,41.296812],"type":"Point"}
+}

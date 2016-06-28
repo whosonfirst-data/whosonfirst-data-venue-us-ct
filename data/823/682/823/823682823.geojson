@@ -1,0 +1,90 @@
+{
+  "id": 823682823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.011183,41.241971,-73.011183,41.241971",
+    "geom:latitude":41.241971,
+    "geom:longitude":-73.011183,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"215 Research Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 876 7386",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor",
+        "work",
+        "sheet",
+        "metalwork",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834207,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r73CMTrBgpXdc6UCEJiaD_41.241971_-73.011183@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443848,
+    "wof:geomhash":"6596e9e481cc48c7804a022ee203281c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85834207,
+            "region_id":85688629,
+            "venue_id":823682823
+        }
+    ],
+    "wof:id":823682823,
+    "wof:lastmodified":1466424131,
+    "wof:name":"Lyon Manufacturing",
+    "wof:parent_id":85834207,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "work",
+        "sheet",
+        "metalwork",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.011183,
+    41.241971,
+    -73.011183,
+    41.241971
+],
+  "geometry": {"coordinates":[-73.011183,41.241971],"type":"Point"}
+}

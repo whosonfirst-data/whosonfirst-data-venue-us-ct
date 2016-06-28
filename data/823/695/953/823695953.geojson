@@ -1,0 +1,73 @@
+{
+  "id": 823695953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.898902,41.388172,-72.898902,41.388172",
+    "geom:latitude":41.388172,
+    "geom:longitude":-72.898902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Lincoln St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 2712",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28WgN2v1EIlZNVKk7qFHMs_41.388172_-72.898902@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444152,
+    "wof:geomhash":"1c4f88f18e5df46af7148659adfab4e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823695953
+        }
+    ],
+    "wof:id":823695953,
+    "wof:lastmodified":1466424228,
+    "wof:name":"ADAPT-Adolescent Drug",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.898902,
+    41.388172,
+    -72.898902,
+    41.388172
+],
+  "geometry": {"coordinates":[-72.89890200000001,41.388172],"type":"Point"}
+}

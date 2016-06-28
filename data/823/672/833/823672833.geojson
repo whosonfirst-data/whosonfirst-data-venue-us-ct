@@ -1,0 +1,71 @@
+{
+  "id": 823672833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932069,41.335536,-72.932069,41.335536",
+    "geom:latitude":41.335536,
+    "geom:longitude":-72.932069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 Goodrich St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 782 0797",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NDVbBluotoMJrlfTNzhAO_41.335536_-72.932069@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443634,
+    "wof:geomhash":"4ee6c6370942b6cb94dbb1a34391fb8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823672833
+        }
+    ],
+    "wof:id":823672833,
+    "wof:lastmodified":1466424187,
+    "wof:name":"Kool's Place",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -72.932069,
+    41.335536,
+    -72.932069,
+    41.335536
+],
+  "geometry": {"coordinates":[-72.932069,41.335536],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823568021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.99532,41.337651,-72.99532,41.337651",
+    "geom:latitude":41.337651,
+    "geom:longitude":-72.99532,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Pease Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 397 7562",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71Fh1tsz039Mbn9tQSuUtF_41.337651_-72.995320@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441137,
+    "wof:geomhash":"36df737f16b91133b324d6862daf3d55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823568021
+        }
+    ],
+    "wof:id":823568021,
+    "wof:lastmodified":1466422781,
+    "wof:name":"Huntco Transportation LLC",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.99532,
+    41.337651,
+    -72.99532,
+    41.337651
+],
+  "geometry": {"coordinates":[-72.99532000000001,41.337651],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 824073839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.618421,41.799628,-72.618421,41.799628",
+    "geom:latitude":41.799628,
+    "geom:longitude":-72.618421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 John Fitch Blvd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/south-windsor/147312-between-rounds-bakery-sandwich-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 291 8780",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tVHU9N1LqmmN9UHSfKIij_41.799628_-72.618421@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453716,
+    "wof:geomhash":"39361e00f3e133322e8638b0c7c7fc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":824073839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":824073839
+        }
+    ],
+    "wof:id":824073839,
+    "wof:lastmodified":1466422452,
+    "wof:name":"Between Rounds Bakery Sandwich Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.618421,
+    41.799628,
+    -72.618421,
+    41.799628
+],
+  "geometry": {"coordinates":[-72.618421,41.799628],"type":"Point"}
+}

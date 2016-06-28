@@ -1,0 +1,74 @@
+{
+  "id": 823834649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.618119,41.927269,-72.618119,41.927269",
+    "geom:latitude":41.927269,
+    "geom:longitude":-72.618119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"107 Main St",
+    "sg:city":"East Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06088",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qx5vykjDstqOd0BRSFakw_41.927269_-72.618119@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447749,
+    "wof:geomhash":"5f3326f71872f1133741d6d5a88fb41c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823834649
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823834649
+        }
+    ],
+    "wof:id":823834649,
+    "wof:lastmodified":1466425449,
+    "wof:name":"Warehouse Point Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.618119,
+    41.927269,
+    -72.618119,
+    41.927269
+],
+  "geometry": {"coordinates":[-72.61811899999999,41.927269],"type":"Point"}
+}

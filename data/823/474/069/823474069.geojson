@@ -1,0 +1,68 @@
+{
+  "id": 823474069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.192824,41.323518,-72.192824,41.323518",
+    "geom:latitude":41.323518,
+    "geom:longitude":-72.192824,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"287 Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13oGbFzsIcf1QaBYjTn6fw_41.323518_-72.192824@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438931,
+    "wof:geomhash":"dd51b1e79635891f0ee102aa6539f744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":823474069
+        }
+    ],
+    "wof:id":823474069,
+    "wof:lastmodified":1466421299,
+    "wof:name":"Arthur Murray Dance Center",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.192824,
+    41.323518,
+    -72.192824,
+    41.323518
+],
+  "geometry": {"coordinates":[-72.192824,41.323518],"type":"Point"}
+}

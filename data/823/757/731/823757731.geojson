@@ -1,0 +1,83 @@
+{
+  "id": 823757731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.917922,41.667669,-72.917922,41.667669",
+    "geom:latitude":41.667669,
+    "geom:longitude":-72.917922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"102 Pine St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "agent",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pVTSAkalMe9n0ZgKD1DfK_41.667669_-72.917922@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445573,
+    "wof:geomhash":"f07c207bf9497e70dfcab9f5f62f2e44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823757731
+        }
+    ],
+    "wof:id":823757731,
+    "wof:lastmodified":1466424801,
+    "wof:name":"Vale Tone Cleaners",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "agent",
+        "garment"
+    ]
+},
+  "bbox": [
+    -72.917922,
+    41.667669,
+    -72.917922,
+    41.667669
+],
+  "geometry": {"coordinates":[-72.917922,41.667669],"type":"Point"}
+}

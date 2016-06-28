@@ -1,0 +1,83 @@
+{
+  "id": 823502055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.76958,41.78405,-72.76958,41.78405",
+    "geom:latitude":41.78405,
+    "geom:longitude":-72.76958,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Cypress Rd",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 523 7200",
+    "sg:postcode":"06117",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867455,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tYqpCtj8wRZ9CagBeUz2w_41.784050_-72.769580@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439623,
+    "wof:geomhash":"56181bd5543709f897fbd83dcceac5f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85867455,
+            "region_id":85688629,
+            "venue_id":823502055
+        }
+    ],
+    "wof:id":823502055,
+    "wof:lastmodified":1466421570,
+    "wof:name":"Stephen H Sack",
+    "wof:parent_id":85867455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.76958,
+    41.78405,
+    -72.76958,
+    41.78405
+],
+  "geometry": {"coordinates":[-72.76958,41.78405],"type":"Point"}
+}

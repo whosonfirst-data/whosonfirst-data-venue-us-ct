@@ -1,0 +1,66 @@
+{
+  "id": 823863137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.276849,41.43092,-73.276849,41.43092",
+    "geom:latitude":41.43092,
+    "geom:longitude":-73.276849,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Glen Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 364 1908",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sS3gORsFqoclrXVWUcVzO_41.430920_-73.276849@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448576,
+    "wof:geomhash":"ad711b805058448ac553018b5534cab8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823863137
+        }
+    ],
+    "wof:id":823863137,
+    "wof:lastmodified":1466425648,
+    "wof:name":"American Reel LLC",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.276849,
+    41.43092,
+    -73.276849,
+    41.43092
+],
+  "geometry": {"coordinates":[-73.276849,41.43092],"type":"Point"}
+}

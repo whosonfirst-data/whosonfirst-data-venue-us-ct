@@ -1,0 +1,80 @@
+{
+  "id": 824082499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.540547,41.054681,-73.540547,41.054681",
+    "geom:latitude":41.054681,
+    "geom:longitude":-73.540547,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"211 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/25472-ocean-211/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 973 0494",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PfQKvOtAw9Y02QudWN643_41.054338_-73.540607@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453905,
+    "wof:geomhash":"3ec097757e70cc3ea6183af0ea1119d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824082499
+        }
+    ],
+    "wof:id":824082499,
+    "wof:lastmodified":1466422635,
+    "wof:name":"Ocean 211",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.540547,
+    41.054681,
+    -73.540547,
+    41.054681
+],
+  "geometry": {"coordinates":[-73.540547,41.054681],"type":"Point"}
+}

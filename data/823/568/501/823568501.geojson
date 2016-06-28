@@ -1,0 +1,71 @@
+{
+  "id": 823568501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.476069,41.210808,-73.476069,41.210808",
+    "geom:latitude":41.210808,
+    "geom:longitude":-73.476069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Wildwood Dr",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 0259",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838173,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29W0mtRm2n1BDOxrEEDGYS_41.210808_-73.476069@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441151,
+    "wof:geomhash":"e5ef89aa0294c144853ee7416d6910e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85838173,
+            "region_id":85688629,
+            "venue_id":823568501
+        }
+    ],
+    "wof:id":823568501,
+    "wof:lastmodified":1466422822,
+    "wof:name":"Greene's Education",
+    "wof:parent_id":85838173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -73.476069,
+    41.210808,
+    -73.476069,
+    41.210808
+],
+  "geometry": {"coordinates":[-73.476069,41.210808],"type":"Point"}
+}

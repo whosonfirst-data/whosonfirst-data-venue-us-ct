@@ -1,0 +1,82 @@
+{
+  "id": 824082231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.450991,41.412843,-73.450991,41.412843",
+    "geom:latitude":41.412843,
+    "geom:longitude":-73.450991,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Tamarack Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/danbury/83126-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 790 7700",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q4uaG6XdZZNHYY81yolqk_41.412774_-73.451119@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453900,
+    "wof:geomhash":"41c1c1ebe761837e93ccc57757af1210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824082231
+        }
+    ],
+    "wof:id":824082231,
+    "wof:lastmodified":1466422380,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.450991,
+    41.412843,
+    -73.450991,
+    41.412843
+],
+  "geometry": {"coordinates":[-73.450991,41.412843],"type":"Point"}
+}

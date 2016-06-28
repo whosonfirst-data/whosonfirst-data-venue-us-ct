@@ -1,0 +1,73 @@
+{
+  "id": 823737163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.550392,41.785857,-72.550392,41.785857",
+    "geom:latitude":41.785857,
+    "geom:longitude":-72.550392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"259 Adams St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47p8COsNBIayfVsujInYWS_41.785857_-72.550392@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445089,
+    "wof:geomhash":"f87931cd52421b2ace2ffe21c505061d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823737163
+        }
+    ],
+    "wof:id":823737163,
+    "wof:lastmodified":1466424559,
+    "wof:name":"Restoration Shop Inc",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.550392,
+    41.785857,
+    -72.550392,
+    41.785857
+],
+  "geometry": {"coordinates":[-72.550392,41.785857],"type":"Point"}
+}

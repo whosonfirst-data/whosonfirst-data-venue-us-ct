@@ -1,0 +1,79 @@
+{
+  "id": 823889101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.929508,41.305829,-72.929508,41.305829",
+    "geom:latitude":41.305829,
+    "geom:longitude":-72.929508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 Crown St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 777 4346",
+    "sg:postcode":"06510",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garage",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879165,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZcD5Qbi6rhNL5LsHtuMeP_41.305829_-72.929508@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449174,
+    "wof:geomhash":"71f5905428b9e6e3e54201e99164acaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879165,
+            "region_id":85688629,
+            "venue_id":823889101
+        }
+    ],
+    "wof:id":823889101,
+    "wof:lastmodified":1466425899,
+    "wof:name":"Kirk's Parking",
+    "wof:parent_id":85879165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.929508,
+    41.305829,
+    -72.929508,
+    41.305829
+],
+  "geometry": {"coordinates":[-72.929508,41.305829],"type":"Point"}
+}

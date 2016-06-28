@@ -1,0 +1,71 @@
+{
+  "id": 824036993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.24549,41.369282,-73.24549,41.369282",
+    "geom:latitude":41.369282,
+    "geom:longitude":-73.24549,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Avalon Way",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 0700",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manager"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GtMQSlNifOOC3L1usgcDH_41.369282_-73.245490@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452840,
+    "wof:geomhash":"7f16d9c70ab0699439d2b9c732b4d0ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":824036993
+        }
+    ],
+    "wof:id":824036993,
+    "wof:lastmodified":1466421860,
+    "wof:name":"Avalon Milford",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager"
+    ]
+},
+  "bbox": [
+    -73.24549,
+    41.369282,
+    -73.24549,
+    41.369282
+],
+  "geometry": {"coordinates":[-73.24549,41.369282],"type":"Point"}
+}

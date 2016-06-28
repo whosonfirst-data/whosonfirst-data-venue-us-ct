@@ -1,0 +1,73 @@
+{
+  "id": 823555509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.891765,41.774256,-71.891765,41.774256",
+    "geom:latitude":41.774256,
+    "geom:longitude":-71.891765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Seagrave St",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mo8Rw3aku2ntEzTTMOs01_41.774256_-71.891765@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440830,
+    "wof:geomhash":"2f4e1d5afe3f52b66f0e6ff250a8402f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":823555509
+        }
+    ],
+    "wof:id":823555509,
+    "wof:lastmodified":1466422521,
+    "wof:name":"Seagrave St Group Home",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -71.891765,
+    41.774256,
+    -71.891765,
+    41.774256
+],
+  "geometry": {"coordinates":[-71.89176500000001,41.774256],"type":"Point"}
+}

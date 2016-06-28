@@ -1,0 +1,87 @@
+{
+  "id": 824109115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.904133,41.419613,-72.904133,41.419613",
+    "geom:latitude":41.419613,
+    "geom:longitude":-72.904133,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3450 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 8846",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian",
+        "pizza",
+        "take",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65G1OWzyyurNlPehq4VVCS_41.419613_-72.904133@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454536,
+    "wof:geomhash":"b15f0746f018b64fd8b8b15a3ba35ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":824109115
+        }
+    ],
+    "wof:id":824109115,
+    "wof:lastmodified":1466423106,
+    "wof:name":"Tonino's",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza",
+        "take",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -72.904133,
+    41.419613,
+    -72.904133,
+    41.419613
+],
+  "geometry": {"coordinates":[-72.904133,41.419613],"type":"Point"}
+}

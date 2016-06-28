@@ -2,13 +2,14 @@
   "id": 286668343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.498474,41.151513,-73.498474,41.151513",
     "geom:latitude":41.151513,
     "geom:longitude":-73.498474,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Oenoke Ridge",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":286668343,
-    "wof:lastmodified":1449017237,
+    "wof:lastmodified":1466421112,
     "wof:name":"New Canaan Inn Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "facility"
     ]
 },
-  "bbox": [-73.498474,41.151513,-73.498474,41.151513],
+  "bbox": [
+    -73.498474,
+    41.151513,
+    -73.498474,
+    41.151513
+],
   "geometry": {"coordinates":[-73.498474,41.151513],"type":"Point"}
 }

@@ -1,0 +1,73 @@
+{
+  "id": 823694339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.303765,41.427848,-73.303765,41.427848",
+    "geom:latitude":41.427848,
+    "geom:longitude":-73.303765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Edgewood Dr",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 1871",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pLWaJBgeFqUAPjh8jxFgq_41.427848_-73.303765@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444117,
+    "wof:geomhash":"6e089f7df9fb1329df46b006467b0f53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823694339
+        }
+    ],
+    "wof:id":823694339,
+    "wof:lastmodified":1466424194,
+    "wof:name":"Mcloy",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -73.303765,
+    41.427848,
+    -73.303765,
+    41.427848
+],
+  "geometry": {"coordinates":[-73.303765,41.427848],"type":"Point"}
+}

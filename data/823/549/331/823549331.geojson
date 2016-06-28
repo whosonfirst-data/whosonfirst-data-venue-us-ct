@@ -1,0 +1,73 @@
+{
+  "id": 823549331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.305813,41.409633,-73.305813,41.409633",
+    "geom:latitude":41.409633,
+    "geom:longitude":-73.305813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 364 9901",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38W1qXdiHZvb8EOWtTMVyz_41.409633_-73.305813@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440680,
+    "wof:geomhash":"efe7d8e59dfa6947f16f18e4900790bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823549331
+        }
+    ],
+    "wof:id":823549331,
+    "wof:lastmodified":1466422501,
+    "wof:name":"News Broadcast Network Inc",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -73.305813,
+    41.409633,
+    -73.305813,
+    41.409633
+],
+  "geometry": {"coordinates":[-73.305813,41.409633],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 823674707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.928079,41.354217,-72.928079,41.354217",
+    "geom:latitude":41.354217,
+    "geom:longitude":-72.928079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Marne St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair",
+        "installs",
+        "heating",
+        "air",
+        "conditioning",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F3RqL7W9DE6I19kEmxDix_41.354217_-72.928079@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443677,
+    "wof:geomhash":"52adc6219d318a78574401a11bbcb20e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823674707
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823674707
+        }
+    ],
+    "wof:id":823674707,
+    "wof:lastmodified":1466424021,
+    "wof:name":"Apollo Sheet Metal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "installs",
+        "heating",
+        "air",
+        "conditioning",
+        "unit"
+    ]
+},
+  "bbox": [
+    -72.928079,
+    41.354217,
+    -72.928079,
+    41.354217
+],
+  "geometry": {"coordinates":[-72.928079,41.354217],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823893283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.444395,41.288151,-73.444395,41.288151",
+    "geom:latitude":41.288151,
+    "geom:longitude":-73.444395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 Old Redding Rd",
+    "sg:city":"West Redding",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Botanical Garden",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 8809",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "arboretum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lHCY1aKoduqo8x1e2SQyT_41.288151_-73.444395@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449279,
+    "wof:geomhash":"6867386abbdd127c33fe9639fd04c3ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823893283
+        }
+    ],
+    "wof:id":823893283,
+    "wof:lastmodified":1466425987,
+    "wof:name":"Highstead Arboretum",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "arboretum"
+    ]
+},
+  "bbox": [
+    -73.444395,
+    41.288151,
+    -73.444395,
+    41.288151
+],
+  "geometry": {"coordinates":[-73.444395,41.288151],"type":"Point"}
+}

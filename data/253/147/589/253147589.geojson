@@ -2,13 +2,14 @@
   "id": 253147589,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.643526,41.030196,-73.643526,41.030196",
     "geom:latitude":41.030196,
     "geom:longitude":-73.643526,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"52 Upland Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":253147589,
-    "wof:lastmodified":1449065456,
+    "wof:lastmodified":1466421106,
     "wof:name":"G Michael Stevens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.643526,41.030196,-73.643526,41.030196],
-  "geometry": {"coordinates":[-73.643526,41.030196],"type":"Point"}
+  "bbox": [
+    -73.643526,
+    41.030196,
+    -73.643526,
+    41.030196
+],
+  "geometry": {"coordinates":[-73.64352599999999,41.030196],"type":"Point"}
 }

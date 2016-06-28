@@ -1,0 +1,74 @@
+{
+  "id": 824073009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.808636,41.711145,-72.808636,41.711145",
+    "geom:latitude":41.711145,
+    "geom:longitude":-72.808636,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"348 Colt Hwy",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/farmington/144164-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 606 0074",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6irpxpGuSxQSL6YjdTSJdQ_41.711145_-72.808636@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453695,
+    "wof:geomhash":"26453cb381abf95b3d5a24382958c00e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":824073009
+        }
+    ],
+    "wof:id":824073009,
+    "wof:lastmodified":1466422645,
+    "wof:name":"Subway",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.808636,
+    41.711145,
+    -72.808636,
+    41.711145
+],
+  "geometry": {"coordinates":[-72.80863600000001,41.711145],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 824121965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225358,41.203253,-73.225358,41.203253",
+    "geom:latitude":41.203253,
+    "geom:longitude":-73.225358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 Merritt 7",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 322 8738",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "software",
+        "finance",
+        "buy-side",
+        "sell-side"
+    ],
+    "sg:website":"http://www.factset.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851229,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40gbzUcuJKysGVlkJBtIu2_41.203253_-73.225358@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1463454801,
+    "wof:geomhash":"600d9435c6f8590e89fa670526afcc04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851229,
+            "region_id":85688629,
+            "venue_id":824121965
+        }
+    ],
+    "wof:id":824121965,
+    "wof:lastmodified":1466423406,
+    "wof:name":"FactSet Research Systems",
+    "wof:parent_id":85851229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software",
+        "finance",
+        "buy-side",
+        "sell-side"
+    ]
+},
+  "bbox": [
+    -73.225358,
+    41.203253,
+    -73.225358,
+    41.203253
+],
+  "geometry": {"coordinates":[-73.225358,41.203253],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824105771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.375504,41.299301,-72.375504,41.299301",
+    "geom:latitude":41.299301,
+    "geom:longitude":-72.375504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"607 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 5255",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F8GJs6bnyFS07KTGS6gMZ_41.299301_-72.375504@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454460,
+    "wof:geomhash":"3610bc9c8caa54a6f4f104adad93c8ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105771
+        }
+    ],
+    "wof:id":824105771,
+    "wof:lastmodified":1466423094,
+    "wof:name":"Burger King Restaurant",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.375504,
+    41.299301,
+    -72.375504,
+    41.299301
+],
+  "geometry": {"coordinates":[-72.37550400000001,41.299301],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823655209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180675,41.187226,-73.180675,41.187226",
+    "geom:latitude":41.187226,
+    "geom:longitude":-73.180675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"988 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 6864",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19cHFRfGfwDY8fr4fntl8D_41.187226_-73.180675@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443199,
+    "wof:geomhash":"6d61f55328ce503ce2a3ec77ac7ed29f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823655209
+        }
+    ],
+    "wof:id":823655209,
+    "wof:lastmodified":1466423777,
+    "wof:name":"Bridgeport Community Hlth Ctr",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.180675,
+    41.187226,
+    -73.180675,
+    41.187226
+],
+  "geometry": {"coordinates":[-73.18067499999999,41.187226],"type":"Point"}
+}

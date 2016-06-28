@@ -1,0 +1,82 @@
+{
+  "id": 823785445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.428737,41.400024,-73.428737,41.400024",
+    "geom:latitude":41.400024,
+    "geom:longitude":-73.428737,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Newtown Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 8544",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73MTgLMPk1JbfF1YntKsnI_41.400024_-73.428737@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446262,
+    "wof:geomhash":"0d5e2b6f9f4edd2d5acf2f6a37cc1eba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":823785445
+        }
+    ],
+    "wof:id":823785445,
+    "wof:lastmodified":1466425167,
+    "wof:name":"Santos Pastry and Deli",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.428737,
+    41.400024,
+    -73.428737,
+    41.400024
+],
+  "geometry": {"coordinates":[-73.428737,41.400024],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823730707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.575965,41.793658,-72.575965,41.793658",
+    "geom:latitude":41.793658,
+    "geom:longitude":-72.575965,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Batson Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_666l9fo8FQ3yIYC1ZSzgGP_41.793658_-72.575965@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444921,
+    "wof:geomhash":"3a773d162e656d5c60c6a3497dbf3777",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823730707
+        }
+    ],
+    "wof:id":823730707,
+    "wof:lastmodified":1466424533,
+    "wof:name":"New England Bioassay Inc",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.575965,
+    41.793658,
+    -72.575965,
+    41.793658
+],
+  "geometry": {"coordinates":[-72.575965,41.793658],"type":"Point"}
+}

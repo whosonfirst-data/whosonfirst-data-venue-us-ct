@@ -1,0 +1,109 @@
+{
+  "id": 824095667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.711292,41.681203,-72.711292,41.681203",
+    "geom:latitude":41.681203,
+    "geom:longitude":-72.711292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2550 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 3319",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "truck",
+        "painting"
+    ],
+    "sg:website":"http://www.turnpikemotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tc6oelHF121fJS46AXAsO_41.681203_-72.711292@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454238,
+    "wof:geomhash":"cfcf5fdac8f20f46d752e3ca4de58400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":824095667
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":824095667
+        }
+    ],
+    "wof:id":824095667,
+    "wof:lastmodified":1466422922,
+    "wof:name":"Berlin Turnpike Motors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "used",
+        "car",
+        "truck",
+        "painting"
+    ]
+},
+  "bbox": [
+    -72.711292,
+    41.681203,
+    -72.711292,
+    41.681203
+],
+  "geometry": {"coordinates":[-72.711292,41.681203],"type":"Point"}
+}

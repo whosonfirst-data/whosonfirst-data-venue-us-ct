@@ -1,0 +1,72 @@
+{
+  "id": 824009795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.449866,41.398532,-73.449866,41.398532",
+    "geom:latitude":41.398532,
+    "geom:longitude":-73.449866,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 9798",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f64FH0bNJoEplZmyNZ6Zb_41.398532_-73.449866@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452193,
+    "wof:geomhash":"d95d736bc86e3361d523fea2266da27c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824009795
+        }
+    ],
+    "wof:id":824009795,
+    "wof:lastmodified":1466421309,
+    "wof:name":"New Holiday Diner",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.449866,
+    41.398532,
+    -73.449866,
+    41.398532
+],
+  "geometry": {"coordinates":[-73.449866,41.398532],"type":"Point"}
+}

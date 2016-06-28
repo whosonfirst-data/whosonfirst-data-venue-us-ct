@@ -1,0 +1,71 @@
+{
+  "id": 823978685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.519424,41.47053,-72.519424,41.47053",
+    "geom:latitude":41.47053,
+    "geom:longitude":-72.519424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Bamforth Rd",
+    "sg:city":"Haddam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06438",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85803617,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44DMKiOmfLbMcBYCGJA0ag_41.470530_-72.519424@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451444,
+    "wof:geomhash":"2238088cf2107e71a18027ea6f17dcff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85803617,
+            "region_id":85688629,
+            "venue_id":823978685
+        }
+    ],
+    "wof:id":823978685,
+    "wof:lastmodified":1466426805,
+    "wof:name":"Gillettis Garage",
+    "wof:parent_id":85803617,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.519424,
+    41.47053,
+    -72.519424,
+    41.47053
+],
+  "geometry": {"coordinates":[-72.519424,41.47053],"type":"Point"}
+}

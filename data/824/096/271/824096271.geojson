@@ -1,0 +1,86 @@
+{
+  "id": 824096271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.881431,41.806176,-71.881431,41.806176",
+    "geom:latitude":41.806176,
+    "geom:longitude":-71.881431,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Academy St",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 774 0067",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44gSdbj5Kb3SXAMHs6lY6I_41.806176_-71.881431@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454250,
+    "wof:geomhash":"af5c92a48fe9260d6d1619099a1f9abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824096271
+        }
+    ],
+    "wof:id":824096271,
+    "wof:lastmodified":1466423007,
+    "wof:name":"Borough Of Danielson",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.881431,
+    41.806176,
+    -71.881431,
+    41.806176
+],
+  "geometry": {"coordinates":[-71.88143100000001,41.806176],"type":"Point"}
+}

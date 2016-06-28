@@ -1,0 +1,66 @@
+{
+  "id": 823645401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900359,41.334831,-72.900359,41.334831",
+    "geom:latitude":41.334831,
+    "geom:longitude":-72.900359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1959 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 8401",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l6dBhsqtAOMRPUsJEdeig_41.334831_-72.900359@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442973,
+    "wof:geomhash":"24cc594223e342481bd8e76dd7ece389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823645401
+        }
+    ],
+    "wof:id":823645401,
+    "wof:lastmodified":1466423658,
+    "wof:name":"Krauszers",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.900359,
+    41.334831,
+    -72.900359,
+    41.334831
+],
+  "geometry": {"coordinates":[-72.90035899999999,41.334831],"type":"Point"}
+}

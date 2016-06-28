@@ -1,0 +1,66 @@
+{
+  "id": 823553247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.011336,41.677641,-73.011336,41.677641",
+    "geom:latitude":41.677641,
+    "geom:longitude":-73.011336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 S Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 589 2746",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vsPus36dKH2BPYCPuRzK3_41.677641_-73.011336@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440782,
+    "wof:geomhash":"3f3c6d4fc639cefcd6754e819ffec42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823553247
+        }
+    ],
+    "wof:id":823553247,
+    "wof:lastmodified":1466422366,
+    "wof:name":"Village Florist",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.011336,
+    41.677641,
+    -73.011336,
+    41.677641
+],
+  "geometry": {"coordinates":[-73.011336,41.677641],"type":"Point"}
+}

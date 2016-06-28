@@ -1,0 +1,81 @@
+{
+  "id": 823522801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20274,41.200144,-73.20274,41.200144",
+    "geom:latitude":41.200144,
+    "geom:longitude":-73.20274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2837 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 4044",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ajth0T4Z9XfUikQ2LuT7W_41.200144_-73.202740@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440086,
+    "wof:geomhash":"c32b9b8a6bb25e9e0dc619324e118567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823522801
+        }
+    ],
+    "wof:id":823522801,
+    "wof:lastmodified":1466422199,
+    "wof:name":"Santiago Escobar MD",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.20274,
+    41.200144,
+    -73.20274,
+    41.200144
+],
+  "geometry": {"coordinates":[-73.20274000000001,41.200144],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823587221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.146525,41.29627,-73.146525,41.29627",
+    "geom:latitude":41.29627,
+    "geom:longitude":-73.146525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Huntington St",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 9929",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.commerceparkdental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aa7BLJj8TRk8NzYiXNRqv_41.296270_-73.146525@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441583,
+    "wof:geomhash":"4b11fa2798c942a79487207c70acb3ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823587221
+        }
+    ],
+    "wof:id":823587221,
+    "wof:lastmodified":1466423155,
+    "wof:name":"Commerce Park Dental Group",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.146525,
+    41.29627,
+    -73.146525,
+    41.29627
+],
+  "geometry": {"coordinates":[-73.146525,41.29627],"type":"Point"}
+}

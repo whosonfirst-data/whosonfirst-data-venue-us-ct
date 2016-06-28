@@ -1,0 +1,79 @@
+{
+  "id": 824093375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.514099,41.985062,-72.514099,41.985062",
+    "geom:latitude":41.985062,
+    "geom:longitude":-72.514099,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"556 Hazard Ave",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 749 4268",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wi7a7MDcMkXesnEzVDBn1_41.985062_-72.514099@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454161,
+    "wof:geomhash":"f5c08b607e6994d64c661a9ea7cc925e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093375
+        }
+    ],
+    "wof:id":824093375,
+    "wof:lastmodified":1466423005,
+    "wof:name":"Elm Auto Center",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -72.514099,
+    41.985062,
+    -72.514099,
+    41.985062
+],
+  "geometry": {"coordinates":[-72.514099,41.985062],"type":"Point"}
+}

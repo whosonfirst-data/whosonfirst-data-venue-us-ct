@@ -2,13 +2,14 @@
   "id": 253524001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.492126,41.147684,-73.492126,41.147684",
     "geom:latitude":41.147684,
     "geom:longitude":-73.492126,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 East Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":253524001,
-    "wof:lastmodified":1449062796,
+    "wof:lastmodified":1466421109,
     "wof:name":"Beauty On East",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "perfume"
     ]
 },
-  "bbox": [-73.492126,41.147684,-73.492126,41.147684],
+  "bbox": [
+    -73.492126,
+    41.147684,
+    -73.492126,
+    41.147684
+],
   "geometry": {"coordinates":[-73.492126,41.147684],"type":"Point"}
 }

@@ -1,0 +1,73 @@
+{
+  "id": 823900533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.531292,41.788658,-72.531292,41.788658",
+    "geom:latitude":41.788658,
+    "geom:longitude":-72.531292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"166 Homestead St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 645 6664",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YCmGJE8BOw2qYiymJjFQo_41.788658_-72.531292@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449465,
+    "wof:geomhash":"208137e33ffe41c6f390cb74a447ea5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":823900533
+        }
+    ],
+    "wof:id":823900533,
+    "wof:lastmodified":1466426048,
+    "wof:name":"JD Electrical Services LLC",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.531292,
+    41.788658,
+    -72.531292,
+    41.788658
+],
+  "geometry": {"coordinates":[-72.53129199999999,41.788658],"type":"Point"}
+}

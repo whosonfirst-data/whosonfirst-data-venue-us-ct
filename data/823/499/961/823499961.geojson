@@ -1,0 +1,71 @@
+{
+  "id": 823499961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185065,41.276786,-73.185065,41.276786",
+    "geom:latitude":41.276786,
+    "geom:longitude":-73.185065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Spinning Wheel Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 7935",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MxnOkrNRzZPlOWwH8Txua_41.276786_-73.185065@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439573,
+    "wof:geomhash":"2494e250e9f04ec568f02d9fe8f32da9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823499961
+        }
+    ],
+    "wof:id":823499961,
+    "wof:lastmodified":1466421740,
+    "wof:name":"Space Builders",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.185065,
+    41.276786,
+    -73.185065,
+    41.276786
+],
+  "geometry": {"coordinates":[-73.18506499999999,41.276786],"type":"Point"}
+}

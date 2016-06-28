@@ -2,13 +2,14 @@
   "id": 320035289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.492144,41.146874,-73.492144,41.146874",
     "geom:latitude":41.146874,
     "geom:longitude":-73.492144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Burtis Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320035289,
-    "wof:lastmodified":1449014251,
+    "wof:lastmodified":1466421122,
     "wof:name":"R Scott Lewis Consulting Engnr",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"
     ]
 },
-  "bbox": [-73.492144,41.146874,-73.492144,41.146874],
+  "bbox": [
+    -73.492144,
+    41.146874,
+    -73.492144,
+    41.146874
+],
   "geometry": {"coordinates":[-73.492144,41.146874],"type":"Point"}
 }

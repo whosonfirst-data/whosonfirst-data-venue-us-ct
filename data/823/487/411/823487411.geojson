@@ -1,0 +1,71 @@
+{
+  "id": 823487411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908357,41.455155,-72.908357,41.455155",
+    "geom:latitude":41.455155,
+    "geom:longitude":-72.908357,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4481 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85827173,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VSLzWv0bjWElJ2u4myeu9_41.455155_-72.908357@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439241,
+    "wof:geomhash":"89ca3e2d670d425e9d7042949c74ea30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85827173,
+            "region_id":85688629,
+            "venue_id":823487411
+        }
+    ],
+    "wof:id":823487411,
+    "wof:lastmodified":1466421480,
+    "wof:name":"P Js Maintenance",
+    "wof:parent_id":85827173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.908357,
+    41.455155,
+    -72.908357,
+    41.455155
+],
+  "geometry": {"coordinates":[-72.908357,41.455155],"type":"Point"}
+}

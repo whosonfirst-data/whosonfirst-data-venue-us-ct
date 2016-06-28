@@ -2,13 +2,14 @@
   "id": 253036977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.502542,41.140957,-73.502542,41.140957",
     "geom:latitude":41.140957,
     "geom:longitude":-73.502542,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"655 Weed St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253036977,
-    "wof:lastmodified":1449063471,
+    "wof:lastmodified":1466421096,
     "wof:name":"Mitch Vazquez",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-73.502542,41.140957,-73.502542,41.140957],
-  "geometry": {"coordinates":[-73.502542,41.140957],"type":"Point"}
+  "bbox": [
+    -73.502542,
+    41.140957,
+    -73.502542,
+    41.140957
+],
+  "geometry": {"coordinates":[-73.50254200000001,41.140957],"type":"Point"}
 }

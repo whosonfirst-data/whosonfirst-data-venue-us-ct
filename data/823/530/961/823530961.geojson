@@ -1,0 +1,77 @@
+{
+  "id": 823530961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.677061,41.774059,-72.677061,41.774059",
+    "geom:latitude":41.774059,
+    "geom:longitude":-72.677061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1515 Main St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 722 8200",
+    "sg:postcode":"06120",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878021,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ECXwFwJ6oVDL4XeTPfrsq_41.774059_-72.677061@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440271,
+    "wof:geomhash":"5e8ae96e83b660a475f6d07bbb4ab765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878021,
+            "region_id":85688629,
+            "venue_id":823530961
+        }
+    ],
+    "wof:id":823530961,
+    "wof:lastmodified":1466422297,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85878021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.677061,
+    41.774059,
+    -72.677061,
+    41.774059
+],
+  "geometry": {"coordinates":[-72.67706099999999,41.774059],"type":"Point"}
+}

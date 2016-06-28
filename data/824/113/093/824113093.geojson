@@ -1,0 +1,91 @@
+{
+  "id": 824113093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.396887,41.437651,-73.396887,41.437651",
+    "geom:latitude":41.437651,
+    "geom:longitude":-73.396887,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Vale Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 7933",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "systems-cleaning",
+        "tank",
+        "septic",
+        "supply",
+        "system",
+        "tanks-treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NvTcP9CuxCDxOKLxV3BWx_41.437651_-73.396887@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454620,
+    "wof:geomhash":"8d9fcfdce5385d3ae1b80315872f08ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824113093
+        }
+    ],
+    "wof:id":824113093,
+    "wof:lastmodified":1466423168,
+    "wof:name":"A Morrell Septic Service",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "systems-cleaning",
+        "tank",
+        "septic",
+        "supply",
+        "system",
+        "tanks-treatment"
+    ]
+},
+  "bbox": [
+    -73.396887,
+    41.437651,
+    -73.396887,
+    41.437651
+],
+  "geometry": {"coordinates":[-73.39688700000001,41.437651],"type":"Point"}
+}

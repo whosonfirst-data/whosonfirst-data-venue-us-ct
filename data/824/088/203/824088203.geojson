@@ -1,0 +1,77 @@
+{
+  "id": 824088203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.881798,41.823502,-72.881798,41.823502",
+    "geom:latitude":41.823502,
+    "geom:longitude":-72.881798,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Albany Tpke",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 7613",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25ID5Y6fs7H4zLN0sK8Bj5_41.823502_-72.881798@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454047,
+    "wof:geomhash":"a50ec5b3b6a11de7e4e1c6fb9765e0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824088203
+        }
+    ],
+    "wof:id":824088203,
+    "wof:lastmodified":1466422825,
+    "wof:name":"Vincent Funeral Homes",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.881798,
+    41.823502,
+    -72.881798,
+    41.823502
+],
+  "geometry": {"coordinates":[-72.881798,41.823502],"type":"Point"}
+}

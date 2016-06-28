@@ -2,13 +2,14 @@
   "id": 320245117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.53485,41.186192,-73.53485,41.186192",
     "geom:latitude":41.186192,
     "geom:longitude":-73.53485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28 Barnegat Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":320245117,
-    "wof:lastmodified":1449014839,
+    "wof:lastmodified":1466421123,
     "wof:name":"Design Works International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "design"
     ]
 },
-  "bbox": [-73.53485,41.186192,-73.53485,41.186192],
-  "geometry": {"coordinates":[-73.53485,41.186192],"type":"Point"}
+  "bbox": [
+    -73.53485,
+    41.186192,
+    -73.53485,
+    41.186192
+],
+  "geometry": {"coordinates":[-73.53485000000001,41.186192],"type":"Point"}
 }

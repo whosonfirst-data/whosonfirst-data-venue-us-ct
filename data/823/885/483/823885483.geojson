@@ -1,0 +1,66 @@
+{
+  "id": 823885483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.405053,41.442395,-73.405053,41.442395",
+    "geom:latitude":41.442395,
+    "geom:longitude":-73.405053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"178 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 8531",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UhO8uIWAd5TUDfI6p5wxg_41.442395_-73.405053@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449091,
+    "wof:geomhash":"0502b6070a308c1da549b64b5bab907d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823885483
+        }
+    ],
+    "wof:id":823885483,
+    "wof:lastmodified":1466425879,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.405053,
+    41.442395,
+    -73.405053,
+    41.442395
+],
+  "geometry": {"coordinates":[-73.405053,41.442395],"type":"Point"}
+}

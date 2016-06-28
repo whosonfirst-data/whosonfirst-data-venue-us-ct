@@ -1,0 +1,71 @@
+{
+  "id": 823648135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.786389,41.899625,-72.786389,41.899625",
+    "geom:latitude":41.899625,
+    "geom:longitude":-72.786389,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1340 Hopmeadow St",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826319,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lonZQEbPoJcSNhNQwdQuK_41.899625_-72.786389@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443042,
+    "wof:geomhash":"5bb782af309c2c3ef27bd96412c2924e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826319,
+            "region_id":85688629,
+            "venue_id":823648135
+        }
+    ],
+    "wof:id":823648135,
+    "wof:lastmodified":1466423783,
+    "wof:name":"Simsbury Gulf",
+    "wof:parent_id":85826319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.786389,
+    41.899625,
+    -72.786389,
+    41.899625
+],
+  "geometry": {"coordinates":[-72.786389,41.899625],"type":"Point"}
+}

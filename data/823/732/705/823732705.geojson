@@ -1,0 +1,73 @@
+{
+  "id": 823732705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901256,41.41137,-72.901256,41.41137",
+    "geom:latitude":41.41137,
+    "geom:longitude":-72.901256,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3210 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 9715",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XCIglYnpxW98g7Ou7vECw_41.411370_-72.901256@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444982,
+    "wof:geomhash":"529c3ddad7fb7a5b09e63a31a9316e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823732705
+        }
+    ],
+    "wof:id":823732705,
+    "wof:lastmodified":1466424652,
+    "wof:name":"All Things Musical LLC",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -72.901256,
+    41.41137,
+    -72.901256,
+    41.41137
+],
+  "geometry": {"coordinates":[-72.901256,41.41137],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823511513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.048035,41.556138,-73.048035,41.556138",
+    "geom:latitude":41.556138,
+    "geom:longitude":-73.048035,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Freight St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06702",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856379,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IjNZChbdnJSw3pN42XdLI_41.556138_-73.048035@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439821,
+    "wof:geomhash":"538d7b6360915a6a3ddddaec975b4bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":823511513
+        }
+    ],
+    "wof:id":823511513,
+    "wof:lastmodified":1466421973,
+    "wof:name":"Williamson George Auto Elc",
+    "wof:parent_id":85856379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -73.048035,
+    41.556138,
+    -73.048035,
+    41.556138
+],
+  "geometry": {"coordinates":[-73.048035,41.556138],"type":"Point"}
+}

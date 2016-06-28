@@ -1,0 +1,80 @@
+{
+  "id": 824079301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.112193,41.806793,-73.112193,41.806793",
+    "geom:latitude":41.806793,
+    "geom:longitude":-73.112193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"451 E Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/torrington/166749-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 482 4018",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dob9alMBY9xqMZOXZaY6W_41.806793_-73.112193@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453837,
+    "wof:geomhash":"e4b4b0e7fadb960d232cebbed8cc4e43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":824079301
+        }
+    ],
+    "wof:id":824079301,
+    "wof:lastmodified":1466422565,
+    "wof:name":"Burger King",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.112193,
+    41.806793,
+    -73.112193,
+    41.806793
+],
+  "geometry": {"coordinates":[-73.112193,41.806793],"type":"Point"}
+}

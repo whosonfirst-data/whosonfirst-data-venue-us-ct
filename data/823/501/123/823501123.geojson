@@ -1,0 +1,71 @@
+{
+  "id": 823501123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.136085,41.311932,-72.136085,41.311932",
+    "geom:latitude":41.311932,
+    "geom:longitude":-72.136085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Spinnaker Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 443 6709",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847609,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ArSfbHQXdOsZFR7jmDClC_41.311932_-72.136085@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439600,
+    "wof:geomhash":"7e93c9b7af98558bb1e91566e914d7b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85847609,
+            "region_id":85688629,
+            "venue_id":823501123
+        }
+    ],
+    "wof:id":823501123,
+    "wof:lastmodified":1466421497,
+    "wof:name":"McCarthy Building & Remod LLC",
+    "wof:parent_id":85847609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.136085,
+    41.311932,
+    -72.136085,
+    41.311932
+],
+  "geometry": {"coordinates":[-72.13608499999999,41.311932],"type":"Point"}
+}

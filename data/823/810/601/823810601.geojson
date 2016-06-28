@@ -1,0 +1,73 @@
+{
+  "id": 823810601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.984149,41.342792,-72.984149,41.342792",
+    "geom:latitude":41.342792,
+    "geom:longitude":-72.984149,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 4270",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7F8H4hMQBwR9Nbtrvy7Qmk_41.342792_-72.984149@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447029,
+    "wof:geomhash":"383b28329d71c852462d7c48112dd911",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823810601
+        }
+    ],
+    "wof:id":823810601,
+    "wof:lastmodified":1466425220,
+    "wof:name":"Amity Motors",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.984149,
+    41.342792,
+    -72.984149,
+    41.342792
+],
+  "geometry": {"coordinates":[-72.984149,41.342792],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823720785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.555905,41.274748,-72.555905,41.274748",
+    "geom:latitude":41.274748,
+    "geom:longitude":-72.555905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Riggio Pl",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 9439",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847627,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cl5UzIgfum980Q0B72AcK_41.274748_-72.555905@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444666,
+    "wof:geomhash":"cadc2bc0d394a198bae33d6149368797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85847627,
+            "region_id":85688629,
+            "venue_id":823720785
+        }
+    ],
+    "wof:id":823720785,
+    "wof:lastmodified":1466424480,
+    "wof:name":"Saundra T Bialos MD",
+    "wof:parent_id":85847627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.555905,
+    41.274748,
+    -72.555905,
+    41.274748
+],
+  "geometry": {"coordinates":[-72.555905,41.274748],"type":"Point"}
+}

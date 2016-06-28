@@ -1,0 +1,79 @@
+{
+  "id": 824076353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.503498,41.58359,-72.503498,41.58359",
+    "geom:latitude":41.58359,
+    "geom:longitude":-72.503498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 E High St",
+    "sg:city":"East Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hampton/182665-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"06424",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842475,
+        102191575,
+        404496067,
+        85633793,
+        85931135,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52GWruPcYLfw4iFlFDyTGV_41.583590_-72.503498@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453771,
+    "wof:geomhash":"ddd4605862af70cc9f8509b34f7a790f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496067,
+            "locality_id":85931135,
+            "neighbourhood_id":85842475,
+            "region_id":85688629,
+            "venue_id":824076353
+        }
+    ],
+    "wof:id":824076353,
+    "wof:lastmodified":1466422566,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85842475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.503498,
+    41.58359,
+    -72.503498,
+    41.58359
+],
+  "geometry": {"coordinates":[-72.50349799999999,41.58359],"type":"Point"}
+}

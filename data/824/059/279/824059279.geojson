@@ -1,0 +1,81 @@
+{
+  "id": 824059279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.937603,41.685901,-72.937603,41.685901",
+    "geom:latitude":41.685901,
+    "geom:longitude":-72.937603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Farmington Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 589 3995",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "formal",
+        "wear",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o5LKSPpylL8kUJTiMdwoB_41.685901_-72.937603@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453377,
+    "wof:geomhash":"aad08b3220e0fbbd2256992a837ef1b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824059279
+        }
+    ],
+    "wof:id":824059279,
+    "wof:lastmodified":1466422138,
+    "wof:name":"Oscars Formal Wear",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "formal",
+        "wear",
+        "rent"
+    ]
+},
+  "bbox": [
+    -72.937603,
+    41.685901,
+    -72.937603,
+    41.685901
+],
+  "geometry": {"coordinates":[-72.937603,41.685901],"type":"Point"}
+}

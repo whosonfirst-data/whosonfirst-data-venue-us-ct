@@ -1,0 +1,75 @@
+{
+  "id": 823628227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900248,41.33149,-72.900248,41.33149",
+    "geom:latitude":41.33149,
+    "geom:longitude":-72.900248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1822 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 782 6500",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76L4yDkBO01lF5RlCp2khl_41.331490_-72.900248@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442591,
+    "wof:geomhash":"8d835f664f37bef1dee28feee6a30197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823628227
+        }
+    ],
+    "wof:id":823628227,
+    "wof:lastmodified":1466423567,
+    "wof:name":"Car Parlor",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -72.900248,
+    41.33149,
+    -72.900248,
+    41.33149
+],
+  "geometry": {"coordinates":[-72.900248,41.33149],"type":"Point"}
+}

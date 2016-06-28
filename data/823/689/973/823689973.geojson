@@ -1,0 +1,73 @@
+{
+  "id": 823689973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169323,41.476208,-73.169323,41.476208",
+    "geom:latitude":41.476208,
+    "geom:longitude":-73.169323,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1770 Bucks Hill Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 2021",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IKqx7wNGqqbW9UNRwG6uc_41.476208_-73.169323@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444012,
+    "wof:geomhash":"e8c9d254f63d032e897d8c1013b0ee87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823689973
+        }
+    ],
+    "wof:id":823689973,
+    "wof:lastmodified":1466424237,
+    "wof:name":"General Elevator",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "installation"
+    ]
+},
+  "bbox": [
+    -73.169323,
+    41.476208,
+    -73.169323,
+    41.476208
+],
+  "geometry": {"coordinates":[-73.16932300000001,41.476208],"type":"Point"}
+}

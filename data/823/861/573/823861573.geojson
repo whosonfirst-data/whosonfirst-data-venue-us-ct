@@ -1,0 +1,73 @@
+{
+  "id": 823861573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.677703,41.855682,-72.677703,41.855682",
+    "geom:latitude":41.855682,
+    "geom:longitude":-72.677703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"775 Bloomfield Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "water",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O8M0fd5XSHkuHl916UCbr_41.855682_-72.677703@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448529,
+    "wof:geomhash":"001ddbe0fd91cdec08ac28cf4b52f965",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823861573
+        }
+    ],
+    "wof:id":823861573,
+    "wof:lastmodified":1466425688,
+    "wof:name":"Aqua Cure Technologies Inc",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -72.677703,
+    41.855682,
+    -72.677703,
+    41.855682
+],
+  "geometry": {"coordinates":[-72.67770299999999,41.855682],"type":"Point"}
+}

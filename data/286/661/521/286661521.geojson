@@ -2,13 +2,14 @@
   "id": 286661521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.485699,41.144724,-73.485699,41.144724",
     "geom:latitude":41.144724,
     "geom:longitude":-73.485699,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"54 Lakeview Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286661521,
-    "wof:lastmodified":1449017783,
+    "wof:lastmodified":1466421112,
     "wof:name":"Durfee & Reid Interiors",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-73.485699,41.144724,-73.485699,41.144724],
+  "bbox": [
+    -73.485699,
+    41.144724,
+    -73.485699,
+    41.144724
+],
   "geometry": {"coordinates":[-73.485699,41.144724],"type":"Point"}
 }

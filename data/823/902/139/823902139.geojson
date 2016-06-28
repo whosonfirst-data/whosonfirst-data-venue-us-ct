@@ -1,0 +1,84 @@
+{
+  "id": 823902139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136572,41.192889,-73.136572,41.192889",
+    "geom:latitude":41.192889,
+    "geom:longitude":-73.136572,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 California St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 6983",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ShQIJRdtoeMgzmIocjnmq_41.192889_-73.136572@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449520,
+    "wof:geomhash":"92c7be0de34222c4bef61cd4bdb95cc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823902139
+        }
+    ],
+    "wof:id":823902139,
+    "wof:lastmodified":1466426011,
+    "wof:name":"Cleanups Unlimited LLC",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.136572,
+    41.192889,
+    -73.136572,
+    41.192889
+],
+  "geometry": {"coordinates":[-73.136572,41.192889],"type":"Point"}
+}

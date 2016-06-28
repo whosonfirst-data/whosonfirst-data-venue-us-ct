@@ -1,0 +1,83 @@
+{
+  "id": 824107199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.873693,41.635922,-72.873693,41.635922",
+    "geom:latitude":41.635922,
+    "geom:longitude":-72.873693,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"713 Queen St",
+    "sg:city":"Southington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 621 4788",
+    "sg:postcode":"06489",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.jdstogo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mMV4gCaJEuVEN7gE2TO0M_41.635922_-72.873693@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454490,
+    "wof:geomhash":"a9814dc1cbcc0bebc423acbf763ff31f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824107199
+        }
+    ],
+    "wof:id":824107199,
+    "wof:lastmodified":1466423064,
+    "wof:name":"JD's Pizzeria Bar & Grill",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.873693,
+    41.635922,
+    -72.873693,
+    41.635922
+],
+  "geometry": {"coordinates":[-72.873693,41.635922],"type":"Point"}
+}

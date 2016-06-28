@@ -1,0 +1,80 @@
+{
+  "id": 824076611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.680988,41.554335,-72.680988,41.554335",
+    "geom:latitude":41.554335,
+    "geom:longitude":-72.680988,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"851 Washington St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/middletown/99001-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 347 0318",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836803,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NVg0z5vhSOIASCG8rQBX3_41.554335_-72.680988@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453776,
+    "wof:geomhash":"3320342d41c5e022307832bed5ab6128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85836803,
+            "region_id":85688629,
+            "venue_id":824076611
+        }
+    ],
+    "wof:id":824076611,
+    "wof:lastmodified":1466422592,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85836803,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.680988,
+    41.554335,
+    -72.680988,
+    41.554335
+],
+  "geometry": {"coordinates":[-72.680988,41.554335],"type":"Point"}
+}

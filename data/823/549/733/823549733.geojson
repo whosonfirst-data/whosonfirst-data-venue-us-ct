@@ -1,0 +1,75 @@
+{
+  "id": 823549733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.415056,41.286503,-72.415056,41.286503",
+    "geom:latitude":41.286503,
+    "geom:longitude":-72.415056,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1627 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HIePVJsKc5IcE9fBL9P6H_41.286503_-72.415056@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440689,
+    "wof:geomhash":"b8a144039593642b2b1ed3334f11e40f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823549733
+        }
+    ],
+    "wof:id":823549733,
+    "wof:lastmodified":1466422529,
+    "wof:name":"Smith Bros Transmission",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.415056,
+    41.286503,
+    -72.415056,
+    41.286503
+],
+  "geometry": {"coordinates":[-72.41505600000001,41.286503],"type":"Point"}
+}

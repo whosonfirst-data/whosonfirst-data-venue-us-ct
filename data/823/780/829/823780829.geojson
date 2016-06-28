@@ -1,0 +1,74 @@
+{
+  "id": 823780829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.818845,41.479548,-72.818845,41.479548",
+    "geom:latitude":41.479548,
+    "geom:longitude":-72.818845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Capitol Dr",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 949 8144",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "sg:website":"www.woodgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LcNf8O7L2xH4hvqDjsKtm_41.479548_-72.818845@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446110,
+    "wof:geomhash":"02106a83ff352a461cbd817733d60345",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823780829
+        }
+    ],
+    "wof:id":823780829,
+    "wof:lastmodified":1466425033,
+    "wof:name":"Wood Group Component Repair",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -72.818845,
+    41.479548,
+    -72.818845,
+    41.479548
+],
+  "geometry": {"coordinates":[-72.818845,41.479548],"type":"Point"}
+}

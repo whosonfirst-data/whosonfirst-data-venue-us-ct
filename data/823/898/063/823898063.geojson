@@ -1,0 +1,66 @@
+{
+  "id": 823898063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.402254,41.45289,-73.402254,41.45289",
+    "geom:latitude":41.45289,
+    "geom:longitude":-73.402254,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"305 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 2203",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20qjcci62s6qcEe7ugWeXm_41.452890_-73.402254@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449392,
+    "wof:geomhash":"4551f449d9c1db8f58ec02cb5449ba84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823898063
+        }
+    ],
+    "wof:id":823898063,
+    "wof:lastmodified":1466426039,
+    "wof:name":"Joes Deli",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.402254,
+    41.45289,
+    -73.402254,
+    41.45289
+],
+  "geometry": {"coordinates":[-73.402254,41.45289],"type":"Point"}
+}

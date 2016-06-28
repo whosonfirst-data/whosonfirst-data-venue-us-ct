@@ -1,0 +1,71 @@
+{
+  "id": 823500165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.549427,41.819682,-72.549427,41.819682",
+    "geom:latitude":41.819682,
+    "geom:longitude":-72.549427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"189 Deming St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 3503",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t6hkaI33SRk1IVWWbATKe_41.819682_-72.549427@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439577,
+    "wof:geomhash":"574ab491ab8180179e605ecfd74cb0f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823500165
+        }
+    ],
+    "wof:id":823500165,
+    "wof:lastmodified":1466421404,
+    "wof:name":"Christies Fine Jewelry LLC",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -72.549427,
+    41.819682,
+    -72.549427,
+    41.819682
+],
+  "geometry": {"coordinates":[-72.54942699999999,41.819682],"type":"Point"}
+}

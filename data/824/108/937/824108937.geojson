@@ -1,0 +1,97 @@
+{
+  "id": 824108937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927972,41.354152,-72.927972,41.354152",
+    "geom:latitude":41.354152,
+    "geom:longitude":-72.927972,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Marne St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 1160",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractors'",
+        "yard",
+        "tents-rental",
+        "store",
+        "tent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vns0GrwOI0cVFqIH7x5GM_41.354152_-72.927972@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454531,
+    "wof:geomhash":"5f9eba0d204d3c7460b89d6c96721973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824108937
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":824108937
+        }
+    ],
+    "wof:id":824108937,
+    "wof:lastmodified":1466423097,
+    "wof:name":"Hamden Rental Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractors'",
+        "yard",
+        "tents-rental",
+        "store",
+        "tent"
+    ]
+},
+  "bbox": [
+    -72.927972,
+    41.354152,
+    -72.927972,
+    41.354152
+],
+  "geometry": {"coordinates":[-72.927972,41.354152],"type":"Point"}
+}

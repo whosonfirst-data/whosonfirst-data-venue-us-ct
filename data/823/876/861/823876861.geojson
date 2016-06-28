@@ -1,0 +1,73 @@
+{
+  "id": 823876861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.997682,41.762924,-72.997682,41.762924",
+    "geom:latitude":41.762924,
+    "geom:longitude":-72.997682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Rock Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 8717",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lHGCM9TUFsShai9ZKosIV_41.762924_-72.997682@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448897,
+    "wof:geomhash":"08d901344410be5de2206adcdef16640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823876861
+        }
+    ],
+    "wof:id":823876861,
+    "wof:lastmodified":1466425805,
+    "wof:name":"Carroll Electric",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.997682,
+    41.762924,
+    -72.997682,
+    41.762924
+],
+  "geometry": {"coordinates":[-72.997682,41.762924],"type":"Point"}
+}

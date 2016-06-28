@@ -1,0 +1,76 @@
+{
+  "id": 824065997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227527,41.149752,-73.227527,41.149752",
+    "geom:latitude":41.149752,
+    "geom:longitude":-73.227527,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"202 Pearsall Pl",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 4474",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Rjvf3qon1pUsa5NZVe6xr_41.149752_-73.227527@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453519,
+    "wof:geomhash":"c98caf1f738facbd06a399dba628fc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824065997
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824065997
+        }
+    ],
+    "wof:id":824065997,
+    "wof:lastmodified":1466422334,
+    "wof:name":"DBA Architects",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.227527,
+    41.149752,
+    -73.227527,
+    41.149752
+],
+  "geometry": {"coordinates":[-73.22752699999999,41.149752],"type":"Point"}
+}

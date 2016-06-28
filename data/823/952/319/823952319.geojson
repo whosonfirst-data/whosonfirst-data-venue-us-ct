@@ -1,0 +1,75 @@
+{
+  "id": 823952319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781544,41.682162,-72.781544,41.682162",
+    "geom:latitude":41.682162,
+    "geom:longitude":-72.781544,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"190 Allen St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 225 7477",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "owner",
+        "apartment",
+        "an"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vtGYmHpRatNYHQ9WiBatt_41.682162_-72.781544@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450828,
+    "wof:geomhash":"73d128298f99f3c46e957030e13e8790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823952319
+        }
+    ],
+    "wof:id":823952319,
+    "wof:lastmodified":1466426435,
+    "wof:name":"Allen Park Apartment",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "apartment",
+        "an"
+    ]
+},
+  "bbox": [
+    -72.781544,
+    41.682162,
+    -72.781544,
+    41.682162
+],
+  "geometry": {"coordinates":[-72.781544,41.682162],"type":"Point"}
+}

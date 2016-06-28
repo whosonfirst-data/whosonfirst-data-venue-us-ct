@@ -1,0 +1,71 @@
+{
+  "id": 823606513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.880813,41.947172,-71.880813,41.947172",
+    "geom:latitude":41.947172,
+    "geom:longitude":-71.880813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Thompson Rd",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 923 2504",
+    "sg:postcode":"06277",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2olmOl3vnIf8NZRuiQfe8u_41.947172_-71.880813@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442055,
+    "wof:geomhash":"0aebe63d5e59a55fb00d0299d218028b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823606513
+        }
+    ],
+    "wof:id":823606513,
+    "wof:lastmodified":1466423492,
+    "wof:name":"East Thompson Cemetery Assn",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -71.880813,
+    41.947172,
+    -71.880813,
+    41.947172
+],
+  "geometry": {"coordinates":[-71.880813,41.947172],"type":"Point"}
+}

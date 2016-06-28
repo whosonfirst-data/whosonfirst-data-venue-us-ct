@@ -1,0 +1,77 @@
+{
+  "id": 824089601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.517583,41.776618,-72.517583,41.776618",
+    "geom:latitude":41.776618,
+    "geom:longitude":-72.517583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"134 E Center St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 244 9999",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832071,
+        102191575,
+        404495985,
+        85633793,
+        85931105,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZVQLQlsNiWDcxCAzwgeoY_41.776618_-72.517583@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454081,
+    "wof:geomhash":"18f7ea659fc8666794278eedc8968c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495985,
+            "locality_id":85931105,
+            "neighbourhood_id":85832071,
+            "region_id":85688629,
+            "venue_id":824089601
+        }
+    ],
+    "wof:id":824089601,
+    "wof:lastmodified":1466422880,
+    "wof:name":"Airport Taxi Svc",
+    "wof:parent_id":85832071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.517583,
+    41.776618,
+    -72.517583,
+    41.776618
+],
+  "geometry": {"coordinates":[-72.517583,41.776618],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823983035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.710939,41.355126,-72.710939,41.355126",
+    "geom:latitude":41.355126,
+    "geom:longitude":-72.710939,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1010 State Hwy 80",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 9000",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838597,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q78mKWhxHT9X5cUz4dRwI_41.355126_-72.710939@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451565,
+    "wof:geomhash":"9030e31a0175364a8c45885346a5a393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85838597,
+            "region_id":85688629,
+            "venue_id":823983035
+        }
+    ],
+    "wof:id":823983035,
+    "wof:lastmodified":1466426817,
+    "wof:name":"Shoreline Drywall",
+    "wof:parent_id":85838597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.710939,
+    41.355126,
+    -72.710939,
+    41.355126
+],
+  "geometry": {"coordinates":[-72.710939,41.355126],"type":"Point"}
+}

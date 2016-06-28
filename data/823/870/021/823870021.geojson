@@ -1,0 +1,71 @@
+{
+  "id": 823870021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.995319,41.679472,-72.995319,41.679472",
+    "geom:latitude":41.679472,
+    "geom:longitude":-72.995319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 E Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hHstrXojdCiYM36mpkuY7_41.679472_-72.995319@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448738,
+    "wof:geomhash":"c56faddfc9a1526a922079720d653f97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823870021
+        }
+    ],
+    "wof:id":823870021,
+    "wof:lastmodified":1466425720,
+    "wof:name":"Jays Motel",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.995319,
+    41.679472,
+    -72.995319,
+    41.679472
+],
+  "geometry": {"coordinates":[-72.99531899999999,41.679472],"type":"Point"}
+}

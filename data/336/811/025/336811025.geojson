@@ -2,13 +2,14 @@
   "id": 336811025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493287,41.114506,-73.493287,41.114506",
     "geom:latitude":41.114506,
     "geom:longitude":-73.493287,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"71 Talmadge Hill Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336811025,
-    "wof:lastmodified":1448997474,
+    "wof:lastmodified":1466421128,
     "wof:name":"Alstan Assoc Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-73.493287,41.114506,-73.493287,41.114506],
+  "bbox": [
+    -73.493287,
+    41.114506,
+    -73.493287,
+    41.114506
+],
   "geometry": {"coordinates":[-73.493287,41.114506],"type":"Point"}
 }

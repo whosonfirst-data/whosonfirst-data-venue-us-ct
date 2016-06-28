@@ -1,0 +1,73 @@
+{
+  "id": 823704855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492273,41.80511,-72.492273,41.80511",
+    "geom:latitude":41.80511,
+    "geom:longitude":-72.492273,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Sage Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fVRurIdzXaBvG6JuVNUU9_41.805110_-72.492273@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444333,
+    "wof:geomhash":"b39387e897115b0401534701ede6afdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":823704855
+        }
+    ],
+    "wof:id":823704855,
+    "wof:lastmodified":1466424342,
+    "wof:name":"Northeast Cmpt Training Group",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -72.492273,
+    41.80511,
+    -72.492273,
+    41.80511
+],
+  "geometry": {"coordinates":[-72.492273,41.80511],"type":"Point"}
+}

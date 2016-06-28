@@ -1,0 +1,84 @@
+{
+  "id": 824093485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.590813,42.001919,-72.590813,42.001919",
+    "geom:latitude":42.001919,
+    "geom:longitude":-72.590813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Columbus Ave",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 741 0449",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "herb",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eu30XVU6sOrMh3QJu6KkM_42.001919_-72.590813@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454165,
+    "wof:geomhash":"1ae717a20d47c9551e3bc9509be041b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824093485
+        }
+    ],
+    "wof:id":824093485,
+    "wof:lastmodified":1466422907,
+    "wof:name":"Southern New England Spice Co",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb",
+        "spice"
+    ]
+},
+  "bbox": [
+    -72.590813,
+    42.001919,
+    -72.590813,
+    42.001919
+],
+  "geometry": {"coordinates":[-72.590813,42.001919],"type":"Point"}
+}

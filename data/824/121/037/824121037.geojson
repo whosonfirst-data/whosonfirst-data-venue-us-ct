@@ -1,0 +1,78 @@
+{
+  "id": 824121037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.522822,41.076264,-73.522822,41.076264",
+    "geom:latitude":41.076264,
+    "geom:longitude":-73.522822,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"485 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 357 1333",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:website":"http://www.woolworths.co.uk",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wCsPl6srXdjbDjhV9C42g_41.076264_-73.522822@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454784,
+    "wof:geomhash":"276c9f4fdc6f84143d2e01e742be48db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824121037
+        }
+    ],
+    "wof:id":824121037,
+    "wof:lastmodified":1466423312,
+    "wof:name":"Woolworth F W Co",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.522822,
+    41.076264,
+    -73.522822,
+    41.076264
+],
+  "geometry": {"coordinates":[-73.52282200000001,41.076264],"type":"Point"}
+}

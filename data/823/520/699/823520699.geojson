@@ -1,0 +1,66 @@
+{
+  "id": 823520699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.433154,41.194246,-73.433154,41.194246",
+    "geom:latitude":41.194246,
+    "geom:longitude":-73.433154,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Old Ridgefield Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 3341",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2igSkP1WYflxI1rdGRL7En_41.194246_-73.433154@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440042,
+    "wof:geomhash":"bc6ea5f727a06d219a517ea2cd72a6d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823520699
+        }
+    ],
+    "wof:id":823520699,
+    "wof:lastmodified":1466422105,
+    "wof:name":"Tallmadge's Wilton Dept Store",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.433154,
+    41.194246,
+    -73.433154,
+    41.194246
+],
+  "geometry": {"coordinates":[-73.433154,41.194246],"type":"Point"}
+}

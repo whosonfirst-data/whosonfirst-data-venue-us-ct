@@ -1,0 +1,84 @@
+{
+  "id": 823905203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.094734,41.210536,-73.094734,41.210536",
+    "geom:latitude":41.210536,
+    "geom:longitude":-73.094734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Munson St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06461",
+    "sg:province":"CT",
+    "sg:tags":[
+        "environmental",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836387,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ho94DCLJPsYLQmpPBpczV_41.210536_-73.094734@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449605,
+    "wof:geomhash":"81981cc73019adf5798a1b9cb6784c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85836387,
+            "region_id":85688629,
+            "venue_id":823905203
+        }
+    ],
+    "wof:id":823905203,
+    "wof:lastmodified":1466426023,
+    "wof:name":"Absolute Tank Removal Inc",
+    "wof:parent_id":85836387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "environmental",
+        "business"
+    ]
+},
+  "bbox": [
+    -73.094734,
+    41.210536,
+    -73.094734,
+    41.210536
+],
+  "geometry": {"coordinates":[-73.094734,41.210536],"type":"Point"}
+}

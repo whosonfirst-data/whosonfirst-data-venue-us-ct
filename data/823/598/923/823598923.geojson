@@ -1,0 +1,83 @@
+{
+  "id": 823598923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.643177,41.551206,-72.643177,41.551206",
+    "geom:latitude":41.551206,
+    "geom:longitude":-72.643177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"159 Main St Exd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 346 7675",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iG490mVSgSyA7iyV02wIR_41.551206_-72.643177@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441857,
+    "wof:geomhash":"e50be6cd2c29a25ea9524c3802412a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":823598923
+        }
+    ],
+    "wof:id":823598923,
+    "wof:lastmodified":1466423349,
+    "wof:name":"Franks Service Center",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.643177,
+    41.551206,
+    -72.643177,
+    41.551206
+],
+  "geometry": {"coordinates":[-72.64317699999999,41.551206],"type":"Point"}
+}

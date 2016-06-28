@@ -1,0 +1,71 @@
+{
+  "id": 823542371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.310496,41.153815,-73.310496,41.153815",
+    "geom:latitude":41.153815,
+    "geom:longitude":-73.310496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Melwood Ln",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 255 2064",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823009,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J1uL9ymW3S3sSKCSFpqE7_41.153815_-73.310496@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440517,
+    "wof:geomhash":"6fdc78eba4542ddc27c1c7206bd2512e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823009,
+            "region_id":85688629,
+            "venue_id":823542371
+        }
+    ],
+    "wof:id":823542371,
+    "wof:lastmodified":1466422347,
+    "wof:name":"James Cohen Design & Constr",
+    "wof:parent_id":85823009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.310496,
+    41.153815,
+    -73.310496,
+    41.153815
+],
+  "geometry": {"coordinates":[-73.310496,41.153815],"type":"Point"}
+}

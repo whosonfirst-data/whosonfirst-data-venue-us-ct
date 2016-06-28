@@ -1,0 +1,79 @@
+{
+  "id": 823571399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.116978,41.342116,-72.116978,41.342116",
+    "geom:latitude":41.342116,
+    "geom:longitude":-72.116978,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Boston Post Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "coin",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15cYBqshf6AVdzfPxBMLcH_41.342116_-72.116978@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441220,
+    "wof:geomhash":"533200b5546f96d6a11119947c518314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":823571399
+        }
+    ],
+    "wof:id":823571399,
+    "wof:lastmodified":1466422819,
+    "wof:name":"Weeki Weeki Coin Laundry",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -72.116978,
+    41.342116,
+    -72.116978,
+    41.342116
+],
+  "geometry": {"coordinates":[-72.116978,41.342116],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 823701849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.905707,41.479365,-72.905707,41.479365",
+    "geom:latitude":41.479365,
+    "geom:longitude":-72.905707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"944 S Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 250 0099",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931411,
+        102086923,
+        85844387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pVQ54RZAhzRf7zqt5jtXW_41.479365_-72.905707@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444277,
+    "wof:geomhash":"f32cb80bd5a9702129c545dda98a6e0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "locality_id":85931411,
+            "neighbourhood_id":85844387,
+            "region_id":85688629,
+            "venue_id":823701849
+        }
+    ],
+    "wof:id":823701849,
+    "wof:lastmodified":1466424288,
+    "wof:name":"Dragon Buffet",
+    "wof:parent_id":85844387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.905707,
+    41.479365,
+    -72.905707,
+    41.479365
+],
+  "geometry": {"coordinates":[-72.90570700000001,41.479365],"type":"Point"}
+}

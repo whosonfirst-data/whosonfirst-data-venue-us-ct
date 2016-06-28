@@ -1,0 +1,83 @@
+{
+  "id": 823933919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228291,41.148595,-73.228291,41.148595",
+    "geom:latitude":41.148595,
+    "geom:longitude":-73.228291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"152 Balmforth St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "interior",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TAnLWpCQ3gclawywjLymB_41.148595_-73.228291@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450362,
+    "wof:geomhash":"abb3ec9181ed5fdebc16d769b11c6a17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823933919
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823933919
+        }
+    ],
+    "wof:id":823933919,
+    "wof:lastmodified":1466426298,
+    "wof:name":"Unique Interiors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "designer"
+    ]
+},
+  "bbox": [
+    -73.228291,
+    41.148595,
+    -73.228291,
+    41.148595
+],
+  "geometry": {"coordinates":[-73.228291,41.148595],"type":"Point"}
+}

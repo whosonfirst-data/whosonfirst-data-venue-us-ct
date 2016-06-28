@@ -1,0 +1,77 @@
+{
+  "id": 823821803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224154,41.211567,-73.224154,41.211567",
+    "geom:latitude":41.211567,
+    "geom:longitude":-73.224154,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2600 Madison Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 372 0688",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876499,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLzop5DZ6kCuE5QlcfMtb_41.211567_-73.224154@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447342,
+    "wof:geomhash":"a589b33a75c1d08462264b554dab6db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876499,
+            "region_id":85688629,
+            "venue_id":823821803
+        }
+    ],
+    "wof:id":823821803,
+    "wof:lastmodified":1466425333,
+    "wof:name":"Stop & Shop",
+    "wof:parent_id":85876499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.224154,
+    41.211567,
+    -73.224154,
+    41.211567
+],
+  "geometry": {"coordinates":[-73.224154,41.211567],"type":"Point"}
+}

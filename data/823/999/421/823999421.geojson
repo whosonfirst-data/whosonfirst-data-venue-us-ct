@@ -1,0 +1,73 @@
+{
+  "id": 823999421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180374,41.287101,-73.180374,41.287101",
+    "geom:latitude":41.287101,
+    "geom:longitude":-73.180374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 Waverly Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 6001",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "oil",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hS7x22eL0Qj9k5yYPq82A_41.287101_-73.180374@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451972,
+    "wof:geomhash":"b5b65ec0abbdd6240012309b0a2e01e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823999421
+        }
+    ],
+    "wof:id":823999421,
+    "wof:lastmodified":1466426845,
+    "wof:name":"Shelton Oil & Heating LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.180374,
+    41.287101,
+    -73.180374,
+    41.287101
+],
+  "geometry": {"coordinates":[-73.180374,41.287101],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823964585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.339832,41.137428,-73.339832,41.137428",
+    "geom:latitude":41.137428,
+    "geom:longitude":-73.339832,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"734 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 3257",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823521,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z9CoAq3PNVmvhahWPGOFv_41.137428_-73.339832@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451126,
+    "wof:geomhash":"a014fc50de62bea6e5b7c2536b1bc129",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85823521,
+            "region_id":85688629,
+            "venue_id":823964585
+        }
+    ],
+    "wof:id":823964585,
+    "wof:lastmodified":1466426536,
+    "wof:name":"Calise's Food Market",
+    "wof:parent_id":85823521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.339832,
+    41.137428,
+    -73.339832,
+    41.137428
+],
+  "geometry": {"coordinates":[-73.339832,41.137428],"type":"Point"}
+}

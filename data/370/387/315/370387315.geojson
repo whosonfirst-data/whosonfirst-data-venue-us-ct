@@ -2,13 +2,14 @@
   "id": 370387315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493242,41.142684,-73.493242,41.142684",
     "geom:latitude":41.142684,
     "geom:longitude":-73.493242,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Mead St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370387315,
-    "wof:lastmodified":1449032011,
+    "wof:lastmodified":1466421143,
     "wof:name":"MJB Consulting Services LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-73.493242,41.142684,-73.493242,41.142684],
+  "bbox": [
+    -73.493242,
+    41.142684,
+    -73.493242,
+    41.142684
+],
   "geometry": {"coordinates":[-73.493242,41.142684],"type":"Point"}
 }

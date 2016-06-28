@@ -1,0 +1,66 @@
+{
+  "id": 823980667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.584164,41.79706,-72.584164,41.79706",
+    "geom:latitude":41.79706,
+    "geom:longitude":-72.584164,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Sherwood Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 5218",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yPQwnuWwHVgE9Hdwod1fJ_41.797060_-72.584164@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451500,
+    "wof:geomhash":"a5d8fb9ca9d8dc906f328985db0302ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823980667
+        }
+    ],
+    "wof:id":823980667,
+    "wof:lastmodified":1466426812,
+    "wof:name":"Plus Life Inc",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.584164,
+    41.79706,
+    -72.584164,
+    41.79706
+],
+  "geometry": {"coordinates":[-72.584164,41.79706],"type":"Point"}
+}

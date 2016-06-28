@@ -1,0 +1,80 @@
+{
+  "id": 824075815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08382,41.333401,-73.08382,41.333401",
+    "geom:latitude":41.333401,
+    "geom:longitude":-73.08382,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Pershing Dr",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/ansonia/166581-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 6111",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tqaj0rG7xoDROg5565Z2t_41.333401_-73.083820@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453758,
+    "wof:geomhash":"150192f223cbe4d8bd580620c2b95008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":824075815
+        }
+    ],
+    "wof:id":824075815,
+    "wof:lastmodified":1466422624,
+    "wof:name":"Burger King",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.08382,
+    41.333401,
+    -73.08382,
+    41.333401
+],
+  "geometry": {"coordinates":[-73.08382,41.333401],"type":"Point"}
+}

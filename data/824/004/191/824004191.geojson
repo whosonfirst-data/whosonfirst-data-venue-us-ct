@@ -1,0 +1,83 @@
+{
+  "id": 824004191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.451081,41.393485,-73.451081,41.393485",
+    "geom:latitude":41.393485,
+    "geom:longitude":-73.451081,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"155 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 792 4065",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SooUK8Ch4S4P8F8ialUPm_41.393485_-73.451081@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452080,
+    "wof:geomhash":"5ed784d7e6b95d9c09056c61eb478da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824004191
+        }
+    ],
+    "wof:id":824004191,
+    "wof:lastmodified":1466421330,
+    "wof:name":"Electric Snake Sewer & Drain",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -73.451081,
+    41.393485,
+    -73.451081,
+    41.393485
+],
+  "geometry": {"coordinates":[-73.451081,41.393485],"type":"Point"}
+}

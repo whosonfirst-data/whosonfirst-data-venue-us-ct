@@ -2,13 +2,14 @@
   "id": 270329285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494577,41.149697,-73.494577,41.149697",
     "geom:latitude":41.149697,
     "geom:longitude":-73.494577,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Heritage Hill Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270329285,
-    "wof:lastmodified":1449009288,
+    "wof:lastmodified":1466421101,
     "wof:name":"Nantucket Greens",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "shop"
     ]
 },
-  "bbox": [-73.494577,41.149697,-73.494577,41.149697],
-  "geometry": {"coordinates":[-73.494577,41.149697],"type":"Point"}
+  "bbox": [
+    -73.494577,
+    41.149697,
+    -73.494577,
+    41.149697
+],
+  "geometry": {"coordinates":[-73.49457700000001,41.149697],"type":"Point"}
 }

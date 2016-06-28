@@ -1,0 +1,79 @@
+{
+  "id": 823699667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.067286,41.563087,-73.067286,41.563087",
+    "geom:latitude":41.563087,
+    "geom:longitude":-73.067286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Mount Vernon Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 591 8534",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29YAQ55XbsVbP5vVxICaGB_41.563087_-73.067286@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444231,
+    "wof:geomhash":"d2f8adfd6e142d15a04c930f0bfa9512",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823699667
+        }
+    ],
+    "wof:id":823699667,
+    "wof:lastmodified":1466424261,
+    "wof:name":"Power All Electric",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.067286,
+    41.563087,
+    -73.067286,
+    41.563087
+],
+  "geometry": {"coordinates":[-73.067286,41.563087],"type":"Point"}
+}

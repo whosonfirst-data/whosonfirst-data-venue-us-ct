@@ -1,0 +1,84 @@
+{
+  "id": 823678909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.088853,41.341902,-73.088853,41.341902",
+    "geom:latitude":41.341902,
+    "geom:longitude":-73.088853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Parker St",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 9864",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BKlTiLYjrYLTEkVqDcX1N_41.341902_-73.088853@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443766,
+    "wof:geomhash":"80d903dd933b202273bf869c43890736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823678909
+        }
+    ],
+    "wof:id":823678909,
+    "wof:lastmodified":1466423964,
+    "wof:name":"Central Subalpi Club Inc",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -73.088853,
+    41.341902,
+    -73.088853,
+    41.341902
+],
+  "geometry": {"coordinates":[-73.088853,41.341902],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 823938609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.940072,41.339335,-72.940072,41.339335",
+    "geom:latitude":41.339335,
+    "geom:longitude":-72.940072,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"142 Warner St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 435 3019",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "application",
+        "drywall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879159,
+        102191575,
+        404495787,
+        85930897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TONjuVRMwFnquLmw065WJ_41.339335_-72.940072@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450488,
+    "wof:geomhash":"257a11abb3b17445e29c6a56d28f1e61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823938609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879159,
+            "region_id":85688629,
+            "venue_id":823938609
+        }
+    ],
+    "wof:id":823938609,
+    "wof:lastmodified":1466426340,
+    "wof:name":"Blessing Drywall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "application",
+        "drywall"
+    ]
+},
+  "bbox": [
+    -72.940072,
+    41.339335,
+    -72.940072,
+    41.339335
+],
+  "geometry": {"coordinates":[-72.940072,41.339335],"type":"Point"}
+}

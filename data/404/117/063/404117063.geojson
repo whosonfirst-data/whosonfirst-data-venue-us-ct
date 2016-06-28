@@ -2,13 +2,14 @@
   "id": 404117063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49405,41.158758,-73.49405,41.158758",
     "geom:latitude":41.158758,
     "geom:longitude":-73.49405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"199 Smith Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":404117063,
-    "wof:lastmodified":1449039945,
+    "wof:lastmodified":1466421093,
     "wof:name":"Thomas V Vitti Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.49405,41.158758,-73.49405,41.158758],
+  "bbox": [
+    -73.49405,
+    41.158758,
+    -73.49405,
+    41.158758
+],
   "geometry": {"coordinates":[-73.49405,41.158758],"type":"Point"}
 }

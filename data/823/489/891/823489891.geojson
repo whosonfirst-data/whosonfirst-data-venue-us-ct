@@ -1,0 +1,73 @@
+{
+  "id": 823489891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043004,41.405013,-73.043004,41.405013",
+    "geom:latitude":41.405013,
+    "geom:longitude":-73.043004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"73 High Rd",
+    "sg:city":"Bethany",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 393 3728",
+    "sg:postcode":"06524",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VoSxwYC3KdirBeHJPntRY_41.405013_-73.043004@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439309,
+    "wof:geomhash":"7c134f2c3dc0ee33cbf284d3cee952fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823489891
+        }
+    ],
+    "wof:id":823489891,
+    "wof:lastmodified":1466421687,
+    "wof:name":"John Chernecky Builder",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.043004,
+    41.405013,
+    -73.043004,
+    41.405013
+],
+  "geometry": {"coordinates":[-73.043004,41.405013],"type":"Point"}
+}

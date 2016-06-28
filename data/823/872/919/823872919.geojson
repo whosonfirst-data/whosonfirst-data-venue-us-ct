@@ -1,0 +1,81 @@
+{
+  "id": 823872919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900492,41.828337,-72.900492,41.828337",
+    "geom:latitude":41.828337,
+    "geom:longitude":-72.900492,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"244 Albany Tpke",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 1733",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2famz2a40NYAPTyxKm8h8L_41.828337_-72.900492@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448804,
+    "wof:geomhash":"589328317ec325951240e0e49769723b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":823872919
+        }
+    ],
+    "wof:id":823872919,
+    "wof:lastmodified":1466425801,
+    "wof:name":"Canton Auto Exchange Inc",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "used"
+    ]
+},
+  "bbox": [
+    -72.900492,
+    41.828337,
+    -72.900492,
+    41.828337
+],
+  "geometry": {"coordinates":[-72.900492,41.828337],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823798885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.148232,41.170207,-73.148232,41.170207",
+    "geom:latitude":41.170207,
+    "geom:longitude":-73.148232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"280 Garfield Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 380 8399",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CpimTz4hxhvm3cMdyvVye_41.170207_-73.148232@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446682,
+    "wof:geomhash":"34bd3a2a7a3305a108932380e18ad9b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823798885
+        }
+    ],
+    "wof:id":823798885,
+    "wof:lastmodified":1466425149,
+    "wof:name":"Kaster Warehouse",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.148232,
+    41.170207,
+    -73.148232,
+    41.170207
+],
+  "geometry": {"coordinates":[-73.14823199999999,41.170207],"type":"Point"}
+}

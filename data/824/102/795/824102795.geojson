@@ -1,0 +1,66 @@
+{
+  "id": 824102795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.724174,41.290888,-72.724174,41.290888",
+    "geom:latitude":41.290888,
+    "geom:longitude":-72.724174,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1028 Moose Hill Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 4674",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830173,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XRyZIeRdugvlEqem80S2e_41.290888_-72.724174@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454397,
+    "wof:geomhash":"001941a42b0b5f9073bfdb38b52462cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85830173,
+            "region_id":85688629,
+            "venue_id":824102795
+        }
+    ],
+    "wof:id":824102795,
+    "wof:lastmodified":1466423022,
+    "wof:name":"Shoreline Taxi",
+    "wof:parent_id":85830173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.724174,
+    41.290888,
+    -72.724174,
+    41.290888
+],
+  "geometry": {"coordinates":[-72.724174,41.290888],"type":"Point"}
+}

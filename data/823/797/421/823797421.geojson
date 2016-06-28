@@ -1,0 +1,73 @@
+{
+  "id": 823797421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.90258,41.535703,-72.90258,41.535703",
+    "geom:latitude":41.535703,
+    "geom:longitude":-72.90258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 Sandbank Rd",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826143,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PGhlOTiKOKDj8g4ucK34j_41.535703_-72.902580@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446642,
+    "wof:geomhash":"a694b9213d34664410f501cc5c04f3e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826143,
+            "region_id":85688629,
+            "venue_id":823797421
+        }
+    ],
+    "wof:id":823797421,
+    "wof:lastmodified":1466425098,
+    "wof:name":"Ollies Garage & Used Cars",
+    "wof:parent_id":85826143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.90258,
+    41.535703,
+    -72.90258,
+    41.535703
+],
+  "geometry": {"coordinates":[-72.90258,41.535703],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823517063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.540089,41.110519,-73.540089,41.110519",
+    "geom:latitude":41.110519,
+    "geom:longitude":-73.540089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 High Ridge Park Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 609 8300",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "secondary",
+        "refining",
+        "smelting"
+    ],
+    "sg:website":"www.gerald.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852825,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Zki7ztMrzS2UEOnJu55S_41.110519_-73.540089@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439954,
+    "wof:geomhash":"452c75fe590a957369405a839d8b9304",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85852825,
+            "region_id":85688629,
+            "venue_id":823517063
+        }
+    ],
+    "wof:id":823517063,
+    "wof:lastmodified":1466422041,
+    "wof:name":"Gerald Metals",
+    "wof:parent_id":85852825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "secondary",
+        "refining",
+        "smelting"
+    ]
+},
+  "bbox": [
+    -73.540089,
+    41.110519,
+    -73.540089,
+    41.110519
+],
+  "geometry": {"coordinates":[-73.54008899999999,41.110519],"type":"Point"}
+}

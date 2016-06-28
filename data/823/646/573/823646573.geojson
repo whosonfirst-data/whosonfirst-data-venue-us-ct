@@ -1,0 +1,71 @@
+{
+  "id": 823646573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.83615,41.734095,-72.83615,41.734095",
+    "geom:latitude":41.734095,
+    "geom:longitude":-72.83615,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1031 Farmington Ave",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DD9dmqtr3p2dSyrvY84TX_41.734095_-72.836150@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443005,
+    "wof:geomhash":"32f85c5161f721e197bff36eca64e80f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823646573
+        }
+    ],
+    "wof:id":823646573,
+    "wof:lastmodified":1466423767,
+    "wof:name":"CT Anxety Dprssion Trtmnt Cnte",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.83615,
+    41.734095,
+    -72.83615,
+    41.734095
+],
+  "geometry": {"coordinates":[-72.83615,41.734095],"type":"Point"}
+}

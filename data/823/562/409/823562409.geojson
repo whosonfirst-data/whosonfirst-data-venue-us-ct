@@ -1,0 +1,66 @@
+{
+  "id": 823562409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.715158,41.509807,-72.715158,41.509807",
+    "geom:latitude":41.509807,
+    "geom:longitude":-72.715158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"504 Main St",
+    "sg:city":"Middlefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 349 5638",
+    "sg:postcode":"06455",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804219,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J9VCLKCNaaTn8sd1lc79F_41.509807_-72.715158@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440995,
+    "wof:geomhash":"24abce69600fab67e338fcc440ab7d7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85804219,
+            "region_id":85688629,
+            "venue_id":823562409
+        }
+    ],
+    "wof:id":823562409,
+    "wof:lastmodified":1466422717,
+    "wof:name":"Black Dog Grooming Salon",
+    "wof:parent_id":85804219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.715158,
+    41.509807,
+    -72.715158,
+    41.509807
+],
+  "geometry": {"coordinates":[-72.715158,41.509807],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823825711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143801,41.193988,-73.143801,41.193988",
+    "geom:latitude":41.193988,
+    "geom:longitude":-73.143801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1785 Barnum Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "antique",
+        "automotive",
+        "restoration",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YIRTGuTDTPw2pKCjNFvlN_41.193988_-73.143801@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447470,
+    "wof:geomhash":"d0c098cc267cc01c16caf2da80235ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823825711
+        }
+    ],
+    "wof:id":823825711,
+    "wof:lastmodified":1466425358,
+    "wof:name":"Automotive Restorations Inc",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "automotive",
+        "restoration",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.143801,
+    41.193988,
+    -73.143801,
+    41.193988
+],
+  "geometry": {"coordinates":[-73.143801,41.193988],"type":"Point"}
+}

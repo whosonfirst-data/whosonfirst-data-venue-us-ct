@@ -1,0 +1,71 @@
+{
+  "id": 823856217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.833798,41.744454,-72.833798,41.744454",
+    "geom:latitude":41.744454,
+    "geom:longitude":-72.833798,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 Tunxis Village",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qZxi6tlEFwtTiJyfRV1MC_41.744454_-72.833798@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448387,
+    "wof:geomhash":"d7bc2b6268eafb2937fc828be3c81c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823856217
+        }
+    ],
+    "wof:id":823856217,
+    "wof:lastmodified":1466425656,
+    "wof:name":"Dr Joseph Springut",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.833798,
+    41.744454,
+    -72.833798,
+    41.744454
+],
+  "geometry": {"coordinates":[-72.833798,41.744454],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 253297027,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.486684,41.139388,-73.486684,41.139388",
     "geom:latitude":41.139388,
     "geom:longitude":-73.486684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6 Kelley Green",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253297027,
-    "wof:lastmodified":1449064708,
+    "wof:lastmodified":1466421107,
     "wof:name":"Malpractice Prevention Seminar",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.486684,41.139388,-73.486684,41.139388],
+  "bbox": [
+    -73.486684,
+    41.139388,
+    -73.486684,
+    41.139388
+],
   "geometry": {"coordinates":[-73.486684,41.139388],"type":"Point"}
 }

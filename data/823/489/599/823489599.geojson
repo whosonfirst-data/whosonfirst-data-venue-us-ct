@@ -1,0 +1,71 @@
+{
+  "id": 823489599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.873004,41.278484,-72.873004,41.278484",
+    "geom:latitude":41.278484,
+    "geom:longitude":-72.873004,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Kirkham Ave",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 469 9355",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JxrwnDgIpoZG5V6nUk5li_41.278484_-72.873004@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439301,
+    "wof:geomhash":"76fce84df5ba8435f89112ab006f2805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823489599
+        }
+    ],
+    "wof:id":823489599,
+    "wof:lastmodified":1466421501,
+    "wof:name":"Louis J Pellegrino DDS",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.873004,
+    41.278484,
+    -72.873004,
+    41.278484
+],
+  "geometry": {"coordinates":[-72.87300399999999,41.278484],"type":"Point"}
+}

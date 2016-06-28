@@ -1,0 +1,84 @@
+{
+  "id": 823590503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.453244,41.396488,-73.453244,41.396488",
+    "geom:latitude":41.396488,
+    "geom:longitude":-73.453244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 0867",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gY5MzcT4kBn1vcKmIa3RM_41.396488_-73.453244@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441659,
+    "wof:geomhash":"370803c0037ecb3d400043936e7e6c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823590503
+        }
+    ],
+    "wof:id":823590503,
+    "wof:lastmodified":1466423171,
+    "wof:name":"United Check Cashing Co",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -73.453244,
+    41.396488,
+    -73.453244,
+    41.396488
+],
+  "geometry": {"coordinates":[-73.453244,41.396488],"type":"Point"}
+}

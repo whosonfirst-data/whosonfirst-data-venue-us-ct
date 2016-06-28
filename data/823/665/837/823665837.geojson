@@ -1,0 +1,82 @@
+{
+  "id": 823665837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.36078,41.141512,-73.36078,41.141512",
+    "geom:latitude":41.141512,
+    "geom:longitude":-73.36078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"165 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 222 9336",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TLxT5OwmW4CwOZcPV5Ssk_41.141512_-73.360780@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443471,
+    "wof:geomhash":"957c02d19560e6cc58d006cd80344603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823665837
+        }
+    ],
+    "wof:id":823665837,
+    "wof:lastmodified":1466423973,
+    "wof:name":"Sang's Tailoring",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -73.36078,
+    41.141512,
+    -73.36078,
+    41.141512
+],
+  "geometry": {"coordinates":[-73.36078000000001,41.141512],"type":"Point"}
+}

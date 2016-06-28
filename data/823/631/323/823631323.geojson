@@ -1,0 +1,79 @@
+{
+  "id": 823631323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19989,41.193449,-73.19989,41.193449",
+    "geom:latitude":41.193449,
+    "geom:longitude":-73.19989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"147 Wheeler Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 7500",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z2upZ4yMW25YicHMr52go_41.193449_-73.199890@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442655,
+    "wof:geomhash":"f6b278d62564081cbd403bc9987d1841",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823631323
+        }
+    ],
+    "wof:id":823631323,
+    "wof:lastmodified":1466423611,
+    "wof:name":"County Electric Construction",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.19989,
+    41.193449,
+    -73.19989,
+    41.193449
+],
+  "geometry": {"coordinates":[-73.19989,41.193449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823550335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.418968,41.16193,-73.418968,41.16193",
+    "geom:latitude":41.16193,
+    "geom:longitude":-73.418968,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 7842",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BiZ22OeqmKl8cY8fLrTLl_41.161930_-73.418968@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440707,
+    "wof:geomhash":"c849ba90dd5cad261b43cab94f06c94c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823550335
+        }
+    ],
+    "wof:id":823550335,
+    "wof:lastmodified":1466422521,
+    "wof:name":"All American Bagel Corp",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [
+    -73.418968,
+    41.16193,
+    -73.418968,
+    41.16193
+],
+  "geometry": {"coordinates":[-73.41896800000001,41.16193],"type":"Point"}
+}

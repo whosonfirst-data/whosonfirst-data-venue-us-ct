@@ -1,0 +1,86 @@
+{
+  "id": 824120951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.545403,41.078126,-73.545403,41.078126",
+    "geom:latitude":41.078126,
+    "geom:longitude":-73.545403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Benstone St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Food Court",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 359 6910",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concession",
+        "management",
+        "concessionaire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831311,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13NwEjD1BHiAa0YfSaoOqz_41.078126_-73.545403@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454782,
+    "wof:geomhash":"7bf9a335b6062b2c7203a1cb547abed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85831311,
+            "region_id":85688629,
+            "venue_id":824120951
+        }
+    ],
+    "wof:id":824120951,
+    "wof:lastmodified":1466423396,
+    "wof:name":"Simply Creative",
+    "wof:parent_id":85831311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concession",
+        "management",
+        "concessionaire"
+    ]
+},
+  "bbox": [
+    -73.545403,
+    41.078126,
+    -73.545403,
+    41.078126
+],
+  "geometry": {"coordinates":[-73.54540299999999,41.078126],"type":"Point"}
+}

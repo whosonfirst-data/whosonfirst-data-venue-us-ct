@@ -1,0 +1,81 @@
+{
+  "id": 823899055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97724,41.543906,-72.97724,41.543906",
+    "geom:latitude":41.543906,
+    "geom:longitude":-72.97724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3356 E Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 360 8900",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cheese",
+        "smoked",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816299,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hF1sI0nTj8qgyEurxQZS2_41.543906_-72.977240@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449432,
+    "wof:geomhash":"fb69755b19cba62eac211d5da87ab2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85816299,
+            "region_id":85688629,
+            "venue_id":823899055
+        }
+    ],
+    "wof:id":823899055,
+    "wof:lastmodified":1466425976,
+    "wof:name":"Apple Smoked Cheese Company",
+    "wof:parent_id":85816299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "smoked",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.97724,
+    41.543906,
+    -72.97724,
+    41.543906
+],
+  "geometry": {"coordinates":[-72.97723999999999,41.543906],"type":"Point"}
+}

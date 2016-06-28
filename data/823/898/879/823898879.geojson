@@ -1,0 +1,71 @@
+{
+  "id": 823898879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.436956,41.20581,-73.436956,41.20581",
+    "geom:latitude":41.20581,
+    "geom:longitude":-73.436956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Richdale Dr",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 834 0043",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yP6QoDK6kKRjVsP7HUgH3_41.205810_-73.436956@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449425,
+    "wof:geomhash":"bd0d15421713e41d3a6cf7a751cb57c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823898879
+        }
+    ],
+    "wof:id":823898879,
+    "wof:lastmodified":1466426010,
+    "wof:name":"Britain Fence",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.436956,
+    41.20581,
+    -73.436956,
+    41.20581
+],
+  "geometry": {"coordinates":[-73.436956,41.20581],"type":"Point"}
+}

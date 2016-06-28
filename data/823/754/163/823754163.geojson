@@ -1,0 +1,75 @@
+{
+  "id": 823754163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.822931,41.281486,-72.822931,41.281486",
+    "geom:latitude":41.281486,
+    "geom:longitude":-72.822931,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 N Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 4156",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6huyGoBOtjKz9au2M03kgq_41.281486_-72.822931@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445487,
+    "wof:geomhash":"35b10fa51efb5f2998e57a2148c5de07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823754163
+        }
+    ],
+    "wof:id":823754163,
+    "wof:lastmodified":1466424722,
+    "wof:name":"Branford Public Works Dept",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -72.822931,
+    41.281486,
+    -72.822931,
+    41.281486
+],
+  "geometry": {"coordinates":[-72.822931,41.281486],"type":"Point"}
+}

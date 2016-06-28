@@ -1,0 +1,81 @@
+{
+  "id": 824092603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.650746,41.981234,-72.650746,41.981234",
+    "geom:latitude":41.981234,
+    "geom:longitude":-72.650746,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Bridge St",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 668 7931",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.thelilyhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931039,
+        102085381,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FguRCPeRWNT5E5wPV8jG9_41.981234_-72.650746@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454141,
+    "wof:geomhash":"f11643f87b722c86ae5d61dbd9c21c75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":824092603
+        }
+    ],
+    "wof:id":824092603,
+    "wof:lastmodified":1466422886,
+    "wof:name":"Lily House",
+    "wof:parent_id":85865187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -72.650746,
+    41.981234,
+    -72.650746,
+    41.981234
+],
+  "geometry": {"coordinates":[-72.650746,41.981234],"type":"Point"}
+}

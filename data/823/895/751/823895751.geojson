@@ -1,0 +1,73 @@
+{
+  "id": 823895751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.770072,41.641939,-72.770072,41.641939",
+    "geom:latitude":41.641939,
+    "geom:longitude":-72.770072,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"218 New Britain Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4We9ZkR9IbgmMDGyWZ5wpy_41.641939_-72.770072@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449345,
+    "wof:geomhash":"8679425317a9ab169b2e657288b2eef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823895751
+        }
+    ],
+    "wof:id":823895751,
+    "wof:lastmodified":1466425857,
+    "wof:name":"USA Auto Repair",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.770072,
+    41.641939,
+    -72.770072,
+    41.641939
+],
+  "geometry": {"coordinates":[-72.770072,41.641939],"type":"Point"}
+}

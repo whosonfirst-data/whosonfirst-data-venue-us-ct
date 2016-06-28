@@ -1,0 +1,71 @@
+{
+  "id": 823908669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05637,41.414817,-73.05637,41.414817",
+    "geom:latitude":41.414817,
+    "geom:longitude":-73.05637,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Evergreen Ter",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 2008",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NnmeIrDIdhbZIxAAK54HM_41.414817_-73.056370@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449696,
+    "wof:geomhash":"7e61f8501754538ca3f7964472491f4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823908669
+        }
+    ],
+    "wof:id":823908669,
+    "wof:lastmodified":1466426107,
+    "wof:name":"Baldwin & Wasko Construction",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.05637,
+    41.414817,
+    -73.05637,
+    41.414817
+],
+  "geometry": {"coordinates":[-73.05637,41.414817],"type":"Point"}
+}

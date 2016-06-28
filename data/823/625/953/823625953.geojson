@@ -1,0 +1,71 @@
+{
+  "id": 823625953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229376,41.317208,-73.229376,41.317208",
+    "geom:latitude":41.317208,
+    "geom:longitude":-73.229376,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Alpine Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 0078",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LCepbgd7GLJ1TAaC5WS5Y_41.317208_-73.229376@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442532,
+    "wof:geomhash":"f93fdeef38e2a9f5a40202c42fb88ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823625953
+        }
+    ],
+    "wof:id":823625953,
+    "wof:lastmodified":1466423592,
+    "wof:name":"S & S Builders Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.229376,
+    41.317208,
+    -73.229376,
+    41.317208
+],
+  "geometry": {"coordinates":[-73.229376,41.317208],"type":"Point"}
+}

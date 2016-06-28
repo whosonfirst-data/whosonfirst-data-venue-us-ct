@@ -2,13 +2,14 @@
   "id": 371189463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494168,41.146716,-73.494168,41.146716",
     "geom:latitude":41.146716,
     "geom:longitude":-73.494168,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"120 Elm St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":371189463,
-    "wof:lastmodified":1449049789,
+    "wof:lastmodified":1466421140,
     "wof:name":"Littlejohn's",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "wear"
     ]
 },
-  "bbox": [-73.494168,41.146716,-73.494168,41.146716],
+  "bbox": [
+    -73.494168,
+    41.146716,
+    -73.494168,
+    41.146716
+],
   "geometry": {"coordinates":[-73.494168,41.146716],"type":"Point"}
 }

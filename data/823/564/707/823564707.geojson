@@ -1,0 +1,80 @@
+{
+  "id": 823564707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043706,41.585552,-73.043706,41.585552",
+    "geom:latitude":41.585552,
+    "geom:longitude":-73.043706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 Homer St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 757 8299",
+    "sg:postcode":"06704",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.julianimotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854745,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UwHI9QHV1V1B5Us8K7thY_41.585552_-73.043706@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441058,
+    "wof:geomhash":"09af06fb5af314e8ac15ab53d40875da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85854745,
+            "region_id":85688629,
+            "venue_id":823564707
+        }
+    ],
+    "wof:id":823564707,
+    "wof:lastmodified":1466422705,
+    "wof:name":"Jim Juliani Motor Car Co",
+    "wof:parent_id":85854745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.043706,
+    41.585552,
+    -73.043706,
+    41.585552
+],
+  "geometry": {"coordinates":[-73.043706,41.585552],"type":"Point"}
+}

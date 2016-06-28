@@ -1,0 +1,66 @@
+{
+  "id": 824114825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.508791,41.440256,-73.508791,41.440256",
+    "geom:latitude":41.440256,
+    "geom:longitude":-73.508791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Kingswood Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 746 6354",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868711,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k223TYJ4UDL8LJyr7uP60_41.440256_-73.508791@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454654,
+    "wof:geomhash":"3f17bdfebe1c1ead544014fe09dd680e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85868711,
+            "region_id":85688629,
+            "venue_id":824114825
+        }
+    ],
+    "wof:id":824114825,
+    "wof:lastmodified":1466423368,
+    "wof:name":"M&D Auto",
+    "wof:parent_id":85868711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.508791,
+    41.440256,
+    -73.508791,
+    41.440256
+],
+  "geometry": {"coordinates":[-73.508791,41.440256],"type":"Point"}
+}

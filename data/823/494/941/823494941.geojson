@@ -1,0 +1,77 @@
+{
+  "id": 823494941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20499,41.177392,-73.20499,41.177392",
+    "geom:latitude":41.177392,
+    "geom:longitude":-73.20499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"230 Wood Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 331 9097",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fNF4DQTzo2qGm73xtL7LM_41.177392_-73.204990@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439434,
+    "wof:geomhash":"634bd9357160a85915a80d48a1ad5e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823494941
+        }
+    ],
+    "wof:id":823494941,
+    "wof:lastmodified":1466421611,
+    "wof:name":"Colonial Cleaners",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.20499,
+    41.177392,
+    -73.20499,
+    41.177392
+],
+  "geometry": {"coordinates":[-73.20499,41.177392],"type":"Point"}
+}

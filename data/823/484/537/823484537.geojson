@@ -1,0 +1,73 @@
+{
+  "id": 823484537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.42371,41.659549,-72.42371,41.659549",
+    "geom:latitude":41.659549,
+    "geom:longitude":-72.42371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 Old Slocum Rd",
+    "sg:city":"Hebron",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 228 1111",
+    "sg:postcode":"06248",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821539,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tt2om7qQyGLMg27Twp9NR_41.659549_-72.423710@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439178,
+    "wof:geomhash":"174d9143eece8ce14f7f39499569cb7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85821539,
+            "region_id":85688629,
+            "venue_id":823484537
+        }
+    ],
+    "wof:id":823484537,
+    "wof:lastmodified":1466421482,
+    "wof:name":"B Nicolo Carpentry Inc",
+    "wof:parent_id":85821539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.42371,
+    41.659549,
+    -72.42371,
+    41.659549
+],
+  "geometry": {"coordinates":[-72.42371,41.659549],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823491363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977603,41.340842,-72.977603,41.340842",
+    "geom:latitude":41.340842,
+    "geom:longitude":-72.977603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1670 Litchfield Tpke",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 5600",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garment",
+        "tailor",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AuTFkuNY4H19OSqa1Hx7W_41.340842_-72.977603@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439340,
+    "wof:geomhash":"117e51115f2bbcc98021f15c4a2aa0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823491363
+        }
+    ],
+    "wof:id":823491363,
+    "wof:lastmodified":1466421587,
+    "wof:name":"Golden Touch Cleaners",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "tailor",
+        "agent"
+    ]
+},
+  "bbox": [
+    -72.977603,
+    41.340842,
+    -72.977603,
+    41.340842
+],
+  "geometry": {"coordinates":[-72.977603,41.340842],"type":"Point"}
+}

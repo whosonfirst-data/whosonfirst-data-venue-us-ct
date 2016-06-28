@@ -1,0 +1,80 @@
+{
+  "id": 823530727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.00515,41.264023,-73.00515,41.264023",
+    "geom:latitude":41.264023,
+    "geom:longitude":-73.00515,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"339 Boston Post Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 2222",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.urologycenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61KdMTooQcY64ekbCIJh6N_41.264023_-73.005150@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440267,
+    "wof:geomhash":"7317fe07d7af33b8f541efb62419b136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823530727
+        }
+    ],
+    "wof:id":823530727,
+    "wof:lastmodified":1466422356,
+    "wof:name":"Urology Center",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.00515,
+    41.264023,
+    -73.00515,
+    41.264023
+],
+  "geometry": {"coordinates":[-73.00515,41.264023],"type":"Point"}
+}

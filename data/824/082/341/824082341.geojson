@@ -1,0 +1,86 @@
+{
+  "id": 824082341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.492263,41.147412,-73.492263,41.147412",
+    "geom:latitude":41.147412,
+    "geom:longitude":-73.492263,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 Main St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-canaan/25307-connecticut-muffin/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 972 7557",
+    "sg:postcode":"06840",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jAUpaJZmnMf6PJzh92rJD_41.147318_-73.492237@1294177022"
+    },
+    "wof:country":"US",
+    "wof:created":1463453902,
+    "wof:geomhash":"918d40116f7e1be5beb2014c797923a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":824082341
+        }
+    ],
+    "wof:id":824082341,
+    "wof:lastmodified":1466422386,
+    "wof:name":"Connecticut Muffin",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.492263,
+    41.147412,
+    -73.492263,
+    41.147412
+],
+  "geometry": {"coordinates":[-73.49226299999999,41.147412],"type":"Point"}
+}

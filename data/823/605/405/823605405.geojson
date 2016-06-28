@@ -1,0 +1,82 @@
+{
+  "id": 823605405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593599,41.27502,-72.593599,41.27502",
+    "geom:latitude":41.27502,
+    "geom:longitude":-72.593599,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Hamilton Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 8886",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833961,
+        102191575,
+        404495779,
+        85633793,
+        85931393,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43eg06XWtbyTP1qc7PLLop_41.275020_-72.593599@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442031,
+    "wof:geomhash":"259425fb7765ecdefaa1fcf0ac08b471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495779,
+            "locality_id":85931393,
+            "neighbourhood_id":85833961,
+            "region_id":85688629,
+            "venue_id":823605405
+        }
+    ],
+    "wof:id":823605405,
+    "wof:lastmodified":1466423487,
+    "wof:name":"Myers-Suzio Co",
+    "wof:parent_id":85833961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.593599,
+    41.27502,
+    -72.593599,
+    41.27502
+],
+  "geometry": {"coordinates":[-72.593599,41.27502],"type":"Point"}
+}

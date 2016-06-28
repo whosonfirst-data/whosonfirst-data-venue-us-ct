@@ -1,0 +1,73 @@
+{
+  "id": 823715687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.653393,41.982421,-72.653393,41.982421",
+    "geom:latitude":41.982421,
+    "geom:longitude":-72.653393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"83 Mountain Rd",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 668 3844",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931039,
+        102085381,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WG8FkXJJ5vxZEURFqoB1w_41.982421_-72.653393@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444559,
+    "wof:geomhash":"d3cf72fb40565eb1e80712d2bca2989f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":823715687
+        }
+    ],
+    "wof:id":823715687,
+    "wof:lastmodified":1466424450,
+    "wof:name":"Mini Bus Transportation",
+    "wof:parent_id":85865187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -72.653393,
+    41.982421,
+    -72.653393,
+    41.982421
+],
+  "geometry": {"coordinates":[-72.65339299999999,41.982421],"type":"Point"}
+}

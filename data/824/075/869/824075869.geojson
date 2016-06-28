@@ -1,0 +1,74 @@
+{
+  "id": 824075869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.798915,41.289845,-72.798915,41.289845",
+    "geom:latitude":41.289845,
+    "geom:longitude":-72.798915,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"223 E Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/branford/45931-da-carmine-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 3208",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LiBU05B28NAbDpekHyjSA_41.289845_-72.798915@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453759,
+    "wof:geomhash":"23135121063c3f509fb1165feea0b34f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":824075869
+        }
+    ],
+    "wof:id":824075869,
+    "wof:lastmodified":1466422627,
+    "wof:name":"Da' Carmine Pizzeria",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.798915,
+    41.289845,
+    -72.798915,
+    41.289845
+],
+  "geometry": {"coordinates":[-72.79891499999999,41.289845],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823746109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92777,41.743339,-72.92777,41.743339",
+    "geom:latitude":41.743339,
+    "geom:longitude":-72.92777,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Wildcat Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 7263",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hrC3fgeWfZ4PHAJZrHuu1_41.743339_-72.927770@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445289,
+    "wof:geomhash":"68d68d973c75c61b6c3556e775a76a67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823746109
+        }
+    ],
+    "wof:id":823746109,
+    "wof:lastmodified":1466424687,
+    "wof:name":"A & J Tree Service",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.92777,
+    41.743339,
+    -72.92777,
+    41.743339
+],
+  "geometry": {"coordinates":[-72.92777,41.743339],"type":"Point"}
+}

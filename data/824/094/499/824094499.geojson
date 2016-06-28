@@ -1,0 +1,66 @@
+{
+  "id": 824094499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.71933,41.87429,-72.71933,41.87429",
+    "geom:latitude":41.87429,
+    "geom:longitude":-72.71933,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Great Pond Dr",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 843 8059",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J6VGp8gXSEPEDF0uynVD5_41.874290_-72.719330@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454207,
+    "wof:geomhash":"4a8d037d86018b53c2f4d731aea04014",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":824094499
+        }
+    ],
+    "wof:id":824094499,
+    "wof:lastmodified":1466422921,
+    "wof:name":"Marriott",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.71933,
+    41.87429,
+    -72.71933,
+    41.87429
+],
+  "geometry": {"coordinates":[-72.71933,41.87429],"type":"Point"}
+}

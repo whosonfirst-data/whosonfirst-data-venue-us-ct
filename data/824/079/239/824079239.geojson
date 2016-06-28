@@ -1,0 +1,74 @@
+{
+  "id": 824079239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417511,41.551186,-73.417511,41.551186",
+    "geom:latitude":41.551186,
+    "geom:longitude":-73.417511,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"164 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-milford/144083-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 354 4033",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eizwP6qwKgwxEYfbFtB9T_41.551186_-73.417511@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453836,
+    "wof:geomhash":"132ed400e13b0ca27aeb2f0c29ca88eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":824079239
+        }
+    ],
+    "wof:id":824079239,
+    "wof:lastmodified":1466422559,
+    "wof:name":"Subway",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.417511,
+    41.551186,
+    -73.417511,
+    41.551186
+],
+  "geometry": {"coordinates":[-73.417511,41.551186],"type":"Point"}
+}

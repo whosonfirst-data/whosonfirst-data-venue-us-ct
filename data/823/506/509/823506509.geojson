@@ -1,0 +1,71 @@
+{
+  "id": 823506509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.825957,41.493545,-72.825957,41.493545",
+    "geom:latitude":41.493545,
+    "geom:longitude":-72.825957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Kirkland Ct",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NC7xFlavM8gaILHN6iktE_41.493545_-72.825957@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439724,
+    "wof:geomhash":"234741d3d09e5a0c291cd03632983cb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823506509
+        }
+    ],
+    "wof:id":823506509,
+    "wof:lastmodified":1466421820,
+    "wof:name":"Engine Parts Unlimited",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.825957,
+    41.493545,
+    -72.825957,
+    41.493545
+],
+  "geometry": {"coordinates":[-72.825957,41.493545],"type":"Point"}
+}

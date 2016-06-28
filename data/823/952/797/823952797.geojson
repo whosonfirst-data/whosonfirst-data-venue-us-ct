@@ -1,0 +1,73 @@
+{
+  "id": 823952797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.254282,41.304152,-73.254282,41.304152",
+    "geom:latitude":41.304152,
+    "geom:longitude":-73.254282,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"193 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 1431",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uPdQHgiFv0bM6LAvdop7o_41.304152_-73.254282@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450837,
+    "wof:geomhash":"f6979ba517dc1e4c86a69375468743f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823952797
+        }
+    ],
+    "wof:id":823952797,
+    "wof:lastmodified":1466426483,
+    "wof:name":"Arms & Munitions LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -73.254282,
+    41.304152,
+    -73.254282,
+    41.304152
+],
+  "geometry": {"coordinates":[-73.254282,41.304152],"type":"Point"}
+}

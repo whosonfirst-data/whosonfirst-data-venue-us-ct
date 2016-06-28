@@ -1,0 +1,73 @@
+{
+  "id": 823523721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.720724,41.907784,-72.720724,41.907784",
+    "geom:latitude":41.907784,
+    "geom:longitude":-72.720724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"528 Stone Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 285 8281",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SMiWowxIIv21hHCxejgzj_41.907784_-72.720724@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440107,
+    "wof:geomhash":"f72a4b232adf3b74d7a3418293bad32f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823523721
+        }
+    ],
+    "wof:id":823523721,
+    "wof:lastmodified":1466422079,
+    "wof:name":"Robert C Henselder",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.720724,
+    41.907784,
+    -72.720724,
+    41.907784
+],
+  "geometry": {"coordinates":[-72.720724,41.907784],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823834523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.378431,41.382405,-73.378431,41.382405",
+    "geom:latitude":41.382405,
+    "geom:longitude":-73.378431,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Kellogg St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 794 0001",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rEMDzPfhGZco2hHGIKHdb_41.382405_-73.378431@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447741,
+    "wof:geomhash":"ccbe2016861558ad437968fc3f3256be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823834523
+        }
+    ],
+    "wof:id":823834523,
+    "wof:lastmodified":1466425443,
+    "wof:name":"Siegel Insurance Agency",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.378431,
+    41.382405,
+    -73.378431,
+    41.382405
+],
+  "geometry": {"coordinates":[-73.37843100000001,41.382405],"type":"Point"}
+}

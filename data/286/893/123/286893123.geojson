@@ -2,13 +2,14 @@
   "id": 286893123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494602,41.149859,-73.494602,41.149859",
     "geom:latitude":41.149859,
     "geom:longitude":-73.494602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 Heritage Hill Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286893123,
-    "wof:lastmodified":1449017565,
+    "wof:lastmodified":1466421114,
     "wof:name":"Decks By Ron",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "deck"
     ]
 },
-  "bbox": [-73.494602,41.149859,-73.494602,41.149859],
+  "bbox": [
+    -73.494602,
+    41.149859,
+    -73.494602,
+    41.149859
+],
   "geometry": {"coordinates":[-73.494602,41.149859],"type":"Point"}
 }

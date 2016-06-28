@@ -1,0 +1,73 @@
+{
+  "id": 823563065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.285006,41.385266,-73.285006,41.385266",
+    "geom:latitude":41.385266,
+    "geom:longitude":-73.285006,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 3052",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SGraIS2K2DQfZmSWgTNU0_41.385266_-73.285006@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441016,
+    "wof:geomhash":"f5dd6f805b1bbf229b1712cd3777d111",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823563065
+        }
+    ],
+    "wof:id":823563065,
+    "wof:lastmodified":1466422685,
+    "wof:name":"Phone Forum LLC",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.285006,
+    41.385266,
+    -73.285006,
+    41.385266
+],
+  "geometry": {"coordinates":[-73.285006,41.385266],"type":"Point"}
+}

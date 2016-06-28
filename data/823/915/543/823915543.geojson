@@ -1,0 +1,73 @@
+{
+  "id": 823915543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.302934,41.404547,-73.302934,41.404547",
+    "geom:latitude":41.404547,
+    "geom:longitude":-73.302934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Elm Dr",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 8609",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xlruyXmwKeMwfWpanb0X6_41.404547_-73.302934@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449892,
+    "wof:geomhash":"2ea1062e944b950507cb33d15603e092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823915543
+        }
+    ],
+    "wof:id":823915543,
+    "wof:lastmodified":1466426143,
+    "wof:name":"Elm Glade Landscaping",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.302934,
+    41.404547,
+    -73.302934,
+    41.404547
+],
+  "geometry": {"coordinates":[-73.30293399999999,41.404547],"type":"Point"}
+}

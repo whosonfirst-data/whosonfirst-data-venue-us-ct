@@ -1,0 +1,71 @@
+{
+  "id": 823583045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.843441,41.703248,-72.843441,41.703248",
+    "geom:latitude":41.703248,
+    "geom:longitude":-72.843441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"337 Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3h1Opcwt6hMUi3P1F8yOdD_41.703248_-72.843441@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441488,
+    "wof:geomhash":"713ca2e73b0496e86e9a653ee7285bdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":823583045
+        }
+    ],
+    "wof:id":823583045,
+    "wof:lastmodified":1466423044,
+    "wof:name":"Global Cleaning Service",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.843441,
+    41.703248,
+    -72.843441,
+    41.703248
+],
+  "geometry": {"coordinates":[-72.843441,41.703248],"type":"Point"}
+}

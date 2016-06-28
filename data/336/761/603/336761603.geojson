@@ -2,13 +2,14 @@
   "id": 336761603,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.668027,41.039115,-73.668027,41.039115",
     "geom:latitude":41.039115,
     "geom:longitude":-73.668027,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Glen Ridge Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":336761603,
-    "wof:lastmodified":1448997774,
+    "wof:lastmodified":1466421128,
     "wof:name":"Carmine Sala",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "landscape"
     ]
 },
-  "bbox": [-73.668027,41.039115,-73.668027,41.039115],
+  "bbox": [
+    -73.668027,
+    41.039115,
+    -73.668027,
+    41.039115
+],
   "geometry": {"coordinates":[-73.668027,41.039115],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 336809275,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.655832,41.011428,-73.655832,41.011428",
     "geom:latitude":41.011428,
     "geom:longitude":-73.655832,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"602 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":336809275,
-    "wof:lastmodified":1448997840,
+    "wof:lastmodified":1466421128,
     "wof:name":"Tee's Putnam Svc Station",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "oil"
     ]
 },
-  "bbox": [-73.655832,41.011428,-73.655832,41.011428],
+  "bbox": [
+    -73.655832,
+    41.011428,
+    -73.655832,
+    41.011428
+],
   "geometry": {"coordinates":[-73.655832,41.011428],"type":"Point"}
 }

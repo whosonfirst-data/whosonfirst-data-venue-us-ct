@@ -1,0 +1,82 @@
+{
+  "id": 823812301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.442797,41.387143,-73.442797,41.387143",
+    "geom:latitude":41.387143,
+    "geom:longitude":-73.442797,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 South St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 1011",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WaK1Bvk76wK1haEumA8zW_41.387143_-73.442797@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447076,
+    "wof:geomhash":"d88dc2a0967aa2650b2db5f0ec4bdd46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823812301
+        }
+    ],
+    "wof:id":823812301,
+    "wof:lastmodified":1466425393,
+    "wof:name":"Deolindas Tanning & Nail Salon",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.442797,
+    41.387143,
+    -73.442797,
+    41.387143
+],
+  "geometry": {"coordinates":[-73.442797,41.387143],"type":"Point"}
+}

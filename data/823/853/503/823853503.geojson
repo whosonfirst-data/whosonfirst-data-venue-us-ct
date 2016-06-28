@@ -1,0 +1,73 @@
+{
+  "id": 823853503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.336198,41.383995,-72.336198,41.383995",
+    "geom:latitude":41.383995,
+    "geom:longitude":-72.336198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Sterling Hill Rd",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 434 9443",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823623,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06RDTlzq55zwk0OsfAcp0L_41.383995_-72.336198@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448320,
+    "wof:geomhash":"8ac64657837012b80327ab20f0c87f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85823623,
+            "region_id":85688629,
+            "venue_id":823853503
+        }
+    ],
+    "wof:id":823853503,
+    "wof:lastmodified":1466425587,
+    "wof:name":"Babcock Construction Co",
+    "wof:parent_id":85823623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.336198,
+    41.383995,
+    -72.336198,
+    41.383995
+],
+  "geometry": {"coordinates":[-72.336198,41.383995],"type":"Point"}
+}

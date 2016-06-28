@@ -1,0 +1,79 @@
+{
+  "id": 823786685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.933828,41.346457,-72.933828,41.346457",
+    "geom:latitude":41.346457,
+    "geom:longitude":-72.933828,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1290 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14Kn5kz0t1i82SDa2R5OnC_41.346457_-72.933828@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446308,
+    "wof:geomhash":"5700951c2da59a6d55b485a280707fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823786685
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823786685
+        }
+    ],
+    "wof:id":823786685,
+    "wof:lastmodified":1466424831,
+    "wof:name":"Crescent Automotive",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.933828,
+    41.346457,
+    -72.933828,
+    41.346457
+],
+  "geometry": {"coordinates":[-72.93382800000001,41.346457],"type":"Point"}
+}

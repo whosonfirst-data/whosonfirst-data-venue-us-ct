@@ -1,0 +1,79 @@
+{
+  "id": 823559781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.427504,41.105748,-73.427504,41.105748",
+    "geom:latitude":41.105748,
+    "geom:longitude":-73.427504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"128 Connecticut Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 855 9141",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FyhHdi0FJ9zqFRWvGOviA_41.105748_-73.427504@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440931,
+    "wof:geomhash":"cf57d509ca3aab9fdf11702cf76681b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823559781
+        }
+    ],
+    "wof:id":823559781,
+    "wof:lastmodified":1466422759,
+    "wof:name":"Johns Auto Svc",
+    "wof:parent_id":85879311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.427504,
+    41.105748,
+    -73.427504,
+    41.105748
+],
+  "geometry": {"coordinates":[-73.427504,41.105748],"type":"Point"}
+}

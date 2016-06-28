@@ -1,0 +1,89 @@
+{
+  "id": 824081673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.906076,41.371575,-72.906076,41.371575",
+    "geom:latitude":41.371575,
+    "geom:longitude":-72.906076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2011 Whitney Ave",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/164782-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 6686",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803947,
+        102191575,
+        404495789,
+        85633793,
+        85931389,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vRCpcCDsQ96gm2xsDq1aL_41.371231_-72.906105@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453889,
+    "wof:geomhash":"823a0f23f169ae5d461a6d13101983f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495789,
+            "locality_id":85931389,
+            "neighbourhood_id":85803947,
+            "region_id":85688629,
+            "venue_id":824081673
+        }
+    ],
+    "wof:id":824081673,
+    "wof:lastmodified":1466422610,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85803947,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -72.906076,
+    41.371575,
+    -72.906076,
+    41.371575
+],
+  "geometry": {"coordinates":[-72.906076,41.371575],"type":"Point"}
+}

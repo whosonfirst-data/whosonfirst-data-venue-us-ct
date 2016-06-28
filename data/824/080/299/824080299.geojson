@@ -1,0 +1,72 @@
+{
+  "id": 824080299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.493905,41.148468,-73.493905,41.148468",
+    "geom:latitude":41.148468,
+    "geom:longitude":-73.493905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"62 Main St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-canaan/25281-aloi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 966 4345",
+    "sg:postcode":"06840",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UIigUqg5GujbtiDzdhBAC_41.148468_-73.493905@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453858,
+    "wof:geomhash":"bb226b9186d714f4e7eb703f554e5a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":824080299
+        }
+    ],
+    "wof:id":824080299,
+    "wof:lastmodified":1466422566,
+    "wof:name":"Aloi",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.493905,
+    41.148468,
+    -73.493905,
+    41.148468
+],
+  "geometry": {"coordinates":[-73.493905,41.148468],"type":"Point"}
+}

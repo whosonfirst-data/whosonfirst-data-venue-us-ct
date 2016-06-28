@@ -1,0 +1,66 @@
+{
+  "id": 823785235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.247129,41.31603,-72.247129,41.31603",
+    "geom:latitude":41.31603,
+    "geom:longitude":-72.247129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"271 W Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821451,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nT3fwcnw9Lzg6LeuviIIE_41.316030_-72.247129@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446257,
+    "wof:geomhash":"30849a785f4156d003d39ab0f02bf11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85821451,
+            "region_id":85688629,
+            "venue_id":823785235
+        }
+    ],
+    "wof:id":823785235,
+    "wof:lastmodified":1466425165,
+    "wof:name":"Camp Niantic By The Atlantic",
+    "wof:parent_id":85821451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.247129,
+    41.31603,
+    -72.247129,
+    41.31603
+],
+  "geometry": {"coordinates":[-72.247129,41.31603],"type":"Point"}
+}

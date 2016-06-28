@@ -1,0 +1,90 @@
+{
+  "id": 823492511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.420659,41.109088,-73.420659,41.109088",
+    "geom:latitude":41.109088,
+    "geom:longitude":-73.420659,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Elmcrest Ter",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 853 4200",
+    "sg:postcode":"06850",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85849909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X5oQONPDEQOccZMX50Ihi_41.109088_-73.420659@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439364,
+    "wof:geomhash":"db973c9ee56da715a4f756495122a29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823492511
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":823492511
+        }
+    ],
+    "wof:id":823492511,
+    "wof:lastmodified":1466421596,
+    "wof:name":"Urology Associates Of Norwalk",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.420659,
+    41.109088,
+    -73.420659,
+    41.109088
+],
+  "geometry": {"coordinates":[-73.420659,41.109088],"type":"Point"}
+}

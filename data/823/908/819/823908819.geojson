@@ -1,0 +1,71 @@
+{
+  "id": 823908819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.841766,41.278781,-72.841766,41.278781",
+    "geom:latitude":41.278781,
+    "geom:longitude":-72.841766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 W Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 315 9130",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rdw9AJYYLr35Nfqm7yawF_41.278781_-72.841766@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449702,
+    "wof:geomhash":"d822eab9a8a6aaf44de5a361356fd612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823908819
+        }
+    ],
+    "wof:id":823908819,
+    "wof:lastmodified":1466426118,
+    "wof:name":"Wine Barrel",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -72.841766,
+    41.278781,
+    -72.841766,
+    41.278781
+],
+  "geometry": {"coordinates":[-72.84176600000001,41.278781],"type":"Point"}
+}

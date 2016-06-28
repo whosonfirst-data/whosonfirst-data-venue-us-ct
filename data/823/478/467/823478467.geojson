@@ -1,0 +1,66 @@
+{
+  "id": 823478467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.072215,41.396086,-73.072215,41.396086",
+    "geom:latitude":41.396086,
+    "geom:longitude":-73.072215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Main St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 1131",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VVjVmN38A3BbLKqW8JEGS_41.396086_-73.072215@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439047,
+    "wof:geomhash":"8bb8a0ecbad697853d287bdccd0a5608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823478467
+        }
+    ],
+    "wof:id":823478467,
+    "wof:lastmodified":1466421658,
+    "wof:name":"Zois' Pizza Palace",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.072215,
+    41.396086,
+    -73.072215,
+    41.396086
+],
+  "geometry": {"coordinates":[-73.072215,41.396086],"type":"Point"}
+}

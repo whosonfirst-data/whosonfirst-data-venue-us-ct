@@ -1,0 +1,77 @@
+{
+  "id": 823974945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.097707,41.814016,-73.097707,41.814016",
+    "geom:latitude":41.814016,
+    "geom:longitude":-73.097707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 E Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 6447",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "commercial",
+        "owns"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SJ8wWTtkSTm3v2zxgSPKo_41.814016_-73.097707@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451357,
+    "wof:geomhash":"cb753e8fdb9ee6ec83501156fd0ffefc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823974945
+        }
+    ],
+    "wof:id":823974945,
+    "wof:lastmodified":1466426510,
+    "wof:name":"De Co Enterprises",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "commercial",
+        "owns"
+    ]
+},
+  "bbox": [
+    -73.097707,
+    41.814016,
+    -73.097707,
+    41.814016
+],
+  "geometry": {"coordinates":[-73.097707,41.814016],"type":"Point"}
+}

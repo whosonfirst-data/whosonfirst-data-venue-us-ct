@@ -1,0 +1,80 @@
+{
+  "id": 823945189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.897023,41.405449,-72.897023,41.405449",
+    "geom:latitude":41.405449,
+    "geom:longitude":-72.897023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Woodruff St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 9376",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TojXK3VWHbBadQsxVWwal_41.405449_-72.897023@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450646,
+    "wof:geomhash":"c2e48aad934139e7738897f38798bacd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823945189
+        }
+    ],
+    "wof:id":823945189,
+    "wof:lastmodified":1466426597,
+    "wof:name":"Mt Carmel Congregate Housing",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -72.897023,
+    41.405449,
+    -72.897023,
+    41.405449
+],
+  "geometry": {"coordinates":[-72.897023,41.405449],"type":"Point"}
+}

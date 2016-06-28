@@ -1,0 +1,88 @@
+{
+  "id": 823759519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.760533,41.544625,-72.760533,41.544625",
+    "geom:latitude":41.544625,
+    "geom:longitude":-72.760533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Mattabasset Dr",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 237 5350",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "photography",
+        "design",
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824991,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jcoBRGnDeXBmjnZT2zs5S_41.544625_-72.760533@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445605,
+    "wof:geomhash":"d18a900d99575d2bc61bc5ea8979559d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85824991,
+            "region_id":85688629,
+            "venue_id":823759519
+        }
+    ],
+    "wof:id":823759519,
+    "wof:lastmodified":1466424779,
+    "wof:name":"Raymond Gawlak Photographer",
+    "wof:parent_id":85824991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "photography",
+        "design",
+        "photographer"
+    ]
+},
+  "bbox": [
+    -72.760533,
+    41.544625,
+    -72.760533,
+    41.544625
+],
+  "geometry": {"coordinates":[-72.760533,41.544625],"type":"Point"}
+}

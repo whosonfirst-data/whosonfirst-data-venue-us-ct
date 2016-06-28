@@ -1,0 +1,80 @@
+{
+  "id": 824080971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.538917,41.055504,-73.538917,41.055504",
+    "geom:latitude":41.055504,
+    "geom:longitude":-73.538917,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Bedford St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/251020-remos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 973 0077",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HwF59xErXH8C2kmxjloGb_41.055504_-73.538917@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453873,
+    "wof:geomhash":"dba4d5a83aee804269655d799ccc093b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824080971
+        }
+    ],
+    "wof:id":824080971,
+    "wof:lastmodified":1466422669,
+    "wof:name":"Remo's",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.538917,
+    41.055504,
+    -73.538917,
+    41.055504
+],
+  "geometry": {"coordinates":[-73.538917,41.055504],"type":"Point"}
+}

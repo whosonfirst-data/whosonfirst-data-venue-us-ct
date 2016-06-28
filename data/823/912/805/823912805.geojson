@@ -1,0 +1,71 @@
+{
+  "id": 823912805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.414896,41.170242,-73.414896,41.170242",
+    "geom:latitude":41.170242,
+    "geom:longitude":-73.414896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Grumman Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 9492",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KIUKCghLutN4xyywcJyk9_41.170242_-73.414896@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449826,
+    "wof:geomhash":"29eb852289b2535b2873ed3905670ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823912805
+        }
+    ],
+    "wof:id":823912805,
+    "wof:lastmodified":1466426299,
+    "wof:name":"Ryan & Faulds LLC",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -73.414896,
+    41.170242,
+    -73.414896,
+    41.170242
+],
+  "geometry": {"coordinates":[-73.414896,41.170242],"type":"Point"}
+}

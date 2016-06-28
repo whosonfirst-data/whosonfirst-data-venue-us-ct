@@ -1,0 +1,91 @@
+{
+  "id": 824084785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.693922,41.850389,-72.693922,41.850389",
+    "geom:latitude":41.850389,
+    "geom:longitude":-72.693922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"74 E Dudley Town Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 286 8211",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "industrial",
+        "material",
+        "equipment",
+        "handling",
+        "hoist",
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4arIicFb1Gbv9GKu6BpnGN_41.850389_-72.693922@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453961,
+    "wof:geomhash":"9b552de043f70a3c208d322348ebfa38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":824084785
+        }
+    ],
+    "wof:id":824084785,
+    "wof:lastmodified":1466422600,
+    "wof:name":"Beckwith's Handling Equipment Services, Inc.",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "material",
+        "equipment",
+        "handling",
+        "hoist",
+        "crane"
+    ]
+},
+  "bbox": [
+    -72.693922,
+    41.850389,
+    -72.693922,
+    41.850389
+],
+  "geometry": {"coordinates":[-72.693922,41.850389],"type":"Point"}
+}

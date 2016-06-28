@@ -2,13 +2,14 @@
   "id": 252840353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46744,41.120975,-73.46744,41.120975",
     "geom:latitude":41.120975,
     "geom:longitude":-73.46744,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Meeting Grove Ln",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":252840353,
-    "wof:lastmodified":1449006264,
+    "wof:lastmodified":1466421089,
     "wof:name":"Aqua Pro Pools",
     "wof:parent_id":85856029,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "swimming"
     ]
 },
-  "bbox": [-73.46744,41.120975,-73.46744,41.120975],
+  "bbox": [
+    -73.46744,
+    41.120975,
+    -73.46744,
+    41.120975
+],
   "geometry": {"coordinates":[-73.46744,41.120975],"type":"Point"}
 }

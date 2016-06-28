@@ -1,0 +1,71 @@
+{
+  "id": 823582265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.919283,41.338333,-72.919283,41.338333",
+    "geom:latitude":41.338333,
+    "geom:longitude":-72.919283,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"960 Prospect St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YeIvKHXEwOU1TmmPrBLb3_41.338333_-72.919283@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441472,
+    "wof:geomhash":"fba8cd3e44d4aa8c65937c21e5430769",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823582265
+        }
+    ],
+    "wof:id":823582265,
+    "wof:lastmodified":1466423021,
+    "wof:name":"Barbara Rickler MD",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.919283,
+    41.338333,
+    -72.919283,
+    41.338333
+],
+  "geometry": {"coordinates":[-72.91928299999999,41.338333],"type":"Point"}
+}

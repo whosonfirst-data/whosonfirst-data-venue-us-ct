@@ -1,0 +1,66 @@
+{
+  "id": 823765517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.870634,41.786469,-72.870634,41.786469",
+    "geom:latitude":41.786469,
+    "geom:longitude":-72.870634,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Woodhaven Dr",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 9887",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75MzzDa2CME2BgKPxjOCB0_41.786469_-72.870634@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445727,
+    "wof:geomhash":"5c9f825db9eef1b6476e0aa2492b0f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":823765517
+        }
+    ],
+    "wof:id":823765517,
+    "wof:lastmodified":1466424838,
+    "wof:name":"Sonquist LLC",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.870634,
+    41.786469,
+    -72.870634,
+    41.786469
+],
+  "geometry": {"coordinates":[-72.870634,41.786469],"type":"Point"}
+}

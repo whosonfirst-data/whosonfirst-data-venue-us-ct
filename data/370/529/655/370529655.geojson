@@ -2,13 +2,14 @@
   "id": 370529655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468624,41.129179,-73.468624,41.129179",
     "geom:latitude":41.129179,
     "geom:longitude":-73.468624,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Marvin Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370529655,
-    "wof:lastmodified":1449030571,
+    "wof:lastmodified":1466421148,
     "wof:name":"Debbie Seaman",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.468624,41.129179,-73.468624,41.129179],
-  "geometry": {"coordinates":[-73.468624,41.129179],"type":"Point"}
+  "bbox": [
+    -73.468624,
+    41.129179,
+    -73.468624,
+    41.129179
+],
+  "geometry": {"coordinates":[-73.46862400000001,41.129179],"type":"Point"}
 }

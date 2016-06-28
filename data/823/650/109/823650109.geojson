@@ -1,0 +1,81 @@
+{
+  "id": 823650109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198463,41.19991,-73.198463,41.19991",
+    "geom:latitude":41.19991,
+    "geom:longitude":-73.198463,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"819 Lindley St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 2736",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GZ7VVPpqmHK9l1BCiRx89_41.199910_-73.198463@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443082,
+    "wof:geomhash":"0eb621be1b3976160a2dd3b8ac66d81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823650109
+        }
+    ],
+    "wof:id":823650109,
+    "wof:lastmodified":1466423781,
+    "wof:name":"Pauls Service Center Inc",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.198463,
+    41.19991,
+    -73.198463,
+    41.19991
+],
+  "geometry": {"coordinates":[-73.198463,41.19991],"type":"Point"}
+}

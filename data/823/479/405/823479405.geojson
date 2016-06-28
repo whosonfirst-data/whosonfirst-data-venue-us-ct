@@ -1,0 +1,73 @@
+{
+  "id": 823479405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09556,41.710324,-73.09556,41.710324",
+    "geom:latitude":41.710324,
+    "geom:longitude":-73.09556,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Meadow Ridge Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 4537",
+    "sg:postcode":"06778",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UCYlzQnpMqK28WemKCnLf_41.710324_-73.095560@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439067,
+    "wof:geomhash":"a787e03ea561c86f77f9a905477ed63a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823479405
+        }
+    ],
+    "wof:id":823479405,
+    "wof:lastmodified":1466421650,
+    "wof:name":"G & G Controls",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.09556,
+    41.710324,
+    -73.09556,
+    41.710324
+],
+  "geometry": {"coordinates":[-73.09556000000001,41.710324],"type":"Point"}
+}

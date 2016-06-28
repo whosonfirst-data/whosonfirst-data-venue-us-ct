@@ -1,0 +1,79 @@
+{
+  "id": 823930779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204279,41.202987,-73.204279,41.202987",
+    "geom:latitude":41.202987,
+    "geom:longitude":-73.204279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2936 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33dqyIRoc2kqPvXqQodA94_41.202987_-73.204279@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450260,
+    "wof:geomhash":"c9f0768c47b3c2edb0786923b35c5935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823930779
+        }
+    ],
+    "wof:id":823930779,
+    "wof:lastmodified":1466426333,
+    "wof:name":"Depaul Center",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -73.204279,
+    41.202987,
+    -73.204279,
+    41.202987
+],
+  "geometry": {"coordinates":[-73.204279,41.202987],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823910593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.904496,41.490543,-72.904496,41.490543",
+    "geom:latitude":41.490543,
+    "geom:longitude":-72.904496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"475 S Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 271 2928",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931411,
+        102086923,
+        85844387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SpG85n8xPXz0WMCUUz05x_41.490543_-72.904496@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449761,
+    "wof:geomhash":"2d193413f08678d92d0267850254181b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "locality_id":85931411,
+            "neighbourhood_id":85844387,
+            "region_id":85688629,
+            "venue_id":823910593
+        }
+    ],
+    "wof:id":823910593,
+    "wof:lastmodified":1466426295,
+    "wof:name":"Cheshire Physical Therapy",
+    "wof:parent_id":85844387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -72.904496,
+    41.490543,
+    -72.904496,
+    41.490543
+],
+  "geometry": {"coordinates":[-72.90449599999999,41.490543],"type":"Point"}
+}

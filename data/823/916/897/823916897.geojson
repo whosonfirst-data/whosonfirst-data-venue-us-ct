@@ -1,0 +1,73 @@
+{
+  "id": 823916897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.423707,41.568943,-73.423707,41.568943",
+    "geom:latitude":41.568943,
+    "geom:longitude":-73.423707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Dahle Rd",
+    "sg:city":"Bantam",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 567 8505",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UxI6ToGoZCoaCmeC6Qerx_41.568943_-73.423707@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449923,
+    "wof:geomhash":"afd86a23973934a52df0b99e045f947f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823916897
+        }
+    ],
+    "wof:id":823916897,
+    "wof:lastmodified":1466426163,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -73.423707,
+    41.568943,
+    -73.423707,
+    41.568943
+],
+  "geometry": {"coordinates":[-73.42370699999999,41.568943],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824104685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376701,41.2934,-72.376701,41.2934",
+    "geom:latitude":41.2934,
+    "geom:longitude":-72.376701,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Main St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 9646",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iuFOQXes0C17v5cUAvpIS_41.293400_-72.376701@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454439,
+    "wof:geomhash":"2aef08e73038fe9c24ba229a7da430b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824104685
+        }
+    ],
+    "wof:id":824104685,
+    "wof:lastmodified":1466423221,
+    "wof:name":"Penny Lane Pub & Restaurant",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.376701,
+    41.2934,
+    -72.376701,
+    41.2934
+],
+  "geometry": {"coordinates":[-72.376701,41.2934],"type":"Point"}
+}

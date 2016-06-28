@@ -1,0 +1,75 @@
+{
+  "id": 823782667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.991432,41.589375,-72.991432,41.589375",
+    "geom:latitude":41.589375,
+    "geom:longitude":-72.991432,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"392 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 2162",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RCESnvJ2GiJ7QX7SINfBf_41.589375_-72.991432@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446161,
+    "wof:geomhash":"c660d6a98c2696a209178544ad687fa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823782667
+        }
+    ],
+    "wof:id":823782667,
+    "wof:lastmodified":1466425044,
+    "wof:name":"Fran's Automotive",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.991432,
+    41.589375,
+    -72.991432,
+    41.589375
+],
+  "geometry": {"coordinates":[-72.991432,41.589375],"type":"Point"}
+}

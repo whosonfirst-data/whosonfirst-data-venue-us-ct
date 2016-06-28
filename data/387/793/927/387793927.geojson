@@ -2,13 +2,14 @@
   "id": 387793927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.47901,41.160484,-73.47901,41.160484",
     "geom:latitude":41.160484,
     "geom:longitude":-73.47901,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"425 Brushy Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":387793927,
-    "wof:lastmodified":1449058207,
+    "wof:lastmodified":1466421283,
     "wof:name":"Underhill Peter K & Assoc LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.47901,41.160484,-73.47901,41.160484],
+  "bbox": [
+    -73.47901,
+    41.160484,
+    -73.47901,
+    41.160484
+],
   "geometry": {"coordinates":[-73.47901,41.160484],"type":"Point"}
 }

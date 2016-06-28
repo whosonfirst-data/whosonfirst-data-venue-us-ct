@@ -1,0 +1,80 @@
+{
+  "id": 824072543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.005366,41.263581,-73.005366,41.263581",
+    "geom:latitude":41.263581,
+    "geom:longitude":-73.005366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"321 Boston Post Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 795 5065",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "style",
+        "family"
+    ],
+    "sg:website":"http://www.chipsrest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W9r19kMxkMCJilf5n0xPB_41.263136_-73.006033@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453683,
+    "wof:geomhash":"95c32dec9dbb9e91d78ef490a952994a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824072543
+        }
+    ],
+    "wof:id":824072543,
+    "wof:lastmodified":1466422448,
+    "wof:name":"Chips",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family"
+    ]
+},
+  "bbox": [
+    -73.005366,
+    41.263581,
+    -73.005366,
+    41.263581
+],
+  "geometry": {"coordinates":[-73.005366,41.263581],"type":"Point"}
+}

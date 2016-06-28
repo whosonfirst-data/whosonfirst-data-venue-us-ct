@@ -1,0 +1,73 @@
+{
+  "id": 823532861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.609525,41.320866,-72.609525,41.320866",
+    "geom:latitude":41.320866,
+    "geom:longitude":-72.609525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"560 Durham Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 624 5109",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mlWVs7zOJta9sjoNh4xa8_41.320866_-72.609525@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440309,
+    "wof:geomhash":"acc6b889e3d932d50aa217ffdafb6d8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823532861
+        }
+    ],
+    "wof:id":823532861,
+    "wof:lastmodified":1466422275,
+    "wof:name":"Nursing Service Bureau Inc",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -72.609525,
+    41.320866,
+    -72.609525,
+    41.320866
+],
+  "geometry": {"coordinates":[-72.609525,41.320866],"type":"Point"}
+}

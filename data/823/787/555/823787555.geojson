@@ -1,0 +1,79 @@
+{
+  "id": 823787555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679756,41.770169,-72.679756,41.770169",
+    "geom:latitude":41.770169,
+    "geom:longitude":-72.679756,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 High St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 240 4306",
+    "sg:postcode":"06103",
+    "sg:province":"CT",
+    "sg:tags":[
+        "us",
+        "customs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866871,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5noqpbg5wL495DzD6dgFeq_41.770169_-72.679756@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446336,
+    "wof:geomhash":"f4dbcff1fdd429797d02aaa392a2dbda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85866871,
+            "region_id":85688629,
+            "venue_id":823787555
+        }
+    ],
+    "wof:id":823787555,
+    "wof:lastmodified":1466424901,
+    "wof:name":"Service Port-Hartford",
+    "wof:parent_id":85866871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "us",
+        "customs"
+    ]
+},
+  "bbox": [
+    -72.679756,
+    41.770169,
+    -72.679756,
+    41.770169
+],
+  "geometry": {"coordinates":[-72.679756,41.770169],"type":"Point"}
+}

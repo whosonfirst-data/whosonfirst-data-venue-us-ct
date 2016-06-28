@@ -1,0 +1,82 @@
+{
+  "id": 824072305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.523842,41.045507,-73.523842,41.045507",
+    "geom:latitude":41.045507,
+    "geom:longitude":-73.523842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"417 Shippan Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 0400",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "used",
+        "leasing",
+        "furniture"
+    ],
+    "sg:website":"http://www.cort.com/furniture",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bZFIMjiA3USRyfkd7ScXJ_41.045074_-73.524095@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453672,
+    "wof:geomhash":"e88e9e75e0afd8d99f4a001128f1da8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":824072305
+        }
+    ],
+    "wof:id":824072305,
+    "wof:lastmodified":1466422655,
+    "wof:name":"CORT Furniture Rental",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "leasing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -73.523842,
+    41.045507,
+    -73.523842,
+    41.045507
+],
+  "geometry": {"coordinates":[-73.523842,41.045507],"type":"Point"}
+}

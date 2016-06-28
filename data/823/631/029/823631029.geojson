@@ -1,0 +1,83 @@
+{
+  "id": 823631029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.029366,41.225171,-73.029366,41.225171",
+    "geom:latitude":41.225171,
+    "geom:longitude":-73.029366,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"575 New Haven Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 882 9453",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85819849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6760WfQosBSHoZKGMhZyve_41.225171_-73.029366@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442650,
+    "wof:geomhash":"a6abaed1926e3158c28962b13ccf537c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823631029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823631029
+        }
+    ],
+    "wof:id":823631029,
+    "wof:lastmodified":1466423737,
+    "wof:name":"Wild Expressions A Florist",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.029366,
+    41.225171,
+    -73.029366,
+    41.225171
+],
+  "geometry": {"coordinates":[-73.029366,41.225171],"type":"Point"}
+}

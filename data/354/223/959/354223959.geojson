@@ -2,13 +2,14 @@
   "id": 354223959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500347,41.145466,-73.500347,41.145466",
     "geom:latitude":41.145466,
     "geom:longitude":-73.500347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"282 Elm St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354223959,
-    "wof:lastmodified":1449066055,
+    "wof:lastmodified":1466421136,
     "wof:name":"A&P Wine and Spirits Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.500347,41.145466,-73.500347,41.145466],
+  "bbox": [
+    -73.500347,
+    41.145466,
+    -73.500347,
+    41.145466
+],
   "geometry": {"coordinates":[-73.500347,41.145466],"type":"Point"}
 }

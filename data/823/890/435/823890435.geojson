@@ -1,0 +1,73 @@
+{
+  "id": 823890435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.901997,41.98005,-71.901997,41.98005",
+    "geom:latitude":41.98005,
+    "geom:longitude":-71.901997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Main St",
+    "sg:city":"North Grosvenordale",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 923 9917",
+    "sg:postcode":"06255",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "gift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UwGwOSGvJk11XFjOeJk9n_41.980050_-71.901997@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449221,
+    "wof:geomhash":"37455e46e509bfe343bbb8b4bb51112e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823890435
+        }
+    ],
+    "wof:id":823890435,
+    "wof:lastmodified":1466425966,
+    "wof:name":"Garden of Eden",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "gift"
+    ]
+},
+  "bbox": [
+    -71.901997,
+    41.98005,
+    -71.901997,
+    41.98005
+],
+  "geometry": {"coordinates":[-71.90199699999999,41.98005],"type":"Point"}
+}

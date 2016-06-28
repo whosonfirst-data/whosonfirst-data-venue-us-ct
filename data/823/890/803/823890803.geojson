@@ -1,0 +1,71 @@
+{
+  "id": 823890803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.922391,41.985296,-71.922391,41.985296",
+    "geom:latitude":41.985296,
+    "geom:longitude":-71.922391,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Fabyan Rd",
+    "sg:city":"North Grosvenordale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06255",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ooLDgBzVF4Jgxc1TDMppZ_41.985296_-71.922391@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449228,
+    "wof:geomhash":"ca59ac998c34d51e5d9f5d7931537857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823890803
+        }
+    ],
+    "wof:id":823890803,
+    "wof:lastmodified":1466425976,
+    "wof:name":"D&L Car Wash & Laundromat",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -71.922391,
+    41.985296,
+    -71.922391,
+    41.985296
+],
+  "geometry": {"coordinates":[-71.922391,41.985296],"type":"Point"}
+}

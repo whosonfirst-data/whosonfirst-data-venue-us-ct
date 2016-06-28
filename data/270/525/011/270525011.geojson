@@ -2,13 +2,14 @@
   "id": 270525011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.659227,41.005329,-73.659227,41.005329",
     "geom:latitude":41.005329,
     "geom:longitude":-73.659227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":270525011,
-    "wof:lastmodified":1449010545,
+    "wof:lastmodified":1466421103,
     "wof:name":"Port Chester Beer Distributors",
     "wof:parent_id":85808713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "soda"
     ]
 },
-  "bbox": [-73.659227,41.005329,-73.659227,41.005329],
+  "bbox": [
+    -73.659227,
+    41.005329,
+    -73.659227,
+    41.005329
+],
   "geometry": {"coordinates":[-73.659227,41.005329],"type":"Point"}
 }

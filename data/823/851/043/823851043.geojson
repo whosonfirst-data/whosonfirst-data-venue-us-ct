@@ -1,0 +1,71 @@
+{
+  "id": 823851043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67633,41.639084,-72.67633,41.639084",
+    "geom:latitude":41.639084,
+    "geom:longitude":-72.67633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1084 Cromwell Ave",
+    "sg:city":"Rocky Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06067",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f502rBmnzNrDxcsi87hmi_41.639084_-72.676330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448250,
+    "wof:geomhash":"8577e296684527a5544d83e147fb1141",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":823851043
+        }
+    ],
+    "wof:id":823851043,
+    "wof:lastmodified":1466425502,
+    "wof:name":"Medical Imaging Center",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.67633,
+    41.639084,
+    -72.67633,
+    41.639084
+],
+  "geometry": {"coordinates":[-72.67632999999999,41.639084],"type":"Point"}
+}

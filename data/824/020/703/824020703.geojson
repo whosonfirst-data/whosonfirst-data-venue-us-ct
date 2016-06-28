@@ -1,0 +1,73 @@
+{
+  "id": 824020703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173475,41.297875,-73.173475,41.297875",
+    "geom:latitude":41.297875,
+    "geom:longitude":-73.173475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Windsor Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 7137",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u0oTXCbF7e7n2dhuiG8qU_41.297875_-73.173475@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452441,
+    "wof:geomhash":"90568426c883be6939ab6edb28a6b676",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824020703
+        }
+    ],
+    "wof:id":824020703,
+    "wof:lastmodified":1466421580,
+    "wof:name":"Borona Electric",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.173475,
+    41.297875,
+    -73.173475,
+    41.297875
+],
+  "geometry": {"coordinates":[-73.173475,41.297875],"type":"Point"}
+}

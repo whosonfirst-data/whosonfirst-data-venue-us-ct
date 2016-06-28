@@ -1,0 +1,73 @@
+{
+  "id": 823812989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203985,41.528438,-73.203985,41.528438",
+    "geom:latitude":41.528438,
+    "geom:longitude":-73.203985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"660 Main St S",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x5vzGUpZJ0zgmtlUJ17cv_41.528438_-73.203985@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447094,
+    "wof:geomhash":"79ca81c88785da56a800d1f54280cab3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823812989
+        }
+    ],
+    "wof:id":823812989,
+    "wof:lastmodified":1466425287,
+    "wof:name":"Villlage Clrs & Something More",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -73.203985,
+    41.528438,
+    -73.203985,
+    41.528438
+],
+  "geometry": {"coordinates":[-73.203985,41.528438],"type":"Point"}
+}

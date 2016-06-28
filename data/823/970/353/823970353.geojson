@@ -1,0 +1,71 @@
+{
+  "id": 823970353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.288046,41.389303,-73.288046,41.389303",
+    "geom:latitude":41.389303,
+    "geom:longitude":-73.288046,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V4yqCj3uHSG5IraRSND19_41.389303_-73.288046@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451264,
+    "wof:geomhash":"063d7457559f5139646734ca6150df21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823970353
+        }
+    ],
+    "wof:id":823970353,
+    "wof:lastmodified":1466426646,
+    "wof:name":"T C Cycle",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -73.288046,
+    41.389303,
+    -73.288046,
+    41.389303
+],
+  "geometry": {"coordinates":[-73.28804599999999,41.389303],"type":"Point"}
+}

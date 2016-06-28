@@ -1,0 +1,82 @@
+{
+  "id": 824074123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627554,41.931244,-72.627554,41.931244",
+    "geom:latitude":41.931244,
+    "geom:longitude":-72.627554,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Main St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/windsor-locks/144288-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 627 0754",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E6KE37LPnQy5ZXfT2BqK5_41.931244_-72.627554@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453721,
+    "wof:geomhash":"0e0c4c29343544bda3148f5d639a4e8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":824074123
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824074123
+        }
+    ],
+    "wof:id":824074123,
+    "wof:lastmodified":1466422350,
+    "wof:name":"Subway",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.627554,
+    41.931244,
+    -72.627554,
+    41.931244
+],
+  "geometry": {"coordinates":[-72.627554,41.931244],"type":"Point"}
+}

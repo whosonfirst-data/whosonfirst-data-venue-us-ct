@@ -1,0 +1,82 @@
+{
+  "id": 824079937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.258961,41.141838,-73.258961,41.141838",
+    "geom:latitude":41.141838,
+    "geom:longitude":-73.258961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Miller St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Wine Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/fairfield/279615-55-wine-bar--restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 256 0099",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33H7ytF8xknCczSfE7GOLD_41.141838_-73.258961@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453852,
+    "wof:geomhash":"0cf13e2b9c7d42d43c229f1ae047547a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824079937
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824079937
+        }
+    ],
+    "wof:id":824079937,
+    "wof:lastmodified":1466422610,
+    "wof:name":"55 Wine Bar & Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.258961,
+    41.141838,
+    -73.258961,
+    41.141838
+],
+  "geometry": {"coordinates":[-73.258961,41.141838],"type":"Point"}
+}

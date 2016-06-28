@@ -1,0 +1,85 @@
+{
+  "id": 823634251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.619059,41.798763,-72.619059,41.798763",
+    "geom:latitude":41.798763,
+    "geom:longitude":-72.619059,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"382 Ellington Rd",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 7444",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zSKr6hA2viaHv7KF9tyGE_41.798763_-72.619059@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442717,
+    "wof:geomhash":"50564dfc813b7c7b9071613eeeec2348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823634251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823634251
+        }
+    ],
+    "wof:id":823634251,
+    "wof:lastmodified":1466423640,
+    "wof:name":"Beverage Outlet Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -72.619059,
+    41.798763,
+    -72.619059,
+    41.798763
+],
+  "geometry": {"coordinates":[-72.61905899999999,41.798763],"type":"Point"}
+}

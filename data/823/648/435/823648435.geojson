@@ -1,0 +1,75 @@
+{
+  "id": 823648435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.481613,41.464785,-73.481613,41.464785",
+    "geom:latitude":41.464785,
+    "geom:longitude":-73.481613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Sawmill Rd",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 746 4112",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85806093,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YuAgCDiLE0lQ46hGR3EBn_41.464785_-73.481613@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443050,
+    "wof:geomhash":"333c2ecf3b49af1111c985de902eb18d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85806093,
+            "region_id":85688629,
+            "venue_id":823648435
+        }
+    ],
+    "wof:id":823648435,
+    "wof:lastmodified":1466423827,
+    "wof:name":"New Fairfield Auto Body",
+    "wof:parent_id":85806093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.481613,
+    41.464785,
+    -73.481613,
+    41.464785
+],
+  "geometry": {"coordinates":[-73.481613,41.464785],"type":"Point"}
+}

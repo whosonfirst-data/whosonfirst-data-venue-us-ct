@@ -1,0 +1,73 @@
+{
+  "id": 823499237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812577,41.476914,-72.812577,41.476914",
+    "geom:latitude":41.476914,
+    "geom:longitude":-72.812577,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"748 N Colony Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 949 9138",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ALbODoc2pC7C33MaLUSbq_41.476914_-72.812577@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439557,
+    "wof:geomhash":"9736ca6d5d33a086f0cde98170f52cba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823499237
+        }
+    ],
+    "wof:id":823499237,
+    "wof:lastmodified":1466421666,
+    "wof:name":"Quality Auto Body Inc",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.812577,
+    41.476914,
+    -72.812577,
+    41.476914
+],
+  "geometry": {"coordinates":[-72.812577,41.476914],"type":"Point"}
+}

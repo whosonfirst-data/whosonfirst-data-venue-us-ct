@@ -1,0 +1,87 @@
+{
+  "id": 824110625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000467,41.575392,-73.000467,41.575392",
+    "geom:latitude":41.575392,
+    "geom:longitude":-73.000467,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 651 7010",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bee",
+        "termite",
+        "removal"
+    ],
+    "sg:website":"http://www.envirocarepestcontrol.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831301,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GnW1dBgh0xaohscY8OF1U_41.575392_-73.000467@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454565,
+    "wof:geomhash":"ce55517baf57011dce108fc604a1ad5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85831301,
+            "region_id":85688629,
+            "venue_id":824110625
+        }
+    ],
+    "wof:id":824110625,
+    "wof:lastmodified":1466423130,
+    "wof:name":"Envirocare Pest Control LLC",
+    "wof:parent_id":85831301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bee",
+        "termite",
+        "removal"
+    ]
+},
+  "bbox": [
+    -73.000467,
+    41.575392,
+    -73.000467,
+    41.575392
+],
+  "geometry": {"coordinates":[-73.000467,41.575392],"type":"Point"}
+}

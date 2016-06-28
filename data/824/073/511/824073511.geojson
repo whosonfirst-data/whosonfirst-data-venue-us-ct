@@ -1,0 +1,97 @@
+{
+  "id": 824073511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977957,41.877414,-72.977957,41.877414",
+    "geom:latitude":41.877414,
+    "geom:longitude":-72.977957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"495 Main St",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-hartford/129958-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 379 7002",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843245,
+        102191575,
+        404496029,
+        85633793,
+        85931237,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vsbgucv6XceF0CSmMQmi4_41.877414_-72.977957@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453706,
+    "wof:geomhash":"d15c644dfd8c052ee88e1c77a9d4b303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496029,
+            "locality_id":85931237,
+            "neighbourhood_id":85843245,
+            "region_id":85688629,
+            "venue_id":824073511
+        }
+    ],
+    "wof:id":824073511,
+    "wof:lastmodified":1466422656,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85843245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.977957,
+    41.877414,
+    -72.977957,
+    41.877414
+],
+  "geometry": {"coordinates":[-72.977957,41.877414],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823966661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.529868,41.075295,-73.529868,41.075295",
+    "geom:latitude":41.075295,
+    "geom:longitude":-73.529868,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Alton Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 249 1538",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gW9bDz0qPWfG43TehVQQp_41.075295_-73.529868@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451187,
+    "wof:geomhash":"94e8aa3620b67ed76640bd4e791ae6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":823966661
+        }
+    ],
+    "wof:id":823966661,
+    "wof:lastmodified":1466426569,
+    "wof:name":"Empire Consulting LLC",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -73.529868,
+    41.075295,
+    -73.529868,
+    41.075295
+],
+  "geometry": {"coordinates":[-73.52986799999999,41.075295],"type":"Point"}
+}

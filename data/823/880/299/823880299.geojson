@@ -1,0 +1,71 @@
+{
+  "id": 823880299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.418482,41.549701,-73.418482,41.549701",
+    "geom:latitude":41.549701,
+    "geom:longitude":-73.418482,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"184 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ccAGagc3IU4xg91d14BPH_41.549701_-73.418482@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448976,
+    "wof:geomhash":"cd8422a5d340f60145613e77dafa6226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":823880299
+        }
+    ],
+    "wof:id":823880299,
+    "wof:lastmodified":1466425824,
+    "wof:name":"Route 7 Auto Body LLC",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -73.418482,
+    41.549701,
+    -73.418482,
+    41.549701
+],
+  "geometry": {"coordinates":[-73.418482,41.549701],"type":"Point"}
+}

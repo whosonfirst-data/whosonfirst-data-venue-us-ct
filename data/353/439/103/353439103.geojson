@@ -2,13 +2,14 @@
   "id": 353439103,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488713,41.134822,-73.488713,41.134822",
     "geom:latitude":41.134822,
     "geom:longitude":-73.488713,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"344 South Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353439103,
-    "wof:lastmodified":1449018974,
+    "wof:lastmodified":1466421131,
     "wof:name":"Douglas Newton & Assoc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "program"
     ]
 },
-  "bbox": [-73.488713,41.134822,-73.488713,41.134822],
+  "bbox": [
+    -73.488713,
+    41.134822,
+    -73.488713,
+    41.134822
+],
   "geometry": {"coordinates":[-73.488713,41.134822],"type":"Point"}
 }

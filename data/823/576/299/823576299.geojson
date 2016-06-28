@@ -1,0 +1,71 @@
+{
+  "id": 823576299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.003763,41.708257,-73.003763,41.708257",
+    "geom:latitude":41.708257,
+    "geom:longitude":-73.003763,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"305 E Plymouth Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 596 8190",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dbhUNEGTo7j6HaBMBAoYo_41.708257_-73.003763@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441328,
+    "wof:geomhash":"b870ffc7a71bf95f2bafad0567507c4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823576299
+        }
+    ],
+    "wof:id":823576299,
+    "wof:lastmodified":1466422951,
+    "wof:name":"Waterbury Upholstery",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -73.003763,
+    41.708257,
+    -73.003763,
+    41.708257
+],
+  "geometry": {"coordinates":[-73.00376300000001,41.708257],"type":"Point"}
+}

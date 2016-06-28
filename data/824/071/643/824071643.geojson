@@ -1,0 +1,82 @@
+{
+  "id": 824071643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.496362,41.28062,-73.496362,41.28062",
+    "geom:latitude":41.28062,
+    "geom:longitude":-73.496362,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Governor St",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 438 7446",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sheet",
+        "school",
+        "music"
+    ],
+    "sg:website":"http://www.ridgefieldmusic.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852297,
+        102191575,
+        404495963,
+        85633793,
+        85930977,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aadZ17n4BzVWoOeeAonzE_41.280821_-73.495607@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453658,
+    "wof:geomhash":"1161f8b5ed748d1c610952247556faf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "locality_id":85930977,
+            "neighbourhood_id":85852297,
+            "region_id":85688629,
+            "venue_id":824071643
+        }
+    ],
+    "wof:id":824071643,
+    "wof:lastmodified":1466422396,
+    "wof:name":"Ridgefield Music",
+    "wof:parent_id":85852297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheet",
+        "school",
+        "music"
+    ]
+},
+  "bbox": [
+    -73.496362,
+    41.28062,
+    -73.496362,
+    41.28062
+],
+  "geometry": {"coordinates":[-73.496362,41.28062],"type":"Point"}
+}

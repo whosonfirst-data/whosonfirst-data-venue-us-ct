@@ -1,0 +1,73 @@
+{
+  "id": 823940093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101395,41.824257,-73.101395,41.824257",
+    "geom:latitude":41.824257,
+    "geom:longitude":-73.101395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"245 Alvord Park Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kr1rxHWA5ICvccHH6EJec_41.824257_-73.101395@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450525,
+    "wof:geomhash":"9e36c63d2ad6e27f42da72594bef85c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823940093
+        }
+    ],
+    "wof:id":823940093,
+    "wof:lastmodified":1466426350,
+    "wof:name":"Open Mri Northwest Conneticut",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.101395,
+    41.824257,
+    -73.101395,
+    41.824257
+],
+  "geometry": {"coordinates":[-73.101395,41.824257],"type":"Point"}
+}

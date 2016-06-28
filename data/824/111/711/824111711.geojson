@@ -1,0 +1,82 @@
+{
+  "id": 824111711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.066319,41.665647,-73.066319,41.665647",
+    "geom:latitude":41.665647,
+    "geom:longitude":-73.066319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"415 Prospect St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 0403",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zvC3qXXMbDo9VpF2FmlDq_41.665647_-73.066319@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454586,
+    "wof:geomhash":"f0f14f36c22ba7b1cb5f44e7b627e22a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824111711
+        }
+    ],
+    "wof:id":824111711,
+    "wof:lastmodified":1466423249,
+    "wof:name":"Suburban Sanitation",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ]
+},
+  "bbox": [
+    -73.066319,
+    41.665647,
+    -73.066319,
+    41.665647
+],
+  "geometry": {"coordinates":[-73.06631899999999,41.665647],"type":"Point"}
+}

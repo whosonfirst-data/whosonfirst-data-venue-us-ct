@@ -1,0 +1,71 @@
+{
+  "id": 824048125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.408689,41.583579,-73.408689,41.583579",
+    "geom:latitude":41.583579,
+    "geom:longitude":-73.408689,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Maple St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WRNZg3CRsolOVb1GIIQyo_41.583579_-73.408689@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453122,
+    "wof:geomhash":"bf6300f2be1f160c396e904353ef568d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":824048125
+        }
+    ],
+    "wof:id":824048125,
+    "wof:lastmodified":1466421726,
+    "wof:name":"Roberts Maintenance Handy Man",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.408689,
+    41.583579,
+    -73.408689,
+    41.583579
+],
+  "geometry": {"coordinates":[-73.408689,41.583579],"type":"Point"}
+}

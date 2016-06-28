@@ -1,0 +1,71 @@
+{
+  "id": 823992105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.891156,41.442263,-72.891156,41.442263",
+    "geom:latitude":41.442263,
+    "geom:longitude":-72.891156,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"775 Tuttle Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 8460",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_352E5zl9O67wbqvUGypLXY_41.442263_-72.891156@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451768,
+    "wof:geomhash":"5368c90766ada942d1c9b9ceb01fe81b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823992105
+        }
+    ],
+    "wof:id":823992105,
+    "wof:lastmodified":1466426725,
+    "wof:name":"Eastern Connection Operating",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -72.891156,
+    41.442263,
+    -72.891156,
+    41.442263
+],
+  "geometry": {"coordinates":[-72.891156,41.442263],"type":"Point"}
+}

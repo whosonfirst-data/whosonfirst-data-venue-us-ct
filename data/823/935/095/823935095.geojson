@@ -1,0 +1,71 @@
+{
+  "id": 823935095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224498,41.34132,-73.224498,41.34132",
+    "geom:latitude":41.34132,
+    "geom:longitude":-73.224498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"670 Elm St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pGftqcucxgIHi6rsTA7r2_41.341320_-73.224498@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450396,
+    "wof:geomhash":"d195b3acddc885d126606e832f3009ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823935095
+        }
+    ],
+    "wof:id":823935095,
+    "wof:lastmodified":1466426260,
+    "wof:name":"Kennedy Center",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.224498,
+    41.34132,
+    -73.224498,
+    41.34132
+],
+  "geometry": {"coordinates":[-73.224498,41.34132],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824105237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376602,41.295898,-72.376602,41.295898",
+    "geom:latitude":41.295898,
+    "geom:longitude":-72.376602,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Main St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 3564",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KTIj7FGYCuRyHi52NWmrO_41.295898_-72.376602@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454450,
+    "wof:geomhash":"ffc533b48c6e437077373a6a092299cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105237
+        }
+    ],
+    "wof:id":824105237,
+    "wof:lastmodified":1466423189,
+    "wof:name":"Gallo David S MD",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -72.376602,
+    41.295898,
+    -72.376602,
+    41.295898
+],
+  "geometry": {"coordinates":[-72.37660200000001,41.295898],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823655735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.921024,41.356313,-72.921024,41.356313",
+    "geom:latitude":41.356313,
+    "geom:longitude":-72.921024,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"365 Mather St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 1098",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mVdDD0K9VODFAUcQEMTp6_41.356313_-72.921024@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443213,
+    "wof:geomhash":"c30b4048c4633dd1fea0f983be0c8fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823655735
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823655735
+        }
+    ],
+    "wof:id":823655735,
+    "wof:lastmodified":1466423827,
+    "wof:name":"Hamden Petroleum Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.921024,
+    41.356313,
+    -72.921024,
+    41.356313
+],
+  "geometry": {"coordinates":[-72.921024,41.356313],"type":"Point"}
+}

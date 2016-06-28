@@ -1,0 +1,67 @@
+{
+  "id": 823541925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43079,41.192344,-73.43079,41.192344",
+    "geom:latitude":41.192344,
+    "geom:longitude":-73.43079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 Old Ridgefield Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 5561",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:website":"www.fleet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821519,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUuSKXRWdCoTGthp6wUT7_41.192344_-73.430790@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440507,
+    "wof:geomhash":"d7297f171411bf8dd81bd18c73030992",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85821519,
+            "region_id":85688629,
+            "venue_id":823541925
+        }
+    ],
+    "wof:id":823541925,
+    "wof:lastmodified":1466422483,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85821519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.43079,
+    41.192344,
+    -73.43079,
+    41.192344
+],
+  "geometry": {"coordinates":[-73.43079,41.192344],"type":"Point"}
+}

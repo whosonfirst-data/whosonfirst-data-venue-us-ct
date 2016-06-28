@@ -1,0 +1,82 @@
+{
+  "id": 824081845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.880159,41.286678,-72.880159,41.286678",
+    "geom:latitude":41.286678,
+    "geom:longitude":-72.880159,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Frontage Rd",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-haven/169442-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 469 9459",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882013,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NrP2LwX1bJCJizxOhqb7z_41.286645_-72.879516@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453892,
+    "wof:geomhash":"9dd8520c217802339406b8aa36d70c0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85882013,
+            "region_id":85688629,
+            "venue_id":824081845
+        }
+    ],
+    "wof:id":824081845,
+    "wof:lastmodified":1466422671,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85882013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.880159,
+    41.286678,
+    -72.880159,
+    41.286678
+],
+  "geometry": {"coordinates":[-72.88015900000001,41.286678],"type":"Point"}
+}

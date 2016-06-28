@@ -1,0 +1,73 @@
+{
+  "id": 823793487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.289242,41.364992,-73.289242,41.364992",
+    "geom:latitude":41.364992,
+    "geom:longitude":-73.289242,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Platts Hill Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 9700",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "industry",
+        "aerospace"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qNXqi1UrOAvN3Lijqhbv0_41.364992_-73.289242@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446531,
+    "wof:geomhash":"87f1b7f1c079dd37358cf7bd7981604c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823793487
+        }
+    ],
+    "wof:id":823793487,
+    "wof:lastmodified":1466425105,
+    "wof:name":"Robert Fulton Co",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "aerospace"
+    ]
+},
+  "bbox": [
+    -73.289242,
+    41.364992,
+    -73.289242,
+    41.364992
+],
+  "geometry": {"coordinates":[-73.289242,41.364992],"type":"Point"}
+}

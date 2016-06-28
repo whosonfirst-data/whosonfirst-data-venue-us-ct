@@ -1,0 +1,73 @@
+{
+  "id": 823863243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914243,41.508338,-72.914243,41.508338",
+    "geom:latitude":41.508338,
+    "geom:longitude":-72.914243,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"530 W Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OVKbXnb4Gev57ZbQQfz5h_41.508338_-72.914243@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448578,
+    "wof:geomhash":"dd13d125f306db6634a23d4822c03743",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":823863243
+        }
+    ],
+    "wof:id":823863243,
+    "wof:lastmodified":1466425658,
+    "wof:name":"Strollo Towing Service",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "towing"
+    ]
+},
+  "bbox": [
+    -72.914243,
+    41.508338,
+    -72.914243,
+    41.508338
+],
+  "geometry": {"coordinates":[-72.914243,41.508338],"type":"Point"}
+}

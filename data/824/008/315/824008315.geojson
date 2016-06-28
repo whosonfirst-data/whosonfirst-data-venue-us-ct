@@ -1,0 +1,71 @@
+{
+  "id": 824008315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.265504,41.330377,-73.265504,41.330377",
+    "geom:latitude":41.330377,
+    "geom:longitude":-73.265504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"568 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 3449",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10bsK9FBRjq1vKAAkKKd8U_41.330377_-73.265504@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452163,
+    "wof:geomhash":"da2c3af37a9e2a3701af1a68a92d9dee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824008315
+        }
+    ],
+    "wof:id":824008315,
+    "wof:lastmodified":1466421235,
+    "wof:name":"New Colony Diner",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -73.265504,
+    41.330377,
+    -73.265504,
+    41.330377
+],
+  "geometry": {"coordinates":[-73.26550400000001,41.330377],"type":"Point"}
+}

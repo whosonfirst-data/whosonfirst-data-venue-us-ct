@@ -1,0 +1,77 @@
+{
+  "id": 823847871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.446109,41.406203,-73.446109,41.406203",
+    "geom:latitude":41.406203,
+    "geom:longitude":-73.446109,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Hospital Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7faFwgUCPYCWB2x4dVWjkN_41.406203_-73.446109@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448166,
+    "wof:geomhash":"cb0bf41d5f12e9df492b60e512b3220a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823847871
+        }
+    ],
+    "wof:id":823847871,
+    "wof:lastmodified":1466425587,
+    "wof:name":"Danbury Hos Ment Health Ctr",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.446109,
+    41.406203,
+    -73.446109,
+    41.406203
+],
+  "geometry": {"coordinates":[-73.44610900000001,41.406203],"type":"Point"}
+}

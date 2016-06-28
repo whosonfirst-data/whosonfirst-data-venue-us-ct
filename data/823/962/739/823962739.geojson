@@ -1,0 +1,87 @@
+{
+  "id": 823962739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.934426,41.343549,-72.934426,41.343549",
+    "geom:latitude":41.343549,
+    "geom:longitude":-72.934426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1105 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 782 0883",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72UwEiHmBvSV1xewuqTUsq_41.343549_-72.934426@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451086,
+    "wof:geomhash":"567e4d320ed01372b60843512d46731f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823962739
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823962739
+        }
+    ],
+    "wof:id":823962739,
+    "wof:lastmodified":1466426631,
+    "wof:name":"Europa Motor Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "automobile",
+        "repairing",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.934426,
+    41.343549,
+    -72.934426,
+    41.343549
+],
+  "geometry": {"coordinates":[-72.934426,41.343549],"type":"Point"}
+}

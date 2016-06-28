@@ -1,0 +1,87 @@
+{
+  "id": 823774215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.759576,41.650223,-72.759576,41.650223",
+    "geom:latitude":41.650223,
+    "geom:longitude":-72.759576,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Dunlay St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35pSKEkHVDsWtfP605L1qG_41.650223_-72.759576@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445934,
+    "wof:geomhash":"e9b5f287c69c964976238c2d9b33377a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823774215
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823774215
+        }
+    ],
+    "wof:id":823774215,
+    "wof:lastmodified":1466424896,
+    "wof:name":"Hair We Go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.759576,
+    41.650223,
+    -72.759576,
+    41.650223
+],
+  "geometry": {"coordinates":[-72.759576,41.650223],"type":"Point"}
+}

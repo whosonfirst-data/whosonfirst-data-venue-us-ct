@@ -1,0 +1,87 @@
+{
+  "id": 824121083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.51075,41.068619,-73.51075,41.068619",
+    "geom:latitude":41.068619,
+    "geom:longitude":-73.51075,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Lenox Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 653 4689",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lubricating",
+        "oil",
+        "lubricant"
+    ],
+    "sg:website":"http://www.liquifix.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aAA2jdiylfStFAxYF8iSf_41.068619_-73.510750@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454785,
+    "wof:geomhash":"a5bf0b7374ff263054080ae1dcae4bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824121083
+        }
+    ],
+    "wof:id":824121083,
+    "wof:lastmodified":1466423315,
+    "wof:name":"Liquifix",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating",
+        "oil",
+        "lubricant"
+    ]
+},
+  "bbox": [
+    -73.51075,
+    41.068619,
+    -73.51075,
+    41.068619
+],
+  "geometry": {"coordinates":[-73.51075,41.068619],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823700649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.460724,41.161637,-73.460724,41.161637",
+    "geom:latitude":41.161637,
+    "geom:longitude":-73.460724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Kings Ln",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 761 9552",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85848785,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aZ5AI7vz6LVD0eK4DB5xt_41.161637_-73.460724@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444251,
+    "wof:geomhash":"1091feb951d42832b3df0788ca309cf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85848785,
+            "region_id":85688629,
+            "venue_id":823700649
+        }
+    ],
+    "wof:id":823700649,
+    "wof:lastmodified":1466424265,
+    "wof:name":"Harbor Property Development 2",
+    "wof:parent_id":85848785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.460724,
+    41.161637,
+    -73.460724,
+    41.161637
+],
+  "geometry": {"coordinates":[-73.460724,41.161637],"type":"Point"}
+}

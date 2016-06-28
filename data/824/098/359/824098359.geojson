@@ -1,0 +1,79 @@
+{
+  "id": 824098359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.195436,41.322951,-72.195436,41.322951",
+    "geom:latitude":41.322951,
+    "geom:longitude":-72.195436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"345 Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 5451",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn"
+    ],
+    "sg:website":"http://www.thenianticinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aWXZRtq1CSSXqpqqHkIxt_41.322951_-72.195436@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454305,
+    "wof:geomhash":"b8ea21fc6aeb02d313858306f694cd6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":824098359
+        }
+    ],
+    "wof:id":824098359,
+    "wof:lastmodified":1466422728,
+    "wof:name":"Niantic Inn",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -72.195436,
+    41.322951,
+    -72.195436,
+    41.322951
+],
+  "geometry": {"coordinates":[-72.195436,41.322951],"type":"Point"}
+}

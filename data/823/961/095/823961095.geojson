@@ -1,0 +1,79 @@
+{
+  "id": 823961095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.626927,41.021511,-73.626927,41.021511",
+    "geom:latitude":41.021511,
+    "geom:longitude":-73.626927,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Railroad Ave",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 861 7800",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a2WsHzXGLp5PAIwwHycWu_41.021511_-73.626927@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451053,
+    "wof:geomhash":"6da2ae1b05e36e3056d99723dd7120c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823961095
+        }
+    ],
+    "wof:id":823961095,
+    "wof:lastmodified":1466426516,
+    "wof:name":"Coffee Tree",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.626927,
+    41.021511,
+    -73.626927,
+    41.021511
+],
+  "geometry": {"coordinates":[-73.62692699999999,41.021511],"type":"Point"}
+}

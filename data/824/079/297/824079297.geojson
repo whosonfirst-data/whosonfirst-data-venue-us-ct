@@ -1,0 +1,88 @@
+{
+  "id": 824079297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.119741,41.799741,-73.119741,41.799741",
+    "geom:latitude":41.799741,
+    "geom:longitude":-73.119741,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 S Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/torrington/222663-99-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 1299",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TvRPV358BoUOe3OeQmBOp_41.799741_-73.119741@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453837,
+    "wof:geomhash":"cf34143a9d4a67e4ca02968e65e5a32d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":824079297
+        }
+    ],
+    "wof:id":824079297,
+    "wof:lastmodified":1466422565,
+    "wof:name":"99 Restaurant",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salad",
+        "burger",
+        "pub",
+        "soup",
+        "american",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -73.119741,
+    41.799741,
+    -73.119741,
+    41.799741
+],
+  "geometry": {"coordinates":[-73.119741,41.799741],"type":"Point"}
+}

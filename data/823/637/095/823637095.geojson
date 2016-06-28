@@ -1,0 +1,77 @@
+{
+  "id": 823637095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.510601,41.60408,-72.510601,41.60408",
+    "geom:latitude":41.60408,
+    "geom:longitude":-72.510601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Hale Rd",
+    "sg:city":"East Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 267 2198",
+    "sg:postcode":"06424",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842475,
+        102191575,
+        404496067,
+        85633793,
+        85931135,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hjiz9XrZjR5tHXN2BImAj_41.604080_-72.510601@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442784,
+    "wof:geomhash":"eb11726eaef8935b21115f788504f1a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496067,
+            "locality_id":85931135,
+            "neighbourhood_id":85842475,
+            "region_id":85688629,
+            "venue_id":823637095
+        }
+    ],
+    "wof:id":823637095,
+    "wof:lastmodified":1466423623,
+    "wof:name":"East Hampton Fire Dept",
+    "wof:parent_id":85842475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.510601,
+    41.60408,
+    -72.510601,
+    41.60408
+],
+  "geometry": {"coordinates":[-72.51060099999999,41.60408],"type":"Point"}
+}

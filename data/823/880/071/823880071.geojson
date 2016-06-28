@@ -1,0 +1,71 @@
+{
+  "id": 823880071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.89959,41.407261,-72.89959,41.407261",
+    "geom:latitude":41.407261,
+    "geom:longitude":-72.89959,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3105 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mortician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uAxL53LSeP2M4Gmg2GuWu_41.407261_-72.899590@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448972,
+    "wof:geomhash":"02bbe3e810c674a5d8a83ed625076ebc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823880071
+        }
+    ],
+    "wof:id":823880071,
+    "wof:lastmodified":1466425934,
+    "wof:name":"Sisk Brothers Funeral Home",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortician"
+    ]
+},
+  "bbox": [
+    -72.89959,
+    41.407261,
+    -72.89959,
+    41.407261
+],
+  "geometry": {"coordinates":[-72.89959,41.407261],"type":"Point"}
+}

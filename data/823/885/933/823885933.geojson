@@ -1,0 +1,78 @@
+{
+  "id": 823885933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.875176,41.507738,-72.875176,41.507738",
+    "geom:latitude":41.507738,
+    "geom:longitude":-72.875176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"351 S Meriden Rd",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 272 3824",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shipper",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826143,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qIwZlnQn2j8kgmnIqGIKL_41.507738_-72.875176@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449103,
+    "wof:geomhash":"e7f2cdc9ba152317c5f4d73e0cbdf4ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826143,
+            "region_id":85688629,
+            "venue_id":823885933
+        }
+    ],
+    "wof:id":823885933,
+    "wof:lastmodified":1466425963,
+    "wof:name":"Hickory Hill Orchards Inc",
+    "wof:parent_id":85826143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.875176,
+    41.507738,
+    -72.875176,
+    41.507738
+],
+  "geometry": {"coordinates":[-72.875176,41.507738],"type":"Point"}
+}

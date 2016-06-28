@@ -1,0 +1,71 @@
+{
+  "id": 823922357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18029,41.348429,-73.18029,41.348429",
+    "geom:latitude":41.348429,
+    "geom:longitude":-73.18029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Valley View Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 2334",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2knmTok8glC53yequyBGk8_41.348429_-73.180290@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450063,
+    "wof:geomhash":"bbb8479b243d1d054d692eb55c798fe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823922357
+        }
+    ],
+    "wof:id":823922357,
+    "wof:lastmodified":1466426174,
+    "wof:name":"ACT Builders",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.18029,
+    41.348429,
+    -73.18029,
+    41.348429
+],
+  "geometry": {"coordinates":[-73.18029,41.348429],"type":"Point"}
+}

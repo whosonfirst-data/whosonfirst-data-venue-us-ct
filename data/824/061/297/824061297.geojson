@@ -1,0 +1,83 @@
+{
+  "id": 824061297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031184,41.225158,-73.031184,41.225158",
+    "geom:latitude":41.225158,
+    "geom:longitude":-73.031184,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"521 New Haven Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 4887",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85819849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BLj8PLmzaznfTsIfyemnn_41.225158_-73.031184@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453418,
+    "wof:geomhash":"a9da889ca6a47a5b8ebe15e399608702",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":824061297
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824061297
+        }
+    ],
+    "wof:id":824061297,
+    "wof:lastmodified":1466422177,
+    "wof:name":"Bakers Bar & Grille Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.031184,
+    41.225158,
+    -73.031184,
+    41.225158
+],
+  "geometry": {"coordinates":[-73.031184,41.225158],"type":"Point"}
+}

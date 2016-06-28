@@ -2,13 +2,14 @@
   "id": 403748353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474771,41.188624,-73.474771,41.188624",
     "geom:latitude":41.188624,
     "geom:longitude":-73.474771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"507 Cheese Spring Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403748353,
-    "wof:lastmodified":1449055620,
+    "wof:lastmodified":1466421093,
     "wof:name":"Tiefenthaler Construction Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.474771,41.188624,-73.474771,41.188624],
+  "bbox": [
+    -73.474771,
+    41.188624,
+    -73.474771,
+    41.188624
+],
   "geometry": {"coordinates":[-73.474771,41.188624],"type":"Point"}
 }

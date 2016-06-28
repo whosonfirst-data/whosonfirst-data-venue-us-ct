@@ -1,0 +1,66 @@
+{
+  "id": 824101589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.469902,41.347599,-72.469902,41.347599",
+    "geom:latitude":41.347599,
+    "geom:longitude":-72.469902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"253 Bushy Hill Rd",
+    "sg:city":"Deep River",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 767 2148",
+    "sg:postcode":"06417",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75a0Eir5RJgyktZ0pBqksp_41.347599_-72.469902@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454374,
+    "wof:geomhash":"c9f1f07a006569c04465b9f74877f307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":824101589
+        }
+    ],
+    "wof:id":824101589,
+    "wof:lastmodified":1466422829,
+    "wof:name":"Bushy Hill Nature Center",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.469902,
+    41.347599,
+    -72.469902,
+    41.347599
+],
+  "geometry": {"coordinates":[-72.469902,41.347599],"type":"Point"}
+}

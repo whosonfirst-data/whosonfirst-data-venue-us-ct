@@ -1,0 +1,75 @@
+{
+  "id": 824055303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.785115,41.675844,-72.785115,41.675844",
+    "geom:latitude":41.675844,
+    "geom:longitude":-72.785115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"305 Washington St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z8cPmzNoheY8pMLxaEfqF_41.675844_-72.785115@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453294,
+    "wof:geomhash":"e5660d29b23f214d8d0061c7a06aa82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":824055303
+        }
+    ],
+    "wof:id":824055303,
+    "wof:lastmodified":1466421984,
+    "wof:name":"Russian Orthodox Parish School",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -72.785115,
+    41.675844,
+    -72.785115,
+    41.675844
+],
+  "geometry": {"coordinates":[-72.785115,41.675844],"type":"Point"}
+}

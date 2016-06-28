@@ -1,0 +1,82 @@
+{
+  "id": 823879583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059334,41.571729,-73.059334,41.571729",
+    "geom:latitude":41.571729,
+    "geom:longitude":-73.059334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 E Aurora St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 757 5757",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "coil",
+        "transformer",
+        "electronic"
+    ],
+    "sg:website":"www.qtran.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eE35IB39opnFFQ7qfqTzA_41.571729_-73.059334@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448960,
+    "wof:geomhash":"91fa6df585c2d2e5323bd462960f22ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823879583
+        }
+    ],
+    "wof:id":823879583,
+    "wof:lastmodified":1466425853,
+    "wof:name":"Quality Transformer Corp",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coil",
+        "transformer",
+        "electronic"
+    ]
+},
+  "bbox": [
+    -73.059334,
+    41.571729,
+    -73.059334,
+    41.571729
+],
+  "geometry": {"coordinates":[-73.05933400000001,41.571729],"type":"Point"}
+}

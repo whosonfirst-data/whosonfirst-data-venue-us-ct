@@ -1,0 +1,73 @@
+{
+  "id": 823820681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.907372,41.912869,-71.907372,41.912869",
+    "geom:latitude":41.912869,
+    "geom:longitude":-71.907372,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Grove St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 963 2029",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eh56ijbEdFCUxvvaMouK5_41.912869_-71.907372@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447313,
+    "wof:geomhash":"d0eb7ad2a6c3786e506ae9cb19c8842d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823820681
+        }
+    ],
+    "wof:id":823820681,
+    "wof:lastmodified":1466425321,
+    "wof:name":"Kwik Mart",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -71.907372,
+    41.912869,
+    -71.907372,
+    41.912869
+],
+  "geometry": {"coordinates":[-71.907372,41.912869],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823471287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809718,41.284308,-72.809718,41.284308",
+    "geom:latitude":41.284308,
+    "geom:longitude":-72.809718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1237 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 0859",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_367sC70bsv1qYU3r4zzQMJ_41.284308_-72.809718@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438860,
+    "wof:geomhash":"6db0e6d097e0114e0514dd76abf9f5d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823471287
+        }
+    ],
+    "wof:id":823471287,
+    "wof:lastmodified":1466421254,
+    "wof:name":"Fred's Barber Shop",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.809718,
+    41.284308,
+    -72.809718,
+    41.284308
+],
+  "geometry": {"coordinates":[-72.809718,41.284308],"type":"Point"}
+}

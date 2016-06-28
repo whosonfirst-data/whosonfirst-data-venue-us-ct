@@ -1,0 +1,71 @@
+{
+  "id": 823605933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.910468,41.923977,-71.910468,41.923977",
+    "geom:latitude":41.923977,
+    "geom:longitude":-71.910468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"182 Providence St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aMe4kQdoNotH6uWw7yEAZ_41.923977_-71.910468@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442045,
+    "wof:geomhash":"3cd99fe87f64843ea8eccfcc6fa09ce5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823605933
+        }
+    ],
+    "wof:id":823605933,
+    "wof:lastmodified":1466423411,
+    "wof:name":"Alex M Beijian DMD",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -71.910468,
+    41.923977,
+    -71.910468,
+    41.923977
+],
+  "geometry": {"coordinates":[-71.91046799999999,41.923977],"type":"Point"}
+}

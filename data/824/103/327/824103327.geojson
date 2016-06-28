@@ -1,0 +1,89 @@
+{
+  "id": 824103327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.765694,41.55196,-72.765694,41.55196",
+    "geom:latitude":41.55196,
+    "geom:longitude":-72.765694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"688 Westfield Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 634 3366",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "course",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.cityofmeriden.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824991,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gvowJ14YVgrIvliKsfHHH_41.551960_-72.765694@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454410,
+    "wof:geomhash":"f68d30595cc3bf97bd335bc8029d0fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85824991,
+            "region_id":85688629,
+            "venue_id":824103327
+        }
+    ],
+    "wof:id":824103327,
+    "wof:lastmodified":1466422972,
+    "wof:name":"Hunter Golf Club",
+    "wof:parent_id":85824991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -72.765694,
+    41.55196,
+    -72.765694,
+    41.55196
+],
+  "geometry": {"coordinates":[-72.765694,41.55196],"type":"Point"}
+}

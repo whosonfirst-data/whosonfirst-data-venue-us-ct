@@ -2,13 +2,14 @@
   "id": 387648915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.485388,41.150842,-73.485388,41.150842",
     "geom:latitude":41.150842,
     "geom:longitude":-73.485388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Urban St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387648915,
-    "wof:lastmodified":1449057137,
+    "wof:lastmodified":1466421103,
     "wof:name":"Ollarg LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.485388,41.150842,-73.485388,41.150842],
+  "bbox": [
+    -73.485388,
+    41.150842,
+    -73.485388,
+    41.150842
+],
   "geometry": {"coordinates":[-73.485388,41.150842],"type":"Point"}
 }

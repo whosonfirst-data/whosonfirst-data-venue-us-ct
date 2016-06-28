@@ -1,0 +1,71 @@
+{
+  "id": 823811799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.346802,41.306339,-73.346802,41.306339",
+    "geom:latitude":41.306339,
+    "geom:longitude":-73.346802,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"186 Black Rock Tpke",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 2520",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cTf9qdiey1TLW8AV0DuVw_41.306339_-73.346802@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447057,
+    "wof:geomhash":"cb82cac0f493c0c2ed3c6770fd26bf89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823811799
+        }
+    ],
+    "wof:id":823811799,
+    "wof:lastmodified":1466425285,
+    "wof:name":"Redding Fire Dept",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.346802,
+    41.306339,
+    -73.346802,
+    41.306339
+],
+  "geometry": {"coordinates":[-73.346802,41.306339],"type":"Point"}
+}

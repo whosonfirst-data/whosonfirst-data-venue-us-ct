@@ -1,0 +1,73 @@
+{
+  "id": 823990313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.07292,41.392455,-73.07292,41.392455",
+    "geom:latitude":41.392455,
+    "geom:longitude":-73.07292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Humphrey St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 9561",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g5n37Cy0UcEQaKTqhy4Fe_41.392455_-73.072920@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451721,
+    "wof:geomhash":"c15fc525a7c1267d4da82ce436158f16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823990313
+        }
+    ],
+    "wof:id":823990313,
+    "wof:lastmodified":1466426702,
+    "wof:name":"Sloss Electrical Contracting",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.07292,
+    41.392455,
+    -73.07292,
+    41.392455
+],
+  "geometry": {"coordinates":[-73.07292,41.392455],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823644439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.439191,41.479714,-73.439191,41.479714",
+    "geom:latitude":41.479714,
+    "geom:longitude":-73.439191,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Skyline Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809225,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jG59MeZWqMBdC9X45Na0I_41.479714_-73.439191@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442955,
+    "wof:geomhash":"8abe22fdc389a098e0146ee956384102",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809225,
+            "region_id":85688629,
+            "venue_id":823644439
+        }
+    ],
+    "wof:id":823644439,
+    "wof:lastmodified":1466423585,
+    "wof:name":"Dt Parking",
+    "wof:parent_id":85809225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.439191,
+    41.479714,
+    -73.439191,
+    41.479714
+],
+  "geometry": {"coordinates":[-73.43919099999999,41.479714],"type":"Point"}
+}

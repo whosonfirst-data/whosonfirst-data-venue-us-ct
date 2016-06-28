@@ -1,0 +1,68 @@
+{
+  "id": 823589501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226413,41.157502,-73.226413,41.157502",
+    "geom:latitude":41.157502,
+    "geom:longitude":-73.226413,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2812 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 8534",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Od2bmzoudqV7JIhaqErQ2_41.157502_-73.226413@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441637,
+    "wof:geomhash":"7ebd3b96bc4234e8a510240d0e4cc185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823589501
+        }
+    ],
+    "wof:id":823589501,
+    "wof:lastmodified":1466423165,
+    "wof:name":"Taqueria Mexicana",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.226413,
+    41.157502,
+    -73.226413,
+    41.157502
+],
+  "geometry": {"coordinates":[-73.22641299999999,41.157502],"type":"Point"}
+}

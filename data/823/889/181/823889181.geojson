@@ -1,0 +1,77 @@
+{
+  "id": 823889181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.786361,41.670877,-72.786361,41.670877",
+    "geom:latitude":41.670877,
+    "geom:longitude":-72.786361,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"260 Lafayette St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 827 7063",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "audit",
+        "field",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nHqNbcq2l8yif8czy0Xxx_41.670877_-72.786361@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449176,
+    "wof:geomhash":"362b033cb2d7757c6f5179b71d74129b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823889181
+        }
+    ],
+    "wof:id":823889181,
+    "wof:lastmodified":1466425903,
+    "wof:name":"Field Audit Unit",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit",
+        "field",
+        "unit"
+    ]
+},
+  "bbox": [
+    -72.786361,
+    41.670877,
+    -72.786361,
+    41.670877
+],
+  "geometry": {"coordinates":[-72.786361,41.670877],"type":"Point"}
+}

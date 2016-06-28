@@ -1,0 +1,75 @@
+{
+  "id": 823909111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.413934,41.351493,-73.413934,41.351493",
+    "geom:latitude":41.351493,
+    "geom:longitude":-73.413934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Turkey Plain Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 9122",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i7dGtcKJuWLdEzrJYTOrz_41.351493_-73.413934@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449715,
+    "wof:geomhash":"7ddf2cbcaa5784562dfedf97bc2f0982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823909111
+        }
+    ],
+    "wof:id":823909111,
+    "wof:lastmodified":1466426085,
+    "wof:name":"Smitty's Auto Body",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.413934,
+    41.351493,
+    -73.413934,
+    41.351493
+],
+  "geometry": {"coordinates":[-73.413934,41.351493],"type":"Point"}
+}

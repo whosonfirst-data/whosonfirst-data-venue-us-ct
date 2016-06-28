@@ -1,0 +1,78 @@
+{
+  "id": 824086137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9618,41.767799,-72.9618,41.767799",
+    "geom:latitude":41.767799,
+    "geom:longitude":-72.9618,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Covey Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 7777",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23kK3Q3MWZS0OGaV13SEQv_41.767799_-72.961800@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453999,
+    "wof:geomhash":"dc85883f0050afb0f2511807ff543640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824086137
+        }
+    ],
+    "wof:id":824086137,
+    "wof:lastmodified":1466422985,
+    "wof:name":"Ace Taxi",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -72.9618,
+    41.767799,
+    -72.9618,
+    41.767799
+],
+  "geometry": {"coordinates":[-72.9618,41.767799],"type":"Point"}
+}

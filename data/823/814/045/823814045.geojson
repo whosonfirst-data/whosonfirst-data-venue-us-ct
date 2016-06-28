@@ -1,0 +1,72 @@
+{
+  "id": 823814045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.063455,41.568585,-73.063455,41.568585",
+    "geom:latitude":41.568585,
+    "geom:longitude":-73.063455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"256 Bunker Hill Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 574 7825",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kXm1IZDgr55zt2R8MXyG7_41.568585_-73.063455@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447120,
+    "wof:geomhash":"d473ff572e4d54bdda776d2ad7cc837f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823814045
+        }
+    ],
+    "wof:id":823814045,
+    "wof:lastmodified":1466425225,
+    "wof:name":"Bunker Hill Pharmacy",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.063455,
+    41.568585,
+    -73.063455,
+    41.568585
+],
+  "geometry": {"coordinates":[-73.063455,41.568585],"type":"Point"}
+}

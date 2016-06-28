@@ -1,0 +1,79 @@
+{
+  "id": 823827451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.542611,41.060794,-73.542611,41.060794",
+    "geom:latitude":41.060794,
+    "geom:longitude":-73.542611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"159 Franklin St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 967 4699",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ROaFQ9ldQciKtK1afMI18_41.060794_-73.542611@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447537,
+    "wof:geomhash":"bead02ed95a52ca6bf8af30fbaa851e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823827451
+        }
+    ],
+    "wof:id":823827451,
+    "wof:lastmodified":1466425423,
+    "wof:name":"All Phase Electrical Contrng",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.542611,
+    41.060794,
+    -73.542611,
+    41.060794
+],
+  "geometry": {"coordinates":[-73.54261099999999,41.060794],"type":"Point"}
+}

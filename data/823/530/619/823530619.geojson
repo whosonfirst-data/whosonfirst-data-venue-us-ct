@@ -1,0 +1,74 @@
+{
+  "id": 823530619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932985,41.348133,-72.932985,41.348133",
+    "geom:latitude":41.348133,
+    "geom:longitude":-72.932985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1214 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 5051",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I6jpTC8TLyfHoDquQlgGr_41.348133_-72.932985@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440265,
+    "wof:geomhash":"7c2fe1a788cba87fd14349f201bcb73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823530619
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823530619
+        }
+    ],
+    "wof:id":823530619,
+    "wof:lastmodified":1466422272,
+    "wof:name":"Team Realty",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.932985,
+    41.348133,
+    -72.932985,
+    41.348133
+],
+  "geometry": {"coordinates":[-72.932985,41.348133],"type":"Point"}
+}

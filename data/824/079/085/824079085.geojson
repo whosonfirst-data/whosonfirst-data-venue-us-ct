@@ -1,0 +1,97 @@
+{
+  "id": 824079085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.046839,41.516307,-73.046839,41.516307",
+    "geom:latitude":41.516307,
+    "geom:longitude":-73.046839,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2714 S Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/waterbury/130158-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 755 7024",
+    "sg:postcode":"06706",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842181,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rMsIh4n701PfXtt0HeO4u_41.516307_-73.046839@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453833,
+    "wof:geomhash":"c2854cef928ffc5697497798b1ca09a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85842181,
+            "region_id":85688629,
+            "venue_id":824079085
+        }
+    ],
+    "wof:id":824079085,
+    "wof:lastmodified":1466422543,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85842181,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.046839,
+    41.516307,
+    -73.046839,
+    41.516307
+],
+  "geometry": {"coordinates":[-73.04683900000001,41.516307],"type":"Point"}
+}

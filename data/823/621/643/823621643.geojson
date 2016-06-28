@@ -1,0 +1,90 @@
+{
+  "id": 823621643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.412979,41.119933,-73.412979,41.119933",
+    "geom:latitude":41.119933,
+    "geom:longitude":-73.412979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Main St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 854 5174",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IfbhSqDpVqArtUPLRX9ey_41.119933_-73.412979@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442441,
+    "wof:geomhash":"a2ac33bf9267e4fa6826e5484fd04595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823621643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":823621643
+        }
+    ],
+    "wof:id":823621643,
+    "wof:lastmodified":1466423565,
+    "wof:name":"Orthomart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.412979,
+    41.119933,
+    -73.412979,
+    41.119933
+],
+  "geometry": {"coordinates":[-73.41297900000001,41.119933],"type":"Point"}
+}

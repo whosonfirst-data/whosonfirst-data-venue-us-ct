@@ -2,13 +2,14 @@
   "id": 286283163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.518966,41.146992,-73.518966,41.146992",
     "geom:latitude":41.146992,
     "geom:longitude":-73.518966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"304 Wahackme Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286283163,
-    "wof:lastmodified":1449016064,
+    "wof:lastmodified":1466421099,
     "wof:name":"Rodman Fox",
     "wof:parent_id":85842701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.518966,41.146992,-73.518966,41.146992],
-  "geometry": {"coordinates":[-73.518966,41.146992],"type":"Point"}
+  "bbox": [
+    -73.518966,
+    41.146992,
+    -73.518966,
+    41.146992
+],
+  "geometry": {"coordinates":[-73.51896600000001,41.146992],"type":"Point"}
 }

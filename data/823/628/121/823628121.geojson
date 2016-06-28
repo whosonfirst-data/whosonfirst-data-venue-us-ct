@@ -1,0 +1,73 @@
+{
+  "id": 823628121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.69395,41.357182,-72.69395,41.357182",
+    "geom:latitude":41.357182,
+    "geom:longitude":-72.69395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Hart Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 0137",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZQBahlpA2H2xg7iXGJA72_41.357182_-72.693950@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442587,
+    "wof:geomhash":"c78ce5a52657ce39062030b3a7966553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823628121
+        }
+    ],
+    "wof:id":823628121,
+    "wof:lastmodified":1466423562,
+    "wof:name":"Tupper Plumbing LLC",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.69395,
+    41.357182,
+    -72.69395,
+    41.357182
+],
+  "geometry": {"coordinates":[-72.69395,41.357182],"type":"Point"}
+}

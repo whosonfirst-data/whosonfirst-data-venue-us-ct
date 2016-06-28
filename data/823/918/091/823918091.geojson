@@ -1,0 +1,81 @@
+{
+  "id": 823918091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.094858,41.32259,-73.094858,41.32259",
+    "geom:latitude":41.32259,
+    "geom:longitude":-73.094858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Roosevelt Dr",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 2457",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DAsjbUPle56X3ti3S80Pt_41.322590_-73.094858@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449958,
+    "wof:geomhash":"7e8f162d086a4b34c6d357020319a37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823918091
+        }
+    ],
+    "wof:id":823918091,
+    "wof:lastmodified":1466426150,
+    "wof:name":"Dan's Garage Inc",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.094858,
+    41.32259,
+    -73.094858,
+    41.32259
+],
+  "geometry": {"coordinates":[-73.094858,41.32259],"type":"Point"}
+}

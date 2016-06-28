@@ -1,0 +1,73 @@
+{
+  "id": 823623601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.613864,41.977233,-72.613864,41.977233",
+    "geom:latitude":41.977233,
+    "geom:longitude":-72.613864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 East St N",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931039,
+        102085381,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rry3wbct0wcYSuFefLEOj_41.977233_-72.613864@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442482,
+    "wof:geomhash":"da2578af91cdac46a04fb6567c30cf90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":823623601
+        }
+    ],
+    "wof:id":823623601,
+    "wof:lastmodified":1466423578,
+    "wof:name":"KB Cleaning Service",
+    "wof:parent_id":85865187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.613864,
+    41.977233,
+    -72.613864,
+    41.977233
+],
+  "geometry": {"coordinates":[-72.61386400000001,41.977233],"type":"Point"}
+}

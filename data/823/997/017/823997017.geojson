@@ -1,0 +1,79 @@
+{
+  "id": 823997017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.45592,41.391775,-73.45592,41.391775",
+    "geom:latitude":41.391775,
+    "geom:longitude":-73.45592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 William St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 6670",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ghj62aUOMTGm0qh7BxYoR_41.391775_-73.455920@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451919,
+    "wof:geomhash":"c67364119860b59bbcd0100afc5f6178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823997017
+        }
+    ],
+    "wof:id":823997017,
+    "wof:lastmodified":1466426751,
+    "wof:name":"Danbury Towers LP",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.45592,
+    41.391775,
+    -73.45592,
+    41.391775
+],
+  "geometry": {"coordinates":[-73.45592000000001,41.391775],"type":"Point"}
+}

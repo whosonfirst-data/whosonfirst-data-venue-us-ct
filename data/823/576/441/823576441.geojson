@@ -1,0 +1,81 @@
+{
+  "id": 823576441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.820566,41.462715,-72.820566,41.462715",
+    "geom:latitude":41.462715,
+    "geom:longitude":-72.820566,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"369 N Colony St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 284 8445",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YXL8WyFhBFI5LR5mW9SRQ_41.462715_-72.820566@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441331,
+    "wof:geomhash":"13504a658b97211c8d0f8869a80d588b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823576441
+        }
+    ],
+    "wof:id":823576441,
+    "wof:lastmodified":1466423030,
+    "wof:name":"North Colony Auto Service",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.820566,
+    41.462715,
+    -72.820566,
+    41.462715
+],
+  "geometry": {"coordinates":[-72.820566,41.462715],"type":"Point"}
+}

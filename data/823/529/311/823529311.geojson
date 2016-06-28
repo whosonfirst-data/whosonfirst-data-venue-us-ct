@@ -1,0 +1,71 @@
+{
+  "id": 823529311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.015554,41.384131,-72.015554,41.384131",
+    "geom:latitude":41.384131,
+    "geom:longitude":-72.015554,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1892 Gold Star Hwy",
+    "sg:city":"Mystic",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06355",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85831297,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ga0G9LDiALggrKBAS3cF0_41.384131_-72.015554@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440238,
+    "wof:geomhash":"bf67960df2cc240605639e6fc43891f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85831297,
+            "region_id":85688629,
+            "venue_id":823529311
+        }
+    ],
+    "wof:id":823529311,
+    "wof:lastmodified":1466422252,
+    "wof:name":"Colonial Tire",
+    "wof:parent_id":85831297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.015554,
+    41.384131,
+    -72.015554,
+    41.384131
+],
+  "geometry": {"coordinates":[-72.01555399999999,41.384131],"type":"Point"}
+}

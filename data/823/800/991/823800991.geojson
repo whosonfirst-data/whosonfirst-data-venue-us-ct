@@ -1,0 +1,71 @@
+{
+  "id": 823800991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.038148,41.449849,-73.038148,41.449849",
+    "geom:latitude":41.449849,
+    "geom:longitude":-73.038148,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"706 Burton Rd",
+    "sg:city":"Beacon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06403",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ASBitNezBtbmKnzMCd4QY_41.449849_-73.038148@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446734,
+    "wof:geomhash":"e4329253f6348baaa67bc9bd24e97b25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823800991
+        }
+    ],
+    "wof:id":823800991,
+    "wof:lastmodified":1466425213,
+    "wof:name":"T R M Performance",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.038148,
+    41.449849,
+    -73.038148,
+    41.449849
+],
+  "geometry": {"coordinates":[-73.03814800000001,41.449849],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 336760363,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.462108,41.149356,-73.462108,41.149356",
     "geom:latitude":41.149356,
     "geom:longitude":-73.462108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"236 Cedar Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":336760363,
-    "wof:lastmodified":1448997961,
+    "wof:lastmodified":1466421127,
     "wof:name":"PCLINKZ.COM",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.462108,41.149356,-73.462108,41.149356],
+  "bbox": [
+    -73.462108,
+    41.149356,
+    -73.462108,
+    41.149356
+],
   "geometry": {"coordinates":[-73.462108,41.149356],"type":"Point"}
 }

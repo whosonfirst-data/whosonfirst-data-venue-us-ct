@@ -1,0 +1,66 @@
+{
+  "id": 823809023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250325,41.300101,-73.250325,41.300101",
+    "geom:latitude":41.300101,
+    "geom:longitude":-73.250325,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 2125",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J7msknO2LLrov5QbXc0lI_41.300101_-73.250325@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446969,
+    "wof:geomhash":"62c8f38b8626077304241e007773197a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823809023
+        }
+    ],
+    "wof:id":823809023,
+    "wof:lastmodified":1466425195,
+    "wof:name":"Fairfield County Insurance Grp",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.250325,
+    41.300101,
+    -73.250325,
+    41.300101
+],
+  "geometry": {"coordinates":[-73.250325,41.300101],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 823842733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778043,41.682538,-72.778043,41.682538",
+    "geom:latitude":41.682538,
+    "geom:longitude":-72.778043,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"252 Allen St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 832 4152",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85867445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C614u1ps2uhBfEVd8L21r_41.682538_-72.778043@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448013,
+    "wof:geomhash":"cc5979ac04fe52cf474b6bfb541bdfda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823842733
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823842733
+        }
+    ],
+    "wof:id":823842733,
+    "wof:lastmodified":1466425504,
+    "wof:name":"Banknorth Connecticut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.778043,
+    41.682538,
+    -72.778043,
+    41.682538
+],
+  "geometry": {"coordinates":[-72.778043,41.682538],"type":"Point"}
+}

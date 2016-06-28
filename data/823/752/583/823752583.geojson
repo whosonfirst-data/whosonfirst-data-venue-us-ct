@@ -1,0 +1,79 @@
+{
+  "id": 823752583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.6794,41.762942,-72.6794,41.762942",
+    "geom:latitude":41.762942,
+    "geom:longitude":-72.6794,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Clinton St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 566 5102",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866871,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bLPWP80SzGXweIjeqnCHK_41.762942_-72.679400@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445443,
+    "wof:geomhash":"2d74bdb8a9dceeb8b44468214b4bc42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85866871,
+            "region_id":85688629,
+            "venue_id":823752583
+        }
+    ],
+    "wof:id":823752583,
+    "wof:lastmodified":1466424736,
+    "wof:name":"Department Public Health Lab",
+    "wof:parent_id":85866871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "health"
+    ]
+},
+  "bbox": [
+    -72.6794,
+    41.762942,
+    -72.6794,
+    41.762942
+],
+  "geometry": {"coordinates":[-72.6794,41.762942],"type":"Point"}
+}

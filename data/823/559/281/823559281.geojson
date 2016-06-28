@@ -1,0 +1,73 @@
+{
+  "id": 823559281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.30089,41.837266,-72.30089,41.837266",
+    "geom:latitude":41.837266,
+    "geom:longitude":-72.30089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Baxter Rd",
+    "sg:city":"West Willington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 429 3574",
+    "sg:postcode":"06279",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832175,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_478gUsJJUZlm93VlqtjVji_41.837266_-72.300890@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440914,
+    "wof:geomhash":"a46bb19186cb17d7523b26432180bf9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85832175,
+            "region_id":85688629,
+            "venue_id":823559281
+        }
+    ],
+    "wof:id":823559281,
+    "wof:lastmodified":1466422700,
+    "wof:name":"Patnode Electric",
+    "wof:parent_id":85832175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.30089,
+    41.837266,
+    -72.30089,
+    41.837266
+],
+  "geometry": {"coordinates":[-72.30089,41.837266],"type":"Point"}
+}

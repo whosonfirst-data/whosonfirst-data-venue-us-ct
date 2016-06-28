@@ -1,0 +1,83 @@
+{
+  "id": 823676161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.041026,41.223503,-73.041026,41.223503",
+    "geom:latitude":41.223503,
+    "geom:longitude":-73.041026,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"354 New Haven Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 4909",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85819849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TKbOwhBZz2SO5HKEVBC7C_41.223503_-73.041026@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443706,
+    "wof:geomhash":"336fd6a76fac546399a47720f026a5b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823676161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823676161
+        }
+    ],
+    "wof:id":823676161,
+    "wof:lastmodified":1466424024,
+    "wof:name":"Classic Cuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.041026,
+    41.223503,
+    -73.041026,
+    41.223503
+],
+  "geometry": {"coordinates":[-73.041026,41.223503],"type":"Point"}
+}

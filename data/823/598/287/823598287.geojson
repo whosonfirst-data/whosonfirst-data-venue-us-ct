@@ -1,0 +1,71 @@
+{
+  "id": 823598287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247264,41.52781,-73.247264,41.52781",
+    "geom:latitude":41.52781,
+    "geom:longitude":-73.247264,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"413 Grassy Hill Rd",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vmHRyozOhICDxq4fBMqBz_41.527810_-73.247264@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441845,
+    "wof:geomhash":"2f29a82e4225d7de1b6ea1956a4a638c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823598287
+        }
+    ],
+    "wof:id":823598287,
+    "wof:lastmodified":1466423301,
+    "wof:name":"Zampieon",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.247264,
+    41.52781,
+    -73.247264,
+    41.52781
+],
+  "geometry": {"coordinates":[-73.247264,41.52781],"type":"Point"}
+}

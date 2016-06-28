@@ -1,0 +1,83 @@
+{
+  "id": 823589845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230387,41.150128,-73.230387,41.150128",
+    "geom:latitude":41.150128,
+    "geom:longitude":-73.230387,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"119 Midland St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 330 0101",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "designer",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KQsY3jNzMQ2iJKFakvx4H_41.150128_-73.230387@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441643,
+    "wof:geomhash":"63dd8f5dbed01a821aa4dbb68567cbf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823589845
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823589845
+        }
+    ],
+    "wof:id":823589845,
+    "wof:lastmodified":1466423263,
+    "wof:name":"Bella Bocce",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.230387,
+    41.150128,
+    -73.230387,
+    41.150128
+],
+  "geometry": {"coordinates":[-73.23038699999999,41.150128],"type":"Point"}
+}

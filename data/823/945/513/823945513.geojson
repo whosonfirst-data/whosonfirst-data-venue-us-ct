@@ -1,0 +1,73 @@
+{
+  "id": 823945513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.871432,41.277827,-72.871432,41.277827",
+    "geom:latitude":41.277827,
+    "geom:longitude":-72.871432,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"203 Main St",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 407 5800",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GHNKfFkGMH9XOZNNVRGHE_41.277827_-72.871432@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450666,
+    "wof:geomhash":"ace40925a0e2c00dd49cc6cc729991ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823945513
+        }
+    ],
+    "wof:id":823945513,
+    "wof:lastmodified":1466426412,
+    "wof:name":"Heartcare Associates Of Ct",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.871432,
+    41.277827,
+    -72.871432,
+    41.277827
+],
+  "geometry": {"coordinates":[-72.871432,41.277827],"type":"Point"}
+}

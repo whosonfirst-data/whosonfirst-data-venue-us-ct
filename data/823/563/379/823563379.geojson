@@ -1,0 +1,74 @@
+{
+  "id": 823563379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.936523,41.354116,-72.936523,41.354116",
+    "geom:latitude":41.354116,
+    "geom:longitude":-72.936523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"280 Circular Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 9512",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gMuZM9vmtlQr7hNOx7EB2_41.354116_-72.936523@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441025,
+    "wof:geomhash":"f3112a089b7f297491768975338a557f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823563379
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879185,
+            "region_id":85688629,
+            "venue_id":823563379
+        }
+    ],
+    "wof:id":823563379,
+    "wof:lastmodified":1466422719,
+    "wof:name":"Minute Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.936523,
+    41.354116,
+    -72.936523,
+    41.354116
+],
+  "geometry": {"coordinates":[-72.93652299999999,41.354116],"type":"Point"}
+}

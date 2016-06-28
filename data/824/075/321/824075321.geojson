@@ -1,0 +1,91 @@
+{
+  "id": 824075321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.921574,41.927842,-71.921574,41.927842",
+    "geom:latitude":41.927842,
+    "geom:longitude":-71.921574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"325 Woodstock Ave",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/putnam/130026-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 963 7742",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25y5JNi5q1dpY8Vo1c1sAp_41.927842_-71.921574@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453747,
+    "wof:geomhash":"0e6ef1dda11923414a8bc690d0cd168c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":824075321
+        }
+    ],
+    "wof:id":824075321,
+    "wof:lastmodified":1466422663,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -71.921574,
+    41.927842,
+    -71.921574,
+    41.927842
+],
+  "geometry": {"coordinates":[-71.92157400000001,41.927842],"type":"Point"}
+}

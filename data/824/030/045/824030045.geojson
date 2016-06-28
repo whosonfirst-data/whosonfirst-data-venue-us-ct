@@ -1,0 +1,71 @@
+{
+  "id": 824030045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.968286,41.700228,-72.968286,41.700228",
+    "geom:latitude":41.700228,
+    "geom:longitude":-72.968286,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Tanglewood Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 584 8377",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73sRuQZOLA8lVHyyffuJHA_41.700228_-72.968286@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452663,
+    "wof:geomhash":"b47b7209b4b2e6fd0e30b6c3d5167288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824030045
+        }
+    ],
+    "wof:id":824030045,
+    "wof:lastmodified":1466421733,
+    "wof:name":"Bristol Oil Heating Co",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.968286,
+    41.700228,
+    -72.968286,
+    41.700228
+],
+  "geometry": {"coordinates":[-72.96828600000001,41.700228],"type":"Point"}
+}

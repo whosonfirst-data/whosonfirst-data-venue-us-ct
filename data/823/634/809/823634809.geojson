@@ -1,0 +1,81 @@
+{
+  "id": 823634809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.464093,41.400635,-73.464093,41.400635",
+    "geom:latitude":41.400635,
+    "geom:longitude":-73.464093,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Starr Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 4553",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wyOT0JVEmV7XZSXkYp0KL_41.400635_-73.464093@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442726,
+    "wof:geomhash":"a4c2ae309af7a731d4d395d8c6dc3dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823634809
+        }
+    ],
+    "wof:id":823634809,
+    "wof:lastmodified":1466423749,
+    "wof:name":"Ted Linstrum Plumbing and Htg",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.464093,
+    41.400635,
+    -73.464093,
+    41.400635
+],
+  "geometry": {"coordinates":[-73.46409300000001,41.400635],"type":"Point"}
+}

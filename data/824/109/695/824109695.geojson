@@ -1,0 +1,82 @@
+{
+  "id": 824109695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.138647,41.208795,-73.138647,41.208795",
+    "geom:latitude":41.208795,
+    "geom:longitude":-73.138647,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"440 Freeman Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 347 728 3978",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GkGGy4mrPnaiT6OSxep63_41.208795_-73.138647@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454549,
+    "wof:geomhash":"ef769254c8b7a8aea8c09abf6d6ff809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":824109695
+        }
+    ],
+    "wof:id":824109695,
+    "wof:lastmodified":1466423135,
+    "wof:name":"Antonio Fernandes",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -73.138647,
+    41.208795,
+    -73.138647,
+    41.208795
+],
+  "geometry": {"coordinates":[-73.13864700000001,41.208795],"type":"Point"}
+}

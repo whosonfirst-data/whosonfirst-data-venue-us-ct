@@ -1,0 +1,71 @@
+{
+  "id": 823635175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.970963,41.717826,-72.970963,41.717826",
+    "geom:latitude":41.717826,
+    "geom:longitude":-72.970963,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Valley View Ln",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 7602",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ea4A2y7CmmpqmWERsCSBo_41.717826_-72.970963@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442735,
+    "wof:geomhash":"3efb87c711d2759168593b5dd3b72997",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823635175
+        }
+    ],
+    "wof:id":823635175,
+    "wof:lastmodified":1466423623,
+    "wof:name":"CMF Contractors",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.970963,
+    41.717826,
+    -72.970963,
+    41.717826
+],
+  "geometry": {"coordinates":[-72.970963,41.717826],"type":"Point"}
+}

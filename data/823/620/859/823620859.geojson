@@ -1,0 +1,79 @@
+{
+  "id": 823620859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191181,41.179654,-73.191181,41.179654",
+    "geom:latitude":41.179654,
+    "geom:longitude":-73.191181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Elm St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 0995",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876485,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CRkNCWm4vWIvByQ7kIksJ_41.179654_-73.191181@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442417,
+    "wof:geomhash":"65fc543b1c5afec0aec1649ee74dd441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876485,
+            "region_id":85688629,
+            "venue_id":823620859
+        }
+    ],
+    "wof:id":823620859,
+    "wof:lastmodified":1466423583,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":85876485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -73.191181,
+    41.179654,
+    -73.191181,
+    41.179654
+],
+  "geometry": {"coordinates":[-73.191181,41.179654],"type":"Point"}
+}

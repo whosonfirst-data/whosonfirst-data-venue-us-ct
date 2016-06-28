@@ -1,0 +1,71 @@
+{
+  "id": 823830287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.385772,41.185252,-73.385772,41.185252",
+    "geom:latitude":41.185252,
+    "geom:longitude":-73.385772,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 Newtown Tpke",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 1901",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hPSZJsGTAr7v1EGZm2LGV_41.185252_-73.385772@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447616,
+    "wof:geomhash":"4f6a48c455c3aa9a55e29882d1ffeba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823830287
+        }
+    ],
+    "wof:id":823830287,
+    "wof:lastmodified":1466425258,
+    "wof:name":"Turner Painting Svc",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.385772,
+    41.185252,
+    -73.385772,
+    41.185252
+],
+  "geometry": {"coordinates":[-73.385772,41.185252],"type":"Point"}
+}

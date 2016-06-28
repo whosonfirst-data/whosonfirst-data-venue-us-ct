@@ -1,0 +1,97 @@
+{
+  "id": 824078765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15445,41.19251,-73.15445,41.19251",
+    "geom:latitude":41.19251,
+    "geom:longitude":-73.15445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2165 Boston Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bridgeport/129780-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 331 8268",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FQTETxXog7Vun6ufCbqqs_41.192510_-73.154450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453827,
+    "wof:geomhash":"482e6801f64a2cf69885b1031440027f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":824078765
+        }
+    ],
+    "wof:id":824078765,
+    "wof:lastmodified":1466422610,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.15445,
+    41.19251,
+    -73.15445,
+    41.19251
+],
+  "geometry": {"coordinates":[-73.15445,41.19251],"type":"Point"}
+}

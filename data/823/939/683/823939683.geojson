@@ -1,0 +1,75 @@
+{
+  "id": 823939683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.253613,41.303271,-73.253613,41.303271",
+    "geom:latitude":41.303271,
+    "geom:longitude":-73.253613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"114 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 374 5676",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "snowplowing",
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16wwS8ycY1Z9ROqRhdQ7dB_41.303271_-73.253613@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450511,
+    "wof:geomhash":"6d93691fe74432a6fa4692ecb308cb9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823939683
+        }
+    ],
+    "wof:id":823939683,
+    "wof:lastmodified":1466426391,
+    "wof:name":"Green Knolls Landscaping Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snowplowing",
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.253613,
+    41.303271,
+    -73.253613,
+    41.303271
+],
+  "geometry": {"coordinates":[-73.253613,41.303271],"type":"Point"}
+}

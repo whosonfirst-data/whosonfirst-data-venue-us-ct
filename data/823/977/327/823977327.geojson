@@ -1,0 +1,73 @@
+{
+  "id": 823977327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.838258,41.90471,-72.838258,41.90471",
+    "geom:latitude":41.90471,
+    "geom:longitude":-72.838258,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Surry Cir",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 0566",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819335,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cgRnBzzjL1RUCBU5NeMrv_41.904710_-72.838258@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451406,
+    "wof:geomhash":"244db6a92d6f92695b732f42fb52db19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85819335,
+            "region_id":85688629,
+            "venue_id":823977327
+        }
+    ],
+    "wof:id":823977327,
+    "wof:lastmodified":1466426590,
+    "wof:name":"Sturgis Properties",
+    "wof:parent_id":85819335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -72.838258,
+    41.90471,
+    -72.838258,
+    41.90471
+],
+  "geometry": {"coordinates":[-72.838258,41.90471],"type":"Point"}
+}

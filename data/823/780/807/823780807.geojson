@@ -1,0 +1,75 @@
+{
+  "id": 823780807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.971436,41.619909,-72.971436,41.619909",
+    "geom:latitude":41.619909,
+    "geom:longitude":-72.971436,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1258 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 1887",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z1uXJItzH1h7eo41mZ3yq_41.619909_-72.971436@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446110,
+    "wof:geomhash":"f686d3b77c2cf15abdafdae847db65cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823780807
+        }
+    ],
+    "wof:id":823780807,
+    "wof:lastmodified":1466424980,
+    "wof:name":"Bob's Remodeling",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.971436,
+    41.619909,
+    -72.971436,
+    41.619909
+],
+  "geometry": {"coordinates":[-72.971436,41.619909],"type":"Point"}
+}

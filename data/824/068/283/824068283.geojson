@@ -1,0 +1,71 @@
+{
+  "id": 824068283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145584,41.297209,-73.145584,41.297209",
+    "geom:latitude":41.297209,
+    "geom:longitude":-73.145584,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"526 Shelton Ave",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 9104",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xFVqqPtbg0Dc2TECIDY9i_41.296605_-73.146124@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453571,
+    "wof:geomhash":"7a3e5699605aaa7293b5284e60bdb5d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824068283
+        }
+    ],
+    "wof:id":824068283,
+    "wof:lastmodified":1466422368,
+    "wof:name":"Vincent's Italian Restaurant",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.145584,
+    41.297209,
+    -73.145584,
+    41.297209
+],
+  "geometry": {"coordinates":[-73.145584,41.297209],"type":"Point"}
+}

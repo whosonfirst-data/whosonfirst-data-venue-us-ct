@@ -1,0 +1,73 @@
+{
+  "id": 823858593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.550432,41.775009,-72.550432,41.775009",
+    "geom:latitude":41.775009,
+    "geom:longitude":-72.550432,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Chester Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 649 3807",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NfZnhFttqQuC45HPNvHdS_41.775009_-72.550432@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448467,
+    "wof:geomhash":"74924efeafeea5cd4acbce7d578cffbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823858593
+        }
+    ],
+    "wof:id":823858593,
+    "wof:lastmodified":1466425688,
+    "wof:name":"Lurate John",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.550432,
+    41.775009,
+    -72.550432,
+    41.775009
+],
+  "geometry": {"coordinates":[-72.550432,41.775009],"type":"Point"}
+}

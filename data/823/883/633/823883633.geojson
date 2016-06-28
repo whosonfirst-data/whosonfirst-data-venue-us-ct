@@ -1,0 +1,83 @@
+{
+  "id": 823883633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.029918,41.224382,-73.029918,41.224382",
+    "geom:latitude":41.224382,
+    "geom:longitude":-73.029918,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Pond Point Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 7111",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85819849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OFQ7jcSKu2yhzMLQdAIiw_41.224382_-73.029918@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449051,
+    "wof:geomhash":"2abd9f672464c40f9b809aadc6f21b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823883633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823883633
+        }
+    ],
+    "wof:id":823883633,
+    "wof:lastmodified":1466425866,
+    "wof:name":"Pond Point Wine & Spirit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.029918,
+    41.224382,
+    -73.029918,
+    41.224382
+],
+  "geometry": {"coordinates":[-73.029918,41.224382],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823692865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.658815,41.288477,-72.658815,41.288477",
+    "geom:latitude":41.288477,
+    "geom:longitude":-72.658815,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"339 Boston Post Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 2780",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n9ak7Rc5ln7NSSOSsBT9P_41.288477_-72.658815@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444081,
+    "wof:geomhash":"a7c02fc7ee3cf08fdf4015e99396ffd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823692865
+        }
+    ],
+    "wof:id":823692865,
+    "wof:lastmodified":1466424403,
+    "wof:name":"Murphy & Lieponis",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.658815,
+    41.288477,
+    -72.658815,
+    41.288477
+],
+  "geometry": {"coordinates":[-72.658815,41.288477],"type":"Point"}
+}

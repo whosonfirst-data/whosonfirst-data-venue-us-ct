@@ -1,0 +1,86 @@
+{
+  "id": 824118221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.445215,41.263083,-73.445215,41.263083",
+    "geom:latitude":41.263083,
+    "geom:longitude":-73.445215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Mallory Hill Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Textiles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 544 8028",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tile-wholesale",
+        "tile-contractors",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807091,
+        102191575,
+        404495863,
+        85633793,
+        85930985,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O8XW23rgfNLvSdpK2BIAR_41.263083_-73.445215@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454729,
+    "wof:geomhash":"706eed61c5f35c7283701ce294356432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":824118221
+        }
+    ],
+    "wof:id":824118221,
+    "wof:lastmodified":1466423285,
+    "wof:name":"Steve Veno & Tile Co",
+    "wof:parent_id":85807091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile-wholesale",
+        "tile-contractors",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -73.445215,
+    41.263083,
+    -73.445215,
+    41.263083
+],
+  "geometry": {"coordinates":[-73.445215,41.263083],"type":"Point"}
+}

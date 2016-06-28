@@ -1,0 +1,73 @@
+{
+  "id": 823634383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.985455,41.344278,-72.985455,41.344278",
+    "geom:latitude":41.344278,
+    "geom:longitude":-72.985455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"260 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 2133",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71hxjUc5kKt7leFtfTSJ5m_41.344278_-72.985455@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442719,
+    "wof:geomhash":"02bb51d86fad8795594cc8bf6c34256c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823634383
+        }
+    ],
+    "wof:id":823634383,
+    "wof:lastmodified":1466423653,
+    "wof:name":"Wachovia Bank National Assn",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.985455,
+    41.344278,
+    -72.985455,
+    41.344278
+],
+  "geometry": {"coordinates":[-72.985455,41.344278],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823915263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.244656,41.320617,-72.244656,41.320617",
+    "geom:latitude":41.320617,
+    "geom:longitude":-72.244656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Liberty Way",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 691 0627",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821451,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UNZLm1FrK9C0YIR8LBRGl_41.320617_-72.244656@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449887,
+    "wof:geomhash":"d3ebb7211eeb32808726e3b65d4b6fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85821451,
+            "region_id":85688629,
+            "venue_id":823915263
+        }
+    ],
+    "wof:id":823915263,
+    "wof:lastmodified":1466426119,
+    "wof:name":"15 Liberty Way",
+    "wof:parent_id":85821451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.244656,
+    41.320617,
+    -72.244656,
+    41.320617
+],
+  "geometry": {"coordinates":[-72.24465600000001,41.320617],"type":"Point"}
+}

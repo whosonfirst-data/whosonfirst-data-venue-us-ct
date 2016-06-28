@@ -1,0 +1,73 @@
+{
+  "id": 823738089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.30811,41.248772,-73.30811,41.248772",
+    "geom:latitude":41.248772,
+    "geom:longitude":-73.30811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"310 Center Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 2787",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wi4Be6zxYh3V6JAraPKih_41.248772_-73.308110@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445113,
+    "wof:geomhash":"3e47e6ffbeea081a1f8e06732535c832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823738089
+        }
+    ],
+    "wof:id":823738089,
+    "wof:lastmodified":1466424552,
+    "wof:name":"Lawn Care Of Fairfield LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.30811,
+    41.248772,
+    -73.30811,
+    41.248772
+],
+  "geometry": {"coordinates":[-73.30811,41.248772],"type":"Point"}
+}

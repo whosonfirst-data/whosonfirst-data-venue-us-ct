@@ -1,0 +1,73 @@
+{
+  "id": 823780117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.939632,41.280382,-72.939632,41.280382",
+    "geom:latitude":41.280382,
+    "geom:longitude":-72.939632,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 Kimberly Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 479 1585",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d3GrlXK38MxoijXPrBJwj_41.280382_-72.939632@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446092,
+    "wof:geomhash":"5e590abcfb73beabd3c55d98a7de2b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823780117
+        }
+    ],
+    "wof:id":823780117,
+    "wof:lastmodified":1466424908,
+    "wof:name":"Saveway Tire Ctr LLC",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.939632,
+    41.280382,
+    -72.939632,
+    41.280382
+],
+  "geometry": {"coordinates":[-72.939632,41.280382],"type":"Point"}
+}

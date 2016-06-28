@@ -1,0 +1,71 @@
+{
+  "id": 823532039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.421475,41.283568,-72.421475,41.283568",
+    "geom:latitude":41.283568,
+    "geom:longitude":-72.421475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 Boston Post Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 399 6033",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HSQoro6axDvO7t7MWcKBU_41.283568_-72.421475@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440292,
+    "wof:geomhash":"54c93865954f89723cb6640aaae68edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823532039
+        }
+    ],
+    "wof:id":823532039,
+    "wof:lastmodified":1466422229,
+    "wof:name":"Empire Stone",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.421475,
+    41.283568,
+    -72.421475,
+    41.283568
+],
+  "geometry": {"coordinates":[-72.421475,41.283568],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823705851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.667727,41.792376,-72.667727,41.792376",
+    "geom:latitude":41.792376,
+    "geom:longitude":-72.667727,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2944 Main St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06120",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing",
+        "driver",
+        "truck",
+        "no"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878031,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P2AHzx26TKLesHJmIeMkv_41.792376_-72.667727@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444357,
+    "wof:geomhash":"1bc2094d9a2db0ee7387f037d8b9713e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878031,
+            "region_id":85688629,
+            "venue_id":823705851
+        }
+    ],
+    "wof:id":823705851,
+    "wof:lastmodified":1466424350,
+    "wof:name":"Mid-Cities Trucking Co",
+    "wof:parent_id":85878031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "driver",
+        "truck",
+        "no"
+    ]
+},
+  "bbox": [
+    -72.667727,
+    41.792376,
+    -72.667727,
+    41.792376
+],
+  "geometry": {"coordinates":[-72.667727,41.792376],"type":"Point"}
+}

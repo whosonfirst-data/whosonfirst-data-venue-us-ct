@@ -1,0 +1,79 @@
+{
+  "id": 823914087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.681287,41.768772,-72.681287,41.768772",
+    "geom:latitude":41.768772,
+    "geom:longitude":-72.681287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Union Pl",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 727 1776",
+    "sg:postcode":"06103",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "railroad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866871,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C9OCOyqXiqhssp9xK3XvS_41.768772_-72.681287@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449857,
+    "wof:geomhash":"56c9baeac7a252e36ec7bb7926698e0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85866871,
+            "region_id":85688629,
+            "venue_id":823914087
+        }
+    ],
+    "wof:id":823914087,
+    "wof:lastmodified":1466426106,
+    "wof:name":"Amtrak",
+    "wof:parent_id":85866871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "railroad"
+    ]
+},
+  "bbox": [
+    -72.681287,
+    41.768772,
+    -72.681287,
+    41.768772
+],
+  "geometry": {"coordinates":[-72.681287,41.768772],"type":"Point"}
+}

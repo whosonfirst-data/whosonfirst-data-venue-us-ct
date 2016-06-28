@@ -1,0 +1,66 @@
+{
+  "id": 823725733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.976543,41.427052,-71.976543,41.427052",
+    "geom:latitude":41.427052,
+    "geom:longitude":-71.976543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"169 Gallup Hill Rd",
+    "sg:city":"Ledyard",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06339",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841299,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IAm9h3cpeXSASW7RV1RQw_41.427052_-71.976543@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444800,
+    "wof:geomhash":"5962b4c21f4d8eb8fd9f46e1e4d9dc74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85841299,
+            "region_id":85688629,
+            "venue_id":823725733
+        }
+    ],
+    "wof:id":823725733,
+    "wof:lastmodified":1466424516,
+    "wof:name":"Gallup Hill School",
+    "wof:parent_id":85841299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.976543,
+    41.427052,
+    -71.976543,
+    41.427052
+],
+  "geometry": {"coordinates":[-71.97654300000001,41.427052],"type":"Point"}
+}

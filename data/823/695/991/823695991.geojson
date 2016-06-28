@@ -1,0 +1,89 @@
+{
+  "id": 823695991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.939858,41.337954,-72.939858,41.337954",
+    "geom:latitude":41.337954,
+    "geom:longitude":-72.939858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Warner St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 777 2333",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "electric",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879159,
+        102191575,
+        404495787,
+        85930897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uHTEO7CXbMcapeGfekjwp_41.337954_-72.939858@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444153,
+    "wof:geomhash":"3938b8d65954195f5c948f601d2ccaf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823695991
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879159,
+            "region_id":85688629,
+            "venue_id":823695991
+        }
+    ],
+    "wof:id":823695991,
+    "wof:lastmodified":1466424232,
+    "wof:name":"N R E Auto Electric Rebuilders",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.939858,
+    41.337954,
+    -72.939858,
+    41.337954
+],
+  "geometry": {"coordinates":[-72.939858,41.337954],"type":"Point"}
+}

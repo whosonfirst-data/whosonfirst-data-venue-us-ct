@@ -1,0 +1,73 @@
+{
+  "id": 823584751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201197,41.33777,-73.201197,41.33777",
+    "geom:latitude":41.33777,
+    "geom:longitude":-73.201197,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Deerfield Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4790",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KP9VrAYKjOb7lThVw0LT2_41.337770_-73.201197@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441532,
+    "wof:geomhash":"b7dedb0f59648b80c4276b11e47c7551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823584751
+        }
+    ],
+    "wof:id":823584751,
+    "wof:lastmodified":1466423025,
+    "wof:name":"Monroe Excavating LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.201197,
+    41.33777,
+    -73.201197,
+    41.33777
+],
+  "geometry": {"coordinates":[-73.20119699999999,41.33777],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823883719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589997,41.787351,-72.589997,41.787351",
+    "geom:latitude":41.787351,
+    "geom:longitude":-72.589997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1026 Tolland St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 3313",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67ayOo4dJLjwHD5LKRym6J_41.787351_-72.589997@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449054,
+    "wof:geomhash":"7bfa0d82015c9b7973b25574e143eb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823883719
+        }
+    ],
+    "wof:id":823883719,
+    "wof:lastmodified":1466425879,
+    "wof:name":"Charter Oak Veterinary Hosp",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.589997,
+    41.787351,
+    -72.589997,
+    41.787351
+],
+  "geometry": {"coordinates":[-72.589997,41.787351],"type":"Point"}
+}

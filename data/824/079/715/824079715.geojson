@@ -1,0 +1,80 @@
+{
+  "id": 824079715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.454707,41.39653,-73.454707,41.39653",
+    "geom:latitude":41.39653,
+    "geom:longitude":-73.454707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"292 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/danbury/156737-kennedy-fried-chicken--pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 1040",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nuANVgcGIFdMToRz7VqcT_41.396530_-73.454707@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453847,
+    "wof:geomhash":"a08625ed4144af1f22f2e8401ae96f51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824079715
+        }
+    ],
+    "wof:id":824079715,
+    "wof:lastmodified":1466422589,
+    "wof:name":"Kennedy Fried Chicken & Pizza",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.454707,
+    41.39653,
+    -73.454707,
+    41.39653
+],
+  "geometry": {"coordinates":[-73.454707,41.39653],"type":"Point"}
+}

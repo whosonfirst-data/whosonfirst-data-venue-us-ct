@@ -1,0 +1,75 @@
+{
+  "id": 823889163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082358,41.804074,-73.082358,41.804074",
+    "geom:latitude":41.804074,
+    "geom:longitude":-73.082358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"328 County Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 4711",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RyLXv3yLR1qnLk0ARpjKp_41.804074_-73.082358@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449175,
+    "wof:geomhash":"1d66303f7439761819abfe06f270cc22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823889163
+        }
+    ],
+    "wof:id":823889163,
+    "wof:lastmodified":1466425957,
+    "wof:name":"J & J Excavating LLC",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.082358,
+    41.804074,
+    -73.082358,
+    41.804074
+],
+  "geometry": {"coordinates":[-73.082358,41.804074],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823699241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.89733,41.318885,-72.89733,41.318885",
+    "geom:latitude":41.318885,
+    "geom:longitude":-72.89733,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Middletown Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06513",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VwenchuZSADKsHTuVBqQ8_41.318885_-72.897330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444222,
+    "wof:geomhash":"dae6ecbc8678c1f8af7299857a6d4a7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823699241
+        }
+    ],
+    "wof:id":823699241,
+    "wof:lastmodified":1466424233,
+    "wof:name":"Car Er",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.89733,
+    41.318885,
+    -72.89733,
+    41.318885
+],
+  "geometry": {"coordinates":[-72.89733,41.318885],"type":"Point"}
+}

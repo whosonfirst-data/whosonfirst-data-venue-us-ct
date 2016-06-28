@@ -1,0 +1,72 @@
+{
+  "id": 823563753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.009731,41.543941,-73.009731,41.543941",
+    "geom:latitude":41.543941,
+    "geom:longitude":-73.009731,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1986 E Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 756 8432",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HlRkOZM65L610UMVnN2p6_41.543941_-73.009731@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441031,
+    "wof:geomhash":"985dd79216c8ca476ea1512b7bf52f84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":823563753
+        }
+    ],
+    "wof:id":823563753,
+    "wof:lastmodified":1466422983,
+    "wof:name":"Morrone's Restaurant",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.009731,
+    41.543941,
+    -73.009731,
+    41.543941
+],
+  "geometry": {"coordinates":[-73.009731,41.543941],"type":"Point"}
+}

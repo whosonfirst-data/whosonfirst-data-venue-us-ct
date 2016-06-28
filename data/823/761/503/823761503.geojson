@@ -1,0 +1,73 @@
+{
+  "id": 823761503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.848101,41.257659,-72.848101,41.257659",
+    "geom:latitude":41.257659,
+    "geom:longitude":-72.848101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Beckett Ave",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 315 9124",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85848603,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T9u11IsdZKmqWdy0YYRaW_41.257659_-72.848101@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445644,
+    "wof:geomhash":"ffea9f467e02568885d2edc8bfd78c71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85848603,
+            "region_id":85688629,
+            "venue_id":823761503
+        }
+    ],
+    "wof:id":823761503,
+    "wof:lastmodified":1466424840,
+    "wof:name":"Frontage Road Properties LLC",
+    "wof:parent_id":85848603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.848101,
+    41.257659,
+    -72.848101,
+    41.257659
+],
+  "geometry": {"coordinates":[-72.848101,41.257659],"type":"Point"}
+}

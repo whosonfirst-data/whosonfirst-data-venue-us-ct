@@ -2,13 +2,14 @@
   "id": 353726791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714528,41.091285,-73.714528,41.091285",
     "geom:latitude":41.091285,
     "geom:longitude":-73.714528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Carpenters Brook Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353726791,
-    "wof:lastmodified":1449019988,
+    "wof:lastmodified":1466421132,
     "wof:name":"Alfredo Nurseries Inc",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "landscape"
     ]
 },
-  "bbox": [-73.714528,41.091285,-73.714528,41.091285],
+  "bbox": [
+    -73.714528,
+    41.091285,
+    -73.714528,
+    41.091285
+],
   "geometry": {"coordinates":[-73.714528,41.091285],"type":"Point"}
 }

@@ -1,0 +1,80 @@
+{
+  "id": 824074069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.869007,41.817785,-72.869007,41.817785",
+    "geom:latitude":41.817785,
+    "geom:longitude":-72.869007,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Albany Tpke",
+    "sg:city":"West Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/simsbury/144127-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 651 9350",
+    "sg:postcode":"06092",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6d7c7OP8WeCotHG1frxvV1_41.817785_-72.869007@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453720,
+    "wof:geomhash":"12c637bfc2a1e211b0b60d2ee52a8214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824074069
+        }
+    ],
+    "wof:id":824074069,
+    "wof:lastmodified":1466422349,
+    "wof:name":"Subway",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.869007,
+    41.817785,
+    -72.869007,
+    41.817785
+],
+  "geometry": {"coordinates":[-72.869007,41.817785],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 824082559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.547426,41.067946,-73.547426,41.067946",
+    "geom:latitude":41.067946,
+    "geom:longitude":-73.547426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2410 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/97169-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 9819",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Cbk0WgMjL2oicoykkWzoe_41.068326_-73.548184@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453906,
+    "wof:geomhash":"13380a10a86230689d5166d43bb1c108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":824082559
+        }
+    ],
+    "wof:id":824082559,
+    "wof:lastmodified":1466422637,
+    "wof:name":"IHOP",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -73.547426,
+    41.067946,
+    -73.547426,
+    41.067946
+],
+  "geometry": {"coordinates":[-73.547426,41.067946],"type":"Point"}
+}

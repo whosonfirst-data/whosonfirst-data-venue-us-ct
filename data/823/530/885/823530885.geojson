@@ -1,0 +1,71 @@
+{
+  "id": 823530885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.920507,41.401725,-72.920507,41.401725",
+    "geom:latitude":41.401725,
+    "geom:longitude":-72.920507,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Overlook Dr",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 3338",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RpDHqcko7JG1nUhhb7nYS_41.401725_-72.920507@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440270,
+    "wof:geomhash":"e96714694b7897821ef83560b4cf018e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823530885
+        }
+    ],
+    "wof:id":823530885,
+    "wof:lastmodified":1466422289,
+    "wof:name":"Hamden Welding",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -72.920507,
+    41.401725,
+    -72.920507,
+    41.401725
+],
+  "geometry": {"coordinates":[-72.920507,41.401725],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823998873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.799053,41.289897,-72.799053,41.289897",
+    "geom:latitude":41.289897,
+    "geom:longitude":-72.799053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"234 E Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 5990",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical",
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23mrOu2SsOyXhyuvjHnfzG_41.289897_-72.799053@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451960,
+    "wof:geomhash":"e86b20d7c38acf10ce5da5f18c61d35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823998873
+        }
+    ],
+    "wof:id":823998873,
+    "wof:lastmodified":1466426850,
+    "wof:name":"Mill Pond Veterinary Hospital",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.799053,
+    41.289897,
+    -72.799053,
+    41.289897
+],
+  "geometry": {"coordinates":[-72.799053,41.289897],"type":"Point"}
+}

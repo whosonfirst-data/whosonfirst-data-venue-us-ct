@@ -1,0 +1,66 @@
+{
+  "id": 823562231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416535,41.175008,-73.416535,41.175008",
+    "geom:latitude":41.175008,
+    "geom:longitude":-73.416535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 761 7766",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3phVvxhTViTpD1zNB72P9c_41.175008_-73.416535@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440991,
+    "wof:geomhash":"0a005f8a4919c4c9ac6b7234e4c08ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823562231
+        }
+    ],
+    "wof:id":823562231,
+    "wof:lastmodified":1466422701,
+    "wof:name":"Michael Cyr",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.416535,
+    41.175008,
+    -73.416535,
+    41.175008
+],
+  "geometry": {"coordinates":[-73.416535,41.175008],"type":"Point"}
+}

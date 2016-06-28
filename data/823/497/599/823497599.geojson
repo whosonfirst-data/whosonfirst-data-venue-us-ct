@@ -1,0 +1,77 @@
+{
+  "id": 823497599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67473,41.760585,-72.67473,41.760585",
+    "geom:latitude":41.760585,
+    "geom:longitude":-72.67473,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"354 Main St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867457,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gRulGNslwWxkZFYC6QIsk_41.760585_-72.674730@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439509,
+    "wof:geomhash":"a7c14eafa4c5959643bb5b2ccd45cc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85867457,
+            "region_id":85688629,
+            "venue_id":823497599
+        }
+    ],
+    "wof:id":823497599,
+    "wof:lastmodified":1466421704,
+    "wof:name":"Hartford Physical Medicine",
+    "wof:parent_id":85867457,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.67473,
+    41.760585,
+    -72.67473,
+    41.760585
+],
+  "geometry": {"coordinates":[-72.67473,41.760585],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 824093367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592537,41.971958,-72.592537,41.971958",
+    "geom:latitude":41.971958,
+    "geom:longitude":-72.592537,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1370 Enfield St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 745 5847",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "educational",
+        "k-",
+        "private"
+    ],
+    "sg:website":"http://www.stseminary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HYJZ8K4BQRXfi05PdZrV8_41.971958_-72.592537@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454161,
+    "wof:geomhash":"a908d19d70c5c843d6529725155d65e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093367
+        }
+    ],
+    "wof:id":824093367,
+    "wof:lastmodified":1466422899,
+    "wof:name":"Montessori School",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "k-",
+        "private"
+    ]
+},
+  "bbox": [
+    -72.592537,
+    41.971958,
+    -72.592537,
+    41.971958
+],
+  "geometry": {"coordinates":[-72.59253699999999,41.971958],"type":"Point"}
+}

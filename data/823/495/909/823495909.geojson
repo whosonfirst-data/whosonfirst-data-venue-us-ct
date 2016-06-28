@@ -1,0 +1,66 @@
+{
+  "id": 823495909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.233795,41.65401,-73.233795,41.65401",
+    "geom:latitude":41.65401,
+    "geom:longitude":-73.233795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Todd Hill Rd",
+    "sg:city":"Bethlehem",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 266 7242",
+    "sg:postcode":"06751",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847045,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q2bmjJP47FZJ5YbmylZF4_41.654010_-73.233795@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439454,
+    "wof:geomhash":"62fb207eab3385243cbe6f334d2327ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":823495909
+        }
+    ],
+    "wof:id":823495909,
+    "wof:lastmodified":1466421661,
+    "wof:name":"Joseph Welukaitis",
+    "wof:parent_id":85847045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.233795,
+    41.65401,
+    -73.233795,
+    41.65401
+],
+  "geometry": {"coordinates":[-73.233795,41.65401],"type":"Point"}
+}

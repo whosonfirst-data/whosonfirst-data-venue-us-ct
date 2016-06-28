@@ -1,0 +1,73 @@
+{
+  "id": 823994619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.269818,41.433316,-73.269818,41.433316",
+    "geom:latitude":41.433316,
+    "geom:longitude":-73.269818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Hickory Ln",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 8636",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MQYIEMOB8Dxhod71LX9j4_41.433316_-73.269818@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451852,
+    "wof:geomhash":"6c0f229a1b1cde425daa29223ba23981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823994619
+        }
+    ],
+    "wof:id":823994619,
+    "wof:lastmodified":1466426740,
+    "wof:name":"BPC Electric",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.269818,
+    41.433316,
+    -73.269818,
+    41.433316
+],
+  "geometry": {"coordinates":[-73.269818,41.433316],"type":"Point"}
+}

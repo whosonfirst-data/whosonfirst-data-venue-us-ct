@@ -1,0 +1,75 @@
+{
+  "id": 823562877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.800676,41.658931,-72.800676,41.658931",
+    "geom:latitude":41.658931,
+    "geom:longitude":-72.800676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"405 Hart St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 223 1474",
+    "sg:postcode":"06052",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02oUWkRuddJU4fSNxCZ1fy_41.658931_-72.800676@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441013,
+    "wof:geomhash":"63d4cda1fdedc10d00710eea7fa5f613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823562877
+        }
+    ],
+    "wof:id":823562877,
+    "wof:lastmodified":1466422983,
+    "wof:name":"Coventry Corners",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.800676,
+    41.658931,
+    -72.800676,
+    41.658931
+],
+  "geometry": {"coordinates":[-72.800676,41.658931],"type":"Point"}
+}

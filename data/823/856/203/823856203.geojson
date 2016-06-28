@@ -1,0 +1,82 @@
+{
+  "id": 823856203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.550538,41.053247,-73.550538,41.053247",
+    "geom:latitude":41.053247,
+    "geom:longitude":-73.550538,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"158 Spruce St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 978 1226",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "valet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CDa2WStZV0zd6cNVVzoPW_41.053247_-73.550538@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448387,
+    "wof:geomhash":"b7a1a78e58ff24adb10e53e45d8d560a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823856203
+        }
+    ],
+    "wof:id":823856203,
+    "wof:lastmodified":1466425902,
+    "wof:name":"King Valet Parking Services",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "valet"
+    ]
+},
+  "bbox": [
+    -73.550538,
+    41.053247,
+    -73.550538,
+    41.053247
+],
+  "geometry": {"coordinates":[-73.550538,41.053247],"type":"Point"}
+}

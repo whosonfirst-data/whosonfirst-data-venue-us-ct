@@ -1,0 +1,79 @@
+{
+  "id": 823902593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195836,41.178901,-73.195836,41.178901",
+    "geom:latitude":41.178901,
+    "geom:longitude":-73.195836,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"265 Washington Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 3643",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876485,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_109Z2pdmXgDWd4l6P5WdS5_41.178901_-73.195836@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449531,
+    "wof:geomhash":"13675f056806e02afa021088f80afe8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876485,
+            "region_id":85688629,
+            "venue_id":823902593
+        }
+    ],
+    "wof:id":823902593,
+    "wof:lastmodified":1466426072,
+    "wof:name":"Washington Apartments",
+    "wof:parent_id":85876485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.195836,
+    41.178901,
+    -73.195836,
+    41.178901
+],
+  "geometry": {"coordinates":[-73.195836,41.178901],"type":"Point"}
+}

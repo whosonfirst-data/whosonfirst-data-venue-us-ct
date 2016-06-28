@@ -1,0 +1,80 @@
+{
+  "id": 823885783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.532941,41.053955,-73.532941,41.053955",
+    "geom:latitude":41.053955,
+    "geom:longitude":-73.532941,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 359 3956",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "audio",
+        "leasing"
+    ],
+    "sg:website":"www.kvlav.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4B8miaP6VvdzfMsGfPEPPS_41.053955_-73.532941@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449100,
+    "wof:geomhash":"22577fb3e97ec904b87df4fb3c64f315",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823885783
+        }
+    ],
+    "wof:id":823885783,
+    "wof:lastmodified":1466425959,
+    "wof:name":"KVL Audio Visual Svc",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audio",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.532941,
+    41.053955,
+    -73.532941,
+    41.053955
+],
+  "geometry": {"coordinates":[-73.53294099999999,41.053955],"type":"Point"}
+}

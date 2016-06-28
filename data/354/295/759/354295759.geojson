@@ -2,13 +2,14 @@
   "id": 354295759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.598642,41.184829,-73.598642,41.184829",
     "geom:latitude":41.184829,
     "geom:longitude":-73.598642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Old Logging Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354295759,
-    "wof:lastmodified":1449066610,
+    "wof:lastmodified":1466421136,
     "wof:name":"Redmond Co",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-73.598642,41.184829,-73.598642,41.184829],
+  "bbox": [
+    -73.598642,
+    41.184829,
+    -73.598642,
+    41.184829
+],
   "geometry": {"coordinates":[-73.598642,41.184829],"type":"Point"}
 }

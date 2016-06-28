@@ -1,0 +1,81 @@
+{
+  "id": 823595937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.875177,41.279616,-72.875177,41.279616",
+    "geom:latitude":41.279616,
+    "geom:longitude":-72.875177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"356 Main St",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 467 3799",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882013,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dj5zlYwtLPp5ar3QiazHX_41.279616_-72.875177@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441792,
+    "wof:geomhash":"78372bb0d12a91d26c50a5bde28e94ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85882013,
+            "region_id":85688629,
+            "venue_id":823595937
+        }
+    ],
+    "wof:id":823595937,
+    "wof:lastmodified":1466423229,
+    "wof:name":"Jack Red General Repair Svc",
+    "wof:parent_id":85882013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.875177,
+    41.279616,
+    -72.875177,
+    41.279616
+],
+  "geometry": {"coordinates":[-72.87517699999999,41.279616],"type":"Point"}
+}

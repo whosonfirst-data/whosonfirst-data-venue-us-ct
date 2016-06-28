@@ -1,0 +1,82 @@
+{
+  "id": 823551937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.869281,41.388902,-72.869281,41.388902",
+    "geom:latitude":41.388902,
+    "geom:longitude":-72.869281,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Old Broadway St",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 239 9800",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834309,
+        102191575,
+        404495789,
+        85633793,
+        85931389,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hVR7Vu7ODIRX5nz1wiL4e_41.388902_-72.869281@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440752,
+    "wof:geomhash":"fe8672c32641d2cb5b87aa578594c44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495789,
+            "locality_id":85931389,
+            "neighbourhood_id":85834309,
+            "region_id":85688629,
+            "venue_id":823551937
+        }
+    ],
+    "wof:id":823551937,
+    "wof:lastmodified":1466422610,
+    "wof:name":"Doran's Restaurant",
+    "wof:parent_id":85834309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -72.869281,
+    41.388902,
+    -72.869281,
+    41.388902
+],
+  "geometry": {"coordinates":[-72.869281,41.388902],"type":"Point"}
+}

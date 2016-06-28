@@ -1,0 +1,73 @@
+{
+  "id": 823523473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.848814,41.259285,-72.848814,41.259285",
+    "geom:latitude":41.259285,
+    "geom:longitude":-72.848814,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Court St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 8500",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85848603,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tsQLqR4onAIBnV6twsNEU_41.259285_-72.848814@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440103,
+    "wof:geomhash":"80d085f2a2e1e9a37aa91301b488cd77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85848603,
+            "region_id":85688629,
+            "venue_id":823523473
+        }
+    ],
+    "wof:id":823523473,
+    "wof:lastmodified":1466422138,
+    "wof:name":"Short Beach Station",
+    "wof:parent_id":85848603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.848814,
+    41.259285,
+    -72.848814,
+    41.259285
+],
+  "geometry": {"coordinates":[-72.848814,41.259285],"type":"Point"}
+}

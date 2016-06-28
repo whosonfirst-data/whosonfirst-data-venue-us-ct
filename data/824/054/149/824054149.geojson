@@ -1,0 +1,73 @@
+{
+  "id": 824054149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.850696,41.643709,-72.850696,41.643709",
+    "geom:latitude":41.643709,
+    "geom:longitude":-72.850696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Hidden Hills Dr",
+    "sg:city":"Southington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 747 9800",
+    "sg:postcode":"06489",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rPTWDq7BkCaDBW13fNu7j_41.643709_-72.850696@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453255,
+    "wof:geomhash":"6d3e21acc073dce960170549d4e60f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824054149
+        }
+    ],
+    "wof:id":824054149,
+    "wof:lastmodified":1466421875,
+    "wof:name":"Xpress Trucking LLC",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.850696,
+    41.643709,
+    -72.850696,
+    41.643709
+],
+  "geometry": {"coordinates":[-72.850696,41.643709],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824072347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43985,41.399509,-73.43985,41.399509",
+    "geom:latitude":41.399509,
+    "geom:longitude":-73.43985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"226 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 797 1500",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "orthopedics",
+        "surgeons"
+    ],
+    "sg:website":"http://www.dortho.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d86m0cuqXCkdaEcNLaaeE_41.399993_-73.439566@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453672,
+    "wof:geomhash":"a35ee77778096c132d6ab9239073c6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824072347
+        }
+    ],
+    "wof:id":824072347,
+    "wof:lastmodified":1466422425,
+    "wof:name":"Danbury Orthopedic Associates PC",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "orthopedics",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -73.43985,
+    41.399509,
+    -73.43985,
+    41.399509
+],
+  "geometry": {"coordinates":[-73.43985000000001,41.399509],"type":"Point"}
+}

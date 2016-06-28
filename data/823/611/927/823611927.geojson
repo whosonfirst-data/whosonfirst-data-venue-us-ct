@@ -1,0 +1,71 @@
+{
+  "id": 823611927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.934867,41.341372,-72.934867,41.341372",
+    "geom:latitude":41.341372,
+    "geom:longitude":-72.934867,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1029 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0avf4LVlvfSVzcUOGqtcJM_41.341372_-72.934867@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442194,
+    "wof:geomhash":"4c6ef32f0376124cc937ae24d0f91b06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823611927
+        }
+    ],
+    "wof:id":823611927,
+    "wof:lastmodified":1466423473,
+    "wof:name":"Hamden Transmission LLC",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.934867,
+    41.341372,
+    -72.934867,
+    41.341372
+],
+  "geometry": {"coordinates":[-72.934867,41.341372],"type":"Point"}
+}

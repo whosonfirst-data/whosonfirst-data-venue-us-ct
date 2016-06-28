@@ -1,0 +1,71 @@
+{
+  "id": 823591957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901842,41.383469,-72.901842,41.383469",
+    "geom:latitude":41.383469,
+    "geom:longitude":-72.901842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2900 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 4020",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hSVmqAmbDjKodID0eVMJ1_41.383469_-72.901842@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441691,
+    "wof:geomhash":"f1e02c6850dff80cc2aad1d59b47ac3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823591957
+        }
+    ],
+    "wof:id":823591957,
+    "wof:lastmodified":1466423277,
+    "wof:name":"Hamden Police Department",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.901842,
+    41.383469,
+    -72.901842,
+    41.383469
+],
+  "geometry": {"coordinates":[-72.901842,41.383469],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823545901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520687,41.769445,-72.520687,41.769445",
+    "geom:latitude":41.769445,
+    "geom:longitude":-72.520687,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"935 Main St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832071,
+        102191575,
+        404495985,
+        85633793,
+        85931105,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i39aQ8opjTJ0X35QQwIPp_41.769445_-72.520687@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440603,
+    "wof:geomhash":"c7251271da54480ea0f514e892517ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495985,
+            "locality_id":85931105,
+            "neighbourhood_id":85832071,
+            "region_id":85688629,
+            "venue_id":823545901
+        }
+    ],
+    "wof:id":823545901,
+    "wof:lastmodified":1466422658,
+    "wof:name":"Healthwise Medical Associates",
+    "wof:parent_id":85832071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.520687,
+    41.769445,
+    -72.520687,
+    41.769445
+],
+  "geometry": {"coordinates":[-72.520687,41.769445],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823589789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.821515,41.521048,-72.821515,41.521048",
+    "geom:latitude":41.521048,
+    "geom:longitude":-72.821515,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Hillside St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 639 1556",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wWxIjaX2E3tlTz0X9wBBG_41.521048_-72.821515@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441642,
+    "wof:geomhash":"cf71224d83ed01711d7f3bfed9d8e78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":823589789
+        }
+    ],
+    "wof:id":823589789,
+    "wof:lastmodified":1466423190,
+    "wof:name":"Air Unlimited",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.821515,
+    41.521048,
+    -72.821515,
+    41.521048
+],
+  "geometry": {"coordinates":[-72.82151500000001,41.521048],"type":"Point"}
+}

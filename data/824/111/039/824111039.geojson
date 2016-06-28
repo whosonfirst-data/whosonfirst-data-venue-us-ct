@@ -1,0 +1,73 @@
+{
+  "id": 824111039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.475952,41.723991,-73.475952,41.723991",
+    "geom:latitude":41.723991,
+    "geom:longitude":-73.475952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Maple St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 927 3810",
+    "sg:postcode":"06757",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tjbZyDl2RLC6a4txA40ra_41.723991_-73.475952@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454571,
+    "wof:geomhash":"6b981244fb0a0798c1589d135eeae4d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":824111039
+        }
+    ],
+    "wof:id":824111039,
+    "wof:lastmodified":1466423231,
+    "wof:name":"Doc's Trattoria & Brick Oven Pizza",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.475952,
+    41.723991,
+    -73.475952,
+    41.723991
+],
+  "geometry": {"coordinates":[-73.47595200000001,41.723991],"type":"Point"}
+}

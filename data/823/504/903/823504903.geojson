@@ -1,0 +1,66 @@
+{
+  "id": 823504903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.91271,41.346486,-72.91271,41.346486",
+    "geom:latitude":41.346486,
+    "geom:longitude":-72.91271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1242 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 4904",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CeGULFStu073s6lgY5Ibj_41.346486_-72.912710@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439682,
+    "wof:geomhash":"77fbaab30c6d7342e261ed02e9302be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823504903
+        }
+    ],
+    "wof:id":823504903,
+    "wof:lastmodified":1466421786,
+    "wof:name":"Juliet's Flowers & Gifts",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.91271,
+    41.346486,
+    -72.91271,
+    41.346486
+],
+  "geometry": {"coordinates":[-72.91271,41.346486],"type":"Point"}
+}

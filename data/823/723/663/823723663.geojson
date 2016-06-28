@@ -1,0 +1,82 @@
+{
+  "id": 823723663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.45151,41.403304,-73.45151,41.403304",
+    "geom:latitude":41.403304,
+    "geom:longitude":-73.45151,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Griffing Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 7600",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mENQ00sO0p9soUWxiNnaw_41.403304_-73.451510@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444742,
+    "wof:geomhash":"3a527840ae55776d0846af4a4ebf4d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823723663
+        }
+    ],
+    "wof:id":823723663,
+    "wof:lastmodified":1466424463,
+    "wof:name":"Paulo's Painting",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.45151,
+    41.403304,
+    -73.45151,
+    41.403304
+],
+  "geometry": {"coordinates":[-73.45151,41.403304],"type":"Point"}
+}

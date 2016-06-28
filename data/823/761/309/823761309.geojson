@@ -1,0 +1,73 @@
+{
+  "id": 823761309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2715,41.374264,-73.2715,41.374264",
+    "geom:latitude":41.374264,
+    "geom:longitude":-73.2715,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"230 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 1515",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b9BnisvfFw0t5apaDIWcR_41.374264_-73.271500@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445640,
+    "wof:geomhash":"9e6719028ea94a0a049c8df100311d8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823761309
+        }
+    ],
+    "wof:id":823761309,
+    "wof:lastmodified":1466424816,
+    "wof:name":"Pet Safe Training Systems",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.2715,
+    41.374264,
+    -73.2715,
+    41.374264
+],
+  "geometry": {"coordinates":[-73.2715,41.374264],"type":"Point"}
+}

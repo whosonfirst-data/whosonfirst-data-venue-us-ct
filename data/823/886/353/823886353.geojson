@@ -1,0 +1,71 @@
+{
+  "id": 823886353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.899902,41.388778,-72.899902,41.388778",
+    "geom:latitude":41.388778,
+    "geom:longitude":-72.899902,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2574 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 9095",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26W5Lw5nirgZPw98viyzRz_41.388778_-72.899902@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449111,
+    "wof:geomhash":"afd425f18f3f7b99d4f51d8a87b603a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823886353
+        }
+    ],
+    "wof:id":823886353,
+    "wof:lastmodified":1466425862,
+    "wof:name":"Whitney Donut Shop",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -72.899902,
+    41.388778,
+    -72.899902,
+    41.388778
+],
+  "geometry": {"coordinates":[-72.899902,41.388778],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 824082105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.140334,41.195593,-73.140334,41.195593",
+    "geom:latitude":41.195593,
+    "geom:longitude":-73.140334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1514 Barnum Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stratford/164738-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 9616",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v3BtiETNJsGx27VooV9YC_41.195814_-73.139806@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453898,
+    "wof:geomhash":"7171965adcb6aa3269159323510570b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":824082105
+        }
+    ],
+    "wof:id":824082105,
+    "wof:lastmodified":1466422374,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -73.140334,
+    41.195593,
+    -73.140334,
+    41.195593
+],
+  "geometry": {"coordinates":[-73.140334,41.195593],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823729701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.005629,41.678367,-73.005629,41.678367",
+    "geom:latitude":41.678367,
+    "geom:longitude":-73.005629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"211 Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 582 1468",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yDSlwBHYcAl1e68WxDtQ3_41.678367_-73.005629@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444894,
+    "wof:geomhash":"1205ff5abbd18b2552879238b07601e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823729701
+        }
+    ],
+    "wof:id":823729701,
+    "wof:lastmodified":1466424522,
+    "wof:name":"Terryville Pizza House",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.005629,
+    41.678367,
+    -73.005629,
+    41.678367
+],
+  "geometry": {"coordinates":[-73.005629,41.678367],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 824101505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.444504,41.375801,-72.444504,41.375801",
+    "geom:latitude":41.375801,
+    "geom:longitude":-72.444504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"132 Hemlock Dr",
+    "sg:city":"Deep River",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 526 3896",
+    "sg:postcode":"06417",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bookstore"
+    ],
+    "sg:website":"www.TownsEndBooks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44jHtJsoZzoIbYugpUFwFp_41.375801_-72.444504@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454372,
+    "wof:geomhash":"50b8845d675cdfba3d7a8f043fda3fc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":824101505
+        }
+    ],
+    "wof:id":824101505,
+    "wof:lastmodified":1466422820,
+    "wof:name":"Town's End Books",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore"
+    ]
+},
+  "bbox": [
+    -72.444504,
+    41.375801,
+    -72.444504,
+    41.375801
+],
+  "geometry": {"coordinates":[-72.44450399999999,41.375801],"type":"Point"}
+}

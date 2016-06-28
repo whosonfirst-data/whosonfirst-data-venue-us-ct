@@ -1,0 +1,84 @@
+{
+  "id": 823687873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.532987,41.052912,-73.532987,41.052912",
+    "geom:latitude":41.052912,
+    "geom:longitude":-73.532987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"263 Tresser Blvd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 1407",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "band",
+        "symphony",
+        "orchestra",
+        "concert"
+    ],
+    "sg:website":"www.stamfordsymphony.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tnnXkHiEqiU6hsRI3j1tK_41.052912_-73.532987@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443970,
+    "wof:geomhash":"ab352b4eea2b0144efd7e3fc02c394df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823687873
+        }
+    ],
+    "wof:id":823687873,
+    "wof:lastmodified":1466424225,
+    "wof:name":"Stamford Symphony Orchestra",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "band",
+        "symphony",
+        "orchestra",
+        "concert"
+    ]
+},
+  "bbox": [
+    -73.532987,
+    41.052912,
+    -73.532987,
+    41.052912
+],
+  "geometry": {"coordinates":[-73.53298700000001,41.052912],"type":"Point"}
+}

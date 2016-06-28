@@ -1,0 +1,73 @@
+{
+  "id": 823623575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.526265,41.796613,-72.526265,41.796613",
+    "geom:latitude":41.796613,
+    "geom:longitude":-72.526265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Golway St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 645 8648",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZDjuuRbWDzSb5ApKKAyrW_41.796613_-72.526265@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442482,
+    "wof:geomhash":"4f82b77bd6c5a0d19c10d0f0ad809091",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":823623575
+        }
+    ],
+    "wof:id":823623575,
+    "wof:lastmodified":1466423726,
+    "wof:name":"Lithuanian Hall",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.526265,
+    41.796613,
+    -72.526265,
+    41.796613
+],
+  "geometry": {"coordinates":[-72.526265,41.796613],"type":"Point"}
+}

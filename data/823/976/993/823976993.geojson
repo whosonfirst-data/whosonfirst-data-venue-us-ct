@@ -1,0 +1,77 @@
+{
+  "id": 823976993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.165365,41.177654,-73.165365,41.177654",
+    "geom:latitude":41.177654,
+    "geom:longitude":-73.165365,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"790 Central Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 332 4567",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836801,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EgjnTnkl482x1Bj5EsaXY_41.177654_-73.165365@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451399,
+    "wof:geomhash":"df639b47b8a8651c28bb904c6c50697d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85836801,
+            "region_id":85688629,
+            "venue_id":823976993
+        }
+    ],
+    "wof:id":823976993,
+    "wof:lastmodified":1466426575,
+    "wof:name":"Bridgeport Community Health",
+    "wof:parent_id":85836801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -73.165365,
+    41.177654,
+    -73.165365,
+    41.177654
+],
+  "geometry": {"coordinates":[-73.16536499999999,41.177654],"type":"Point"}
+}

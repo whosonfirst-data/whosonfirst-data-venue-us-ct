@@ -1,0 +1,81 @@
+{
+  "id": 823795937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.821938,41.454501,-72.821938,41.454501",
+    "geom:latitude":41.454501,
+    "geom:longitude":-72.821938,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 S Orchard St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 931 1524",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KldVSwLBBC9ycZupy5hRu_41.454501_-72.821938@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446599,
+    "wof:geomhash":"b9b0c060aac79385c447620c509646f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823795937
+        }
+    ],
+    "wof:id":823795937,
+    "wof:lastmodified":1466425144,
+    "wof:name":"Hubbard Steamway",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.821938,
+    41.454501,
+    -72.821938,
+    41.454501
+],
+  "geometry": {"coordinates":[-72.821938,41.454501],"type":"Point"}
+}

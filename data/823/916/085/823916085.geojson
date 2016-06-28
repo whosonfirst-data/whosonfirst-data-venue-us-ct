@@ -1,0 +1,73 @@
+{
+  "id": 823916085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189049,41.336775,-73.189049,41.336775",
+    "geom:latitude":41.336775,
+    "geom:longitude":-73.189049,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Hillside Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 7179",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q6AmNlZbs8M3cZFAJMagE_41.336775_-73.189049@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449904,
+    "wof:geomhash":"f735f3cfb20e35a75d41bdcd4bee0dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823916085
+        }
+    ],
+    "wof:id":823916085,
+    "wof:lastmodified":1466426108,
+    "wof:name":"Fairfield Sanitation LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.189049,
+    41.336775,
+    -73.189049,
+    41.336775
+],
+  "geometry": {"coordinates":[-73.189049,41.336775],"type":"Point"}
+}

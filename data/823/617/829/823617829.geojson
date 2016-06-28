@@ -1,0 +1,71 @@
+{
+  "id": 823617829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.577085,41.09952,-73.577085,41.09952",
+    "geom:latitude":41.09952,
+    "geom:longitude":-73.577085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Walter Ln",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 2122",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ujIECQinZaa6FZbC1wyrk_41.099520_-73.577085@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442342,
+    "wof:geomhash":"35e53e778943a0ba9558a3c7057d45b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844811,
+            "region_id":85688629,
+            "venue_id":823617829
+        }
+    ],
+    "wof:id":823617829,
+    "wof:lastmodified":1466423327,
+    "wof:name":"Stamford Nutrition Ctr Inc",
+    "wof:parent_id":85844811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -73.577085,
+    41.09952,
+    -73.577085,
+    41.09952
+],
+  "geometry": {"coordinates":[-73.577085,41.09952],"type":"Point"}
+}

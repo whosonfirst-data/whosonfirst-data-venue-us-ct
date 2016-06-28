@@ -2,13 +2,14 @@
   "id": 354302529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.503227,41.135549,-73.503227,41.135549",
     "geom:latitude":41.135549,
     "geom:longitude":-73.503227,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"484 Weed St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354302529,
-    "wof:lastmodified":1449066485,
+    "wof:lastmodified":1466421136,
     "wof:name":"Robert W Cruickshank & Co",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory"
     ]
 },
-  "bbox": [-73.503227,41.135549,-73.503227,41.135549],
+  "bbox": [
+    -73.503227,
+    41.135549,
+    -73.503227,
+    41.135549
+],
   "geometry": {"coordinates":[-73.503227,41.135549],"type":"Point"}
 }

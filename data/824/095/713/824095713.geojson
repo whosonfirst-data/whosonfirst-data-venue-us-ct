@@ -1,0 +1,91 @@
+{
+  "id": 824095713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.710301,41.683083,-72.710301,41.683083",
+    "geom:latitude":41.683083,
+    "geom:longitude":-72.710301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2513 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 2202",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "steak"
+    ],
+    "sg:website":"http://www.ruthschris.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PAxpvCiWMneruq1AkYhxh_41.683083_-72.710301@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454239,
+    "wof:geomhash":"cd591e02f0a3c79ea050d08c3337829a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":824095713
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":824095713
+        }
+    ],
+    "wof:id":824095713,
+    "wof:lastmodified":1466422925,
+    "wof:name":"Ruth's Chris Steak House",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak"
+    ]
+},
+  "bbox": [
+    -72.710301,
+    41.683083,
+    -72.710301,
+    41.683083
+],
+  "geometry": {"coordinates":[-72.710301,41.683083],"type":"Point"}
+}

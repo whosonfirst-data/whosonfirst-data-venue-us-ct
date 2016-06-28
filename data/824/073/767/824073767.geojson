@@ -1,0 +1,91 @@
+{
+  "id": 824073767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67871,41.649319,-72.67871,41.649319",
+    "geom:latitude":41.649319,
+    "geom:longitude":-72.67871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"767 Cromwell Ave",
+    "sg:city":"Rocky Hill",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/rocky-hill/130040-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 436 2405",
+    "sg:postcode":"06067",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qICvw891TLZSYZoMTpx6X_41.649319_-72.678710@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453715,
+    "wof:geomhash":"76285c5e5f65e720ea5020f4f79269cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":824073767
+        }
+    ],
+    "wof:id":824073767,
+    "wof:lastmodified":1466422444,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.67871,
+    41.649319,
+    -72.67871,
+    41.649319
+],
+  "geometry": {"coordinates":[-72.67871,41.649319],"type":"Point"}
+}

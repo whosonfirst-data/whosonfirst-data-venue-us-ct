@@ -1,0 +1,81 @@
+{
+  "id": 823513949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145292,41.193602,-73.145292,41.193602",
+    "geom:latitude":41.193602,
+    "geom:longitude":-73.145292,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1870 Barnum Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 8755",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AxHDjwly66IU0h7oUoqhl_41.193602_-73.145292@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439884,
+    "wof:geomhash":"94517ecaf61e9d5273ca581c9b9f1a73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823513949
+        }
+    ],
+    "wof:id":823513949,
+    "wof:lastmodified":1466422095,
+    "wof:name":"Best Brake & Safety Center",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.145292,
+    41.193602,
+    -73.145292,
+    41.193602
+],
+  "geometry": {"coordinates":[-73.145292,41.193602],"type":"Point"}
+}

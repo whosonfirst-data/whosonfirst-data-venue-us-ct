@@ -1,0 +1,71 @@
+{
+  "id": 823660217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.412484,41.57675,-73.412484,41.57675",
+    "geom:latitude":41.57675,
+    "geom:longitude":-73.412484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Railroad St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EZltzSpeHxeUcOy9FP7if_41.576750_-73.412484@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443341,
+    "wof:geomhash":"12cf9233691e89f0f43aa5fcdd2aa833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823660217
+        }
+    ],
+    "wof:id":823660217,
+    "wof:lastmodified":1466424029,
+    "wof:name":"Lens Barber Shop",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.412484,
+    41.57675,
+    -73.412484,
+    41.57675
+],
+  "geometry": {"coordinates":[-73.41248400000001,41.57675],"type":"Point"}
+}

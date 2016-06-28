@@ -1,0 +1,83 @@
+{
+  "id": 823843829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.940089,41.3547,-72.940089,41.3547",
+    "geom:latitude":41.3547,
+    "geom:longitude":-72.940089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Village Cir",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 287 8952",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879185,
+        102086923,
+        85885309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21QwfEY3c10KMGq2OSmzr7_41.354700_-72.940089@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448047,
+    "wof:geomhash":"ce1c406936ffc4ab6c186e1e2a729ce9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879185,
+            "region_id":85688629,
+            "venue_id":823843829
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823843829
+        }
+    ],
+    "wof:id":823843829,
+    "wof:lastmodified":1466425410,
+    "wof:name":"Advanced & Effective Carpet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -72.940089,
+    41.3547,
+    -72.940089,
+    41.3547
+],
+  "geometry": {"coordinates":[-72.940089,41.3547],"type":"Point"}
+}

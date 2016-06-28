@@ -1,0 +1,76 @@
+{
+  "id": 824089025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.869499,41.705799,-72.869499,41.705799",
+    "geom:latitude":41.705799,
+    "geom:longitude":-72.869499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"197 Scott Swamp Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 676 8298",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62AWbXW1wDXhU3nRxOHMhZ_41.705799_-72.869499@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454068,
+    "wof:geomhash":"8114fece48cdfe14b3c988fede2f2706",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824089025
+        }
+    ],
+    "wof:id":824089025,
+    "wof:lastmodified":1466422805,
+    "wof:name":"Children's Discovery Centers",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.869499,
+    41.705799,
+    -72.869499,
+    41.705799
+],
+  "geometry": {"coordinates":[-72.869499,41.705799],"type":"Point"}
+}

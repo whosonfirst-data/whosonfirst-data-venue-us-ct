@@ -1,0 +1,79 @@
+{
+  "id": 824058201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.062565,41.566108,-73.062565,41.566108",
+    "geom:latitude":41.566108,
+    "geom:longitude":-73.062565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"119 Bunker Hill Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 1512",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VLqlojdFvc00JUONRLKam_41.566108_-73.062565@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453357,
+    "wof:geomhash":"0f39bc704bdcd2d9de1aeea45b2e924c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":824058201
+        }
+    ],
+    "wof:id":824058201,
+    "wof:lastmodified":1466422106,
+    "wof:name":"Rocky S Pizza Restaurant",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.062565,
+    41.566108,
+    -73.062565,
+    41.566108
+],
+  "geometry": {"coordinates":[-73.06256500000001,41.566108],"type":"Point"}
+}

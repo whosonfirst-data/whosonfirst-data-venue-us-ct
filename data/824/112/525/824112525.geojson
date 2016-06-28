@@ -1,0 +1,95 @@
+{
+  "id": 824112525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.401443,41.416596,-73.401443,41.416596",
+    "geom:latitude":41.416596,
+    "geom:longitude":-73.401443,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Stony Hill Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 448 1029",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clothing",
+        "merchandise"
+    ],
+    "sg:website":"http://www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tRgmDcM0P44iKVTWFSYlr_41.416596_-73.401443@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454604,
+    "wof:geomhash":"caae983830ac8f34294d07d41759bf52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":824112525
+        }
+    ],
+    "wof:id":824112525,
+    "wof:lastmodified":1466423119,
+    "wof:name":"Target",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.401443,
+    41.416596,
+    -73.401443,
+    41.416596
+],
+  "geometry": {"coordinates":[-73.401443,41.416596],"type":"Point"}
+}

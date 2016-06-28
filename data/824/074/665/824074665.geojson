@@ -1,0 +1,78 @@
+{
+  "id": 824074665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.621508,41.768691,-72.621508,41.768691",
+    "geom:latitude":41.768691,
+    "geom:longitude":-72.621508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"350 Roberts St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/232146-margaritas/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 7212",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808571,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gtoMlDMVe8SNIYY6XXmze_41.768691_-72.621508@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453730,
+    "wof:geomhash":"d9be1512b54ede182ec5d16e394e7281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":824074665
+        }
+    ],
+    "wof:id":824074665,
+    "wof:lastmodified":1466422427,
+    "wof:name":"Margaritas",
+    "wof:parent_id":85808571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.621508,
+    41.768691,
+    -72.621508,
+    41.768691
+],
+  "geometry": {"coordinates":[-72.62150800000001,41.768691],"type":"Point"}
+}

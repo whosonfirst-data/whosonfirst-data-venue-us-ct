@@ -1,0 +1,86 @@
+{
+  "id": 823736029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.926908,41.355416,-72.926908,41.355416",
+    "geom:latitude":41.355416,
+    "geom:longitude":-72.926908,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Marne St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 7213",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ],
+    "sg:website":"www.planetfitness.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18cT8qFE1LpVUEandEfXhr_41.355416_-72.926908@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445066,
+    "wof:geomhash":"5c98cbde92975dea0822342b89f48968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823736029
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823736029
+        }
+    ],
+    "wof:id":823736029,
+    "wof:lastmodified":1466424546,
+    "wof:name":"Planet Fitness",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -72.926908,
+    41.355416,
+    -72.926908,
+    41.355416
+],
+  "geometry": {"coordinates":[-72.926908,41.355416],"type":"Point"}
+}

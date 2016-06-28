@@ -1,0 +1,81 @@
+{
+  "id": 823746913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202215,41.183163,-73.202215,41.183163",
+    "geom:latitude":41.183163,
+    "geom:longitude":-73.202215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"809 Grand St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 0479",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aZRQls9gXF4EbRjB1A3YQ_41.183163_-73.202215@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445303,
+    "wof:geomhash":"71551f28a79ab76d74f91cbb8e9a5d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823746913
+        }
+    ],
+    "wof:id":823746913,
+    "wof:lastmodified":1466424694,
+    "wof:name":"Fred's Automotive",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.202215,
+    41.183163,
+    -73.202215,
+    41.183163
+],
+  "geometry": {"coordinates":[-73.202215,41.183163],"type":"Point"}
+}

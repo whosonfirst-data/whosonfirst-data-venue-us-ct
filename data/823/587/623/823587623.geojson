@@ -1,0 +1,71 @@
+{
+  "id": 823587623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225932,41.213026,-73.225932,41.213026",
+    "geom:latitude":41.213026,
+    "geom:longitude":-73.225932,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Deramo Pl",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851229,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_053xPSDLIemyVjbs6mzBe6_41.213026_-73.225932@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441591,
+    "wof:geomhash":"1f66124b7ac533ab5e89970c18c6c3e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851229,
+            "region_id":85688629,
+            "venue_id":823587623
+        }
+    ],
+    "wof:id":823587623,
+    "wof:lastmodified":1466423188,
+    "wof:name":"George Garofalo MD",
+    "wof:parent_id":85851229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.225932,
+    41.213026,
+    -73.225932,
+    41.213026
+],
+  "geometry": {"coordinates":[-73.225932,41.213026],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 824085545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927092,41.699725,-72.927092,41.699725",
+    "geom:latitude":41.699725,
+    "geom:longitude":-72.927092,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Edrow Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 582 0056",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lock",
+        "industrial",
+        "locksmiths-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tYjBwlPTDd8Bo6kZpJH9G_41.699725_-72.927092@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453986,
+    "wof:geomhash":"fbf8e3532717035fe79dedf4e0c8e933",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085545
+        }
+    ],
+    "wof:id":824085545,
+    "wof:lastmodified":1466422699,
+    "wof:name":"Hartley Lock & Key",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "industrial",
+        "locksmiths-commercial"
+    ]
+},
+  "bbox": [
+    -72.927092,
+    41.699725,
+    -72.927092,
+    41.699725
+],
+  "geometry": {"coordinates":[-72.927092,41.699725],"type":"Point"}
+}

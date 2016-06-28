@@ -1,0 +1,66 @@
+{
+  "id": 824089547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.465406,41.961696,-73.465406,41.961696",
+    "geom:latitude":41.961696,
+    "geom:longitude":-73.465406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Ore Mine Rd",
+    "sg:city":"Lakeville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 2897",
+    "sg:postcode":"06039",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85850959,
+        102082363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59YfGWjUsGPeN2gByuZpyM_41.961696_-73.465406@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454080,
+    "wof:geomhash":"4cab327cab40cfadf1d04b125b0d04f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85850959,
+            "region_id":85688543,
+            "venue_id":824089547
+        }
+    ],
+    "wof:id":824089547,
+    "wof:lastmodified":1466422875,
+    "wof:name":"Cinerom",
+    "wof:parent_id":85850959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.465406,
+    41.961696,
+    -73.465406,
+    41.961696
+],
+  "geometry": {"coordinates":[-73.465406,41.961696],"type":"Point"}
+}

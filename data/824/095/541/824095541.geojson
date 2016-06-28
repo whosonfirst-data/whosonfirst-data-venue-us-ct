@@ -1,0 +1,92 @@
+{
+  "id": 824095541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.661648,41.706494,-72.661648,41.706494",
+    "geom:latitude":41.706494,
+    "geom:longitude":-72.661648,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"673 Silas Deane Hwy",
+    "sg:city":"Wethersfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 563 3333",
+    "sg:postcode":"06109",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "sandwich",
+        "house",
+        "italian",
+        "steak",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823233,
+        102191575,
+        404496005,
+        85633793,
+        85931011,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dpRAkXRb2fozrpvU4Schv_41.706494_-72.661648@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454236,
+    "wof:geomhash":"183533568723ae9cd3e229fe50df952c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496005,
+            "locality_id":85931011,
+            "neighbourhood_id":85823233,
+            "region_id":85688629,
+            "venue_id":824095541
+        }
+    ],
+    "wof:id":824095541,
+    "wof:lastmodified":1466422915,
+    "wof:name":"Vitos",
+    "wof:parent_id":85823233,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich",
+        "house",
+        "italian",
+        "steak",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.661648,
+    41.706494,
+    -72.661648,
+    41.706494
+],
+  "geometry": {"coordinates":[-72.661648,41.706494],"type":"Point"}
+}

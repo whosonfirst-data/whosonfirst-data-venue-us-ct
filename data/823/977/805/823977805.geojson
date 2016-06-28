@@ -1,0 +1,77 @@
+{
+  "id": 823977805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.529806,41.0554,-73.529806,41.0554",
+    "geom:latitude":41.0554,
+    "geom:longitude":-73.529806,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"750 E Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Beer",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 940 8830",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "ale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xErz7DKDtEoPnEwo0PbRo_41.055400_-73.529806@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451423,
+    "wof:geomhash":"704077c865c4ab124467c25b472de1bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823977805
+        }
+    ],
+    "wof:id":823977805,
+    "wof:lastmodified":1466426610,
+    "wof:name":"United Distillers Inc",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ale"
+    ]
+},
+  "bbox": [
+    -73.529806,
+    41.0554,
+    -73.529806,
+    41.0554
+],
+  "geometry": {"coordinates":[-73.52980599999999,41.0554],"type":"Point"}
+}

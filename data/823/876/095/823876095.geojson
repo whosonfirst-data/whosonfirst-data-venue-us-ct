@@ -1,0 +1,71 @@
+{
+  "id": 823876095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.316092,41.853382,-73.316092,41.853382",
+    "geom:latitude":41.853382,
+    "geom:longitude":-73.316092,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Hall Rd",
+    "sg:city":"West Cornwall",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06796",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868755,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yWqmFokZkspwULHsfEivJ_41.853382_-73.316092@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448874,
+    "wof:geomhash":"3b31730ddbb98cbe4709282b1fb3abf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85868755,
+            "region_id":85688629,
+            "venue_id":823876095
+        }
+    ],
+    "wof:id":823876095,
+    "wof:lastmodified":1466425793,
+    "wof:name":"Halls Garage",
+    "wof:parent_id":85868755,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.316092,
+    41.853382,
+    -73.316092,
+    41.853382
+],
+  "geometry": {"coordinates":[-73.316092,41.853382],"type":"Point"}
+}

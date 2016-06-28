@@ -1,0 +1,71 @@
+{
+  "id": 824038187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.410167,41.57279,-73.410167,41.57279",
+    "geom:latitude":41.57279,
+    "geom:longitude":-73.410167,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 S Main St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G7OPKIe7EIvaZCAOU2ods_41.572790_-73.410167@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452877,
+    "wof:geomhash":"e581a8055edde552b06811c65470b629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":824038187
+        }
+    ],
+    "wof:id":824038187,
+    "wof:lastmodified":1466421818,
+    "wof:name":"Associated Psychiatrist",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.410167,
+    41.57279,
+    -73.410167,
+    41.57279
+],
+  "geometry": {"coordinates":[-73.410167,41.57279],"type":"Point"}
+}

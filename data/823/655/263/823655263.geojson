@@ -1,0 +1,73 @@
+{
+  "id": 823655263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.861037,41.275988,-72.861037,41.275988",
+    "geom:latitude":41.275988,
+    "geom:longitude":-72.861037,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Farm River Rd",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 467 3772",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ciqy33LAvJtBZfkMH6q3y_41.275988_-72.861037@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443201,
+    "wof:geomhash":"c4aab6189eba7aa7ab1456304869bb73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823655263
+        }
+    ],
+    "wof:id":823655263,
+    "wof:lastmodified":1466423783,
+    "wof:name":"Art's Auto Svc",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.861037,
+    41.275988,
+    -72.861037,
+    41.275988
+],
+  "geometry": {"coordinates":[-72.861037,41.275988],"type":"Point"}
+}

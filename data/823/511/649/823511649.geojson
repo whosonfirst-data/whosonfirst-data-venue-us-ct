@@ -1,0 +1,66 @@
+{
+  "id": 823511649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.302736,41.351305,-73.302736,41.351305",
+    "geom:latitude":41.351305,
+    "geom:longitude":-73.302736,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Maltbie Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 2797",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0irL5bPzdRhxBX2KPgjvGf_41.351305_-73.302736@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439824,
+    "wof:geomhash":"55618d22952774c6fe60bd6c5f8972b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823511649
+        }
+    ],
+    "wof:id":823511649,
+    "wof:lastmodified":1466421987,
+    "wof:name":"Gallagher Lawnscape LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.302736,
+    41.351305,
+    -73.302736,
+    41.351305
+],
+  "geometry": {"coordinates":[-73.302736,41.351305],"type":"Point"}
+}

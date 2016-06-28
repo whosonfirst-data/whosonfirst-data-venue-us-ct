@@ -1,0 +1,73 @@
+{
+  "id": 823774397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.765446,41.478992,-72.765446,41.478992",
+    "geom:latitude":41.478992,
+    "geom:longitude":-72.765446,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Research Pkwy",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 677 6996",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816895,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VostvDQjHAbt2W7sCvIDX_41.478992_-72.765446@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445939,
+    "wof:geomhash":"0760fd9f866fab32898cdac27b86cad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816895,
+            "region_id":85688629,
+            "venue_id":823774397
+        }
+    ],
+    "wof:id":823774397,
+    "wof:lastmodified":1466424914,
+    "wof:name":"Bristol Myers Squibb",
+    "wof:parent_id":85816895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.765446,
+    41.478992,
+    -72.765446,
+    41.478992
+],
+  "geometry": {"coordinates":[-72.765446,41.478992],"type":"Point"}
+}

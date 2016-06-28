@@ -1,0 +1,73 @@
+{
+  "id": 823528799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.818855,41.47939,-72.818855,41.47939",
+    "geom:latitude":41.47939,
+    "geom:longitude":-72.818855,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Capitol Dr",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 269 9557",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WPLOsEZmX5NhgGNQII62f_41.479390_-72.818855@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440229,
+    "wof:geomhash":"1de5874fc53696175652dea7867a2f8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823528799
+        }
+    ],
+    "wof:id":823528799,
+    "wof:lastmodified":1466422356,
+    "wof:name":"Electrical Facilities Inc",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.818855,
+    41.47939,
+    -72.818855,
+    41.47939
+],
+  "geometry": {"coordinates":[-72.818855,41.47939],"type":"Point"}
+}

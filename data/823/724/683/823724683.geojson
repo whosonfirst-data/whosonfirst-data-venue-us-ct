@@ -1,0 +1,73 @@
+{
+  "id": 823724683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809893,41.284074,-72.809893,41.284074",
+    "geom:latitude":41.284074,
+    "geom:longitude":-72.809893,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1224 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 752 3100",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cn1UDube8iGzeZrMlV5Hc_41.284074_-72.809893@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444772,
+    "wof:geomhash":"56c31603e913e02650e807237b7728d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823724683
+        }
+    ],
+    "wof:id":823724683,
+    "wof:lastmodified":1466424453,
+    "wof:name":"Center For Orthopaedics",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.809893,
+    41.284074,
+    -72.809893,
+    41.284074
+],
+  "geometry": {"coordinates":[-72.809893,41.284074],"type":"Point"}
+}

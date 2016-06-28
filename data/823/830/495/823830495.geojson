@@ -1,0 +1,77 @@
+{
+  "id": 823830495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.130633,41.193298,-73.130633,41.193298",
+    "geom:latitude":41.193298,
+    "geom:longitude":-73.130633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2404 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 6222",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MRjOXQ4MfYUzDbaiOsuVf_41.193298_-73.130633@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447620,
+    "wof:geomhash":"3790d547584463668e0697e3cbb24f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823830495
+        }
+    ],
+    "wof:id":823830495,
+    "wof:lastmodified":1466425280,
+    "wof:name":"Boston Cleaners",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.130633,
+    41.193298,
+    -73.130633,
+    41.193298
+],
+  "geometry": {"coordinates":[-73.130633,41.193298],"type":"Point"}
+}

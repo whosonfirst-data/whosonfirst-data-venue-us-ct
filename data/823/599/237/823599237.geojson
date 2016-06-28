@@ -1,0 +1,83 @@
+{
+  "id": 823599237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057465,41.22207,-73.057465,41.22207",
+    "geom:latitude":41.22207,
+    "geom:longitude":-73.057465,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Broad St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 783 5700",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "federal",
+        "savings",
+        "institution",
+        "except"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qqWXSm7h9XP5k04rJnauK_41.222070_-73.057465@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441863,
+    "wof:geomhash":"560f0b9b6fc00d69aab4f589a07057fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823599237
+        }
+    ],
+    "wof:id":823599237,
+    "wof:lastmodified":1466423308,
+    "wof:name":"Milford Bank",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "savings",
+        "institution",
+        "except"
+    ]
+},
+  "bbox": [
+    -73.057465,
+    41.22207,
+    -73.057465,
+    41.22207
+],
+  "geometry": {"coordinates":[-73.05746499999999,41.22207],"type":"Point"}
+}

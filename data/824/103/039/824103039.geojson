@@ -1,0 +1,66 @@
+{
+  "id": 824103039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.442124,41.348089,-72.442124,41.348089",
+    "geom:latitude":41.348089,
+    "geom:longitude":-72.442124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"103 Main St",
+    "sg:city":"Ivoryton",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 767 8348",
+    "sg:postcode":"06442",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xjVuEyThw2CTCIRfhZSvj_41.348089_-72.442124@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454405,
+    "wof:geomhash":"c0986d05d8a0c70fcae50107932bb690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":824103039
+        }
+    ],
+    "wof:id":824103039,
+    "wof:lastmodified":1466422955,
+    "wof:name":"Ivoryton Playhouse",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.442124,
+    41.348089,
+    -72.442124,
+    41.348089
+],
+  "geometry": {"coordinates":[-72.44212400000001,41.348089],"type":"Point"}
+}

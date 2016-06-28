@@ -1,0 +1,79 @@
+{
+  "id": 824089435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.739574,41.632441,-72.739574,41.632441",
+    "geom:latitude":41.632441,
+    "geom:longitude":-72.739574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Woodlawn Rd",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 268 7378",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tlBVdQ3wdL5hmT59AnovF_41.632441_-72.739574@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454078,
+    "wof:geomhash":"a81a2821c153e7330e2b5c1d0f6e10b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":824089435
+        }
+    ],
+    "wof:id":824089435,
+    "wof:lastmodified":1466422863,
+    "wof:name":"Collision World Auto Body Inc.",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -72.739574,
+    41.632441,
+    -72.739574,
+    41.632441
+],
+  "geometry": {"coordinates":[-72.739574,41.632441],"type":"Point"}
+}

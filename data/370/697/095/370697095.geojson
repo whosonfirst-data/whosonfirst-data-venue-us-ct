@@ -2,13 +2,14 @@
   "id": 370697095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491862,41.146311,-73.491862,41.146311",
     "geom:latitude":41.146311,
     "geom:longitude":-73.491862,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"134 Main St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370697095,
-    "wof:lastmodified":1449031212,
+    "wof:lastmodified":1466421096,
     "wof:name":"Impala Asset Management LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-73.491862,41.146311,-73.491862,41.146311],
+  "bbox": [
+    -73.491862,
+    41.146311,
+    -73.491862,
+    41.146311
+],
   "geometry": {"coordinates":[-73.491862,41.146311],"type":"Point"}
 }

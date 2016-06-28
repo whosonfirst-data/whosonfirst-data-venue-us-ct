@@ -1,0 +1,80 @@
+{
+  "id": 824120987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.548431,41.10487,-73.548431,41.10487",
+    "geom:latitude":41.10487,
+    "geom:longitude":-73.548431,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"970 High Ridge Road",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 9888",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "sg:website":"http://www.mackenziesbarandgrill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852825,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09wvn1TH3tuBnbaCOWfSU5_41.104870_-73.548431@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454783,
+    "wof:geomhash":"6db22c6cc3434b49ce659b00db536e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85852825,
+            "region_id":85688629,
+            "venue_id":824120987
+        }
+    ],
+    "wof:id":824120987,
+    "wof:lastmodified":1466423399,
+    "wof:name":"MacKenzies Bar & Grill",
+    "wof:parent_id":85852825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -73.548431,
+    41.10487,
+    -73.548431,
+    41.10487
+],
+  "geometry": {"coordinates":[-73.54843099999999,41.10487],"type":"Point"}
+}

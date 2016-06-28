@@ -1,0 +1,80 @@
+{
+  "id": 824074545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74222,41.759514,-72.74222,41.759514",
+    "geom:latitude":41.759514,
+    "geom:longitude":-72.74222,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 S Main St",
+    "sg:city":"West Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/west-hartford/73591-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 233 1400",
+    "sg:postcode":"06107",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868763,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qfgWCaR2fT7Zl4NAsQuB9_41.759514_-72.742220@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453728,
+    "wof:geomhash":"b719da9551c1a8abf04c1c6c5670faf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85868763,
+            "region_id":85688629,
+            "venue_id":824074545
+        }
+    ],
+    "wof:id":824074545,
+    "wof:lastmodified":1466422425,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85868763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.74222,
+    41.759514,
+    -72.74222,
+    41.759514
+],
+  "geometry": {"coordinates":[-72.74222,41.759514],"type":"Point"}
+}

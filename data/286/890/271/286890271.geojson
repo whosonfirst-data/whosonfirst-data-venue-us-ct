@@ -2,13 +2,14 @@
   "id": 286890271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.524138,41.17815,-73.524138,41.17815",
     "geom:latitude":41.17815,
     "geom:longitude":-73.524138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Turtle Back Ln E",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":286890271,
-    "wof:lastmodified":1449015819,
+    "wof:lastmodified":1466421114,
     "wof:name":"Mc Brearity & Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.524138,41.17815,-73.524138,41.17815],
-  "geometry": {"coordinates":[-73.524138,41.17815],"type":"Point"}
+  "bbox": [
+    -73.524138,
+    41.17815,
+    -73.524138,
+    41.17815
+],
+  "geometry": {"coordinates":[-73.52413799999999,41.17815],"type":"Point"}
 }

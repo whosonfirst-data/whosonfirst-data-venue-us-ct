@@ -1,0 +1,86 @@
+{
+  "id": 824113479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.456221,41.392194,-73.456221,41.392194",
+    "geom:latitude":41.392194,
+    "geom:longitude":-73.456221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 West St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 448 3200",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "government-state",
+        "mental",
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77mtmUgTwCUb3JMD5yKzl6_41.392194_-73.456221@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454628,
+    "wof:geomhash":"32b74d049ead7096e6a4b796169fe288",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824113479
+        }
+    ],
+    "wof:id":824113479,
+    "wof:lastmodified":1466423076,
+    "wof:name":"State of Connecticut Greater Danbury Mental Health Authority",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "mental",
+        "information"
+    ]
+},
+  "bbox": [
+    -73.456221,
+    41.392194,
+    -73.456221,
+    41.392194
+],
+  "geometry": {"coordinates":[-73.456221,41.392194],"type":"Point"}
+}

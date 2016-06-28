@@ -1,0 +1,87 @@
+{
+  "id": 823513123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.61101,41.797637,-72.61101,41.797637",
+    "geom:latitude":41.797637,
+    "geom:longitude":-72.61101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Dolores St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 282 1812",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "food",
+        "snack"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k0VayUBOSTJOSgfNcltOJ_41.797637_-72.611010@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439866,
+    "wof:geomhash":"872d8f483d6fda311e02ba257b54e323",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823513123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823513123
+        }
+    ],
+    "wof:id":823513123,
+    "wof:lastmodified":1466421969,
+    "wof:name":"Snack Time Foods Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "snack"
+    ]
+},
+  "bbox": [
+    -72.61101,
+    41.797637,
+    -72.61101,
+    41.797637
+],
+  "geometry": {"coordinates":[-72.61100999999999,41.797637],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 824080017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248439,41.180552,-73.248439,41.180552",
+    "geom:latitude":41.180552,
+    "geom:longitude":-73.248439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1910 Black Rock Tpke",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/fairfield/129850-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 4469",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IO2BCJdLTPlOsvrgV0vpq_41.180552_-73.248439@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453853,
+    "wof:geomhash":"5455a537e81c16af26dde49b2406f325",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852811,
+            "region_id":85688629,
+            "venue_id":824080017
+        }
+    ],
+    "wof:id":824080017,
+    "wof:lastmodified":1466422537,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85852811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.248439,
+    41.180552,
+    -73.248439,
+    41.180552
+],
+  "geometry": {"coordinates":[-73.248439,41.180552],"type":"Point"}
+}

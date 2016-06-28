@@ -1,0 +1,81 @@
+{
+  "id": 823938853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43633,41.412803,-73.43633,41.412803",
+    "geom:latitude":41.412803,
+    "geom:longitude":-73.43633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Great Plain Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 2556",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "agent",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SEmEDhZGUYSF3zqLZNPCt_41.412803_-73.436330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450492,
+    "wof:geomhash":"df791c13519d5db02aef64ffc85151ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823938853
+        }
+    ],
+    "wof:id":823938853,
+    "wof:lastmodified":1466426345,
+    "wof:name":"Mel's Four Hour Cleaning",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "agent",
+        "garment"
+    ]
+},
+  "bbox": [
+    -73.43633,
+    41.412803,
+    -73.43633,
+    41.412803
+],
+  "geometry": {"coordinates":[-73.43633,41.412803],"type":"Point"}
+}

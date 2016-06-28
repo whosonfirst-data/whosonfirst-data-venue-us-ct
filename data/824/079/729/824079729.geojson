@@ -1,0 +1,82 @@
+{
+  "id": 824079729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.411329,41.412435,-73.411329,41.412435",
+    "geom:latitude":41.412435,
+    "geom:longitude":-73.411329,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"98 Newtown Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/danbury/70084-bertuccis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 739 0500",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vVwKusNlBmt9321u01KPU_41.412435_-73.411329@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453848,
+    "wof:geomhash":"c7e94d3076495a35d41c9c1939db65cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":824079729
+        }
+    ],
+    "wof:id":824079729,
+    "wof:lastmodified":1466422665,
+    "wof:name":"Bertucci's",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.411329,
+    41.412435,
+    -73.411329,
+    41.412435
+],
+  "geometry": {"coordinates":[-73.41132899999999,41.412435],"type":"Point"}
+}

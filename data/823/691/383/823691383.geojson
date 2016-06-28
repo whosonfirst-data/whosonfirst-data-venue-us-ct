@@ -1,0 +1,71 @@
+{
+  "id": 823691383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.961054,41.351864,-72.961054,41.351864",
+    "geom:latitude":41.351864,
+    "geom:longitude":-72.961054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"801 Woodin St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879185,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wV2erSSDLwdleqO4qoX7V_41.351864_-72.961054@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444048,
+    "wof:geomhash":"ffa0089d3861e42c262e441051d21983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879185,
+            "region_id":85688629,
+            "venue_id":823691383
+        }
+    ],
+    "wof:id":823691383,
+    "wof:lastmodified":1466424011,
+    "wof:name":"Woodin St Group Home",
+    "wof:parent_id":85879185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.961054,
+    41.351864,
+    -72.961054,
+    41.351864
+],
+  "geometry": {"coordinates":[-72.961054,41.351864],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 269893021,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491823,41.149138,-73.491823,41.149138",
     "geom:latitude":41.149138,
     "geom:longitude":-73.491823,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Locust Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269893021,
-    "wof:lastmodified":1449038392,
+    "wof:lastmodified":1466421104,
     "wof:name":"ABC Guys",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.491823,41.149138,-73.491823,41.149138],
+  "bbox": [
+    -73.491823,
+    41.149138,
+    -73.491823,
+    41.149138
+],
   "geometry": {"coordinates":[-73.491823,41.149138],"type":"Point"}
 }

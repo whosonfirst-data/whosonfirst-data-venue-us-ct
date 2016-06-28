@@ -1,0 +1,66 @@
+{
+  "id": 823765225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.419695,41.797272,-72.419695,41.797272",
+    "geom:latitude":41.797272,
+    "geom:longitude":-72.419695,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1262 Boston Tpke",
+    "sg:city":"Bolton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 649 6364",
+    "sg:postcode":"06043",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868767,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DMH4m1KZIZJpBItqc9V9r_41.797272_-72.419695@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445721,
+    "wof:geomhash":"9efd9fb16a61dbcb1235f8242dc4b7b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85868767,
+            "region_id":85688629,
+            "venue_id":823765225
+        }
+    ],
+    "wof:id":823765225,
+    "wof:lastmodified":1466424807,
+    "wof:name":"Cropleys Garden Center",
+    "wof:parent_id":85868767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.419695,
+    41.797272,
+    -72.419695,
+    41.797272
+],
+  "geometry": {"coordinates":[-72.419695,41.797272],"type":"Point"}
+}

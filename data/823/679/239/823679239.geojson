@@ -1,0 +1,73 @@
+{
+  "id": 823679239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.822138,41.277672,-72.822138,41.277672",
+    "geom:latitude":41.277672,
+    "geom:longitude":-72.822138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"238 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 483 2426",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kqvImTGItD9T6vOCDqpxp_41.277672_-72.822138@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443773,
+    "wof:geomhash":"0d652dda7b6f3a2b20711d38586acd03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823679239
+        }
+    ],
+    "wof:id":823679239,
+    "wof:lastmodified":1466424050,
+    "wof:name":"General Practitioners Branford",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.822138,
+    41.277672,
+    -72.822138,
+    41.277672
+],
+  "geometry": {"coordinates":[-72.822138,41.277672],"type":"Point"}
+}

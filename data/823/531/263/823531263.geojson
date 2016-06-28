@@ -1,0 +1,71 @@
+{
+  "id": 823531263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725561,41.334194,-72.725561,41.334194",
+    "geom:latitude":41.334194,
+    "geom:longitude":-72.725561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"138 Woodland Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 1300",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YiMaFmOe5kDmc4pfFkgQT_41.334194_-72.725561@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440277,
+    "wof:geomhash":"247c3c83d01b30b46f39796466d70c22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823531263
+        }
+    ],
+    "wof:id":823531263,
+    "wof:lastmodified":1466422343,
+    "wof:name":"Critter Sitters",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet"
+    ]
+},
+  "bbox": [
+    -72.725561,
+    41.334194,
+    -72.725561,
+    41.334194
+],
+  "geometry": {"coordinates":[-72.725561,41.334194],"type":"Point"}
+}

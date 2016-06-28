@@ -1,0 +1,79 @@
+{
+  "id": 823655867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.53382,41.074231,-73.53382,41.074231",
+    "geom:latitude":41.074231,
+    "geom:longitude":-73.53382,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"416 Strawberry Hill Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 4147",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805565,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61zjVSu6IB5Thsbv8HegYC_41.074231_-73.533820@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443216,
+    "wof:geomhash":"79cd1e1946fd7a732aa8fecd59e287cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85805565,
+            "region_id":85688629,
+            "venue_id":823655867
+        }
+    ],
+    "wof:id":823655867,
+    "wof:lastmodified":1466423841,
+    "wof:name":"Jack Bathija MD",
+    "wof:parent_id":85805565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.53382,
+    41.074231,
+    -73.53382,
+    41.074231
+],
+  "geometry": {"coordinates":[-73.53382000000001,41.074231],"type":"Point"}
+}

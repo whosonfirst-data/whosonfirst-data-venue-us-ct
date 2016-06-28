@@ -1,0 +1,79 @@
+{
+  "id": 823495441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.48733,41.367084,-73.48733,41.367084",
+    "geom:latitude":41.367084,
+    "geom:longitude":-73.48733,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Miry Brook Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 4064",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834619,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GWy7La6p0G3uLlmFXD2Rt_41.367084_-73.487330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439443,
+    "wof:geomhash":"4df86fb41388d6107db5f11a8be6b861",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834619,
+            "region_id":85688629,
+            "venue_id":823495441
+        }
+    ],
+    "wof:id":823495441,
+    "wof:lastmodified":1466421631,
+    "wof:name":"Miry Brook Volunteer Fire Dept",
+    "wof:parent_id":85834619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -73.48733,
+    41.367084,
+    -73.48733,
+    41.367084
+],
+  "geometry": {"coordinates":[-73.48733,41.367084],"type":"Point"}
+}

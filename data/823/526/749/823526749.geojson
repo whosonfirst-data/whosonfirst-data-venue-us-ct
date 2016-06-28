@@ -1,0 +1,85 @@
+{
+  "id": 823526749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.048405,41.287499,-73.048405,41.287499",
+    "geom:latitude":41.287499,
+    "geom:longitude":-73.048405,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"752 Deer Run Ln",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 795 6664",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment",
+        "skilled",
+        "nursing",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22rfSjwFrdx1lYXInH6sID_41.287499_-73.048405@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440184,
+    "wof:geomhash":"f6a563e7bb6ec7db9d164cff383e2f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823526749
+        }
+    ],
+    "wof:id":823526749,
+    "wof:lastmodified":1466422226,
+    "wof:name":"Heritage Manor",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment",
+        "skilled",
+        "nursing",
+        "care"
+    ]
+},
+  "bbox": [
+    -73.048405,
+    41.287499,
+    -73.048405,
+    41.287499
+],
+  "geometry": {"coordinates":[-73.048405,41.287499],"type":"Point"}
+}

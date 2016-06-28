@@ -1,0 +1,73 @@
+{
+  "id": 823691735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109571,41.432207,-73.109571,41.432207",
+    "geom:latitude":41.432207,
+    "geom:longitude":-73.109571,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Chestnut Tree Hill Rd Exd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 5715",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Wdm7O4wP9I8MYGgePVXPg_41.432207_-73.109571@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444057,
+    "wof:geomhash":"448daed346c51b0f2b19faf9450fe463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823691735
+        }
+    ],
+    "wof:id":823691735,
+    "wof:lastmodified":1466424174,
+    "wof:name":"Dave's Town & Country Plumbing",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.109571,
+    41.432207,
+    -73.109571,
+    41.432207
+],
+  "geometry": {"coordinates":[-73.109571,41.432207],"type":"Point"}
+}

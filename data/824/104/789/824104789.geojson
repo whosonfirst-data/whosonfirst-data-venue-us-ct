@@ -1,0 +1,76 @@
+{
+  "id": 824104789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376701,41.293098,-72.376701,41.293098",
+    "geom:latitude":41.293098,
+    "geom:longitude":-72.376701,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"178 Main St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 3308",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lCTvz7QxAuEVaCcbZeUlm_41.293098_-72.376701@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454441,
+    "wof:geomhash":"c8f5fb776d5a2d9ef026b0858505cff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824104789
+        }
+    ],
+    "wof:id":824104789,
+    "wof:lastmodified":1466423226,
+    "wof:name":"Walt's Food Market",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.376701,
+    41.293098,
+    -72.376701,
+    41.293098
+],
+  "geometry": {"coordinates":[-72.376701,41.293098],"type":"Point"}
+}

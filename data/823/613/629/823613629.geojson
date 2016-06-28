@@ -1,0 +1,75 @@
+{
+  "id": 823613629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986166,41.588575,-72.986166,41.588575",
+    "geom:latitude":41.588575,
+    "geom:longitude":-72.986166,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Wolf Hill Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 3130",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bus",
+        "tour",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aXRp5hdIl73Z5Hz979fPs_41.588575_-72.986166@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442240,
+    "wof:geomhash":"746d085d11a2252c5ca0134e0dd465c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823613629
+        }
+    ],
+    "wof:id":823613629,
+    "wof:lastmodified":1466423459,
+    "wof:name":"Monarch Tours",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "tour",
+        "agency"
+    ]
+},
+  "bbox": [
+    -72.986166,
+    41.588575,
+    -72.986166,
+    41.588575
+],
+  "geometry": {"coordinates":[-72.986166,41.588575],"type":"Point"}
+}

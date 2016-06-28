@@ -1,0 +1,66 @@
+{
+  "id": 823703201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.292762,41.395632,-73.292762,41.395632",
+    "geom:latitude":41.395632,
+    "geom:longitude":-73.292762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"83 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tjGcy6uEKPbFOhDju5Hqf_41.395632_-73.292762@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444306,
+    "wof:geomhash":"61271e57a02817b17e4eb75991dadb93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823703201
+        }
+    ],
+    "wof:id":823703201,
+    "wof:lastmodified":1466424244,
+    "wof:name":"Galerie Van-Os",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.292762,
+    41.395632,
+    -73.292762,
+    41.395632
+],
+  "geometry": {"coordinates":[-73.292762,41.395632],"type":"Point"}
+}

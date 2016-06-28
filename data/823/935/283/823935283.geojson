@@ -1,0 +1,82 @@
+{
+  "id": 823935283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.760336,41.525448,-72.760336,41.525448",
+    "geom:latitude":41.525448,
+    "geom:longitude":-72.760336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1247 E Main St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 237 3252",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805899,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20d9N0XgmMpEnpR5KQV7fw_41.525448_-72.760336@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450405,
+    "wof:geomhash":"c13c366449d50f3af00ce52a8d5b87ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85805899,
+            "region_id":85688629,
+            "venue_id":823935283
+        }
+    ],
+    "wof:id":823935283,
+    "wof:lastmodified":1466426080,
+    "wof:name":"Antico Ravioli Co",
+    "wof:parent_id":85805899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.760336,
+    41.525448,
+    -72.760336,
+    41.525448
+],
+  "geometry": {"coordinates":[-72.760336,41.525448],"type":"Point"}
+}

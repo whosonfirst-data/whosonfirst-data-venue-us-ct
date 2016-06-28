@@ -1,0 +1,82 @@
+{
+  "id": 823830337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.456619,41.37527,-73.456619,41.37527",
+    "geom:latitude":41.37527,
+    "geom:longitude":-73.456619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Tarrywile Lake Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 730 1728",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "relocation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834619,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DGd8o4nuMANJdYDKiGkZn_41.375270_-73.456619@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447617,
+    "wof:geomhash":"dc0f994cc58b4631ab4a28c5c2e902c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834619,
+            "region_id":85688629,
+            "venue_id":823830337
+        }
+    ],
+    "wof:id":823830337,
+    "wof:lastmodified":1466425263,
+    "wof:name":"Weichert Relocation Company",
+    "wof:parent_id":85834619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "relocation"
+    ]
+},
+  "bbox": [
+    -73.456619,
+    41.37527,
+    -73.456619,
+    41.37527
+],
+  "geometry": {"coordinates":[-73.456619,41.37527],"type":"Point"}
+}

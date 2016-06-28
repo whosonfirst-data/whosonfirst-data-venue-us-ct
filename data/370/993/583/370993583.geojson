@@ -2,13 +2,14 @@
   "id": 370993583,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.452865,41.147852,-73.452865,41.147852",
     "geom:latitude":41.147852,
     "geom:longitude":-73.452865,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Comstock Hill Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370993583,
-    "wof:lastmodified":1449030595,
+    "wof:lastmodified":1466421102,
     "wof:name":"Laura Case Designs",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.452865,41.147852,-73.452865,41.147852],
+  "bbox": [
+    -73.452865,
+    41.147852,
+    -73.452865,
+    41.147852
+],
   "geometry": {"coordinates":[-73.452865,41.147852],"type":"Point"}
 }

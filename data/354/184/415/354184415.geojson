@@ -2,13 +2,14 @@
   "id": 354184415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488596,41.148678,-73.488596,41.148678",
     "geom:latitude":41.148678,
     "geom:longitude":-73.488596,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"31 Vitti St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354184415,
-    "wof:lastmodified":1449066225,
+    "wof:lastmodified":1466421136,
     "wof:name":"Fabulous Feasts",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.488596,41.148678,-73.488596,41.148678],
+  "bbox": [
+    -73.488596,
+    41.148678,
+    -73.488596,
+    41.148678
+],
   "geometry": {"coordinates":[-73.488596,41.148678],"type":"Point"}
 }

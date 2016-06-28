@@ -1,0 +1,74 @@
+{
+  "id": 823648853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932776,41.348256,-72.932776,41.348256",
+    "geom:latitude":41.348256,
+    "geom:longitude":-72.932776,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1203 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 624 8761",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NSQdIABoHOJ5Yzb695OQ6_41.348256_-72.932776@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443057,
+    "wof:geomhash":"a800544285b9aec4d887429c07401e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823648853
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823648853
+        }
+    ],
+    "wof:id":823648853,
+    "wof:lastmodified":1466423867,
+    "wof:name":"Roma Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.932776,
+    41.348256,
+    -72.932776,
+    41.348256
+],
+  "geometry": {"coordinates":[-72.932776,41.348256],"type":"Point"}
+}

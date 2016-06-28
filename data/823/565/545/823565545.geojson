@@ -1,0 +1,71 @@
+{
+  "id": 823565545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219645,41.536177,-73.219645,41.536177",
+    "geom:latitude":41.536177,
+    "geom:longitude":-73.219645,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"190 Great Hollow Rd",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2evZzxyIJKrL1P12I437MN_41.536177_-73.219645@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441072,
+    "wof:geomhash":"2c0f2443d25e670368291bd9dc5118fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823565545
+        }
+    ],
+    "wof:id":823565545,
+    "wof:lastmodified":1466422989,
+    "wof:name":"Koukopoulos Pano",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -73.219645,
+    41.536177,
+    -73.219645,
+    41.536177
+],
+  "geometry": {"coordinates":[-73.219645,41.536177],"type":"Point"}
+}

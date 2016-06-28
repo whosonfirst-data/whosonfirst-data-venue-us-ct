@@ -1,0 +1,80 @@
+{
+  "id": 824079877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.469633,41.077727,-73.469633,41.077727",
+    "geom:latitude":41.077727,
+    "geom:longitude":-73.469633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"879 Post Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/darien/144281-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 656 1034",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1duiZp0JdV9IcYvXZYli0h_41.077727_-73.469633@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453850,
+    "wof:geomhash":"be2044dc5a0d223a4c887da90c40e4a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":824079877
+        }
+    ],
+    "wof:id":824079877,
+    "wof:lastmodified":1466422604,
+    "wof:name":"Subway",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.469633,
+    41.077727,
+    -73.469633,
+    41.077727
+],
+  "geometry": {"coordinates":[-73.469633,41.077727],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823751017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.569395,41.68115,-72.569395,41.68115",
+    "geom:latitude":41.68115,
+    "geom:longitude":-72.569395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Wood Pond Rd",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24JaYcnaxLVHxlGYATBXOQ_41.681150_-72.569395@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445407,
+    "wof:geomhash":"ee24b286eef8140c22d87e048f8a9b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823751017
+        }
+    ],
+    "wof:id":823751017,
+    "wof:lastmodified":1466424705,
+    "wof:name":"June S McDonald MD",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.569395,
+    41.68115,
+    -72.569395,
+    41.68115
+],
+  "geometry": {"coordinates":[-72.569395,41.68115],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823904569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.447565,41.295751,-73.447565,41.295751",
+    "geom:latitude":41.295751,
+    "geom:longitude":-73.447565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Topledge Rd",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 0766",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25fGBAUFxCPPfByPSaRyVv_41.295751_-73.447565@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449588,
+    "wof:geomhash":"a85d4ed998ed925865d9c7537d4717bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823904569
+        }
+    ],
+    "wof:id":823904569,
+    "wof:lastmodified":1466426080,
+    "wof:name":"Homestead Services",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.447565,
+    41.295751,
+    -73.447565,
+    41.295751
+],
+  "geometry": {"coordinates":[-73.447565,41.295751],"type":"Point"}
+}

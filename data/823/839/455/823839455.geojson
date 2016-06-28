@@ -1,0 +1,73 @@
+{
+  "id": 823839455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.233441,41.352611,-73.233441,41.352611",
+    "geom:latitude":41.352611,
+    "geom:longitude":-73.233441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"487 Fan Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 459 4325",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XmVD39hQWASPBbOMsXFga_41.352611_-73.233441@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447923,
+    "wof:geomhash":"2e50dcc5d430c41ab7067d7c6c31445f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823839455
+        }
+    ],
+    "wof:id":823839455,
+    "wof:lastmodified":1466425482,
+    "wof:name":"Hasco Group Home",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -73.233441,
+    41.352611,
+    -73.233441,
+    41.352611
+],
+  "geometry": {"coordinates":[-73.233441,41.352611],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823620619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079016,41.856825,-73.079016,41.856825",
+    "geom:latitude":41.856825,
+    "geom:longitude":-73.079016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Quail Run",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 496 1006",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808607,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TZ85slJu3X328uR9erxJ4_41.856825_-73.079016@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442412,
+    "wof:geomhash":"38a3c54061332f15ebe7b76fb25744ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85808607,
+            "region_id":85688629,
+            "venue_id":823620619
+        }
+    ],
+    "wof:id":823620619,
+    "wof:lastmodified":1466423565,
+    "wof:name":"Equine Medical Services",
+    "wof:parent_id":85808607,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.079016,
+    41.856825,
+    -73.079016,
+    41.856825
+],
+  "geometry": {"coordinates":[-73.079016,41.856825],"type":"Point"}
+}

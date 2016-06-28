@@ -1,0 +1,66 @@
+{
+  "id": 823748635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.24529,41.278319,-73.24529,41.278319",
+    "geom:latitude":41.278319,
+    "geom:longitude":-73.24529,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Peaceful Valley Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 9580",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36K0ejiOfu1pMX9PMssCC0_41.278319_-73.245290@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445343,
+    "wof:geomhash":"82e65516357fba8a88238e67d0354386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823748635
+        }
+    ],
+    "wof:id":823748635,
+    "wof:lastmodified":1466424734,
+    "wof:name":"Highland Appraisals",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.24529,
+    41.278319,
+    -73.24529,
+    41.278319
+],
+  "geometry": {"coordinates":[-73.24529,41.278319],"type":"Point"}
+}

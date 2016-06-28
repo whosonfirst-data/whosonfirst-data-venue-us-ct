@@ -1,0 +1,73 @@
+{
+  "id": 823843721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.42809,41.32775,-72.42809,41.32775",
+    "geom:latitude":41.32775,
+    "geom:longitude":-72.42809,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"260 Westbrook Rd",
+    "sg:city":"Essex",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06426",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fIhQsyeL2FcORhbZoQpjy_41.327750_-72.428090@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448045,
+    "wof:geomhash":"f94668542c76aaa3f5580ba01c8e0126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":823843721
+        }
+    ],
+    "wof:id":823843721,
+    "wof:lastmodified":1466425409,
+    "wof:name":"Shoreline Clinic",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.42809,
+    41.32775,
+    -72.42809,
+    41.32775
+],
+  "geometry": {"coordinates":[-72.42809,41.32775],"type":"Point"}
+}

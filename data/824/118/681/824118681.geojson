@@ -1,0 +1,91 @@
+{
+  "id": 824118681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.526267,41.375302,-73.526267,41.375302",
+    "geom:latitude":41.375302,
+    "geom:longitude":-73.526267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"900 Ridgebury Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 9988",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844499,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Tafc2zazvLmI7fKhouYgM_41.375302_-73.526267@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454738,
+    "wof:geomhash":"dfcdf628b2fedd00e7b3206ec50fb7d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844499,
+            "region_id":85688629,
+            "venue_id":824118681
+        }
+    ],
+    "wof:id":824118681,
+    "wof:lastmodified":1466423315,
+    "wof:name":"Boehringer Ingelheim Usa Corporation",
+    "wof:parent_id":85844499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -73.526267,
+    41.375302,
+    -73.526267,
+    41.375302
+],
+  "geometry": {"coordinates":[-73.526267,41.375302],"type":"Point"}
+}

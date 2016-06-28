@@ -1,0 +1,71 @@
+{
+  "id": 823945993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.387029,41.457764,-73.387029,41.457764",
+    "geom:latitude":41.457764,
+    "geom:longitude":-73.387029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 White Pine Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 9053",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RgoD0zuV1qRzyESCnakja_41.457764_-73.387029@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450693,
+    "wof:geomhash":"72a0d7b0e17ad5352d7167432a55dc90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823945993
+        }
+    ],
+    "wof:id":823945993,
+    "wof:lastmodified":1466426453,
+    "wof:name":"Engineering Services",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -73.387029,
+    41.457764,
+    -73.387029,
+    41.457764
+],
+  "geometry": {"coordinates":[-73.387029,41.457764],"type":"Point"}
+}

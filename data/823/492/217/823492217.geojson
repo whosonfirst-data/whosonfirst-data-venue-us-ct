@@ -1,0 +1,75 @@
+{
+  "id": 823492217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.375168,41.300304,-72.375168,41.300304",
+    "geom:latitude":41.300304,
+    "geom:longitude":-72.375168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"455 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 3741",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "transportation",
+        "arrangement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vDoe8YI4xxa1kiQzk3jhz_41.300304_-72.375168@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439359,
+    "wof:geomhash":"a090d15c01a4f0159753d811f3c5e4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823492217
+        }
+    ],
+    "wof:id":823492217,
+    "wof:lastmodified":1466421567,
+    "wof:name":"Amtrak",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "transportation",
+        "arrangement"
+    ]
+},
+  "bbox": [
+    -72.375168,
+    41.300304,
+    -72.375168,
+    41.300304
+],
+  "geometry": {"coordinates":[-72.375168,41.300304],"type":"Point"}
+}

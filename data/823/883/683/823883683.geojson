@@ -1,0 +1,66 @@
+{
+  "id": 823883683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417338,41.182298,-73.417338,41.182298",
+    "geom:latitude":41.182298,
+    "geom:longitude":-73.417338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"167 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 5676",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_364Bf9qSr2k9FLwjjzNqmO_41.182298_-73.417338@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449053,
+    "wof:geomhash":"19002ae719a077258f8cb4dc1d7f8a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823883683
+        }
+    ],
+    "wof:id":823883683,
+    "wof:lastmodified":1466425874,
+    "wof:name":"Orem's Diner",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.417338,
+    41.182298,
+    -73.417338,
+    41.182298
+],
+  "geometry": {"coordinates":[-73.417338,41.182298],"type":"Point"}
+}

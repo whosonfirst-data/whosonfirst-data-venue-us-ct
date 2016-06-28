@@ -1,0 +1,71 @@
+{
+  "id": 824058237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.666699,41.921572,-72.666699,41.921572",
+    "geom:latitude":41.921572,
+    "geom:longitude":-72.666699,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Concorde Way",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j3me8hgPSuviyhQYkDPtW_41.921572_-72.666699@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453358,
+    "wof:geomhash":"fbe25f2978cbf8d96a8355a22dea3780",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":824058237
+        }
+    ],
+    "wof:id":824058237,
+    "wof:lastmodified":1466422106,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.666699,
+    41.921572,
+    -72.666699,
+    41.921572
+],
+  "geometry": {"coordinates":[-72.66669899999999,41.921572],"type":"Point"}
+}

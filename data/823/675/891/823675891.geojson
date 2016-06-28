@@ -1,0 +1,71 @@
+{
+  "id": 823675891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167751,41.273399,-73.167751,41.273399",
+    "geom:latitude":41.273399,
+    "geom:longitude":-73.167751,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Canfield Dr",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 9260",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CNVHUIwYS647wPc0s6VNx_41.273399_-73.167751@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443699,
+    "wof:geomhash":"9040129854fd5041f50b29ee64b10237",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823675891
+        }
+    ],
+    "wof:id":823675891,
+    "wof:lastmodified":1466423771,
+    "wof:name":"Robert Campoli Tile Co",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.167751,
+    41.273399,
+    -73.167751,
+    41.273399
+],
+  "geometry": {"coordinates":[-73.167751,41.273399],"type":"Point"}
+}

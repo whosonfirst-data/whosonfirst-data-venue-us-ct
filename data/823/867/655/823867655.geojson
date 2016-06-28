@@ -1,0 +1,74 @@
+{
+  "id": 823867655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.234093,41.155516,-73.234093,41.155516",
+    "geom:latitude":41.155516,
+    "geom:longitude":-73.234093,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Poland St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 5100",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "sg:website":"www.finepainting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RsxkwACvCof07Qt4OpYOI_41.155516_-73.234093@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448684,
+    "wof:geomhash":"3c793f2f468629fd13963ce28b341401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823867655
+        }
+    ],
+    "wof:id":823867655,
+    "wof:lastmodified":1466425738,
+    "wof:name":"Fine Painting Inc",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.234093,
+    41.155516,
+    -73.234093,
+    41.155516
+],
+  "geometry": {"coordinates":[-73.234093,41.155516],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823872755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.946672,41.262937,-72.946672,41.262937",
+    "geom:latitude":41.262937,
+    "geom:longitude":-72.946672,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 Campbell Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 933 5236",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "repairing",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868719,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mtayib808u1QdYA7aYJsE_41.262937_-72.946672@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448801,
+    "wof:geomhash":"3ec96d7d8f45d9c4effb072c2b2f20be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85868719,
+            "region_id":85688629,
+            "venue_id":823872755
+        }
+    ],
+    "wof:id":823872755,
+    "wof:lastmodified":1466425922,
+    "wof:name":"Otto's Garage Inc",
+    "wof:parent_id":85868719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automobile",
+        "repairing",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.946672,
+    41.262937,
+    -72.946672,
+    41.262937
+],
+  "geometry": {"coordinates":[-72.94667200000001,41.262937],"type":"Point"}
+}

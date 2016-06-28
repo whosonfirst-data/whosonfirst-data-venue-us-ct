@@ -1,0 +1,83 @@
+{
+  "id": 824083613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.867401,41.8158,-72.867401,41.8158",
+    "geom:latitude":41.8158,
+    "geom:longitude":-72.867401,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 W Avon Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 0155",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tQiA7oN9YIKl1koPiB9fC_41.815800_-72.867401@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453937,
+    "wof:geomhash":"19ca889ab9105dbb7ba4559f58031e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824083613
+        }
+    ],
+    "wof:id":824083613,
+    "wof:lastmodified":1466422472,
+    "wof:name":"Pooh's Corner",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -72.867401,
+    41.8158,
+    -72.867401,
+    41.8158
+],
+  "geometry": {"coordinates":[-72.867401,41.8158],"type":"Point"}
+}

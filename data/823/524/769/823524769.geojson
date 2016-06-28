@@ -1,0 +1,79 @@
+{
+  "id": 823524769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.549323,41.070383,-73.549323,41.070383",
+    "geom:latitude":41.070383,
+    "geom:longitude":-73.549323,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2777 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 967 9022",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "distance",
+        "long"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdW7DtXZImTrApUGvWqVN_41.070383_-73.549323@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440133,
+    "wof:geomhash":"9527e36d27785f980c9b77876fb5aac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823524769
+        }
+    ],
+    "wof:id":823524769,
+    "wof:lastmodified":1466422183,
+    "wof:name":"MCI",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long"
+    ]
+},
+  "bbox": [
+    -73.549323,
+    41.070383,
+    -73.549323,
+    41.070383
+],
+  "geometry": {"coordinates":[-73.549323,41.070383],"type":"Point"}
+}

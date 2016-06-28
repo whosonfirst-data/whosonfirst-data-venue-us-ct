@@ -1,0 +1,75 @@
+{
+  "id": 823808103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.666336,41.84865,-72.666336,41.84865",
+    "geom:latitude":41.84865,
+    "geom:longitude":-72.666336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Morris Dr",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 688 7034",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0huZOqweQgrKjR3CMCYp27_41.848650_-72.666336@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446948,
+    "wof:geomhash":"37ca18a79f791d854e10e9cccff8c175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823808103
+        }
+    ],
+    "wof:id":823808103,
+    "wof:lastmodified":1466425182,
+    "wof:name":"James M Rocchi",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.666336,
+    41.84865,
+    -72.666336,
+    41.84865
+],
+  "geometry": {"coordinates":[-72.666336,41.84865],"type":"Point"}
+}

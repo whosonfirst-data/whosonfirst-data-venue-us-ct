@@ -1,0 +1,74 @@
+{
+  "id": 824078555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901516,41.38488,-72.901516,41.38488",
+    "geom:latitude":41.38488,
+    "geom:longitude":-72.901516,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2402 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/261288-elis-brick-oven-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 1686",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kpZDpFmPgqYFjIk90T0Ol_41.384880_-72.901516@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453822,
+    "wof:geomhash":"27777147ef420a534c9aba679fb2ac1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":824078555
+        }
+    ],
+    "wof:id":824078555,
+    "wof:lastmodified":1466422591,
+    "wof:name":"Eli's Brick Oven Pizza",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.901516,
+    41.38488,
+    -72.901516,
+    41.38488
+],
+  "geometry": {"coordinates":[-72.901516,41.38488],"type":"Point"}
+}

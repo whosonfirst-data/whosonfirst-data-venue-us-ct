@@ -1,0 +1,73 @@
+{
+  "id": 824017037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.277666,41.788137,-72.277666,41.788137",
+    "geom:latitude":41.788137,
+    "geom:longitude":-72.277666,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"871 Stafford Rd",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931263,
+        102085379,
+        85815787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vHzA7Fu6b37PaTiczXmAp_41.788137_-72.277666@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452360,
+    "wof:geomhash":"58d37796eebad42ba4b86e28ddbdc6ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931263,
+            "neighbourhood_id":85815787,
+            "region_id":85688629,
+            "venue_id":824017037
+        }
+    ],
+    "wof:id":824017037,
+    "wof:lastmodified":1466421397,
+    "wof:name":"Materials Testing Inc",
+    "wof:parent_id":85815787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.277666,
+    41.788137,
+    -72.277666,
+    41.788137
+],
+  "geometry": {"coordinates":[-72.277666,41.788137],"type":"Point"}
+}

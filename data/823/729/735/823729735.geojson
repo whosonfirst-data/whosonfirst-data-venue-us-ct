@@ -1,0 +1,80 @@
+{
+  "id": 823729735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.40129,41.12345,-73.40129,41.12345",
+    "geom:latitude":41.12345,
+    "geom:longitude":-73.40129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Westport Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 847 9088",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "sg:website":"www.stewleonards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879317,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SyqoCqZLulVMfqPaBCZcT_41.123450_-73.401290@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444895,
+    "wof:geomhash":"4b95fd87ca95fd7899bdfd12a9fc46e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":823729735
+        }
+    ],
+    "wof:id":823729735,
+    "wof:lastmodified":1466424638,
+    "wof:name":"G & L Distributors",
+    "wof:parent_id":85879317,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -73.40129,
+    41.12345,
+    -73.40129,
+    41.12345
+],
+  "geometry": {"coordinates":[-73.40129,41.12345],"type":"Point"}
+}

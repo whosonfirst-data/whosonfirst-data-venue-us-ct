@@ -1,0 +1,79 @@
+{
+  "id": 823753167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.674285,41.767522,-72.674285,41.767522",
+    "geom:latitude":41.767522,
+    "geom:longitude":-72.674285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Pratt St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 883 9544",
+    "sg:postcode":"06103",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85866871,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wPA0zkjBO25WFPS5T3oMk_41.767522_-72.674285@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445453,
+    "wof:geomhash":"53a937233a212176d86d481c3c8f6553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85866871,
+            "region_id":85688629,
+            "venue_id":823753167
+        }
+    ],
+    "wof:id":823753167,
+    "wof:lastmodified":1466424706,
+    "wof:name":"Ecal Electric Inc",
+    "wof:parent_id":85866871,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.674285,
+    41.767522,
+    -72.674285,
+    41.767522
+],
+  "geometry": {"coordinates":[-72.674285,41.767522],"type":"Point"}
+}

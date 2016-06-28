@@ -1,0 +1,82 @@
+{
+  "id": 823482097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.544898,41.06666,-73.544898,41.06666",
+    "geom:latitude":41.06666,
+    "geom:longitude":-73.544898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 6th St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 356 8901",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sd7Q3bKsWIgTPr0Lb03C7_41.066660_-73.544898@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439129,
+    "wof:geomhash":"887e74a8a073a6ea54735b179dd3dc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823482097
+        }
+    ],
+    "wof:id":823482097,
+    "wof:lastmodified":1466421432,
+    "wof:name":"Coppola Joe Custom Tailoring",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tailor"
+    ]
+},
+  "bbox": [
+    -73.544898,
+    41.06666,
+    -73.544898,
+    41.06666
+],
+  "geometry": {"coordinates":[-73.544898,41.06666],"type":"Point"}
+}

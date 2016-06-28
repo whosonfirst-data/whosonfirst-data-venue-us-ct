@@ -1,0 +1,73 @@
+{
+  "id": 823977613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.900501,41.339689,-71.900501,41.339689",
+    "geom:latitude":41.339689,
+    "geom:longitude":-71.900501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"152 Elm St",
+    "sg:city":"Stonington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 535 5056",
+    "sg:postcode":"06378",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855115,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wEDIR9r00mDsOe7L8RoQL_41.339689_-71.900501@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451414,
+    "wof:geomhash":"232aaebe8b9bd5ad178d2bd93f01a57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85855115,
+            "region_id":85688629,
+            "venue_id":823977613
+        }
+    ],
+    "wof:id":823977613,
+    "wof:lastmodified":1466426605,
+    "wof:name":"Dept of Engineering",
+    "wof:parent_id":85855115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "engineering"
+    ]
+},
+  "bbox": [
+    -71.900501,
+    41.339689,
+    -71.900501,
+    41.339689
+],
+  "geometry": {"coordinates":[-71.90050100000001,41.339689],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 823763163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.933578,41.308848,-72.933578,41.308848",
+    "geom:latitude":41.308848,
+    "geom:longitude":-72.933578,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1140 Chapel St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 562 2634",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "designer",
+        "design"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879167,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rOIU6ZWNEspqtZ2KIvz8G_41.308848_-72.933578@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445679,
+    "wof:geomhash":"485b4a5a7f86dbfe6a5cf9eac18348c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879167,
+            "region_id":85688629,
+            "venue_id":823763163
+        }
+    ],
+    "wof:id":823763163,
+    "wof:lastmodified":1466424801,
+    "wof:name":"Wilson Sloan Design",
+    "wof:parent_id":85879167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "designer",
+        "design"
+    ]
+},
+  "bbox": [
+    -72.933578,
+    41.308848,
+    -72.933578,
+    41.308848
+],
+  "geometry": {"coordinates":[-72.933578,41.308848],"type":"Point"}
+}

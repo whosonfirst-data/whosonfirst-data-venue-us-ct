@@ -1,0 +1,78 @@
+{
+  "id": 824089693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.547636,41.809624,-72.547636,41.809624",
+    "geom:latitude":41.809624,
+    "geom:longitude":-72.547636,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"194 Buckland Hills Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 432 8600",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1etUAla195CMcKS0Nt8psU_41.809624_-72.547636@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454083,
+    "wof:geomhash":"e6fef72dfdab88177cfb89ff9361ccab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":824089693
+        }
+    ],
+    "wof:id":824089693,
+    "wof:lastmodified":1466422890,
+    "wof:name":"Funny Bone Comedy Club & Restaurant",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -72.547636,
+    41.809624,
+    -72.547636,
+    41.809624
+],
+  "geometry": {"coordinates":[-72.547636,41.809624],"type":"Point"}
+}

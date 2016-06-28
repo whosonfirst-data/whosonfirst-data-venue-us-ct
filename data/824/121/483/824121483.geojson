@@ -1,0 +1,84 @@
+{
+  "id": 824121483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.61926,41.721662,-72.61926,41.721662",
+    "geom:latitude":41.721662,
+    "geom:longitude":-72.61926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"95 Glastonbury Blvd.",
+    "sg:city":"Glastonbury ",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 5540",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "software-development",
+        "crowdsourcing",
+        "global-community",
+        "competitive-programming"
+    ],
+    "sg:website":"http://www.topcoder.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PVng2QBDZbhHJmvH4B6ow_41.721662_-72.619260@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1463454792,
+    "wof:geomhash":"c24b78713a058f29485ba23cb8eb9a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824121483
+        }
+    ],
+    "wof:id":824121483,
+    "wof:lastmodified":1466423382,
+    "wof:name":"TopCoder",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "software-development",
+        "crowdsourcing",
+        "global-community",
+        "competitive-programming"
+    ]
+},
+  "bbox": [
+    -72.61926,
+    41.721662,
+    -72.61926,
+    41.721662
+],
+  "geometry": {"coordinates":[-72.61926,41.721662],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824027399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812116,41.252718,-72.812116,41.252718",
+    "geom:latitude":41.252718,
+    "geom:longitude":-72.812116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Bayberry Ln",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09CVRNbhEk56KzMGk4mIfl_41.252718_-72.812116@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452603,
+    "wof:geomhash":"105541fffa1767393c9f4a447b7bf5eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":824027399
+        }
+    ],
+    "wof:id":824027399,
+    "wof:lastmodified":1466421482,
+    "wof:name":"Ugly Athletics Co",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.812116,
+    41.252718,
+    -72.812116,
+    41.252718
+],
+  "geometry": {"coordinates":[-72.812116,41.252718],"type":"Point"}
+}

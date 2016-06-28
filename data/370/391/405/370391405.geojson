@@ -2,13 +2,14 @@
   "id": 370391405,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.662089,41.027196,-73.662089,41.027196",
     "geom:latitude":41.027196,
     "geom:longitude":-73.662089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Comly Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370391405,
-    "wof:lastmodified":1449031242,
+    "wof:lastmodified":1466421143,
     "wof:name":"Reich & Tang",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.662089,41.027196,-73.662089,41.027196],
-  "geometry": {"coordinates":[-73.662089,41.027196],"type":"Point"}
+  "bbox": [
+    -73.662089,
+    41.027196,
+    -73.662089,
+    41.027196
+],
+  "geometry": {"coordinates":[-73.66208899999999,41.027196],"type":"Point"}
 }

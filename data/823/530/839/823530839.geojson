@@ -1,0 +1,71 @@
+{
+  "id": 823530839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.21034,41.357898,-72.21034,41.357898",
+    "geom:latitude":41.357898,
+    "geom:longitude":-72.21034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"252 Flanders Rd",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822167,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dj3V5TLiJFL173w1wtfgq_41.357898_-72.210340@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440269,
+    "wof:geomhash":"4ecbb9a58c58ba9cd4fe556214fec320",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85822167,
+            "region_id":85688629,
+            "venue_id":823530839
+        }
+    ],
+    "wof:id":823530839,
+    "wof:lastmodified":1466422360,
+    "wof:name":"National Tire Company",
+    "wof:parent_id":85822167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.21034,
+    41.357898,
+    -72.21034,
+    41.357898
+],
+  "geometry": {"coordinates":[-72.21034,41.357898],"type":"Point"}
+}

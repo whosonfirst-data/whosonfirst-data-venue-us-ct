@@ -1,0 +1,71 @@
+{
+  "id": 823780915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.444368,41.279633,-72.444368,41.279633",
+    "geom:latitude":41.279633,
+    "geom:longitude":-72.444368,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 Pepperidge Ave",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 399 7537",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00z0DbFUQ5nF7hb01K5Crw_41.279633_-72.444368@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446112,
+    "wof:geomhash":"9bdcc520a885b1e481310f7af377cc21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823780915
+        }
+    ],
+    "wof:id":823780915,
+    "wof:lastmodified":1466425036,
+    "wof:name":"Delorenze Industrial Mech Svcs",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.444368,
+    41.279633,
+    -72.444368,
+    41.279633
+],
+  "geometry": {"coordinates":[-72.444368,41.279633],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823964101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.213482,41.319564,-73.213482,41.319564",
+    "geom:latitude":41.319564,
+    "geom:longitude":-73.213482,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"505 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qYliQ9UFK3HhMDr6NVmQ4_41.319564_-73.213482@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451117,
+    "wof:geomhash":"f9c5ff75548a2c24be0a974e7c8847d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823964101
+        }
+    ],
+    "wof:id":823964101,
+    "wof:lastmodified":1466426518,
+    "wof:name":"Citgo",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.213482,
+    41.319564,
+    -73.213482,
+    41.319564
+],
+  "geometry": {"coordinates":[-73.213482,41.319564],"type":"Point"}
+}

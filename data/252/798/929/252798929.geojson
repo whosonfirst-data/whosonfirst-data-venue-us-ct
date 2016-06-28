@@ -2,13 +2,14 @@
   "id": 252798929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.618742,41.109831,-73.618742,41.109831",
     "geom:latitude":41.109831,
     "geom:longitude":-73.618742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Taconic Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":252798929,
-    "wof:lastmodified":1449005619,
+    "wof:lastmodified":1466421089,
     "wof:name":"Stanwich Congregational Church",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-73.618742,41.109831,-73.618742,41.109831],
+  "bbox": [
+    -73.618742,
+    41.109831,
+    -73.618742,
+    41.109831
+],
   "geometry": {"coordinates":[-73.618742,41.109831],"type":"Point"}
 }

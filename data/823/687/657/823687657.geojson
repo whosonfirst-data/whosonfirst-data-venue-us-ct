@@ -1,0 +1,66 @@
+{
+  "id": 823687657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.898679,41.390542,-72.898679,41.390542",
+    "geom:latitude":41.390542,
+    "geom:longitude":-72.898679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2514 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 407 5822",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BofkfvQKgFwe9Td550hSN_41.390542_-72.898679@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443964,
+    "wof:geomhash":"27c0b6d893ea0cc6a0f1a2eb623f5f91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823687657
+        }
+    ],
+    "wof:id":823687657,
+    "wof:lastmodified":1466424127,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.898679,
+    41.390542,
+    -72.898679,
+    41.390542
+],
+  "geometry": {"coordinates":[-72.898679,41.390542],"type":"Point"}
+}

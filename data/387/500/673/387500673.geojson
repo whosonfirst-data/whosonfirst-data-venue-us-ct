@@ -2,13 +2,14 @@
   "id": 387500673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494279,41.184987,-73.494279,41.184987",
     "geom:latitude":41.184987,
     "geom:longitude":-73.494279,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"203 Soundview Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":387500673,
-    "wof:lastmodified":1449057052,
+    "wof:lastmodified":1466421204,
     "wof:name":"Evans Educational Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "educational"
     ]
 },
-  "bbox": [-73.494279,41.184987,-73.494279,41.184987],
-  "geometry": {"coordinates":[-73.494279,41.184987],"type":"Point"}
+  "bbox": [
+    -73.494279,
+    41.184987,
+    -73.494279,
+    41.184987
+],
+  "geometry": {"coordinates":[-73.49427900000001,41.184987],"type":"Point"}
 }

@@ -1,0 +1,75 @@
+{
+  "id": 823989205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.905709,41.338784,-71.905709,41.338784",
+    "geom:latitude":41.338784,
+    "geom:longitude":-71.905709,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Alpha Ave",
+    "sg:city":"Stonington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 535 1095",
+    "sg:postcode":"06378",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855115,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ybacy3eF8TuXQVWMl3i1J_41.338784_-71.905709@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451699,
+    "wof:geomhash":"c0736692dcb32de730a6cca6e2ca1475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85855115,
+            "region_id":85688629,
+            "venue_id":823989205
+        }
+    ],
+    "wof:id":823989205,
+    "wof:lastmodified":1466426833,
+    "wof:name":"Palmer Auto Sales",
+    "wof:parent_id":85855115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.905709,
+    41.338784,
+    -71.905709,
+    41.338784
+],
+  "geometry": {"coordinates":[-71.905709,41.338784],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823595933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.502696,41.3747,-73.502696,41.3747",
+    "geom:latitude":41.3747,
+    "geom:longitude":-73.502696,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Rolf Dr",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 778 0100",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834619,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eRkvo7UcR9sL6yox1XufT_41.374700_-73.502696@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441791,
+    "wof:geomhash":"7f4300308f6afbff3669e9bacb8aa2e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834619,
+            "region_id":85688629,
+            "venue_id":823595933
+        }
+    ],
+    "wof:id":823595933,
+    "wof:lastmodified":1466423279,
+    "wof:name":"Lava Electric",
+    "wof:parent_id":85834619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.502696,
+    41.3747,
+    -73.502696,
+    41.3747
+],
+  "geometry": {"coordinates":[-73.502696,41.3747],"type":"Point"}
+}

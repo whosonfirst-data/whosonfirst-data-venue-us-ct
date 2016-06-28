@@ -1,0 +1,73 @@
+{
+  "id": 823836283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.430328,41.224326,-73.430328,41.224326",
+    "geom:latitude":41.224326,
+    "geom:longitude":-73.430328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Sugarloaf Dr",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 834 2986",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l5llZ7YKvCBMsM0l07XM8_41.224326_-73.430328@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447805,
+    "wof:geomhash":"e24071c7f59f6f2e9cfcf263c886f494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823836283
+        }
+    ],
+    "wof:id":823836283,
+    "wof:lastmodified":1466425580,
+    "wof:name":"Hometown Mortgage Co",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.430328,
+    41.224326,
+    -73.430328,
+    41.224326
+],
+  "geometry": {"coordinates":[-73.430328,41.224326],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823551091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218433,41.172426,-73.218433,41.172426",
+    "geom:latitude":41.172426,
+    "geom:longitude":-73.218433,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1018 Maplewood Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 9051",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pSe5LlHvTx09COkxmykBs_41.172426_-73.218433@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440723,
+    "wof:geomhash":"0c04bb3de71d56e85532ca6a703e66e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":823551091
+        }
+    ],
+    "wof:id":823551091,
+    "wof:lastmodified":1466422495,
+    "wof:name":"Mickey's Community Restaurant",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -73.218433,
+    41.172426,
+    -73.218433,
+    41.172426
+],
+  "geometry": {"coordinates":[-73.218433,41.172426],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823872529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.911002,41.920795,-71.911002,41.920795",
+    "geom:latitude":41.920795,
+    "geom:longitude":-71.911002,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Green St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 963 0211",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_564fpkvvHoB17MpeA4P5QH_41.920795_-71.911002@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448797,
+    "wof:geomhash":"67ab5ccdbea67cc57eb8e99d78947c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823872529
+        }
+    ],
+    "wof:id":823872529,
+    "wof:lastmodified":1466425775,
+    "wof:name":"Cellar-Czar",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.911002,
+    41.920795,
+    -71.911002,
+    41.920795
+],
+  "geometry": {"coordinates":[-71.911002,41.920795],"type":"Point"}
+}

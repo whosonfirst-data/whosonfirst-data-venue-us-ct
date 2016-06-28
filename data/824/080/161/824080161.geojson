@@ -1,0 +1,78 @@
+{
+  "id": 824080161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.624653,41.022725,-73.624653,41.022725",
+    "geom:latitude":41.022725,
+    "geom:longitude":-73.624653,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"375 Greenwich Ave",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/greenwich/25480-riinas-fresco-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 869 6200",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K2wIbNpnctXl3ZrHfDC1w_41.022725_-73.624653@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453855,
+    "wof:geomhash":"431ad7cc616980c5d9fd61640d0179c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824080161
+        }
+    ],
+    "wof:id":824080161,
+    "wof:lastmodified":1466422552,
+    "wof:name":"Riina's Fresco Cafe",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.624653,
+    41.022725,
+    -73.624653,
+    41.022725
+],
+  "geometry": {"coordinates":[-73.624653,41.022725],"type":"Point"}
+}

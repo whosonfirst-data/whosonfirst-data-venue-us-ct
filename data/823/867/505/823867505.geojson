@@ -1,0 +1,79 @@
+{
+  "id": 823867505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.150293,41.186595,-73.150293,41.186595",
+    "geom:latitude":41.186595,
+    "geom:longitude":-73.150293,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 Thompson St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 1869",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wO44PU8JEmJYVfbkRq7Ce_41.186595_-73.150293@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448681,
+    "wof:geomhash":"410dea197ce64d32c217338cc8554713",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823867505
+        }
+    ],
+    "wof:id":823867505,
+    "wof:lastmodified":1466425722,
+    "wof:name":"Golden's Maintenance",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.150293,
+    41.186595,
+    -73.150293,
+    41.186595
+],
+  "geometry": {"coordinates":[-73.150293,41.186595],"type":"Point"}
+}

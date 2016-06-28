@@ -1,0 +1,71 @@
+{
+  "id": 823936091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376357,41.284987,-72.376357,41.284987",
+    "geom:latitude":41.284987,
+    "geom:longitude":-72.376357,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Shepard St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828733,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IOcVXkqivdwRfUTIQB9XW_41.284987_-72.376357@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450434,
+    "wof:geomhash":"089cbda2f2a4cb1b663024e430814dcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85828733,
+            "region_id":85688629,
+            "venue_id":823936091
+        }
+    ],
+    "wof:id":823936091,
+    "wof:lastmodified":1466426134,
+    "wof:name":"Citizens Auto Body Inc",
+    "wof:parent_id":85828733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.376357,
+    41.284987,
+    -72.376357,
+    41.284987
+],
+  "geometry": {"coordinates":[-72.376357,41.284987],"type":"Point"}
+}

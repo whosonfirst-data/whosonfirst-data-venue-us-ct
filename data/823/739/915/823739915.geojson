@@ -1,0 +1,66 @@
+{
+  "id": 823739915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.820905,41.283471,-72.820905,41.283471",
+    "geom:latitude":41.283471,
+    "geom:longitude":-72.820905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 N Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 315 2962",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4g49HST2XPjkDdUDOelneD_41.283471_-72.820905@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445157,
+    "wof:geomhash":"4e179ca6a45098e3efa3774e5e6a3352",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823739915
+        }
+    ],
+    "wof:id":823739915,
+    "wof:lastmodified":1466424619,
+    "wof:name":"Santa Claus",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.820905,
+    41.283471,
+    -72.820905,
+    41.283471
+],
+  "geometry": {"coordinates":[-72.820905,41.283471],"type":"Point"}
+}

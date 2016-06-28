@@ -1,0 +1,71 @@
+{
+  "id": 824068551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.834023,41.906206,-72.834023,41.906206",
+    "geom:latitude":41.906206,
+    "geom:longitude":-72.834023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Surry Cir",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 651 3021",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819335,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jznQPAPRaj6CR0uS69lEQ_41.906253_-72.834173@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453579,
+    "wof:geomhash":"0afe1d9269f01eeb49b3e6d2a320edf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85819335,
+            "region_id":85688629,
+            "venue_id":824068551
+        }
+    ],
+    "wof:id":824068551,
+    "wof:lastmodified":1466422327,
+    "wof:name":"Bowers Appraisal",
+    "wof:parent_id":85819335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -72.834023,
+    41.906206,
+    -72.834023,
+    41.906206
+],
+  "geometry": {"coordinates":[-72.834023,41.906206],"type":"Point"}
+}

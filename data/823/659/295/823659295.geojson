@@ -1,0 +1,71 @@
+{
+  "id": 823659295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.901064,41.911373,-71.901064,41.911373",
+    "geom:latitude":41.911373,
+    "geom:longitude":-71.901064,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"148 Grove St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49Q4sohvKtj8WqjQ7p754D_41.911373_-71.901064@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443313,
+    "wof:geomhash":"a1ce51811176b4843cbdb106305b2acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823659295
+        }
+    ],
+    "wof:id":823659295,
+    "wof:lastmodified":1466423899,
+    "wof:name":"Smith & Walker Funeral Home",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -71.901064,
+    41.911373,
+    -71.901064,
+    41.911373
+],
+  "geometry": {"coordinates":[-71.90106400000001,41.911373],"type":"Point"}
+}

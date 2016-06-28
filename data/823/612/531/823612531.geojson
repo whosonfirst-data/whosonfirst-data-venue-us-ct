@@ -1,0 +1,71 @@
+{
+  "id": 823612531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594525,41.785012,-72.594525,41.785012",
+    "geom:latitude":41.785012,
+    "geom:longitude":-72.594525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 Long Hill Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rll1zhqtxT5vFuNRysMcL_41.785012_-72.594525@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442211,
+    "wof:geomhash":"4e1a02e5eefe24546c312d6423fc817f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823612531
+        }
+    ],
+    "wof:id":823612531,
+    "wof:lastmodified":1466423513,
+    "wof:name":"Iru Cleaning Services",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.594525,
+    41.785012,
+    -72.594525,
+    41.785012
+],
+  "geometry": {"coordinates":[-72.594525,41.785012],"type":"Point"}
+}

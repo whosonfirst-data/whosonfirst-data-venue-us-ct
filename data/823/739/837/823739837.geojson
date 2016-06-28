@@ -1,0 +1,83 @@
+{
+  "id": 823739837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.050896,41.554064,-73.050896,41.554064",
+    "geom:latitude":41.554064,
+    "geom:longitude":-73.050896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Freight St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 597 0845",
+    "sg:postcode":"06702",
+    "sg:province":"CT",
+    "sg:tags":[
+        "local",
+        "mover",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856379,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2roSoRgfVUcriECSNyRNy3_41.554064_-73.050896@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445156,
+    "wof:geomhash":"3caa76b784cddfa6436ee8d0e15fb0b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":823739837
+        }
+    ],
+    "wof:id":823739837,
+    "wof:lastmodified":1466424669,
+    "wof:name":"Flynns Moving and Storage",
+    "wof:parent_id":85856379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "mover",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.050896,
+    41.554064,
+    -73.050896,
+    41.554064
+],
+  "geometry": {"coordinates":[-73.05089599999999,41.554064],"type":"Point"}
+}

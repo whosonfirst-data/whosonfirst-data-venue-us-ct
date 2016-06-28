@@ -1,0 +1,71 @@
+{
+  "id": 823929727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.845153,41.258359,-72.845153,41.258359",
+    "geom:latitude":41.258359,
+    "geom:longitude":-72.845153,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"206 Shore Dr",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85848603,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jncu8RJmzf8zPnUiv5TZq_41.258359_-72.845153@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450237,
+    "wof:geomhash":"445a64f70edb23643a3ceaef18032ee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85848603,
+            "region_id":85688629,
+            "venue_id":823929727
+        }
+    ],
+    "wof:id":823929727,
+    "wof:lastmodified":1466426257,
+    "wof:name":"Sound Ear Nose Throt",
+    "wof:parent_id":85848603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.845153,
+    41.258359,
+    -72.845153,
+    41.258359
+],
+  "geometry": {"coordinates":[-72.845153,41.258359],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 823623631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.837581,41.521862,-72.837581,41.521862",
+    "geom:latitude":41.521862,
+    "geom:longitude":-72.837581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 River Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 238 1171",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0APj2TY0ssV6LYcS6wPsDK_41.521862_-72.837581@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442483,
+    "wof:geomhash":"fdacb95fc95f19a51c68201eba5a7a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":823623631
+        }
+    ],
+    "wof:id":823623631,
+    "wof:lastmodified":1466423580,
+    "wof:name":"Sperry's Enterprises",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.837581,
+    41.521862,
+    -72.837581,
+    41.521862
+],
+  "geometry": {"coordinates":[-72.837581,41.521862],"type":"Point"}
+}

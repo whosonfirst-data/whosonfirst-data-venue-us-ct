@@ -1,0 +1,71 @@
+{
+  "id": 823813727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.30247,41.34661,-72.30247,41.34661",
+    "geom:latitude":41.34661,
+    "geom:longitude":-72.30247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"151 Boston Post Rd",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 872 9696",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830045,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DmWOcMtQFGSTs24YycyTG_41.346610_-72.302470@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447113,
+    "wof:geomhash":"3dd1f1511521a7593344098f2d610dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85830045,
+            "region_id":85688629,
+            "venue_id":823813727
+        }
+    ],
+    "wof:id":823813727,
+    "wof:lastmodified":1466425278,
+    "wof:name":"Oriental Cafe",
+    "wof:parent_id":85830045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.30247,
+    41.34661,
+    -72.30247,
+    41.34661
+],
+  "geometry": {"coordinates":[-72.30247,41.34661],"type":"Point"}
+}

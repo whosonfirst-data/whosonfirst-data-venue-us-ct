@@ -1,0 +1,73 @@
+{
+  "id": 823562431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217013,41.322011,-73.217013,41.322011",
+    "geom:latitude":41.322011,
+    "geom:longitude":-73.217013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Surrey Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 459 0941",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bJcqpKke6EDpheoux3thr_41.322011_-73.217013@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440995,
+    "wof:geomhash":"4f0ad0ca75fd5f46cd3cde1e104b42aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823562431
+        }
+    ],
+    "wof:id":823562431,
+    "wof:lastmodified":1466422976,
+    "wof:name":"Aversa & Rizzardi Co",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.217013,
+    41.322011,
+    -73.217013,
+    41.322011
+],
+  "geometry": {"coordinates":[-73.21701299999999,41.322011],"type":"Point"}
+}

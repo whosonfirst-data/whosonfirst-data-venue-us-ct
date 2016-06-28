@@ -1,0 +1,84 @@
+{
+  "id": 823905547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083727,41.531487,-73.083727,41.531487",
+    "geom:latitude":41.531487,
+    "geom:longitude":-73.083727,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"800 Country Club Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 596 4500",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "academic",
+        "school",
+        "university",
+        "private"
+    ],
+    "sg:website":"www.teikyopost.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807003,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hmBMjYL8Xo92TKcN7Zu7Y_41.531487_-73.083727@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449612,
+    "wof:geomhash":"03f52131eb548507e41f3cc377b76469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85807003,
+            "region_id":85688629,
+            "venue_id":823905547
+        }
+    ],
+    "wof:id":823905547,
+    "wof:lastmodified":1466426027,
+    "wof:name":"Post University Inc",
+    "wof:parent_id":85807003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school",
+        "university",
+        "private"
+    ]
+},
+  "bbox": [
+    -73.083727,
+    41.531487,
+    -73.083727,
+    41.531487
+],
+  "geometry": {"coordinates":[-73.083727,41.531487],"type":"Point"}
+}

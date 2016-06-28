@@ -1,0 +1,92 @@
+{
+  "id": 823559179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.178971,41.205846,-73.178971,41.205846",
+    "geom:latitude":41.205846,
+    "geom:longitude":-73.178971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2285 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 4284",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "facility",
+        "medical",
+        "skin",
+        "treatment",
+        "fitness",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876507,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AWfd2cfEYD3D216jdcnZI_41.205846_-73.178971@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440912,
+    "wof:geomhash":"07c22ad48458c7316b35617c29da52af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876507,
+            "region_id":85688629,
+            "venue_id":823559179
+        }
+    ],
+    "wof:id":823559179,
+    "wof:lastmodified":1466422690,
+    "wof:name":"Parker's Pampering",
+    "wof:parent_id":85876507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "medical",
+        "skin",
+        "treatment",
+        "fitness",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.178971,
+    41.205846,
+    -73.178971,
+    41.205846
+],
+  "geometry": {"coordinates":[-73.178971,41.205846],"type":"Point"}
+}

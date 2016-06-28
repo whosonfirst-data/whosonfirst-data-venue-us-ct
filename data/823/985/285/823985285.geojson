@@ -1,0 +1,79 @@
+{
+  "id": 823985285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.451089,41.267165,-73.451089,41.267165",
+    "geom:latitude":41.267165,
+    "geom:longitude":-73.451089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"290 Old Branchville Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 438 3260",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "scheduled",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807091,
+        102191575,
+        404495863,
+        85633793,
+        85930985,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7alXYTcS8zKx4YIDZ1LMsK_41.267165_-73.451089@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451613,
+    "wof:geomhash":"3e258b1c8f0e68e80b3f8ea530e77a60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":823985285
+        }
+    ],
+    "wof:id":823985285,
+    "wof:lastmodified":1466426706,
+    "wof:name":"Air Facilities Consultants",
+    "wof:parent_id":85807091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scheduled",
+        "air"
+    ]
+},
+  "bbox": [
+    -73.451089,
+    41.267165,
+    -73.451089,
+    41.267165
+],
+  "geometry": {"coordinates":[-73.451089,41.267165],"type":"Point"}
+}

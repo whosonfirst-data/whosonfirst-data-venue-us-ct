@@ -1,0 +1,77 @@
+{
+  "id": 823537815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.553466,41.055281,-73.553466,41.055281",
+    "geom:latitude":41.055281,
+    "geom:longitude":-73.553466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"90 Shelburne Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 7460",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5igCKmFmz0wE2DMjZIrxCV_41.055281_-73.553466@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440418,
+    "wof:geomhash":"c068962a30389ad12d457db86dc4bc29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823537815
+        }
+    ],
+    "wof:id":823537815,
+    "wof:lastmodified":1466422402,
+    "wof:name":"Clinical Laboratory Svc",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.553466,
+    41.055281,
+    -73.553466,
+    41.055281
+],
+  "geometry": {"coordinates":[-73.553466,41.055281],"type":"Point"}
+}

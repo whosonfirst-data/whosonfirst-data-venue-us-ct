@@ -2,13 +2,14 @@
   "id": 387933927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.518281,41.172372,-73.518281,41.172372",
     "geom:latitude":41.172372,
     "geom:longitude":-73.518281,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"174 Turtle Back Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387933927,
-    "wof:lastmodified":1449056884,
+    "wof:lastmodified":1466421304,
     "wof:name":"Rein Family Foundation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "management"
     ]
 },
-  "bbox": [-73.518281,41.172372,-73.518281,41.172372],
+  "bbox": [
+    -73.518281,
+    41.172372,
+    -73.518281,
+    41.172372
+],
   "geometry": {"coordinates":[-73.518281,41.172372],"type":"Point"}
 }

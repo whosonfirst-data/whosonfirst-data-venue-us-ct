@@ -1,0 +1,68 @@
+{
+  "id": 823744599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.782178,41.666785,-72.782178,41.666785",
+    "geom:latitude":41.666785,
+    "geom:longitude":-72.782178,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Main St",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 2214",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51n0ZESO3ddb9H1QeleSTF_41.666785_-72.782178@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445257,
+    "wof:geomhash":"e84aec7dc8c03a4ff577340974db6dd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823744599
+        }
+    ],
+    "wof:id":823744599,
+    "wof:lastmodified":1466424550,
+    "wof:name":"Quiet Sports Inc",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.782178,
+    41.666785,
+    -72.782178,
+    41.666785
+],
+  "geometry": {"coordinates":[-72.782178,41.666785],"type":"Point"}
+}

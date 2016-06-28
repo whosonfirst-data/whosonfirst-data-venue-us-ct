@@ -1,0 +1,80 @@
+{
+  "id": 824076669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.655022,41.536697,-72.655022,41.536697",
+    "geom:latitude":41.536697,
+    "geom:longitude":-72.655022,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"725 S Main St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/middletown/23700-pizza-palace/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 246 4887",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807267,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tdoGNMVhqZIWpNNVoHHIC_41.536697_-72.655022@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453777,
+    "wof:geomhash":"e2407a4afd481a2857fad0dd1935ba51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85807267,
+            "region_id":85688629,
+            "venue_id":824076669
+        }
+    ],
+    "wof:id":824076669,
+    "wof:lastmodified":1466422598,
+    "wof:name":"Pizza Palace",
+    "wof:parent_id":85807267,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.655022,
+    41.536697,
+    -72.655022,
+    41.536697
+],
+  "geometry": {"coordinates":[-72.655022,41.536697],"type":"Point"}
+}

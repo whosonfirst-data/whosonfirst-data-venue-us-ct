@@ -1,0 +1,71 @@
+{
+  "id": 823618475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.834709,41.269211,-72.834709,41.269211",
+    "geom:latitude":41.269211,
+    "geom:longitude":-72.834709,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Stonegate Cir",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K2F8STbFHR3FmXTN43xAJ_41.269211_-72.834709@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442354,
+    "wof:geomhash":"63c8a66a3319f98e60a19dd8152d5cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823618475
+        }
+    ],
+    "wof:id":823618475,
+    "wof:lastmodified":1466423491,
+    "wof:name":"Building Services",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.834709,
+    41.269211,
+    -72.834709,
+    41.269211
+],
+  "geometry": {"coordinates":[-72.834709,41.269211],"type":"Point"}
+}

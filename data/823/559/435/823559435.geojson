@@ -1,0 +1,75 @@
+{
+  "id": 823559435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.55392,41.789368,-72.55392,41.789368",
+    "geom:latitude":41.789368,
+    "geom:longitude":-72.55392,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"409 New State Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 646 7687",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6446VZjdrJyGnSKH6kesgq_41.789368_-72.553920@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440917,
+    "wof:geomhash":"385b9adcf261574d651bd60b9821ba23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823559435
+        }
+    ],
+    "wof:id":823559435,
+    "wof:lastmodified":1466422714,
+    "wof:name":"Mobile Mix Concrete",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.55392,
+    41.789368,
+    -72.55392,
+    41.789368
+],
+  "geometry": {"coordinates":[-72.55392000000001,41.789368],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823664283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.882216,41.803424,-71.882216,41.803424",
+    "geom:latitude":41.803424,
+    "geom:longitude":-71.882216,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 School St",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 8560",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IadFD1MJMb3YSjBTpzBks_41.803424_-71.882216@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443437,
+    "wof:geomhash":"9991dddadba946b0d8aeb8e15eace403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":823664283
+        }
+    ],
+    "wof:id":823664283,
+    "wof:lastmodified":1466423919,
+    "wof:name":"Public Defenders Office",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legal"
+    ]
+},
+  "bbox": [
+    -71.882216,
+    41.803424,
+    -71.882216,
+    41.803424
+],
+  "geometry": {"coordinates":[-71.882216,41.803424],"type":"Point"}
+}

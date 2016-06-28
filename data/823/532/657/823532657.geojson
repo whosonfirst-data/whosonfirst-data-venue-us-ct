@@ -1,0 +1,68 @@
+{
+  "id": 823532657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.769947,41.668507,-72.769947,41.668507",
+    "geom:latitude":41.668507,
+    "geom:longitude":-72.769947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Dwight St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 223 2246",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Q0eovlyxtfJZx53pMq2iU_41.668507_-72.769947@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440306,
+    "wof:geomhash":"a1f7cb05ba68f317ac1b5229461107fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823532657
+        }
+    ],
+    "wof:id":823532657,
+    "wof:lastmodified":1466422351,
+    "wof:name":"Dwight Street Market",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.769947,
+    41.668507,
+    -72.769947,
+    41.668507
+],
+  "geometry": {"coordinates":[-72.769947,41.668507],"type":"Point"}
+}

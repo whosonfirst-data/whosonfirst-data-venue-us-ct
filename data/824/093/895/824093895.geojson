@@ -1,0 +1,66 @@
+{
+  "id": 824093895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.887833,41.758149,-72.887833,41.758149",
+    "geom:latitude":41.758149,
+    "geom:longitude":-72.887833,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 School Street",
+    "sg:city":"Unionville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"06085",
+    "sg:province":"CT",
+    "sg:website":"www.olivebarct.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1APFViHq9x1JsIgY8KGWUU_41.758149_-72.887833@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454184,
+    "wof:geomhash":"1d0c46bd8b201f677013adc9f82162c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824093895
+        }
+    ],
+    "wof:id":824093895,
+    "wof:lastmodified":1466422934,
+    "wof:name":"The Olive Bar",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.887833,
+    41.758149,
+    -72.887833,
+    41.758149
+],
+  "geometry": {"coordinates":[-72.887833,41.758149],"type":"Point"}
+}

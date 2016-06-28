@@ -2,13 +2,14 @@
   "id": 269821297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.492502,41.143841,-73.492502,41.143841",
     "geom:latitude":41.143841,
     "geom:longitude":-73.492502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 South Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269821297,
-    "wof:lastmodified":1449037443,
+    "wof:lastmodified":1466421103,
     "wof:name":"American Home Roofing",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-73.492502,41.143841,-73.492502,41.143841],
+  "bbox": [
+    -73.492502,
+    41.143841,
+    -73.492502,
+    41.143841
+],
   "geometry": {"coordinates":[-73.492502,41.143841],"type":"Point"}
 }

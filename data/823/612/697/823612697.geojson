@@ -1,0 +1,77 @@
+{
+  "id": 823612697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.12717,41.151676,-73.12717,41.151676",
+    "geom:latitude":41.151676,
+    "geom:longitude":-73.12717,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"350 Stratford Rd",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 0303",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831419,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10GHuog5evyIaorAWGOFgN_41.151676_-73.127170@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442216,
+    "wof:geomhash":"25eb2c9b94216f8419f99079ba5425ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85831419,
+            "region_id":85688629,
+            "venue_id":823612697
+        }
+    ],
+    "wof:id":823612697,
+    "wof:lastmodified":1466423516,
+    "wof:name":"Lighthouse Deli",
+    "wof:parent_id":85831419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.12717,
+    41.151676,
+    -73.12717,
+    41.151676
+],
+  "geometry": {"coordinates":[-73.12717000000001,41.151676],"type":"Point"}
+}

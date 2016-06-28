@@ -1,0 +1,76 @@
+{
+  "id": 823483199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074764,41.395309,-73.074764,41.395309",
+    "geom:latitude":41.395309,
+    "geom:longitude":-73.074764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Wakeley St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 8843",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IcJmYlZNOJDsyogTRBhGx_41.395309_-73.074764@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439149,
+    "wof:geomhash":"a79947f9320eb451f17891fe6f0384d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823483199
+        }
+    ],
+    "wof:id":823483199,
+    "wof:lastmodified":1466421433,
+    "wof:name":"Seymour Ambulance Association",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -73.074764,
+    41.395309,
+    -73.074764,
+    41.395309
+],
+  "geometry": {"coordinates":[-73.074764,41.395309],"type":"Point"}
+}

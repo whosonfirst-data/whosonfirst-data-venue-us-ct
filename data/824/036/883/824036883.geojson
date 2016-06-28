@@ -1,0 +1,71 @@
+{
+  "id": 824036883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192919,41.75921,-73.192919,41.75921",
+    "geom:latitude":41.75921,
+    "geom:longitude":-73.192919,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Minerva Ln",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06FiRN06QEM88JSSIqo0PK_41.759210_-73.192919@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452836,
+    "wof:geomhash":"3fed772ad0a51c48609468bbb93d2f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":824036883
+        }
+    ],
+    "wof:id":824036883,
+    "wof:lastmodified":1466421849,
+    "wof:name":"Elizabeth A Whalen MD LLC",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.192919,
+    41.75921,
+    -73.192919,
+    41.75921
+],
+  "geometry": {"coordinates":[-73.192919,41.75921],"type":"Point"}
+}

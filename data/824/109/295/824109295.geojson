@@ -1,0 +1,95 @@
+{
+  "id": 824109295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224239,41.165155,-73.224239,41.165155",
+    "geom:latitude":41.165155,
+    "geom:longitude":-73.224239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Orland St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 7728",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "disposal",
+        "collection",
+        "removal",
+        "equipment",
+        "rubbish",
+        "waste"
+    ],
+    "sg:website":"http://www.biglittlesanitation.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QNRDsoGAuOmzI3Iyi17FY_41.165155_-73.224239@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454541,
+    "wof:geomhash":"db3309bb6c86bc7342c7761caa93e4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824109295
+        }
+    ],
+    "wof:id":824109295,
+    "wof:lastmodified":1466423238,
+    "wof:name":"Big Little Sanitation",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "disposal",
+        "collection",
+        "removal",
+        "equipment",
+        "rubbish",
+        "waste"
+    ]
+},
+  "bbox": [
+    -73.224239,
+    41.165155,
+    -73.224239,
+    41.165155
+],
+  "geometry": {"coordinates":[-73.224239,41.165155],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823806829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248508,41.342505,-73.248508,41.342505",
+    "geom:latitude":41.342505,
+    "geom:longitude":-73.248508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"447 Pepper St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 4739",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00xjlkSmu4IC25YStJ9Php_41.342505_-73.248508@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446894,
+    "wof:geomhash":"a65bb3b94bcbe413e06ef693852f37fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823806829
+        }
+    ],
+    "wof:id":823806829,
+    "wof:lastmodified":1466425224,
+    "wof:name":"Quality Landscaping Inc",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.248508,
+    41.342505,
+    -73.248508,
+    41.342505
+],
+  "geometry": {"coordinates":[-73.248508,41.342505],"type":"Point"}
+}

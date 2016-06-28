@@ -1,0 +1,66 @@
+{
+  "id": 823601733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416341,41.16865,-73.416341,41.16865",
+    "geom:latitude":41.16865,
+    "geom:longitude":-73.416341,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 3391",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LtDltA0jcAcdjDkiIGCFH_41.168650_-73.416341@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441949,
+    "wof:geomhash":"50fa281fe96a36868da1b4174cd92b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823601733
+        }
+    ],
+    "wof:id":823601733,
+    "wof:lastmodified":1466423493,
+    "wof:name":"Seymour's Paint & Hardware",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.416341,
+    41.16865,
+    -73.416341,
+    41.16865
+],
+  "geometry": {"coordinates":[-73.416341,41.16865],"type":"Point"}
+}

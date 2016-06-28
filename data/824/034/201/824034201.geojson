@@ -1,0 +1,66 @@
+{
+  "id": 824034201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.377982,41.441386,-73.377982,41.441386",
+    "geom:latitude":41.441386,
+    "geom:longitude":-73.377982,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 W Whisconier Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 7710",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kCoqVJnzaqv6nzlj4FWSw_41.441386_-73.377982@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452764,
+    "wof:geomhash":"1f679fdaa8b4f00915c31bc40ff13438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":824034201
+        }
+    ],
+    "wof:id":824034201,
+    "wof:lastmodified":1466421775,
+    "wof:name":"Whisconier Middle School",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.377982,
+    41.441386,
+    -73.377982,
+    41.441386
+],
+  "geometry": {"coordinates":[-73.377982,41.441386],"type":"Point"}
+}

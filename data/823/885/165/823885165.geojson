@@ -1,0 +1,71 @@
+{
+  "id": 823885165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.440684,41.295409,-72.440684,41.295409",
+    "geom:latitude":41.295409,
+    "geom:longitude":-72.440684,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"433 Essex Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wZHhCFue9yiGDehqf9DMw_41.295409_-72.440684@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449084,
+    "wof:geomhash":"ccff7ccaa38076967eeb1b2ca2abc429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823885165
+        }
+    ],
+    "wof:id":823885165,
+    "wof:lastmodified":1466425847,
+    "wof:name":"Welcome Inn",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.440684,
+    41.295409,
+    -72.440684,
+    41.295409
+],
+  "geometry": {"coordinates":[-72.440684,41.295409],"type":"Point"}
+}

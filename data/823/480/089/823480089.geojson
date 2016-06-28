@@ -1,0 +1,71 @@
+{
+  "id": 823480089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812437,41.48065,-72.812437,41.48065",
+    "geom:latitude":41.48065,
+    "geom:longitude":-72.812437,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Pent Hwy",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_192zoF9H5HtQmCT0tkeF95_41.480650_-72.812437@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439081,
+    "wof:geomhash":"f288591b1a828121e2189a477c38f3c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823480089
+        }
+    ],
+    "wof:id":823480089,
+    "wof:lastmodified":1466421637,
+    "wof:name":"First Vehicle Services",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.812437,
+    41.48065,
+    -72.812437,
+    41.48065
+],
+  "geometry": {"coordinates":[-72.812437,41.48065],"type":"Point"}
+}

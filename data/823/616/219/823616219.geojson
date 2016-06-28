@@ -1,0 +1,66 @@
+{
+  "id": 823616219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.297179,41.270473,-73.297179,41.270473",
+    "geom:latitude":41.270473,
+    "geom:longitude":-73.297179,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Westport Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 5317",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H2b0LKKAyFFb1dWNpqLCG_41.270473_-73.297179@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442304,
+    "wof:geomhash":"14cf9d960b7ce8d2859eab51e9747908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823616219
+        }
+    ],
+    "wof:id":823616219,
+    "wof:lastmodified":1466423449,
+    "wof:name":"Eugene A Leone",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.297179,
+    41.270473,
+    -73.297179,
+    41.270473
+],
+  "geometry": {"coordinates":[-73.297179,41.270473],"type":"Point"}
+}

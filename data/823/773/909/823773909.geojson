@@ -1,0 +1,66 @@
+{
+  "id": 823773909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14633,41.295776,-73.14633,41.295776",
+    "geom:latitude":41.295776,
+    "geom:longitude":-73.14633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Huntington St",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 9841",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NOETAYvclfV7UGiWOVlGt_41.295776_-73.146330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445926,
+    "wof:geomhash":"e12e53ed73f981dcee92dcd9b68d0482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823773909
+        }
+    ],
+    "wof:id":823773909,
+    "wof:lastmodified":1466424963,
+    "wof:name":"Huntington Chiropractic Center",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.14633,
+    41.295776,
+    -73.14633,
+    41.295776
+],
+  "geometry": {"coordinates":[-73.14633000000001,41.295776],"type":"Point"}
+}

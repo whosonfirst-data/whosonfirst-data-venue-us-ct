@@ -1,0 +1,73 @@
+{
+  "id": 823520379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228774,41.156059,-73.228774,41.156059",
+    "geom:latitude":41.156059,
+    "geom:longitude":-73.228774,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2992 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 3514",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OpddJYOmXTBx8byUpA4k0_41.156059_-73.228774@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440037,
+    "wof:geomhash":"bf43e14cabdc61b45887308fba966dcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823520379
+        }
+    ],
+    "wof:id":823520379,
+    "wof:lastmodified":1466422157,
+    "wof:name":"Home On The Range",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.228774,
+    41.156059,
+    -73.228774,
+    41.156059
+],
+  "geometry": {"coordinates":[-73.228774,41.156059],"type":"Point"}
+}

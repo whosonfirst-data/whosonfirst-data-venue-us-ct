@@ -1,0 +1,79 @@
+{
+  "id": 824002719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93082,41.293496,-72.93082,41.293496",
+    "geom:latitude":41.293496,
+    "geom:longitude":-72.93082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Cedar St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 688 2468",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882027,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ufy45U1yaujuyrp1zZhzB_41.293496_-72.930820@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452048,
+    "wof:geomhash":"4cdf5e24e8cb12d0654ccbb75f504140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85882027,
+            "region_id":85688629,
+            "venue_id":824002719
+        }
+    ],
+    "wof:id":824002719,
+    "wof:lastmodified":1466421194,
+    "wof:name":"Yale New Haven Hosp-Pediatrics",
+    "wof:parent_id":85882027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.93082,
+    41.293496,
+    -72.93082,
+    41.293496
+],
+  "geometry": {"coordinates":[-72.93082,41.293496],"type":"Point"}
+}

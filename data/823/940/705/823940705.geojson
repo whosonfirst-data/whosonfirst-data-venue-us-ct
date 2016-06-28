@@ -1,0 +1,75 @@
+{
+  "id": 823940705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.165441,41.367914,-72.165441,41.367914",
+    "geom:latitude":41.367914,
+    "geom:longitude":-72.165441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"122 Cross Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 442 0611",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hospital",
+        "clinic",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832113,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ekSuwaTnrKo9RDywyKYYF_41.367914_-72.165441@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450540,
+    "wof:geomhash":"c199e2e37189e0c2280deeacf7dff5fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85832113,
+            "region_id":85688629,
+            "venue_id":823940705
+        }
+    ],
+    "wof:id":823940705,
+    "wof:lastmodified":1466426357,
+    "wof:name":"V C A New London Animal Hosp",
+    "wof:parent_id":85832113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "clinic",
+        "animal"
+    ]
+},
+  "bbox": [
+    -72.165441,
+    41.367914,
+    -72.165441,
+    41.367914
+],
+  "geometry": {"coordinates":[-72.165441,41.367914],"type":"Point"}
+}

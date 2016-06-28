@@ -1,0 +1,89 @@
+{
+  "id": 824118023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.403801,41.10199,-73.403801,41.10199",
+    "geom:latitude":41.10199,
+    "geom:longitude":-73.403801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Cemetery St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 2161",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816631,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GQHw90e5FXJDJYYV8n2KG_41.101990_-73.403801@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454725,
+    "wof:geomhash":"144165607e5454cd911bd7b4c08a4870",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":824118023
+        }
+    ],
+    "wof:id":824118023,
+    "wof:lastmodified":1466423434,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85816631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -73.403801,
+    41.10199,
+    -73.403801,
+    41.10199
+],
+  "geometry": {"coordinates":[-73.403801,41.10199],"type":"Point"}
+}

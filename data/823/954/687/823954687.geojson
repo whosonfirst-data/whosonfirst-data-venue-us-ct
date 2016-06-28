@@ -1,0 +1,79 @@
+{
+  "id": 823954687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199125,41.196667,-73.199125,41.196667",
+    "geom:latitude":41.196667,
+    "geom:longitude":-73.199125,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"404 Wells St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 7593",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VFejkKb9Q9joLwfSXW8l6_41.196667_-73.199125@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450876,
+    "wof:geomhash":"2a002a3902644a9116506d1e7b96b60b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823954687
+        }
+    ],
+    "wof:id":823954687,
+    "wof:lastmodified":1466426511,
+    "wof:name":"Bridgeport Sewer Svc",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.199125,
+    41.196667,
+    -73.199125,
+    41.196667
+],
+  "geometry": {"coordinates":[-73.199125,41.196667],"type":"Point"}
+}

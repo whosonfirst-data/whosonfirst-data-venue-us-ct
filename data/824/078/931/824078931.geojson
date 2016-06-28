@@ -1,0 +1,80 @@
+{
+  "id": 824078931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.052324,41.55786,-73.052324,41.55786",
+    "geom:latitude":41.55786,
+    "geom:longitude":-73.052324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"649 W Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/waterbury/189490-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 573 0194",
+    "sg:postcode":"06702",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856379,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UTMhnUmODtv66VwLWMWsM_41.557860_-73.052324@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453830,
+    "wof:geomhash":"d1be10d233454845d82b7cf95ca54570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":824078931
+        }
+    ],
+    "wof:id":824078931,
+    "wof:lastmodified":1466422624,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85856379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -73.052324,
+    41.55786,
+    -73.052324,
+    41.55786
+],
+  "geometry": {"coordinates":[-73.052324,41.55786],"type":"Point"}
+}

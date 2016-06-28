@@ -1,0 +1,84 @@
+{
+  "id": 824108827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.442679,41.292836,-72.442679,41.292836",
+    "geom:latitude":41.292836,
+    "geom:longitude":-72.442679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"279 Essex Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 399 7787",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.kindercare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U00YmsUBVkTcBrR5kAsyN_41.292836_-72.442679@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454528,
+    "wof:geomhash":"9080d9ad75f538c393b7dea70d17c96a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824108827
+        }
+    ],
+    "wof:id":824108827,
+    "wof:lastmodified":1466423093,
+    "wof:name":"Kindercare Learning Centers",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -72.442679,
+    41.292836,
+    -72.442679,
+    41.292836
+],
+  "geometry": {"coordinates":[-72.442679,41.292836],"type":"Point"}
+}

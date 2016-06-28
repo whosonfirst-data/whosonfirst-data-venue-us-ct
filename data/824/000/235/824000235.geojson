@@ -1,0 +1,66 @@
+{
+  "id": 824000235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983122,41.734728,-72.983122,41.734728",
+    "geom:latitude":41.734728,
+    "geom:longitude":-72.983122,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 W Chippens Hill Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RcA63fAitWLrLcWyw0AFc_41.734728_-72.983122@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451991,
+    "wof:geomhash":"62fe1e0633d8d650d8229050efbc56dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824000235
+        }
+    ],
+    "wof:id":824000235,
+    "wof:lastmodified":1466421157,
+    "wof:name":"Lc Small Engine Repair",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.983122,
+    41.734728,
+    -72.983122,
+    41.734728
+],
+  "geometry": {"coordinates":[-72.98312199999999,41.734728],"type":"Point"}
+}

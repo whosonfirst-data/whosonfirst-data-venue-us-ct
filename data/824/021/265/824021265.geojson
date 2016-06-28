@@ -1,0 +1,77 @@
+{
+  "id": 824021265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.176567,41.1854,-73.176567,41.1854",
+    "geom:latitude":41.1854,
+    "geom:longitude":-73.176567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Church St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 6733",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CQvsOAnR6QMCG872Yjb8L_41.185400_-73.176567@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452451,
+    "wof:geomhash":"55fa26a28441181e8fff03410501e14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":824021265
+        }
+    ],
+    "wof:id":824021265,
+    "wof:lastmodified":1466421534,
+    "wof:name":"American Medical Response",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -73.176567,
+    41.1854,
+    -73.176567,
+    41.1854
+],
+  "geometry": {"coordinates":[-73.17656700000001,41.1854],"type":"Point"}
+}

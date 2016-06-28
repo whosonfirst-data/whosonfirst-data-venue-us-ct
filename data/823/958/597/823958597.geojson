@@ -1,0 +1,66 @@
+{
+  "id": 823958597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.410599,41.5753,-73.410599,41.5753",
+    "geom:latitude":41.5753,
+    "geom:longitude":-73.410599,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 S Main St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 6020",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z2obD5IdZuB7dnYrA8bsj_41.575300_-73.410599@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450991,
+    "wof:geomhash":"c86bfddd33c32ec4dc9e638134cc5027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823958597
+        }
+    ],
+    "wof:id":823958597,
+    "wof:lastmodified":1466426616,
+    "wof:name":"New Milford Town Clerk",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.410599,
+    41.5753,
+    -73.410599,
+    41.5753
+],
+  "geometry": {"coordinates":[-73.410599,41.5753],"type":"Point"}
+}

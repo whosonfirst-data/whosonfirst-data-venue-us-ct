@@ -1,0 +1,85 @@
+{
+  "id": 824052427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.931561,41.350869,-72.931561,41.350869",
+    "geom:latitude":41.350869,
+    "geom:longitude":-72.931561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1394 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 6099",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cigarette",
+        "product",
+        "cigar",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JcS1vdADKhkAPiHbbLtc0_41.350869_-72.931561@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453219,
+    "wof:geomhash":"97c86ff2134f32b0188d05114dd532c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824052427
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":824052427
+        }
+    ],
+    "wof:id":824052427,
+    "wof:lastmodified":1466422132,
+    "wof:name":"Smoker's Discount World",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "product",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.931561,
+    41.350869,
+    -72.931561,
+    41.350869
+],
+  "geometry": {"coordinates":[-72.931561,41.350869],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823530849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.723314,41.611362,-72.723314,41.611362",
+    "geom:latitude":41.611362,
+    "geom:longitude":-72.723314,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Ledge Rd",
+    "sg:city":"East Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06023",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HnMxc31xck8NTwe4mLQLX_41.611362_-72.723314@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440269,
+    "wof:geomhash":"0fdba45db4e261b709395e93dae9c30b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":823530849
+        }
+    ],
+    "wof:id":823530849,
+    "wof:lastmodified":1466422360,
+    "wof:name":"David Steiner",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.723314,
+    41.611362,
+    -72.723314,
+    41.611362
+],
+  "geometry": {"coordinates":[-72.723314,41.611362],"type":"Point"}
+}

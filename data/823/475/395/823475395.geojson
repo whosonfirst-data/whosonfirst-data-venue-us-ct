@@ -1,0 +1,73 @@
+{
+  "id": 823475395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.501342,41.112894,-73.501342,41.112894",
+    "geom:latitude":41.112894,
+    "geom:longitude":-73.501342,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"526 Hoyt St",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 1247",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IFzPfiEJePKHv1CU0lq7a_41.112894_-73.501342@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438962,
+    "wof:geomhash":"c52f3f68bfbe70618df5089ddd7a0b77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":823475395
+        }
+    ],
+    "wof:id":823475395,
+    "wof:lastmodified":1466421222,
+    "wof:name":"Suburban Carting Co",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.501342,
+    41.112894,
+    -73.501342,
+    41.112894
+],
+  "geometry": {"coordinates":[-73.50134199999999,41.112894],"type":"Point"}
+}

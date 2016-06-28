@@ -1,0 +1,79 @@
+{
+  "id": 823468885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.356313,41.379386,-73.356313,41.379386",
+    "geom:latitude":41.379386,
+    "geom:longitude":-73.356313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Dodgingtown Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 9525",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BMO3jEBOs9BrRncQ6p6n9_41.379386_-73.356313@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438813,
+    "wof:geomhash":"f19111fe52d90ecbbcf84efa9f93a4e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823468885
+        }
+    ],
+    "wof:id":823468885,
+    "wof:lastmodified":1466421252,
+    "wof:name":"Dodgingtown Garage Inc",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.356313,
+    41.379386,
+    -73.356313,
+    41.379386
+],
+  "geometry": {"coordinates":[-73.356313,41.379386],"type":"Point"}
+}

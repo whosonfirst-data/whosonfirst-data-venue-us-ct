@@ -1,0 +1,71 @@
+{
+  "id": 824102621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.41467,41.343037,-72.41467,41.343037",
+    "geom:latitude":41.343037,
+    "geom:longitude":-72.41467,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"114 Westbrook Rd",
+    "sg:city":"Essex",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 767 7976",
+    "sg:postcode":"06426",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dPdLDskaHeSMjIAIx1x38_41.343037_-72.414670@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454394,
+    "wof:geomhash":"5005148cacf2fa29bd280d8752e3f1fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":824102621
+        }
+    ],
+    "wof:id":824102621,
+    "wof:lastmodified":1466423018,
+    "wof:name":"Essex Veterinary Clinic",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.41467,
+    41.343037,
+    -72.41467,
+    41.343037
+],
+  "geometry": {"coordinates":[-72.41467,41.343037],"type":"Point"}
+}

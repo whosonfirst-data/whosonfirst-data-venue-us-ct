@@ -1,0 +1,78 @@
+{
+  "id": 824079347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.128466,41.799698,-73.128466,41.799698",
+    "geom:latitude":41.799698,
+    "geom:longitude":-73.128466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 High St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/torrington/207969-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 7794",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4avev2aUgNDBtnP4mM54hO_41.799698_-73.128466@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453838,
+    "wof:geomhash":"6f6394d10b098ca0864b0f6c21c07d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":824079347
+        }
+    ],
+    "wof:id":824079347,
+    "wof:lastmodified":1466422569,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -73.128466,
+    41.799698,
+    -73.128466,
+    41.799698
+],
+  "geometry": {"coordinates":[-73.128466,41.799698],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823648037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.130021,41.30575,-73.130021,41.30575",
+    "geom:latitude":41.30575,
+    "geom:longitude":-73.130021,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 Pine St",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 225 6453",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iL4AQh3ekZLbkubNd0EPW_41.305750_-73.130021@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443040,
+    "wof:geomhash":"382d769a4adcc173f11a892479773520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823648037
+        }
+    ],
+    "wof:id":823648037,
+    "wof:lastmodified":1466423775,
+    "wof:name":"Marcinczyk Electric LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.130021,
+    41.30575,
+    -73.130021,
+    41.30575
+],
+  "geometry": {"coordinates":[-73.130021,41.30575],"type":"Point"}
+}

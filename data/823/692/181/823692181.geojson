@@ -1,0 +1,81 @@
+{
+  "id": 823692181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.51657,41.100833,-73.51657,41.100833",
+    "geom:latitude":41.100833,
+    "geom:longitude":-73.51657,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1335 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 461 8299",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LYMYeuiHBfYg0P7HTWjbG_41.100833_-73.516570@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444069,
+    "wof:geomhash":"a63ba9d050f23f356c9a9664767ed91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823692181
+        }
+    ],
+    "wof:id":823692181,
+    "wof:lastmodified":1466424382,
+    "wof:name":"Woodway Texaco LLC",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "oil"
+    ]
+},
+  "bbox": [
+    -73.51657,
+    41.100833,
+    -73.51657,
+    41.100833
+],
+  "geometry": {"coordinates":[-73.51657,41.100833],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823975883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.266276,41.30617,-73.266276,41.30617",
+    "geom:latitude":41.30617,
+    "geom:longitude":-73.266276,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Hiram Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17WkdcnzgV2fYy5Ga8Zpzv_41.306170_-73.266276@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451375,
+    "wof:geomhash":"66a70c198b48077401af94f707f0440f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823975883
+        }
+    ],
+    "wof:id":823975883,
+    "wof:lastmodified":1466426683,
+    "wof:name":"Bards Chemdry",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.266276,
+    41.30617,
+    -73.266276,
+    41.30617
+],
+  "geometry": {"coordinates":[-73.266276,41.30617],"type":"Point"}
+}

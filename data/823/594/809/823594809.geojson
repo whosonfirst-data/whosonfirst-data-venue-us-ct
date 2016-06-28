@@ -1,0 +1,73 @@
+{
+  "id": 823594809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.318765,41.342844,-73.318765,41.342844",
+    "geom:latitude":41.342844,
+    "geom:longitude":-73.318765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Eden Hill Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 2911",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826245,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oUh5xBptHZidD6a6Qtwgg_41.342844_-73.318765@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441755,
+    "wof:geomhash":"392204ff478990a1c1035c1065b89414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826245,
+            "region_id":85688629,
+            "venue_id":823594809
+        }
+    ],
+    "wof:id":823594809,
+    "wof:lastmodified":1466423158,
+    "wof:name":"Tim Conlan Co",
+    "wof:parent_id":85826245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.318765,
+    41.342844,
+    -73.318765,
+    41.342844
+],
+  "geometry": {"coordinates":[-73.318765,41.342844],"type":"Point"}
+}

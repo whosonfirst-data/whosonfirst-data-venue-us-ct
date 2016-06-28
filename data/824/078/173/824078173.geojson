@@ -1,0 +1,74 @@
+{
+  "id": 824078173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.868638,41.281177,-72.868638,41.281177",
+    "geom:latitude":41.281177,
+    "geom:longitude":-72.868638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"199 Saltonstall Pkwy",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-haven/144099-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 468 2882",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67UKjrsRHJPbhRchK4Esfb_41.281177_-72.868638@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453815,
+    "wof:geomhash":"135003ec92128bfe594f736fbcedf65a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824078173
+        }
+    ],
+    "wof:id":824078173,
+    "wof:lastmodified":1466422552,
+    "wof:name":"Subway",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.868638,
+    41.281177,
+    -72.868638,
+    41.281177
+],
+  "geometry": {"coordinates":[-72.868638,41.281177],"type":"Point"}
+}

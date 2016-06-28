@@ -1,0 +1,77 @@
+{
+  "id": 823874793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.063955,41.527552,-72.063955,41.527552",
+    "geom:latitude":41.527552,
+    "geom:longitude":-72.063955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"191 N Main St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823081,
+        102191575,
+        404495761,
+        85633793,
+        85930861,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ttYO48OqzBW6HsY8dZzQA_41.527552_-72.063955@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448839,
+    "wof:geomhash":"f219544f3aafb8d7f3b65d13852030fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495761,
+            "locality_id":85930861,
+            "neighbourhood_id":85823081,
+            "region_id":85688629,
+            "venue_id":823874793
+        }
+    ],
+    "wof:id":823874793,
+    "wof:lastmodified":1466425797,
+    "wof:name":"Smith Brothers Transmissions",
+    "wof:parent_id":85823081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.063955,
+    41.527552,
+    -72.063955,
+    41.527552
+],
+  "geometry": {"coordinates":[-72.06395500000001,41.527552],"type":"Point"}
+}

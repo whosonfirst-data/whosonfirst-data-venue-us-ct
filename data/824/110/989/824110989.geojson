@@ -1,0 +1,91 @@
+{
+  "id": 824110989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.475409,41.726917,-73.475409,41.726917",
+    "geom:latitude":41.726917,
+    "geom:longitude":-73.475409,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 N Main St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 927 3519",
+    "sg:postcode":"06757",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "dental",
+        "surgeons",
+        "clinic",
+        "surgery",
+        "oral"
+    ],
+    "sg:website":"http://www.yourkentdentist.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ysV7HNhwubNUOAvshMQCU_41.726917_-73.475409@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454571,
+    "wof:geomhash":"409bc9651031e5082ceee1f6ab0b583a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":824110989
+        }
+    ],
+    "wof:id":824110989,
+    "wof:lastmodified":1466423162,
+    "wof:name":"Monsarrat, Dr. Michael DMD",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "dental",
+        "surgeons",
+        "clinic",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -73.475409,
+    41.726917,
+    -73.475409,
+    41.726917
+],
+  "geometry": {"coordinates":[-73.475409,41.726917],"type":"Point"}
+}

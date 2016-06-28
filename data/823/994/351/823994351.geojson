@@ -1,0 +1,68 @@
+{
+  "id": 823994351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.222684,41.159689,-73.222684,41.159689",
+    "geom:latitude":41.159689,
+    "geom:longitude":-73.222684,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Monroe St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 0782",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EnT9L7Ongnx5TWOk2dFDe_41.159689_-73.222684@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451839,
+    "wof:geomhash":"7113b6bed90874ee933aa9e121a8b269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823994351
+        }
+    ],
+    "wof:id":823994351,
+    "wof:lastmodified":1466426731,
+    "wof:name":"A & B Salon",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.222684,
+    41.159689,
+    -73.222684,
+    41.159689
+],
+  "geometry": {"coordinates":[-73.222684,41.159689],"type":"Point"}
+}

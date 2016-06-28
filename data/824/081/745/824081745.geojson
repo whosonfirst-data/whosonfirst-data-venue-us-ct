@@ -1,0 +1,82 @@
+{
+  "id": 824081745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92528,41.303454,-72.92528,41.303454",
+    "geom:latitude":41.303454,
+    "geom:longitude":-72.92528,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Orange St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-haven/257154-miso-japanese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 848 6472",
+    "sg:postcode":"06510",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879165,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XPYGE2tzXn1o0sSLsoCuc_41.303611_-72.925273@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453890,
+    "wof:geomhash":"62265d96c04e0f9c20839e05368ac599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879165,
+            "region_id":85688629,
+            "venue_id":824081745
+        }
+    ],
+    "wof:id":824081745,
+    "wof:lastmodified":1466422617,
+    "wof:name":"Miso Japanese Restaurant",
+    "wof:parent_id":85879165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -72.92528,
+    41.303454,
+    -72.92528,
+    41.303454
+],
+  "geometry": {"coordinates":[-72.92528,41.303454],"type":"Point"}
+}

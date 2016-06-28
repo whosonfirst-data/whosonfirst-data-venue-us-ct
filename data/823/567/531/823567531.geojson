@@ -1,0 +1,71 @@
+{
+  "id": 823567531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.331584,41.469394,-73.331584,41.469394",
+    "geom:latitude":41.469394,
+    "geom:longitude":-73.331584,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 Hanover Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 4997",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lxjlnRVK9jNtsnMHjOiI6_41.469394_-73.331584@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441126,
+    "wof:geomhash":"1f97d815697ac61fe937d15986da8074",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823567531
+        }
+    ],
+    "wof:id":823567531,
+    "wof:lastmodified":1466422773,
+    "wof:name":"Mikes Masonry",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.331584,
+    41.469394,
+    -73.331584,
+    41.469394
+],
+  "geometry": {"coordinates":[-73.33158400000001,41.469394],"type":"Point"}
+}

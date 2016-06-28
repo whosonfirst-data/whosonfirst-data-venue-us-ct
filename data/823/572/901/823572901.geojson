@@ -1,0 +1,75 @@
+{
+  "id": 823572901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255267,41.305707,-73.255267,41.305707",
+    "geom:latitude":41.305707,
+    "geom:longitude":-73.255267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"232 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 5096",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yeUXOlmOI37dXrH2R1fvB_41.305707_-73.255267@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441247,
+    "wof:geomhash":"44ca94be22fef19ebe60b94c9b14ef61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823572901
+        }
+    ],
+    "wof:id":823572901,
+    "wof:lastmodified":1466422870,
+    "wof:name":"Grecos Automotive",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.255267,
+    41.305707,
+    -73.255267,
+    41.305707
+],
+  "geometry": {"coordinates":[-73.255267,41.305707],"type":"Point"}
+}

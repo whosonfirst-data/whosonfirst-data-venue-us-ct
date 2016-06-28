@@ -1,0 +1,73 @@
+{
+  "id": 823560395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.739285,41.851292,-72.739285,41.851292",
+    "geom:latitude":41.851292,
+    "geom:longitude":-72.739285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Linwood Dr",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 242 4653",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ENuiCG7ZnbYo1caR2znxr_41.851292_-72.739285@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440949,
+    "wof:geomhash":"333c3ca26887d5e6c2b8a3d7a908d169",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":823560395
+        }
+    ],
+    "wof:id":823560395,
+    "wof:lastmodified":1466422975,
+    "wof:name":"BBC Properties LLC",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.739285,
+    41.851292,
+    -72.739285,
+    41.851292
+],
+  "geometry": {"coordinates":[-72.739285,41.851292],"type":"Point"}
+}

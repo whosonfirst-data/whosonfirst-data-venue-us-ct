@@ -1,0 +1,73 @@
+{
+  "id": 823529219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.78175,41.665451,-72.78175,41.665451",
+    "geom:latitude":41.665451,
+    "geom:longitude":-72.78175,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"174 Arch St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 223 4552",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LNsx96OxIyU2QFU2SvI3C_41.665451_-72.781750@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440237,
+    "wof:geomhash":"73b776eb7955441c625512c524746dd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823529219
+        }
+    ],
+    "wof:id":823529219,
+    "wof:lastmodified":1466422244,
+    "wof:name":"Maccabes Lido Cafe",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.78175,
+    41.665451,
+    -72.78175,
+    41.665451
+],
+  "geometry": {"coordinates":[-72.78175,41.665451],"type":"Point"}
+}

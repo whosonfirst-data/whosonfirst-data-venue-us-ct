@@ -1,0 +1,66 @@
+{
+  "id": 824015443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.109518,41.427128,-73.109518,41.427128",
+    "geom:latitude":41.427128,
+    "geom:longitude":-73.109518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"340 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 9734",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DN3jQcHx5XCRJQQ71VFVi_41.427128_-73.109518@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452326,
+    "wof:geomhash":"3146a8332fe7205e62a8526fdca65c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":824015443
+        }
+    ],
+    "wof:id":824015443,
+    "wof:lastmodified":1466421430,
+    "wof:name":"Cucina Rustica",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.109518,
+    41.427128,
+    -73.109518,
+    41.427128
+],
+  "geometry": {"coordinates":[-73.10951799999999,41.427128],"type":"Point"}
+}

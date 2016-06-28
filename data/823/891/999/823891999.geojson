@@ -1,0 +1,79 @@
+{
+  "id": 823891999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.54728,41.109331,-73.54728,41.109331",
+    "geom:latitude":41.109331,
+    "geom:longitude":-73.54728,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1096 High Ridge Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 329 2683",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852825,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nLeSrmVEGCG77fvrknTN8_41.109331_-73.547280@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449250,
+    "wof:geomhash":"67b2dd2929f59ccf6d87094a39a9bfc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85852825,
+            "region_id":85688629,
+            "venue_id":823891999
+        }
+    ],
+    "wof:id":823891999,
+    "wof:lastmodified":1466425737,
+    "wof:name":"US Navy Recruiting",
+    "wof:parent_id":85852825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -73.54728,
+    41.109331,
+    -73.54728,
+    41.109331
+],
+  "geometry": {"coordinates":[-73.54728,41.109331],"type":"Point"}
+}

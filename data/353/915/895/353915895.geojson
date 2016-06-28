@@ -2,13 +2,14 @@
   "id": 353915895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.658381,41.046075,-73.658381,41.046075",
     "geom:latitude":41.046075,
     "geom:longitude":-73.658381,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Pecksland Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":353915895,
-    "wof:lastmodified":1449020752,
+    "wof:lastmodified":1466421134,
     "wof:name":"H B Nitkin Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.658381,41.046075,-73.658381,41.046075],
-  "geometry": {"coordinates":[-73.658381,41.046075],"type":"Point"}
+  "bbox": [
+    -73.658381,
+    41.046075,
+    -73.658381,
+    41.046075
+],
+  "geometry": {"coordinates":[-73.65838100000001,41.046075],"type":"Point"}
 }

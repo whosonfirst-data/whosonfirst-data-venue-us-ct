@@ -1,0 +1,83 @@
+{
+  "id": 824008107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.408804,41.117825,-73.408804,41.117825",
+    "geom:latitude":41.117825,
+    "geom:longitude":-73.408804,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 E Wall St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 846 0525",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g7ASTaZCf8pmTCRx3ORl5_41.117825_-73.408804@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452159,
+    "wof:geomhash":"1dcde31096a834c1b08139cc1c0c469c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":824008107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":824008107
+        }
+    ],
+    "wof:id":824008107,
+    "wof:lastmodified":1466421216,
+    "wof:name":"Norwalk Historical Society",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.408804,
+    41.117825,
+    -73.408804,
+    41.117825
+],
+  "geometry": {"coordinates":[-73.408804,41.117825],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823985391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.682862,41.752503,-72.682862,41.752503",
+    "geom:latitude":41.752503,
+    "geom:longitude":-72.682862,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"282 Washington St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878035,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WpvBdNYWBVdJQEkzBPg2I_41.752503_-72.682862@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451615,
+    "wof:geomhash":"e4fc54972fade39f5e3bec8dab235b6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878035,
+            "region_id":85688629,
+            "venue_id":823985391
+        }
+    ],
+    "wof:id":823985391,
+    "wof:lastmodified":1466426718,
+    "wof:name":"Connecticut Childrens Med Ctr",
+    "wof:parent_id":85878035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.682862,
+    41.752503,
+    -72.682862,
+    41.752503
+],
+  "geometry": {"coordinates":[-72.682862,41.752503],"type":"Point"}
+}

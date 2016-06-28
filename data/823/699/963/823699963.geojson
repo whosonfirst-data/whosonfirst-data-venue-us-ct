@@ -1,0 +1,66 @@
+{
+  "id": 823699963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252854,41.827013,-73.252854,41.827013",
+    "geom:latitude":41.827013,
+    "geom:longitude":-73.252854,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"302 Sharon Tpke",
+    "sg:city":"Goshen",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 491 3228",
+    "sg:postcode":"06756",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816203,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KKMcsnJfyJ8ZVG6ID7MK6_41.827013_-73.252854@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444236,
+    "wof:geomhash":"32d97fd45143cca342097dab3b90a2a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816203,
+            "region_id":85688629,
+            "venue_id":823699963
+        }
+    ],
+    "wof:id":823699963,
+    "wof:lastmodified":1466424292,
+    "wof:name":"LDM Squared LLC",
+    "wof:parent_id":85816203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.252854,
+    41.827013,
+    -73.252854,
+    41.827013
+],
+  "geometry": {"coordinates":[-73.252854,41.827013],"type":"Point"}
+}

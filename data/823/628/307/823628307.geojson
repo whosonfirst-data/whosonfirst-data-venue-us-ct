@@ -1,0 +1,66 @@
+{
+  "id": 823628307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08773,41.69375,-73.08773,41.69375",
+    "geom:latitude":41.69375,
+    "geom:longitude":-73.08773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"206 Atwood Rd",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 8114",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_007dmynCG3qk682HEYz1F3_41.693750_-73.087730@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442593,
+    "wof:geomhash":"2e7fefa9d467ec33deba07a7eb30e26e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823628307
+        }
+    ],
+    "wof:id":823628307,
+    "wof:lastmodified":1466423570,
+    "wof:name":"Gordon Atwood",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.08773,
+    41.69375,
+    -73.08773,
+    41.69375
+],
+  "geometry": {"coordinates":[-73.08772999999999,41.69375],"type":"Point"}
+}

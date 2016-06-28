@@ -1,0 +1,77 @@
+{
+  "id": 823862989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.628514,41.762569,-72.628514,41.762569",
+    "geom:latitude":41.762569,
+    "geom:longitude":-72.628514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"334 Silver Ln",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 569 1066",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4f8C36RabtXa3r95fh6GBn_41.762569_-72.628514@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448572,
+    "wof:geomhash":"2403c4225fb145b1d663fc92d07d94f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":823862989
+        }
+    ],
+    "wof:id":823862989,
+    "wof:lastmodified":1466425715,
+    "wof:name":"Vernon CT",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.628514,
+    41.762569,
+    -72.628514,
+    41.762569
+],
+  "geometry": {"coordinates":[-72.628514,41.762569],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 823492425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.746828,41.666378,-72.746828,41.666378",
+    "geom:latitude":41.666378,
+    "geom:longitude":-72.746828,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 Eddy Ln",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 3466",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a0i2RBY6FvLs7cFlWIgHC_41.666378_-72.746828@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439363,
+    "wof:geomhash":"d6bebc9d7f4ab2cd598ef09d412829c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823492425
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823492425
+        }
+    ],
+    "wof:id":823492425,
+    "wof:lastmodified":1466421588,
+    "wof:name":"Level & Hammer Home Impro",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.746828,
+    41.666378,
+    -72.746828,
+    41.666378
+],
+  "geometry": {"coordinates":[-72.74682799999999,41.666378],"type":"Point"}
+}

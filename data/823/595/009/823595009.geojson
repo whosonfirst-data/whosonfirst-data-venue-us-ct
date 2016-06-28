@@ -1,0 +1,71 @@
+{
+  "id": 823595009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819081,41.277237,-72.819081,41.277237",
+    "geom:latitude":41.277237,
+    "geom:longitude":-72.819081,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"445 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 9206",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lzlmo7pmYIssLVh6i4vwS_41.277237_-72.819081@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441763,
+    "wof:geomhash":"9c54adb7f8bba80f06d11a42a907d519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823595009
+        }
+    ],
+    "wof:id":823595009,
+    "wof:lastmodified":1466423172,
+    "wof:name":"Elm Cafe Inc",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bar"
+    ]
+},
+  "bbox": [
+    -72.819081,
+    41.277237,
+    -72.819081,
+    41.277237
+],
+  "geometry": {"coordinates":[-72.819081,41.277237],"type":"Point"}
+}

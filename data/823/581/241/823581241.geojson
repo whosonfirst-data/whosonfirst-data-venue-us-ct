@@ -1,0 +1,86 @@
+{
+  "id": 823581241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.062599,41.219314,-73.062599,41.219314",
+    "geom:latitude":41.219314,
+    "geom:longitude":-73.062599,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 Broad St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 876 7978",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "company",
+        "system",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AP9ucJyMisQYDhXYPyeMj_41.219314_-73.062599@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441450,
+    "wof:geomhash":"283525b92c6c9d092ce58c238d730b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823581241
+        }
+    ],
+    "wof:id":823581241,
+    "wof:lastmodified":1466423017,
+    "wof:name":"Active Telephone Inc",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "system",
+        "sales"
+    ]
+},
+  "bbox": [
+    -73.062599,
+    41.219314,
+    -73.062599,
+    41.219314
+],
+  "geometry": {"coordinates":[-73.06259900000001,41.219314],"type":"Point"}
+}

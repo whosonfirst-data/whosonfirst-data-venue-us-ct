@@ -1,0 +1,73 @@
+{
+  "id": 823601161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.313617,41.780805,-72.313617,41.780805",
+    "geom:latitude":41.780805,
+    "geom:longitude":-72.313617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1700 Main St",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06238",
+    "sg:province":"CT",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931285,
+        102085379,
+        85865199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QkCzqP9udjXCvkjN7eEPM_41.780805_-72.313617@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441928,
+    "wof:geomhash":"72515791d249f021f022941e6fd0c8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931285,
+            "neighbourhood_id":85865199,
+            "region_id":85688629,
+            "venue_id":823601161
+        }
+    ],
+    "wof:id":823601161,
+    "wof:lastmodified":1466423336,
+    "wof:name":"Coventry Board of Education",
+    "wof:parent_id":85865199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -72.313617,
+    41.780805,
+    -72.313617,
+    41.780805
+],
+  "geometry": {"coordinates":[-72.31361699999999,41.780805],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823954573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.600596,41.713482,-72.600596,41.713482",
+    "geom:latitude":41.713482,
+    "geom:longitude":-72.600596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Hebron Ave",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GBJ5oYcUs9uzF4bTMPbSo_41.713482_-72.600596@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450873,
+    "wof:geomhash":"985b83b48920b3f955b3e87a08a5442a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823954573
+        }
+    ],
+    "wof:id":823954573,
+    "wof:lastmodified":1466426503,
+    "wof:name":"Clinical Laboratory Partners",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.600596,
+    41.713482,
+    -72.600596,
+    41.713482
+],
+  "geometry": {"coordinates":[-72.600596,41.713482],"type":"Point"}
+}

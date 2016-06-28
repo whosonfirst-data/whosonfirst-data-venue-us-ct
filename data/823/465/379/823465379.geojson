@@ -1,0 +1,73 @@
+{
+  "id": 823465379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25842,41.439178,-73.25842,41.439178",
+    "geom:latitude":41.439178,
+    "geom:longitude":-73.25842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"282 Berkshire Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 6995",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847919,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dGpYJ0nc53JU1FTZr9qEo_41.439178_-73.258420@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438729,
+    "wof:geomhash":"eed8219dca47fd18fd953dda71c35ea9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85847919,
+            "region_id":85688629,
+            "venue_id":823465379
+        }
+    ],
+    "wof:id":823465379,
+    "wof:lastmodified":1466421112,
+    "wof:name":"O'Brien Plumbing Svc",
+    "wof:parent_id":85847919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.25842,
+    41.439178,
+    -73.25842,
+    41.439178
+],
+  "geometry": {"coordinates":[-73.25842,41.439178],"type":"Point"}
+}

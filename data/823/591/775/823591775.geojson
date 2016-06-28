@@ -1,0 +1,88 @@
+{
+  "id": 823591775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.029903,41.212671,-73.029903,41.212671",
+    "geom:latitude":41.212671,
+    "geom:longitude":-73.029903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"404 Welchs Point Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85820241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cmVUqyBG6NMdTPxcwtyob_41.212671_-73.029903@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441687,
+    "wof:geomhash":"966808b0fc2eec0b05bdf9dc923cd1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823591775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823591775
+        }
+    ],
+    "wof:id":823591775,
+    "wof:lastmodified":1466423272,
+    "wof:name":"West AV Auto Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.029903,
+    41.212671,
+    -73.029903,
+    41.212671
+],
+  "geometry": {"coordinates":[-73.029903,41.212671],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823778005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.526193,41.052305,-73.526193,41.052305",
+    "geom:latitude":41.052305,
+    "geom:longitude":-73.526193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Myrtle Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "used",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sMSS0fus1CTsySqc09XSG_41.052305_-73.526193@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446036,
+    "wof:geomhash":"455485844907a8c7c48badbefb548b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823778005
+        }
+    ],
+    "wof:id":823778005,
+    "wof:lastmodified":1466425031,
+    "wof:name":"Colletto Brothers Inc",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.526193,
+    41.052305,
+    -73.526193,
+    41.052305
+],
+  "geometry": {"coordinates":[-73.52619300000001,41.052305],"type":"Point"}
+}

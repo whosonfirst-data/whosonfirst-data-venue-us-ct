@@ -1,0 +1,74 @@
+{
+  "id": 824014693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.816045,41.483585,-72.816045,41.483585",
+    "geom:latitude":41.483585,
+    "geom:longitude":-72.816045,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 N Plains Industrial Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 6100",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "sg:website":"www.bemaktraffic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A7x8bu287YVsNKSXSlMmJ_41.483585_-72.816045@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452311,
+    "wof:geomhash":"9675f4441afa06486c3bd64a139573a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":824014693
+        }
+    ],
+    "wof:id":824014693,
+    "wof:lastmodified":1466421387,
+    "wof:name":"Bemak Traffic Svc",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.816045,
+    41.483585,
+    -72.816045,
+    41.483585
+],
+  "geometry": {"coordinates":[-72.816045,41.483585],"type":"Point"}
+}

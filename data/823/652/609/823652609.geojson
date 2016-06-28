@@ -1,0 +1,73 @@
+{
+  "id": 823652609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.26587,41.329507,-73.26587,41.329507",
+    "geom:latitude":41.329507,
+    "geom:longitude":-73.26587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"550 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 0454",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ap2GkSo2uKjrZiHIVYjIt_41.329507_-73.265870@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443133,
+    "wof:geomhash":"7fc6a145a32290d2cbfacf917cf48951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823652609
+        }
+    ],
+    "wof:id":823652609,
+    "wof:lastmodified":1466423840,
+    "wof:name":"Nagy Brothers Construction Co",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.26587,
+    41.329507,
+    -73.26587,
+    41.329507
+],
+  "geometry": {"coordinates":[-73.26587000000001,41.329507],"type":"Point"}
+}

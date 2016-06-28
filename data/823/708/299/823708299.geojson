@@ -1,0 +1,82 @@
+{
+  "id": 823708299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064116,41.224726,-73.064116,41.224726",
+    "geom:latitude":41.224726,
+    "geom:longitude":-73.064116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Laurelton Ct",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 882 9835",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TtfYOQX50NI16Z4n2IcIM_41.224726_-73.064116@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444410,
+    "wof:geomhash":"6047919f3d36893d28d07e31132bb7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823708299
+        }
+    ],
+    "wof:id":823708299,
+    "wof:lastmodified":1466424285,
+    "wof:name":"Therapy Associates LLC",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy"
+    ]
+},
+  "bbox": [
+    -73.064116,
+    41.224726,
+    -73.064116,
+    41.224726
+],
+  "geometry": {"coordinates":[-73.064116,41.224726],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 823905073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.094132,41.815852,-73.094132,41.815852",
+    "geom:latitude":41.815852,
+    "geom:longitude":-73.094132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1225 E Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 496 1711",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rcZSq858HS76uDFEIokef_41.815852_-73.094132@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449602,
+    "wof:geomhash":"777fa835639f3fafe88178c449655339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823905073
+        }
+    ],
+    "wof:id":823905073,
+    "wof:lastmodified":1466426022,
+    "wof:name":"Professional Dog Grooming",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.094132,
+    41.815852,
+    -73.094132,
+    41.815852
+],
+  "geometry": {"coordinates":[-73.094132,41.815852],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823837121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.946494,41.262502,-72.946494,41.262502",
+    "geom:latitude":41.262502,
+    "geom:longitude":-72.946494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"147 Campbell Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 934 8550",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868719,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ser8HoAiW5JIXRGQg3HIG_41.262502_-72.946494@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447834,
+    "wof:geomhash":"bdaffb0cab8943cb8a2a8a1c9f9a0c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85868719,
+            "region_id":85688629,
+            "venue_id":823837121
+        }
+    ],
+    "wof:id":823837121,
+    "wof:lastmodified":1466425426,
+    "wof:name":"Gates Auto Repair & Svc LLC",
+    "wof:parent_id":85868719,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.946494,
+    41.262502,
+    -72.946494,
+    41.262502
+],
+  "geometry": {"coordinates":[-72.946494,41.262502],"type":"Point"}
+}

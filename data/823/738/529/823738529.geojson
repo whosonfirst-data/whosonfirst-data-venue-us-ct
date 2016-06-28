@@ -1,0 +1,71 @@
+{
+  "id": 823738529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211363,41.322336,-73.211363,41.322336",
+    "geom:latitude":41.322336,
+    "geom:longitude":-73.211363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"535 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 8177",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fLBzh5zk2ZdsdOvBX9RzV_41.322336_-73.211363@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445121,
+    "wof:geomhash":"a9f17b283f01313075fcdd024ed16547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823738529
+        }
+    ],
+    "wof:id":823738529,
+    "wof:lastmodified":1466424658,
+    "wof:name":"Lia's Pizza",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.211363,
+    41.322336,
+    -73.211363,
+    41.322336
+],
+  "geometry": {"coordinates":[-73.21136300000001,41.322336],"type":"Point"}
+}

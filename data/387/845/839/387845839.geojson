@@ -2,13 +2,14 @@
   "id": 387845839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.469057,41.133214,-73.469057,41.133214",
     "geom:latitude":41.133214,
     "geom:longitude":-73.469057,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"24 Nubel Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387845839,
-    "wof:lastmodified":1449056726,
+    "wof:lastmodified":1466421107,
     "wof:name":"Woodall Financial Svc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "financial"
     ]
 },
-  "bbox": [-73.469057,41.133214,-73.469057,41.133214],
-  "geometry": {"coordinates":[-73.469057,41.133214],"type":"Point"}
+  "bbox": [
+    -73.469057,
+    41.133214,
+    -73.469057,
+    41.133214
+],
+  "geometry": {"coordinates":[-73.46905700000001,41.133214],"type":"Point"}
 }

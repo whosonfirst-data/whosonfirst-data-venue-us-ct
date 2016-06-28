@@ -1,0 +1,81 @@
+{
+  "id": 823764247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116813,41.207518,-73.116813,41.207518",
+    "geom:latitude":41.207518,
+    "geom:longitude":-73.116813,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Hawkins St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 259 8586",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841107,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YUZI0811F60eX07RfAXL7_41.207518_-73.116813@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445704,
+    "wof:geomhash":"658b311b6d06674bc0270a166888256e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85841107,
+            "region_id":85688629,
+            "venue_id":823764247
+        }
+    ],
+    "wof:id":823764247,
+    "wof:lastmodified":1466424809,
+    "wof:name":"Super Clean",
+    "wof:parent_id":85841107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -73.116813,
+    41.207518,
+    -73.116813,
+    41.207518
+],
+  "geometry": {"coordinates":[-73.11681299999999,41.207518],"type":"Point"}
+}

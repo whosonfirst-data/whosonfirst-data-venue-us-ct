@@ -1,0 +1,82 @@
+{
+  "id": 823836881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.075329,41.259225,-73.075329,41.259225",
+    "geom:latitude":41.259225,
+    "geom:longitude":-73.075329,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Lavery Ln",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 5387",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xXGhMcXqnurbDaox7Bx9r_41.259225_-73.075329@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447823,
+    "wof:geomhash":"fbfa0a3c6247b4610a5cf1a0b22e6a2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823836881
+        }
+    ],
+    "wof:id":823836881,
+    "wof:lastmodified":1466425599,
+    "wof:name":"Advanced Appliance Svc",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -73.075329,
+    41.259225,
+    -73.075329,
+    41.259225
+],
+  "geometry": {"coordinates":[-73.075329,41.259225],"type":"Point"}
+}

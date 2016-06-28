@@ -1,0 +1,81 @@
+{
+  "id": 823848285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.929125,41.353138,-72.929125,41.353138",
+    "geom:latitude":41.353138,
+    "geom:longitude":-72.929125,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Bagley Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 5968",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923,
+        85885309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ybGpODieWSlgkaQbza9uG_41.353138_-72.929125@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448177,
+    "wof:geomhash":"7b76f98cef764418c5e527750b4c607e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823848285
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823848285
+        }
+    ],
+    "wof:id":823848285,
+    "wof:lastmodified":1466425525,
+    "wof:name":"Arnold Goldberg Electric LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.929125,
+    41.353138,
+    -72.929125,
+    41.353138
+],
+  "geometry": {"coordinates":[-72.929125,41.353138],"type":"Point"}
+}

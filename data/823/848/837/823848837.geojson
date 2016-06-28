@@ -1,0 +1,81 @@
+{
+  "id": 823848837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08947,41.333097,-73.08947,41.333097",
+    "geom:latitude":41.333097,
+    "geom:longitude":-73.08947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Maple Ave",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 6493",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zrHDc7Vc5XETlfGFIFXTK_41.333097_-73.089470@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448192,
+    "wof:geomhash":"2bb1cf2bf440bfb01aeecb700193bf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823848837
+        }
+    ],
+    "wof:id":823848837,
+    "wof:lastmodified":1466425627,
+    "wof:name":"Griffin Anesthesia Assoc PC",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiologist"
+    ]
+},
+  "bbox": [
+    -73.08947,
+    41.333097,
+    -73.08947,
+    41.333097
+],
+  "geometry": {"coordinates":[-73.08947000000001,41.333097],"type":"Point"}
+}

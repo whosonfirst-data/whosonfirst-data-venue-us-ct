@@ -1,0 +1,71 @@
+{
+  "id": 823809711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.264593,41.234815,-73.264593,41.234815",
+    "geom:latitude":41.234815,
+    "geom:longitude":-73.264593,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 Marsh Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 2682",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842185,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GGYPvGpl0Zyd7bo23NxUL_41.234815_-73.264593@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446990,
+    "wof:geomhash":"cf2e5c56aafbf39745db73e1c76b7126",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85842185,
+            "region_id":85688629,
+            "venue_id":823809711
+        }
+    ],
+    "wof:id":823809711,
+    "wof:lastmodified":1466425061,
+    "wof:name":"Thomas Campbell Painting Co",
+    "wof:parent_id":85842185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.264593,
+    41.234815,
+    -73.264593,
+    41.234815
+],
+  "geometry": {"coordinates":[-73.264593,41.234815],"type":"Point"}
+}

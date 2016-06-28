@@ -1,0 +1,81 @@
+{
+  "id": 823652481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.529556,41.055404,-73.529556,41.055404",
+    "geom:latitude":41.055404,
+    "geom:longitude":-73.529556,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"800 E Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 9939",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BIWfpRjR2cOuNTiTcZuZX_41.055404_-73.529556@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443131,
+    "wof:geomhash":"1a640bd60cc787905a4351d7d106f81d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823652481
+        }
+    ],
+    "wof:id":823652481,
+    "wof:lastmodified":1466423829,
+    "wof:name":"Stamford Cleaners & Tailors",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -73.529556,
+    41.055404,
+    -73.529556,
+    41.055404
+],
+  "geometry": {"coordinates":[-73.529556,41.055404],"type":"Point"}
+}

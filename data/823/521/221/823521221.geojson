@@ -1,0 +1,81 @@
+{
+  "id": 823521221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.013545,41.252787,-73.013545,41.252787",
+    "geom:latitude":41.252787,
+    "geom:longitude":-73.013545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"280 Mallard Dr",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 795 4014",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gsR6tEBRm4TG6GkczNrCu_41.252787_-73.013545@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440054,
+    "wof:geomhash":"2082c7435cd7440cf836fd604d3cce30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823521221
+        }
+    ],
+    "wof:id":823521221,
+    "wof:lastmodified":1466422029,
+    "wof:name":"Twin Electric LLC",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.013545,
+    41.252787,
+    -73.013545,
+    41.252787
+],
+  "geometry": {"coordinates":[-73.01354499999999,41.252787],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823952603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.429876,41.218494,-73.429876,41.218494",
+    "geom:latitude":41.218494,
+    "geom:longitude":-73.429876,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"411 Olmstead Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 3223",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HTPzvBMb8MaDYias6YwXb_41.218494_-73.429876@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450833,
+    "wof:geomhash":"0670dcd44a20092c828c65c8655ddfe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823952603
+        }
+    ],
+    "wof:id":823952603,
+    "wof:lastmodified":1466426464,
+    "wof:name":"Ely Electric",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.429876,
+    41.218494,
+    -73.429876,
+    41.218494
+],
+  "geometry": {"coordinates":[-73.42987599999999,41.218494],"type":"Point"}
+}

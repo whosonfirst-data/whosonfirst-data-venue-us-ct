@@ -1,0 +1,73 @@
+{
+  "id": 823623377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.429842,41.43998,-73.429842,41.43998",
+    "geom:latitude":41.43998,
+    "geom:longitude":-73.429842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Lily Dr",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 6265",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WETdlfn1IbrNzYjBOTaUA_41.439980_-73.429842@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442477,
+    "wof:geomhash":"9ae1343f9151fd4678ec06d223d46467",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823623377
+        }
+    ],
+    "wof:id":823623377,
+    "wof:lastmodified":1466423556,
+    "wof:name":"Competitive Electric",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.429842,
+    41.43998,
+    -73.429842,
+    41.43998
+],
+  "geometry": {"coordinates":[-73.42984199999999,41.43998],"type":"Point"}
+}

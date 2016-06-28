@@ -1,0 +1,80 @@
+{
+  "id": 824110811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.39011,41.535667,-73.39011,41.535667",
+    "geom:latitude":41.535667,
+    "geom:longitude":-73.39011,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124A Henry Sanford Rd",
+    "sg:city":"Bridgewater",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 350 6264",
+    "sg:postcode":"06752",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fabricator",
+        "work",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DL7sQnC3awEbMRlAAq2wl_41.535667_-73.390110@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454568,
+    "wof:geomhash":"51c208d50a5263bf44d262565c2f7d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":824110811
+        }
+    ],
+    "wof:id":824110811,
+    "wof:lastmodified":1466423144,
+    "wof:name":"Custom Iron Works",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "work",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -73.39011,
+    41.535667,
+    -73.39011,
+    41.535667
+],
+  "geometry": {"coordinates":[-73.39011000000001,41.535667],"type":"Point"}
+}

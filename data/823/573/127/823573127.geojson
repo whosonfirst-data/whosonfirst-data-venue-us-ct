@@ -1,0 +1,77 @@
+{
+  "id": 823573127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.349348,41.139841,-73.349348,41.139841",
+    "geom:latitude":41.139841,
+    "geom:longitude":-73.349348,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 8222",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823521,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kRLPtJWVeArOPHYF55lka_41.139841_-73.349348@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441254,
+    "wof:geomhash":"995e238befff3cfd49f17cf3698b0a4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85823521,
+            "region_id":85688629,
+            "venue_id":823573127
+        }
+    ],
+    "wof:id":823573127,
+    "wof:lastmodified":1466422797,
+    "wof:name":"Steinway Pianos",
+    "wof:parent_id":85823521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [
+    -73.349348,
+    41.139841,
+    -73.349348,
+    41.139841
+],
+  "geometry": {"coordinates":[-73.34934800000001,41.139841],"type":"Point"}
+}

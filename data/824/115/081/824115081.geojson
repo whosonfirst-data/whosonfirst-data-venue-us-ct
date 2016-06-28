@@ -1,0 +1,73 @@
+{
+  "id": 824115081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.493924,41.448002,-73.493924,41.448002",
+    "geom:latitude":41.448002,
+    "geom:longitude":-73.493924,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Charcoal Ridge Rd S",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 312 0515",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "collection",
+        "garbage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85806093,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TwMwMHkZcmirsLC3jhQv9_41.448002_-73.493924@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454658,
+    "wof:geomhash":"d98ce846ccaf216028c4d86d21bbd6cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85806093,
+            "region_id":85688629,
+            "venue_id":824115081
+        }
+    ],
+    "wof:id":824115081,
+    "wof:lastmodified":1466423240,
+    "wof:name":"Domain's Refuse Service Inc",
+    "wof:parent_id":85806093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collection",
+        "garbage"
+    ]
+},
+  "bbox": [
+    -73.493924,
+    41.448002,
+    -73.493924,
+    41.448002
+],
+  "geometry": {"coordinates":[-73.49392400000001,41.448002],"type":"Point"}
+}

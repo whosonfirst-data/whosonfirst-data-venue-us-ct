@@ -1,0 +1,73 @@
+{
+  "id": 823646561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93512,41.380242,-72.93512,41.380242",
+    "geom:latitude":41.380242,
+    "geom:longitude":-72.93512,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"93 Paradise Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 1986",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photographer",
+        "wedding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4heFGR42QwxqbUFFIasAoD_41.380242_-72.935120@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443005,
+    "wof:geomhash":"18fa0be8ca398770e22583fc12c4841e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823646561
+        }
+    ],
+    "wof:id":823646561,
+    "wof:lastmodified":1466423767,
+    "wof:name":"Contemporary Impressions",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -72.93512,
+    41.380242,
+    -72.93512,
+    41.380242
+],
+  "geometry": {"coordinates":[-72.93512,41.380242],"type":"Point"}
+}

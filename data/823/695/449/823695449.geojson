@@ -1,0 +1,71 @@
+{
+  "id": 823695449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.915225,41.327504,-72.915225,41.327504",
+    "geom:latitude":41.327504,
+    "geom:longitude":-72.915225,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"602 Whitney Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2I69V65SnC67JIzX7fANXI_41.327504_-72.915225@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444143,
+    "wof:geomhash":"376c891d710bb2c643c4d384fe2c1bb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823695449
+        }
+    ],
+    "wof:id":823695449,
+    "wof:lastmodified":1466424396,
+    "wof:name":"Sabbatino Joseph A MD",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.915225,
+    41.327504,
+    -72.915225,
+    41.327504
+],
+  "geometry": {"coordinates":[-72.91522500000001,41.327504],"type":"Point"}
+}

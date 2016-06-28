@@ -1,0 +1,93 @@
+{
+  "id": 824089295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.616619,41.719365,-72.616619,41.719365",
+    "geom:latitude":41.719365,
+    "geom:longitude":-72.616619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"121 PRATT ST",
+    "sg:city":"GLASTONBURY",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 3588",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "emergency",
+        "pet",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian"
+    ],
+    "sg:website":"http://www.glastonburyvet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73pngYnfHrhjnaOSk7JNAT_41.719365_-72.616619@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454073,
+    "wof:geomhash":"3809dfa8f9cf3d3dbfd220a0114dc2fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824089295
+        }
+    ],
+    "wof:id":824089295,
+    "wof:lastmodified":1466422834,
+    "wof:name":"Glastonbury Veterinary",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "pet",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.616619,
+    41.719365,
+    -72.616619,
+    41.719365
+],
+  "geometry": {"coordinates":[-72.616619,41.719365],"type":"Point"}
+}

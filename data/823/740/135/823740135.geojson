@@ -1,0 +1,71 @@
+{
+  "id": 823740135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.805607,41.277967,-72.805607,41.277967",
+    "geom:latitude":41.277967,
+    "geom:longitude":-72.805607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Pine Orchard Rd",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 0338",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5khoj8ZjZFMrroNSGaF1MD_41.277967_-72.805607@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445161,
+    "wof:geomhash":"6bd96ad3424609d2ba0a2b24f95896b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823740135
+        }
+    ],
+    "wof:id":823740135,
+    "wof:lastmodified":1466424558,
+    "wof:name":"Stephen W Yardan DDS PC",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.805607,
+    41.277967,
+    -72.805607,
+    41.277967
+],
+  "geometry": {"coordinates":[-72.80560699999999,41.277967],"type":"Point"}
+}

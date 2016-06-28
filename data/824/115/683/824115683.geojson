@@ -1,0 +1,77 @@
+{
+  "id": 824115683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227061,41.175582,-73.227061,41.175582",
+    "geom:latitude":41.175582,
+    "geom:longitude":-73.227061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"802 Villa Ave",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bowling",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 9408",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "brew"
+    ],
+    "sg:website":"http://www.nutmegbowl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qofTCRj8MLq575TosLQ78_41.175582_-73.227061@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454670,
+    "wof:geomhash":"789a403dc485f07a59e7da8cf7815e84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852811,
+            "region_id":85688629,
+            "venue_id":824115683
+        }
+    ],
+    "wof:id":824115683,
+    "wof:lastmodified":1466423164,
+    "wof:name":"Nutmeg Bowl",
+    "wof:parent_id":85852811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew"
+    ]
+},
+  "bbox": [
+    -73.227061,
+    41.175582,
+    -73.227061,
+    41.175582
+],
+  "geometry": {"coordinates":[-73.22706100000001,41.175582],"type":"Point"}
+}

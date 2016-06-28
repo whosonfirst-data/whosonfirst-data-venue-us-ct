@@ -1,0 +1,66 @@
+{
+  "id": 823910195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.26656,41.361695,-73.26656,41.361695",
+    "geom:latitude":41.361695,
+    "geom:longitude":-73.26656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"316 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 2273",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kiL1LiG3Er8IDUmB6pWfT_41.361695_-73.266560@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449751,
+    "wof:geomhash":"0455f80f873cd59fcc763882803c3ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823910195
+        }
+    ],
+    "wof:id":823910195,
+    "wof:lastmodified":1466426281,
+    "wof:name":"Newtown Insurance Svc",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.26656,
+    41.361695,
+    -73.26656,
+    41.361695
+],
+  "geometry": {"coordinates":[-73.26656,41.361695],"type":"Point"}
+}

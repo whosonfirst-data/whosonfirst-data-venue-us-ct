@@ -1,0 +1,82 @@
+{
+  "id": 823675043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92,41.396034,-72.92,41.396034",
+    "geom:latitude":41.396034,
+    "geom:longitude":-72.92,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1130 Sherman Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 5214",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lawnmower",
+        "lawn",
+        "lawnmowers",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P7gSwtQGQX5Q0gvsBaWvV_41.396034_-72.920000@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443684,
+    "wof:geomhash":"e9cca13dc3c92efff4abceadfc10e8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823675043
+        }
+    ],
+    "wof:id":823675043,
+    "wof:lastmodified":1466423999,
+    "wof:name":"Frenette's Power Equipment Inc",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawnmower",
+        "lawn",
+        "lawnmowers",
+        "mower"
+    ]
+},
+  "bbox": [
+    -72.92,
+    41.396034,
+    -72.92,
+    41.396034
+],
+  "geometry": {"coordinates":[-72.92,41.396034],"type":"Point"}
+}

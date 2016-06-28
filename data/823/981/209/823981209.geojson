@@ -1,0 +1,71 @@
+{
+  "id": 823981209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.990346,41.612423,-72.990346,41.612423",
+    "geom:latitude":41.612423,
+    "geom:longitude":-72.990346,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 Mad River Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ePmKrbc53Nv73U9LIIrbw_41.612423_-72.990346@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451514,
+    "wof:geomhash":"eb3cf5f53265f1d860c6867eb2cd626a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823981209
+        }
+    ],
+    "wof:id":823981209,
+    "wof:lastmodified":1466426672,
+    "wof:name":"White Mountain Industries Inc",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.990346,
+    41.612423,
+    -72.990346,
+    41.612423
+],
+  "geometry": {"coordinates":[-72.990346,41.612423],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823957361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.09177,41.339034,-73.09177,41.339034",
+    "geom:latitude":41.339034,
+    "geom:longitude":-73.09177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Westfield Ave",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 3393",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FuzcWgPJbdEXxV4TFLHLt_41.339034_-73.091770@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450946,
+    "wof:geomhash":"0e6470ae221b6d67be3c550c3638140a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823957361
+        }
+    ],
+    "wof:id":823957361,
+    "wof:lastmodified":1466426491,
+    "wof:name":"Valley Ob-Gyn Assoc",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.09177,
+    41.339034,
+    -73.09177,
+    41.339034
+],
+  "geometry": {"coordinates":[-73.09177,41.339034],"type":"Point"}
+}

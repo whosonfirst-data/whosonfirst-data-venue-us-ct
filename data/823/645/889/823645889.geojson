@@ -1,0 +1,77 @@
+{
+  "id": 823645889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.71405,41.730959,-72.71405,41.730959",
+    "geom:latitude":41.730959,
+    "geom:longitude":-72.71405,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Roslyn St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878037,
+        102191575,
+        404496005,
+        85633793,
+        85931011,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T62Jj4nCMoKtpMQHiTMSa_41.730959_-72.714050@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442987,
+    "wof:geomhash":"d8296ba50cb8d272113efabdd82c080a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496005,
+            "locality_id":85931011,
+            "neighbourhood_id":85878037,
+            "region_id":85688629,
+            "venue_id":823645889
+        }
+    ],
+    "wof:id":823645889,
+    "wof:lastmodified":1466423696,
+    "wof:name":"Just Clean It",
+    "wof:parent_id":85878037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.71405,
+    41.730959,
+    -72.71405,
+    41.730959
+],
+  "geometry": {"coordinates":[-72.71405,41.730959],"type":"Point"}
+}

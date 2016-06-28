@@ -1,0 +1,71 @@
+{
+  "id": 824111511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.509274,41.636303,-73.509274,41.636303",
+    "geom:latitude":41.636303,
+    "geom:longitude":-73.509274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Southview Dr",
+    "sg:city":"Sherman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 354 7735",
+    "sg:postcode":"06784",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85833885,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YisJYyjNFmq7eWWYiy18Z_41.636303_-73.509274@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454579,
+    "wof:geomhash":"f1f896eafdd5f95ceed11a52df0b2b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85833885,
+            "region_id":85688629,
+            "venue_id":824111511
+        }
+    ],
+    "wof:id":824111511,
+    "wof:lastmodified":1466423121,
+    "wof:name":"Precision Pool & Aquatics",
+    "wof:parent_id":85833885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.509274,
+    41.636303,
+    -73.509274,
+    41.636303
+],
+  "geometry": {"coordinates":[-73.509274,41.636303],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823730999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.331024,41.208589,-73.331024,41.208589",
+    "geom:latitude":41.208589,
+    "geom:longitude":-73.331024,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Bridge Rd",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 454 2000",
+    "sg:postcode":"06883",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85803807,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z9wnUjJY4LjMsdlykjTu3_41.208589_-73.331024@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444930,
+    "wof:geomhash":"8f3af319a98cd90f33886d012be73dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85803807,
+            "region_id":85688629,
+            "venue_id":823730999
+        }
+    ],
+    "wof:id":823730999,
+    "wof:lastmodified":1466424649,
+    "wof:name":"Double L Farm Stand",
+    "wof:parent_id":85803807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.331024,
+    41.208589,
+    -73.331024,
+    41.208589
+],
+  "geometry": {"coordinates":[-73.331024,41.208589],"type":"Point"}
+}

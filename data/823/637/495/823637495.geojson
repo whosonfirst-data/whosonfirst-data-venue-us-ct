@@ -1,0 +1,75 @@
+{
+  "id": 823637495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.386211,41.629822,-73.386211,41.629822",
+    "geom:latitude":41.629822,
+    "geom:longitude":-73.386211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Crossmon Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 4354",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931231,
+        102085375,
+        85824781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vhsufSASlg9uyhkE8OPm3_41.629822_-73.386211@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442797,
+    "wof:geomhash":"a8b385b274f0427f1161bcc63f0b528a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85931231,
+            "neighbourhood_id":85824781,
+            "region_id":85688629,
+            "venue_id":823637495
+        }
+    ],
+    "wof:id":823637495,
+    "wof:lastmodified":1466423664,
+    "wof:name":"Property Maintenance & MGT",
+    "wof:parent_id":85824781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.386211,
+    41.629822,
+    -73.386211,
+    41.629822
+],
+  "geometry": {"coordinates":[-73.386211,41.629822],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 824076725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.026562,41.246251,-73.026562,41.246251",
+    "geom:latitude":41.246251,
+    "geom:longitude":-73.026562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1595 Boston Post Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/milford/293442-paisans-pizza-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 877 6666",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U9dmfphJp55qPzLfhOjyp_41.246251_-73.026562@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453778,
+    "wof:geomhash":"a83edafe963b9ac39c577dae209bd2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824076725
+        }
+    ],
+    "wof:id":824076725,
+    "wof:lastmodified":1466422666,
+    "wof:name":"Paisan's Pizza Buffet",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.026562,
+    41.246251,
+    -73.026562,
+    41.246251
+],
+  "geometry": {"coordinates":[-73.026562,41.246251],"type":"Point"}
+}

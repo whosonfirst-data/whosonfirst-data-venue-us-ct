@@ -1,0 +1,74 @@
+{
+  "id": 824075863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.845563,41.279415,-72.845563,41.279415",
+    "geom:latitude":41.279415,
+    "geom:longitude":-72.845563,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Jefferson Rd",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/branford/50227-pepe--rose-pizzeria-and-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 483 5232",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h2POUThPKQYPdUntEjMRC_41.279415_-72.845563@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453759,
+    "wof:geomhash":"4be021df938fb52e4b94f1e2640819f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824075863
+        }
+    ],
+    "wof:id":824075863,
+    "wof:lastmodified":1466422675,
+    "wof:name":"Pepe & Rose Pizzeria And Restaurant",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.845563,
+    41.279415,
+    -72.845563,
+    41.279415
+],
+  "geometry": {"coordinates":[-72.845563,41.279415],"type":"Point"}
+}

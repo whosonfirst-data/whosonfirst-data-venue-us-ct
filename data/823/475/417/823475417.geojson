@@ -1,0 +1,73 @@
+{
+  "id": 823475417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.70367,41.790309,-72.70367,41.790309",
+    "geom:latitude":41.790309,
+    "geom:longitude":-72.70367,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Hebron St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06112",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G3ACs9Tw2BTm2y2ECmBZB_41.790309_-72.703670@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438963,
+    "wof:geomhash":"0de5870c6de0ff22df53262a0493e4a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":823475417
+        }
+    ],
+    "wof:id":823475417,
+    "wof:lastmodified":1466421224,
+    "wof:name":"Paul M Vella MD",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.70367,
+    41.790309,
+    -72.70367,
+    41.790309
+],
+  "geometry": {"coordinates":[-72.70367,41.790309],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823532317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.082808,41.362786,-72.082808,41.362786",
+    "geom:latitude":41.362786,
+    "geom:longitude":-72.082808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Bridge St",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OZEZ6fF7qDvsNlEjcoiKo_41.362786_-72.082808@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440297,
+    "wof:geomhash":"03757f5fd584f2e821e589732e988fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":823532317
+        }
+    ],
+    "wof:id":823532317,
+    "wof:lastmodified":1466422251,
+    "wof:name":"Circle Motors",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.082808,
+    41.362786,
+    -72.082808,
+    41.362786
+],
+  "geometry": {"coordinates":[-72.082808,41.362786],"type":"Point"}
+}

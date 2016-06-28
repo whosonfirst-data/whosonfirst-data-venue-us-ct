@@ -1,0 +1,81 @@
+{
+  "id": 823929653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.069718,41.56788,-73.069718,41.56788",
+    "geom:latitude":41.56788,
+    "geom:longitude":-73.069718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Wayland Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 756 9300",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37O80WYcFUvrAcR2MaIutC_41.567880_-73.069718@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450235,
+    "wof:geomhash":"0eb6eb45fcf930e0d7cb65e10c6cd9ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823929653
+        }
+    ],
+    "wof:id":823929653,
+    "wof:lastmodified":1466426249,
+    "wof:name":"Pride Remodeling",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.069718,
+    41.56788,
+    -73.069718,
+    41.56788
+],
+  "geometry": {"coordinates":[-73.06971799999999,41.56788],"type":"Point"}
+}

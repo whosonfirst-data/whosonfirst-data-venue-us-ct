@@ -1,0 +1,73 @@
+{
+  "id": 823612255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.062494,41.872245,-72.062494,41.872245",
+    "geom:latitude":41.872245,
+    "geom:longitude":-72.062494,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"153 Pomfret Rd",
+    "sg:city":"Eastford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 974 2959",
+    "sg:postcode":"06242",
+    "sg:province":"CT",
+    "sg:tags":[
+        "logging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828179,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y5EcAkoUsyE4n9erFcYeI_41.872245_-72.062494@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442204,
+    "wof:geomhash":"29386ff3cb2ce39d93e492ccd0fad6fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85828179,
+            "region_id":85688629,
+            "venue_id":823612255
+        }
+    ],
+    "wof:id":823612255,
+    "wof:lastmodified":1466423426,
+    "wof:name":"Northeast Logging Inc",
+    "wof:parent_id":85828179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.062494,
+    41.872245,
+    -72.062494,
+    41.872245
+],
+  "geometry": {"coordinates":[-72.062494,41.872245],"type":"Point"}
+}

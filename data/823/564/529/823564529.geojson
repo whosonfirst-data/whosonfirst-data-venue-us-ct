@@ -1,0 +1,73 @@
+{
+  "id": 823564529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.421483,41.157625,-73.421483,41.157625",
+    "geom:latitude":41.157625,
+    "geom:longitude":-73.421483,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"611 Main Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 846 9559",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizzeria",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aDyhLVGz5RrwMOaoWrrcm_41.157625_-73.421483@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441053,
+    "wof:geomhash":"24e6d61ac2dc6e85f6314fda8428f377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823564529
+        }
+    ],
+    "wof:id":823564529,
+    "wof:lastmodified":1466422695,
+    "wof:name":"Pappas Pizzeria & Deli Inc",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizzeria",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.421483,
+    41.157625,
+    -73.421483,
+    41.157625
+],
+  "geometry": {"coordinates":[-73.42148299999999,41.157625],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 253397991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.689965,41.049811,-73.689965,41.049811",
     "geom:latitude":41.049811,
     "geom:longitude":-73.689965,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 International Dr",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253397991,
-    "wof:lastmodified":1449064006,
+    "wof:lastmodified":1466421108,
     "wof:name":"Oak Hill Platinum Partners LLC",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-73.689965,41.049811,-73.689965,41.049811],
+  "bbox": [
+    -73.689965,
+    41.049811,
+    -73.689965,
+    41.049811
+],
   "geometry": {"coordinates":[-73.689965,41.049811],"type":"Point"}
 }

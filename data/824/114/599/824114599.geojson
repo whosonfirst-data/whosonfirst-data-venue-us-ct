@@ -1,0 +1,80 @@
+{
+  "id": 824114599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.428588,41.443551,-73.428588,41.443551",
+    "geom:latitude":41.443551,
+    "geom:longitude":-73.428588,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Valley Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 778 6604",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dZmjIvTPkhXgqAqTrk58z_41.443551_-73.428588@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454649,
+    "wof:geomhash":"7916841d7eca28a7d5068bbe09fdc663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824114599
+        }
+    ],
+    "wof:id":824114599,
+    "wof:lastmodified":1466423252,
+    "wof:name":"C M Delivery Service",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.428588,
+    41.443551,
+    -73.428588,
+    41.443551
+],
+  "geometry": {"coordinates":[-73.428588,41.443551],"type":"Point"}
+}

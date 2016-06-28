@@ -1,0 +1,71 @@
+{
+  "id": 823858327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.551824,41.781113,-72.551824,41.781113",
+    "geom:latitude":41.781113,
+    "geom:longitude":-72.551824,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"574 Middle Tpke W",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XHXDN3Z5vWrRKwQZyYFZ4_41.781113_-72.551824@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448462,
+    "wof:geomhash":"751f9fcc5bb041f326ffb5ec7013e757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823858327
+        }
+    ],
+    "wof:id":823858327,
+    "wof:lastmodified":1466425663,
+    "wof:name":"Family Medicine Center",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.551824,
+    41.781113,
+    -72.551824,
+    41.781113
+],
+  "geometry": {"coordinates":[-72.551824,41.781113],"type":"Point"}
+}

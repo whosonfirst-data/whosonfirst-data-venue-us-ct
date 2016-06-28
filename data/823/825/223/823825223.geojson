@@ -1,0 +1,71 @@
+{
+  "id": 823825223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.803984,41.493113,-72.803984,41.493113",
+    "geom:latitude":41.493113,
+    "geom:longitude":-72.803984,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Yale Ave",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61tFuie99DkcHs39l81dZ5_41.493113_-72.803984@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447452,
+    "wof:geomhash":"3d01f285f9cb5cf9b47bd88cc1aae3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823825223
+        }
+    ],
+    "wof:id":823825223,
+    "wof:lastmodified":1466425337,
+    "wof:name":"Aversa John M MD",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.803984,
+    41.493113,
+    -72.803984,
+    41.493113
+],
+  "geometry": {"coordinates":[-72.803984,41.493113],"type":"Point"}
+}

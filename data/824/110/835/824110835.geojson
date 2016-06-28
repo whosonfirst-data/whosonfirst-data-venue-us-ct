@@ -1,0 +1,81 @@
+{
+  "id": 824110835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.34904,41.745526,-73.34904,41.745526",
+    "geom:latitude":41.745526,
+    "geom:longitude":-73.34904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Cornwall Rd",
+    "sg:city":"Warren",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 868 3337",
+    "sg:postcode":"06754",
+    "sg:province":"CT",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837751,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zFqvb437vdSNWLttBOnSQ_41.745526_-73.349040@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454568,
+    "wof:geomhash":"b9a52d3a3fffa571255236804c760b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85837751,
+            "region_id":85688629,
+            "venue_id":824110835
+        }
+    ],
+    "wof:id":824110835,
+    "wof:lastmodified":1466423147,
+    "wof:name":"Warren General Store & Deli",
+    "wof:parent_id":85837751,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.34904,
+    41.745526,
+    -73.34904,
+    41.745526
+],
+  "geometry": {"coordinates":[-73.34904,41.745526],"type":"Point"}
+}

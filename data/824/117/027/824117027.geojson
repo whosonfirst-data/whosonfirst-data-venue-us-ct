@@ -1,0 +1,98 @@
+{
+  "id": 824117027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.651682,41.015454,-73.651682,41.015454",
+    "geom:latitude":41.015454,
+    "geom:longitude":-73.651682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Chapel St",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 531 9126",
+    "sg:postcode":"06831",
+    "sg:province":"CT",
+    "sg:tags":[
+        "course",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "equipment-repairing",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.demanegolf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IcbKUs3r0QE2cpmJR5Wd9_41.015454_-73.651682@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454704,
+    "wof:geomhash":"ef99e768d1bf017436a743b65bb4abb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824117027
+        }
+    ],
+    "wof:id":824117027,
+    "wof:lastmodified":1466423435,
+    "wof:name":"De Mane Golf Inc",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "equipment-repairing",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -73.651682,
+    41.015454,
+    -73.651682,
+    41.015454
+],
+  "geometry": {"coordinates":[-73.65168199999999,41.015454],"type":"Point"}
+}

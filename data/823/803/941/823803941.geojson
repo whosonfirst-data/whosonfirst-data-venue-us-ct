@@ -1,0 +1,73 @@
+{
+  "id": 823803941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.733367,41.830833,-72.733367,41.830833",
+    "geom:latitude":41.830833,
+    "geom:longitude":-72.733367,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Seneca Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XOtkyRtPklg5gPWNET3xG_41.830833_-72.733367@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446819,
+    "wof:geomhash":"6d11cd1d34da55b7d37e0324d155e106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":823803941
+        }
+    ],
+    "wof:id":823803941,
+    "wof:lastmodified":1466425180,
+    "wof:name":"Jane Srinivasan MD",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.733367,
+    41.830833,
+    -72.733367,
+    41.830833
+],
+  "geometry": {"coordinates":[-72.733367,41.830833],"type":"Point"}
+}

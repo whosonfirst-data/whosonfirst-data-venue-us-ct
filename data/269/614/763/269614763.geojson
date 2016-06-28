@@ -2,13 +2,14 @@
   "id": 269614763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656312,41.009576,-73.656312,41.009576",
     "geom:latitude":41.009576,
     "geom:longitude":-73.656312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"435 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":269614763,
-    "wof:lastmodified":1449039062,
+    "wof:lastmodified":1466421099,
     "wof:name":"Teri's Tavern",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.656312,41.009576,-73.656312,41.009576],
+  "bbox": [
+    -73.656312,
+    41.009576,
+    -73.656312,
+    41.009576
+],
   "geometry": {"coordinates":[-73.656312,41.009576],"type":"Point"}
 }

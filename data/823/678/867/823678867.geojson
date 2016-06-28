@@ -1,0 +1,73 @@
+{
+  "id": 823678867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.857901,41.762201,-72.857901,41.762201",
+    "geom:latitude":41.762201,
+    "geom:longitude":-72.857901,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"326 Brickyard Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11O7FOrccunTRnKifrsvff_41.762201_-72.857901@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443765,
+    "wof:geomhash":"ddb7cb85e7ff25a38932eedfd29f1f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823678867
+        }
+    ],
+    "wof:id":823678867,
+    "wof:lastmodified":1466423956,
+    "wof:name":"Potters House",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -72.857901,
+    41.762201,
+    -72.857901,
+    41.762201
+],
+  "geometry": {"coordinates":[-72.857901,41.762201],"type":"Point"}
+}

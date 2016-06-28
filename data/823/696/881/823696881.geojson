@@ -1,0 +1,71 @@
+{
+  "id": 823696881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.450265,41.286089,-72.450265,41.286089",
+    "geom:latitude":41.286089,
+    "geom:longitude":-72.450265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1160 Boston Post Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 399 7776",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QFvOnEaCAdHeUUoDEjn17_41.286089_-72.450265@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444175,
+    "wof:geomhash":"38b4dd90c9599df0afb72bb6570d2c83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823696881
+        }
+    ],
+    "wof:id":823696881,
+    "wof:lastmodified":1466424199,
+    "wof:name":"Travel Companion",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -72.450265,
+    41.286089,
+    -72.450265,
+    41.286089
+],
+  "geometry": {"coordinates":[-72.450265,41.286089],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823761893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.055886,41.95253,-73.055886,41.95253",
+    "geom:latitude":41.95253,
+    "geom:longitude":-73.055886,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Smith Hill Rd",
+    "sg:city":"Winsted",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 738 7999",
+    "sg:postcode":"06098",
+    "sg:province":"CT",
+    "sg:tags":[
+        "owner",
+        "p",
+        "thomas",
+        "welcome"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835175,
+        102191575,
+        404495849,
+        85633793,
+        85931209,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GkoMkcuzK4hms2VeoLA5f_41.952530_-73.055886@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445653,
+    "wof:geomhash":"c4ea7382b453b6fb8af9ecf3f61f339d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404495849,
+            "locality_id":85931209,
+            "neighbourhood_id":85835175,
+            "region_id":85688629,
+            "venue_id":823761893
+        }
+    ],
+    "wof:id":823761893,
+    "wof:lastmodified":1466424881,
+    "wof:name":"Thomas P Welcome",
+    "wof:parent_id":85835175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "p",
+        "thomas",
+        "welcome"
+    ]
+},
+  "bbox": [
+    -73.055886,
+    41.95253,
+    -73.055886,
+    41.95253
+],
+  "geometry": {"coordinates":[-73.055886,41.95253],"type":"Point"}
+}

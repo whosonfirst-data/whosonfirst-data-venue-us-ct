@@ -1,0 +1,71 @@
+{
+  "id": 823839429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.335037,41.471333,-73.335037,41.471333",
+    "geom:latitude":41.471333,
+    "geom:longitude":-73.335037,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Lillinonah Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_778x1GJIHQrEL0MZVAHBB8_41.471333_-73.335037@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447923,
+    "wof:geomhash":"dd6f1e03c9afecf7559405629d3548bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823839429
+        }
+    ],
+    "wof:id":823839429,
+    "wof:lastmodified":1466425608,
+    "wof:name":"Car Check",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.335037,
+    41.471333,
+    -73.335037,
+    41.471333
+],
+  "geometry": {"coordinates":[-73.335037,41.471333],"type":"Point"}
+}

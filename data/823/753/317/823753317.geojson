@@ -1,0 +1,66 @@
+{
+  "id": 823753317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980233,41.338313,-72.980233,41.338313",
+    "geom:latitude":41.338313,
+    "geom:longitude":-72.980233,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"174 Amity Rd",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 5961",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WAAD1GJdiFwv3685x3TgK_41.338313_-72.980233@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445458,
+    "wof:geomhash":"f76c52ec55b1584e7532cc3402a8d6e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823753317
+        }
+    ],
+    "wof:id":823753317,
+    "wof:lastmodified":1466424662,
+    "wof:name":"Washing Machine Laundromat",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.980233,
+    41.338313,
+    -72.980233,
+    41.338313
+],
+  "geometry": {"coordinates":[-72.980233,41.338313],"type":"Point"}
+}

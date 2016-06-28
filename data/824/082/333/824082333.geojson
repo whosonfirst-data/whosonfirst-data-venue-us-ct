@@ -1,0 +1,72 @@
+{
+  "id": 824082333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.492047,41.148253,-73.492047,41.148253",
+    "geom:latitude":41.148253,
+    "geom:longitude":-73.492047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Forest St",
+    "sg:city":"New Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-canaan/25289-lous-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 966 8632",
+    "sg:postcode":"06840",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zRaMD91RqbV9iYBW4mPhj_41.148300_-73.492110@1294177022"
+    },
+    "wof:country":"US",
+    "wof:created":1463453902,
+    "wof:geomhash":"14db9d767853d8990273b60412752544",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":824082333
+        }
+    ],
+    "wof:id":824082333,
+    "wof:lastmodified":1466422386,
+    "wof:name":"Lou's Kitchen",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.492047,
+    41.148253,
+    -73.492047,
+    41.148253
+],
+  "geometry": {"coordinates":[-73.492047,41.148253],"type":"Point"}
+}

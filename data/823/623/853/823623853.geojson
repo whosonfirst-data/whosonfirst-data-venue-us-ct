@@ -1,0 +1,73 @@
+{
+  "id": 823623853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.221423,41.155695,-73.221423,41.155695",
+    "geom:latitude":41.155695,
+    "geom:longitude":-73.221423,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Ellsworth St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 330 0020",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2va1MeGdaxGM9T8PvHVhOR_41.155695_-73.221423@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442490,
+    "wof:geomhash":"0383e6e7e3b491281e6487a832493fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823623853
+        }
+    ],
+    "wof:id":823623853,
+    "wof:lastmodified":1466423729,
+    "wof:name":"AAA New Canaan Moving & Stge",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -73.221423,
+    41.155695,
+    -73.221423,
+    41.155695
+],
+  "geometry": {"coordinates":[-73.221423,41.155695],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 824073821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.609997,41.818881,-72.609997,41.818881",
+    "geom:latitude":41.818881,
+    "geom:longitude":-72.609997,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"601 John Fitch Blvd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/south-windsor/125981-blimpie-subs--sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 282 9848",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zP1x7ssI89dVZvD374bTm_41.818881_-72.609997@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453716,
+    "wof:geomhash":"f530837397c9b31c68d152427d57e392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":824073821
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":824073821
+        }
+    ],
+    "wof:id":824073821,
+    "wof:lastmodified":1466422450,
+    "wof:name":"Blimpie Subs & Sandwiches",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.609997,
+    41.818881,
+    -72.609997,
+    41.818881
+],
+  "geometry": {"coordinates":[-72.60999700000001,41.818881],"type":"Point"}
+}

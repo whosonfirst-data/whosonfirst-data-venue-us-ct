@@ -1,0 +1,73 @@
+{
+  "id": 824053155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.356479,41.311085,-73.356479,41.311085",
+    "geom:latitude":41.311085,
+    "geom:longitude":-73.356479,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"349 Newtown Tpke",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 3080",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847097,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0haEyLR9TDJp7ZJ9MacrpJ_41.311085_-73.356479@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453232,
+    "wof:geomhash":"a6c02f65110bbdc26aa9f0e734498e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85847097,
+            "region_id":85688629,
+            "venue_id":824053155
+        }
+    ],
+    "wof:id":824053155,
+    "wof:lastmodified":1466422052,
+    "wof:name":"Groundworks Inc",
+    "wof:parent_id":85847097,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.356479,
+    41.311085,
+    -73.356479,
+    41.311085
+],
+  "geometry": {"coordinates":[-73.35647899999999,41.311085],"type":"Point"}
+}

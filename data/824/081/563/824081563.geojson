@@ -1,0 +1,74 @@
+{
+  "id": 824081563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.808362,41.508843,-72.808362,41.508843",
+    "geom:latitude":41.508843,
+    "geom:longitude":-72.808362,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"533 S Broad St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/meriden/64180-chuck-e-cheeses/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 639 9909",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10kZnB9BZKjXQgBTiO2TvM_41.508936_-72.808312@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453887,
+    "wof:geomhash":"833ca384c58cda45b36bc5260d589f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":824081563
+        }
+    ],
+    "wof:id":824081563,
+    "wof:lastmodified":1466422600,
+    "wof:name":"Chuck E. Cheese's",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.808362,
+    41.508843,
+    -72.808362,
+    41.508843
+],
+  "geometry": {"coordinates":[-72.808362,41.508843],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 824115439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.259471,41.139969,-73.259471,41.139969",
+    "geom:latitude":41.139969,
+    "geom:longitude":-73.259471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Sherman St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 292 8313",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:website":"http://www.opalsbymanning.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41nd9sYCekfxsRMB1L9vSz_41.139969_-73.259471@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454665,
+    "wof:geomhash":"102b8e13c3efe3671c4f90ed795e2e15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824115439
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824115439
+        }
+    ],
+    "wof:id":824115439,
+    "wof:lastmodified":1466423137,
+    "wof:name":"Rizzoli International Pub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.259471,
+    41.139969,
+    -73.259471,
+    41.139969
+],
+  "geometry": {"coordinates":[-73.259471,41.139969],"type":"Point"}
+}

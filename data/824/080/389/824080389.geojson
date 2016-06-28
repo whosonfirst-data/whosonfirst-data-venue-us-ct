@@ -1,0 +1,72 @@
+{
+  "id": 824080389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.423629,41.155673,-73.423629,41.155673",
+    "geom:latitude":41.155673,
+    "geom:longitude":-73.423629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Main Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwalk/108493-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 840 1976",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rFs248JSp9CFKN4JIsu8I_41.155673_-73.423629@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453860,
+    "wof:geomhash":"8011cd0c43a511dd248377fd570fca2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":824080389
+        }
+    ],
+    "wof:id":824080389,
+    "wof:lastmodified":1466422573,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.423629,
+    41.155673,
+    -73.423629,
+    41.155673
+],
+  "geometry": {"coordinates":[-73.42362900000001,41.155673],"type":"Point"}
+}

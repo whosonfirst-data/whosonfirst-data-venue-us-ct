@@ -1,0 +1,81 @@
+{
+  "id": 823497899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.054737,41.557109,-73.054737,41.557109",
+    "geom:latitude":41.557109,
+    "geom:longitude":-73.054737,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"770 W Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 575 1549",
+    "sg:postcode":"06702",
+    "sg:province":"CT",
+    "sg:tags":[
+        "storage",
+        "public",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856379,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zn9cOvKCUjKzUMGTx7w4X_41.557109_-73.054737@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439517,
+    "wof:geomhash":"5e574597123becbb5075dd572ee4dc6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":823497899
+        }
+    ],
+    "wof:id":823497899,
+    "wof:lastmodified":1466421667,
+    "wof:name":"Facility 268",
+    "wof:parent_id":85856379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "public",
+        "facility"
+    ]
+},
+  "bbox": [
+    -73.054737,
+    41.557109,
+    -73.054737,
+    41.557109
+],
+  "geometry": {"coordinates":[-73.054737,41.557109],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 386951875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.497861,41.143224,-73.497861,41.143224",
     "geom:latitude":41.143224,
     "geom:longitude":-73.497861,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"73 Grove St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":386951875,
-    "wof:lastmodified":1449028634,
+    "wof:lastmodified":1466421090,
     "wof:name":"West Construction",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.497861,41.143224,-73.497861,41.143224],
+  "bbox": [
+    -73.497861,
+    41.143224,
+    -73.497861,
+    41.143224
+],
   "geometry": {"coordinates":[-73.497861,41.143224],"type":"Point"}
 }

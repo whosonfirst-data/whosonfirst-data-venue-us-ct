@@ -1,0 +1,83 @@
+{
+  "id": 824011249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.638618,41.946001,-72.638618,41.946001",
+    "geom:latitude":41.946001,
+    "geom:longitude":-72.638618,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1490 Suffield St",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85931039,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uuGCY0c3KI3eRDww2esfm_41.946001_-72.638618@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452223,
+    "wof:geomhash":"d56a7127362c52c7141b6952ca9bfd35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":824011249
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":824011249
+        }
+    ],
+    "wof:id":824011249,
+    "wof:lastmodified":1466421293,
+    "wof:name":"Rays Auto Body",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.638618,
+    41.946001,
+    -72.638618,
+    41.946001
+],
+  "geometry": {"coordinates":[-72.63861799999999,41.946001],"type":"Point"}
+}

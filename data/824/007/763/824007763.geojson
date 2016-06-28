@@ -1,0 +1,71 @@
+{
+  "id": 824007763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.903504,41.505924,-72.903504,41.505924",
+    "geom:latitude":41.505924,
+    "geom:longitude":-72.903504,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"250 Maple Ave",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 272 1828",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UHS08BtZ7qA7U5X2qiqN4_41.505924_-72.903504@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452153,
+    "wof:geomhash":"90662b2677f1990b98b26c83264f2c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":824007763
+        }
+    ],
+    "wof:id":824007763,
+    "wof:lastmodified":1466421295,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.903504,
+    41.505924,
+    -72.903504,
+    41.505924
+],
+  "geometry": {"coordinates":[-72.903504,41.505924],"type":"Point"}
+}

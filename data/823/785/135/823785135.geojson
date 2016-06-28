@@ -1,0 +1,73 @@
+{
+  "id": 823785135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.357324,41.478262,-73.357324,41.478262",
+    "geom:latitude":41.478262,
+    "geom:longitude":-73.357324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Windwood Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 1600",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N71tnq7vRmW4XWeHMfQAr_41.478262_-73.357324@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446255,
+    "wof:geomhash":"9bd5187e121db1da3f7ac35a5e2008d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823785135
+        }
+    ],
+    "wof:id":823785135,
+    "wof:lastmodified":1466425164,
+    "wof:name":"Zeigler & Assoc",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.357324,
+    41.478262,
+    -73.357324,
+    41.478262
+],
+  "geometry": {"coordinates":[-73.35732400000001,41.478262],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823706907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.752899,41.706419,-72.752899,41.706419",
+    "geom:latitude":41.706419,
+    "geom:longitude":-72.752899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 King Arthur Way",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 667 0496",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manager",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836819,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gGgxk9WThrswqgou4HwLq_41.706419_-72.752899@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444376,
+    "wof:geomhash":"83772c572e7086821312ef1004182214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823706907
+        }
+    ],
+    "wof:id":823706907,
+    "wof:lastmodified":1466424352,
+    "wof:name":"Fenn-Woode Development Co",
+    "wof:parent_id":85836819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.752899,
+    41.706419,
+    -72.752899,
+    41.706419
+],
+  "geometry": {"coordinates":[-72.752899,41.706419],"type":"Point"}
+}

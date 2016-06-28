@@ -1,0 +1,80 @@
+{
+  "id": 824070633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.055578,41.489728,-73.055578,41.489728",
+    "geom:latitude":41.489728,
+    "geom:longitude":-73.055578,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"175 Church St",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 729 2249",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "basket",
+        "gift"
+    ],
+    "sg:website":"http://www.terrisflowershop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834457,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nV02Pi1sofmvDbPyEt5yZ_41.490095_-73.055376@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453629,
+    "wof:geomhash":"caf2991779fe5ba2c3cfb7b70218d6f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85834457,
+            "region_id":85688629,
+            "venue_id":824070633
+        }
+    ],
+    "wof:id":824070633,
+    "wof:lastmodified":1466422356,
+    "wof:name":"Terri's Flower Shop",
+    "wof:parent_id":85834457,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket",
+        "gift"
+    ]
+},
+  "bbox": [
+    -73.055578,
+    41.489728,
+    -73.055578,
+    41.489728
+],
+  "geometry": {"coordinates":[-73.055578,41.489728],"type":"Point"}
+}

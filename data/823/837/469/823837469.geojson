@@ -1,0 +1,71 @@
+{
+  "id": 823837469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.293786,41.418369,-73.293786,41.418369",
+    "geom:latitude":41.418369,
+    "geom:longitude":-73.293786,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Edmund Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 9262",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EhpAMAXcSq8su3HSFzD8i_41.418369_-73.293786@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447845,
+    "wof:geomhash":"5face695ad2fba3e3b721583b63c768a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823837469
+        }
+    ],
+    "wof:id":823837469,
+    "wof:lastmodified":1466425440,
+    "wof:name":"Union Camp Corp",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -73.293786,
+    41.418369,
+    -73.293786,
+    41.418369
+],
+  "geometry": {"coordinates":[-73.293786,41.418369],"type":"Point"}
+}

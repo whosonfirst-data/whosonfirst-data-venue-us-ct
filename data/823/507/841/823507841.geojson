@@ -1,0 +1,73 @@
+{
+  "id": 823507841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74211,41.908419,-72.74211,41.908419",
+    "geom:latitude":41.908419,
+    "geom:longitude":-72.74211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Brownstone Rd",
+    "sg:city":"East Granby",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 0353",
+    "sg:postcode":"06026",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WLop5BwzyuJviBlNzftO5_41.908419_-72.742110@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439758,
+    "wof:geomhash":"86d234852ade7d239ca2a58df3e31c03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":823507841
+        }
+    ],
+    "wof:id":823507841,
+    "wof:lastmodified":1466421845,
+    "wof:name":"Desousa John",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.74211,
+    41.908419,
+    -72.74211,
+    41.908419
+],
+  "geometry": {"coordinates":[-72.74211,41.908419],"type":"Point"}
+}

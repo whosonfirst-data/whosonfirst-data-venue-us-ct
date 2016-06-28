@@ -2,13 +2,14 @@
   "id": 253296095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493889,41.149065,-73.493889,41.149065",
     "geom:latitude":41.149065,
     "geom:longitude":-73.493889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Husted Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253296095,
-    "wof:lastmodified":1449065213,
+    "wof:lastmodified":1466421107,
     "wof:name":"Ad Concepts",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.493889,41.149065,-73.493889,41.149065],
+  "bbox": [
+    -73.493889,
+    41.149065,
+    -73.493889,
+    41.149065
+],
   "geometry": {"coordinates":[-73.493889,41.149065],"type":"Point"}
 }

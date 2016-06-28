@@ -2,13 +2,14 @@
   "id": 353821493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687193,41.083714,-73.687193,41.083714",
     "geom:latitude":41.083714,
     "geom:longitude":-73.687193,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"528 Riversville Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353821493,
-    "wof:lastmodified":1449019650,
+    "wof:lastmodified":1466421133,
     "wof:name":"Dr Vitka",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.687193,41.083714,-73.687193,41.083714],
-  "geometry": {"coordinates":[-73.687193,41.083714],"type":"Point"}
+  "bbox": [
+    -73.687193,
+    41.083714,
+    -73.687193,
+    41.083714
+],
+  "geometry": {"coordinates":[-73.68719299999999,41.083714],"type":"Point"}
 }

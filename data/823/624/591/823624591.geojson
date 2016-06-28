@@ -1,0 +1,77 @@
+{
+  "id": 823624591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206727,41.209143,-73.206727,41.209143",
+    "geom:latitude":41.209143,
+    "geom:longitude":-73.206727,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"265 Beechmont Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 7675",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876503,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OiT8x0JhCa5H1DTyJd7O6_41.209143_-73.206727@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442502,
+    "wof:geomhash":"807d5edf7396b39eac0fc5c5bf1b8510",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876503,
+            "region_id":85688629,
+            "venue_id":823624591
+        }
+    ],
+    "wof:id":823624591,
+    "wof:lastmodified":1466423725,
+    "wof:name":"Bridgeport Fire Dept",
+    "wof:parent_id":85876503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.206727,
+    41.209143,
+    -73.206727,
+    41.209143
+],
+  "geometry": {"coordinates":[-73.206727,41.209143],"type":"Point"}
+}

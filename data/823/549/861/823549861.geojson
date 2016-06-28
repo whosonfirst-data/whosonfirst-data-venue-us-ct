@@ -1,0 +1,75 @@
+{
+  "id": 823549861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.786223,41.678647,-72.786223,41.678647",
+    "geom:latitude":41.678647,
+    "geom:longitude":-72.786223,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Farmington Ave",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FfDpOjY9xfcYPcuj5AI0w_41.678647_-72.786223@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440698,
+    "wof:geomhash":"920d5d6d5746009475596ebb9f4f04c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823549861
+        }
+    ],
+    "wof:id":823549861,
+    "wof:lastmodified":1466422542,
+    "wof:name":"Hanks Radiator",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.786223,
+    41.678647,
+    -72.786223,
+    41.678647
+],
+  "geometry": {"coordinates":[-72.78622300000001,41.678647],"type":"Point"}
+}

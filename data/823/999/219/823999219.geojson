@@ -1,0 +1,71 @@
+{
+  "id": 823999219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.534241,41.778655,-72.534241,41.778655",
+    "geom:latitude":41.778655,
+    "geom:longitude":-72.534241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"344 Broad St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RYwDy3tOaXj8gt0ITnW75_41.778655_-72.534241@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451968,
+    "wof:geomhash":"5b87457a1f6dcefba85877824bc39d7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823999219
+        }
+    ],
+    "wof:id":823999219,
+    "wof:lastmodified":1466426781,
+    "wof:name":"Mr Auto Wash of Manchester",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.534241,
+    41.778655,
+    -72.534241,
+    41.778655
+],
+  "geometry": {"coordinates":[-72.53424099999999,41.778655],"type":"Point"}
+}

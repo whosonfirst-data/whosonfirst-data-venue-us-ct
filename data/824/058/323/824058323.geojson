@@ -1,0 +1,83 @@
+{
+  "id": 824058323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67589,41.756794,-72.67589,41.756794",
+    "geom:latitude":41.756794,
+    "geom:longitude":-72.67589,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Main St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "oil",
+        "change",
+        "motor",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878035,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25DNqI8JAAgRDtCg3iTreD_41.756794_-72.675890@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453360,
+    "wof:geomhash":"37d1cb966c4d07dec91021a28e00855c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878035,
+            "region_id":85688629,
+            "venue_id":824058323
+        }
+    ],
+    "wof:id":824058323,
+    "wof:lastmodified":1466422108,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85878035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "change",
+        "motor",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -72.67589,
+    41.756794,
+    -72.67589,
+    41.756794
+],
+  "geometry": {"coordinates":[-72.67589,41.756794],"type":"Point"}
+}

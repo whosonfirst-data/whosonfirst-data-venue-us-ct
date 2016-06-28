@@ -1,0 +1,73 @@
+{
+  "id": 823816747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.193999,41.326507,-73.193999,41.326507",
+    "geom:latitude":41.326507,
+    "geom:longitude":-73.193999,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Williamsburg Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 7453",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sMWXWgisoGOM3csNhqFJG_41.326507_-73.193999@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447201,
+    "wof:geomhash":"968023e2aff7fbf026ba88a237ecb615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823816747
+        }
+    ],
+    "wof:id":823816747,
+    "wof:lastmodified":1466425315,
+    "wof:name":"Pall Electrical Contrs LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.193999,
+    41.326507,
+    -73.193999,
+    41.326507
+],
+  "geometry": {"coordinates":[-73.19399900000001,41.326507],"type":"Point"}
+}

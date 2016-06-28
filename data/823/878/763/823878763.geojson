@@ -1,0 +1,83 @@
+{
+  "id": 823878763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189291,41.178331,-73.189291,41.178331",
+    "geom:latitude":41.178331,
+    "geom:longitude":-73.189291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1021 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 5695",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876483,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eeup2uN1YVVJRvIc7kWEW_41.178331_-73.189291@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448945,
+    "wof:geomhash":"fb4fc3297256861d79d74eee85fc63ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876483,
+            "region_id":85688629,
+            "venue_id":823878763
+        }
+    ],
+    "wof:id":823878763,
+    "wof:lastmodified":1466425858,
+    "wof:name":"X Bankers West Check Cashing",
+    "wof:parent_id":85876483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -73.189291,
+    41.178331,
+    -73.189291,
+    41.178331
+],
+  "geometry": {"coordinates":[-73.189291,41.178331],"type":"Point"}
+}

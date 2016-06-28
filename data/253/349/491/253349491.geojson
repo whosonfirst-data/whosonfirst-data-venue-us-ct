@@ -2,13 +2,14 @@
   "id": 253349491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488444,41.14871,-73.488444,41.14871",
     "geom:latitude":41.14871,
     "geom:longitude":-73.488444,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Vitti St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253349491,
-    "wof:lastmodified":1449063951,
+    "wof:lastmodified":1466421108,
     "wof:name":"Rjl Technologies LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-73.488444,41.14871,-73.488444,41.14871],
+  "bbox": [
+    -73.488444,
+    41.14871,
+    -73.488444,
+    41.14871
+],
   "geometry": {"coordinates":[-73.488444,41.14871],"type":"Point"}
 }

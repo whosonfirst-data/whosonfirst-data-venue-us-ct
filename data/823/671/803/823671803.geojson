@@ -1,0 +1,76 @@
+{
+  "id": 823671803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.424998,41.188088,-73.424998,41.188088",
+    "geom:latitude":41.188088,
+    "geom:longitude":-73.424998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 0311",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "protection",
+        "real estate"
+    ],
+    "sg:website":"www.wiltonct.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ApfHyu0jHE03RRtI3VmQP_41.188088_-73.424998@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443614,
+    "wof:geomhash":"8154c730de953481426c3af68b258a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823671803
+        }
+    ],
+    "wof:id":823671803,
+    "wof:lastmodified":1466423761,
+    "wof:name":"Wilton Police Department",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.424998,
+    41.188088,
+    -73.424998,
+    41.188088
+],
+  "geometry": {"coordinates":[-73.424998,41.188088],"type":"Point"}
+}

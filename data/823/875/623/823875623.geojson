@@ -1,0 +1,82 @@
+{
+  "id": 823875623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930476,41.307568,-72.930476,41.307568",
+    "geom:latitude":41.307568,
+    "geom:longitude":-72.930476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 High St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 7007",
+    "sg:postcode":"06510",
+    "sg:province":"CT",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879165,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M0uMKlqvKjKsjuPjkyblW_41.307568_-72.930476@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448863,
+    "wof:geomhash":"aba02e1079e0c497f15adc1879067f33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879165,
+            "region_id":85688629,
+            "venue_id":823875623
+        }
+    ],
+    "wof:id":823875623,
+    "wof:lastmodified":1466425781,
+    "wof:name":"Gastronomique LLC",
+    "wof:parent_id":85879165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "out"
+    ]
+},
+  "bbox": [
+    -72.930476,
+    41.307568,
+    -72.930476,
+    41.307568
+],
+  "geometry": {"coordinates":[-72.930476,41.307568],"type":"Point"}
+}

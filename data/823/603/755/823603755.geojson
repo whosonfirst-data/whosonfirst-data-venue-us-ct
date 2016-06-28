@@ -1,0 +1,73 @@
+{
+  "id": 823603755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.849546,41.64253,-72.849546,41.64253",
+    "geom:latitude":41.64253,
+    "geom:longitude":-72.849546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Hidden Hills Dr",
+    "sg:city":"Southington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 479 9054",
+    "sg:postcode":"06489",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Lbd6ZVo8Ou1wvtQ3grRb_41.642530_-72.849546@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441994,
+    "wof:geomhash":"b9a0abb9be358770aa4d591497b8523c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":823603755
+        }
+    ],
+    "wof:id":823603755,
+    "wof:lastmodified":1466423399,
+    "wof:name":"Copper Line Electrical",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.849546,
+    41.64253,
+    -72.849546,
+    41.64253
+],
+  "geometry": {"coordinates":[-72.849546,41.64253],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823823175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051678,41.651303,-73.051678,41.651303",
+    "geom:latitude":41.651303,
+    "geom:longitude":-73.051678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"369 Lake Plymouth Blvd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 8230",
+    "sg:postcode":"06782",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823777,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OUQDTzV2iPTsNXnuFxi0f_41.651303_-73.051678@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447387,
+    "wof:geomhash":"7a199ae40bdeeb4d3de69a7d2c44ef9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85823777,
+            "region_id":85688629,
+            "venue_id":823823175
+        }
+    ],
+    "wof:id":823823175,
+    "wof:lastmodified":1466425314,
+    "wof:name":"Geddes and Sons",
+    "wof:parent_id":85823777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating"
+    ]
+},
+  "bbox": [
+    -73.051678,
+    41.651303,
+    -73.051678,
+    41.651303
+],
+  "geometry": {"coordinates":[-73.051678,41.651303],"type":"Point"}
+}

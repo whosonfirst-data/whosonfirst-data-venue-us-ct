@@ -1,0 +1,84 @@
+{
+  "id": 824103301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.807963,41.509692,-72.807963,41.509692",
+    "geom:latitude":41.509692,
+    "geom:longitude":-72.807963,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"496 S Broad St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 686 0286",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "sg:website":"http://www.coldstonecreamery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54JrO9pzAOSifxgOBxEAkH_41.509692_-72.807963@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454409,
+    "wof:geomhash":"877db803f3de84ba899533b236349982",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":824103301
+        }
+    ],
+    "wof:id":824103301,
+    "wof:lastmodified":1466422969,
+    "wof:name":"Coldstone Creamery",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -72.807963,
+    41.509692,
+    -72.807963,
+    41.509692
+],
+  "geometry": {"coordinates":[-72.807963,41.509692],"type":"Point"}
+}

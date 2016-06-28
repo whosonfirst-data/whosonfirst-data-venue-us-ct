@@ -1,0 +1,73 @@
+{
+  "id": 823847645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.993241,41.5868,-72.993241,41.5868",
+    "geom:latitude":41.5868,
+    "geom:longitude":-72.993241,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"405 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 2010",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xyUtVY3xjc4tmRHGwAGTm_41.586800_-72.993241@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448161,
+    "wof:geomhash":"dc1d5e58efad8714f9b1f424fecd7ea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823847645
+        }
+    ],
+    "wof:id":823847645,
+    "wof:lastmodified":1466425570,
+    "wof:name":"Wolcott Auto Svc",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.993241,
+    41.5868,
+    -72.993241,
+    41.5868
+],
+  "geometry": {"coordinates":[-72.993241,41.5868],"type":"Point"}
+}

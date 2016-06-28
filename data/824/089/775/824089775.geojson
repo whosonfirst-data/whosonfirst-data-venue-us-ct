@@ -1,0 +1,79 @@
+{
+  "id": 824089775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512168,41.812556,-72.512168,41.812556",
+    "geom:latitude":41.812556,
+    "geom:longitude":-72.512168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Taylor St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 643 1864",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://awardhotel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aspGCXni7SmVGWciRjdb5_41.812556_-72.512168@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454084,
+    "wof:geomhash":"06cdfac521f592a50dda29877fe5ddfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":824089775
+        }
+    ],
+    "wof:id":824089775,
+    "wof:lastmodified":1466422897,
+    "wof:name":"Baymont Inn & Suites of Manchester CT",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -72.512168,
+    41.812556,
+    -72.512168,
+    41.812556
+],
+  "geometry": {"coordinates":[-72.512168,41.812556],"type":"Point"}
+}

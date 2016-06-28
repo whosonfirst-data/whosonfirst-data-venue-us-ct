@@ -1,0 +1,73 @@
+{
+  "id": 824047861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08505,41.385182,-73.08505,41.385182",
+    "geom:latitude":41.385182,
+    "geom:longitude":-73.08505,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Oak Hill Rd",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 7015",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ku1OQFv2RN0M8Cou8YQG0_41.385182_-73.085050@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453112,
+    "wof:geomhash":"6d2e4e56d407c6a30d0c2882ea6d3377",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":824047861
+        }
+    ],
+    "wof:id":824047861,
+    "wof:lastmodified":1466421974,
+    "wof:name":"Johnny's Plumbing",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.08505,
+    41.385182,
+    -73.08505,
+    41.385182
+],
+  "geometry": {"coordinates":[-73.08505,41.385182],"type":"Point"}
+}

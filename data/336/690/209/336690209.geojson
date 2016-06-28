@@ -2,13 +2,14 @@
   "id": 336690209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.475945,41.198601,-73.475945,41.198601",
     "geom:latitude":41.198601,
     "geom:longitude":-73.475945,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"429 Cheese Spring Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":336690209,
-    "wof:lastmodified":1448997522,
+    "wof:lastmodified":1466421127,
     "wof:name":"Rosic Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.475945,41.198601,-73.475945,41.198601],
+  "bbox": [
+    -73.475945,
+    41.198601,
+    -73.475945,
+    41.198601
+],
   "geometry": {"coordinates":[-73.475945,41.198601],"type":"Point"}
 }

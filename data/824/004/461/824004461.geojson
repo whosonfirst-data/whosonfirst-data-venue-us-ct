@@ -1,0 +1,71 @@
+{
+  "id": 824004461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256861,41.308871,-73.256861,41.308871",
+    "geom:latitude":41.308871,
+    "geom:longitude":-73.256861,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"152 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6243",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mkm4ym32Lt3szCxSk9lhi_41.308871_-73.256861@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452090,
+    "wof:geomhash":"4e6ba796653f8f7ba51471742a0d26b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824004461
+        }
+    ],
+    "wof:id":824004461,
+    "wof:lastmodified":1466421338,
+    "wof:name":"Valintino Pizza Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.256861,
+    41.308871,
+    -73.256861,
+    41.308871
+],
+  "geometry": {"coordinates":[-73.256861,41.308871],"type":"Point"}
+}

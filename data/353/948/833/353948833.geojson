@@ -2,13 +2,14 @@
   "id": 353948833,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493627,41.142367,-73.493627,41.142367",
     "geom:latitude":41.142367,
     "geom:longitude":-73.493627,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Mead St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":353948833,
-    "wof:lastmodified":1449020295,
+    "wof:lastmodified":1466421098,
     "wof:name":"Francis Coughlin MD",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.493627,41.142367,-73.493627,41.142367],
+  "bbox": [
+    -73.493627,
+    41.142367,
+    -73.493627,
+    41.142367
+],
   "geometry": {"coordinates":[-73.493627,41.142367],"type":"Point"}
 }

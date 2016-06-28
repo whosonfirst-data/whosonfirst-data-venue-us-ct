@@ -1,0 +1,88 @@
+{
+  "id": 823911301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.747937,41.684321,-72.747937,41.684321",
+    "geom:latitude":41.684321,
+    "geom:longitude":-72.747937,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 Liberty St",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00h7tx3Ph9fWc7jQfg2zVb_41.684321_-72.747937@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449778,
+    "wof:geomhash":"57a937093b5df606038e78065150a057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823911301
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823911301
+        }
+    ],
+    "wof:id":823911301,
+    "wof:lastmodified":1466426097,
+    "wof:name":"Guilmartin Electric Motor LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.747937,
+    41.684321,
+    -72.747937,
+    41.684321
+],
+  "geometry": {"coordinates":[-72.74793699999999,41.684321],"type":"Point"}
+}

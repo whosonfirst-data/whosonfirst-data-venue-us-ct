@@ -1,0 +1,66 @@
+{
+  "id": 823953101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679512,41.323798,-72.679512,41.323798",
+    "geom:latitude":41.323798,
+    "geom:longitude":-72.679512,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"281 White Birch Dr",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 458 2950",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838597,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvbDGRRLt5RTyT6YUd38y_41.323798_-72.679512@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450846,
+    "wof:geomhash":"f1dc758b04287f95c1d2566fefd41e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85838597,
+            "region_id":85688629,
+            "venue_id":823953101
+        }
+    ],
+    "wof:id":823953101,
+    "wof:lastmodified":1466426454,
+    "wof:name":"Bromley Comstock Realty",
+    "wof:parent_id":85838597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.679512,
+    41.323798,
+    -72.679512,
+    41.323798
+],
+  "geometry": {"coordinates":[-72.679512,41.323798],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823743719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168183,41.221823,-73.168183,41.221823",
+    "geom:latitude":41.221823,
+    "geom:longitude":-73.168183,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"529 Broadbridge Rd",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 374 2089",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78mQIRHorTjHEzqmMCJ4ci_41.221823_-73.168183@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445235,
+    "wof:geomhash":"de471a7813c5002144e36fc1711ef49e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888499,
+            "region_id":85688629,
+            "venue_id":823743719
+        }
+    ],
+    "wof:id":823743719,
+    "wof:lastmodified":1466424629,
+    "wof:name":"Nextel Solutions Center",
+    "wof:parent_id":85888499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.168183,
+    41.221823,
+    -73.168183,
+    41.221823
+],
+  "geometry": {"coordinates":[-73.168183,41.221823],"type":"Point"}
+}

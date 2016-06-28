@@ -1,0 +1,83 @@
+{
+  "id": 823883601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202648,41.179203,-73.202648,41.179203",
+    "geom:latitude":41.179203,
+    "geom:longitude":-73.202648,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1412 Park Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 0355",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "exhaust",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zx59PQZb7ZfPBHyN0qBJO_41.179203_-73.202648@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449050,
+    "wof:geomhash":"8e4000b6422bf73d98a170ceb2ec1b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823883601
+        }
+    ],
+    "wof:id":823883601,
+    "wof:lastmodified":1466425859,
+    "wof:name":"A American Muffler & Brake Sho",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "exhaust",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.202648,
+    41.179203,
+    -73.202648,
+    41.179203
+],
+  "geometry": {"coordinates":[-73.202648,41.179203],"type":"Point"}
+}

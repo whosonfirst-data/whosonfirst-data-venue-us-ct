@@ -1,0 +1,87 @@
+{
+  "id": 823901343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.768441,41.673629,-72.768441,41.673629",
+    "geom:latitude":41.673629,
+    "geom:longitude":-72.768441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Smalley St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 826 3495",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XG4vH5NtGyf5BEFp4bIDt_41.673629_-72.768441@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449495,
+    "wof:geomhash":"16df1ef33c0f00228667bd222a9aa125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823901343
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823901343
+        }
+    ],
+    "wof:id":823901343,
+    "wof:lastmodified":1466425935,
+    "wof:name":"Fairview Cemetery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.768441,
+    41.673629,
+    -72.768441,
+    41.673629
+],
+  "geometry": {"coordinates":[-72.768441,41.673629],"type":"Point"}
+}

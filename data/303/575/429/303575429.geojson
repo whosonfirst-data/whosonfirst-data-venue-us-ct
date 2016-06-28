@@ -2,13 +2,14 @@
   "id": 303575429,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.600544,41.161297,-73.600544,41.161297",
     "geom:latitude":41.161297,
     "geom:longitude":-73.600544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 White Birch Rd",
     "sg:city":"Pound Ridge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":303575429,
-    "wof:lastmodified":1448998822,
+    "wof:lastmodified":1466421118,
     "wof:name":"M Quattro Securities Inc",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "security"
     ]
 },
-  "bbox": [-73.600544,41.161297,-73.600544,41.161297],
+  "bbox": [
+    -73.600544,
+    41.161297,
+    -73.600544,
+    41.161297
+],
   "geometry": {"coordinates":[-73.600544,41.161297],"type":"Point"}
 }

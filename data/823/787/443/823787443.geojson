@@ -1,0 +1,79 @@
+{
+  "id": 823787443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.593496,41.28288,-72.593496,41.28288",
+    "geom:latitude":41.28288,
+    "geom:longitude":-72.593496,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"90 Wall St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 9345",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833961,
+        102191575,
+        404495779,
+        85633793,
+        85931393,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_780F7ETC7kuk9jjicLoKUf_41.282880_-72.593496@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446330,
+    "wof:geomhash":"2a042b2af29caa2ed144eb0d9608adeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495779,
+            "locality_id":85931393,
+            "neighbourhood_id":85833961,
+            "region_id":85688629,
+            "venue_id":823787443
+        }
+    ],
+    "wof:id":823787443,
+    "wof:lastmodified":1466424889,
+    "wof:name":"Lemley Electric",
+    "wof:parent_id":85833961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.593496,
+    41.28288,
+    -72.593496,
+    41.28288
+],
+  "geometry": {"coordinates":[-72.593496,41.28288],"type":"Point"}
+}

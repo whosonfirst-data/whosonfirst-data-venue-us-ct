@@ -1,0 +1,77 @@
+{
+  "id": 823957703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.443847,41.066989,-73.443847,41.066989",
+    "geom:latitude":41.066989,
+    "geom:longitude":-73.443847,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Rowayton Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06853",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846241,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HaSNJFrGbeWfBjNiTEJer_41.066989_-73.443847@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450958,
+    "wof:geomhash":"877558540f306689c41d934763199cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85846241,
+            "region_id":85688629,
+            "venue_id":823957703
+        }
+    ],
+    "wof:id":823957703,
+    "wof:lastmodified":1466426522,
+    "wof:name":"John Hammel MD",
+    "wof:parent_id":85846241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.443847,
+    41.066989,
+    -73.443847,
+    41.066989
+],
+  "geometry": {"coordinates":[-73.44384700000001,41.066989],"type":"Point"}
+}

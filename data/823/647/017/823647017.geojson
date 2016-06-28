@@ -1,0 +1,71 @@
+{
+  "id": 823647017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.432716,41.194289,-73.432716,41.194289",
+    "geom:latitude":41.194289,
+    "geom:longitude":-73.432716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Old Ridgefield Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 5100",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dOzxKvqJ4tipCDVLYMtpa_41.194289_-73.432716@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443017,
+    "wof:geomhash":"ad84c83e356a5f4aca0ea8cc51dee382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823647017
+        }
+    ],
+    "wof:id":823647017,
+    "wof:lastmodified":1466424010,
+    "wof:name":"Wilton Center Family Dentistry",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.432716,
+    41.194289,
+    -73.432716,
+    41.194289
+],
+  "geometry": {"coordinates":[-73.432716,41.194289],"type":"Point"}
+}

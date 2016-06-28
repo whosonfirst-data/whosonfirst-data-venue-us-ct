@@ -1,0 +1,79 @@
+{
+  "id": 823919503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.672121,41.764324,-72.672121,41.764324",
+    "geom:latitude":41.764324,
+    "geom:longitude":-72.672121,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Prospect St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 522 1271",
+    "sg:postcode":"06103",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bu",
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867457,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vWFQGGlifu6v7WMKAqsrp_41.764324_-72.672121@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449987,
+    "wof:geomhash":"4e97d5216c2028d30cd5262383026f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85867457,
+            "region_id":85688629,
+            "venue_id":823919503
+        }
+    ],
+    "wof:id":823919503,
+    "wof:lastmodified":1466426179,
+    "wof:name":"Hartford Club",
+    "wof:parent_id":85867457,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bu",
+        "sporting"
+    ]
+},
+  "bbox": [
+    -72.672121,
+    41.764324,
+    -72.672121,
+    41.764324
+],
+  "geometry": {"coordinates":[-72.672121,41.764324],"type":"Point"}
+}

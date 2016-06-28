@@ -1,0 +1,84 @@
+{
+  "id": 824117699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.436752,41.06464,-73.436752,41.06464",
+    "geom:latitude":41.06464,
+    "geom:longitude":-73.436752,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Highland Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 299 1300",
+    "sg:postcode":"06853",
+    "sg:province":"CT",
+    "sg:tags":[
+        "theatres-concert",
+        "venue",
+        "hall",
+        "theatre"
+    ],
+    "sg:website":"http://www.shakespeareonthesound.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846241,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35lwU1EzF0eA0CmcAMHhB7_41.064640_-73.436752@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454719,
+    "wof:geomhash":"82e6fc154ca8d65ae0ace177f39b768d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85846241,
+            "region_id":85688629,
+            "venue_id":824117699
+        }
+    ],
+    "wof:id":824117699,
+    "wof:lastmodified":1466423322,
+    "wof:name":"Shakespear On The Sound",
+    "wof:parent_id":85846241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "theatres-concert",
+        "venue",
+        "hall",
+        "theatre"
+    ]
+},
+  "bbox": [
+    -73.436752,
+    41.06464,
+    -73.436752,
+    41.06464
+],
+  "geometry": {"coordinates":[-73.436752,41.06464],"type":"Point"}
+}

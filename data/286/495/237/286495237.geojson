@@ -2,13 +2,14 @@
   "id": 286495237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465619,41.162431,-73.465619,41.162431",
     "geom:latitude":41.162431,
     "geom:longitude":-73.465619,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"270 Valley Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":286495237,
-    "wof:lastmodified":1449016482,
+    "wof:lastmodified":1466421111,
     "wof:name":"Norwalk Water Supply Filter",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "company"
     ]
 },
-  "bbox": [-73.465619,41.162431,-73.465619,41.162431],
+  "bbox": [
+    -73.465619,
+    41.162431,
+    -73.465619,
+    41.162431
+],
   "geometry": {"coordinates":[-73.465619,41.162431],"type":"Point"}
 }

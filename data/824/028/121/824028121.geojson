@@ -1,0 +1,77 @@
+{
+  "id": 824028121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.005017,41.570613,-73.005017,41.570613",
+    "geom:latitude":41.570613,
+    "geom:longitude":-73.005017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1201 Wolcott St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 574 2308",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831301,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57aBRnLMXdR75hvaxisj3B_41.570613_-73.005017@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452621,
+    "wof:geomhash":"77e4877182810d2d4f36d79ad388ca78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85831301,
+            "region_id":85688629,
+            "venue_id":824028121
+        }
+    ],
+    "wof:id":824028121,
+    "wof:lastmodified":1466421565,
+    "wof:name":"Superior Transmission Radiator",
+    "wof:parent_id":85831301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.005017,
+    41.570613,
+    -73.005017,
+    41.570613
+],
+  "geometry": {"coordinates":[-73.005017,41.570613],"type":"Point"}
+}

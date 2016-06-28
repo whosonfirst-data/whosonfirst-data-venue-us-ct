@@ -1,0 +1,84 @@
+{
+  "id": 824090937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.429199,41.974201,-73.429199,41.974201",
+    "geom:latitude":41.974201,
+    "geom:longitude":-73.429199,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"199 Main St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 364 5294",
+    "sg:postcode":"06068",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803031,
+        102191575,
+        404496017,
+        85633793,
+        85931193,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FpdY1KZVVF9K2BGwQkE9L_41.974201_-73.429199@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454108,
+    "wof:geomhash":"9e65251bf991c84a9233d3ba2fc66e17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496017,
+            "locality_id":85931193,
+            "neighbourhood_id":85803031,
+            "region_id":85688629,
+            "venue_id":824090937
+        }
+    ],
+    "wof:id":824090937,
+    "wof:lastmodified":1466422887,
+    "wof:name":"Staub Electric",
+    "wof:parent_id":85803031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.429199,
+    41.974201,
+    -73.429199,
+    41.974201
+],
+  "geometry": {"coordinates":[-73.429199,41.974201],"type":"Point"}
+}

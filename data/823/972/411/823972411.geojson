@@ -1,0 +1,77 @@
+{
+  "id": 823972411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914764,41.656926,-72.914764,41.656926",
+    "geom:latitude":41.656926,
+    "geom:longitude":-72.914764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"548 Middle St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RrWvxciYJZ6OpSpMUXgWj_41.656926_-72.914764@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451303,
+    "wof:geomhash":"cf80898c2c10ed3b2ee5c9a039399468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823972411
+        }
+    ],
+    "wof:id":823972411,
+    "wof:lastmodified":1466426655,
+    "wof:name":"Lafleur Transmissions Shop",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.914764,
+    41.656926,
+    -72.914764,
+    41.656926
+],
+  "geometry": {"coordinates":[-72.91476400000001,41.656926],"type":"Point"}
+}

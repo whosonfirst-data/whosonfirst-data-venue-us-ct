@@ -1,0 +1,93 @@
+{
+  "id": 823799641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.412656,41.119395,-73.412656,41.119395",
+    "geom:latitude":41.119395,
+    "geom:longitude":-73.412656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Main St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 838 5579",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "printer",
+        "commercial",
+        "offset"
+    ],
+    "sg:website":"www.bestimps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61zSGNt4DgzCjM6kHsWdRZ_41.119395_-73.412656@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446704,
+    "wof:geomhash":"4ac2de765f12e13d0dca7c1801b4c0fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823799641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":823799641
+        }
+    ],
+    "wof:id":823799641,
+    "wof:lastmodified":1466425121,
+    "wof:name":"Best Impressions Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "commercial",
+        "offset"
+    ]
+},
+  "bbox": [
+    -73.412656,
+    41.119395,
+    -73.412656,
+    41.119395
+],
+  "geometry": {"coordinates":[-73.412656,41.119395],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824073987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.586207,42.022503,-72.586207,42.022503",
+    "geom:latitude":42.022503,
+    "geom:longitude":-72.586207,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Enfield St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/enfield/98996-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 745 0524",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Zqi1ddcT8dAB3kxLrXAsk_42.022503_-72.586207@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453718,
+    "wof:geomhash":"8bb738bb738e033bf9ce1d826b50217f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824073987
+        }
+    ],
+    "wof:id":824073987,
+    "wof:lastmodified":1466422467,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.586207,
+    42.022503,
+    -72.586207,
+    42.022503
+],
+  "geometry": {"coordinates":[-72.586207,42.022503],"type":"Point"}
+}

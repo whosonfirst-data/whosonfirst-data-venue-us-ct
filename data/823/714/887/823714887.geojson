@@ -1,0 +1,73 @@
+{
+  "id": 823714887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.22791,41.154457,-73.22791,41.154457",
+    "geom:latitude":41.154457,
+    "geom:longitude":-73.22791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"218 Harborview Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 7336",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24lDSit0UBYPoiPT1zEKoC_41.154457_-73.227910@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444545,
+    "wof:geomhash":"6696d6552b9f3181bcf87e8d21cf644b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823714887
+        }
+    ],
+    "wof:id":823714887,
+    "wof:lastmodified":1466424430,
+    "wof:name":"Harborview Market",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.22791,
+    41.154457,
+    -73.22791,
+    41.154457
+],
+  "geometry": {"coordinates":[-73.22790999999999,41.154457],"type":"Point"}
+}

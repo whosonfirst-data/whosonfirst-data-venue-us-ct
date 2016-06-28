@@ -1,0 +1,90 @@
+{
+  "id": 823678711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204737,41.192634,-73.204737,41.192634",
+    "geom:latitude":41.192634,
+    "geom:longitude":-73.204737,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"850 Madison Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 2922",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y0Sd6tk2PaL38y6aoKRIL_41.192634_-73.204737@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443759,
+    "wof:geomhash":"c1d566c3f956bdef2fdd9521f73cfb30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823678711
+        }
+    ],
+    "wof:id":823678711,
+    "wof:lastmodified":1466423922,
+    "wof:name":"Stratfield Garage Service Ctr",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.204737,
+    41.192634,
+    -73.204737,
+    41.192634
+],
+  "geometry": {"coordinates":[-73.20473699999999,41.192634],"type":"Point"}
+}

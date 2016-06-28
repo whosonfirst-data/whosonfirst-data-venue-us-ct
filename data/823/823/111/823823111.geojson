@@ -1,0 +1,66 @@
+{
+  "id": 823823111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.431161,41.193027,-73.431161,41.193027",
+    "geom:latitude":41.193027,
+    "geom:longitude":-73.431161,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Old Ridgefield Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 834 7622",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821519,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09I3aqh87ykGKtO1W14qfn_41.193027_-73.431161@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447385,
+    "wof:geomhash":"001fa52de0150a583c3f01ec88a6f86d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85821519,
+            "region_id":85688629,
+            "venue_id":823823111
+        }
+    ],
+    "wof:id":823823111,
+    "wof:lastmodified":1466425300,
+    "wof:name":"Village Barber Shop",
+    "wof:parent_id":85821519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.431161,
+    41.193027,
+    -73.431161,
+    41.193027
+],
+  "geometry": {"coordinates":[-73.431161,41.193027],"type":"Point"}
+}

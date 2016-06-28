@@ -1,0 +1,85 @@
+{
+  "id": 823515365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.524027,41.047163,-73.524027,41.047163",
+    "geom:latitude":41.047163,
+    "geom:longitude":-73.524027,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"316 Shippan Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 348 0925",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mfg",
+        "beverage",
+        "soft",
+        "drink",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uKLdpXfguY1uCR4jIXkm8_41.047163_-73.524027@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439915,
+    "wof:geomhash":"315f4829648a2ec2bc751ada01bf974d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823515365
+        }
+    ],
+    "wof:id":823515365,
+    "wof:lastmodified":1466422077,
+    "wof:name":"Shippan Liquors",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "beverage",
+        "soft",
+        "drink",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -73.524027,
+    41.047163,
+    -73.524027,
+    41.047163
+],
+  "geometry": {"coordinates":[-73.524027,41.047163],"type":"Point"}
+}

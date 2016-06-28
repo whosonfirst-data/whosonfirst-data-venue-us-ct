@@ -1,0 +1,71 @@
+{
+  "id": 823739079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809603,41.284584,-72.809603,41.284584",
+    "geom:latitude":41.284584,
+    "geom:longitude":-72.809603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1247 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 2600",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sRHmp98OFOdVbilYtMEMe_41.284584_-72.809603@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445133,
+    "wof:geomhash":"94c426ef86de4f36adb1c452e7dd6338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823739079
+        }
+    ],
+    "wof:id":823739079,
+    "wof:lastmodified":1466424552,
+    "wof:name":"Shoreline Foods",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.809603,
+    41.284584,
+    -72.809603,
+    41.284584
+],
+  "geometry": {"coordinates":[-72.809603,41.284584],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823693665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.08501,41.521333,-72.08501,41.521333",
+    "geom:latitude":41.521333,
+    "geom:longitude":-72.08501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 Spring St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 889 0053",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OYgsavLfSxTvZ10QDvZEW_41.521333_-72.085010@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444095,
+    "wof:geomhash":"5d47f5b11040a52625d3c11a599d497e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823693665
+        }
+    ],
+    "wof:id":823693665,
+    "wof:lastmodified":1466424205,
+    "wof:name":"P & R Services",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.08501,
+    41.521333,
+    -72.08501,
+    41.521333
+],
+  "geometry": {"coordinates":[-72.08501,41.521333],"type":"Point"}
+}

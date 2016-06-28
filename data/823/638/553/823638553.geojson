@@ -1,0 +1,66 @@
+{
+  "id": 823638553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219357,41.771914,-73.219357,41.771914",
+    "geom:latitude":41.771914,
+    "geom:longitude":-73.219357,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"375 Beach St",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 567 8577",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WTAhzZX0xzL0j8ah0GE5q_41.771914_-73.219357@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442819,
+    "wof:geomhash":"ecfd64d8a89205160f7a5e4138be9248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":823638553
+        }
+    ],
+    "wof:id":823638553,
+    "wof:lastmodified":1466423670,
+    "wof:name":"Raymond Damiani",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.219357,
+    41.771914,
+    -73.219357,
+    41.771914
+],
+  "geometry": {"coordinates":[-73.219357,41.771914],"type":"Point"}
+}

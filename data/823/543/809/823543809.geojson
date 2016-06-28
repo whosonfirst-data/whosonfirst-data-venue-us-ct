@@ -1,0 +1,71 @@
+{
+  "id": 823543809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.902017,41.501331,-72.902017,41.501331",
+    "geom:latitude":41.501331,
+    "geom:longitude":-72.902017,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 237 6493",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xHkVQ5vDPoBHhtGtynulN_41.501331_-72.902017@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440556,
+    "wof:geomhash":"16ecc490e46d42fd508aaa4eca2d7d91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":823543809
+        }
+    ],
+    "wof:id":823543809,
+    "wof:lastmodified":1466422510,
+    "wof:name":"Charles K Thompson",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legal"
+    ]
+},
+  "bbox": [
+    -72.902017,
+    41.501331,
+    -72.902017,
+    41.501331
+],
+  "geometry": {"coordinates":[-72.902017,41.501331],"type":"Point"}
+}

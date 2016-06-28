@@ -1,0 +1,78 @@
+{
+  "id": 823752605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.608121,41.716989,-72.608121,41.716989",
+    "geom:latitude":41.716989,
+    "geom:longitude":-72.608121,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 New London Tpke",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 1072",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "corporation",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rYkfGloS5BYYk9W7cwwmy_41.716989_-72.608121@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445443,
+    "wof:geomhash":"2ba8e0d3c30715335224445304431b03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823752605
+        }
+    ],
+    "wof:id":823752605,
+    "wof:lastmodified":1466424737,
+    "wof:name":"Delta Dental Plan of NJ",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporation",
+        "dental"
+    ]
+},
+  "bbox": [
+    -72.608121,
+    41.716989,
+    -72.608121,
+    41.716989
+],
+  "geometry": {"coordinates":[-72.608121,41.716989],"type":"Point"}
+}

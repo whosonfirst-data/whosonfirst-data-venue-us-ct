@@ -1,0 +1,78 @@
+{
+  "id": 824082483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.539368,41.052105,-73.539368,41.052105",
+    "geom:latitude":41.052105,
+    "geom:longitude":-73.539368,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"217 Atlantic St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/25463-tacos-guadalajara/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 2204",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AbSgVu4z9YS1Jbwe39R6P_41.052203_-73.539503@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453905,
+    "wof:geomhash":"b1fe9160f18e5bd39f34efd496be6700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824082483
+        }
+    ],
+    "wof:id":824082483,
+    "wof:lastmodified":1466422635,
+    "wof:name":"Tacos Guadalajara",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -73.539368,
+    41.052105,
+    -73.539368,
+    41.052105
+],
+  "geometry": {"coordinates":[-73.539368,41.052105],"type":"Point"}
+}

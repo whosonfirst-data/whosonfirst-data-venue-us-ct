@@ -2,13 +2,14 @@
   "id": 353814137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.652282,41.104779,-73.652282,41.104779",
     "geom:latitude":41.104779,
     "geom:longitude":-73.652282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Lake Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353814137,
-    "wof:lastmodified":1449018718,
+    "wof:lastmodified":1466421133,
     "wof:name":"Adopt A Dog Inc",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "animal"
     ]
 },
-  "bbox": [-73.652282,41.104779,-73.652282,41.104779],
+  "bbox": [
+    -73.652282,
+    41.104779,
+    -73.652282,
+    41.104779
+],
   "geometry": {"coordinates":[-73.652282,41.104779],"type":"Point"}
 }

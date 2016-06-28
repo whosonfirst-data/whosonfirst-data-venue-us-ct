@@ -1,0 +1,84 @@
+{
+  "id": 824085025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.718675,41.823582,-72.718675,41.823582",
+    "geom:latitude":41.823582,
+    "geom:longitude":-72.718675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"495 Park Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 3621",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "churches-apostolic",
+        "churches-pentecostal-independent",
+        "churches-pentecostal-apostolic",
+        "churches-pentecostal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zXGW8rv1ZP1IbibZjolGm_41.823582_-72.718675@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453973,
+    "wof:geomhash":"018c69bb8e6d8f8083fdf9ccf934c86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":824085025
+        }
+    ],
+    "wof:id":824085025,
+    "wof:lastmodified":1466422611,
+    "wof:name":"New Testament Tabernacle",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-apostolic",
+        "churches-pentecostal-independent",
+        "churches-pentecostal-apostolic",
+        "churches-pentecostal"
+    ]
+},
+  "bbox": [
+    -72.718675,
+    41.823582,
+    -72.718675,
+    41.823582
+],
+  "geometry": {"coordinates":[-72.718675,41.823582],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823769801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.400195,41.188297,-73.400195,41.188297",
+    "geom:latitude":41.188297,
+    "geom:longitude":-73.400195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"188 Dudley Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 761 8918",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OT0nuDEtRXiCVlqQNELps_41.188297_-73.400195@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445819,
+    "wof:geomhash":"9d04d5381ccebaad97e22b45d2ddee49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823769801
+        }
+    ],
+    "wof:id":823769801,
+    "wof:lastmodified":1466424873,
+    "wof:name":"Home Refuse Co",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.400195,
+    41.188297,
+    -73.400195,
+    41.188297
+],
+  "geometry": {"coordinates":[-73.400195,41.188297],"type":"Point"}
+}

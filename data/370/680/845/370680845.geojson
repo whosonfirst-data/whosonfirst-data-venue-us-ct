@@ -2,13 +2,14 @@
   "id": 370680845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.631121,41.110803,-73.631121,41.110803",
     "geom:latitude":41.110803,
     "geom:longitude":-73.631121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"781 North St",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370680845,
-    "wof:lastmodified":1449031456,
+    "wof:lastmodified":1466421095,
     "wof:name":"Darcy Creech Inc",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hat"
     ]
 },
-  "bbox": [-73.631121,41.110803,-73.631121,41.110803],
-  "geometry": {"coordinates":[-73.631121,41.110803],"type":"Point"}
+  "bbox": [
+    -73.631121,
+    41.110803,
+    -73.631121,
+    41.110803
+],
+  "geometry": {"coordinates":[-73.63112099999999,41.110803],"type":"Point"}
 }

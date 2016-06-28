@@ -1,0 +1,80 @@
+{
+  "id": 824078597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.926922,41.297848,-72.926922,41.297848",
+    "geom:latitude":41.297848,
+    "geom:longitude":-72.926922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Union Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-haven/72248-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 773 9392",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882027,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nyypYhYwhQt6cLePa5iXp_41.297848_-72.926922@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453823,
+    "wof:geomhash":"98f71583bdae0c1cfc97980f7e08eeae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85882027,
+            "region_id":85688629,
+            "venue_id":824078597
+        }
+    ],
+    "wof:id":824078597,
+    "wof:lastmodified":1466422595,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85882027,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.926922,
+    41.297848,
+    -72.926922,
+    41.297848
+],
+  "geometry": {"coordinates":[-72.926922,41.297848],"type":"Point"}
+}

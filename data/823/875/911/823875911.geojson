@@ -1,0 +1,75 @@
+{
+  "id": 823875911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.373629,41.28037,-72.373629,41.28037",
+    "geom:latitude":41.28037,
+    "geom:longitude":-72.373629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Maple Ave",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "marine",
+        "towing",
+        "salvaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828733,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QqGm4yq1ysESNLmKe5u81_41.280370_-72.373629@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448870,
+    "wof:geomhash":"338bea49c9095292e7cfc9b66b2fd21f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85828733,
+            "region_id":85688629,
+            "venue_id":823875911
+        }
+    ],
+    "wof:id":823875911,
+    "wof:lastmodified":1466425788,
+    "wof:name":"Tow Boat US",
+    "wof:parent_id":85828733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marine",
+        "towing",
+        "salvaging"
+    ]
+},
+  "bbox": [
+    -72.373629,
+    41.28037,
+    -72.373629,
+    41.28037
+],
+  "geometry": {"coordinates":[-72.37362899999999,41.28037],"type":"Point"}
+}

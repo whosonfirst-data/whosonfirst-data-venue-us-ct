@@ -1,0 +1,81 @@
+{
+  "id": 823518347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.834484,41.433123,-72.834484,41.433123",
+    "geom:latitude":41.433123,
+    "geom:longitude":-72.834484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Northfield Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 7838",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fYJKV5kdTs5b6FWdZZXye_41.433123_-72.834484@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439988,
+    "wof:geomhash":"2a4fcd5edaa35b94c101e5c6bc13d36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823518347
+        }
+    ],
+    "wof:id":823518347,
+    "wof:lastmodified":1466422053,
+    "wof:name":"C & C Auto Repair Inc",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.834484,
+    41.433123,
+    -72.834484,
+    41.433123
+],
+  "geometry": {"coordinates":[-72.834484,41.433123],"type":"Point"}
+}

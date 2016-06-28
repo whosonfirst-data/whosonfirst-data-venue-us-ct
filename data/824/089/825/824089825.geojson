@@ -1,0 +1,68 @@
+{
+  "id": 824089825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.050697,41.835098,-73.050697,41.835098",
+    "geom:latitude":41.835098,
+    "geom:longitude":-73.050697,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"213 Gillette Rd",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 496 7930",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XzGytfOWjBn16tqt1uals_41.835098_-73.050697@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454085,
+    "wof:geomhash":"746ddb205f82b6de2702629c914474bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824089825
+        }
+    ],
+    "wof:id":824089825,
+    "wof:lastmodified":1466422902,
+    "wof:name":"Education Connection",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.050697,
+    41.835098,
+    -73.050697,
+    41.835098
+],
+  "geometry": {"coordinates":[-73.050697,41.835098],"type":"Point"}
+}

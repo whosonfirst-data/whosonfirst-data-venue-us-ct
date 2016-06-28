@@ -1,0 +1,86 @@
+{
+  "id": 824085559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.936721,41.699471,-72.936721,41.699471",
+    "geom:latitude":41.699471,
+    "geom:longitude":-72.936721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"404 Fern Hill Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 9373",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "trucking",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z1F92RkDZMLphFpOduPPJ_41.699471_-72.936721@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453987,
+    "wof:geomhash":"1237c0ef7f62b23614d1fd9e7ae6028f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085559
+        }
+    ],
+    "wof:id":824085559,
+    "wof:lastmodified":1466422639,
+    "wof:name":"Tabacco Brothers Trucking & Excavating",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "trucking",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.936721,
+    41.699471,
+    -72.936721,
+    41.699471
+],
+  "geometry": {"coordinates":[-72.93672100000001,41.699471],"type":"Point"}
+}

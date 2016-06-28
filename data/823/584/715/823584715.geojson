@@ -1,0 +1,66 @@
+{
+  "id": 823584715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.045147,41.930346,-72.045147,41.930346",
+    "geom:latitude":41.930346,
+    "geom:longitude":-72.045147,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"402 Perrin Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 974 1064",
+    "sg:postcode":"06281",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828179,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K15MpX3o0vZMrBGOWvuzk_41.930346_-72.045147@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441531,
+    "wof:geomhash":"b4ebbef8d393f610a7011fec8d54e5a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85828179,
+            "region_id":85688629,
+            "venue_id":823584715
+        }
+    ],
+    "wof:id":823584715,
+    "wof:lastmodified":1466423086,
+    "wof:name":"Trapalanda Stables",
+    "wof:parent_id":85828179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.045147,
+    41.930346,
+    -72.045147,
+    41.930346
+],
+  "geometry": {"coordinates":[-72.045147,41.930346],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824112885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.397629,41.437679,-73.397629,41.437679",
+    "geom:latitude":41.437679,
+    "geom:longitude":-73.397629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Sand Cut Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 3119",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "course",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FL1sI4XoV78Cap8xS3ZnC_41.437679_-73.397629@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454616,
+    "wof:geomhash":"1cc5811645a0484e1dd295c6cd027c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824112885
+        }
+    ],
+    "wof:id":824112885,
+    "wof:lastmodified":1466423050,
+    "wof:name":"Performance Clubworks",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "course",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.397629,
+    41.437679,
+    -73.397629,
+    41.437679
+],
+  "geometry": {"coordinates":[-73.39762899999999,41.437679],"type":"Point"}
+}

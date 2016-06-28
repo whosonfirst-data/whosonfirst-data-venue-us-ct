@@ -1,0 +1,79 @@
+{
+  "id": 824033523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.839991,41.408772,-72.839991,41.408772",
+    "geom:latitude":41.408772,
+    "geom:longitude":-72.839991,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Robin Ct",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 368 6274",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r2vz6I9RGCYZ1ZrnjvreW_41.408772_-72.839991@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452748,
+    "wof:geomhash":"3adccd2321f8502e1d9336452ec7fcca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":824033523
+        }
+    ],
+    "wof:id":824033523,
+    "wof:lastmodified":1466421827,
+    "wof:name":"Conn Assoc Sanitation Haulers",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.839991,
+    41.408772,
+    -72.839991,
+    41.408772
+],
+  "geometry": {"coordinates":[-72.839991,41.408772],"type":"Point"}
+}

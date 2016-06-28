@@ -1,0 +1,80 @@
+{
+  "id": 824070953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.516081,41.089715,-73.516081,41.089715",
+    "geom:latitude":41.089715,
+    "geom:longitude":-73.516081,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Largo Dr",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 975 8151",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet",
+        "training"
+    ],
+    "sg:website":"http://www.bandilane.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YMOstxGmeE4heLSPHdrm0_41.090110_-73.515616@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453642,
+    "wof:geomhash":"98470ad03d1f89e286b9c1c6daa23a78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":824070953
+        }
+    ],
+    "wof:id":824070953,
+    "wof:lastmodified":1466422362,
+    "wof:name":"Bandilane School for Dogs",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "training"
+    ]
+},
+  "bbox": [
+    -73.516081,
+    41.089715,
+    -73.516081,
+    41.089715
+],
+  "geometry": {"coordinates":[-73.516081,41.089715],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 824073505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.774773,41.682761,-72.774773,41.682761",
+    "geom:latitude":41.682761,
+    "geom:longitude":-72.774773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"361 Allen St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-britain/23699-nicks-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 223 8811",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85867445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JBCDWlZ2LFGq9l0QK1qOJ_41.682761_-72.774773@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453706,
+    "wof:geomhash":"307656489bb5ef55ecbe3861ca983b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":824073505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":824073505
+        }
+    ],
+    "wof:id":824073505,
+    "wof:lastmodified":1466422656,
+    "wof:name":"Nick's Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.774773,
+    41.682761,
+    -72.774773,
+    41.682761
+],
+  "geometry": {"coordinates":[-72.774773,41.682761],"type":"Point"}
+}

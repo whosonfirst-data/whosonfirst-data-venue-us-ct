@@ -1,0 +1,71 @@
+{
+  "id": 823492907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.024163,41.678658,-73.024163,41.678658",
+    "geom:latitude":41.678658,
+    "geom:longitude":-73.024163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"353 Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w6ERN7oTkGKzeQ1DDqgqM_41.678658_-73.024163@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439372,
+    "wof:geomhash":"9a048084642b8b63b78437bbf76ae27c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823492907
+        }
+    ],
+    "wof:id":823492907,
+    "wof:lastmodified":1466421700,
+    "wof:name":"Davids",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.024163,
+    41.678658,
+    -73.024163,
+    41.678658
+],
+  "geometry": {"coordinates":[-73.024163,41.678658],"type":"Point"}
+}

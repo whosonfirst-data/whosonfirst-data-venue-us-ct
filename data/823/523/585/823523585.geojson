@@ -1,0 +1,88 @@
+{
+  "id": 823523585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.407377,41.107755,-73.407377,41.107755",
+    "geom:latitude":41.107755,
+    "geom:longitude":-73.407377,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Laurel St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85816631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WPTi4tduwhkG4cctviijE_41.107755_-73.407377@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440105,
+    "wof:geomhash":"397989dc98d14226a1d52d29f329622b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823523585
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":823523585
+        }
+    ],
+    "wof:id":823523585,
+    "wof:lastmodified":1466422073,
+    "wof:name":"Morano Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -73.407377,
+    41.107755,
+    -73.407377,
+    41.107755
+],
+  "geometry": {"coordinates":[-73.407377,41.107755],"type":"Point"}
+}

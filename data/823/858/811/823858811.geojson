@@ -1,0 +1,73 @@
+{
+  "id": 823858811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.066881,41.395542,-73.066881,41.395542",
+    "geom:latitude":41.395542,
+    "geom:longitude":-73.066881,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"84 Day St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 2225",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DiZsAUxxvsou83ojnr4xE_41.395542_-73.066881@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448471,
+    "wof:geomhash":"749f4272bfe96595bdf956304e65e386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823858811
+        }
+    ],
+    "wof:id":823858811,
+    "wof:lastmodified":1466425711,
+    "wof:name":"Belinsky Excavating Inc",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.066881,
+    41.395542,
+    -73.066881,
+    41.395542
+],
+  "geometry": {"coordinates":[-73.066881,41.395542],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823832111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.805075,41.534085,-72.805075,41.534085",
+    "geom:latitude":41.534085,
+    "geom:longitude":-72.805075,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 Cherry St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 235 2352",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rPKNT3mphTad0MkERXNbK_41.534085_-72.805075@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447665,
+    "wof:geomhash":"ebbd47061951963abcae408c1b7d4a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":823832111
+        }
+    ],
+    "wof:id":823832111,
+    "wof:lastmodified":1466425417,
+    "wof:name":"Michael Meglietta",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.805075,
+    41.534085,
+    -72.805075,
+    41.534085
+],
+  "geometry": {"coordinates":[-72.805075,41.534085],"type":"Point"}
+}

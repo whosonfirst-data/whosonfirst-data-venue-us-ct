@@ -1,0 +1,82 @@
+{
+  "id": 824036753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.030431,41.242619,-73.030431,41.242619",
+    "geom:latitude":41.242619,
+    "geom:longitude":-73.030431,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1553 Boston Post Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 7465",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "machine",
+        "screw",
+        "product"
+    ],
+    "sg:website":"www.milfordautomatics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rY38TI9RPwUZ5czEP8H3c_41.242619_-73.030431@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452832,
+    "wof:geomhash":"13c3a627cb74faaa5edf6dd208d7a6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824036753
+        }
+    ],
+    "wof:id":824036753,
+    "wof:lastmodified":1466421835,
+    "wof:name":"Milford Automatics Inc",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "screw",
+        "product"
+    ]
+},
+  "bbox": [
+    -73.030431,
+    41.242619,
+    -73.030431,
+    41.242619
+],
+  "geometry": {"coordinates":[-73.03043099999999,41.242619],"type":"Point"}
+}

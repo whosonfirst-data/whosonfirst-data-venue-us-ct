@@ -1,0 +1,75 @@
+{
+  "id": 823672637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.791609,41.679332,-72.791609,41.679332",
+    "geom:latitude":41.679332,
+    "geom:longitude":-72.791609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"109 Miller St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 224 4080",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QT71dVfyuPLvFe93OIrYv_41.679332_-72.791609@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443630,
+    "wof:geomhash":"3e7476367b03b5d36d899756ddb35f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823672637
+        }
+    ],
+    "wof:id":823672637,
+    "wof:lastmodified":1466424024,
+    "wof:name":"JD Resources",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.791609,
+    41.679332,
+    -72.791609,
+    41.679332
+],
+  "geometry": {"coordinates":[-72.79160899999999,41.679332],"type":"Point"}
+}

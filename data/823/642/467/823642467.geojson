@@ -1,0 +1,71 @@
+{
+  "id": 823642467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980543,41.338714,-72.980543,41.338714",
+    "geom:latitude":41.338714,
+    "geom:longitude":-72.980543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"148 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 1500",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43nlP27FhtIH0jZP4MSqsg_41.338714_-72.980543@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442911,
+    "wof:geomhash":"7569ac148ac1e237ed05232ddeb4f0ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823642467
+        }
+    ],
+    "wof:id":823642467,
+    "wof:lastmodified":1466423693,
+    "wof:name":"J Montague's Restaurant",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -72.980543,
+    41.338714,
+    -72.980543,
+    41.338714
+],
+  "geometry": {"coordinates":[-72.980543,41.338714],"type":"Point"}
+}

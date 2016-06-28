@@ -1,0 +1,73 @@
+{
+  "id": 823818063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089372,41.656797,-73.089372,41.656797",
+    "geom:latitude":41.656797,
+    "geom:longitude":-73.089372,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"275 Watertown Rd",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 4166",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09MknotCUIETH6xAiMlKUt_41.656797_-73.089372@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447231,
+    "wof:geomhash":"5299296f844bf929354508c298fcdb30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823818063
+        }
+    ],
+    "wof:id":823818063,
+    "wof:lastmodified":1466425242,
+    "wof:name":"Powerhouse Electric",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.089372,
+    41.656797,
+    -73.089372,
+    41.656797
+],
+  "geometry": {"coordinates":[-73.089372,41.656797],"type":"Point"}
+}

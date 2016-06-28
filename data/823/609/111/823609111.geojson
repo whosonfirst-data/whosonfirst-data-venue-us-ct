@@ -1,0 +1,76 @@
+{
+  "id": 823609111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228969,41.150085,-73.228969,41.150085",
+    "geom:latitude":41.150085,
+    "geom:longitude":-73.228969,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"165 Pearsall Pl",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 7800",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tcR7nhzyIQFanBYM9v87E_41.150085_-73.228969@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442111,
+    "wof:geomhash":"4b8e9a997f09454c924125d715460c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823609111
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823609111
+        }
+    ],
+    "wof:id":823609111,
+    "wof:lastmodified":1466423502,
+    "wof:name":"Birkridge Associates LTD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.228969,
+    41.150085,
+    -73.228969,
+    41.150085
+],
+  "geometry": {"coordinates":[-73.22896900000001,41.150085],"type":"Point"}
+}

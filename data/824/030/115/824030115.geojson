@@ -1,0 +1,71 @@
+{
+  "id": 824030115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.327022,41.439329,-73.327022,41.439329",
+    "geom:latitude":41.439329,
+    "geom:longitude":-73.327022,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Parmalee Hill Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11TxeguTU8krABCHAK059F_41.439329_-73.327022@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452664,
+    "wof:geomhash":"df61ebc5dd6adc9b9f385505f3303477",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":824030115
+        }
+    ],
+    "wof:id":824030115,
+    "wof:lastmodified":1466421733,
+    "wof:name":"Dr Naomi Miller PHD",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.327022,
+    41.439329,
+    -73.327022,
+    41.439329
+],
+  "geometry": {"coordinates":[-73.327022,41.439329],"type":"Point"}
+}

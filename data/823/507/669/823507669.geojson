@@ -1,0 +1,73 @@
+{
+  "id": 823507669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.883059,41.711169,-72.883059,41.711169",
+    "geom:latitude":41.711169,
+    "geom:longitude":-72.883059,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Westwoods Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 2537",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fire",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Yi5jkJtRyF7YypWqZ51Y7_41.711169_-72.883059@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439749,
+    "wof:geomhash":"d174c1fe0a036c41c404f3063af616e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823507669
+        }
+    ],
+    "wof:id":823507669,
+    "wof:lastmodified":1466421828,
+    "wof:name":"Southwest Fire Station",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "station"
+    ]
+},
+  "bbox": [
+    -72.883059,
+    41.711169,
+    -72.883059,
+    41.711169
+],
+  "geometry": {"coordinates":[-72.883059,41.711169],"type":"Point"}
+}

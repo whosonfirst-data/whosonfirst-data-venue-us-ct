@@ -1,0 +1,71 @@
+{
+  "id": 823756731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.805131,41.285396,-72.805131,41.285396",
+    "geom:latitude":41.285396,
+    "geom:longitude":-72.805131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Aceto St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 483 0487",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carpenter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VCjxyLXhS66zqRX2VhoEy_41.285396_-72.805131@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445552,
+    "wof:geomhash":"5bb33a2acc2079301d1add6b57cbb7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823756731
+        }
+    ],
+    "wof:id":823756731,
+    "wof:lastmodified":1466424790,
+    "wof:name":"Larocque Custom Carpentry",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpenter"
+    ]
+},
+  "bbox": [
+    -72.805131,
+    41.285396,
+    -72.805131,
+    41.285396
+],
+  "geometry": {"coordinates":[-72.805131,41.285396],"type":"Point"}
+}

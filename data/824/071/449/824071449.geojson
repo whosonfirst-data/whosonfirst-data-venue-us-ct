@@ -1,0 +1,74 @@
+{
+  "id": 824071449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.389359,41.469662,-73.389359,41.469662",
+    "geom:latitude":41.469662,
+    "geom:longitude":-73.389359,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"182 Whisconier Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 6241",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "executive",
+        "government"
+    ],
+    "sg:website":"http://www.brookfieldlibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rHnpWcjVigkYKjeZY8ip7_41.469125_-73.389108@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453652,
+    "wof:geomhash":"0a061fe7896dab591bc2046a16308a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":824071449
+        }
+    ],
+    "wof:id":824071449,
+    "wof:lastmodified":1466422381,
+    "wof:name":"Brookfield Library",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive",
+        "government"
+    ]
+},
+  "bbox": [
+    -73.389359,
+    41.469662,
+    -73.389359,
+    41.469662
+],
+  "geometry": {"coordinates":[-73.389359,41.469662],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 824078585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.90219,41.381989,-72.90219,41.381989",
+    "geom:latitude":41.381989,
+    "geom:longitude":-72.90219,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2323 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/270521-mickeys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 4700",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mediterranean",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yZonCWMdaHoUpk9hLd1vC_41.381989_-72.902190@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453823,
+    "wof:geomhash":"863f487b37947a2f81ab5d0bd90081a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":824078585
+        }
+    ],
+    "wof:id":824078585,
+    "wof:lastmodified":1466422594,
+    "wof:name":"Mickey's",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean",
+        "italian"
+    ]
+},
+  "bbox": [
+    -72.90219,
+    41.381989,
+    -72.90219,
+    41.381989
+],
+  "geometry": {"coordinates":[-72.90219,41.381989],"type":"Point"}
+}

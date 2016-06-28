@@ -1,0 +1,71 @@
+{
+  "id": 823796663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.90824,41.433719,-72.90824,41.433719",
+    "geom:latitude":41.433719,
+    "geom:longitude":-72.90824,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3860 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 234 2486",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gKV8BdH36F0CnfksAl8TX_41.433719_-72.908240@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446624,
+    "wof:geomhash":"da39d8d6cec887beea3bb0a5696903b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823796663
+        }
+    ],
+    "wof:id":823796663,
+    "wof:lastmodified":1466425114,
+    "wof:name":"Legacy Limousine",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -72.90824,
+    41.433719,
+    -72.90824,
+    41.433719
+],
+  "geometry": {"coordinates":[-72.90824000000001,41.433719],"type":"Point"}
+}

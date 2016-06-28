@@ -2,13 +2,14 @@
   "id": 353511611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.667815,41.035263,-73.667815,41.035263",
     "geom:latitude":41.035263,
     "geom:longitude":-73.667815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 River W",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353511611,
-    "wof:lastmodified":1449019435,
+    "wof:lastmodified":1466421098,
     "wof:name":"Private Equity Funding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "loan"
     ]
 },
-  "bbox": [-73.667815,41.035263,-73.667815,41.035263],
+  "bbox": [
+    -73.667815,
+    41.035263,
+    -73.667815,
+    41.035263
+],
   "geometry": {"coordinates":[-73.667815,41.035263],"type":"Point"}
 }

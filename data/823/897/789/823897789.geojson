@@ -1,0 +1,71 @@
+{
+  "id": 823897789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.695882,41.820386,-72.695882,41.820386",
+    "geom:latitude":41.820386,
+    "geom:longitude":-72.695882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1023 Blue Hills Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 286 8686",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ulaf1HDaFFufhksV4leBq_41.820386_-72.695882@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449386,
+    "wof:geomhash":"63a8ffe7d3a0daa9de135fbe8e693ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823897789
+        }
+    ],
+    "wof:id":823897789,
+    "wof:lastmodified":1466426056,
+    "wof:name":"Nation Cab & Livery Service",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -72.695882,
+    41.820386,
+    -72.695882,
+    41.820386
+],
+  "geometry": {"coordinates":[-72.695882,41.820386],"type":"Point"}
+}

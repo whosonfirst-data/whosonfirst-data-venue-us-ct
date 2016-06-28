@@ -1,0 +1,76 @@
+{
+  "id": 824075755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.137358,41.37285,-72.137358,41.37285",
+    "geom:latitude":41.37285,
+    "geom:longitude":-72.137358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"819 Hartford Tpke",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/waterford/169432-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 440 3043",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832113,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fkH6t4YBucZXf4Pcev1om_41.372850_-72.137358@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453757,
+    "wof:geomhash":"2d1599741da99d4a243520478844f8fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85832113,
+            "region_id":85688629,
+            "venue_id":824075755
+        }
+    ],
+    "wof:id":824075755,
+    "wof:lastmodified":1466422620,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85832113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.137358,
+    41.37285,
+    -72.137358,
+    41.37285
+],
+  "geometry": {"coordinates":[-72.13735800000001,41.37285],"type":"Point"}
+}

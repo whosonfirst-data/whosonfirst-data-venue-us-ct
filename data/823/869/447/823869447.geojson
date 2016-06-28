@@ -1,0 +1,71 @@
+{
+  "id": 823869447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74324,41.830566,-72.74324,41.830566",
+    "geom:latitude":41.830566,
+    "geom:longitude":-72.74324,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Mountain Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 242 7883",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6akThVeKKqmAHYHXaV6XfD_41.830566_-72.743240@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448727,
+    "wof:geomhash":"471b65b61382473f601538272d20938b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":823869447
+        }
+    ],
+    "wof:id":823869447,
+    "wof:lastmodified":1466425762,
+    "wof:name":"Wahs Garden",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.74324,
+    41.830566,
+    -72.74324,
+    41.830566
+],
+  "geometry": {"coordinates":[-72.74324,41.830566],"type":"Point"}
+}

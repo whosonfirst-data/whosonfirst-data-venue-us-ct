@@ -1,0 +1,73 @@
+{
+  "id": 823534261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.204168,41.316445,-72.204168,41.316445",
+    "geom:latitude":41.316445,
+    "geom:longitude":-72.204168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 S Washington Ave",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mOoessDou2Y3QYTYUtv3o_41.316445_-72.204168@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440340,
+    "wof:geomhash":"0ca5171dec37d35feaa0f3663a51445a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":823534261
+        }
+    ],
+    "wof:id":823534261,
+    "wof:lastmodified":1466422203,
+    "wof:name":"Reynolds Photography",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -72.204168,
+    41.316445,
+    -72.204168,
+    41.316445
+],
+  "geometry": {"coordinates":[-72.204168,41.316445],"type":"Point"}
+}

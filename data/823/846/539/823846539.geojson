@@ -1,0 +1,79 @@
+{
+  "id": 823846539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.516875,41.095203,-73.516875,41.095203",
+    "geom:latitude":41.095203,
+    "geom:longitude":-73.516875,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Ryan St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 968 9991",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZxzMXMLlZSJcq3zhsOSnU_41.095203_-73.516875@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448115,
+    "wof:geomhash":"043a77bbbebda5239e8cc2632fb4b2ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823846539
+        }
+    ],
+    "wof:id":823846539,
+    "wof:lastmodified":1466425540,
+    "wof:name":"Warco Plumbing & Heating Inc",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.516875,
+    41.095203,
+    -73.516875,
+    41.095203
+],
+  "geometry": {"coordinates":[-73.516875,41.095203],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 303183591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.647747,41.063254,-73.647747,41.063254",
     "geom:latitude":41.063254,
     "geom:longitude":-73.647747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"21 Khakum Wood Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":303183591,
-    "wof:lastmodified":1448999435,
+    "wof:lastmodified":1466421115,
     "wof:name":"David L Katsky",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.647747,41.063254,-73.647747,41.063254],
+  "bbox": [
+    -73.647747,
+    41.063254,
+    -73.647747,
+    41.063254
+],
   "geometry": {"coordinates":[-73.647747,41.063254],"type":"Point"}
 }

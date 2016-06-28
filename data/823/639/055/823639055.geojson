@@ -1,0 +1,66 @@
+{
+  "id": 823639055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.531311,41.44431,-73.531311,41.44431",
+    "geom:latitude":41.44431,
+    "geom:longitude":-73.531311,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 W Farms Ln",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 746 3138",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868711,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BwWqcy8BTZIIxy4KqV5wH_41.444310_-73.531311@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442834,
+    "wof:geomhash":"b3c726b76d06592e297701349ce9494a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85868711,
+            "region_id":85688629,
+            "venue_id":823639055
+        }
+    ],
+    "wof:id":823639055,
+    "wof:lastmodified":1466423625,
+    "wof:name":"Jacob's Realty",
+    "wof:parent_id":85868711,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.531311,
+    41.44431,
+    -73.531311,
+    41.44431
+],
+  "geometry": {"coordinates":[-73.531311,41.44431],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823793621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.944379,41.278176,-72.944379,41.278176",
+    "geom:latitude":41.278176,
+    "geom:longitude":-72.944379,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 Elm St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 933 5260",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zcYOcfgmaliWU0bKyArX8_41.278176_-72.944379@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446535,
+    "wof:geomhash":"4f18278ff5e838843bac37a5eefa7809",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823793621
+        }
+    ],
+    "wof:id":823793621,
+    "wof:lastmodified":1466425119,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.944379,
+    41.278176,
+    -72.944379,
+    41.278176
+],
+  "geometry": {"coordinates":[-72.944379,41.278176],"type":"Point"}
+}

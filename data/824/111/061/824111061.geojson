@@ -1,0 +1,76 @@
+{
+  "id": 824111061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.473022,41.727131,-73.473022,41.727131",
+    "geom:latitude":41.727131,
+    "geom:longitude":-73.473022,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Landmark Ln",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 927 1818",
+    "sg:postcode":"06757",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nftQibXINkbAzbhg4oG60_41.727131_-73.473022@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454572,
+    "wof:geomhash":"23a13326ab37aea72f6e9b4589589254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":824111061
+        }
+    ],
+    "wof:id":824111061,
+    "wof:lastmodified":1466423102,
+    "wof:name":"Daphne Baking Co",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -73.473022,
+    41.727131,
+    -73.473022,
+    41.727131
+],
+  "geometry": {"coordinates":[-73.473022,41.727131],"type":"Point"}
+}

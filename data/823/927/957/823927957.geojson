@@ -1,0 +1,73 @@
+{
+  "id": 823927957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908445,41.434771,-72.908445,41.434771",
+    "geom:latitude":41.434771,
+    "geom:longitude":-72.908445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3830 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J6cGGHeYJcSYERDFZghgV_41.434771_-72.908445@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450201,
+    "wof:geomhash":"fc0784ea62dfe22b439c58065960c6df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823927957
+        }
+    ],
+    "wof:id":823927957,
+    "wof:lastmodified":1466426256,
+    "wof:name":"Roys Automatic Transm Svc",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.908445,
+    41.434771,
+    -72.908445,
+    41.434771
+],
+  "geometry": {"coordinates":[-72.908445,41.434771],"type":"Point"}
+}

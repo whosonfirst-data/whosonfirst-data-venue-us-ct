@@ -1,0 +1,73 @@
+{
+  "id": 823552773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.912926,41.360658,-72.912926,41.360658",
+    "geom:latitude":41.360658,
+    "geom:longitude":-72.912926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Hawthorne Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 0525",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51MxcwHOCa7HHdHlPZKLA8_41.360658_-72.912926@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440774,
+    "wof:geomhash":"17403b33b113629bcb5a0afd19aac099",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823552773
+        }
+    ],
+    "wof:id":823552773,
+    "wof:lastmodified":1466422580,
+    "wof:name":"New England Property Managemen",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.912926,
+    41.360658,
+    -72.912926,
+    41.360658
+],
+  "geometry": {"coordinates":[-72.912926,41.360658],"type":"Point"}
+}

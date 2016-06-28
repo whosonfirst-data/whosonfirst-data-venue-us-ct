@@ -1,0 +1,93 @@
+{
+  "id": 824075245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.286301,41.721336,-72.286301,41.721336",
+    "geom:latitude":41.721336,
+    "geom:longitude":-72.286301,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 Route 6",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/columbia/129808-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 228 5248",
+    "sg:postcode":"06237",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931285,
+        102085379,
+        85865199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ojSLPOVyN8u0Lc7uQvmFJ_41.721336_-72.286301@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453746,
+    "wof:geomhash":"6a9ae5f04292defcacbf47bdc34490b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931285,
+            "neighbourhood_id":85865199,
+            "region_id":85688629,
+            "venue_id":824075245
+        }
+    ],
+    "wof:id":824075245,
+    "wof:lastmodified":1466422559,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85865199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.286301,
+    41.721336,
+    -72.286301,
+    41.721336
+],
+  "geometry": {"coordinates":[-72.28630099999999,41.721336],"type":"Point"}
+}

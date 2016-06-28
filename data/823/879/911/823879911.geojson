@@ -1,0 +1,83 @@
+{
+  "id": 823879911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.095032,41.547769,-72.095032,41.547769",
+    "geom:latitude":41.547769,
+    "geom:longitude":-72.095032,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 New London Tpke",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823081,
+        102191575,
+        404495761,
+        85633793,
+        85930861,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wb64uw29xzuK8YiESQkrS_41.547769_-72.095032@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448968,
+    "wof:geomhash":"e6b00295d53eb86a0382aaee8fdc271b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495761,
+            "locality_id":85930861,
+            "neighbourhood_id":85823081,
+            "region_id":85688629,
+            "venue_id":823879911
+        }
+    ],
+    "wof:id":823879911,
+    "wof:lastmodified":1466425884,
+    "wof:name":"Payless of Norwich",
+    "wof:parent_id":85823081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -72.095032,
+    41.547769,
+    -72.095032,
+    41.547769
+],
+  "geometry": {"coordinates":[-72.095032,41.547769],"type":"Point"}
+}

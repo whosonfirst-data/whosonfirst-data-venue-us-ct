@@ -1,0 +1,71 @@
+{
+  "id": 823660563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.316479,41.358437,-73.316479,41.358437",
+    "geom:latitude":41.358437,
+    "geom:longitude":-73.316479,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Phyllis Ln",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 5552",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gA6mNk7L17UEVKSS29MR5_41.358437_-73.316479@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443349,
+    "wof:geomhash":"fb0a56010bbc39311f32a6ce826b4a2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823660563
+        }
+    ],
+    "wof:id":823660563,
+    "wof:lastmodified":1466423912,
+    "wof:name":"Horti Care Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.316479,
+    41.358437,
+    -73.316479,
+    41.358437
+],
+  "geometry": {"coordinates":[-73.316479,41.358437],"type":"Point"}
+}

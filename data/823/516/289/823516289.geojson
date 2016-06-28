@@ -1,0 +1,87 @@
+{
+  "id": 823516289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.607793,41.811024,-72.607793,41.811024",
+    "geom:latitude":41.811024,
+    "geom:longitude":-72.607793,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"340 Chapel Rd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "business",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IeVejqFVlqefcq9jmCDS6_41.811024_-72.607793@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439930,
+    "wof:geomhash":"83f0c0b51e1a4904134b49cd9899bc22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823516289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823516289
+        }
+    ],
+    "wof:id":823516289,
+    "wof:lastmodified":1466422001,
+    "wof:name":"JMJ Construction Garage",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.607793,
+    41.811024,
+    -72.607793,
+    41.811024
+],
+  "geometry": {"coordinates":[-72.607793,41.811024],"type":"Point"}
+}

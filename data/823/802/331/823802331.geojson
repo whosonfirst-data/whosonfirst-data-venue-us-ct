@@ -1,0 +1,86 @@
+{
+  "id": 823802331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060087,41.569308,-73.060087,41.569308",
+    "geom:latitude":41.569308,
+    "geom:longitude":-73.060087,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"145 Edwin Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 0189",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "used",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XubFfTF5wG3uPDdY7rieG_41.569308_-73.060087@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446765,
+    "wof:geomhash":"96b5ed1774bef45d57677ad567d3a051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823802331
+        }
+    ],
+    "wof:id":823802331,
+    "wof:lastmodified":1466425159,
+    "wof:name":"Highway Auto Body Inc",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "used",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.060087,
+    41.569308,
+    -73.060087,
+    41.569308
+],
+  "geometry": {"coordinates":[-73.060087,41.569308],"type":"Point"}
+}

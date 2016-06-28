@@ -1,0 +1,71 @@
+{
+  "id": 823862667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224979,41.340327,-73.224979,41.340327",
+    "geom:latitude":41.340327,
+    "geom:longitude":-73.224979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"683 Elm St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 8036",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PrjR1lAWaHHdVwK7Dneyc_41.340327_-73.224979@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448566,
+    "wof:geomhash":"272e7068cd83ca007eee4b89779aeaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823862667
+        }
+    ],
+    "wof:id":823862667,
+    "wof:lastmodified":1466425679,
+    "wof:name":"Pandora Construction",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.224979,
+    41.340327,
+    -73.224979,
+    41.340327
+],
+  "geometry": {"coordinates":[-73.224979,41.340327],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823482591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.375535,41.484369,-73.375535,41.484369",
+    "geom:latitude":41.484369,
+    "geom:longitude":-73.375535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Hearthstone Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 3533",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MH0neNzjWEPehet02hYFE_41.484369_-73.375535@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439139,
+    "wof:geomhash":"78198c970f46c29e01cada6e5187b16a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823482591
+        }
+    ],
+    "wof:id":823482591,
+    "wof:lastmodified":1466421487,
+    "wof:name":"Das Bookman",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -73.375535,
+    41.484369,
+    -73.375535,
+    41.484369
+],
+  "geometry": {"coordinates":[-73.375535,41.484369],"type":"Point"}
+}

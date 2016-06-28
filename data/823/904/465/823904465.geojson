@@ -1,0 +1,73 @@
+{
+  "id": 823904465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074328,41.395777,-73.074328,41.395777",
+    "geom:latitude":41.395777,
+    "geom:longitude":-73.074328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Bank St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 6132",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_383yngjkvcxVLhcVITQmGj_41.395777_-73.074328@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449582,
+    "wof:geomhash":"6bb374ed4fa3863a76e417e9f21a61d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823904465
+        }
+    ],
+    "wof:id":823904465,
+    "wof:lastmodified":1466426076,
+    "wof:name":"Edward's Service Ctr",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -73.074328,
+    41.395777,
+    -73.074328,
+    41.395777
+],
+  "geometry": {"coordinates":[-73.07432799999999,41.395777],"type":"Point"}
+}

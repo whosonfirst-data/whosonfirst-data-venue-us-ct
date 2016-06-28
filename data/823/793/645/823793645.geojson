@@ -1,0 +1,88 @@
+{
+  "id": 823793645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.415911,41.120096,-73.415911,41.120096",
+    "geom:latitude":41.120096,
+    "geom:longitude":-73.415911,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Cross St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 846 6977",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879319,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z0wRc0KEXAujt7K7c3vno_41.120096_-73.415911@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446536,
+    "wof:geomhash":"03092da61b25d8acac41408cfc3a6518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":823793645
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823793645
+        }
+    ],
+    "wof:id":823793645,
+    "wof:lastmodified":1466425122,
+    "wof:name":"A Connecticut Quality Transmsn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.415911,
+    41.120096,
+    -73.415911,
+    41.120096
+],
+  "geometry": {"coordinates":[-73.41591099999999,41.120096],"type":"Point"}
+}

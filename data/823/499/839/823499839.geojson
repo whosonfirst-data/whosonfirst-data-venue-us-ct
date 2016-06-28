@@ -1,0 +1,79 @@
+{
+  "id": 823499839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627574,41.93178,-72.627574,41.93178",
+    "geom:latitude":41.93178,
+    "geom:longitude":-72.627574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"255 Main St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yHikrP85Ad4VIb6ZYpG8i_41.931780_-72.627574@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439569,
+    "wof:geomhash":"d1295e226075b1aa9763dfc9afd19b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823499839
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823499839
+        }
+    ],
+    "wof:id":823499839,
+    "wof:lastmodified":1466421735,
+    "wof:name":"Windsor Locks Common Laundroma",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -72.627574,
+    41.93178,
+    -72.627574,
+    41.93178
+],
+  "geometry": {"coordinates":[-72.627574,41.93178],"type":"Point"}
+}

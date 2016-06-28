@@ -1,0 +1,80 @@
+{
+  "id": 823709157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18358,41.184797,-73.18358,41.184797",
+    "geom:latitude":41.184797,
+    "geom:longitude":-73.18358,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Clarence St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 8883",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "sg:website":"www.piroinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_327cS3P3ygjN1NuSNGlrUi_41.184797_-73.183580@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444427,
+    "wof:geomhash":"06020bef0238c551267dcc5745a43bdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823709157
+        }
+    ],
+    "wof:id":823709157,
+    "wof:lastmodified":1466424271,
+    "wof:name":"Piro Paving Inc",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.18358,
+    41.184797,
+    -73.18358,
+    41.184797
+],
+  "geometry": {"coordinates":[-73.18358000000001,41.184797],"type":"Point"}
+}

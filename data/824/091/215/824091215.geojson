@@ -1,0 +1,84 @@
+{
+  "id": 824091215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.800201,41.879601,-72.800201,41.879601",
+    "geom:latitude":41.879601,
+    "geom:longitude":-72.800201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"924 Hopmeadow St",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 0709",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mall",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841787,
+        102191575,
+        404495997,
+        85633793,
+        85931071,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cfjYzB4ekYJBFPDVcX8Te_41.879601_-72.800201@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454113,
+    "wof:geomhash":"e6da928b46541e4ca72cb0e3688e460e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495997,
+            "locality_id":85931071,
+            "neighbourhood_id":85841787,
+            "region_id":85688629,
+            "venue_id":824091215
+        }
+    ],
+    "wof:id":824091215,
+    "wof:lastmodified":1466422835,
+    "wof:name":"Simsburytown Shops",
+    "wof:parent_id":85841787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "management"
+    ]
+},
+  "bbox": [
+    -72.800201,
+    41.879601,
+    -72.800201,
+    41.879601
+],
+  "geometry": {"coordinates":[-72.800201,41.879601],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823613223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.539634,41.048785,-73.539634,41.048785",
+    "geom:latitude":41.048785,
+    "geom:longitude":-73.539634,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"421 Atlantic St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 2092",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SfRNmFGUsdGSNVZXHcT1l_41.048785_-73.539634@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442232,
+    "wof:geomhash":"6fb20b90e1b31239146cd8fea5ea7c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823613223
+        }
+    ],
+    "wof:id":823613223,
+    "wof:lastmodified":1466423507,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.539634,
+    41.048785,
+    -73.539634,
+    41.048785
+],
+  "geometry": {"coordinates":[-73.53963400000001,41.048785],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 824073721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679528,41.653124,-72.679528,41.653124",
+    "geom:latitude":41.653124,
+    "geom:longitude":-72.679528,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"632 Cromwell Ave",
+    "sg:city":"Rocky Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/rocky-hill/144227-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 882 1654",
+    "sg:postcode":"06067",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13UPYZjV53BWypDMkr4AfY_41.653124_-72.679528@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453714,
+    "wof:geomhash":"be3e4d299ac0815839601377b737c4f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":824073721
+        }
+    ],
+    "wof:id":824073721,
+    "wof:lastmodified":1466422440,
+    "wof:name":"Subway",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.679528,
+    41.653124,
+    -72.679528,
+    41.653124
+],
+  "geometry": {"coordinates":[-72.679528,41.653124],"type":"Point"}
+}

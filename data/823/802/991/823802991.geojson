@@ -1,0 +1,79 @@
+{
+  "id": 823802991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664333,41.714491,-72.664333,41.714491",
+    "geom:latitude":41.714491,
+    "geom:longitude":-72.664333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"404 Silas Deane Hwy",
+    "sg:city":"Wethersfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 563 2651",
+    "sg:postcode":"06109",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823233,
+        102191575,
+        404496005,
+        85633793,
+        85931011,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uAC3eSzffwppuL6tXDcJ2_41.714491_-72.664333@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446784,
+    "wof:geomhash":"a7ac647023f57bcb1fc6c896bfde7487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496005,
+            "locality_id":85931011,
+            "neighbourhood_id":85823233,
+            "region_id":85688629,
+            "venue_id":823802991
+        }
+    ],
+    "wof:id":823802991,
+    "wof:lastmodified":1466425170,
+    "wof:name":"Wethersfield Automotive",
+    "wof:parent_id":85823233,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.664333,
+    41.714491,
+    -72.664333,
+    41.714491
+],
+  "geometry": {"coordinates":[-72.664333,41.714491],"type":"Point"}
+}

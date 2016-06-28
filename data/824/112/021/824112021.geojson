@@ -1,0 +1,81 @@
+{
+  "id": 824112021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.312238,41.630436,-73.312238,41.630436",
+    "geom:latitude":41.630436,
+    "geom:longitude":-73.312238,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Kirby Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"06793",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931231,
+        102085375,
+        85824781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QInpprRlilUYCFr9qMyKj_41.630436_-73.312238@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454594,
+    "wof:geomhash":"d26fb8965e7a604511039ecc37713adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85931231,
+            "neighbourhood_id":85824781,
+            "region_id":85688629,
+            "venue_id":824112021
+        }
+    ],
+    "wof:id":824112021,
+    "wof:lastmodified":1466423099,
+    "wof:name":"USPS - United States Post Office - Washington Green Station",
+    "wof:parent_id":85824781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -73.312238,
+    41.630436,
+    -73.312238,
+    41.630436
+],
+  "geometry": {"coordinates":[-73.31223799999999,41.630436],"type":"Point"}
+}

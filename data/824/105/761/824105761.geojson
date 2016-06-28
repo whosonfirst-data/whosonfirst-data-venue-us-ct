@@ -1,0 +1,66 @@
+{
+  "id": 824105761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.397697,41.287498,-72.397697,41.287498",
+    "geom:latitude":41.287498,
+    "geom:longitude":-72.397697,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1250 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 395 1681",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wZzWYbdI5ldDuSSfup5Dx_41.287498_-72.397697@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454459,
+    "wof:geomhash":"ed881243f75a977ee0825657267f3f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105761
+        }
+    ],
+    "wof:id":824105761,
+    "wof:lastmodified":1466423226,
+    "wof:name":"Middlesex Hospital Radiology of Old Saybrook",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.397697,
+    41.287498,
+    -72.397697,
+    41.287498
+],
+  "geometry": {"coordinates":[-72.39769699999999,41.287498],"type":"Point"}
+}

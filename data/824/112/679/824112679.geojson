@@ -1,0 +1,85 @@
+{
+  "id": 824112679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.401427,41.424805,-73.401427,41.424805",
+    "geom:latitude":41.424805,
+    "geom:longitude":-73.401427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Park Lawn Dr",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 9993",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "sg:website":"http://www.insulationmidwest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BuBL1YW1Y1pNJIwX8nfdN_41.424805_-73.401427@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454608,
+    "wof:geomhash":"ce3a902361a63951c9acf978e0bd3762",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":824112679
+        }
+    ],
+    "wof:id":824112679,
+    "wof:lastmodified":1466423122,
+    "wof:name":"U S Insulation Co",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.401427,
+    41.424805,
+    -73.401427,
+    41.424805
+],
+  "geometry": {"coordinates":[-73.401427,41.424805],"type":"Point"}
+}

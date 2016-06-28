@@ -1,0 +1,89 @@
+{
+  "id": 824121001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.547716,41.100348,-73.547716,41.100348",
+    "geom:latitude":41.100348,
+    "geom:longitude":-73.547716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"844 High Ridge Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 3003",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dining",
+        "referral",
+        "fine",
+        "italian"
+    ],
+    "sg:website":"http://www.lafontanellaristorante.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852825,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2e2STJxWv2NIdoAdOdkaea_41.100348_-73.547716@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454783,
+    "wof:geomhash":"c1c1f12916e3240953b5c30adcf4111e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85852825,
+            "region_id":85688629,
+            "venue_id":824121001
+        }
+    ],
+    "wof:id":824121001,
+    "wof:lastmodified":1466423247,
+    "wof:name":"La Fontanella Ristorante",
+    "wof:parent_id":85852825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dining",
+        "referral",
+        "fine",
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.547716,
+    41.100348,
+    -73.547716,
+    41.100348
+],
+  "geometry": {"coordinates":[-73.54771599999999,41.100348],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823831383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.53708,41.060586,-73.53708,41.060586",
+    "geom:latitude":41.060586,
+    "geom:longitude":-73.53708,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"805 Bedford St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 977 4409",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o4IcymGWrq0SzDmeNvcdg_41.060586_-73.537080@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447643,
+    "wof:geomhash":"83c6c83d55e0fa162fa446f78dd07269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823831383
+        }
+    ],
+    "wof:id":823831383,
+    "wof:lastmodified":1466425400,
+    "wof:name":"Police Dept-Records",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.53708,
+    41.060586,
+    -73.53708,
+    41.060586
+],
+  "geometry": {"coordinates":[-73.53708,41.060586],"type":"Point"}
+}

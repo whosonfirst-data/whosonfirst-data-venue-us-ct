@@ -1,0 +1,71 @@
+{
+  "id": 823868477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664318,41.852463,-72.664318,41.852463",
+    "geom:latitude":41.852463,
+    "geom:longitude":-72.664318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"360 Bloomfield Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 285 8884",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6l1fBWhDJT3w9ZOLNhNwXk_41.852463_-72.664318@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448701,
+    "wof:geomhash":"6ffb3f9421dd00de93d95a6492d56d3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823868477
+        }
+    ],
+    "wof:id":823868477,
+    "wof:lastmodified":1466425762,
+    "wof:name":"New York Life",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -72.664318,
+    41.852463,
+    -72.664318,
+    41.852463
+],
+  "geometry": {"coordinates":[-72.66431799999999,41.852463],"type":"Point"}
+}

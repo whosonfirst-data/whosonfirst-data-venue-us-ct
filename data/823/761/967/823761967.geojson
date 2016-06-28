@@ -1,0 +1,79 @@
+{
+  "id": 823761967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.198835,41.199005,-73.198835,41.199005",
+    "geom:latitude":41.199005,
+    "geom:longitude":-73.198835,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Gurdon St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 4112",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I7jgavZf5gKZgF4uMPYyt_41.199005_-73.198835@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445654,
+    "wof:geomhash":"27a1da3f4063a6d6e1c1db9142761828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823761967
+        }
+    ],
+    "wof:id":823761967,
+    "wof:lastmodified":1466424889,
+    "wof:name":"Liberty Auto & Electric",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.198835,
+    41.199005,
+    -73.198835,
+    41.199005
+],
+  "geometry": {"coordinates":[-73.198835,41.199005],"type":"Point"}
+}

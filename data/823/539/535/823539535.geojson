@@ -1,0 +1,71 @@
+{
+  "id": 823539535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207655,41.527293,-73.207655,41.527293",
+    "geom:latitude":41.527293,
+    "geom:longitude":-73.207655,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Pomperaug Rd",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46wAsKhIE0v5ATbFVeUqjW_41.527293_-73.207655@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440459,
+    "wof:geomhash":"0783c0db6892ee665fff7852a78b714e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823539535
+        }
+    ],
+    "wof:id":823539535,
+    "wof:lastmodified":1466422383,
+    "wof:name":"Jean Vogel MD",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.207655,
+    41.527293,
+    -73.207655,
+    41.527293
+],
+  "geometry": {"coordinates":[-73.207655,41.527293],"type":"Point"}
+}

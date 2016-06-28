@@ -1,0 +1,71 @@
+{
+  "id": 823624539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229525,41.514593,-73.229525,41.514593",
+    "geom:latitude":41.514593,
+    "geom:longitude":-73.229525,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Racoon Ridge",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 263 8426",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w6owrTgor6OYBp3qeUN0r_41.514593_-73.229525@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442502,
+    "wof:geomhash":"6880d0b69f31c019ebb5ecfec9bbf0a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823624539
+        }
+    ],
+    "wof:id":823624539,
+    "wof:lastmodified":1466423570,
+    "wof:name":"Westlake Construction LLC",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.229525,
+    41.514593,
+    -73.229525,
+    41.514593
+],
+  "geometry": {"coordinates":[-73.229525,41.514593],"type":"Point"}
+}

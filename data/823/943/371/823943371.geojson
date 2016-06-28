@@ -1,0 +1,71 @@
+{
+  "id": 823943371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977691,41.731137,-72.977691,41.731137",
+    "geom:latitude":41.731137,
+    "geom:longitude":-72.977691,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Hull Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TbCyOl7gWtfb8zSSv05hz_41.731137_-72.977691@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450600,
+    "wof:geomhash":"ecc0b300729c6604fb31c8d4b1e7b3bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823943371
+        }
+    ],
+    "wof:id":823943371,
+    "wof:lastmodified":1466426402,
+    "wof:name":"Burlington Hair Salon",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.977691,
+    41.731137,
+    -72.977691,
+    41.731137
+],
+  "geometry": {"coordinates":[-72.97769099999999,41.731137],"type":"Point"}
+}

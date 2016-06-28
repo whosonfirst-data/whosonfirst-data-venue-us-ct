@@ -1,0 +1,68 @@
+{
+  "id": 823641505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.0955,41.545409,-72.0955,41.545409",
+    "geom:latitude":41.545409,
+    "geom:longitude":-72.0955,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"49 New London Tpke",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zjCNLH8bWTOVoOotqgRCw_41.545409_-72.095500@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442890,
+    "wof:geomhash":"93df6e74e382ec05a459ed1e06a6b9b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823641505
+        }
+    ],
+    "wof:id":823641505,
+    "wof:lastmodified":1466423670,
+    "wof:name":"Best Rent Plus",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.0955,
+    41.545409,
+    -72.0955,
+    41.545409
+],
+  "geometry": {"coordinates":[-72.0955,41.545409],"type":"Point"}
+}

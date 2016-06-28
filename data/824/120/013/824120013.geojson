@@ -1,0 +1,77 @@
+{
+  "id": 824120013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.55898,41.041399,-73.55898,41.041399",
+    "geom:latitude":41.041399,
+    "geom:longitude":-73.55898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"365 West Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 7678",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qpZgS6cfG9yaObQPJDVnh_41.041399_-73.558980@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454765,
+    "wof:geomhash":"63f2575c56b0595b9f811fcd3423103a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":824120013
+        }
+    ],
+    "wof:id":824120013,
+    "wof:lastmodified":1466423309,
+    "wof:name":"Outpost Pizza",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.55898,
+    41.041399,
+    -73.55898,
+    41.041399
+],
+  "geometry": {"coordinates":[-73.55898000000001,41.041399],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 823578307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.415057,41.12026,-73.415057,41.12026",
+    "geom:latitude":41.12026,
+    "geom:longitude":-73.415057,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Cross St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 849 1144",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "box",
+        "mail"
+    ],
+    "sg:website":"www.mrmailbox.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xVz7LBaihHX6xQqmLMOdP_41.120260_-73.415057@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441379,
+    "wof:geomhash":"4b3c190a1633a8ba2ed5424e980cbe87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823578307
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":823578307
+        }
+    ],
+    "wof:id":823578307,
+    "wof:lastmodified":1466422951,
+    "wof:name":"Mr Mailbox",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box",
+        "mail"
+    ]
+},
+  "bbox": [
+    -73.415057,
+    41.12026,
+    -73.415057,
+    41.12026
+],
+  "geometry": {"coordinates":[-73.415057,41.12026],"type":"Point"}
+}

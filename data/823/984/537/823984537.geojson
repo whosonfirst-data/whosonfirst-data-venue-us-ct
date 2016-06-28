@@ -1,0 +1,71 @@
+{
+  "id": 823984537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.910023,41.922847,-71.910023,41.922847",
+    "geom:latitude":41.922847,
+    "geom:longitude":-71.910023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 Mill St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HgnAXT56eWV7A8cv9iy2S_41.922847_-71.910023@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451597,
+    "wof:geomhash":"033d7caf64c9ec2677cb2fcc6a375a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823984537
+        }
+    ],
+    "wof:id":823984537,
+    "wof:lastmodified":1466426829,
+    "wof:name":"Engine & Chassis",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.910023,
+    41.922847,
+    -71.910023,
+    41.922847
+],
+  "geometry": {"coordinates":[-71.910023,41.922847],"type":"Point"}
+}

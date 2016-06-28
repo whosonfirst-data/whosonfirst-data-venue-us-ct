@@ -1,0 +1,73 @@
+{
+  "id": 823531637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.91562,41.419004,-72.91562,41.419004",
+    "geom:latitude":41.419004,
+    "geom:longitude":-72.91562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Serafin Ct",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 4736",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AdBsNsBm5lNtJ3QpvbrOu_41.419004_-72.915620@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440284,
+    "wof:geomhash":"100143b5a505b8fe6ac1c3c3390640dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823531637
+        }
+    ],
+    "wof:id":823531637,
+    "wof:lastmodified":1466422274,
+    "wof:name":"P C Electric Inc",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.91562,
+    41.419004,
+    -72.91562,
+    41.419004
+],
+  "geometry": {"coordinates":[-72.91562,41.419004],"type":"Point"}
+}

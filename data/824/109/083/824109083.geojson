@@ -1,0 +1,82 @@
+{
+  "id": 824109083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908698,41.436372,-72.908698,41.436372",
+    "geom:latitude":41.436372,
+    "geom:longitude":-72.908698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3931 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 9456",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "instruction",
+        "course",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kfL6jnipf5s8tE5FFgdBS_41.436372_-72.908698@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454535,
+    "wof:geomhash":"289d35f902e7f58908c8e68482287425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":824109083
+        }
+    ],
+    "wof:id":824109083,
+    "wof:lastmodified":1466423105,
+    "wof:name":"Sleeping Giant Golf Course",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "instruction",
+        "course",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.908698,
+    41.436372,
+    -72.908698,
+    41.436372
+],
+  "geometry": {"coordinates":[-72.908698,41.436372],"type":"Point"}
+}

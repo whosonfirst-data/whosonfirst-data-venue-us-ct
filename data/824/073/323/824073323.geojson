@@ -1,0 +1,72 @@
+{
+  "id": 824073323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.568745,41.767475,-72.568745,41.767475",
+    "geom:latitude":41.767475,
+    "geom:longitude":-72.568745,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 Spencer St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/manchester/108477-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 647 1523",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zs1NqzDDYUIuVTBvIJlpF_41.767475_-72.568745@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453703,
+    "wof:geomhash":"e3a527e5483e8ecb8e2395f3db404452",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":824073323
+        }
+    ],
+    "wof:id":824073323,
+    "wof:lastmodified":1466422415,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -72.568745,
+    41.767475,
+    -72.568745,
+    41.767475
+],
+  "geometry": {"coordinates":[-72.56874500000001,41.767475],"type":"Point"}
+}

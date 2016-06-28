@@ -1,0 +1,66 @@
+{
+  "id": 823687477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252533,41.301453,-73.252533,41.301453",
+    "geom:latitude":41.301453,
+    "geom:longitude":-73.252533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 8686",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a4FlQOI7ERar32sy29EGU_41.301453_-73.252533@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443961,
+    "wof:geomhash":"cb5dc6e8a4df1731ef28c49367094fd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823687477
+        }
+    ],
+    "wof:id":823687477,
+    "wof:lastmodified":1466424107,
+    "wof:name":"Captain's Pizza House",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.252533,
+    41.301453,
+    -73.252533,
+    41.301453
+],
+  "geometry": {"coordinates":[-73.252533,41.301453],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823900821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.529077,41.049693,-73.529077,41.049693",
+    "geom:latitude":41.049693,
+    "geom:longitude":-73.529077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Jefferson St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 6741",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.minchinbuick.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PKpZ7piv8JLcxvAcJKJ2X_41.049693_-73.529077@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449474,
+    "wof:geomhash":"0c367926bbb9437d05a9ff1bf9e2dbc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823900821
+        }
+    ],
+    "wof:id":823900821,
+    "wof:lastmodified":1466426012,
+    "wof:name":"Minchin Buick-GMC Truck",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.529077,
+    41.049693,
+    -73.529077,
+    41.049693
+],
+  "geometry": {"coordinates":[-73.529077,41.049693],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823661805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.922974,41.363794,-72.922974,41.363794",
+    "geom:latitude":41.363794,
+    "geom:longitude":-72.922974,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Wheeler St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 1047",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZBZ1WRvTCuW2MpWiiCckj_41.363794_-72.922974@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443377,
+    "wof:geomhash":"487053a8746f809d7a02371e735b62c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823661805
+        }
+    ],
+    "wof:id":823661805,
+    "wof:lastmodified":1466423949,
+    "wof:name":"Hamden Kennel",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.922974,
+    41.363794,
+    -72.922974,
+    41.363794
+],
+  "geometry": {"coordinates":[-72.922974,41.363794],"type":"Point"}
+}

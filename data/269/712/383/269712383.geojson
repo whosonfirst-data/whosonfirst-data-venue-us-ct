@@ -2,13 +2,14 @@
   "id": 269712383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.499215,41.120878,-73.499215,41.120878",
     "geom:latitude":41.120878,
     "geom:longitude":-73.499215,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Weed St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":269712383,
-    "wof:lastmodified":1449037163,
+    "wof:lastmodified":1466421100,
     "wof:name":"Jim Randall",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-73.499215,41.120878,-73.499215,41.120878],
-  "geometry": {"coordinates":[-73.499215,41.120878],"type":"Point"}
+  "bbox": [
+    -73.499215,
+    41.120878,
+    -73.499215,
+    41.120878
+],
+  "geometry": {"coordinates":[-73.49921500000001,41.120878],"type":"Point"}
 }

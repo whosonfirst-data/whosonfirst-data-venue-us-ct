@@ -2,13 +2,14 @@
   "id": 286490717,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488507,41.133034,-73.488507,41.133034",
     "geom:latitude":41.133034,
     "geom:longitude":-73.488507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Crystal St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286490717,
-    "wof:lastmodified":1449017791,
+    "wof:lastmodified":1466421111,
     "wof:name":"Keyman Mobile Locksmith Svc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "locksmith"
     ]
 },
-  "bbox": [-73.488507,41.133034,-73.488507,41.133034],
+  "bbox": [
+    -73.488507,
+    41.133034,
+    -73.488507,
+    41.133034
+],
   "geometry": {"coordinates":[-73.488507,41.133034],"type":"Point"}
 }

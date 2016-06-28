@@ -1,0 +1,84 @@
+{
+  "id": 823925507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.372307,41.120758,-73.372307,41.120758",
+    "geom:latitude":41.120758,
+    "geom:longitude":-73.372307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Franklin St",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 226 4724",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photographer",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iDOBecH9DMkQ15jQSNm95_41.120758_-73.372307@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450137,
+    "wof:geomhash":"8a248e2d54d812e4d00061625be540d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823925507
+        }
+    ],
+    "wof:id":823925507,
+    "wof:lastmodified":1466426233,
+    "wof:name":"John Brewster Creative Svcs",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.372307,
+    41.120758,
+    -73.372307,
+    41.120758
+],
+  "geometry": {"coordinates":[-73.37230700000001,41.120758],"type":"Point"}
+}

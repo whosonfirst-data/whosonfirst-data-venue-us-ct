@@ -1,0 +1,66 @@
+{
+  "id": 823686863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.903905,41.503523,-72.903905,41.503523",
+    "geom:latitude":41.503523,
+    "geom:longitude":-72.903905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"186 Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 272 4768",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iFRJ2bLKVZCh0OhFvaOiM_41.503523_-72.903905@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443948,
+    "wof:geomhash":"89a314eadc137348603e28fe3c7c18fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":823686863
+        }
+    ],
+    "wof:id":823686863,
+    "wof:lastmodified":1466424126,
+    "wof:name":"Peter's Place",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.903905,
+    41.503523,
+    -72.903905,
+    41.503523
+],
+  "geometry": {"coordinates":[-72.90390499999999,41.503523],"type":"Point"}
+}

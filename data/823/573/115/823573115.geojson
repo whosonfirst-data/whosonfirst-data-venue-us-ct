@@ -1,0 +1,77 @@
+{
+  "id": 823573115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.715747,41.751743,-72.715747,41.751743",
+    "geom:latitude":41.751743,
+    "geom:longitude":-72.715747,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Kane St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06119",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878019,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bPewQ9iWRgU6WfyHbq8l3_41.751743_-72.715747@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441254,
+    "wof:geomhash":"a24fa84b4601d56657bb92f7669453cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878019,
+            "region_id":85688629,
+            "venue_id":823573115
+        }
+    ],
+    "wof:id":823573115,
+    "wof:lastmodified":1466422795,
+    "wof:name":"Elizabeth Appel MD",
+    "wof:parent_id":85878019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.715747,
+    41.751743,
+    -72.715747,
+    41.751743
+],
+  "geometry": {"coordinates":[-72.71574699999999,41.751743],"type":"Point"}
+}

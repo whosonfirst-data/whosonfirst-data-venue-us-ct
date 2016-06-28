@@ -1,0 +1,96 @@
+{
+  "id": 824078309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.943136,41.339328,-72.943136,41.339328",
+    "geom:latitude":41.339328,
+    "geom:longitude":-72.943136,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"173 Arch St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/254105-latin-fire--spice/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 787 7800",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "burger",
+        "american",
+        "pasta",
+        "barbecue",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879159,
+        102191575,
+        404495787,
+        85930897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VtIr9D8hvaEHM2rmbYaaV_41.339328_-72.943136@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453818,
+    "wof:geomhash":"08fa71acf5dce19eb7b4d9f6d0b2c719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824078309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879159,
+            "region_id":85688629,
+            "venue_id":824078309
+        }
+    ],
+    "wof:id":824078309,
+    "wof:lastmodified":1466422567,
+    "wof:name":"Latin Fire & Spice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "burger",
+        "american",
+        "pasta",
+        "barbecue",
+        "wing"
+    ]
+},
+  "bbox": [
+    -72.943136,
+    41.339328,
+    -72.943136,
+    41.339328
+],
+  "geometry": {"coordinates":[-72.943136,41.339328],"type":"Point"}
+}

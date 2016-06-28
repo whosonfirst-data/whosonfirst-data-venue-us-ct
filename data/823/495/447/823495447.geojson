@@ -1,0 +1,83 @@
+{
+  "id": 823495447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.456798,41.395627,-73.456798,41.395627",
+    "geom:latitude":41.395627,
+    "geom:longitude":-73.456798,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Elm St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 1353",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bus",
+        "line",
+        "charter",
+        "pass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jiCYsHrxq2gbD1WXQ4rOw_41.395627_-73.456798@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439443,
+    "wof:geomhash":"ed506a58156b88c6c88bc406c75c8519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823495447
+        }
+    ],
+    "wof:id":823495447,
+    "wof:lastmodified":1466421632,
+    "wof:name":"Bonanza Bus Lnes A Coach U S A",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "charter",
+        "pass"
+    ]
+},
+  "bbox": [
+    -73.456798,
+    41.395627,
+    -73.456798,
+    41.395627
+],
+  "geometry": {"coordinates":[-73.45679800000001,41.395627],"type":"Point"}
+}

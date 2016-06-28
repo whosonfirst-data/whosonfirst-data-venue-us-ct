@@ -1,0 +1,79 @@
+{
+  "id": 823513647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205337,41.181511,-73.205337,41.181511",
+    "geom:latitude":41.181511,
+    "geom:longitude":-73.205337,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1615 Park Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 368 1157",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Erf6xXqtFHy7mU3dCtn6q_41.181511_-73.205337@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439879,
+    "wof:geomhash":"b917dacfda792f8786adf4b6650cf2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823513647
+        }
+    ],
+    "wof:id":823513647,
+    "wof:lastmodified":1466422083,
+    "wof:name":"Park City Discount Market",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "grocery"
+    ]
+},
+  "bbox": [
+    -73.205337,
+    41.181511,
+    -73.205337,
+    41.181511
+],
+  "geometry": {"coordinates":[-73.205337,41.181511],"type":"Point"}
+}

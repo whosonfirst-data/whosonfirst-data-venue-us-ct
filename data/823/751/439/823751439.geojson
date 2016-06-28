@@ -1,0 +1,90 @@
+{
+  "id": 823751439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.714655,41.675111,-72.714655,41.675111",
+    "geom:latitude":41.675111,
+    "geom:longitude":-72.714655,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2640 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 667 2447",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p3dHV14avZ236TNZKytpA_41.675111_-72.714655@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445417,
+    "wof:geomhash":"e1ae32ba0e3ef0ec7a7f4ffbe6f7d206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823751439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823751439
+        }
+    ],
+    "wof:id":823751439,
+    "wof:lastmodified":1466424738,
+    "wof:name":"ARC Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.714655,
+    41.675111,
+    -72.714655,
+    41.675111
+],
+  "geometry": {"coordinates":[-72.71465499999999,41.675111],"type":"Point"}
+}

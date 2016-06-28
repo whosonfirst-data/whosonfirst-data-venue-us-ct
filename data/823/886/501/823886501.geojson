@@ -1,0 +1,66 @@
+{
+  "id": 823886501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.895642,41.567329,-71.895642,41.567329",
+    "geom:latitude":41.567329,
+    "geom:longitude":-71.895642,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Walter Dr",
+    "sg:city":"Jewett City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06351",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814651,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rSVB1NIHeMULWXpSfyqdY_41.567329_-71.895642@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449115,
+    "wof:geomhash":"871d5390e52d82c4c83d07882d290b50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85814651,
+            "region_id":85688629,
+            "venue_id":823886501
+        }
+    ],
+    "wof:id":823886501,
+    "wof:lastmodified":1466425949,
+    "wof:name":"Chem Dry of New London County",
+    "wof:parent_id":85814651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.895642,
+    41.567329,
+    -71.895642,
+    41.567329
+],
+  "geometry": {"coordinates":[-71.895642,41.567329],"type":"Point"}
+}

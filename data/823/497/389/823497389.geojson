@@ -1,0 +1,73 @@
+{
+  "id": 823497389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74065,41.28156,-72.74065,41.28156",
+    "geom:latitude":41.28156,
+    "geom:longitude":-72.74065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"99 Quarry Rd",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 315 8124",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825775,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02C2m15MQY0Auxmlx2XFrJ_41.281560_-72.740650@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439504,
+    "wof:geomhash":"88866c33566c1f7eb6eb38e021b5aab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85825775,
+            "region_id":85688629,
+            "venue_id":823497389
+        }
+    ],
+    "wof:id":823497389,
+    "wof:lastmodified":1466421698,
+    "wof:name":"Fischer Excavating",
+    "wof:parent_id":85825775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.74065,
+    41.28156,
+    -72.74065,
+    41.28156
+],
+  "geometry": {"coordinates":[-72.74065,41.28156],"type":"Point"}
+}

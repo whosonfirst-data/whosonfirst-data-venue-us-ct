@@ -1,0 +1,77 @@
+{
+  "id": 823864097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059551,41.56498,-73.059551,41.56498",
+    "geom:latitude":41.56498,
+    "geom:longitude":-73.059551,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"595 Watertown Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 3161",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wJWSjuzB9NMngDwQw0LBe_41.564980_-73.059551@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448603,
+    "wof:geomhash":"e3c179dc941601c20c307058e215743c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823864097
+        }
+    ],
+    "wof:id":823864097,
+    "wof:lastmodified":1466425596,
+    "wof:name":"Perry's Dry Cleaners",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.059551,
+    41.56498,
+    -73.059551,
+    41.56498
+],
+  "geometry": {"coordinates":[-73.059551,41.56498],"type":"Point"}
+}

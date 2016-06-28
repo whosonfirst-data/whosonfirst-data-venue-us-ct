@@ -1,0 +1,80 @@
+{
+  "id": 824078849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136878,41.197131,-73.136878,41.197131",
+    "geom:latitude":41.197131,
+    "geom:longitude":-73.136878,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1322 Barnum Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stratford/189508-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 4682",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ccCbdrq4m1VYojdj4O32z_41.197131_-73.136878@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453828,
+    "wof:geomhash":"61cb1df47e57f1b1d97fe1ed7930810f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":824078849
+        }
+    ],
+    "wof:id":824078849,
+    "wof:lastmodified":1466422670,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -73.136878,
+    41.197131,
+    -73.136878,
+    41.197131
+],
+  "geometry": {"coordinates":[-73.136878,41.197131],"type":"Point"}
+}

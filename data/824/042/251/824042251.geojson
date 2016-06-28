@@ -1,0 +1,79 @@
+{
+  "id": 824042251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.401167,41.105779,-73.401167,41.105779",
+    "geom:latitude":41.105779,
+    "geom:longitude":-73.401167,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Fitch St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 3900",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816631,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m7eri2brKeEEipBzCBEwT_41.105779_-73.401167@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452984,
+    "wof:geomhash":"b91a08229a0a1e84a20e179cd2c1d2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":824042251
+        }
+    ],
+    "wof:id":824042251,
+    "wof:lastmodified":1466421891,
+    "wof:name":"O'Hara's Brake & Alignment Ctr",
+    "wof:parent_id":85816631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "brake"
+    ]
+},
+  "bbox": [
+    -73.401167,
+    41.105779,
+    -73.401167,
+    41.105779
+],
+  "geometry": {"coordinates":[-73.401167,41.105779],"type":"Point"}
+}

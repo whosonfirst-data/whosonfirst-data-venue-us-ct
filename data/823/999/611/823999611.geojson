@@ -1,0 +1,71 @@
+{
+  "id": 823999611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.980461,41.599615,-71.980461,41.599615",
+    "geom:latitude":41.599615,
+    "geom:longitude":-71.980461,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"167 Slater Ave",
+    "sg:city":"Jewett City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 376 9115",
+    "sg:postcode":"06351",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811237,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wtXfmGgXTeuvXAEdOv4Pb_41.599615_-71.980461@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451981,
+    "wof:geomhash":"ed65c5ec96424ea9b2a4fc0069129cfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85811237,
+            "region_id":85688629,
+            "venue_id":823999611
+        }
+    ],
+    "wof:id":823999611,
+    "wof:lastmodified":1466426850,
+    "wof:name":"Oasis Cafe",
+    "wof:parent_id":85811237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.980461,
+    41.599615,
+    -71.980461,
+    41.599615
+],
+  "geometry": {"coordinates":[-71.98046100000001,41.599615],"type":"Point"}
+}

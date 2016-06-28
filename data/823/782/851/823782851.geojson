@@ -1,0 +1,75 @@
+{
+  "id": 823782851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.432025,41.212987,-73.432025,41.212987",
+    "geom:latitude":41.212987,
+    "geom:longitude":-73.432025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"439 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hospital",
+        "skilled",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pa47F2yqjzCADZ54qxvJa_41.212987_-73.432025@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446166,
+    "wof:geomhash":"6c05191319ef0c94e184603fd4290410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823782851
+        }
+    ],
+    "wof:id":823782851,
+    "wof:lastmodified":1466425050,
+    "wof:name":"Wilton Meadows Health Care Ctr",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "skilled",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -73.432025,
+    41.212987,
+    -73.432025,
+    41.212987
+],
+  "geometry": {"coordinates":[-73.432025,41.212987],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824081331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.52204,41.046623,-73.52204,41.046623",
+    "geom:latitude":41.046623,
+    "geom:longitude":-73.52204,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"62 Park St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/25467-curlys-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 348 2020",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Px2EZHN6XRMiE62mgcSbB_41.046623_-73.522040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453882,
+    "wof:geomhash":"3bf9e75ad9de2d3457cec05966478f71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":824081331
+        }
+    ],
+    "wof:id":824081331,
+    "wof:lastmodified":1466422580,
+    "wof:name":"Curly's Diner",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -73.52204,
+    41.046623,
+    -73.52204,
+    41.046623
+],
+  "geometry": {"coordinates":[-73.52204,41.046623],"type":"Point"}
+}

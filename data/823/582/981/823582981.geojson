@@ -1,0 +1,81 @@
+{
+  "id": 823582981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186656,41.185957,-73.186656,41.185957",
+    "geom:latitude":41.185957,
+    "geom:longitude":-73.186656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 E Washington Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 4046",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876485,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CXbQkeLtq2hnkEtW2fAou_41.185957_-73.186656@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441487,
+    "wof:geomhash":"61e657b10f3ff6ff1b3fa0b6e9ab61bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876485,
+            "region_id":85688629,
+            "venue_id":823582981
+        }
+    ],
+    "wof:id":823582981,
+    "wof:lastmodified":1466422978,
+    "wof:name":"Service My Auto LLC",
+    "wof:parent_id":85876485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.186656,
+    41.185957,
+    -73.186656,
+    41.185957
+],
+  "geometry": {"coordinates":[-73.186656,41.185957],"type":"Point"}
+}

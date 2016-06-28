@@ -1,0 +1,91 @@
+{
+  "id": 824119617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.539503,41.051577,-73.539503,41.051577",
+    "geom:latitude":41.051577,
+    "geom:longitude":-73.539503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"268 Atlantic St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 964 9222",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "brew",
+        "grill",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MVdkhpC3u3d29nJnwcox9_41.051577_-73.539503@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454758,
+    "wof:geomhash":"92d94ba2408ff6e59f08115c525f43b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824119617
+        }
+    ],
+    "wof:id":824119617,
+    "wof:lastmodified":1466423296,
+    "wof:name":"Rack & Roll Cafe",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "grill",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -73.539503,
+    41.051577,
+    -73.539503,
+    41.051577
+],
+  "geometry": {"coordinates":[-73.539503,41.051577],"type":"Point"}
+}

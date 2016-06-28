@@ -1,0 +1,71 @@
+{
+  "id": 823766335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.945979,41.389219,-72.945979,41.389219",
+    "geom:latitude":41.389219,
+    "geom:longitude":-72.945979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1448 Dunbar Hill Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 287 8305",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wNBZhIjQ3tuxFBx9e69Vl_41.389219_-72.945979@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445747,
+    "wof:geomhash":"c2b0002bb1cdda0770e23885efcc08b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823766335
+        }
+    ],
+    "wof:id":823766335,
+    "wof:lastmodified":1466424830,
+    "wof:name":"Concord Glass Inc",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.945979,
+    41.389219,
+    -72.945979,
+    41.389219
+],
+  "geometry": {"coordinates":[-72.94597899999999,41.389219],"type":"Point"}
+}

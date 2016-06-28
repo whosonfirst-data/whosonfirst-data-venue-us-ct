@@ -1,0 +1,73 @@
+{
+  "id": 823605495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.812044,41.686519,-72.812044,41.686519",
+    "geom:latitude":41.686519,
+    "geom:longitude":-72.812044,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Marimac Rd",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 612 0100",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4omPc9qQB8El3opQjNsVgw_41.686519_-72.812044@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442032,
+    "wof:geomhash":"8654a56980dc22263ddeb02820120505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":823605495
+        }
+    ],
+    "wof:id":823605495,
+    "wof:lastmodified":1466423488,
+    "wof:name":"CPS Properties",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.812044,
+    41.686519,
+    -72.812044,
+    41.686519
+],
+  "geometry": {"coordinates":[-72.812044,41.686519],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824108795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.443802,41.286499,-72.443802,41.286499",
+    "geom:latitude":41.286499,
+    "geom:longitude":-72.443802,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Goodspeed Dr",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 399 6422",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OidUfcO5pwpHoJnSzPNsH_41.286499_-72.443802@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454527,
+    "wof:geomhash":"b360d9e467a31bbee5f31e2b50542d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824108795
+        }
+    ],
+    "wof:id":824108795,
+    "wof:lastmodified":1466423092,
+    "wof:name":"Westbrook Public Library",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.443802,
+    41.286499,
+    -72.443802,
+    41.286499
+],
+  "geometry": {"coordinates":[-72.44380200000001,41.286499],"type":"Point"}
+}

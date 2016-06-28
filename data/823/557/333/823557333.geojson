@@ -1,0 +1,80 @@
+{
+  "id": 823557333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.54035,41.055951,-73.54035,41.055951",
+    "geom:latitude":41.055951,
+    "geom:longitude":-73.54035,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"441 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 921 2665",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "sg:website":"www.computronixusa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D4PjaSh4lxldl4Vv4Divi_41.055951_-73.540350@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440874,
+    "wof:geomhash":"66afc3d82b3eef2ac3ccf891d6e0963f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823557333
+        }
+    ],
+    "wof:id":823557333,
+    "wof:lastmodified":1466422706,
+    "wof:name":"Computronix",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.54035,
+    41.055951,
+    -73.54035,
+    41.055951
+],
+  "geometry": {"coordinates":[-73.54035,41.055951],"type":"Point"}
+}

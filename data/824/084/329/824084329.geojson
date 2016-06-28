@@ -1,0 +1,88 @@
+{
+  "id": 824084329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.867302,41.816002,-72.867302,41.816002",
+    "geom:latitude":41.816002,
+    "geom:longitude":-72.867302,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 W Avon Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 2581",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medicine",
+        "medical",
+        "internal",
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qoy9uAUiFbYc2CN5q9cf3_41.816002_-72.867302@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453950,
+    "wof:geomhash":"fa484458a791f0780d1783dda61e3dc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824084329
+        }
+    ],
+    "wof:id":824084329,
+    "wof:lastmodified":1466422541,
+    "wof:name":"Singh Satesh C MD",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "medical",
+        "internal",
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -72.867302,
+    41.816002,
+    -72.867302,
+    41.816002
+],
+  "geometry": {"coordinates":[-72.867302,41.816002],"type":"Point"}
+}

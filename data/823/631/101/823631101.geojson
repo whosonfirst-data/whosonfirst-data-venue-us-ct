@@ -1,0 +1,73 @@
+{
+  "id": 823631101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.898624,41.404178,-72.898624,41.404178",
+    "geom:latitude":41.404178,
+    "geom:longitude":-72.898624,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2974 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 287 1950",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mx7PQ145QArUq7plZcJww_41.404178_-72.898624@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442651,
+    "wof:geomhash":"b0a09e88ea4959f6c2c5ce1b5c83a9c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823631101
+        }
+    ],
+    "wof:id":823631101,
+    "wof:lastmodified":1466423605,
+    "wof:name":"Fireworks Factory",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.898624,
+    41.404178,
+    -72.898624,
+    41.404178
+],
+  "geometry": {"coordinates":[-72.898624,41.404178],"type":"Point"}
+}

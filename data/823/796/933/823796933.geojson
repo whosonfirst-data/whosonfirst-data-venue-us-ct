@@ -1,0 +1,71 @@
+{
+  "id": 823796933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.253503,41.311149,-72.253503,41.311149",
+    "geom:latitude":41.311149,
+    "geom:longitude":-72.253503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"277 W Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821451,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51lvyGAUsiyfyWDiTd1PM0_41.311149_-72.253503@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446630,
+    "wof:geomhash":"247f67fe3278f483d4e0f26e7a414e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85821451,
+            "region_id":85688629,
+            "venue_id":823796933
+        }
+    ],
+    "wof:id":823796933,
+    "wof:lastmodified":1466425141,
+    "wof:name":"Rockwood Service Corp",
+    "wof:parent_id":85821451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.253503,
+    41.311149,
+    -72.253503,
+    41.311149
+],
+  "geometry": {"coordinates":[-72.25350299999999,41.311149],"type":"Point"}
+}

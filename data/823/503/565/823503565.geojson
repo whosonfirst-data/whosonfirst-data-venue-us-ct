@@ -1,0 +1,79 @@
+{
+  "id": 823503565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.896833,41.645841,-72.896833,41.645841",
+    "geom:latitude":41.645841,
+    "geom:longitude":-72.896833,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Elizabeth Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 318 1105",
+    "sg:postcode":"06489",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44vPHBXOsMBdw1K7x4k5pt_41.645841_-72.896833@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439655,
+    "wof:geomhash":"9548d728a44ceb46e97b6164f0feb745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823503565
+        }
+    ],
+    "wof:id":823503565,
+    "wof:lastmodified":1466421726,
+    "wof:name":"Joe & Son Plumbing",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.896833,
+    41.645841,
+    -72.896833,
+    41.645841
+],
+  "geometry": {"coordinates":[-72.896833,41.645841],"type":"Point"}
+}

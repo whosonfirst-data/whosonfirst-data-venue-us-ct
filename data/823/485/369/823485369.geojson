@@ -1,0 +1,71 @@
+{
+  "id": 823485369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74829,41.342418,-72.74829,41.342418",
+    "geom:latitude":41.342418,
+    "geom:longitude":-72.74829,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2364 Foxon Rd",
+    "sg:city":"North Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 4238",
+    "sg:postcode":"06471",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4giqdEzTeXv3QeiTXAPkW8_41.342418_-72.748290@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439192,
+    "wof:geomhash":"d3ec45110e25c81db95041b0656ac9ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823485369
+        }
+    ],
+    "wof:id":823485369,
+    "wof:lastmodified":1466421448,
+    "wof:name":"Veterinary Associates",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.74829,
+    41.342418,
+    -72.74829,
+    41.342418
+],
+  "geometry": {"coordinates":[-72.74829,41.342418],"type":"Point"}
+}

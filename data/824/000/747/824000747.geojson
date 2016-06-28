@@ -1,0 +1,79 @@
+{
+  "id": 824000747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.067402,41.811131,-73.067402,41.811131",
+    "geom:latitude":41.811131,
+    "geom:longitude":-73.067402,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Whitbeck Rd",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "sg:tags":[
+        "vehicle",
+        "recreational",
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SXCDLGUTb7uK026R99eWI_41.811131_-73.067402@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452005,
+    "wof:geomhash":"3557c7b23239c4c8e99c8051ad68e66f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824000747
+        }
+    ],
+    "wof:id":824000747,
+    "wof:lastmodified":1466421128,
+    "wof:name":"State Wide Welding Service",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vehicle",
+        "recreational",
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.067402,
+    41.811131,
+    -73.067402,
+    41.811131
+],
+  "geometry": {"coordinates":[-73.067402,41.811131],"type":"Point"}
+}

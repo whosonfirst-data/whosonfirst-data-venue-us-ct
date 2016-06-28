@@ -1,0 +1,68 @@
+{
+  "id": 824089883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.033203,41.831699,-73.033203,41.831699",
+    "geom:latitude":41.831699,
+    "geom:longitude":-73.033203,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Cedar Ln",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 5595",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VhsCIVfsiaKGUazY3AX0p_41.831699_-73.033203@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454086,
+    "wof:geomhash":"48ace3285eed4803c8312c28811159da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824089883
+        }
+    ],
+    "wof:id":824089883,
+    "wof:lastmodified":1466422907,
+    "wof:name":"Hunter Montessori School",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.033203,
+    41.831699,
+    -73.033203,
+    41.831699
+],
+  "geometry": {"coordinates":[-73.033203,41.831699],"type":"Point"}
+}

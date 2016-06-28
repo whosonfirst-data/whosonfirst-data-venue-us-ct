@@ -1,0 +1,73 @@
+{
+  "id": 823787193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.585589,41.710061,-72.585589,41.710061",
+    "geom:latitude":41.710061,
+    "geom:longitude":-72.585589,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Commerce St",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QfXnuQXhCANjJp4s3W6OV_41.710061_-72.585589@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446320,
+    "wof:geomhash":"efe7223fa40ee806167e0524cb7bfeae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823787193
+        }
+    ],
+    "wof:id":823787193,
+    "wof:lastmodified":1466424874,
+    "wof:name":"Accurate Dental Lab Inc",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -72.585589,
+    41.710061,
+    -72.585589,
+    41.710061
+],
+  "geometry": {"coordinates":[-72.585589,41.710061],"type":"Point"}
+}

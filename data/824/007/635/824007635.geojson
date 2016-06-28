@@ -1,0 +1,66 @@
+{
+  "id": 824007635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.813336,41.279768,-72.813336,41.279768",
+    "geom:latitude":41.279768,
+    "geom:longitude":-72.813336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 S Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 1105",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PgzGwrWMNbo1fJB9avoC4_41.279768_-72.813336@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452151,
+    "wof:geomhash":"7ee354d97e1ba27a911900e32f071a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":824007635
+        }
+    ],
+    "wof:id":824007635,
+    "wof:lastmodified":1466421283,
+    "wof:name":"Caldarone Chiropractic Ctr",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.813336,
+    41.279768,
+    -72.813336,
+    41.279768
+],
+  "geometry": {"coordinates":[-72.81333600000001,41.279768],"type":"Point"}
+}

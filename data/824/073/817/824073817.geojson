@@ -1,0 +1,74 @@
+{
+  "id": 824073817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.556332,41.811814,-72.556332,41.811814",
+    "geom:latitude":41.811814,
+    "geom:longitude":-72.556332,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Evergreen Way",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/south-windsor/155306-johnny-rockets/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 432 0048",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pwTZRdhtkNdPdDfp9VTnK_41.811814_-72.556332@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453716,
+    "wof:geomhash":"16448decf782b3488805874159ef5960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":824073817
+        }
+    ],
+    "wof:id":824073817,
+    "wof:lastmodified":1466422450,
+    "wof:name":"Johnny Rockets",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.556332,
+    41.811814,
+    -72.556332,
+    41.811814
+],
+  "geometry": {"coordinates":[-72.556332,41.811814],"type":"Point"}
+}

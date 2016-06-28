@@ -1,0 +1,108 @@
+{
+  "id": 824115389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252609,41.145142,-73.252609,41.145142",
+    "geom:latitude":41.145142,
+    "geom:longitude":-73.252609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1040 Post Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Juice Bar",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 255 0461",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "basket",
+        "plant",
+        "fruit",
+        "wedding"
+    ],
+    "sg:website":"http://www.hansensflowershop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61Fyqs24p2iQOGWP8M0jby_41.145142_-73.252609@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454664,
+    "wof:geomhash":"1a27ce02004e00960f82e444eda727da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824115389
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824115389
+        }
+    ],
+    "wof:id":824115389,
+    "wof:lastmodified":1466423251,
+    "wof:name":"Hansen's Flower Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket",
+        "plant",
+        "fruit",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -73.252609,
+    41.145142,
+    -73.252609,
+    41.145142
+],
+  "geometry": {"coordinates":[-73.25260900000001,41.145142],"type":"Point"}
+}

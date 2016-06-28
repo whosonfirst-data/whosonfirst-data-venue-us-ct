@@ -2,13 +2,14 @@
   "id": 336952743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489858,41.132529,-73.489858,41.132529",
     "geom:latitude":41.132529,
     "geom:longitude":-73.489858,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Crystal St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336952743,
-    "wof:lastmodified":1448997709,
+    "wof:lastmodified":1466421128,
     "wof:name":"Evolutnary Prttyping Mthdlgsts",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-73.489858,41.132529,-73.489858,41.132529],
+  "bbox": [
+    -73.489858,
+    41.132529,
+    -73.489858,
+    41.132529
+],
   "geometry": {"coordinates":[-73.489858,41.132529],"type":"Point"}
 }

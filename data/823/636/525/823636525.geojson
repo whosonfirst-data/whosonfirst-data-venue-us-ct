@@ -1,0 +1,82 @@
+{
+  "id": 823636525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.520734,41.095026,-73.520734,41.095026",
+    "geom:latitude":41.095026,
+    "geom:longitude":-73.520734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Carroll St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 348 2151",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17QAlDaZub96TlEXlMskZG_41.095026_-73.520734@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442773,
+    "wof:geomhash":"e2b807bcd35c9456dfe1c3a7fe72da39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823636525
+        }
+    ],
+    "wof:id":823636525,
+    "wof:lastmodified":1466423668,
+    "wof:name":"Jansson & Assoc Master Builder",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.520734,
+    41.095026,
+    -73.520734,
+    41.095026
+],
+  "geometry": {"coordinates":[-73.520734,41.095026],"type":"Point"}
+}

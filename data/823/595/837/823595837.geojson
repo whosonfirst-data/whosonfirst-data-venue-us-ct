@@ -1,0 +1,66 @@
+{
+  "id": 823595837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.072907,41.674098,-73.072907,41.674098",
+    "geom:latitude":41.674098,
+    "geom:longitude":-73.072907,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 E Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 8799",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cRqeKsLGxOKgHcVVQm5jF_41.674098_-73.072907@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441788,
+    "wof:geomhash":"8f97c292a37613682cc3328585f7eb32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823595837
+        }
+    ],
+    "wof:id":823595837,
+    "wof:lastmodified":1466423224,
+    "wof:name":"Mark A Beebe Dr",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.072907,
+    41.674098,
+    -73.072907,
+    41.674098
+],
+  "geometry": {"coordinates":[-73.072907,41.674098],"type":"Point"}
+}

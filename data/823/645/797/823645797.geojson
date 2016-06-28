@@ -1,0 +1,66 @@
+{
+  "id": 823645797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107856,41.42139,-73.107856,41.42139",
+    "geom:latitude":41.42139,
+    "geom:longitude":-73.107856,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"260 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 4567",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58UaiiIxYw9YIz2YScdMZ6_41.421390_-73.107856@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442985,
+    "wof:geomhash":"2e4fec77391582c6aca6359c7f844b23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823645797
+        }
+    ],
+    "wof:id":823645797,
+    "wof:lastmodified":1466423689,
+    "wof:name":"Oxford Pharmacy",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.107856,
+    41.42139,
+    -73.107856,
+    41.42139
+],
+  "geometry": {"coordinates":[-73.107856,41.42139],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824085571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.922827,41.668742,-72.922827,41.668742",
+    "geom:latitude":41.668742,
+    "geom:longitude":-72.922827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Middle St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 583 3354",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bva4RM5l9wJsN9HTyS9av_41.668742_-72.922827@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453987,
+    "wof:geomhash":"32e83b10cbec34702f3bd604551841cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085571
+        }
+    ],
+    "wof:id":824085571,
+    "wof:lastmodified":1466422710,
+    "wof:name":"Spiga Doro Pizza & Deli",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.922827,
+    41.668742,
+    -72.922827,
+    41.668742
+],
+  "geometry": {"coordinates":[-72.922827,41.668742],"type":"Point"}
+}

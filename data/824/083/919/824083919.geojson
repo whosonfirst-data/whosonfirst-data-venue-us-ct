@@ -1,0 +1,71 @@
+{
+  "id": 824083919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.847542,41.811884,-72.847542,41.811884",
+    "geom:latitude":41.811884,
+    "geom:longitude":-72.847542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"192 W Main St Ste 3",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 674 9398",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gaB6EQ5TDbeWiBXX1Vt8q_41.811884_-72.847542@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453942,
+    "wof:geomhash":"2ac0c4907dc8fa23b7d6cb2bda6c5abe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824083919
+        }
+    ],
+    "wof:id":824083919,
+    "wof:lastmodified":1466422503,
+    "wof:name":"Avon Master Pizza",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.847542,
+    41.811884,
+    -72.847542,
+    41.811884
+],
+  "geometry": {"coordinates":[-72.847542,41.811884],"type":"Point"}
+}

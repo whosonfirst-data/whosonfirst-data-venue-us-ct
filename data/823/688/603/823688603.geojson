@@ -1,0 +1,75 @@
+{
+  "id": 823688603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.112808,41.536514,-72.112808,41.536514",
+    "geom:latitude":41.536514,
+    "geom:longitude":-72.112808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"138 Cranberry Pond Rd",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 885 0681",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CcAvr8kbcPdX8GR9wSEQx_41.536514_-72.112808@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443982,
+    "wof:geomhash":"dae67d508fbc3659af19b9493aa38aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823688603
+        }
+    ],
+    "wof:id":823688603,
+    "wof:lastmodified":1466424120,
+    "wof:name":"Derosier Electric",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.112808,
+    41.536514,
+    -72.112808,
+    41.536514
+],
+  "geometry": {"coordinates":[-72.112808,41.536514],"type":"Point"}
+}

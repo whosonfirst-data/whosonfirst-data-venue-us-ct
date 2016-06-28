@@ -1,0 +1,81 @@
+{
+  "id": 823720985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.618096,41.932031,-72.618096,41.932031",
+    "geom:latitude":41.932031,
+    "geom:longitude":-72.618096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 N Main St",
+    "sg:city":"East Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 8998",
+    "sg:postcode":"06088",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cow0Dck7LKeZCVZCQXZ15_41.932031_-72.618096@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444670,
+    "wof:geomhash":"ea5e581f51fcf58a6c8677c9422335ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823720985
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823720985
+        }
+    ],
+    "wof:id":823720985,
+    "wof:lastmodified":1466424499,
+    "wof:name":"Christmas Electric Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.618096,
+    41.932031,
+    -72.618096,
+    41.932031
+],
+  "geometry": {"coordinates":[-72.61809599999999,41.932031],"type":"Point"}
+}

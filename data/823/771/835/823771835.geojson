@@ -1,0 +1,85 @@
+{
+  "id": 823771835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057008,41.311699,-73.057008,41.311699",
+    "geom:latitude":41.311699,
+    "geom:longitude":-73.057008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1022 Willard Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 795 8759",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tennis",
+        "court"
+    ],
+    "sg:website":"www.newporttennisinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19VJIE8jM5YLuYWuDI03jB_41.311699_-73.057008@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445865,
+    "wof:geomhash":"f84a4744aa01abbe9b3d97d2753dd420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823771835
+        }
+    ],
+    "wof:id":823771835,
+    "wof:lastmodified":1466424955,
+    "wof:name":"Newport Tennis Inc",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "court"
+    ]
+},
+  "bbox": [
+    -73.057008,
+    41.311699,
+    -73.057008,
+    41.311699
+],
+  "geometry": {"coordinates":[-73.057008,41.311699],"type":"Point"}
+}

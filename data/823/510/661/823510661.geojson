@@ -1,0 +1,77 @@
+{
+  "id": 823510661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725704,41.723321,-72.725704,41.723321",
+    "geom:latitude":41.723321,
+    "geom:longitude":-72.725704,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 South St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06110",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878037,
+        102191575,
+        404496005,
+        85633793,
+        85931011,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F6zaADePMwfj5VSZkQYBI_41.723321_-72.725704@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439805,
+    "wof:geomhash":"8ae044d3fd58ff8a7bc38cf50134f097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496005,
+            "locality_id":85931011,
+            "neighbourhood_id":85878037,
+            "region_id":85688629,
+            "venue_id":823510661
+        }
+    ],
+    "wof:id":823510661,
+    "wof:lastmodified":1466421960,
+    "wof:name":"South Street Automotive Inc",
+    "wof:parent_id":85878037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.725704,
+    41.723321,
+    -72.725704,
+    41.723321
+],
+  "geometry": {"coordinates":[-72.72570399999999,41.723321],"type":"Point"}
+}

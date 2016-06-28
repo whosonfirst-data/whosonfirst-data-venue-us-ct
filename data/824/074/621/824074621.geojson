@@ -1,0 +1,78 @@
+{
+  "id": 824074621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.74474,41.760561,-72.74474,41.760561",
+    "geom:latitude":41.760561,
+    "geom:longitude":-72.74474,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Lasalle Rd",
+    "sg:city":"West Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/west-hartford/108524-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 523 5944",
+    "sg:postcode":"06107",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868763,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iWWjQmkgfbFUqNdHELO9h_41.760561_-72.744740@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453729,
+    "wof:geomhash":"fd35ae44777a99a36fd6cf8d8eb8039d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85868763,
+            "region_id":85688629,
+            "venue_id":824074621
+        }
+    ],
+    "wof:id":824074621,
+    "wof:lastmodified":1466422427,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85868763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -72.74474,
+    41.760561,
+    -72.74474,
+    41.760561
+],
+  "geometry": {"coordinates":[-72.74473999999999,41.760561],"type":"Point"}
+}

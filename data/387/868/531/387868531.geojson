@@ -2,13 +2,14 @@
   "id": 387868531,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.702574,41.074858,-73.702574,41.074858",
     "geom:latitude":41.074858,
     "geom:longitude":-73.702574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1100 King St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":387868531,
-    "wof:lastmodified":1449056290,
+    "wof:lastmodified":1466421108,
     "wof:name":"Oak Hill Platinum Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.702574,41.074858,-73.702574,41.074858],
+  "bbox": [
+    -73.702574,
+    41.074858,
+    -73.702574,
+    41.074858
+],
   "geometry": {"coordinates":[-73.702574,41.074858],"type":"Point"}
 }

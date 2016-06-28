@@ -1,0 +1,83 @@
+{
+  "id": 823873729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.694782,41.800695,-72.694782,41.800695",
+    "geom:latitude":41.800695,
+    "geom:longitude":-72.694782,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Blue Hills Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06112",
+    "sg:province":"CT",
+    "sg:tags":[
+        "rehabilitation",
+        "center",
+        "drug",
+        "alcohol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806499,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xKwI8zMtoQrHP85cI7XwL_41.800695_-72.694782@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448819,
+    "wof:geomhash":"129bc86d59281b3b08e88c58f2bd1c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85806499,
+            "region_id":85688629,
+            "venue_id":823873729
+        }
+    ],
+    "wof:id":823873729,
+    "wof:lastmodified":1466425790,
+    "wof:name":"Blueridge Center",
+    "wof:parent_id":85806499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "center",
+        "drug",
+        "alcohol"
+    ]
+},
+  "bbox": [
+    -72.694782,
+    41.800695,
+    -72.694782,
+    41.800695
+],
+  "geometry": {"coordinates":[-72.694782,41.800695],"type":"Point"}
+}

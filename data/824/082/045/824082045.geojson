@@ -1,0 +1,82 @@
+{
+  "id": 824082045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19853,41.194309,-73.19853,41.194309",
+    "geom:latitude":41.194309,
+    "geom:longitude":-73.19853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2308 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bridgeport/18603-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 3030",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rLyCAZzvttceWDIVGy8gv_41.194507_-73.198830@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453897,
+    "wof:geomhash":"0b05b358458ede99e7faca1d01243be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":824082045
+        }
+    ],
+    "wof:id":824082045,
+    "wof:lastmodified":1466422369,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.19853,
+    41.194309,
+    -73.19853,
+    41.194309
+],
+  "geometry": {"coordinates":[-73.19853000000001,41.194309],"type":"Point"}
+}

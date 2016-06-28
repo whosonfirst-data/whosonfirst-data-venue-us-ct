@@ -1,0 +1,85 @@
+{
+  "id": 824089105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.889987,41.701011,-72.889987,41.701011",
+    "geom:latitude":41.701011,
+    "geom:longitude":-72.889987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"376 Scott Swamp Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 677 0309",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet",
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"www.advancedvetcarehome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X3mE9j1P6DMfA43LvrRql_41.701011_-72.889987@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454069,
+    "wof:geomhash":"c2bb48220311e867049b8e3465557e8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824089105
+        }
+    ],
+    "wof:id":824089105,
+    "wof:lastmodified":1466422813,
+    "wof:name":"Advanced Veterinary Care",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.889987,
+    41.701011,
+    -72.889987,
+    41.701011
+],
+  "geometry": {"coordinates":[-72.889987,41.701011],"type":"Point"}
+}

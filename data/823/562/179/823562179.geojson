@@ -1,0 +1,73 @@
+{
+  "id": 823562179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.85374,41.90123,-72.85374,41.90123",
+    "geom:latitude":41.90123,
+    "geom:longitude":-72.85374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Wyngate",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 1736",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "public",
+        "relations"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819335,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FgmpQ8F7zBFq1dnE0sHcf_41.901230_-72.853740@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440990,
+    "wof:geomhash":"cc12b0be14b163e0c0631e1f6f5e0c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85819335,
+            "region_id":85688629,
+            "venue_id":823562179
+        }
+    ],
+    "wof:id":823562179,
+    "wof:lastmodified":1466422695,
+    "wof:name":"Lord & Pike Inc",
+    "wof:parent_id":85819335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "relations"
+    ]
+},
+  "bbox": [
+    -72.85374,
+    41.90123,
+    -72.85374,
+    41.90123
+],
+  "geometry": {"coordinates":[-72.85374,41.90123],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824004955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101395,41.824257,-73.101395,41.824257",
+    "geom:latitude":41.824257,
+    "geom:longitude":-73.101395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"245 Alvord Park Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DZ4JRV9htsfvkrc0pegIL_41.824257_-73.101395@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452098,
+    "wof:geomhash":"9e36c63d2ad6e27f42da72594bef85c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824004955
+        }
+    ],
+    "wof:id":824004955,
+    "wof:lastmodified":1466421202,
+    "wof:name":"Endoscopy Center NW Conn LLC",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.101395,
+    41.824257,
+    -73.101395,
+    41.824257
+],
+  "geometry": {"coordinates":[-73.101395,41.824257],"type":"Point"}
+}

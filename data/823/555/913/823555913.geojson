@@ -1,0 +1,71 @@
+{
+  "id": 823555913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.647956,41.854863,-72.647956,41.854863",
+    "geom:latitude":41.854863,
+    "geom:longitude":-72.647956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Poquonock Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MR6ClphpPgiSgD72d1usS_41.854863_-72.647956@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440837,
+    "wof:geomhash":"41b1ca472cc6a0feaac930de41182956",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823555913
+        }
+    ],
+    "wof:id":823555913,
+    "wof:lastmodified":1466422561,
+    "wof:name":"Windsor Barbers",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.647956,
+    41.854863,
+    -72.647956,
+    41.854863
+],
+  "geometry": {"coordinates":[-72.64795599999999,41.854863],"type":"Point"}
+}

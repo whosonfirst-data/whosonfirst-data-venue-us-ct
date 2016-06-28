@@ -1,0 +1,73 @@
+{
+  "id": 823930771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.918872,41.378283,-72.918872,41.378283",
+    "geom:latitude":41.378283,
+    "geom:longitude":-72.918872,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"905 Mix Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 7310",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kWwqEY3oILfm0DsvlKsPZ_41.378283_-72.918872@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450260,
+    "wof:geomhash":"4c58e969926491f37f675100395a323a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823930771
+        }
+    ],
+    "wof:id":823930771,
+    "wof:lastmodified":1466426333,
+    "wof:name":"M A Scanlon",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -72.918872,
+    41.378283,
+    -72.918872,
+    41.378283
+],
+  "geometry": {"coordinates":[-72.91887199999999,41.378283],"type":"Point"}
+}

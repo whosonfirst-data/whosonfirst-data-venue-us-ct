@@ -1,0 +1,83 @@
+{
+  "id": 823470127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.166267,41.180842,-73.166267,41.180842",
+    "geom:latitude":41.180842,
+    "geom:longitude":-73.166267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1035 Central Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 7681",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "not",
+        "including",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836801,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vbHH1NXMe0uaS7V087M4J_41.180842_-73.166267@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438840,
+    "wof:geomhash":"b8f815eef7295136278c0e1ed420419e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85836801,
+            "region_id":85688629,
+            "venue_id":823470127
+        }
+    ],
+    "wof:id":823470127,
+    "wof:lastmodified":1466421238,
+    "wof:name":"Bridgeport Fire Dept Inc",
+    "wof:parent_id":85836801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "not",
+        "including",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -73.166267,
+    41.180842,
+    -73.166267,
+    41.180842
+],
+  "geometry": {"coordinates":[-73.166267,41.180842],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 823465753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.38101,41.215068,-73.38101,41.215068",
+    "geom:latitude":41.215068,
+    "geom:longitude":-73.38101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 School Rd",
+    "sg:city":"Weston",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 291 1600",
+    "sg:postcode":"06883",
+    "sg:province":"CT",
+    "sg:website":"www.westonk12-ct.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xg8cRZgc5pZvp0ajiWOpC_41.215068_-73.381010@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438740,
+    "wof:geomhash":"4cc0e3378082c36e3ab5584c03862d37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823465753
+        }
+    ],
+    "wof:id":823465753,
+    "wof:lastmodified":1466421124,
+    "wof:name":"Weston High School Inc",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.38101,
+    41.215068,
+    -73.38101,
+    41.215068
+],
+  "geometry": {"coordinates":[-73.38101,41.215068],"type":"Point"}
+}

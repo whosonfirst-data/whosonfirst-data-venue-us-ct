@@ -1,0 +1,71 @@
+{
+  "id": 823695179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.545722,41.765141,-72.545722,41.765141",
+    "geom:latitude":41.765141,
+    "geom:longitude":-72.545722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"469 Hartford Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 643 0703",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pD4472TD1D4rnHEufeJvA_41.765141_-72.545722@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444136,
+    "wof:geomhash":"b449ae1a698645f07dff2e6d40c4010e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823695179
+        }
+    ],
+    "wof:id":823695179,
+    "wof:lastmodified":1466424187,
+    "wof:name":"Super Convenience Store",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent"
+    ]
+},
+  "bbox": [
+    -72.545722,
+    41.765141,
+    -72.545722,
+    41.765141
+],
+  "geometry": {"coordinates":[-72.545722,41.765141],"type":"Point"}
+}

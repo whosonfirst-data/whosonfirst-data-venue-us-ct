@@ -1,0 +1,75 @@
+{
+  "id": 823649263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.318404,41.229197,-73.318404,41.229197",
+    "geom:latitude":41.229197,
+    "geom:longitude":-73.318404,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"357 Black Rock Tpke",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 2049",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85803807,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jg1uWqaosxiQnqcWsRfN2_41.229197_-73.318404@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443067,
+    "wof:geomhash":"84a43294d99986845a1548eb16464ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85803807,
+            "region_id":85688629,
+            "venue_id":823649263
+        }
+    ],
+    "wof:id":823649263,
+    "wof:lastmodified":1466423811,
+    "wof:name":"Old Blue Bird Garage Inc",
+    "wof:parent_id":85803807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.318404,
+    41.229197,
+    -73.318404,
+    41.229197
+],
+  "geometry": {"coordinates":[-73.318404,41.229197],"type":"Point"}
+}

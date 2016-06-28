@@ -1,0 +1,87 @@
+{
+  "id": 823577231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227945,41.147557,-73.227945,41.147557",
+    "geom:latitude":41.147557,
+    "geom:longitude":-73.227945,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Sailors Ln",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 696 0044",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YuPvnAYOvcrBWSrcdwesz_41.147557_-73.227945@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441356,
+    "wof:geomhash":"38e50d8a8516d46c53bee484b4c0fb5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823577231
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823577231
+        }
+    ],
+    "wof:id":823577231,
+    "wof:lastmodified":1466423022,
+    "wof:name":"Unique Interiors",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -73.227945,
+    41.147557,
+    -73.227945,
+    41.147557
+],
+  "geometry": {"coordinates":[-73.22794500000001,41.147557],"type":"Point"}
+}

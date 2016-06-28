@@ -1,0 +1,83 @@
+{
+  "id": 824115167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.5113,41.093359,-73.5113,41.093359",
+    "geom:latitude":41.093359,
+    "geom:longitude":-73.5113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 Hoyt St",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Monument",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 7955",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "statuary"
+    ],
+    "sg:website":"http://www.ctmonumentgroup.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55r7f6hglCTJHYeK38y1qH_41.093359_-73.511300@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454660,
+    "wof:geomhash":"2c5cd45721d7a4ff2f58c7af12e9a9c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":824115167
+        }
+    ],
+    "wof:id":824115167,
+    "wof:lastmodified":1466423243,
+    "wof:name":"Connecticut Monument Group",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "statuary"
+    ]
+},
+  "bbox": [
+    -73.5113,
+    41.093359,
+    -73.5113,
+    41.093359
+],
+  "geometry": {"coordinates":[-73.51130000000001,41.093359],"type":"Point"}
+}

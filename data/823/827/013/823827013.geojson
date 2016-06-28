@@ -1,0 +1,73 @@
+{
+  "id": 823827013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.909683,41.383647,-72.909683,41.383647",
+    "geom:latitude":41.383647,
+    "geom:longitude":-72.909683,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Colony St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 9070",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "architecture",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tmcJdSK0x6HP20KnAVOMG_41.383647_-72.909683@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447520,
+    "wof:geomhash":"12bbdc21b5df505445628a9c61580210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823827013
+        }
+    ],
+    "wof:id":823827013,
+    "wof:lastmodified":1466425410,
+    "wof:name":"New England Lawn Service",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architecture",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -72.909683,
+    41.383647,
+    -72.909683,
+    41.383647
+],
+  "geometry": {"coordinates":[-72.909683,41.383647],"type":"Point"}
+}

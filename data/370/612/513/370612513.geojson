@@ -2,13 +2,14 @@
   "id": 370612513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630723,41.02944,-73.630723,41.02944",
     "geom:latitude":41.02944,
     "geom:longitude":-73.630723,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Dearfield Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370612513,
-    "wof:lastmodified":1449030592,
+    "wof:lastmodified":1466421094,
     "wof:name":"Alfred J Padilla MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-73.630723,41.02944,-73.630723,41.02944],
+  "bbox": [
+    -73.630723,
+    41.02944,
+    -73.630723,
+    41.02944
+],
   "geometry": {"coordinates":[-73.630723,41.02944],"type":"Point"}
 }

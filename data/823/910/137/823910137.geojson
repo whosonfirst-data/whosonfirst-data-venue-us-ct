@@ -1,0 +1,71 @@
+{
+  "id": 823910137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186725,41.332539,-73.186725,41.332539",
+    "geom:latitude":41.332539,
+    "geom:longitude":-73.186725,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 William Henry Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 1366",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GhknjYinjdI2XPqibLpGU_41.332539_-73.186725@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449748,
+    "wof:geomhash":"d71dc336a1e0bc980c0ad718865173f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823910137
+        }
+    ],
+    "wof:id":823910137,
+    "wof:lastmodified":1466426087,
+    "wof:name":"Mastroyannis Painting",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.186725,
+    41.332539,
+    -73.186725,
+    41.332539
+],
+  "geometry": {"coordinates":[-73.186725,41.332539],"type":"Point"}
+}

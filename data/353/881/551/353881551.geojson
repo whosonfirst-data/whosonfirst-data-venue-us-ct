@@ -2,13 +2,14 @@
   "id": 353881551,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.509256,41.301059,-72.509256,41.301059",
     "geom:latitude":41.301059,
     "geom:longitude":-72.509256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"311 Edws Blvd",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353881551,
-    "wof:lastmodified":1449019746,
+    "wof:lastmodified":1466421133,
     "wof:name":"Lafayette Liquor Store",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "wine"
     ]
 },
-  "bbox": [-72.509256,41.301059,-72.509256,41.301059],
-  "geometry": {"coordinates":[-72.509256,41.301059],"type":"Point"}
+  "bbox": [
+    -72.509256,
+    41.301059,
+    -72.509256,
+    41.301059
+],
+  "geometry": {"coordinates":[-72.50925599999999,41.301059],"type":"Point"}
 }

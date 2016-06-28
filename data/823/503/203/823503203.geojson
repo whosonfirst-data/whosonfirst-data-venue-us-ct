@@ -1,0 +1,66 @@
+{
+  "id": 823503203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.801759,41.720497,-72.801759,41.720497",
+    "geom:latitude":41.720497,
+    "geom:longitude":-72.801759,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Gail Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 677 8085",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H9LGuJhRpdme9hDYjINdg_41.720497_-72.801759@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439648,
+    "wof:geomhash":"03ca712d1df0d51f65f4a4e6c19b5431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823503203
+        }
+    ],
+    "wof:id":823503203,
+    "wof:lastmodified":1466421661,
+    "wof:name":"M L Consultants",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.801759,
+    41.720497,
+    -72.801759,
+    41.720497
+],
+  "geometry": {"coordinates":[-72.801759,41.720497],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823629455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.911735,41.334471,-72.911735,41.334471",
+    "geom:latitude":41.334471,
+    "geom:longitude":-72.911735,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"945 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 777 1142",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "center",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tNzmUikbceoOgEGMg7s55_41.334471_-72.911735@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442618,
+    "wof:geomhash":"0b92ef1f1946d84278c9e0651e6463fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823629455
+        }
+    ],
+    "wof:id":823629455,
+    "wof:lastmodified":1466423740,
+    "wof:name":"Whitney Water Center",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.911735,
+    41.334471,
+    -72.911735,
+    41.334471
+],
+  "geometry": {"coordinates":[-72.91173499999999,41.334471],"type":"Point"}
+}

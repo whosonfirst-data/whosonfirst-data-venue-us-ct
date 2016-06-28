@@ -1,0 +1,104 @@
+{
+  "id": 824081903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.935213,41.338784,-72.935213,41.338784",
+    "geom:latitude":41.338784,
+    "geom:longitude":-72.935213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"938 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/129881-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 786 4722",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rtwt3qEF2b3ECaWp8Jung_41.339139_-72.935230@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453894,
+    "wof:geomhash":"a9a5e783156b935a7a5b8cbde4cf8217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824081903
+        }
+    ],
+    "wof:id":824081903,
+    "wof:lastmodified":1466422621,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.935213,
+    41.338784,
+    -72.935213,
+    41.338784
+],
+  "geometry": {"coordinates":[-72.935213,41.338784],"type":"Point"}
+}

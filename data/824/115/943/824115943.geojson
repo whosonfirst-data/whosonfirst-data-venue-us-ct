@@ -1,0 +1,87 @@
+{
+  "id": 824115943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.645721,41.01844,-73.645721,41.01844",
+    "geom:latitude":41.01844,
+    "geom:longitude":-73.645721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 W Putnam Ave",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 869 6888",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"https://www.chase.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uXbEIxXFQx3PCzlKFUs7D_41.018440_-73.645721@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454675,
+    "wof:geomhash":"415ba33e9544aa56393e841a2ca0d676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824115943
+        }
+    ],
+    "wof:id":824115943,
+    "wof:lastmodified":1466423186,
+    "wof:name":"Chase",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -73.645721,
+    41.01844,
+    -73.645721,
+    41.01844
+],
+  "geometry": {"coordinates":[-73.64572099999999,41.01844],"type":"Point"}
+}

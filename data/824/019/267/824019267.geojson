@@ -1,0 +1,90 @@
+{
+  "id": 824019267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.408108,41.117187,-73.408108,41.117187",
+    "geom:latitude":41.117187,
+    "geom:longitude":-73.408108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 East Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 831 2939",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xCb9YvhDBpl5MGNrcCXiB_41.117187_-73.408108@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452406,
+    "wof:geomhash":"66f432b1aa21bcc85145f5640fd50e6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":824019267
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":824019267
+        }
+    ],
+    "wof:id":824019267,
+    "wof:lastmodified":1466421523,
+    "wof:name":"Priority Care Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -73.408108,
+    41.117187,
+    -73.408108,
+    41.117187
+],
+  "geometry": {"coordinates":[-73.408108,41.117187],"type":"Point"}
+}

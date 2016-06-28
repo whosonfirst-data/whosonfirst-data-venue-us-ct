@@ -1,0 +1,71 @@
+{
+  "id": 823702063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528318,41.356097,-73.528318,41.356097",
+    "geom:latitude":41.356097,
+    "geom:longitude":-73.528318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Dlhy Ct",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844499,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03sfWLaWwlFuf2r2dC77bV_41.356097_-73.528318@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444281,
+    "wof:geomhash":"516944f0cb809ab19db3e17bc6251ef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844499,
+            "region_id":85688629,
+            "venue_id":823702063
+        }
+    ],
+    "wof:id":823702063,
+    "wof:lastmodified":1466424217,
+    "wof:name":"Ridgefield Roover Inc",
+    "wof:parent_id":85844499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.528318,
+    41.356097,
+    -73.528318,
+    41.356097
+],
+  "geometry": {"coordinates":[-73.528318,41.356097],"type":"Point"}
+}

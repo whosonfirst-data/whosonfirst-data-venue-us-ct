@@ -1,0 +1,75 @@
+{
+  "id": 823628445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211931,41.159341,-73.211931,41.159341",
+    "geom:latitude":41.159341,
+    "geom:longitude":-73.211931,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 Bostwick Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 7697",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QknS5VFD9sRRPf2IgGDSR_41.159341_-73.211931@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442598,
+    "wof:geomhash":"7c27089b6b447b2a1cc5c3d8869589c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823628445
+        }
+    ],
+    "wof:id":823628445,
+    "wof:lastmodified":1466423576,
+    "wof:name":"Bridgeport Water Pollution",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.211931,
+    41.159341,
+    -73.211931,
+    41.159341
+],
+  "geometry": {"coordinates":[-73.21193100000001,41.159341],"type":"Point"}
+}

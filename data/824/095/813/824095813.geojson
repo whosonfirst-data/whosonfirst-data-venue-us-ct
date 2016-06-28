@@ -1,0 +1,91 @@
+{
+  "id": 824095813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.675707,41.739389,-72.675707,41.739389",
+    "geom:latitude":41.739389,
+    "geom:longitude":-72.675707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"381 Franklin Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 296 3441",
+    "sg:postcode":"06114",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian",
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ],
+    "sg:website":"http://www.tomad.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878029,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Do2Memdli0yryj7m0P7To_41.739389_-72.675707@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454241,
+    "wof:geomhash":"28b801bf76dd011d6e01ad3a0f29de67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878029,
+            "region_id":85688629,
+            "venue_id":824095813
+        }
+    ],
+    "wof:id":824095813,
+    "wof:lastmodified":1466422935,
+    "wof:name":"Casa Mia Ristorante",
+    "wof:parent_id":85878029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "banquet",
+        "hall",
+        "reception",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.675707,
+    41.739389,
+    -72.675707,
+    41.739389
+],
+  "geometry": {"coordinates":[-72.675707,41.739389],"type":"Point"}
+}

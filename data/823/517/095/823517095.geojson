@@ -1,0 +1,75 @@
+{
+  "id": 823517095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.045737,41.773597,-73.045737,41.773597",
+    "geom:latitude":41.773597,
+    "geom:longitude":-73.045737,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"158 Burlington Rd",
+    "sg:city":"Harwinton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 485 9336",
+    "sg:postcode":"06791",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RqAAblLj1jw3ZE7RAwdvx_41.773597_-73.045737@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439955,
+    "wof:geomhash":"8a8bde6695628cce4c60fbf6d0ecb975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823517095
+        }
+    ],
+    "wof:id":823517095,
+    "wof:lastmodified":1466421758,
+    "wof:name":"Harwinton Fire Department Inc",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -73.045737,
+    41.773597,
+    -73.045737,
+    41.773597
+],
+  "geometry": {"coordinates":[-73.045737,41.773597],"type":"Point"}
+}

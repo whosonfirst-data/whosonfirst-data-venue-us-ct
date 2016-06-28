@@ -1,0 +1,71 @@
+{
+  "id": 823812033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592877,41.92134,-72.592877,41.92134",
+    "geom:latitude":41.92134,
+    "geom:longitude":-72.592877,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Craftsman Rd",
+    "sg:city":"East Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06088",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10FJ4XstXtoyRWw5omRofF_41.921340_-72.592877@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447071,
+    "wof:geomhash":"4b22eb428fcee187e24b549a9eb13f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823812033
+        }
+    ],
+    "wof:id":823812033,
+    "wof:lastmodified":1466425386,
+    "wof:name":"Davids Auto Repair",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.592877,
+    41.92134,
+    -72.592877,
+    41.92134
+],
+  "geometry": {"coordinates":[-72.592877,41.92134],"type":"Point"}
+}

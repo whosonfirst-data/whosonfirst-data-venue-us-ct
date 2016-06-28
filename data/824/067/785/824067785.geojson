@@ -1,0 +1,83 @@
+{
+  "id": 824067785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.876099,41.8237,-72.876099,41.8237",
+    "geom:latitude":41.8237,
+    "geom:longitude":-72.876099,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Cheryl Dr",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 0747",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "car",
+        "used",
+        "foreign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06PJ6GeaD4HylQRnar3VMQ_41.823712_-72.876802@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453562,
+    "wof:geomhash":"1aa9abfb1dff0b582e484147aea158c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824067785
+        }
+    ],
+    "wof:id":824067785,
+    "wof:lastmodified":1466422399,
+    "wof:name":"Valley Imported Auto Inc",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "car",
+        "used",
+        "foreign"
+    ]
+},
+  "bbox": [
+    -72.876099,
+    41.8237,
+    -72.876099,
+    41.8237
+],
+  "geometry": {"coordinates":[-72.876099,41.8237],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 824073343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.567937,41.767576,-72.567937,41.767576",
+    "geom:latitude":41.767576,
+    "geom:longitude":-72.567937,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"171 Spencer St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/manchester/129912-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 646 9129",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wXu7QJF4yT9jdDSJb7Xja_41.767576_-72.567937@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453703,
+    "wof:geomhash":"848e3f9f9211cda2e60615246689f269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":824073343
+        }
+    ],
+    "wof:id":824073343,
+    "wof:lastmodified":1466422417,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.567937,
+    41.767576,
+    -72.567937,
+    41.767576
+],
+  "geometry": {"coordinates":[-72.567937,41.767576],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823533865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.905423,41.401031,-72.905423,41.401031",
+    "geom:latitude":41.401031,
+    "geom:longitude":-72.905423,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Knob Hill Dr",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 7089",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Sl4NJxcNz2pj50hH2zZZI_41.401031_-72.905423@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440332,
+    "wof:geomhash":"99d04bc51072c71283d975ed1cb61a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823533865
+        }
+    ],
+    "wof:id":823533865,
+    "wof:lastmodified":1466422284,
+    "wof:name":"Knob Hill Realty LLC",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.905423,
+    41.401031,
+    -72.905423,
+    41.401031
+],
+  "geometry": {"coordinates":[-72.905423,41.401031],"type":"Point"}
+}

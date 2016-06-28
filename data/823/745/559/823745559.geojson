@@ -1,0 +1,66 @@
+{
+  "id": 823745559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.790559,41.692695,-72.790559,41.692695",
+    "geom:latitude":41.692695,
+    "geom:longitude":-72.790559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"572 Farmington Ave",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 233 5855",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31LMZPnVyUq1OIv5cuFVFO_41.692695_-72.790559@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445275,
+    "wof:geomhash":"a050a1a00c48305aa469a69803ebadca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823745559
+        }
+    ],
+    "wof:id":823745559,
+    "wof:lastmodified":1466424622,
+    "wof:name":"Alley",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.790559,
+    41.692695,
+    -72.790559,
+    41.692695
+],
+  "geometry": {"coordinates":[-72.790559,41.692695],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823491831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597053,41.798864,-72.597053,41.798864",
+    "geom:latitude":41.798864,
+    "geom:longitude":-72.597053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"73 Syracuse Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61t3qWhN3k6SOFBphHdEl1_41.798864_-72.597053@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439352,
+    "wof:geomhash":"c82fd41e47f739e120ae8035437231e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823491831
+        }
+    ],
+    "wof:id":823491831,
+    "wof:lastmodified":1466421635,
+    "wof:name":"Charles Automotive",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.597053,
+    41.798864,
+    -72.597053,
+    41.798864
+],
+  "geometry": {"coordinates":[-72.597053,41.798864],"type":"Point"}
+}

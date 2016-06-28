@@ -1,0 +1,71 @@
+{
+  "id": 823616737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.83236,41.722504,-72.83236,41.722504",
+    "geom:latitude":41.722504,
+    "geom:longitude":-72.83236,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Mill Ln",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yi39dxmwshz227CzFoic2_41.722504_-72.832360@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442313,
+    "wof:geomhash":"5f62dda018647c82e11a2a9fcddf20ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823616737
+        }
+    ],
+    "wof:id":823616737,
+    "wof:lastmodified":1466423527,
+    "wof:name":"Leonard E Forner MD",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.83236,
+    41.722504,
+    -72.83236,
+    41.722504
+],
+  "geometry": {"coordinates":[-72.83235999999999,41.722504],"type":"Point"}
+}

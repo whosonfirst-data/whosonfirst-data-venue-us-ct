@@ -1,0 +1,71 @@
+{
+  "id": 823841355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.90447,41.393393,-72.90447,41.393393",
+    "geom:latitude":41.393393,
+    "geom:longitude":-72.90447,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"244 Evergreen Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H7w18co33EZNKhCoB2uKC_41.393393_-72.904470@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447975,
+    "wof:geomhash":"5fdb2b1ab7d6176715deb36cb96a74dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823841355
+        }
+    ],
+    "wof:id":823841355,
+    "wof:lastmodified":1466425611,
+    "wof:name":"L&L Cleaning Service",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.90447,
+    41.393393,
+    -72.90447,
+    41.393393
+],
+  "geometry": {"coordinates":[-72.90447,41.393393],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823573099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081353,41.493496,-73.081353,41.493496",
+    "geom:latitude":41.493496,
+    "geom:longitude":-73.081353,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"562 Rubber Ave",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 723 7187",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834457,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ruG8BvTXw9Zj95tsoxYbR_41.493496_-73.081353@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441253,
+    "wof:geomhash":"ea713bbb4618b646030433e54e632822",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85834457,
+            "region_id":85688629,
+            "venue_id":823573099
+        }
+    ],
+    "wof:id":823573099,
+    "wof:lastmodified":1466422794,
+    "wof:name":"Naugatuck Veterinary Hospital",
+    "wof:parent_id":85834457,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.081353,
+    41.493496,
+    -73.081353,
+    41.493496
+],
+  "geometry": {"coordinates":[-73.08135299999999,41.493496],"type":"Point"}
+}

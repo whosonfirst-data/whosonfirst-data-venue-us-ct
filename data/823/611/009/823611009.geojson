@@ -1,0 +1,71 @@
+{
+  "id": 823611009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.4826,41.46615,-73.4826,41.46615",
+    "geom:latitude":41.46615,
+    "geom:longitude":-73.4826,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Cottontail Rd",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 746 9900",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85806093,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ffzDLLv88hLzbTkSfnGeT_41.466150_-73.482600@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442167,
+    "wof:geomhash":"d9be8acd2da896b6883be280654381b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85806093,
+            "region_id":85688629,
+            "venue_id":823611009
+        }
+    ],
+    "wof:id":823611009,
+    "wof:lastmodified":1466423416,
+    "wof:name":"Boccaccios",
+    "wof:parent_id":85806093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.4826,
+    41.46615,
+    -73.4826,
+    41.46615
+],
+  "geometry": {"coordinates":[-73.48260000000001,41.46615],"type":"Point"}
+}

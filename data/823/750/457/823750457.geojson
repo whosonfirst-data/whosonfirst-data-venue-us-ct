@@ -1,0 +1,66 @@
+{
+  "id": 823750457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.042668,41.673471,-73.042668,41.673471",
+    "geom:latitude":41.673471,
+    "geom:longitude":-73.042668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Todd Hollow Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 583 5438",
+    "sg:postcode":"06782",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VnsdF477FmSO7M9oVxwkJ_41.673471_-73.042668@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445393,
+    "wof:geomhash":"1e5fb3c14c43f324ddc5c8718b6208bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823750457
+        }
+    ],
+    "wof:id":823750457,
+    "wof:lastmodified":1466424729,
+    "wof:name":"Ruff Cuts",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.042668,
+    41.673471,
+    -73.042668,
+    41.673471
+],
+  "geometry": {"coordinates":[-73.04266800000001,41.673471],"type":"Point"}
+}

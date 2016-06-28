@@ -1,0 +1,83 @@
+{
+  "id": 824040017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.115779,41.79111,-73.115779,41.79111",
+    "geom:latitude":41.79111,
+    "geom:longitude":-73.115779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"109 Grant St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 5786",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kwjq9ijGQzLH9ozkNGEVl_41.791110_-73.115779@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452931,
+    "wof:geomhash":"fec96a6498c166978beabafd72a2b81a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":824040017
+        }
+    ],
+    "wof:id":824040017,
+    "wof:lastmodified":1466421849,
+    "wof:name":"Joseph A Centrella",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.115779,
+    41.79111,
+    -73.115779,
+    41.79111
+],
+  "geometry": {"coordinates":[-73.115779,41.79111],"type":"Point"}
+}

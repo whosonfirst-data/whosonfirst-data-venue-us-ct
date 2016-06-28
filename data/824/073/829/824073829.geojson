@@ -1,0 +1,91 @@
+{
+  "id": 824073829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.56788,41.847589,-72.56788,41.847589",
+    "geom:latitude":41.847589,
+    "geom:longitude":-72.56788,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"855 Sullivan Ave",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/south-windsor/130060-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 7989",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85818997,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UNIB6je7UG0msC5N2OQBo_41.847589_-72.567880@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453716,
+    "wof:geomhash":"dbc7c3b6a4637d279de4a8094911c378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85818997,
+            "region_id":85688629,
+            "venue_id":824073829
+        }
+    ],
+    "wof:id":824073829,
+    "wof:lastmodified":1466422451,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85818997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.56788,
+    41.847589,
+    -72.56788,
+    41.847589
+],
+  "geometry": {"coordinates":[-72.56788,41.847589],"type":"Point"}
+}

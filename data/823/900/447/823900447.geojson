@@ -1,0 +1,71 @@
+{
+  "id": 823900447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.596686,41.734558,-72.596686,41.734558",
+    "geom:latitude":41.734558,
+    "geom:longitude":-72.596686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Prasser Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zh4vZIQ1N74LHqrxPI43T_41.734558_-72.596686@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449464,
+    "wof:geomhash":"6823984c4751e38ecdca2445a5f9ceb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823900447
+        }
+    ],
+    "wof:id":823900447,
+    "wof:lastmodified":1466426047,
+    "wof:name":"Dennis Hirth",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -72.596686,
+    41.734558,
+    -72.596686,
+    41.734558
+],
+  "geometry": {"coordinates":[-72.59668600000001,41.734558],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823901753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.658924,41.851796,-72.658924,41.851796",
+    "geom:latitude":41.851796,
+    "geom:longitude":-72.658924,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"298 Bloomfield Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 683 0058",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kw4WaYdJAeUV5Tj4kb7lD_41.851796_-72.658924@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449509,
+    "wof:geomhash":"5c4d8accddef3f8e7bab66ad233a2055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823901753
+        }
+    ],
+    "wof:id":823901753,
+    "wof:lastmodified":1466425999,
+    "wof:name":"Rainbow Transportation Svcs",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.658924,
+    41.851796,
+    -72.658924,
+    41.851796
+],
+  "geometry": {"coordinates":[-72.658924,41.851796],"type":"Point"}
+}

@@ -1,0 +1,92 @@
+{
+  "id": 824085543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9077,41.693802,-72.9077,41.693802",
+    "geom:latitude":41.693802,
+    "geom:longitude":-72.9077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"658 Stafford Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 0540",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cigar",
+        "cigarette",
+        "beer",
+        "spirit",
+        "store",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O3X7V1gdJx3vAJ1D0c2pd_41.693802_-72.907700@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453986,
+    "wof:geomhash":"4e1b6c61e0b440a268864b4d2be2cded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085543
+        }
+    ],
+    "wof:id":824085543,
+    "wof:lastmodified":1466422698,
+    "wof:name":"Jerry's Discount Liquors",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigar",
+        "cigarette",
+        "beer",
+        "spirit",
+        "store",
+        "wine"
+    ]
+},
+  "bbox": [
+    -72.9077,
+    41.693802,
+    -72.9077,
+    41.693802
+],
+  "geometry": {"coordinates":[-72.90770000000001,41.693802],"type":"Point"}
+}

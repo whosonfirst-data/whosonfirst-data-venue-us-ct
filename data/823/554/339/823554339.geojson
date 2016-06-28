@@ -1,0 +1,83 @@
+{
+  "id": 823554339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.937023,41.357181,-72.937023,41.357181",
+    "geom:latitude":41.357181,
+    "geom:longitude":-72.937023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Gilbert Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 1996",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39rSWIU3Pxm9jfCCb76hQy_41.357181_-72.937023@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440806,
+    "wof:geomhash":"acfeff272735aab90d0c193bf51ef932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823554339
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823554339
+        }
+    ],
+    "wof:id":823554339,
+    "wof:lastmodified":1466422644,
+    "wof:name":"William Brooks Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.937023,
+    41.357181,
+    -72.937023,
+    41.357181
+],
+  "geometry": {"coordinates":[-72.937023,41.357181],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823946305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.923141,41.688435,-72.923141,41.688435",
+    "geom:latitude":41.688435,
+    "geom:longitude":-72.923141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Dallas Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Co5dg8uqUxQqyzP37xWFo_41.688435_-72.923141@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450699,
+    "wof:geomhash":"6e0af4aca35761e76ae6fa361a588d4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823946305
+        }
+    ],
+    "wof:id":823946305,
+    "wof:lastmodified":1466426385,
+    "wof:name":"Flag Car Wash",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.923141,
+    41.688435,
+    -72.923141,
+    41.688435
+],
+  "geometry": {"coordinates":[-72.923141,41.688435],"type":"Point"}
+}

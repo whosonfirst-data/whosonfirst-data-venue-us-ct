@@ -1,0 +1,77 @@
+{
+  "id": 823667941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.231963,41.750151,-72.231963,41.750151",
+    "geom:latitude":41.750151,
+    "geom:longitude":-72.231963,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Stearns Rd",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 423 9289",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mfg",
+        "milk",
+        "fluid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931263,
+        102085379,
+        85815787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jDh2KPYL5igvyA0VOTDGg_41.750151_-72.231963@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443522,
+    "wof:geomhash":"5d2f313a2f9d8880cf18813f0e12021d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931263,
+            "neighbourhood_id":85815787,
+            "region_id":85688629,
+            "venue_id":823667941
+        }
+    ],
+    "wof:id":823667941,
+    "wof:lastmodified":1466423993,
+    "wof:name":"Mountain Dairy",
+    "wof:parent_id":85815787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "milk",
+        "fluid"
+    ]
+},
+  "bbox": [
+    -72.231963,
+    41.750151,
+    -72.231963,
+    41.750151
+],
+  "geometry": {"coordinates":[-72.23196299999999,41.750151],"type":"Point"}
+}

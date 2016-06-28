@@ -1,0 +1,81 @@
+{
+  "id": 824105461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.37597,41.291283,-72.37597,41.291283",
+    "geom:latitude":41.291283,
+    "geom:longitude":-72.37597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"254 Main St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 510 0048",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "new"
+    ],
+    "sg:website":"www.jackrabbitsburgers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16I4ekuAUNrwSGYuzWpTad_41.291283_-72.375970@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454454,
+    "wof:geomhash":"024c9dfc18e12289357c4dc3dcb87955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105461
+        }
+    ],
+    "wof:id":824105461,
+    "wof:lastmodified":1466423208,
+    "wof:name":"Jack Rabbits",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "new"
+    ]
+},
+  "bbox": [
+    -72.37597,
+    41.291283,
+    -72.37597,
+    41.291283
+],
+  "geometry": {"coordinates":[-72.37597,41.291283],"type":"Point"}
+}

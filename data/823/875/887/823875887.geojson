@@ -1,0 +1,73 @@
+{
+  "id": 823875887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900008,41.735874,-72.900008,41.735874",
+    "geom:latitude":41.735874,
+    "geom:longitude":-72.900008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Butternut Dr",
+    "sg:city":"Unionville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 4909",
+    "sg:postcode":"06085",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P8iZvecj5KXoqMI4TEdl1_41.735874_-72.900008@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448869,
+    "wof:geomhash":"fa3efa0634c926e5a0bb6c50f080af8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823875887
+        }
+    ],
+    "wof:id":823875887,
+    "wof:lastmodified":1466425788,
+    "wof:name":"Simple Properties LLC",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.900008,
+    41.735874,
+    -72.900008,
+    41.735874
+],
+  "geometry": {"coordinates":[-72.900008,41.735874],"type":"Point"}
+}

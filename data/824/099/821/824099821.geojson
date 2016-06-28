@@ -1,0 +1,87 @@
+{
+  "id": 824099821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.834904,41.376808,-71.834904,41.376808",
+    "geom:latitude":41.376808,
+    "geom:longitude":-71.834904,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"98 W Broad St",
+    "sg:city":"Pawcatuck",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 599 3134",
+    "sg:postcode":"06379",
+    "sg:province":"CT",
+    "sg:tags":[
+        "brew",
+        "grill",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688509,
+        85633793,
+        101720625,
+        102081219,
+        85851065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Npqsa6ITcmt2Ge6fcMntu_41.376808_-71.834904@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454337,
+    "wof:geomhash":"b3174b1ed6738350f555f9d53167d0ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081219,
+            "locality_id":101720625,
+            "neighbourhood_id":85851065,
+            "region_id":85688509,
+            "venue_id":824099821
+        }
+    ],
+    "wof:id":824099821,
+    "wof:lastmodified":1466423020,
+    "wof:name":"Hootie's Goodtimes Cafe",
+    "wof:parent_id":85851065,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brew",
+        "grill",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -71.834904,
+    41.376808,
+    -71.834904,
+    41.376808
+],
+  "geometry": {"coordinates":[-71.83490399999999,41.376808],"type":"Point"}
+}

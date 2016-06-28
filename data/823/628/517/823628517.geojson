@@ -1,0 +1,73 @@
+{
+  "id": 823628517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927595,41.331917,-72.927595,41.331917",
+    "geom:latitude":41.331917,
+    "geom:longitude":-72.927595,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"453 Huntington St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 777 9336",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xuG0CO8adSqm0n00YKrJp_41.331917_-72.927595@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442599,
+    "wof:geomhash":"1bb85b9b87c7e28cec5b8664dfca6c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823628517
+        }
+    ],
+    "wof:id":823628517,
+    "wof:lastmodified":1466423578,
+    "wof:name":"Three Corner Store",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "grocery"
+    ]
+},
+  "bbox": [
+    -72.927595,
+    41.331917,
+    -72.927595,
+    41.331917
+],
+  "geometry": {"coordinates":[-72.927595,41.331917],"type":"Point"}
+}

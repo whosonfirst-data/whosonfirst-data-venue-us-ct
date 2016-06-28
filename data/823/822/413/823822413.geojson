@@ -1,0 +1,81 @@
+{
+  "id": 823822413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.68254,41.604251,-72.68254,41.604251",
+    "geom:latitude":41.604251,
+    "geom:longitude":-72.68254,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Holly Ct",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 384 1552",
+    "sg:postcode":"06416",
+    "sg:province":"CT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856893,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sPBKT9jWdlmwlh2QYPy0V_41.604251_-72.682540@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447366,
+    "wof:geomhash":"d731d2eb576c291f10b205ba1fd1fe46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85856893,
+            "region_id":85688629,
+            "venue_id":823822413
+        }
+    ],
+    "wof:id":823822413,
+    "wof:lastmodified":1466425285,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85856893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -72.68254,
+    41.604251,
+    -72.68254,
+    41.604251
+],
+  "geometry": {"coordinates":[-72.68254,41.604251],"type":"Point"}
+}

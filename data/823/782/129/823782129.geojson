@@ -1,0 +1,73 @@
+{
+  "id": 823782129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.284833,41.384486,-73.284833,41.384486",
+    "geom:latitude":41.384486,
+    "geom:longitude":-73.284833,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"145 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 7967",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VZjLNq4E3B6qjaa45K3zX_41.384486_-73.284833@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446145,
+    "wof:geomhash":"d2eb8d498bba706d136f3261b4ad9506",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823782129
+        }
+    ],
+    "wof:id":823782129,
+    "wof:lastmodified":1466424986,
+    "wof:name":"Pete's Plumbing LLC",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.284833,
+    41.384486,
+    -73.284833,
+    41.384486
+],
+  "geometry": {"coordinates":[-73.28483300000001,41.384486],"type":"Point"}
+}

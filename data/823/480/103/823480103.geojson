@@ -1,0 +1,78 @@
+{
+  "id": 823480103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.40254,41.421459,-73.40254,41.421459",
+    "geom:latitude":41.421459,
+    "geom:longitude":-73.40254,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Research Dr",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 796 4000",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "battery"
+    ],
+    "sg:website":"www.duracell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IbWYNqETWfGDQ2ZUgIlsk_41.421459_-73.402540@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439081,
+    "wof:geomhash":"6d85a9bae1b0e377249a549b23f40bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":823480103
+        }
+    ],
+    "wof:id":823480103,
+    "wof:lastmodified":1466421376,
+    "wof:name":"Duracell",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -73.40254,
+    41.421459,
+    -73.40254,
+    41.421459
+],
+  "geometry": {"coordinates":[-73.40254,41.421459],"type":"Point"}
+}

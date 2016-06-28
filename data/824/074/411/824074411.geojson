@@ -1,0 +1,80 @@
+{
+  "id": 824074411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.707877,41.766657,-72.707877,41.766657",
+    "geom:latitude":41.766657,
+    "geom:longitude":-72.707877,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"498a Farmington Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/17520-china-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 523 5830",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878017,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6c5skGmMCVp13ta11BjT1u_41.766657_-72.707877@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453726,
+    "wof:geomhash":"48271d5630859e106f35497e836bec54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878017,
+            "region_id":85688629,
+            "venue_id":824074411
+        }
+    ],
+    "wof:id":824074411,
+    "wof:lastmodified":1466422422,
+    "wof:name":"China House",
+    "wof:parent_id":85878017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -72.707877,
+    41.766657,
+    -72.707877,
+    41.766657
+],
+  "geometry": {"coordinates":[-72.707877,41.766657],"type":"Point"}
+}

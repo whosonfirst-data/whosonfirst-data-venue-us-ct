@@ -1,0 +1,71 @@
+{
+  "id": 823963139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.554884,41.786512,-72.554884,41.786512",
+    "geom:latitude":41.786512,
+    "geom:longitude":-72.554884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"313 New State Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QCbCR66CbUGyElpd62Ehf_41.786512_-72.554884@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451094,
+    "wof:geomhash":"ddc6719126277fdaaff763d80bea1ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823963139
+        }
+    ],
+    "wof:id":823963139,
+    "wof:lastmodified":1466426521,
+    "wof:name":"Tonys Imported Auto Service",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.554884,
+    41.786512,
+    -72.554884,
+    41.786512
+],
+  "geometry": {"coordinates":[-72.554884,41.786512],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824074429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.712552,41.742363,-72.712552,41.742363",
+    "geom:latitude":41.742363,
+    "geom:longitude":-72.712552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"497 Flatbush Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/144197-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 953 1092",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878019,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fGrlHMZFjpmr4qWOjHzTx_41.742363_-72.712552@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453726,
+    "wof:geomhash":"8e669aac7dd8214298e9bb29bb39a44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878019,
+            "region_id":85688629,
+            "venue_id":824074429
+        }
+    ],
+    "wof:id":824074429,
+    "wof:lastmodified":1466422422,
+    "wof:name":"Subway",
+    "wof:parent_id":85878019,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.712552,
+    41.742363,
+    -72.712552,
+    41.742363
+],
+  "geometry": {"coordinates":[-72.712552,41.742363],"type":"Point"}
+}

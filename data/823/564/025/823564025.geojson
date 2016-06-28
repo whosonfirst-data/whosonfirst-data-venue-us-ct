@@ -1,0 +1,71 @@
+{
+  "id": 823564025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819565,41.288293,-72.819565,41.288293",
+    "geom:latitude":41.288293,
+    "geom:longitude":-72.819565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"145 Cedar St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 315 1111",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_602BvuwokszaEeFR4IsIxO_41.288293_-72.819565@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441041,
+    "wof:geomhash":"3ea4412f5bc0d2a84691899f8595bddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823564025
+        }
+    ],
+    "wof:id":823564025,
+    "wof:lastmodified":1466422681,
+    "wof:name":"Princess Limousine Car Svc LLC",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -72.819565,
+    41.288293,
+    -72.819565,
+    41.288293
+],
+  "geometry": {"coordinates":[-72.819565,41.288293],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823706903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.681585,41.003093,-73.681585,41.003093",
+    "geom:latitude":41.003093,
+    "geom:longitude":-73.681585,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Rye Ridge Plz",
+    "sg:city":"Rye Brook",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 251 1100",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.pediatricmds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846517,
+        102191575,
+        404523389,
+        85633793,
+        85978769,
+        102082373,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xiZl2tORHnfAFhZbbbEpM_41.003093_-73.681585@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444375,
+    "wof:geomhash":"a71733b69a53b298953ec48fb2f3a639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978769,
+            "neighbourhood_id":85846517,
+            "region_id":85688543,
+            "venue_id":823706903
+        }
+    ],
+    "wof:id":823706903,
+    "wof:lastmodified":1466424351,
+    "wof:name":"Pediatric Associates",
+    "wof:parent_id":85846517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.681585,
+    41.003093,
+    -73.681585,
+    41.003093
+],
+  "geometry": {"coordinates":[-73.681585,41.003093],"type":"Point"}
+}

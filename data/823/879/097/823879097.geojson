@@ -1,0 +1,73 @@
+{
+  "id": 823879097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.983249,41.608486,-71.983249,41.608486",
+    "geom:latitude":41.608486,
+    "geom:longitude":-71.983249,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Mechanic St",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 434 2461",
+    "sg:postcode":"06351",
+    "sg:province":"CT",
+    "sg:tags":[
+        "executive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811237,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IfZ08Ca9Umpkk6E4iynA2_41.608486_-71.983249@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448952,
+    "wof:geomhash":"dbd2c733a10ca0ebbcaba534f2165b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85811237,
+            "region_id":85688629,
+            "venue_id":823879097
+        }
+    ],
+    "wof:id":823879097,
+    "wof:lastmodified":1466425815,
+    "wof:name":"Hwy Dept of Public Works",
+    "wof:parent_id":85811237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive",
+        "general"
+    ]
+},
+  "bbox": [
+    -71.983249,
+    41.608486,
+    -71.983249,
+    41.608486
+],
+  "geometry": {"coordinates":[-71.983249,41.608486],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823638445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.701047,41.862944,-72.701047,41.862944",
+    "geom:latitude":41.862944,
+    "geom:longitude":-72.701047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 E Newberry Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 5411",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PTFBpFOCBaYo2bZ8iK1MI_41.862944_-72.701047@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442817,
+    "wof:geomhash":"42b0947e261eddf298206eef1143f45f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":823638445
+        }
+    ],
+    "wof:id":823638445,
+    "wof:lastmodified":1466423659,
+    "wof:name":"Simmons Paving LLC",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.701047,
+    41.862944,
+    -72.701047,
+    41.862944
+],
+  "geometry": {"coordinates":[-72.701047,41.862944],"type":"Point"}
+}

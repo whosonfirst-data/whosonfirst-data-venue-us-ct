@@ -1,0 +1,81 @@
+{
+  "id": 824072033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.645248,41.848869,-72.645248,41.848869",
+    "geom:latitude":41.848869,
+    "geom:longitude":-72.645248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"340 Broad St",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 688 8888",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rrUt2w8ryPI8OBJfzDUnL_41.848542_-72.645607@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453666,
+    "wof:geomhash":"725f9adecf30f220f0e50a8b0afd0b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824072033
+        }
+    ],
+    "wof:id":824072033,
+    "wof:lastmodified":1466422409,
+    "wof:name":"Total Medical Care",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -72.645248,
+    41.848869,
+    -72.645248,
+    41.848869
+],
+  "geometry": {"coordinates":[-72.645248,41.848869],"type":"Point"}
+}

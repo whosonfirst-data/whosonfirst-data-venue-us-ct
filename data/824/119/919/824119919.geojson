@@ -1,0 +1,84 @@
+{
+  "id": 824119919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.550939,41.028994,-73.550939,41.028994",
+    "geom:latitude":41.028994,
+    "geom:longitude":-73.550939,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Gatehouse Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 363 3400",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "broker",
+        "shipping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881173,
+        102191575,
+        404495949,
+        85633793,
+        85930945,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41bqJa5U0GJAoGhKjRfp0W_41.028994_-73.550939@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454763,
+    "wof:geomhash":"2c6232d09ca680bfa63c85e8e96a47ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930945,
+            "neighbourhood_id":85881173,
+            "region_id":85688629,
+            "venue_id":824119919
+        }
+    ],
+    "wof:id":824119919,
+    "wof:lastmodified":1466423245,
+    "wof:name":"Odin Logistics",
+    "wof:parent_id":85881173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -73.550939,
+    41.028994,
+    -73.550939,
+    41.028994
+],
+  "geometry": {"coordinates":[-73.550939,41.028994],"type":"Point"}
+}

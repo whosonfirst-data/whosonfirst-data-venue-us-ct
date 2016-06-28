@@ -1,0 +1,71 @@
+{
+  "id": 823821697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.827129,41.480518,-72.827129,41.480518",
+    "geom:latitude":41.480518,
+    "geom:longitude":-72.827129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 949 9000",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k5mC7qPt4jkds9ZfXHmb9_41.480518_-72.827129@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447340,
+    "wof:geomhash":"e33f29a6784c6a9994a355f38eb87a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823821697
+        }
+    ],
+    "wof:id":823821697,
+    "wof:lastmodified":1466425321,
+    "wof:name":"Little People's Learning Ctr",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.827129,
+    41.480518,
+    -72.827129,
+    41.480518
+],
+  "geometry": {"coordinates":[-72.827129,41.480518],"type":"Point"}
+}

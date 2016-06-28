@@ -1,0 +1,72 @@
+{
+  "id": 823823137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.425845,41.262137,-73.425845,41.262137",
+    "geom:latitude":41.262137,
+    "geom:longitude":-73.425845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Redding Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 544 8643",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807091,
+        102191575,
+        404495863,
+        85633793,
+        85930985,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FVRAzDnZA1l8nTySvWxnB_41.262137_-73.425845@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447386,
+    "wof:geomhash":"51489c2c4bf7620d542ade045d60d4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":823823137
+        }
+    ],
+    "wof:id":823823137,
+    "wof:lastmodified":1466425306,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85807091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.425845,
+    41.262137,
+    -73.425845,
+    41.262137
+],
+  "geometry": {"coordinates":[-73.425845,41.262137],"type":"Point"}
+}

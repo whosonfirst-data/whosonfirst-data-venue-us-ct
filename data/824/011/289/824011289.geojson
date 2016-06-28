@@ -1,0 +1,71 @@
+{
+  "id": 824011289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901502,41.361307,-72.901502,41.361307",
+    "geom:latitude":41.361307,
+    "geom:longitude":-72.901502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Underhill Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sy5E9gnDLNSqdTRZX27NW_41.361307_-72.901502@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452224,
+    "wof:geomhash":"62f403b1b307baceade7a4db690eb26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":824011289
+        }
+    ],
+    "wof:id":824011289,
+    "wof:lastmodified":1466421301,
+    "wof:name":"Dr Schwaber Paul",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.901502,
+    41.361307,
+    -72.901502,
+    41.361307
+],
+  "geometry": {"coordinates":[-72.90150199999999,41.361307],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823487089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.079686,41.524571,-72.079686,41.524571",
+    "geom:latitude":41.524571,
+    "geom:longitude":-72.079686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Main St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 887 1755",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "counseling",
+        "veteran",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65hwTLcS2dgcdmiH0jT5JC_41.524571_-72.079686@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439235,
+    "wof:geomhash":"e9e2efddf174c0c04d2dff5596394cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823487089
+        }
+    ],
+    "wof:id":823487089,
+    "wof:lastmodified":1466421440,
+    "wof:name":"Norwich Vet Center",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "veteran",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.079686,
+    41.524571,
+    -72.079686,
+    41.524571
+],
+  "geometry": {"coordinates":[-72.079686,41.524571],"type":"Point"}
+}

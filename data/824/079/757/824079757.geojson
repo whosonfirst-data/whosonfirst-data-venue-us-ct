@@ -1,0 +1,78 @@
+{
+  "id": 824079757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.487403,41.37497,-73.487403,41.37497",
+    "geom:latitude":41.37497,
+    "geom:longitude":-73.487403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Backus Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/danbury/13760-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 2144",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834619,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E4btsppPFVuXVB8QQdYxh_41.374970_-73.487403@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453848,
+    "wof:geomhash":"90f2fc27bd976e0304c887f603cd917e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834619,
+            "region_id":85688629,
+            "venue_id":824079757
+        }
+    ],
+    "wof:id":824079757,
+    "wof:lastmodified":1466422593,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85834619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.487403,
+    41.37497,
+    -73.487403,
+    41.37497
+],
+  "geometry": {"coordinates":[-73.487403,41.37497],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 824072621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.695348,41.81458,-72.695348,41.81458",
+    "geom:latitude":41.81458,
+    "geom:longitude":-72.695348,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"903 Blue Hills Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bloomfield/129774-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 286 9061",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FctRkoeSTygiemo9uQbgj_41.814580_-72.695348@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453685,
+    "wof:geomhash":"26ea38dec74b11e1b38c5d9b02d845b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":824072621
+        }
+    ],
+    "wof:id":824072621,
+    "wof:lastmodified":1466422460,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.695348,
+    41.81458,
+    -72.695348,
+    41.81458
+],
+  "geometry": {"coordinates":[-72.695348,41.81458],"type":"Point"}
+}

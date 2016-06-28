@@ -1,0 +1,73 @@
+{
+  "id": 823970941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.636971,41.271461,-72.636971,41.271461",
+    "geom:latitude":41.271461,
+    "geom:longitude":-72.636971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Buffalo Bay",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 7364",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I4AR4H2kkgva5hR8BhhlL_41.271461_-72.636971@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451274,
+    "wof:geomhash":"e0fdc1a76ad10515cc0ae53e24fab762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823970941
+        }
+    ],
+    "wof:id":823970941,
+    "wof:lastmodified":1466426617,
+    "wof:name":"Robert G Lowry",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.636971,
+    41.271461,
+    -72.636971,
+    41.271461
+],
+  "geometry": {"coordinates":[-72.636971,41.271461],"type":"Point"}
+}

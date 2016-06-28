@@ -1,0 +1,83 @@
+{
+  "id": 823950865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.629922,41.935051,-72.629922,41.935051",
+    "geom:latitude":41.935051,
+    "geom:longitude":-72.629922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 N Main St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hd72vsN99WYyu3e9UFmM8_41.935051_-72.629922@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450796,
+    "wof:geomhash":"570300ed50d2b30f33a60caba54f7d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823950865
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823950865
+        }
+    ],
+    "wof:id":823950865,
+    "wof:lastmodified":1466426472,
+    "wof:name":"Chucks Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.629922,
+    41.935051,
+    -72.629922,
+    41.935051
+],
+  "geometry": {"coordinates":[-72.62992199999999,41.935051],"type":"Point"}
+}

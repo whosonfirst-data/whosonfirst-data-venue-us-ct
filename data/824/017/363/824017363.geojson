@@ -1,0 +1,77 @@
+{
+  "id": 824017363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086562,41.333384,-73.086562,41.333384",
+    "geom:latitude":41.333384,
+    "geom:longitude":-73.086562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Atwater Ave",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 736 2901",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j3HKx8oXKhurnAslO0p25_41.333384_-73.086562@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452366,
+    "wof:geomhash":"c466341080e5bce307b9112d25b3df99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":824017363
+        }
+    ],
+    "wof:id":824017363,
+    "wof:lastmodified":1466421407,
+    "wof:name":"Derby Dental Assoc",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.086562,
+    41.333384,
+    -73.086562,
+    41.333384
+],
+  "geometry": {"coordinates":[-73.086562,41.333384],"type":"Point"}
+}

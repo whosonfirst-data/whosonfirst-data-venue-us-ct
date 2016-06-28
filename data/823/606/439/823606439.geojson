@@ -1,0 +1,71 @@
+{
+  "id": 823606439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256891,41.308951,-73.256891,41.308951",
+    "geom:latitude":41.308951,
+    "geom:longitude":-73.256891,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4020",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U4TMG7Nfy1zPEoNRcFNrc_41.308951_-73.256891@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442054,
+    "wof:geomhash":"8ec8283029a0b704345764ae7c130077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823606439
+        }
+    ],
+    "wof:id":823606439,
+    "wof:lastmodified":1466423388,
+    "wof:name":"Beautiful Nails",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -73.256891,
+    41.308951,
+    -73.256891,
+    41.308951
+],
+  "geometry": {"coordinates":[-73.256891,41.308951],"type":"Point"}
+}

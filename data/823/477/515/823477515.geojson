@@ -1,0 +1,71 @@
+{
+  "id": 823477515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.99788,41.597563,-72.99788,41.597563",
+    "geom:latitude":41.597563,
+    "geom:longitude":-72.99788,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"208 Lyman Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 0845",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ui7BHti3e7zH69Lxh9Tur_41.597563_-72.997880@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439019,
+    "wof:geomhash":"b769476bd2e1bffcdc7f6f81e193425d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823477515
+        }
+    ],
+    "wof:id":823477515,
+    "wof:lastmodified":1466421395,
+    "wof:name":"Wolcott Construction",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.99788,
+    41.597563,
+    -72.99788,
+    41.597563
+],
+  "geometry": {"coordinates":[-72.99787999999999,41.597563],"type":"Point"}
+}

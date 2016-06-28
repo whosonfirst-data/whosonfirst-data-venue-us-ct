@@ -2,13 +2,14 @@
   "id": 303476385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488721,41.150251,-73.488721,41.150251",
     "geom:latitude":41.150251,
     "geom:longitude":-73.488721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"43 Summer St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303476385,
-    "wof:lastmodified":1448999109,
+    "wof:lastmodified":1466421117,
     "wof:name":"Moose Solutions",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.488721,41.150251,-73.488721,41.150251],
+  "bbox": [
+    -73.488721,
+    41.150251,
+    -73.488721,
+    41.150251
+],
   "geometry": {"coordinates":[-73.488721,41.150251],"type":"Point"}
 }

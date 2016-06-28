@@ -1,0 +1,79 @@
+{
+  "id": 823735225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.146773,41.786145,-73.146773,41.786145",
+    "geom:latitude":41.786145,
+    "geom:longitude":-73.146773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1185 New Litchfield St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 626 8258",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "farm",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IIGomW02ZI8fBPrGqvQGo_41.786145_-73.146773@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445049,
+    "wof:geomhash":"f2039915981d84f69883b765112fa0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":823735225
+        }
+    ],
+    "wof:id":823735225,
+    "wof:lastmodified":1466424564,
+    "wof:name":"Farm Service Agency",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "agency"
+    ]
+},
+  "bbox": [
+    -73.146773,
+    41.786145,
+    -73.146773,
+    41.786145
+],
+  "geometry": {"coordinates":[-73.146773,41.786145],"type":"Point"}
+}

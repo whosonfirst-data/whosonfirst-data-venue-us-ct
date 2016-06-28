@@ -1,0 +1,115 @@
+{
+  "id": 824095223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.702262,41.767873,-72.702262,41.767873",
+    "geom:latitude":41.767873,
+    "geom:longitude":-72.702262,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Woodland St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 522 1101",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratories-medical",
+        "radiology",
+        "physician",
+        "dental",
+        "surgeons",
+        "mammography",
+        "imaging",
+        "resonance",
+        "surgeon",
+        "magnetic",
+        "x-ray",
+        "mri"
+    ],
+    "sg:website":"http://www.ctvalleyradiology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878017,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65ICRugL5jspchwzXuAqde_41.767873_-72.702262@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454226,
+    "wof:geomhash":"7109d55d85475e358e1a3ce7490db111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878017,
+            "region_id":85688629,
+            "venue_id":824095223
+        }
+    ],
+    "wof:id":824095223,
+    "wof:lastmodified":1466423005,
+    "wof:name":"Connecticut Valley Radiology",
+    "wof:parent_id":85878017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-medical",
+        "radiology",
+        "physician",
+        "dental",
+        "surgeons",
+        "mammography",
+        "imaging",
+        "resonance",
+        "surgeon",
+        "magnetic",
+        "x-ray",
+        "mri"
+    ]
+},
+  "bbox": [
+    -72.702262,
+    41.767873,
+    -72.702262,
+    41.767873
+],
+  "geometry": {"coordinates":[-72.702262,41.767873],"type":"Point"}
+}

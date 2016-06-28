@@ -1,0 +1,73 @@
+{
+  "id": 823788209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598269,41.969558,-72.598269,41.969558",
+    "geom:latitude":41.969558,
+    "geom:longitude":-72.598269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Broadleaf Ln",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 745 9118",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mKfR4Dd6jUWcIXsuJmJc6_41.969558_-72.598269@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446361,
+    "wof:geomhash":"e366eb613b193b9568f85051778b0f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":823788209
+        }
+    ],
+    "wof:id":823788209,
+    "wof:lastmodified":1466424969,
+    "wof:name":"Nancy S Courier",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -72.598269,
+    41.969558,
+    -72.598269,
+    41.969558
+],
+  "geometry": {"coordinates":[-72.598269,41.969558],"type":"Point"}
+}

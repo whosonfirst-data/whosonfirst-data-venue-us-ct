@@ -1,0 +1,73 @@
+{
+  "id": 823502811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.924146,41.370697,-72.924146,41.370697",
+    "geom:latitude":41.370697,
+    "geom:longitude":-72.924146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"676 Mix Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 287 1546",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ITZtbSqnVlyYnQULMICX6_41.370697_-72.924146@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439642,
+    "wof:geomhash":"6313d9e44159f4f6e22e02f6f218daa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823502811
+        }
+    ],
+    "wof:id":823502811,
+    "wof:lastmodified":1466421641,
+    "wof:name":"Apple Hill Apts",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.924146,
+    41.370697,
+    -72.924146,
+    41.370697
+],
+  "geometry": {"coordinates":[-72.92414599999999,41.370697],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823730799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819265,41.291026,-72.819265,41.291026",
+    "geom:latitude":41.291026,
+    "geom:longitude":-72.819265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"182 Cedar St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 4676",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ye9enEdqjttkFOp4I3XpO_41.291026_-72.819265@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444923,
+    "wof:geomhash":"62134558ef6eb29878c5d0e5ca699fbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823730799
+        }
+    ],
+    "wof:id":823730799,
+    "wof:lastmodified":1466424538,
+    "wof:name":"Zane's Cycles",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.819265,
+    41.291026,
+    -72.819265,
+    41.291026
+],
+  "geometry": {"coordinates":[-72.819265,41.291026],"type":"Point"}
+}

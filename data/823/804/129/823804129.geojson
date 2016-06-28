@@ -1,0 +1,79 @@
+{
+  "id": 823804129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.173247,41.215657,-73.173247,41.215657",
+    "geom:latitude":41.215657,
+    "geom:longitude":-73.173247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"389 Huntington Tpke",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 371 7413",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876495,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AHKU7x2RHZbRF8hBMX8Kc_41.215657_-73.173247@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446824,
+    "wof:geomhash":"ffc0c2e3b0114ba200bba4bba48761fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876495,
+            "region_id":85688629,
+            "venue_id":823804129
+        }
+    ],
+    "wof:id":823804129,
+    "wof:lastmodified":1466425184,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85876495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.173247,
+    41.215657,
+    -73.173247,
+    41.215657
+],
+  "geometry": {"coordinates":[-73.173247,41.215657],"type":"Point"}
+}

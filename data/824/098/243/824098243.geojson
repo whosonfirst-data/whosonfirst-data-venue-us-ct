@@ -1,0 +1,79 @@
+{
+  "id": 824098243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.221817,41.31646,-72.221817,41.31646",
+    "geom:latitude":41.31646,
+    "geom:longitude":-72.221817,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Louise Dr",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 3187",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "publishers-periodical"
+    ],
+    "sg:website":"http://www.hmspublications.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h0l9rmQhJ8Up5NseqVMG5_41.316460_-72.221817@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454297,
+    "wof:geomhash":"b2f180d70e1c59942d2f3749e2f58a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":824098243
+        }
+    ],
+    "wof:id":824098243,
+    "wof:lastmodified":1466422719,
+    "wof:name":"Hms Publications Inc",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publishers-periodical"
+    ]
+},
+  "bbox": [
+    -72.221817,
+    41.31646,
+    -72.221817,
+    41.31646
+],
+  "geometry": {"coordinates":[-72.221817,41.31646],"type":"Point"}
+}

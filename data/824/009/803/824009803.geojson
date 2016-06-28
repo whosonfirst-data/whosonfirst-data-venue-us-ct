@@ -1,0 +1,73 @@
+{
+  "id": 824009803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.467446,41.289035,-73.467446,41.289035",
+    "geom:latitude":41.289035,
+    "geom:longitude":-73.467446,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Banks Hill Pl",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 438 3535",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21KB076jI95gQAQmNrE846_41.289035_-73.467446@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452193,
+    "wof:geomhash":"d926221d5c954a0db867b68c03f75b22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":824009803
+        }
+    ],
+    "wof:id":824009803,
+    "wof:lastmodified":1466421310,
+    "wof:name":"J & M Group",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.467446,
+    41.289035,
+    -73.467446,
+    41.289035
+],
+  "geometry": {"coordinates":[-73.467446,41.289035],"type":"Point"}
+}

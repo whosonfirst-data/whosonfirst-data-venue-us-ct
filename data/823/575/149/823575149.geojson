@@ -1,0 +1,75 @@
+{
+  "id": 823575149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.082552,41.510222,-72.082552,41.510222",
+    "geom:latitude":41.510222,
+    "geom:longitude":-72.082552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Terminal Way",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wire",
+        "stitching"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85851993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W45TPEeq4FL89bmwMIfvM_41.510222_-72.082552@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441309,
+    "wof:geomhash":"fdce4fc72dfa594520da897a9c08d280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85851993,
+            "region_id":85688629,
+            "venue_id":823575149
+        }
+    ],
+    "wof:id":823575149,
+    "wof:lastmodified":1466422936,
+    "wof:name":"Stitching Wire Direct",
+    "wof:parent_id":85851993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wire",
+        "stitching"
+    ]
+},
+  "bbox": [
+    -72.082552,
+    41.510222,
+    -72.082552,
+    41.510222
+],
+  "geometry": {"coordinates":[-72.08255200000001,41.510222],"type":"Point"}
+}

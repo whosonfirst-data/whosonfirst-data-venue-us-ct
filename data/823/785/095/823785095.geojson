@@ -1,0 +1,73 @@
+{
+  "id": 823785095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93523,41.338524,-72.93523,41.338524",
+    "geom:latitude":41.338524,
+    "geom:longitude":-72.93523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"960 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 624 0824",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_445A1511I6pFXXonFtF1bW_41.338524_-72.935230@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446254,
+    "wof:geomhash":"34506b3c3be896cb3822f66a1815d9fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823785095
+        }
+    ],
+    "wof:id":823785095,
+    "wof:lastmodified":1466425163,
+    "wof:name":"Connecticut State Check Cshng",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -72.93523,
+    41.338524,
+    -72.93523,
+    41.338524
+],
+  "geometry": {"coordinates":[-72.93523,41.338524],"type":"Point"}
+}

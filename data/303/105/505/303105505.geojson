@@ -2,13 +2,14 @@
   "id": 303105505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.472944,41.139851,-73.472944,41.139851",
     "geom:latitude":41.139851,
     "geom:longitude":-73.472944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"789 New Norwalk Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":303105505,
-    "wof:lastmodified":1448999049,
+    "wof:lastmodified":1466421115,
     "wof:name":"Ferm Brothers Lndscp",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.472944,41.139851,-73.472944,41.139851],
+  "bbox": [
+    -73.472944,
+    41.139851,
+    -73.472944,
+    41.139851
+],
   "geometry": {"coordinates":[-73.472944,41.139851],"type":"Point"}
 }

@@ -1,0 +1,82 @@
+{
+  "id": 823702427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209145,41.170347,-73.209145,41.170347",
+    "geom:latitude":41.170347,
+    "geom:longitude":-73.209145,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1365 State St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 6254",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61GDk3V1A3hvHu03UU3LtD_41.170347_-73.209145@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444289,
+    "wof:geomhash":"40d58bf649c2c051212f6efcb55c60cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":823702427
+        }
+    ],
+    "wof:id":823702427,
+    "wof:lastmodified":1466424107,
+    "wof:name":"Chaves Bakery",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -73.209145,
+    41.170347,
+    -73.209145,
+    41.170347
+],
+  "geometry": {"coordinates":[-73.20914500000001,41.170347],"type":"Point"}
+}

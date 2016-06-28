@@ -1,0 +1,66 @@
+{
+  "id": 823721209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.064435,41.442332,-73.064435,41.442332",
+    "geom:latitude":41.442332,
+    "geom:longitude":-73.064435,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Railroad Ave",
+    "sg:city":"Beacon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 729 4761",
+    "sg:postcode":"06403",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JdffqDpkuhoqm3eq1v9hU_41.442332_-73.064435@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444674,
+    "wof:geomhash":"374944e78fc6befb25b76502b38e1397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823721209
+        }
+    ],
+    "wof:id":823721209,
+    "wof:lastmodified":1466424436,
+    "wof:name":"Jims Guns",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.064435,
+    41.442332,
+    -73.064435,
+    41.442332
+],
+  "geometry": {"coordinates":[-73.064435,41.442332],"type":"Point"}
+}

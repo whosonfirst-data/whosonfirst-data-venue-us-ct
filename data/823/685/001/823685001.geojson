@@ -1,0 +1,82 @@
+{
+  "id": 823685001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.672713,41.004734,-73.672713,41.004734",
+    "geom:latitude":41.004734,
+    "geom:longitude":-73.672713,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"411 Westchester Ave",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 939 5755",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ],
+    "sg:website":"www.siriusradio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846517,
+        102191575,
+        404523389,
+        85633793,
+        85978769,
+        102082373,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XeawVJUsCuEZM7li5Zrty_41.004734_-73.672713@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443899,
+    "wof:geomhash":"2100b70842a12aceeac09238f87d46db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978769,
+            "neighbourhood_id":85846517,
+            "region_id":85688543,
+            "venue_id":823685001
+        }
+    ],
+    "wof:id":823685001,
+    "wof:lastmodified":1466424219,
+    "wof:name":"Sirius Satellite Radio",
+    "wof:parent_id":85846517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "satellite",
+        "system"
+    ]
+},
+  "bbox": [
+    -73.672713,
+    41.004734,
+    -73.672713,
+    41.004734
+],
+  "geometry": {"coordinates":[-73.672713,41.004734],"type":"Point"}
+}

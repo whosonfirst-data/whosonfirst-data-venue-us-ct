@@ -1,0 +1,75 @@
+{
+  "id": 823941457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.993083,41.540064,-71.993083,41.540064",
+    "geom:latitude":41.540064,
+    "geom:longitude":-71.993083,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"82 Prodell Rd",
+    "sg:city":"Preston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06365",
+    "sg:province":"CT",
+    "sg:tags":[
+        "trade",
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85840131,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u9XuXP5l4abRUNqMIU11p_41.540064_-71.993083@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450561,
+    "wof:geomhash":"bdebacc5e58eb750c6070eb52b304297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85840131,
+            "region_id":85688629,
+            "venue_id":823941457
+        }
+    ],
+    "wof:id":823941457,
+    "wof:lastmodified":1466426385,
+    "wof:name":"AZ Repair",
+    "wof:parent_id":85840131,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trade",
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.993083,
+    41.540064,
+    -71.993083,
+    41.540064
+],
+  "geometry": {"coordinates":[-71.993083,41.540064],"type":"Point"}
+}

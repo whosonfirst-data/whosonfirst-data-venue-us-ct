@@ -1,0 +1,83 @@
+{
+  "id": 824014707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.219675,41.203581,-73.219675,41.203581",
+    "geom:latitude":41.203581,
+    "geom:longitude":-73.219675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"183 Northfield St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 373 0049",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876499,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dkXW2I4mO3CZtK3JazIrk_41.203581_-73.219675@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452312,
+    "wof:geomhash":"5bf375f88f2be03f6342aa40bc75428a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876499,
+            "region_id":85688629,
+            "venue_id":824014707
+        }
+    ],
+    "wof:id":824014707,
+    "wof:lastmodified":1466421388,
+    "wof:name":"Angelo Formato",
+    "wof:parent_id":85876499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.219675,
+    41.203581,
+    -73.219675,
+    41.203581
+],
+  "geometry": {"coordinates":[-73.219675,41.203581],"type":"Point"}
+}

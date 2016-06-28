@@ -1,0 +1,84 @@
+{
+  "id": 824109331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214234,41.17468,-73.214234,41.17468",
+    "geom:latitude":41.17468,
+    "geom:longitude":-73.214234,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1063 Howard Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 5000",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "continental",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20mrzXBv1P5cZIlLvH4F1u_41.174680_-73.214234@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454542,
+    "wof:geomhash":"72fe8cd913669a3a185a738902cfd7e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824109331
+        }
+    ],
+    "wof:id":824109331,
+    "wof:lastmodified":1466423239,
+    "wof:name":"Fatima Caribbean Restaurant",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "continental",
+        "take"
+    ]
+},
+  "bbox": [
+    -73.214234,
+    41.17468,
+    -73.214234,
+    41.17468
+],
+  "geometry": {"coordinates":[-73.214234,41.17468],"type":"Point"}
+}

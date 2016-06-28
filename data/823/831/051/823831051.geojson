@@ -1,0 +1,79 @@
+{
+  "id": 823831051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.517666,41.06129,-73.517666,41.06129",
+    "geom:latitude":41.06129,
+    "geom:longitude":-73.517666,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Custer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 977 1475",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yo9OlJnFE3etEYanehrrw_41.061290_-73.517666@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447635,
+    "wof:geomhash":"2a46cab859cf57bec93a8146d94ce8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":823831051
+        }
+    ],
+    "wof:id":823831051,
+    "wof:lastmodified":1466425326,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -73.517666,
+    41.06129,
+    -73.517666,
+    41.06129
+],
+  "geometry": {"coordinates":[-73.51766600000001,41.06129],"type":"Point"}
+}

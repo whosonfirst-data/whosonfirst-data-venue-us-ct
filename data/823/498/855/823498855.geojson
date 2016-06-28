@@ -1,0 +1,73 @@
+{
+  "id": 823498855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.401531,41.45289,-73.401531,41.45289",
+    "geom:latitude":41.45289,
+    "geom:longitude":-73.401531,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 del Mar Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 0089",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plastic",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1INyi3Kt8BMjg4wShk4SnU_41.452890_-73.401531@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439551,
+    "wof:geomhash":"f0043f2b31c5e12c6de520a7be4f7d8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823498855
+        }
+    ],
+    "wof:id":823498855,
+    "wof:lastmodified":1466421385,
+    "wof:name":"Dukane Ultrasonics",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastic",
+        "welding"
+    ]
+},
+  "bbox": [
+    -73.401531,
+    41.45289,
+    -73.401531,
+    41.45289
+],
+  "geometry": {"coordinates":[-73.40153100000001,41.45289],"type":"Point"}
+}

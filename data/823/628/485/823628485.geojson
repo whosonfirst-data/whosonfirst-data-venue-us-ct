@@ -1,0 +1,77 @@
+{
+  "id": 823628485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211796,41.215758,-73.211796,41.215758",
+    "geom:latitude":41.215758,
+    "geom:longitude":-73.211796,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Hallock St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876503,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_416S5QOmqBKcvnHdCHzfAI_41.215758_-73.211796@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442599,
+    "wof:geomhash":"56c88b7d63e17e80c8497419286144a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876503,
+            "region_id":85688629,
+            "venue_id":823628485
+        }
+    ],
+    "wof:id":823628485,
+    "wof:lastmodified":1466423577,
+    "wof:name":"House Cleaning & Painting",
+    "wof:parent_id":85876503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.211796,
+    41.215758,
+    -73.211796,
+    41.215758
+],
+  "geometry": {"coordinates":[-73.21179600000001,41.215758],"type":"Point"}
+}

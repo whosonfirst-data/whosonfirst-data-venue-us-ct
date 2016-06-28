@@ -1,0 +1,81 @@
+{
+  "id": 823705529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.077862,41.329686,-73.077862,41.329686",
+    "geom:latitude":41.329686,
+    "geom:longitude":-73.077862,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"326 Derby Ave",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 736 9876",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36GNMZQwJhEMkHoBFpk6du_41.329686_-73.077862@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444347,
+    "wof:geomhash":"04ffb368f6e52e34b3308b587885d1a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823705529
+        }
+    ],
+    "wof:id":823705529,
+    "wof:lastmodified":1466424318,
+    "wof:name":"Cleaning & Maintenance Sltns",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -73.077862,
+    41.329686,
+    -73.077862,
+    41.329686
+],
+  "geometry": {"coordinates":[-73.077862,41.329686],"type":"Point"}
+}

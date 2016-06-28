@@ -1,0 +1,84 @@
+{
+  "id": 823532903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.02509,41.536739,-73.02509,41.536739",
+    "geom:latitude":41.536739,
+    "geom:longitude":-73.02509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Proctor St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 757 4550",
+    "sg:postcode":"06706",
+    "sg:province":"CT",
+    "sg:tags":[
+        "estimate",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HVSqxGE2DRRi4Dt1wIlFI_41.536739_-73.025090@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440310,
+    "wof:geomhash":"9ee0a4b21465df0bdfdd9ea3eb228fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":823532903
+        }
+    ],
+    "wof:id":823532903,
+    "wof:lastmodified":1466422357,
+    "wof:name":"Bid Mor Inc",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "estimate",
+        "construction"
+    ]
+},
+  "bbox": [
+    -73.02509,
+    41.536739,
+    -73.02509,
+    41.536739
+],
+  "geometry": {"coordinates":[-73.02509000000001,41.536739],"type":"Point"}
+}

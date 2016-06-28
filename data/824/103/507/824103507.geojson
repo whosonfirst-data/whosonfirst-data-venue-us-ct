@@ -1,0 +1,80 @@
+{
+  "id": 824103507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.645084,41.559734,-72.645084,41.559734",
+    "geom:latitude":41.559734,
+    "geom:longitude":-72.645084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"80 Harbor Dr",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 347 9999",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "style",
+        "family"
+    ],
+    "sg:website":"http://www.harbor-park.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q30EMDCoruwg8NVa3zP00_41.559734_-72.645084@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454413,
+    "wof:geomhash":"7f126074095294c0166f0e9e0b8ed58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824103507
+        }
+    ],
+    "wof:id":824103507,
+    "wof:lastmodified":1466422978,
+    "wof:name":"Harbor Park Restaurant",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family"
+    ]
+},
+  "bbox": [
+    -72.645084,
+    41.559734,
+    -72.645084,
+    41.559734
+],
+  "geometry": {"coordinates":[-72.645084,41.559734],"type":"Point"}
+}

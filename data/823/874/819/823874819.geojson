@@ -1,0 +1,73 @@
+{
+  "id": 823874819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.174553,41.344321,-72.174553,41.344321",
+    "geom:latitude":41.344321,
+    "geom:longitude":-72.174553,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"194 Niantic River Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 443 1514",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839911,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fGY54MFDFoRGXnxit6l3G_41.344321_-72.174553@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448839,
+    "wof:geomhash":"9884513486ff2f9727528296ff746e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85839911,
+            "region_id":85688629,
+            "venue_id":823874819
+        }
+    ],
+    "wof:id":823874819,
+    "wof:lastmodified":1466425799,
+    "wof:name":"Thomas A Patsiga",
+    "wof:parent_id":85839911,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.174553,
+    41.344321,
+    -72.174553,
+    41.344321
+],
+  "geometry": {"coordinates":[-72.174553,41.344321],"type":"Point"}
+}

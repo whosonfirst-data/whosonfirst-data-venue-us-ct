@@ -1,0 +1,81 @@
+{
+  "id": 823487269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051379,41.215766,-73.051379,41.215766",
+    "geom:latitude":41.215766,
+    "geom:longitude":-73.051379,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Wilbar Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 8468",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f4RBsG7KIXnHkT6egFCQf_41.215766_-73.051379@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439238,
+    "wof:geomhash":"46b9c3ee4d6a5b3c87d9604b7694cd1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823487269
+        }
+    ],
+    "wof:id":823487269,
+    "wof:lastmodified":1466421459,
+    "wof:name":"Essential Glass Coatings",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -73.051379,
+    41.215766,
+    -73.051379,
+    41.215766
+],
+  "geometry": {"coordinates":[-73.051379,41.215766],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823905685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900077,41.507532,-72.900077,41.507532",
+    "geom:latitude":41.507532,
+    "geom:longitude":-72.900077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"355 Highland Ave",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 272 1208",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_398sRadasiBCkXIM6SoNHI_41.507532_-72.900077@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449615,
+    "wof:geomhash":"63d2779f05cd07053fb79f00c471cd28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":823905685
+        }
+    ],
+    "wof:id":823905685,
+    "wof:lastmodified":1466426028,
+    "wof:name":"Fischbein Ellen R MD",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.900077,
+    41.507532,
+    -72.900077,
+    41.507532
+],
+  "geometry": {"coordinates":[-72.900077,41.507532],"type":"Point"}
+}

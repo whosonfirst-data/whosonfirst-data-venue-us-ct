@@ -1,0 +1,66 @@
+{
+  "id": 823730529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.083969,41.395629,-73.083969,41.395629",
+    "geom:latitude":41.395629,
+    "geom:longitude":-73.083969,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 New St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 4653",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YJNRAqVFMKniosu3OCSeA_41.395629_-73.083969@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444916,
+    "wof:geomhash":"8fb44aef1cf8eec0a64c121a625792e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823730529
+        }
+    ],
+    "wof:id":823730529,
+    "wof:lastmodified":1466424512,
+    "wof:name":"Paradise Pub",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.083969,
+    41.395629,
+    -73.083969,
+    41.395629
+],
+  "geometry": {"coordinates":[-73.083969,41.395629],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824039273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.400097,41.820228,-72.400097,41.820228",
+    "geom:latitude":41.820228,
+    "geom:longitude":-72.400097,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"84 Zeya Dr",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06238",
+    "sg:province":"CT",
+    "sg:tags":[
+        "elevator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843433,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ozWk5Lhi9b8pCxMixD18H_41.820228_-72.400097@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452913,
+    "wof:geomhash":"d7e24b736279890827426b95e10c2984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85843433,
+            "region_id":85688629,
+            "venue_id":824039273
+        }
+    ],
+    "wof:id":824039273,
+    "wof:lastmodified":1466421870,
+    "wof:name":"Michael Barselau",
+    "wof:parent_id":85843433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elevator"
+    ]
+},
+  "bbox": [
+    -72.400097,
+    41.820228,
+    -72.400097,
+    41.820228
+],
+  "geometry": {"coordinates":[-72.400097,41.820228],"type":"Point"}
+}

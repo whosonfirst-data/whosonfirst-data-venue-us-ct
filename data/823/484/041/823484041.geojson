@@ -1,0 +1,71 @@
+{
+  "id": 823484041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252522,41.305393,-73.252522,41.305393",
+    "geom:latitude":41.305393,
+    "geom:longitude":-73.252522,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"477 Purdy Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 8288",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42UHGV5gtrYJ6JnxLyIrzu_41.305393_-73.252522@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439166,
+    "wof:geomhash":"b3abf3dbef2e38d7ec5044754be81b87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823484041
+        }
+    ],
+    "wof:id":823484041,
+    "wof:lastmodified":1466421417,
+    "wof:name":"Wikman Snacks",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -73.252522,
+    41.305393,
+    -73.252522,
+    41.305393
+],
+  "geometry": {"coordinates":[-73.252522,41.305393],"type":"Point"}
+}

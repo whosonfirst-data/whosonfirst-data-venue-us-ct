@@ -1,0 +1,71 @@
+{
+  "id": 824007107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.842801,41.705298,-72.842801,41.705298",
+    "geom:latitude":41.705298,
+    "geom:longitude":-72.842801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"325 Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62PORenGX13IWEsV8Zq65o_41.705298_-72.842801@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452139,
+    "wof:geomhash":"895cff8368a63160661c20449b5b1d26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824007107
+        }
+    ],
+    "wof:id":824007107,
+    "wof:lastmodified":1466421218,
+    "wof:name":"Rafaniello & Lindblad Drs",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.842801,
+    41.705298,
+    -72.842801,
+    41.705298
+],
+  "geometry": {"coordinates":[-72.84280099999999,41.705298],"type":"Point"}
+}

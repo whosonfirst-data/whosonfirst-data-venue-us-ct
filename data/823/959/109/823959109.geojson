@@ -1,0 +1,79 @@
+{
+  "id": 823959109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.134598,41.199257,-73.134598,41.199257",
+    "geom:latitude":41.199257,
+    "geom:longitude":-73.134598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"501 King St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 610 6300",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56rycFxgX8c8kSYcSCf4Vs_41.199257_-73.134598@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451002,
+    "wof:geomhash":"80b382cc3c6b5e5918789abc01dd56a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823959109
+        }
+    ],
+    "wof:id":823959109,
+    "wof:lastmodified":1466426482,
+    "wof:name":"Associates In Pulmonary Mdcn",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.134598,
+    41.199257,
+    -73.134598,
+    41.199257
+],
+  "geometry": {"coordinates":[-73.134598,41.199257],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823793533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245675,41.291231,-73.245675,41.291231",
+    "geom:latitude":41.291231,
+    "geom:longitude":-73.245675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Tashua Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MshGgr8HvaNGlSUn95L9U_41.291231_-73.245675@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446532,
+    "wof:geomhash":"973b5d249e382a94cebcedb2850402b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823793533
+        }
+    ],
+    "wof:id":823793533,
+    "wof:lastmodified":1466425110,
+    "wof:name":"Stamford Cleaning",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.245675,
+    41.291231,
+    -73.245675,
+    41.291231
+],
+  "geometry": {"coordinates":[-73.24567500000001,41.291231],"type":"Point"}
+}

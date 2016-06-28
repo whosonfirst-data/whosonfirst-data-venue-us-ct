@@ -1,0 +1,73 @@
+{
+  "id": 823631115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.096034,41.547972,-72.096034,41.547972",
+    "geom:latitude":41.547972,
+    "geom:longitude":-72.096034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Lathrop Ave",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sSYXpcGeCtPpExeN9PADt_41.547972_-72.096034@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442651,
+    "wof:geomhash":"ddf2d551508c64ec379132790a76bbe9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823631115
+        }
+    ],
+    "wof:id":823631115,
+    "wof:lastmodified":1466423739,
+    "wof:name":"Eastern Connecticut Prmry Care",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.096034,
+    41.547972,
+    -72.096034,
+    41.547972
+],
+  "geometry": {"coordinates":[-72.096034,41.547972],"type":"Point"}
+}

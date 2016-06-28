@@ -1,0 +1,71 @@
+{
+  "id": 823690381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.586785,41.755615,-72.586785,41.755615",
+    "geom:latitude":41.755615,
+    "geom:longitude":-72.586785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"454 Forest St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mh8eoqBBvleDfUolgTH76_41.755615_-72.586785@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444024,
+    "wof:geomhash":"20a67562d31583cf637f99692070dfa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823690381
+        }
+    ],
+    "wof:id":823690381,
+    "wof:lastmodified":1466424111,
+    "wof:name":"Leo Hair Salon",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.586785,
+    41.755615,
+    -72.586785,
+    41.755615
+],
+  "geometry": {"coordinates":[-72.58678500000001,41.755615],"type":"Point"}
+}

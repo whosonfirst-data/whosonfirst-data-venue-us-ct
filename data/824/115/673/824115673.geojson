@@ -1,0 +1,83 @@
+{
+  "id": 824115673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227097,41.164411,-73.227097,41.164411",
+    "geom:latitude":41.164411,
+    "geom:longitude":-73.227097,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"450 Scofield Ave",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 583 3604",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "used",
+        "new"
+    ],
+    "sg:website":"http://www.smartcenterfairfield.com/smartcenterfairfield",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ObZZiCu3ildUWqyPhYueW_41.164411_-73.227097@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454670,
+    "wof:geomhash":"e0b8c40b77f85609df983713459e79de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824115673
+        }
+    ],
+    "wof:id":824115673,
+    "wof:lastmodified":1466423163,
+    "wof:name":"Smart center Fairfield",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "new"
+    ]
+},
+  "bbox": [
+    -73.227097,
+    41.164411,
+    -73.227097,
+    41.164411
+],
+  "geometry": {"coordinates":[-73.227097,41.164411],"type":"Point"}
+}

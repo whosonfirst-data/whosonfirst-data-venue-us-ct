@@ -1,0 +1,77 @@
+{
+  "id": 823972773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043738,41.554404,-73.043738,41.554404",
+    "geom:latitude":41.554404,
+    "geom:longitude":-73.043738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"235 Grand St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 597 3450",
+    "sg:postcode":"06702",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856379,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_110QMMsMfsoxsBqX1mi7Cy_41.554404_-73.043738@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451309,
+    "wof:geomhash":"1b0dbece3d20f20a5c2b0e07451e914b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":823972773
+        }
+    ],
+    "wof:id":823972773,
+    "wof:lastmodified":1466426663,
+    "wof:name":"Waterbury Fire Chief",
+    "wof:parent_id":85856379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.043738,
+    41.554404,
+    -73.043738,
+    41.554404
+],
+  "geometry": {"coordinates":[-73.043738,41.554404],"type":"Point"}
+}

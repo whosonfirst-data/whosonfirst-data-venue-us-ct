@@ -1,0 +1,73 @@
+{
+  "id": 823556345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.718474,41.939001,-72.718474,41.939001",
+    "geom:latitude":41.939001,
+    "geom:longitude":-72.718474,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 Rainbow Rd",
+    "sg:city":"East Granby",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 653 1704",
+    "sg:postcode":"06026",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16ugAVIaC9JBfzgZKsUeTj_41.939001_-72.718474@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440848,
+    "wof:geomhash":"1e104977a8116927fdb9cbfddef64305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823556345
+        }
+    ],
+    "wof:id":823556345,
+    "wof:lastmodified":1466422617,
+    "wof:name":"Exxon",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.718474,
+    41.939001,
+    -72.718474,
+    41.939001
+],
+  "geometry": {"coordinates":[-72.718474,41.939001],"type":"Point"}
+}

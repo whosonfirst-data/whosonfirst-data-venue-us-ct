@@ -1,0 +1,79 @@
+{
+  "id": 823515107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.094982,41.204719,-73.094982,41.204719",
+    "geom:latitude":41.204719,
+    "geom:longitude":-73.094982,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 Bridgeport Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 877 4787",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85814411,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FmryQni0KwMLciKiF8DxI_41.204719_-73.094982@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439911,
+    "wof:geomhash":"5a29f82d31a00b818f3c937bfb100835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85814411,
+            "region_id":85688629,
+            "venue_id":823515107
+        }
+    ],
+    "wof:id":823515107,
+    "wof:lastmodified":1466421995,
+    "wof:name":"Physical Therapy Specialists",
+    "wof:parent_id":85814411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.094982,
+    41.204719,
+    -73.094982,
+    41.204719
+],
+  "geometry": {"coordinates":[-73.094982,41.204719],"type":"Point"}
+}

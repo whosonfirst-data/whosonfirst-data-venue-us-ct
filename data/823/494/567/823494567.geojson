@@ -1,0 +1,71 @@
+{
+  "id": 823494567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930662,41.417464,-72.930662,41.417464",
+    "geom:latitude":41.417464,
+    "geom:longitude":-72.930662,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Leatherman Trl",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 4334",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ndlodKFHhQ9dniodL89Uu_41.417464_-72.930662@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439416,
+    "wof:geomhash":"d2b1c85eefd1148f6a269f7e219961cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823494567
+        }
+    ],
+    "wof:id":823494567,
+    "wof:lastmodified":1466421592,
+    "wof:name":"Clean Approach",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.930662,
+    41.417464,
+    -72.930662,
+    41.417464
+],
+  "geometry": {"coordinates":[-72.930662,41.417464],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823465573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.385452,41.393544,-73.385452,41.393544",
+    "geom:latitude":41.393544,
+    "geom:longitude":-73.385452,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Karen Dr",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 5708",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35T8CiACsSypFPrCFcvoFA_41.393544_-73.385452@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438737,
+    "wof:geomhash":"99b66f447465acf15ae268af389da2ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823465573
+        }
+    ],
+    "wof:id":823465573,
+    "wof:lastmodified":1466421160,
+    "wof:name":"Connecticut Discount Dental",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.385452,
+    41.393544,
+    -73.385452,
+    41.393544
+],
+  "geometry": {"coordinates":[-73.385452,41.393544],"type":"Point"}
+}

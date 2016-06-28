@@ -1,0 +1,73 @@
+{
+  "id": 823477991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.218886,41.163075,-73.218886,41.163075",
+    "geom:latitude":41.163075,
+    "geom:longitude":-73.218886,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"245 Ocean Ter",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 7830",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n9lFLhR6k6fr6IEWgIfSr_41.163075_-73.218886@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439038,
+    "wof:geomhash":"9aba2d528ab902ab881984e7d03eab5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823477991
+        }
+    ],
+    "wof:id":823477991,
+    "wof:lastmodified":1466421430,
+    "wof:name":"Bridgeport Fire Dept",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.218886,
+    41.163075,
+    -73.218886,
+    41.163075
+],
+  "geometry": {"coordinates":[-73.218886,41.163075],"type":"Point"}
+}

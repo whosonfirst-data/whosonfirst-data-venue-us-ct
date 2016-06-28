@@ -1,0 +1,79 @@
+{
+  "id": 823704377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.540853,41.064121,-73.540853,41.064121",
+    "geom:latitude":41.064121,
+    "geom:longitude":-73.540853,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1544 Bedford St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 8765",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LHboj7FNya6uxQXzQj52Y_41.064121_-73.540853@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444325,
+    "wof:geomhash":"b76e823fa5c26a37c8df8dd25a931c4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823704377
+        }
+    ],
+    "wof:id":823704377,
+    "wof:lastmodified":1466424293,
+    "wof:name":"C & C Limousine Service LLC",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -73.540853,
+    41.064121,
+    -73.540853,
+    41.064121
+],
+  "geometry": {"coordinates":[-73.540853,41.064121],"type":"Point"}
+}

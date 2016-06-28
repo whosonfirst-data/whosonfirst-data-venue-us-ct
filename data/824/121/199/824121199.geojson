@@ -1,0 +1,85 @@
+{
+  "id": 824121199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.519211,41.09538,-73.519211,41.09538",
+    "geom:latitude":41.09538,
+    "geom:longitude":-73.519211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1078 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 3300",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "seafood",
+        "steak",
+        "health",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bAbtpJyXzmTJ6wO6ORWcN_41.095380_-73.519211@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454787,
+    "wof:geomhash":"0fba2ed4ab90ce2676445a3a0d904a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":824121199
+        }
+    ],
+    "wof:id":824121199,
+    "wof:lastmodified":1466423320,
+    "wof:name":"Il Mulino",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "seafood",
+        "steak",
+        "health",
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.519211,
+    41.09538,
+    -73.519211,
+    41.09538
+],
+  "geometry": {"coordinates":[-73.519211,41.09538],"type":"Point"}
+}

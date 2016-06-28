@@ -1,0 +1,91 @@
+{
+  "id": 824093057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.534654,41.947578,-72.534654,41.947578",
+    "geom:latitude":41.947578,
+    "geom:longitude":-72.534654,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Sapphire St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 763 2040",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "home",
+        "builder",
+        "drainage",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VcTQ2bfIp557Y5T5ZYack_41.947578_-72.534654@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454150,
+    "wof:geomhash":"c6008ed7d3dd8071ab0e71205014c142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093057
+        }
+    ],
+    "wof:id":824093057,
+    "wof:lastmodified":1466422869,
+    "wof:name":"R A H Construction",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "home",
+        "builder",
+        "drainage",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.534654,
+    41.947578,
+    -72.534654,
+    41.947578
+],
+  "geometry": {"coordinates":[-72.534654,41.947578],"type":"Point"}
+}

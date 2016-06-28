@@ -1,0 +1,75 @@
+{
+  "id": 823502815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.664362,41.277592,-72.664362,41.277592",
+    "geom:latitude":41.277592,
+    "geom:longitude":-72.664362,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Sawpit Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 458 2801",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Y2On7VYL5W9x9GvMhzUB_41.277592_-72.664362@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439642,
+    "wof:geomhash":"244d1f805266a426e5a6836aa54cb4c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823502815
+        }
+    ],
+    "wof:id":823502815,
+    "wof:lastmodified":1466421641,
+    "wof:name":"Holland's Garage LLC",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.664362,
+    41.277592,
+    -72.664362,
+    41.277592
+],
+  "geometry": {"coordinates":[-72.664362,41.277592],"type":"Point"}
+}

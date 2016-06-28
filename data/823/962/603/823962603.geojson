@@ -1,0 +1,72 @@
+{
+  "id": 823962603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199975,41.185871,-73.199975,41.185871",
+    "geom:latitude":41.185871,
+    "geom:longitude":-73.199975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"324 Frank St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 6818",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fMKDq1xrw3ZSqFGobJam0_41.185871_-73.199975@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451084,
+    "wof:geomhash":"5388796b29815423f652493a889411df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823962603
+        }
+    ],
+    "wof:id":823962603,
+    "wof:lastmodified":1466426627,
+    "wof:name":"St Raphael's School",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.199975,
+    41.185871,
+    -73.199975,
+    41.185871
+],
+  "geometry": {"coordinates":[-73.19997499999999,41.185871],"type":"Point"}
+}

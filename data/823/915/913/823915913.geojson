@@ -1,0 +1,89 @@
+{
+  "id": 823915913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.748975,41.66285,-72.748975,41.66285",
+    "geom:latitude":41.66285,
+    "geom:longitude":-72.748975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Hickory Hill Ln",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 667 7652",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0caaCA5iy41yLkaTSI6dXp_41.662850_-72.748975@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449899,
+    "wof:geomhash":"330781c64adcce1e14eb3aa43228b8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823915913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823915913
+        }
+    ],
+    "wof:id":823915913,
+    "wof:lastmodified":1466426171,
+    "wof:name":"Electrical Connection Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.748975,
+    41.66285,
+    -72.748975,
+    41.66285
+],
+  "geometry": {"coordinates":[-72.748975,41.66285],"type":"Point"}
+}

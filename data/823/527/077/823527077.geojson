@@ -1,0 +1,75 @@
+{
+  "id": 823527077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.926872,41.357374,-72.926872,41.357374",
+    "geom:latitude":41.357374,
+    "geom:longitude":-72.926872,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1667 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 4602",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aqjSRvWFQpmFmFkyq99WG_41.357374_-72.926872@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440196,
+    "wof:geomhash":"69c1604d9276d03d8e0daad26e4c50e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823527077
+        }
+    ],
+    "wof:id":823527077,
+    "wof:lastmodified":1466422145,
+    "wof:name":"Auto Clinic Inc",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.926872,
+    41.357374,
+    -72.926872,
+    41.357374
+],
+  "geometry": {"coordinates":[-72.926872,41.357374],"type":"Point"}
+}

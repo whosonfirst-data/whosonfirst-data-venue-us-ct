@@ -1,0 +1,73 @@
+{
+  "id": 823816829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.230491,41.321949,-72.230491,41.321949",
+    "geom:latitude":41.321949,
+    "geom:longitude":-72.230491,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"267 Roxbury Rd",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 691 1129",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821451,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QpjCWg0WBhJ6KfHZI9zwz_41.321949_-72.230491@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447203,
+    "wof:geomhash":"fa04ebca884246861905b0fb78949e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85821451,
+            "region_id":85688629,
+            "venue_id":823816829
+        }
+    ],
+    "wof:id":823816829,
+    "wof:lastmodified":1466425324,
+    "wof:name":"Ahepa 250 Apts",
+    "wof:parent_id":85821451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.230491,
+    41.321949,
+    -72.230491,
+    41.321949
+],
+  "geometry": {"coordinates":[-72.230491,41.321949],"type":"Point"}
+}

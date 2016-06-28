@@ -1,0 +1,78 @@
+{
+  "id": 824075003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.669788,41.731549,-72.669788,41.731549",
+    "geom:latitude":41.731549,
+    "geom:longitude":-72.669788,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"901 Wethersfield Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/270497-costa-del-sol/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 296 1714",
+    "sg:postcode":"06114",
+    "sg:province":"CT",
+    "sg:tags":[
+        "spanish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878029,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cyAjBH4faqBgRMxcuq3xM_41.731549_-72.669788@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453736,
+    "wof:geomhash":"73e24e5e0a2b60ddb7afc5813a4732aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878029,
+            "region_id":85688629,
+            "venue_id":824075003
+        }
+    ],
+    "wof:id":824075003,
+    "wof:lastmodified":1466422662,
+    "wof:name":"Costa Del Sol",
+    "wof:parent_id":85878029,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spanish"
+    ]
+},
+  "bbox": [
+    -72.669788,
+    41.731549,
+    -72.669788,
+    41.731549
+],
+  "geometry": {"coordinates":[-72.669788,41.731549],"type":"Point"}
+}

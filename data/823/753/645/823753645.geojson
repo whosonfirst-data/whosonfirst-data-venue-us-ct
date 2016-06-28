@@ -1,0 +1,83 @@
+{
+  "id": 823753645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.485959,41.060747,-73.485959,41.060747",
+    "geom:latitude":41.060747,
+    "geom:longitude":-73.485959,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1904 Post Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 2772",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "science",
+        "reading",
+        "christian",
+        "rooms"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881997,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mUULQIx3YcRL5lkN1tVdf_41.060747_-73.485959@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445464,
+    "wof:geomhash":"0b536dfaac46db6c9171217a8b349485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85881997,
+            "region_id":85688629,
+            "venue_id":823753645
+        }
+    ],
+    "wof:id":823753645,
+    "wof:lastmodified":1466424714,
+    "wof:name":"Christian Science Reading Room",
+    "wof:parent_id":85881997,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "science",
+        "reading",
+        "christian",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -73.485959,
+    41.060747,
+    -73.485959,
+    41.060747
+],
+  "geometry": {"coordinates":[-73.48595899999999,41.060747],"type":"Point"}
+}

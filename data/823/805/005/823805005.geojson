@@ -1,0 +1,73 @@
+{
+  "id": 823805005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.562319,41.657244,-72.562319,41.657244",
+    "geom:latitude":41.657244,
+    "geom:longitude":-72.562319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"575 Woodland St",
+    "sg:city":"South Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 2742",
+    "sg:postcode":"06073",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dahO027sJ6YuaRGYeR2F1_41.657244_-72.562319@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446847,
+    "wof:geomhash":"f879ab90687857fab8c53bd74aed2248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823805005
+        }
+    ],
+    "wof:id":823805005,
+    "wof:lastmodified":1466425351,
+    "wof:name":"Woodland Farm",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -72.562319,
+    41.657244,
+    -72.562319,
+    41.657244
+],
+  "geometry": {"coordinates":[-72.562319,41.657244],"type":"Point"}
+}

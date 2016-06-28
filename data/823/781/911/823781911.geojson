@@ -1,0 +1,81 @@
+{
+  "id": 823781911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.429825,41.102871,-73.429825,41.102871",
+    "geom:latitude":41.102871,
+    "geom:longitude":-73.429825,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Taylor Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 4141",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FXxP274tZIu1xenqxZhHJ_41.102871_-73.429825@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446137,
+    "wof:geomhash":"fece457fcc3db9bbe7949979fa660678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823781911
+        }
+    ],
+    "wof:id":823781911,
+    "wof:lastmodified":1466425038,
+    "wof:name":"Foreign Car Motors Inc",
+    "wof:parent_id":85879311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.429825,
+    41.102871,
+    -73.429825,
+    41.102871
+],
+  "geometry": {"coordinates":[-73.42982499999999,41.102871],"type":"Point"}
+}

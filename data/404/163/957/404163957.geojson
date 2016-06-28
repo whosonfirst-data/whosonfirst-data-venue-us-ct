@@ -2,13 +2,14 @@
   "id": 404163957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.525389,41.135076,-73.525389,41.135076",
     "geom:latitude":41.135076,
     "geom:longitude":-73.525389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"652 Ponus Ridge",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404163957,
-    "wof:lastmodified":1449040307,
+    "wof:lastmodified":1466421095,
     "wof:name":"Ponus Capital LLC",
     "wof:parent_id":85842701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investor"
     ]
 },
-  "bbox": [-73.525389,41.135076,-73.525389,41.135076],
+  "bbox": [
+    -73.525389,
+    41.135076,
+    -73.525389,
+    41.135076
+],
   "geometry": {"coordinates":[-73.525389,41.135076],"type":"Point"}
 }

@@ -1,0 +1,90 @@
+{
+  "id": 823757041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417517,41.118817,-73.417517,41.118817",
+    "geom:latitude":41.118817,
+    "geom:longitude":-73.417517,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Cross St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 853 8455",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4t6urZIaTcQbHYHUhMdLyR_41.118817_-73.417517@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445560,
+    "wof:geomhash":"6dc4e4196b005da1966139671d0133b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823757041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":823757041
+        }
+    ],
+    "wof:id":823757041,
+    "wof:lastmodified":1466424741,
+    "wof:name":"Norwalk Transfer Station",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.417517,
+    41.118817,
+    -73.417517,
+    41.118817
+],
+  "geometry": {"coordinates":[-73.417517,41.118817],"type":"Point"}
+}

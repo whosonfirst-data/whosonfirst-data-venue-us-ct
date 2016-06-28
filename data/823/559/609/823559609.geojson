@@ -1,0 +1,85 @@
+{
+  "id": 823559609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.368048,41.415501,-73.368048,41.415501",
+    "geom:latitude":41.415501,
+    "geom:longitude":-73.368048,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"166 Mount Pleasant Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 8118",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "development",
+        "residential",
+        "housing",
+        "senior",
+        "home"
+    ],
+    "sg:website":"www.homesteadsct.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYhv1sKCFAYxlIRzWOLKA_41.415501_-73.368048@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440922,
+    "wof:geomhash":"64520ee2ca1bf4c717de4b8fdb95d963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823559609
+        }
+    ],
+    "wof:id":823559609,
+    "wof:lastmodified":1466422735,
+    "wof:name":"Homesteads At Newtown LLC",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "residential",
+        "housing",
+        "senior",
+        "home"
+    ]
+},
+  "bbox": [
+    -73.368048,
+    41.415501,
+    -73.368048,
+    41.415501
+],
+  "geometry": {"coordinates":[-73.368048,41.415501],"type":"Point"}
+}

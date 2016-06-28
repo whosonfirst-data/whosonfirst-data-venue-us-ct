@@ -1,0 +1,80 @@
+{
+  "id": 824081045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.541433,41.053046,-73.541433,41.053046",
+    "geom:latitude":41.053046,
+    "geom:longitude":-73.541433,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"187 Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/25391-tiernans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 8566",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4COmP7Ml3WYH2Lr0I0cEVJ_41.053046_-73.541433@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453874,
+    "wof:geomhash":"bea05b3dfc4f48ed5d5276d7be53181d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824081045
+        }
+    ],
+    "wof:id":824081045,
+    "wof:lastmodified":1466422569,
+    "wof:name":"Tiernan's",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -73.541433,
+    41.053046,
+    -73.541433,
+    41.053046
+],
+  "geometry": {"coordinates":[-73.541433,41.053046],"type":"Point"}
+}

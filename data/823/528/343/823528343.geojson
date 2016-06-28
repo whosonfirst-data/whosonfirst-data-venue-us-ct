@@ -1,0 +1,73 @@
+{
+  "id": 823528343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.430765,41.192503,-73.430765,41.192503",
+    "geom:latitude":41.192503,
+    "geom:longitude":-73.430765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Old Ridgefield Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 5656",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZtHdd6ypFrtuTHcs2CWJN_41.192503_-73.430765@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440221,
+    "wof:geomhash":"0077dc38c4e8feb588deb72fd143953e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823528343
+        }
+    ],
+    "wof:id":823528343,
+    "wof:lastmodified":1466422253,
+    "wof:name":"Wilton Country Homes",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -73.430765,
+    41.192503,
+    -73.430765,
+    41.192503
+],
+  "geometry": {"coordinates":[-73.43076499999999,41.192503],"type":"Point"}
+}

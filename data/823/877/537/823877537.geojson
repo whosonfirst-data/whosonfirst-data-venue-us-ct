@@ -1,0 +1,73 @@
+{
+  "id": 823877537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.985903,41.606157,-72.985903,41.606157",
+    "geom:latitude":41.606157,
+    "geom:longitude":-72.985903,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"865 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 3686",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nfqOaUDLRtgRXCl6wgPPo_41.606157_-72.985903@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448918,
+    "wof:geomhash":"b97fef1f3e8bb2afd9c00b58540b9699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823877537
+        }
+    ],
+    "wof:id":823877537,
+    "wof:lastmodified":1466425852,
+    "wof:name":"Dave's Service Ctr",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.985903,
+    41.606157,
+    -72.985903,
+    41.606157
+],
+  "geometry": {"coordinates":[-72.98590299999999,41.606157],"type":"Point"}
+}

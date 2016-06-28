@@ -1,0 +1,81 @@
+{
+  "id": 823853533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.949827,41.351664,-72.949827,41.351664",
+    "geom:latitude":41.351664,
+    "geom:longitude":-72.949827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 W Side Dr",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 773 2313",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "security",
+        "diplomatic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879185,
+        102086923,
+        85885309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jUV9OOMEdmKln6uiwEWQw_41.351664_-72.949827@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448321,
+    "wof:geomhash":"060174edeee47560d33b108d5d818dbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879185,
+            "region_id":85688629,
+            "venue_id":823853533
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823853533
+        }
+    ],
+    "wof:id":823853533,
+    "wof:lastmodified":1466425438,
+    "wof:name":"BDS Field Office",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security",
+        "diplomatic"
+    ]
+},
+  "bbox": [
+    -72.949827,
+    41.351664,
+    -72.949827,
+    41.351664
+],
+  "geometry": {"coordinates":[-72.949827,41.351664],"type":"Point"}
+}

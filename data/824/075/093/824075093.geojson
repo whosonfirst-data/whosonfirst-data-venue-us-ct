@@ -1,0 +1,82 @@
+{
+  "id": 824075093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.61689,41.727829,-72.61689,41.727829",
+    "geom:latitude":41.727829,
+    "geom:longitude":-72.61689,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Main St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/162607-nathans-famous/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 895 9583",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40jOSPVoB5L8BO5HiPFkBF_41.727829_-72.616890@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453738,
+    "wof:geomhash":"3d012e0e26bcec1386090525fcbe945f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824075093
+        }
+    ],
+    "wof:id":824075093,
+    "wof:lastmodified":1466422543,
+    "wof:name":"Nathan's Famous",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -72.61689,
+    41.727829,
+    -72.61689,
+    41.727829
+],
+  "geometry": {"coordinates":[-72.61689,41.727829],"type":"Point"}
+}

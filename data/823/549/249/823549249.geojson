@@ -1,0 +1,78 @@
+{
+  "id": 823549249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809765,41.506221,-72.809765,41.506221",
+    "geom:latitude":41.506221,
+    "geom:longitude":-72.809765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1251 S Broad St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 6351",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "educational",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31UoMrJWnreC7S5Ja0lI5q_41.506221_-72.809765@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440679,
+    "wof:geomhash":"d3f6f1a0735bfbcef86ece8494e283e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823549249
+        }
+    ],
+    "wof:id":823549249,
+    "wof:lastmodified":1466422492,
+    "wof:name":"Today's TEC Inc",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "computer"
+    ]
+},
+  "bbox": [
+    -72.809765,
+    41.506221,
+    -72.809765,
+    41.506221
+],
+  "geometry": {"coordinates":[-72.809765,41.506221],"type":"Point"}
+}

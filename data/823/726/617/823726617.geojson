@@ -1,0 +1,66 @@
+{
+  "id": 823726617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.210066,41.358966,-72.210066,41.358966",
+    "geom:latitude":41.358966,
+    "geom:longitude":-72.210066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"317 Flanders Rd",
+    "sg:city":"East Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 225 8585",
+    "sg:postcode":"06333",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822167,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iLyYYRgqWNkvkkLVyOeiS_41.358966_-72.210066@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444817,
+    "wof:geomhash":"c3940dd0b90e1480885a172ef98a1382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85822167,
+            "region_id":85688629,
+            "venue_id":823726617
+        }
+    ],
+    "wof:id":823726617,
+    "wof:lastmodified":1466424523,
+    "wof:name":"Physicians Health Services",
+    "wof:parent_id":85822167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.210066,
+    41.358966,
+    -72.210066,
+    41.358966
+],
+  "geometry": {"coordinates":[-72.210066,41.358966],"type":"Point"}
+}

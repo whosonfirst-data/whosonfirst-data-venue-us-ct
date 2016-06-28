@@ -1,0 +1,73 @@
+{
+  "id": 824098349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.19923,41.321747,-72.19923,41.321747",
+    "geom:latitude":41.321747,
+    "geom:longitude":-72.19923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Haigh Ave",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 9722",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wXzvOYb0tNTJ6PZaV2BFs_41.321747_-72.199230@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454304,
+    "wof:geomhash":"77218131e9bb370c5cd5eb4be3ddc324",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":824098349
+        }
+    ],
+    "wof:id":824098349,
+    "wof:lastmodified":1466422726,
+    "wof:name":"St., Agnes Church",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -72.19923,
+    41.321747,
+    -72.19923,
+    41.321747
+],
+  "geometry": {"coordinates":[-72.19923,41.321747],"type":"Point"}
+}

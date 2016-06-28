@@ -1,0 +1,85 @@
+{
+  "id": 824072567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.826573,41.807991,-72.826573,41.807991",
+    "geom:latitude":41.807991,
+    "geom:longitude":-72.826573,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 E Main St",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/avon/114637-brueggers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 674 1755",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TX0NdzJtmHIacLyK9Th3F_41.807991_-72.826573@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453684,
+    "wof:geomhash":"c8703fd4af656346ea1f46d8408933ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824072567
+        }
+    ],
+    "wof:id":824072567,
+    "wof:lastmodified":1466422454,
+    "wof:name":"Bruegger's",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -72.826573,
+    41.807991,
+    -72.826573,
+    41.807991
+],
+  "geometry": {"coordinates":[-72.826573,41.807991],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 270006675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.534599,41.162094,-73.534599,41.162094",
     "geom:latitude":41.162094,
     "geom:longitude":-73.534599,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Clearview Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":270006675,
-    "wof:lastmodified":1449010584,
+    "wof:lastmodified":1466421090,
     "wof:name":"Partners Advisory Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-73.534599,41.162094,-73.534599,41.162094],
+  "bbox": [
+    -73.534599,
+    41.162094,
+    -73.534599,
+    41.162094
+],
   "geometry": {"coordinates":[-73.534599,41.162094],"type":"Point"}
 }

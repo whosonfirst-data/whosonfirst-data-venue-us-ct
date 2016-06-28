@@ -1,0 +1,71 @@
+{
+  "id": 823604415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.873114,41.27853,-72.873114,41.27853",
+    "geom:latitude":41.27853,
+    "geom:longitude":-72.873114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"310 Main St",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 468 7181",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50FYJtpJuxEkEoSmZsYraD_41.278530_-72.873114@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442006,
+    "wof:geomhash":"31f417b6b3bb2caea3abf2c38e334272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823604415
+        }
+    ],
+    "wof:id":823604415,
+    "wof:lastmodified":1466423486,
+    "wof:name":"New Haven Oral & Maxillofacial",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.873114,
+    41.27853,
+    -72.873114,
+    41.27853
+],
+  "geometry": {"coordinates":[-72.873114,41.27853],"type":"Point"}
+}

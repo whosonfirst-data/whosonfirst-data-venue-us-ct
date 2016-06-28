@@ -1,0 +1,90 @@
+{
+  "id": 824074383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.69779,41.767839,-72.69779,41.767839",
+    "geom:latitude":41.767839,
+    "geom:longitude":-72.69779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"274 Farmington Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/261305-a-1-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 525 6666",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "calzones",
+        "american",
+        "pasta",
+        "chicken",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878017,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mC5Se0tl1YdGWjEOGVlX5_41.767839_-72.697790@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453725,
+    "wof:geomhash":"210c07580927ae00793b856013fd0cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878017,
+            "region_id":85688629,
+            "venue_id":824074383
+        }
+    ],
+    "wof:id":824074383,
+    "wof:lastmodified":1466422356,
+    "wof:name":"A-1 Pizza",
+    "wof:parent_id":85878017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "calzones",
+        "american",
+        "pasta",
+        "chicken",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.69779,
+    41.767839,
+    -72.69779,
+    41.767839
+],
+  "geometry": {"coordinates":[-72.69779,41.767839],"type":"Point"}
+}

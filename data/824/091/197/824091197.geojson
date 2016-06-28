@@ -1,0 +1,85 @@
+{
+  "id": 824091197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.802078,41.874026,-72.802078,41.874026",
+    "geom:latitude":41.874026,
+    "geom:longitude":-72.802078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Wilcox St",
+    "sg:city":"Simsbury Center",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 217 0312",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "sandwich"
+    ],
+    "sg:website":"www.joepizzacanton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841787,
+        102191575,
+        404495997,
+        85633793,
+        85931071,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bDoED8qT8ljmaO17BAsyo_41.874026_-72.802078@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454112,
+    "wof:geomhash":"c31954d595c16ee62f7e873faca04ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495997,
+            "locality_id":85931071,
+            "neighbourhood_id":85841787,
+            "region_id":85688629,
+            "venue_id":824091197
+        }
+    ],
+    "wof:id":824091197,
+    "wof:lastmodified":1466422833,
+    "wof:name":"Joe Pizza",
+    "wof:parent_id":85841787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.802078,
+    41.874026,
+    -72.802078,
+    41.874026
+],
+  "geometry": {"coordinates":[-72.80207799999999,41.874026],"type":"Point"}
+}

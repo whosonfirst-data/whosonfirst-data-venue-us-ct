@@ -1,0 +1,79 @@
+{
+  "id": 823577487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.857285,41.358313,-72.857285,41.358313",
+    "geom:latitude":41.358313,
+    "geom:longitude":-72.857285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"377 Quinnipiac Ave",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 234 9075",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835039,
+        102191575,
+        404495789,
+        85633793,
+        85931389,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lPGN3mUCOaaoN8o2Bmduc_41.358313_-72.857285@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441360,
+    "wof:geomhash":"a8b2b79d4f67842a6744a346da298530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495789,
+            "locality_id":85931389,
+            "neighbourhood_id":85835039,
+            "region_id":85688629,
+            "venue_id":823577487
+        }
+    ],
+    "wof:id":823577487,
+    "wof:lastmodified":1466422961,
+    "wof:name":"BNE LLC",
+    "wof:parent_id":85835039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.857285,
+    41.358313,
+    -72.857285,
+    41.358313
+],
+  "geometry": {"coordinates":[-72.857285,41.358313],"type":"Point"}
+}

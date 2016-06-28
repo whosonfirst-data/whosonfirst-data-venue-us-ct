@@ -2,13 +2,14 @@
   "id": 320232313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.652616,41.123651,-73.652616,41.123651",
     "geom:latitude":41.123651,
     "geom:longitude":-73.652616,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1016 Lake Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":320232313,
-    "wof:lastmodified":1449012473,
+    "wof:lastmodified":1466421123,
     "wof:name":"Conyers Farm Home Owners Assn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.652616,41.123651,-73.652616,41.123651],
-  "geometry": {"coordinates":[-73.652616,41.123651],"type":"Point"}
+  "bbox": [
+    -73.652616,
+    41.123651,
+    -73.652616,
+    41.123651
+],
+  "geometry": {"coordinates":[-73.65261599999999,41.123651],"type":"Point"}
 }

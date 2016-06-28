@@ -1,0 +1,71 @@
+{
+  "id": 823948599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.47869,41.722593,-73.47869,41.722593",
+    "geom:latitude":41.722593,
+    "geom:longitude":-73.47869,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 S Main St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06757",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GeCzDDDcok60zI9JcaXOp_41.722593_-73.478690@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450748,
+    "wof:geomhash":"abbffd4595cdc794855dd8aea781e096",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":823948599
+        }
+    ],
+    "wof:id":823948599,
+    "wof:lastmodified":1466426471,
+    "wof:name":"Western CT Window Cleaning",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.47869,
+    41.722593,
+    -73.47869,
+    41.722593
+],
+  "geometry": {"coordinates":[-73.47869,41.722593],"type":"Point"}
+}

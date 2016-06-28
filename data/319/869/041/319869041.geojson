@@ -2,13 +2,14 @@
   "id": 319869041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.664623,41.030838,-73.664623,41.030838",
     "geom:latitude":41.030838,
     "geom:longitude":-73.664623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"23 Buena Vista Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":319869041,
-    "wof:lastmodified":1449024823,
+    "wof:lastmodified":1466421121,
     "wof:name":"Acovo Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.664623,41.030838,-73.664623,41.030838],
-  "geometry": {"coordinates":[-73.664623,41.030838],"type":"Point"}
+  "bbox": [
+    -73.664623,
+    41.030838,
+    -73.664623,
+    41.030838
+],
+  "geometry": {"coordinates":[-73.66462300000001,41.030838],"type":"Point"}
 }

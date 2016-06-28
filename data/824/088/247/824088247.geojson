@@ -1,0 +1,82 @@
+{
+  "id": 824088247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.896103,41.8246,-72.896103,41.8246",
+    "geom:latitude":41.8246,
+    "geom:longitude":-72.896103,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Dowd Ave",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 4244",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yXGEoEoFEHVKcidlIkGIZ_41.824600_-72.896103@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454048,
+    "wof:geomhash":"e545f5a7b30b248e0cab68f2cc45ca2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824088247
+        }
+    ],
+    "wof:id":824088247,
+    "wof:lastmodified":1466422829,
+    "wof:name":"Children's Discovery Centers",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -72.896103,
+    41.8246,
+    -72.896103,
+    41.8246
+],
+  "geometry": {"coordinates":[-72.896103,41.8246],"type":"Point"}
+}

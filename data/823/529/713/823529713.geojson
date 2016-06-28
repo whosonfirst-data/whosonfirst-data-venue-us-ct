@@ -1,0 +1,73 @@
+{
+  "id": 823529713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229933,41.15651,-73.229933,41.15651",
+    "geom:latitude":41.15651,
+    "geom:longitude":-73.229933,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"190 Fox St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 382 0568",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53qYKiaoEXbApQBc5eqSPY_41.156510_-73.229933@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440246,
+    "wof:geomhash":"1c6d7df5af6f06fd9655e8b25549d8ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823529713
+        }
+    ],
+    "wof:id":823529713,
+    "wof:lastmodified":1466422278,
+    "wof:name":"Mid State Renovations",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.229933,
+    41.15651,
+    -73.229933,
+    41.15651
+],
+  "geometry": {"coordinates":[-73.229933,41.15651],"type":"Point"}
+}

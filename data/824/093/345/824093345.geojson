@@ -1,0 +1,87 @@
+{
+  "id": 824093345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.600418,42.002248,-72.600418,42.002248",
+    "geom:latitude":42.002248,
+    "geom:longitude":-72.600418,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Church St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 745 5092",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "churches-non-denominational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IxrY3WuQrBlGvPaqFnuwb_42.002248_-72.600418@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454160,
+    "wof:geomhash":"167e3aeccd51b0ef7c1df7d5b3e56059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824093345
+        }
+    ],
+    "wof:id":824093345,
+    "wof:lastmodified":1466423004,
+    "wof:name":"Ministries of Love & Hope",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-non-denominational"
+    ]
+},
+  "bbox": [
+    -72.600418,
+    42.002248,
+    -72.600418,
+    42.002248
+],
+  "geometry": {"coordinates":[-72.600418,42.002248],"type":"Point"}
+}

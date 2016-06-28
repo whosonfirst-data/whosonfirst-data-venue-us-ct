@@ -1,0 +1,73 @@
+{
+  "id": 823645815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.708109,41.85262,-72.708109,41.85262",
+    "geom:latitude":41.85262,
+    "geom:longitude":-72.708109,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 W Dudley Town Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 5082",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3f3nfKdrMM5x09yvsIzXYY_41.852620_-72.708109@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442986,
+    "wof:geomhash":"ea94c31b0a8f8795776a0fcbcf8d0a4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823645815
+        }
+    ],
+    "wof:id":823645815,
+    "wof:lastmodified":1466423690,
+    "wof:name":"Anderson Electrical Contractor",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.708109,
+    41.85262,
+    -72.708109,
+    41.85262
+],
+  "geometry": {"coordinates":[-72.70810899999999,41.85262],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824075471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.093837,41.354042,-72.093837,41.354042",
+    "geom:latitude":41.354042,
+    "geom:longitude":-72.093837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Bank St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-london/144101-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 443 0400",
+    "sg:postcode":"06320",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rn4GqWf0XhKTRq3aRofiO_41.354042_-72.093837@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453749,
+    "wof:geomhash":"6b43f11d93162d85ef86198be640f9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":824075471
+        }
+    ],
+    "wof:id":824075471,
+    "wof:lastmodified":1466422582,
+    "wof:name":"Subway",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.093837,
+    41.354042,
+    -72.093837,
+    41.354042
+],
+  "geometry": {"coordinates":[-72.09383699999999,41.354042],"type":"Point"}
+}

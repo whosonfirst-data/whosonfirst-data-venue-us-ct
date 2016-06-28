@@ -1,0 +1,79 @@
+{
+  "id": 823765967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.973852,41.247597,-72.973852,41.247597",
+    "geom:latitude":41.247597,
+    "geom:longitude":-72.973852,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"183 Milton Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 934 6584",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856347,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_661ujgHb3ixSeQBXVhW9oc_41.247597_-72.973852@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445738,
+    "wof:geomhash":"36ea68d0f91905d9c765f0463a5b19e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85856347,
+            "region_id":85688629,
+            "venue_id":823765967
+        }
+    ],
+    "wof:id":823765967,
+    "wof:lastmodified":1466424895,
+    "wof:name":"Campbell Dental Laboratory",
+    "wof:parent_id":85856347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -72.973852,
+    41.247597,
+    -72.973852,
+    41.247597
+],
+  "geometry": {"coordinates":[-72.97385199999999,41.247597],"type":"Point"}
+}

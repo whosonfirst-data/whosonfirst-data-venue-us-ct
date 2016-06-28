@@ -1,0 +1,74 @@
+{
+  "id": 824078149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.862611,41.277078,-72.862611,41.277078",
+    "geom:latitude":41.277078,
+    "geom:longitude":-72.862611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Main St",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-haven/47652-the-rib-house-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 468 6695",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qN2kqvC23IIsclvIBc41x_41.277078_-72.862611@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453815,
+    "wof:geomhash":"b64f662081a2c1a4f10374cecd44a866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824078149
+        }
+    ],
+    "wof:id":824078149,
+    "wof:lastmodified":1466422550,
+    "wof:name":"The Rib House Restaurant",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.862611,
+    41.277078,
+    -72.862611,
+    41.277078
+],
+  "geometry": {"coordinates":[-72.862611,41.277078],"type":"Point"}
+}

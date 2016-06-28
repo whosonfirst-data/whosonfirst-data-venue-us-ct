@@ -1,0 +1,96 @@
+{
+  "id": 824089215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.606052,41.712794,-72.606052,41.712794",
+    "geom:latitude":41.712794,
+    "geom:longitude":-72.606052,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Hebron Ave",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 657 2242",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "magnetic",
+        "surgeons",
+        "imaging",
+        "resonance",
+        "surgeon",
+        "mri"
+    ],
+    "sg:website":"http://www.openmrict.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jIMyHyeV9D2ZeyPohf30p_41.712794_-72.606052@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454071,
+    "wof:geomhash":"81f03328c8342fb7c840b53219bf7ef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":824089215
+        }
+    ],
+    "wof:id":824089215,
+    "wof:lastmodified":1466422825,
+    "wof:name":"Open MRI Of Connecticut",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "magnetic",
+        "surgeons",
+        "imaging",
+        "resonance",
+        "surgeon",
+        "mri"
+    ]
+},
+  "bbox": [
+    -72.606052,
+    41.712794,
+    -72.606052,
+    41.712794
+],
+  "geometry": {"coordinates":[-72.60605200000001,41.712794],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 824090649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.422699,41.9827,-73.422699,41.9827",
+    "geom:latitude":41.9827,
+    "geom:longitude":-73.422699,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Main St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 9388",
+    "sg:postcode":"06068",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803031,
+        102191575,
+        404496017,
+        85633793,
+        85931193,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hTwZovt0mkW8OnWkjFLim_41.982700_-73.422699@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454099,
+    "wof:geomhash":"d7849d7d3999640e50c2c87bd24322fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496017,
+            "locality_id":85931193,
+            "neighbourhood_id":85803031,
+            "region_id":85688629,
+            "venue_id":824090649
+        }
+    ],
+    "wof:id":824090649,
+    "wof:lastmodified":1466422870,
+    "wof:name":"Salisbury Pharmacy",
+    "wof:parent_id":85803031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -73.422699,
+    41.9827,
+    -73.422699,
+    41.9827
+],
+  "geometry": {"coordinates":[-73.42269899999999,41.9827],"type":"Point"}
+}

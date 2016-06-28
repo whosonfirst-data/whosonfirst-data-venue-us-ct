@@ -1,0 +1,71 @@
+{
+  "id": 824086041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.949898,41.725399,-72.949898,41.725399",
+    "geom:latitude":41.725399,
+    "geom:longitude":-72.949898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"438 Milford St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 7288",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mobdNP3M2ux0KSFGs0W0R_41.725399_-72.949898@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453997,
+    "wof:geomhash":"4f2458b36745ca9b323c539cc40e4d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824086041
+        }
+    ],
+    "wof:id":824086041,
+    "wof:lastmodified":1466422754,
+    "wof:name":"Richards Electric",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -72.949898,
+    41.725399,
+    -72.949898,
+    41.725399
+],
+  "geometry": {"coordinates":[-72.949898,41.725399],"type":"Point"}
+}

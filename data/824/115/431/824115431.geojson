@@ -1,0 +1,104 @@
+{
+  "id": 824115431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.242346,41.151318,-73.242346,41.151318",
+    "geom:latitude":41.151318,
+    "geom:longitude":-73.242346,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2196 Kings Hwy",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 255 2404",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission",
+        "automobile",
+        "part",
+        "supplies-used",
+        "transmissions-other",
+        "axle",
+        "rebuilt"
+    ],
+    "sg:website":"http://www.fairfieldtransmission.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XBM7Om0naOOtsoSkT6tN0_41.151318_-73.242346@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454665,
+    "wof:geomhash":"26c2a7322a0097dc1f97107bcf87013a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824115431
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824115431
+        }
+    ],
+    "wof:id":824115431,
+    "wof:lastmodified":1466423136,
+    "wof:name":"Fairfield Automatic Transmission Specialists Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automobile",
+        "part",
+        "supplies-used",
+        "transmissions-other",
+        "axle",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -73.242346,
+    41.151318,
+    -73.242346,
+    41.151318
+],
+  "geometry": {"coordinates":[-73.242346,41.151318],"type":"Point"}
+}

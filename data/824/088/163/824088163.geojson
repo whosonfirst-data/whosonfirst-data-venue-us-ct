@@ -1,0 +1,80 @@
+{
+  "id": 824088163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.871101,41.819401,-72.871101,41.819401",
+    "geom:latitude":41.819401,
+    "geom:longitude":-72.871101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Albany Tpke",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 0278",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "sg:website":"www.automobileassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qb13DL2ewwTSLkEVMBYgj_41.819401_-72.871101@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454046,
+    "wof:geomhash":"31e54024c663321e37ae8c5cf5ae4501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824088163
+        }
+    ],
+    "wof:id":824088163,
+    "wof:lastmodified":1466422820,
+    "wof:name":"Automobile Associates of Canton",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.871101,
+    41.819401,
+    -72.871101,
+    41.819401
+],
+  "geometry": {"coordinates":[-72.871101,41.819401],"type":"Point"}
+}

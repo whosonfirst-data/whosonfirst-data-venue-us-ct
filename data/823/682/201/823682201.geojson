@@ -1,0 +1,77 @@
+{
+  "id": 823682201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.547391,41.055629,-73.547391,41.055629",
+    "geom:latitude":41.055629,
+    "geom:longitude":-73.547391,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Adams Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 9249",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MGdiIqYVicUq07NFKBGoU_41.055629_-73.547391@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443834,
+    "wof:geomhash":"74b4a5629a32ad1b4adbd6a68d89577e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823682201
+        }
+    ],
+    "wof:id":823682201,
+    "wof:lastmodified":1466424080,
+    "wof:name":"Adams Grocery Store",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.547391,
+    41.055629,
+    -73.547391,
+    41.055629
+],
+  "geometry": {"coordinates":[-73.547391,41.055629],"type":"Point"}
+}

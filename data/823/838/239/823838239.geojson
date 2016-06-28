@@ -1,0 +1,98 @@
+{
+  "id": 823838239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.721355,41.66349,-72.721355,41.66349",
+    "geom:latitude":41.66349,
+    "geom:longitude":-72.721355,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3191 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocery",
+        "car",
+        "gasoline",
+        "wash",
+        "convenience",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836819,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85868725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gMiE1j4FO3Tp8dxQoOEiP_41.663490_-72.721355@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447878,
+    "wof:geomhash":"82d54335300eff716a1cb157b30adebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823838239
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823838239
+        }
+    ],
+    "wof:id":823838239,
+    "wof:lastmodified":1466425426,
+    "wof:name":"Newington Mobil Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "car",
+        "gasoline",
+        "wash",
+        "convenience",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.721355,
+    41.66349,
+    -72.721355,
+    41.66349
+],
+  "geometry": {"coordinates":[-72.721355,41.66349],"type":"Point"}
+}

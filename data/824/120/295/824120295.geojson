@@ -1,0 +1,99 @@
+{
+  "id": 824120295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.574601,41.097482,-73.574601,41.097482",
+    "geom:latitude":41.097482,
+    "geom:longitude":-73.574601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Doolittle Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 3257",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "systems-cleaning",
+        "tank",
+        "septic",
+        "excavation",
+        "system",
+        "contractor",
+        "drainage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868713,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iUpF9WWno4bTgfNDrpNV5_41.097482_-73.574601@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454770,
+    "wof:geomhash":"75c8da4f44368ac05028200ef779f827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85868713,
+            "region_id":85688629,
+            "venue_id":824120295
+        }
+    ],
+    "wof:id":824120295,
+    "wof:lastmodified":1466423333,
+    "wof:name":"Laurel Hill Septic Systems",
+    "wof:parent_id":85868713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "systems-cleaning",
+        "tank",
+        "septic",
+        "excavation",
+        "system",
+        "contractor",
+        "drainage"
+    ]
+},
+  "bbox": [
+    -73.574601,
+    41.097482,
+    -73.574601,
+    41.097482
+],
+  "geometry": {"coordinates":[-73.574601,41.097482],"type":"Point"}
+}

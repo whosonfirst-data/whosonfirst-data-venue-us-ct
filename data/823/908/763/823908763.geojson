@@ -1,0 +1,66 @@
+{
+  "id": 823908763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93523,41.338468,-72.93523,41.338468",
+    "geom:latitude":41.338468,
+    "geom:longitude":-72.93523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"962 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 3042",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KD7K3Xvvhex2zNflICPUK_41.338468_-72.935230@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449700,
+    "wof:geomhash":"9f85b5d64f52344e1d8c51f2752abd61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823908763
+        }
+    ],
+    "wof:id":823908763,
+    "wof:lastmodified":1466426293,
+    "wof:name":"Barbara's Restaurant",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93523,
+    41.338468,
+    -72.93523,
+    41.338468
+],
+  "geometry": {"coordinates":[-72.93523,41.338468],"type":"Point"}
+}

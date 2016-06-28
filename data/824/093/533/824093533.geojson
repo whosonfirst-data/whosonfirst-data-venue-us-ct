@@ -1,0 +1,80 @@
+{
+  "id": 824093533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.584923,41.997822,-72.584923,41.997822",
+    "geom:latitude":41.997822,
+    "geom:longitude":-72.584923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"90 Elm St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 741 2341",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "video",
+        "supply"
+    ],
+    "sg:website":"http://www.gamestop.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zRwiCrwTpyeRWtVz4Wxpq_41.997822_-72.584923@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454166,
+    "wof:geomhash":"3115eab5504e364241fc3397003bb42b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824093533
+        }
+    ],
+    "wof:id":824093533,
+    "wof:lastmodified":1466422911,
+    "wof:name":"Gamestop",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "supply"
+    ]
+},
+  "bbox": [
+    -72.584923,
+    41.997822,
+    -72.584923,
+    41.997822
+],
+  "geometry": {"coordinates":[-72.584923,41.997822],"type":"Point"}
+}

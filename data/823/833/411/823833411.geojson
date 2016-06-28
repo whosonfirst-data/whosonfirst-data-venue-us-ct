@@ -1,0 +1,73 @@
+{
+  "id": 823833411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261651,41.332624,-73.261651,41.332624",
+    "geom:latitude":41.332624,
+    "geom:longitude":-73.261651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Bart Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 459 2421",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gUUztU8V2M88Ba4kUE9f2_41.332624_-73.261651@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447694,
+    "wof:geomhash":"a4ed0e4a3cf3102bbca944175ef7888a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823833411
+        }
+    ],
+    "wof:id":823833411,
+    "wof:lastmodified":1466425440,
+    "wof:name":"Radio Fence",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.261651,
+    41.332624,
+    -73.261651,
+    41.332624
+],
+  "geometry": {"coordinates":[-73.261651,41.332624],"type":"Point"}
+}

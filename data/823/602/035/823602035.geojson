@@ -1,0 +1,79 @@
+{
+  "id": 823602035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92952,41.354107,-72.92952,41.354107",
+    "geom:latitude":41.354107,
+    "geom:longitude":-72.92952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1535 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 9888",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3skQpYtJo3CbW6fIGJ1jbJ_41.354107_-72.929520@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441958,
+    "wof:geomhash":"48bf85003ad3d539d88d17cb92701591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823602035
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823602035
+        }
+    ],
+    "wof:id":823602035,
+    "wof:lastmodified":1466423330,
+    "wof:name":"West End Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -72.92952,
+    41.354107,
+    -72.92952,
+    41.354107
+],
+  "geometry": {"coordinates":[-72.92952,41.354107],"type":"Point"}
+}

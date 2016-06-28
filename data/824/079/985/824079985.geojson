@@ -1,0 +1,74 @@
+{
+  "id": 824079985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.264279,41.141012,-73.264279,41.141012",
+    "geom:latitude":41.141012,
+    "geom:longitude":-73.264279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1851 Post Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/fairfield/278247-wilsons-holy-smoked-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 319 7427",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zivjmUssaszgFKmf012Ye_41.141012_-73.264279@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453852,
+    "wof:geomhash":"56698d382c2993d61be436bca191594c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824079985
+        }
+    ],
+    "wof:id":824079985,
+    "wof:lastmodified":1466422669,
+    "wof:name":"Wilson's Holy Smoked BBQ",
+    "wof:parent_id":85823291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.264279,
+    41.141012,
+    -73.264279,
+    41.141012
+],
+  "geometry": {"coordinates":[-73.264279,41.141012],"type":"Point"}
+}

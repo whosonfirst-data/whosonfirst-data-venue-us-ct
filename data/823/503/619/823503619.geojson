@@ -1,0 +1,83 @@
+{
+  "id": 823503619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180617,41.191097,-73.180617,41.191097",
+    "geom:latitude":41.191097,
+    "geom:longitude":-73.180617,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1219 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 0570",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Eg88z4UKVaaRu78Heq10I_41.191097_-73.180617@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439656,
+    "wof:geomhash":"5cf86f0842e0d63910c60cdf0a6b0f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823503619
+        }
+    ],
+    "wof:id":823503619,
+    "wof:lastmodified":1466421727,
+    "wof:name":"Check Cash In & More",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -73.180617,
+    41.191097,
+    -73.180617,
+    41.191097
+],
+  "geometry": {"coordinates":[-73.180617,41.191097],"type":"Point"}
+}

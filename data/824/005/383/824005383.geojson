@@ -1,0 +1,91 @@
+{
+  "id": 824005383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.49825,41.388979,-73.49825,41.388979",
+    "geom:latitude":41.388979,
+    "geom:longitude":-73.49825,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Mill Plain Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 9121",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "club",
+        "health",
+        "membership",
+        "studio",
+        "gymnasium"
+    ],
+    "sg:website":"www.nysc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834261,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JTLv6elSJ58CWUyylYP1y_41.388979_-73.498250@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452106,
+    "wof:geomhash":"5ebee93deeb7fc111e995233bafffc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834261,
+            "region_id":85688629,
+            "venue_id":824005383
+        }
+    ],
+    "wof:id":824005383,
+    "wof:lastmodified":1466421171,
+    "wof:name":"New York Sports Clubs",
+    "wof:parent_id":85834261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "health",
+        "membership",
+        "studio",
+        "gymnasium"
+    ]
+},
+  "bbox": [
+    -73.49825,
+    41.388979,
+    -73.49825,
+    41.388979
+],
+  "geometry": {"coordinates":[-73.49825,41.388979],"type":"Point"}
+}

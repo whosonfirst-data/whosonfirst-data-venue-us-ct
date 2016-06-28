@@ -1,0 +1,71 @@
+{
+  "id": 823595923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.052291,41.671887,-73.052291,41.671887",
+    "geom:latitude":41.671887,
+    "geom:longitude":-73.052291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"691 Main St",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 5021",
+    "sg:postcode":"06782",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NPKZwmk6HxYca9wWn5dCT_41.671887_-73.052291@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441791,
+    "wof:geomhash":"4427383445b56b32d756c85f181646a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823595923
+        }
+    ],
+    "wof:id":823595923,
+    "wof:lastmodified":1466423279,
+    "wof:name":"Fire & Rescue Co 1",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.052291,
+    41.671887,
+    -73.052291,
+    41.671887
+],
+  "geometry": {"coordinates":[-73.052291,41.671887],"type":"Point"}
+}

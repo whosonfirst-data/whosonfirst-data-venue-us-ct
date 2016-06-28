@@ -2,13 +2,14 @@
   "id": 253195329,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.689903,41.049675,-73.689903,41.049675",
     "geom:latitude":41.049675,
     "geom:longitude":-73.689903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 International Dr",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253195329,
-    "wof:lastmodified":1449064783,
+    "wof:lastmodified":1466421106,
     "wof:name":"Gbh LLC",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"
     ]
 },
-  "bbox": [-73.689903,41.049675,-73.689903,41.049675],
+  "bbox": [
+    -73.689903,
+    41.049675,
+    -73.689903,
+    41.049675
+],
   "geometry": {"coordinates":[-73.689903,41.049675],"type":"Point"}
 }

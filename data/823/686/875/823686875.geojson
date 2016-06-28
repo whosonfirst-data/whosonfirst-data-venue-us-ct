@@ -1,0 +1,78 @@
+{
+  "id": 823686875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116687,41.200551,-73.116687,41.200551",
+    "geom:latitude":41.200551,
+    "geom:longitude":-73.116687,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"250 Barnum Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 3466",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.shaws.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844831,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26fcqQTjhvKaxuu1W5CKBf_41.200551_-73.116687@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443948,
+    "wof:geomhash":"d0c3416e5fc05126b3bed110fe2a27ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85844831,
+            "region_id":85688629,
+            "venue_id":823686875
+        }
+    ],
+    "wof:id":823686875,
+    "wof:lastmodified":1466424129,
+    "wof:name":"Shaw's Supermarket",
+    "wof:parent_id":85844831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.116687,
+    41.200551,
+    -73.116687,
+    41.200551
+],
+  "geometry": {"coordinates":[-73.116687,41.200551],"type":"Point"}
+}

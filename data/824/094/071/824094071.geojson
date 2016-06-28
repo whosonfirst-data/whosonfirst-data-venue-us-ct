@@ -1,0 +1,66 @@
+{
+  "id": 824094071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.8834,41.756901,-72.8834,41.756901",
+    "geom:latitude":41.756901,
+    "geom:longitude":-72.8834,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Park Pond Pl",
+    "sg:city":"Unionville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 0600",
+    "sg:postcode":"06085",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iCNdV6qVlvU4shJ0NMcJu_41.756901_-72.883400@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454191,
+    "wof:geomhash":"4f2ac6c30eda04723ece1eeda62aa748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824094071
+        }
+    ],
+    "wof:id":824094071,
+    "wof:lastmodified":1466422877,
+    "wof:name":"Tunxis Service Center",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.8834,
+    41.756901,
+    -72.8834,
+    41.756901
+],
+  "geometry": {"coordinates":[-72.88339999999999,41.756901],"type":"Point"}
+}

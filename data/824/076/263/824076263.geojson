@@ -1,0 +1,80 @@
+{
+  "id": 824076263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.686516,41.602521,-72.686516,41.602521",
+    "geom:latitude":41.602521,
+    "geom:longitude":-72.686516,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Berlin Rd",
+    "sg:city":"Cromwell",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/cromwell/99016-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 635 3903",
+    "sg:postcode":"06416",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856893,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68DFGNaefINayX9lciNrMP_41.602521_-72.686516@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453769,
+    "wof:geomhash":"f19c8bcb8afcc0bcf887342089174d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85856893,
+            "region_id":85688629,
+            "venue_id":824076263
+        }
+    ],
+    "wof:id":824076263,
+    "wof:lastmodified":1466422556,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85856893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.686516,
+    41.602521,
+    -72.686516,
+    41.602521
+],
+  "geometry": {"coordinates":[-72.686516,41.602521],"type":"Point"}
+}

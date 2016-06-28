@@ -1,0 +1,80 @@
+{
+  "id": 823579205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.518141,41.076124,-73.518141,41.076124",
+    "geom:latitude":41.076124,
+    "geom:longitude":-73.518141,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Research Dr",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 348 6743",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.proservicepartners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1k4GcD6GR6KhF02dV5WPla_41.076124_-73.518141@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441405,
+    "wof:geomhash":"3aef315bc16fd6c0c84932c5b6c0c677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823579205
+        }
+    ],
+    "wof:id":823579205,
+    "wof:lastmodified":1466422739,
+    "wof:name":"Turner & Harrison",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.518141,
+    41.076124,
+    -73.518141,
+    41.076124
+],
+  "geometry": {"coordinates":[-73.518141,41.076124],"type":"Point"}
+}

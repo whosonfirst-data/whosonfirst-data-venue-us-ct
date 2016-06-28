@@ -1,0 +1,78 @@
+{
+  "id": 823925777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.097439,41.410401,-73.097439,41.410401",
+    "geom:latitude":41.410401,
+    "geom:longitude":-73.097439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"137 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 3150",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K3HrUuVUCl4pMs5PnnYmY_41.410401_-73.097439@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450142,
+    "wof:geomhash":"428143e3081e01b51990b9dfe8ac9f08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823925777
+        }
+    ],
+    "wof:id":823925777,
+    "wof:lastmodified":1466426322,
+    "wof:name":"New England Tire Brake Svc LLC",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tire"
+    ]
+},
+  "bbox": [
+    -73.097439,
+    41.410401,
+    -73.097439,
+    41.410401
+],
+  "geometry": {"coordinates":[-73.09743899999999,41.410401],"type":"Point"}
+}

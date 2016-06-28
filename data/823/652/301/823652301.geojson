@@ -1,0 +1,79 @@
+{
+  "id": 823652301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164158,41.18799,-73.164158,41.18799",
+    "geom:latitude":41.18799,
+    "geom:longitude":-73.164158,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Ridgefield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 386 1899",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RGcR3gXa00gJHcnWvUR5l_41.187990_-73.164158@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443127,
+    "wof:geomhash":"69e27929dd6828ff23acdd90347ba2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823652301
+        }
+    ],
+    "wof:id":823652301,
+    "wof:lastmodified":1466423813,
+    "wof:name":"Maxime JM Coles PC",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.164158,
+    41.18799,
+    -73.164158,
+    41.18799
+],
+  "geometry": {"coordinates":[-73.164158,41.18799],"type":"Point"}
+}

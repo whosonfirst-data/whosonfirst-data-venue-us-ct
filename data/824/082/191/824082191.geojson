@@ -1,0 +1,104 @@
+{
+  "id": 824082191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.403923,41.446366,-73.403923,41.446366",
+    "geom:latitude":41.446366,
+    "geom:longitude":-73.403923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"270 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/brookfield/129795-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 1222",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W7jj5DriCij4Owu5asclM_41.445868_-73.404023@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453899,
+    "wof:geomhash":"bed5475ad4d2d0f7242c3271df05f5a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824082191
+        }
+    ],
+    "wof:id":824082191,
+    "wof:lastmodified":1466422378,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.403923,
+    41.446366,
+    -73.403923,
+    41.446366
+],
+  "geometry": {"coordinates":[-73.40392300000001,41.446366],"type":"Point"}
+}

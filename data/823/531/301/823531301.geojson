@@ -1,0 +1,71 @@
+{
+  "id": 823531301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.867825,41.278825,-72.867825,41.278825",
+    "geom:latitude":41.278825,
+    "geom:longitude":-72.867825,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Messina Dr",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 468 7224",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6g5ynVYfFmrV3bPE6aud87_41.278825_-72.867825@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440277,
+    "wof:geomhash":"b82e724983f537b240c8e857b596bde1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823531301
+        }
+    ],
+    "wof:id":823531301,
+    "wof:lastmodified":1466422253,
+    "wof:name":"East Farm Village",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.867825,
+    41.278825,
+    -72.867825,
+    41.278825
+],
+  "geometry": {"coordinates":[-72.867825,41.278825],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823720721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.552583,41.274388,-72.552583,41.274388",
+    "geom:latitude":41.274388,
+    "geom:longitude":-72.552583,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1334 Boston Post Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 7258",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847627,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YA2dxGE8N06hZ5M7Q2vzr_41.274388_-72.552583@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444665,
+    "wof:geomhash":"c092fcaedc78d9fe6dd983d7c6b80f6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85847627,
+            "region_id":85688629,
+            "venue_id":823720721
+        }
+    ],
+    "wof:id":823720721,
+    "wof:lastmodified":1466424473,
+    "wof:name":"Mobil Mart",
+    "wof:parent_id":85847627,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.552583,
+    41.274388,
+    -72.552583,
+    41.274388
+],
+  "geometry": {"coordinates":[-72.552583,41.274388],"type":"Point"}
+}

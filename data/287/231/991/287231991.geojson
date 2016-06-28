@@ -2,13 +2,14 @@
   "id": 287231991,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491522,41.149149,-73.491522,41.149149",
     "geom:latitude":41.149149,
     "geom:longitude":-73.491522,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Locust Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287231991,
-    "wof:lastmodified":1449001113,
+    "wof:lastmodified":1466421097,
     "wof:name":"Larocco Joseph B",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "at"
     ]
 },
-  "bbox": [-73.491522,41.149149,-73.491522,41.149149],
+  "bbox": [
+    -73.491522,
+    41.149149,
+    -73.491522,
+    41.149149
+],
   "geometry": {"coordinates":[-73.491522,41.149149],"type":"Point"}
 }

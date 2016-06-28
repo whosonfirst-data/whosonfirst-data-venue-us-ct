@@ -1,0 +1,88 @@
+{
+  "id": 824104201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.315344,41.39301,-73.315344,41.39301",
+    "geom:latitude":41.39301,
+    "geom:longitude":-73.315344,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Head Of Meadow Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 0317",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "altering",
+        "contractor",
+        "contractors-commercial",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uEeVrJ8oZZiPKrzQRcWJh_41.393010_-73.315344@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454425,
+    "wof:geomhash":"93aca910e8fd21654b24b2553daf1db3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":824104201
+        }
+    ],
+    "wof:id":824104201,
+    "wof:lastmodified":1466423182,
+    "wof:name":"Kesco Electric & Home Improvement Co",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "electric",
+        "altering",
+        "contractor",
+        "contractors-commercial",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -73.315344,
+    41.39301,
+    -73.315344,
+    41.39301
+],
+  "geometry": {"coordinates":[-73.315344,41.39301],"type":"Point"}
+}

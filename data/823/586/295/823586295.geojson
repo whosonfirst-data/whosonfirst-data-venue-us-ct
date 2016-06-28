@@ -1,0 +1,75 @@
+{
+  "id": 823586295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.295251,41.813357,-72.295251,41.813357",
+    "geom:latitude":41.813357,
+    "geom:longitude":-72.295251,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"251 Middle Tpke",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 487 2712",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931263,
+        102085379,
+        85815787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65nlxsT3oSzD3mwgefKJoI_41.813357_-72.295251@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441563,
+    "wof:geomhash":"765ab199d44faa5d91810f0cd3eb0950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931263,
+            "neighbourhood_id":85815787,
+            "region_id":85688629,
+            "venue_id":823586295
+        }
+    ],
+    "wof:id":823586295,
+    "wof:lastmodified":1466423256,
+    "wof:name":"Bergin Correctional Instn",
+    "wof:parent_id":85815787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.295251,
+    41.813357,
+    -72.295251,
+    41.813357
+],
+  "geometry": {"coordinates":[-72.29525099999999,41.813357],"type":"Point"}
+}

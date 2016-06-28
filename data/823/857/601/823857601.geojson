@@ -1,0 +1,88 @@
+{
+  "id": 823857601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.714114,41.676111,-72.714114,41.676111",
+    "geom:latitude":41.676111,
+    "geom:longitude":-72.714114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2672 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XFKf1tRbOzJyo7PrHlrKx_41.676111_-72.714114@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448432,
+    "wof:geomhash":"602b3490b7a68d8901a5add95599a421",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823857601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823857601
+        }
+    ],
+    "wof:id":823857601,
+    "wof:lastmodified":1466425690,
+    "wof:name":"White Swan Motel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.714114,
+    41.676111,
+    -72.714114,
+    41.676111
+],
+  "geometry": {"coordinates":[-72.714114,41.676111],"type":"Point"}
+}

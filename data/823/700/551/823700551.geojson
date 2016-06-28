@@ -1,0 +1,71 @@
+{
+  "id": 823700551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.816603,41.276278,-72.816603,41.276278",
+    "geom:latitude":41.276278,
+    "geom:longitude":-72.816603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Elm St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MSBKY1bX0pUOi2fhkWUhu_41.276278_-72.816603@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444249,
+    "wof:geomhash":"f775ee9396a31c54d7d514f76859a310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823700551
+        }
+    ],
+    "wof:id":823700551,
+    "wof:lastmodified":1466424253,
+    "wof:name":"Cross Auto Body & Restoration",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.816603,
+    41.276278,
+    -72.816603,
+    41.276278
+],
+  "geometry": {"coordinates":[-72.816603,41.276278],"type":"Point"}
+}

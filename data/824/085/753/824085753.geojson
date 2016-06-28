@@ -1,0 +1,80 @@
+{
+  "id": 824085753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.928237,41.694055,-72.928237,41.694055",
+    "geom:latitude":41.694055,
+    "geom:longitude":-72.928237,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"164 Jerome Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 582 6313",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "sg:website":"http://www.bristolhousing.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S8gEC9O0pFZZm87wQmYWM_41.694055_-72.928237@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453992,
+    "wof:geomhash":"cbeb2da76ae988f4cf23aca6d59f6516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085753
+        }
+    ],
+    "wof:id":824085753,
+    "wof:lastmodified":1466422727,
+    "wof:name":"Housing Authority City Bristol",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -72.928237,
+    41.694055,
+    -72.928237,
+    41.694055
+],
+  "geometry": {"coordinates":[-72.928237,41.694055],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 823587149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.407546,41.111064,-73.407546,41.111064",
+    "geom:latitude":41.111064,
+    "geom:longitude":-73.407546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 East Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 854 7900",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pn1nweDBIOtHUN7fjCkOw_41.111064_-73.407546@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441582,
+    "wof:geomhash":"443b1b52e975a309bbb096bfb7e4be58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823587149
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":823587149
+        }
+    ],
+    "wof:id":823587149,
+    "wof:lastmodified":1466423148,
+    "wof:name":"Norwalk City Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -73.407546,
+    41.111064,
+    -73.407546,
+    41.111064
+],
+  "geometry": {"coordinates":[-73.407546,41.111064],"type":"Point"}
+}

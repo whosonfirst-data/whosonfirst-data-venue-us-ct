@@ -2,13 +2,14 @@
   "id": 404061941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.714859,41.061735,-73.714859,41.061735",
     "geom:latitude":41.061735,
     "geom:longitude":-73.714859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"67 Tower Rd",
     "sg:city":"West Harrison",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404061941,
-    "wof:lastmodified":1449039991,
+    "wof:lastmodified":1466421148,
     "wof:name":"Lower Cross Aircraft Corp",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft"
     ]
 },
-  "bbox": [-73.714859,41.061735,-73.714859,41.061735],
+  "bbox": [
+    -73.714859,
+    41.061735,
+    -73.714859,
+    41.061735
+],
   "geometry": {"coordinates":[-73.714859,41.061735],"type":"Point"}
 }

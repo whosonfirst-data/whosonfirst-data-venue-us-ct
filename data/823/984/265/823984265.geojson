@@ -1,0 +1,73 @@
+{
+  "id": 823984265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781847,41.666329,-72.781847,41.666329",
+    "geom:latitude":41.666329,
+    "geom:longitude":-72.781847,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Main St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1swptfZzMJcL6SgxQfHnZF_41.666329_-72.781847@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451591,
+    "wof:geomhash":"a8240db0172192b49aa15ba05c8a3a6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823984265
+        }
+    ],
+    "wof:id":823984265,
+    "wof:lastmodified":1466426695,
+    "wof:name":"New Britain Oral Surgery PC",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.781847,
+    41.666329,
+    -72.781847,
+    41.666329
+],
+  "geometry": {"coordinates":[-72.781847,41.666329],"type":"Point"}
+}

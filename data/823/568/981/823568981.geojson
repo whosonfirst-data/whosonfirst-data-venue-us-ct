@@ -1,0 +1,77 @@
+{
+  "id": 823568981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.946373,41.674357,-72.946373,41.674357",
+    "geom:latitude":41.674357,
+    "geom:longitude":-72.946373,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"181 N Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 584 7940",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61K4zuXa39CrWLWIvxyKkH_41.674357_-72.946373@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441164,
+    "wof:geomhash":"4ebf4c1b4fb5e8214422c47c2b809114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823568981
+        }
+    ],
+    "wof:id":823568981,
+    "wof:lastmodified":1466422863,
+    "wof:name":"Bristol Fire Department",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.946373,
+    41.674357,
+    -72.946373,
+    41.674357
+],
+  "geometry": {"coordinates":[-72.94637299999999,41.674357],"type":"Point"}
+}

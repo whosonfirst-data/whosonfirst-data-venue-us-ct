@@ -1,0 +1,76 @@
+{
+  "id": 824109575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.260246,41.279148,-73.260246,41.279148",
+    "geom:latitude":41.279148,
+    "geom:longitude":-73.260246,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Brittany Ave",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 8699",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "kennel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fAvsw7iPNg4M2v70sargV_41.279148_-73.260246@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454547,
+    "wof:geomhash":"ba02b7ea5e2681d4a8340558846146fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824109575
+        }
+    ],
+    "wof:id":824109575,
+    "wof:lastmodified":1466423249,
+    "wof:name":"Home Sweet Home Pet Sitting Se",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kennel"
+    ]
+},
+  "bbox": [
+    -73.260246,
+    41.279148,
+    -73.260246,
+    41.279148
+],
+  "geometry": {"coordinates":[-73.260246,41.279148],"type":"Point"}
+}

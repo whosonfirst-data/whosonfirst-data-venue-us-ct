@@ -1,0 +1,73 @@
+{
+  "id": 823796951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.647676,41.925712,-72.647676,41.925712",
+    "geom:latitude":41.925712,
+    "geom:longitude":-72.647676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 S Elm St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 5288",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dG0E3Nu82bpcPVP5BlPPV_41.925712_-72.647676@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446631,
+    "wof:geomhash":"2b02526021d9257986636eab89838151",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823796951
+        }
+    ],
+    "wof:id":823796951,
+    "wof:lastmodified":1466425143,
+    "wof:name":"Bradley Apartments",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.647676,
+    41.925712,
+    -72.647676,
+    41.925712
+],
+  "geometry": {"coordinates":[-72.647676,41.925712],"type":"Point"}
+}

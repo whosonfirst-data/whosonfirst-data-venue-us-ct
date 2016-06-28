@@ -1,0 +1,71 @@
+{
+  "id": 823730435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.589107,41.679701,-72.589107,41.679701",
+    "geom:latitude":41.679701,
+    "geom:longitude":-72.589107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"109 Little Acres Rd",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AXrRVw8bZLmXFL5HUevWH_41.679701_-72.589107@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444913,
+    "wof:geomhash":"3813a822149cd478413dffca0dedb696",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823730435
+        }
+    ],
+    "wof:id":823730435,
+    "wof:lastmodified":1466424498,
+    "wof:name":"Patricia S Cole",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.589107,
+    41.679701,
+    -72.589107,
+    41.679701
+],
+  "geometry": {"coordinates":[-72.589107,41.679701],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824017415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18898,41.338483,-73.18898,41.338483",
+    "geom:latitude":41.338483,
+    "geom:longitude":-73.18898,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Hillside Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4536",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2abzIYvS1olPrOdmP4zbzk_41.338483_-73.188980@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452368,
+    "wof:geomhash":"491120a587b49559cc00bd0d465a636d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824017415
+        }
+    ],
+    "wof:id":824017415,
+    "wof:lastmodified":1466421410,
+    "wof:name":"Joe Gentle Svc LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.18898,
+    41.338483,
+    -73.18898,
+    41.338483
+],
+  "geometry": {"coordinates":[-73.18898,41.338483],"type":"Point"}
+}

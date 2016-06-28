@@ -1,0 +1,73 @@
+{
+  "id": 823730901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.310953,41.416667,-73.310953,41.416667",
+    "geom:latitude":41.416667,
+    "geom:longitude":-73.310953,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 4240",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_190z6zL20hmN6mhpuGLgTa_41.416667_-73.310953@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444926,
+    "wof:geomhash":"59a6c5c2b0677b066a70a5837c2ea960",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823730901
+        }
+    ],
+    "wof:id":823730901,
+    "wof:lastmodified":1466424548,
+    "wof:name":"Newtown Tax Assessor",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -73.310953,
+    41.416667,
+    -73.310953,
+    41.416667
+],
+  "geometry": {"coordinates":[-73.310953,41.416667],"type":"Point"}
+}

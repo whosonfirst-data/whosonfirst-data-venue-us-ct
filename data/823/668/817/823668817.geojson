@@ -1,0 +1,84 @@
+{
+  "id": 823668817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.991587,41.544829,-72.991587,41.544829",
+    "geom:latitude":41.544829,
+    "geom:longitude":-72.991587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 Meriline Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 754 3047",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "consultant",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oROSccEOhLcRSmMTr4uBo_41.544829_-72.991587@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443545,
+    "wof:geomhash":"2ce3e1608caaab5e155c63b499228912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":823668817
+        }
+    ],
+    "wof:id":823668817,
+    "wof:lastmodified":1466423964,
+    "wof:name":"Standard Educational Inc",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "educational"
+    ]
+},
+  "bbox": [
+    -72.991587,
+    41.544829,
+    -72.991587,
+    41.544829
+],
+  "geometry": {"coordinates":[-72.991587,41.544829],"type":"Point"}
+}

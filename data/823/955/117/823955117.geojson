@@ -1,0 +1,71 @@
+{
+  "id": 823955117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248055,41.298546,-73.248055,41.298546",
+    "geom:latitude":41.298546,
+    "geom:longitude":-73.248055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6261",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nDtX4AXuhR9cRrP4VhbMD_41.298546_-73.248055@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450883,
+    "wof:geomhash":"775ebb21569c9f4ed4f52191c90941f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823955117
+        }
+    ],
+    "wof:id":823955117,
+    "wof:lastmodified":1466426465,
+    "wof:name":"American Express",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -73.248055,
+    41.298546,
+    -73.248055,
+    41.298546
+],
+  "geometry": {"coordinates":[-73.24805499999999,41.298546],"type":"Point"}
+}

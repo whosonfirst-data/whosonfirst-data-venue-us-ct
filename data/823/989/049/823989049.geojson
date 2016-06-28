@@ -1,0 +1,67 @@
+{
+  "id": 823989049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261816,41.341277,-73.261816,41.341277",
+    "geom:latitude":41.341277,
+    "geom:longitude":-73.261816,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"707 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 2652",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:website":"www.707onmain.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o0RFt2G7KrbJsV6sf3YOu_41.341277_-73.261816@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451694,
+    "wof:geomhash":"c0f65f17c7b95355c6a7b88260887b3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823989049
+        }
+    ],
+    "wof:id":823989049,
+    "wof:lastmodified":1466426825,
+    "wof:name":"707 On Main",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.261816,
+    41.341277,
+    -73.261816,
+    41.341277
+],
+  "geometry": {"coordinates":[-73.261816,41.341277],"type":"Point"}
+}

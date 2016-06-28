@@ -1,0 +1,73 @@
+{
+  "id": 823923461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.590862,41.787239,-72.590862,41.787239",
+    "geom:latitude":41.787239,
+    "geom:longitude":-72.590862,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"944 Tolland St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JeJY2ihEnolIUalq3E38I_41.787239_-72.590862@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450088,
+    "wof:geomhash":"71f8d0ffc8c92e4395d74795a8149520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823923461
+        }
+    ],
+    "wof:id":823923461,
+    "wof:lastmodified":1466426166,
+    "wof:name":"Dr Bobs Windshield Repair",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -72.590862,
+    41.787239,
+    -72.590862,
+    41.787239
+],
+  "geometry": {"coordinates":[-72.590862,41.787239],"type":"Point"}
+}

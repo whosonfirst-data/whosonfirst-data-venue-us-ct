@@ -1,0 +1,73 @@
+{
+  "id": 823646645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679403,41.873905,-72.679403,41.873905",
+    "geom:latitude":41.873905,
+    "geom:longitude":-72.679403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"555 Day Hill Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MV7KQIfJ7GpPzo3onYgRT_41.873905_-72.679403@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443007,
+    "wof:geomhash":"f39293b84ef6d488df4652aaac702e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":823646645
+        }
+    ],
+    "wof:id":823646645,
+    "wof:lastmodified":1466423768,
+    "wof:name":"Swiss Cleaners",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -72.679403,
+    41.873905,
+    -72.679403,
+    41.873905
+],
+  "geometry": {"coordinates":[-72.67940299999999,41.873905],"type":"Point"}
+}

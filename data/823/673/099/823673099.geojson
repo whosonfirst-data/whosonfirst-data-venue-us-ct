@@ -1,0 +1,73 @@
+{
+  "id": 823673099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.075858,41.671694,-73.075858,41.671694",
+    "geom:latitude":41.671694,
+    "geom:longitude":-73.075858,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 S Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 5944",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XkkV8XCcX4CBuS6Shg71L_41.671694_-73.075858@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443644,
+    "wof:geomhash":"d1641303dfaa4d2be6d596771cc6dd8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823673099
+        }
+    ],
+    "wof:id":823673099,
+    "wof:lastmodified":1466424156,
+    "wof:name":"R A F S",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.075858,
+    41.671694,
+    -73.075858,
+    41.671694
+],
+  "geometry": {"coordinates":[-73.075858,41.671694],"type":"Point"}
+}

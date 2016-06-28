@@ -1,0 +1,84 @@
+{
+  "id": 823736611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195177,41.218397,-73.195177,41.218397",
+    "geom:latitude":41.218397,
+    "geom:longitude":-73.195177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Rockridge Cir",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 371 6593",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manager",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876507,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RE6KcgYzJlGUPFfDyAgQW_41.218397_-73.195177@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445079,
+    "wof:geomhash":"b71508d9d7acb43825c59b331654470d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876507,
+            "region_id":85688629,
+            "venue_id":823736611
+        }
+    ],
+    "wof:id":823736611,
+    "wof:lastmodified":1466424602,
+    "wof:name":"Second Stone Ridge Coop Corp",
+    "wof:parent_id":85876507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.195177,
+    41.218397,
+    -73.195177,
+    41.218397
+],
+  "geometry": {"coordinates":[-73.195177,41.218397],"type":"Point"}
+}

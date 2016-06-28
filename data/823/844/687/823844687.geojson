@@ -1,0 +1,79 @@
+{
+  "id": 823844687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.020676,41.873824,-73.020676,41.873824",
+    "geom:latitude":41.873824,
+    "geom:longitude":-73.020676,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Burwell Rd",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06098",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835175,
+        102191575,
+        404495849,
+        85633793,
+        85931209,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nIJANkM20denbIAOIb5kp_41.873824_-73.020676@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448070,
+    "wof:geomhash":"b16856634ac56dd8c47a37ef2b063582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404495849,
+            "locality_id":85931209,
+            "neighbourhood_id":85835175,
+            "region_id":85688629,
+            "venue_id":823844687
+        }
+    ],
+    "wof:id":823844687,
+    "wof:lastmodified":1466425551,
+    "wof:name":"Trumbull Vending Rnt",
+    "wof:parent_id":85835175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -73.020676,
+    41.873824,
+    -73.020676,
+    41.873824
+],
+  "geometry": {"coordinates":[-73.02067599999999,41.873824],"type":"Point"}
+}

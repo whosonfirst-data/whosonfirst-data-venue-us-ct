@@ -1,0 +1,82 @@
+{
+  "id": 824103559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627212,41.552413,-72.627212,41.552413",
+    "geom:latitude":41.552413,
+    "geom:longitude":-72.627212,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 Obrien Dr",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 262 5400",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CyA6P7XZyqIdjjZIh3Jpy_41.552413_-72.627212@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454414,
+    "wof:geomhash":"c042022ecae427b2041aa3d6d486e46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824103559
+        }
+    ],
+    "wof:id":824103559,
+    "wof:lastmodified":1466422982,
+    "wof:name":"Whiting Forensic Division of Connecticut Valley Hospital",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.627212,
+    41.552413,
+    -72.627212,
+    41.552413
+],
+  "geometry": {"coordinates":[-72.627212,41.552413],"type":"Point"}
+}

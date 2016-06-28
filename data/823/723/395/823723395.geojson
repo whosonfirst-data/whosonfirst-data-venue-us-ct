@@ -1,0 +1,73 @@
+{
+  "id": 823723395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.288812,41.389996,-73.288812,41.389996",
+    "geom:latitude":41.389996,
+    "geom:longitude":-73.288812,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 8002",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clocks",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b20jTAthX4EaOoJrTLV1C_41.389996_-73.288812@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444735,
+    "wof:geomhash":"bf020ac91300c3f017689981fed73301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823723395
+        }
+    ],
+    "wof:id":823723395,
+    "wof:lastmodified":1466424458,
+    "wof:name":"Clock Shop",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clocks",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.288812,
+    41.389996,
+    -73.288812,
+    41.389996
+],
+  "geometry": {"coordinates":[-73.28881199999999,41.389996],"type":"Point"}
+}

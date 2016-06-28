@@ -1,0 +1,68 @@
+{
+  "id": 823660683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.224445,41.159493,-73.224445,41.159493",
+    "geom:latitude":41.159493,
+    "geom:longitude":-73.224445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2669 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 8642",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fpn4ifWhTd9MJeQCEXtik_41.159493_-73.224445@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443353,
+    "wof:geomhash":"7155b7449deb22865e38ce4b8efec81d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823660683
+        }
+    ],
+    "wof:id":823660683,
+    "wof:lastmodified":1466423932,
+    "wof:name":"Collins Pharmacy & Medical Inc",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.224445,
+    41.159493,
+    -73.224445,
+    41.159493
+],
+  "geometry": {"coordinates":[-73.224445,41.159493],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823942021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.380415,41.290675,-72.380415,41.290675",
+    "geom:latitude":41.290675,
+    "geom:longitude":-72.380415,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Lynde St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 3677",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "power",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01n5No8a0wTk64oxNG9Atg_41.290675_-72.380415@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450572,
+    "wof:geomhash":"10f30ed1ea4d37c6bb5b52b70b13d739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823942021
+        }
+    ],
+    "wof:id":823942021,
+    "wof:lastmodified":1466426363,
+    "wof:name":"Saybrook Lawn & Power Eqp",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power",
+        "mower"
+    ]
+},
+  "bbox": [
+    -72.380415,
+    41.290675,
+    -72.380415,
+    41.290675
+],
+  "geometry": {"coordinates":[-72.380415,41.290675],"type":"Point"}
+}

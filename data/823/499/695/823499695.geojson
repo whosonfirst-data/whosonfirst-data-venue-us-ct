@@ -1,0 +1,66 @@
+{
+  "id": 823499695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.786186,41.903119,-72.786186,41.903119",
+    "geom:latitude":41.903119,
+    "geom:longitude":-72.786186,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1414 Hopmeadow St",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 1085",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826319,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RcrJIxalDkEFCDIOsbCIy_41.903119_-72.786186@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439567,
+    "wof:geomhash":"3d5b8ce0ebedfda8978b0a4efe08493c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826319,
+            "region_id":85688629,
+            "venue_id":823499695
+        }
+    ],
+    "wof:id":823499695,
+    "wof:lastmodified":1466421733,
+    "wof:name":"Montanas Hardware Inc",
+    "wof:parent_id":85826319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.786186,
+    41.903119,
+    -72.786186,
+    41.903119
+],
+  "geometry": {"coordinates":[-72.786186,41.903119],"type":"Point"}
+}

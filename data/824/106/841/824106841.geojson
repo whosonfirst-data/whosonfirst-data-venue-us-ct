@@ -1,0 +1,85 @@
+{
+  "id": 824106841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.141549,41.259028,-73.141549,41.259028",
+    "geom:latitude":41.259028,
+    "geom:longitude":-73.141549,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Bridgeport Ave",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 9000",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.napleshamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qwpl2FMCJbSH6dDOnLOre_41.259028_-73.141549@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454482,
+    "wof:geomhash":"3c7e89eb546bf1d314ffb7e3a52d864c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":824106841
+        }
+    ],
+    "wof:id":824106841,
+    "wof:lastmodified":1466423234,
+    "wof:name":"Residence Inn-Fairfield County",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -73.141549,
+    41.259028,
+    -73.141549,
+    41.259028
+],
+  "geometry": {"coordinates":[-73.141549,41.259028],"type":"Point"}
+}

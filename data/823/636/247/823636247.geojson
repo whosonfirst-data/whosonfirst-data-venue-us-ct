@@ -1,0 +1,81 @@
+{
+  "id": 823636247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059413,41.564566,-73.059413,41.564566",
+    "geom:latitude":41.564566,
+    "geom:longitude":-73.059413,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"627 Watertown Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 573 8282",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GzVbOu3sbb8o9pZi3aiyv_41.564566_-73.059413@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442767,
+    "wof:geomhash":"09c80aa4e6badc67d84d414daded16e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823636247
+        }
+    ],
+    "wof:id":823636247,
+    "wof:lastmodified":1466423639,
+    "wof:name":"Dave's Automotive",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.059413,
+    41.564566,
+    -73.059413,
+    41.564566
+],
+  "geometry": {"coordinates":[-73.05941300000001,41.564566],"type":"Point"}
+}

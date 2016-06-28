@@ -1,0 +1,66 @@
+{
+  "id": 823737239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.012597,41.383315,-72.012597,41.383315",
+    "geom:latitude":41.383315,
+    "geom:longitude":-72.012597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"270 Rogers Rd",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 445 4999",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843415,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DvN2VIKFdb7WaQPg5uRWg_41.383315_-72.012597@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445090,
+    "wof:geomhash":"35fd2c04c393c5514dec6d1c40af1b28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85843415,
+            "region_id":85688629,
+            "venue_id":823737239
+        }
+    ],
+    "wof:id":823737239,
+    "wof:lastmodified":1466424566,
+    "wof:name":"Maple Ridge Kennels",
+    "wof:parent_id":85843415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.012597,
+    41.383315,
+    -72.012597,
+    41.383315
+],
+  "geometry": {"coordinates":[-72.012597,41.383315],"type":"Point"}
+}

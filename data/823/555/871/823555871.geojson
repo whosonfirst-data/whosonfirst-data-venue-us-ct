@@ -1,0 +1,66 @@
+{
+  "id": 823555871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.688769,41.29967,-72.688769,41.29967",
+    "geom:latitude":41.29967,
+    "geom:longitude":-72.688769,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Saw Mill Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 2707",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838597,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oYheadlNvpAd59weduEpV_41.299670_-72.688769@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440837,
+    "wof:geomhash":"bac8ec635e90cbcf2f8ce61d70886e2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85838597,
+            "region_id":85688629,
+            "venue_id":823555871
+        }
+    ],
+    "wof:id":823555871,
+    "wof:lastmodified":1466422557,
+    "wof:name":"Guilford Veterinary Hospital",
+    "wof:parent_id":85838597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.688769,
+    41.29967,
+    -72.688769,
+    41.29967
+],
+  "geometry": {"coordinates":[-72.68876899999999,41.29967],"type":"Point"}
+}

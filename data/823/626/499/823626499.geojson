@@ -1,0 +1,73 @@
+{
+  "id": 823626499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978047,41.711917,-72.978047,41.711917",
+    "geom:latitude":41.711917,
+    "geom:longitude":-72.978047,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Chapel St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 589 1700",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "ski",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44VNl4okflTHP4unSJXtTG_41.711917_-72.978047@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442543,
+    "wof:geomhash":"04a911edb0dfe93368ab6895bb4a7b68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823626499
+        }
+    ],
+    "wof:id":823626499,
+    "wof:lastmodified":1466423549,
+    "wof:name":"Ski Shop Mount Southington",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ski",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -72.978047,
+    41.711917,
+    -72.978047,
+    41.711917
+],
+  "geometry": {"coordinates":[-72.978047,41.711917],"type":"Point"}
+}

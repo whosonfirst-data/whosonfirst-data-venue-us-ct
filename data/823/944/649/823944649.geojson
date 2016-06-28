@@ -1,0 +1,73 @@
+{
+  "id": 823944649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.039211,41.346389,-72.039211,41.346389",
+    "geom:latitude":41.346389,
+    "geom:longitude":-72.039211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 South Rd",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 446 9171",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85831297,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D4aNkEpqJRIDIZPQxqkq6_41.346389_-72.039211@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450631,
+    "wof:geomhash":"8d18ff8ab68738bc17d353e49a63fe9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85831297,
+            "region_id":85688629,
+            "venue_id":823944649
+        }
+    ],
+    "wof:id":823944649,
+    "wof:lastmodified":1466426407,
+    "wof:name":"Willow Pond Apts",
+    "wof:parent_id":85831297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.039211,
+    41.346389,
+    -72.039211,
+    41.346389
+],
+  "geometry": {"coordinates":[-72.03921099999999,41.346389],"type":"Point"}
+}

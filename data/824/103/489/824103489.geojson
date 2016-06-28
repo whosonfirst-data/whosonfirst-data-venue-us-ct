@@ -1,0 +1,84 @@
+{
+  "id": 824103489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679722,41.594093,-72.679722,41.594093",
+    "geom:latitude":41.594093,
+    "geom:longitude":-72.679722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Tuttle Rd",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 635 4385",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "resale",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856893,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11w5n3QbAXZSs1keBlcYbU_41.594093_-72.679722@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454412,
+    "wof:geomhash":"141290faec74cd7a5de5ad85b9d41cc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85856893,
+            "region_id":85688629,
+            "venue_id":824103489
+        }
+    ],
+    "wof:id":824103489,
+    "wof:lastmodified":1466422977,
+    "wof:name":"Newfield Antq & Collectables",
+    "wof:parent_id":85856893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "resale",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.679722,
+    41.594093,
+    -72.679722,
+    41.594093
+],
+  "geometry": {"coordinates":[-72.679722,41.594093],"type":"Point"}
+}

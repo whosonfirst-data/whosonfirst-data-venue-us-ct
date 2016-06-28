@@ -1,0 +1,79 @@
+{
+  "id": 824032385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.314308,41.138614,-73.314308,41.138614",
+    "geom:latitude":41.138614,
+    "geom:longitude":-73.314308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1510 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 255 3549",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823521,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18VVbJBrIKMLv9IjFVu2vU_41.138614_-73.314308@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452726,
+    "wof:geomhash":"98547cac62a00be1cec275b9a6a66197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85823521,
+            "region_id":85688629,
+            "venue_id":824032385
+        }
+    ],
+    "wof:id":824032385,
+    "wof:lastmodified":1466421797,
+    "wof:name":"Westport Amoco",
+    "wof:parent_id":85823521,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.314308,
+    41.138614,
+    -73.314308,
+    41.138614
+],
+  "geometry": {"coordinates":[-73.314308,41.138614],"type":"Point"}
+}

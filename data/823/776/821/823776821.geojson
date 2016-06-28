@@ -1,0 +1,68 @@
+{
+  "id": 823776821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.79302,41.665311,-72.79302,41.665311",
+    "geom:latitude":41.665311,
+    "geom:longitude":-72.79302,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 Vine St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06052",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gbcRLaeN9XkxDY58s6xyQ_41.665311_-72.793020@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446002,
+    "wof:geomhash":"681770c59cbadb9fe55f873503487515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823776821
+        }
+    ],
+    "wof:id":823776821,
+    "wof:lastmodified":1466424973,
+    "wof:name":"Eric L Gladstein",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79302,
+    41.665311,
+    -72.79302,
+    41.665311
+],
+  "geometry": {"coordinates":[-72.79302,41.665311],"type":"Point"}
+}

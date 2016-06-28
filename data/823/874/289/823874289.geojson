@@ -1,0 +1,72 @@
+{
+  "id": 823874289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.223203,41.302732,-73.223203,41.302732",
+    "geom:latitude":41.302732,
+    "geom:longitude":-73.223203,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"270 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 3880",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888497,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48EV4TQdXiQefMn1yxv8t6_41.302732_-73.223203@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448831,
+    "wof:geomhash":"11d64f5b74284e413db0bbede9182c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888497,
+            "region_id":85688629,
+            "venue_id":823874289
+        }
+    ],
+    "wof:id":823874289,
+    "wof:lastmodified":1466425761,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85888497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.223203,
+    41.302732,
+    -73.223203,
+    41.302732
+],
+  "geometry": {"coordinates":[-73.223203,41.302732],"type":"Point"}
+}

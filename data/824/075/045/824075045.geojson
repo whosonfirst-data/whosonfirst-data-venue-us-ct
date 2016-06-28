@@ -1,0 +1,82 @@
+{
+  "id": 824075045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.746864,41.783634,-72.746864,41.783634",
+    "geom:latitude":41.783634,
+    "geom:longitude":-72.746864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 N Main St",
+    "sg:city":"West Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/west-hartford/124392-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 231 0615",
+    "sg:postcode":"06117",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867455,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48lZrXgURIHLzuVdV6eAyb_41.783634_-72.746864@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453737,
+    "wof:geomhash":"10cd7a31921b029930e0530a193692a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85867455,
+            "region_id":85688629,
+            "venue_id":824075045
+        }
+    ],
+    "wof:id":824075045,
+    "wof:lastmodified":1466422538,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85867455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.746864,
+    41.783634,
+    -72.746864,
+    41.783634
+],
+  "geometry": {"coordinates":[-72.746864,41.783634],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823878893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416845,41.57393,-73.416845,41.57393",
+    "geom:latitude":41.57393,
+    "geom:longitude":-73.416845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 2095",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PTawiCu1E2OX7O1WTFynF_41.573930_-73.416845@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448948,
+    "wof:geomhash":"5cd44ca40a3ca6de38515a4619130d32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823878893
+        }
+    ],
+    "wof:id":823878893,
+    "wof:lastmodified":1466425870,
+    "wof:name":"C & R Used Cars",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -73.416845,
+    41.57393,
+    -73.416845,
+    41.57393
+],
+  "geometry": {"coordinates":[-73.416845,41.57393],"type":"Point"}
+}

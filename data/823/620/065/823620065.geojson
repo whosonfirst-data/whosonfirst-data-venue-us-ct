@@ -1,0 +1,73 @@
+{
+  "id": 823620065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096796,41.432501,-73.096796,41.432501",
+    "geom:latitude":41.432501,
+    "geom:longitude":-73.096796,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"186 Chestnut Tree Hill Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 0188",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dCnQYIasfDEdPMgDvNu7c_41.432501_-73.096796@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442403,
+    "wof:geomhash":"0460893a2c901e264ccf33d2ee0ea476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823620065
+        }
+    ],
+    "wof:id":823620065,
+    "wof:lastmodified":1466423535,
+    "wof:name":"Mike's TV Repair",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -73.096796,
+    41.432501,
+    -73.096796,
+    41.432501
+],
+  "geometry": {"coordinates":[-73.096796,41.432501],"type":"Point"}
+}

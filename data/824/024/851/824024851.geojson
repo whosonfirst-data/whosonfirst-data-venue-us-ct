@@ -1,0 +1,75 @@
+{
+  "id": 824024851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.549784,41.781077,-72.549784,41.781077",
+    "geom:latitude":41.781077,
+    "geom:longitude":-72.549784,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"587 Middle Tpke W",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 643 3008",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "audit",
+        "field",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39pP3c55Th9fEda38X1Sbv_41.781077_-72.549784@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452537,
+    "wof:geomhash":"d1bb580125b15f668cac4bce56fbbc73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":824024851
+        }
+    ],
+    "wof:id":824024851,
+    "wof:lastmodified":1466421371,
+    "wof:name":"Field Audit Unit",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit",
+        "field",
+        "unit"
+    ]
+},
+  "bbox": [
+    -72.549784,
+    41.781077,
+    -72.549784,
+    41.781077
+],
+  "geometry": {"coordinates":[-72.549784,41.781077],"type":"Point"}
+}

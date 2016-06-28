@@ -1,0 +1,73 @@
+{
+  "id": 823531283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.082706,41.700353,-73.082706,41.700353",
+    "geom:latitude":41.700353,
+    "geom:longitude":-73.082706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Old Smith Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 6506",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "machine",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_248lmH2bjL9KrEaulxiwn7_41.700353_-73.082706@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440277,
+    "wof:geomhash":"ab0490ccecc6b0fb3fb95f56da65a573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823531283
+        }
+    ],
+    "wof:id":823531283,
+    "wof:lastmodified":1466422251,
+    "wof:name":"Omega Sorting",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.082706,
+    41.700353,
+    -73.082706,
+    41.700353
+],
+  "geometry": {"coordinates":[-73.082706,41.700353],"type":"Point"}
+}

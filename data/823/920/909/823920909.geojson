@@ -1,0 +1,84 @@
+{
+  "id": 823920909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.94291,41.279555,-72.94291,41.279555",
+    "geom:latitude":41.279555,
+    "geom:longitude":-72.94291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"451 1st Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 934 2127",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "heating",
+        "electrical",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32m0SPMh5Fi8Np0pVja0L3_41.279555_-72.942910@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450023,
+    "wof:geomhash":"0020ace4f162e49057409ef59049aef0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823920909
+        }
+    ],
+    "wof:id":823920909,
+    "wof:lastmodified":1466426214,
+    "wof:name":"West Haven Electric Co Inc",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "heating",
+        "electrical",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.94291,
+    41.279555,
+    -72.94291,
+    41.279555
+],
+  "geometry": {"coordinates":[-72.94291,41.279555],"type":"Point"}
+}

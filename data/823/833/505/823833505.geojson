@@ -1,0 +1,67 @@
+{
+  "id": 823833505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809881,41.284199,-72.809881,41.284199",
+    "geom:latitude":41.284199,
+    "geom:longitude":-72.809881,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1212 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 5573",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:website":"www.donovansreef.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UO55j5uzSwV93X8tb3de8_41.284199_-72.809881@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447696,
+    "wof:geomhash":"ad57a2ff5f1a5f9ed1ee7efd2252fdd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823833505
+        }
+    ],
+    "wof:id":823833505,
+    "wof:lastmodified":1466425445,
+    "wof:name":"Donovan's Reef",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.809881,
+    41.284199,
+    -72.809881,
+    41.284199
+],
+  "geometry": {"coordinates":[-72.809881,41.284199],"type":"Point"}
+}

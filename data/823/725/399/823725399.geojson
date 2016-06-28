@@ -1,0 +1,73 @@
+{
+  "id": 823725399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.659046,41.982719,-72.659046,41.982719",
+    "geom:latitude":41.982719,
+    "geom:longitude":-72.659046,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Ffyler Pl",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931039,
+        102085381,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20OZRWVZZfK08xoz2D3WDP_41.982719_-72.659046@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444795,
+    "wof:geomhash":"2a959d7b5d7783d1117477430e642884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":823725399
+        }
+    ],
+    "wof:id":823725399,
+    "wof:lastmodified":1466424490,
+    "wof:name":"Fox Hill Auto Services Inc",
+    "wof:parent_id":85865187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.659046,
+    41.982719,
+    -72.659046,
+    41.982719
+],
+  "geometry": {"coordinates":[-72.659046,41.982719],"type":"Point"}
+}

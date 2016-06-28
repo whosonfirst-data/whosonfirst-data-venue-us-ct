@@ -1,0 +1,71 @@
+{
+  "id": 823555735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.05641,41.679662,-73.05641,41.679662",
+    "geom:latitude":41.679662,
+    "geom:longitude":-73.05641,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Altair Ave",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 0721",
+    "sg:postcode":"06782",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_442pHfZUNiLYGaVgLutGYV_41.679662_-73.056410@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440834,
+    "wof:geomhash":"cc6892342dbce635f9dc708c1188caf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823555735
+        }
+    ],
+    "wof:id":823555735,
+    "wof:lastmodified":1466422542,
+    "wof:name":"March Services",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.05641,
+    41.679662,
+    -73.05641,
+    41.679662
+],
+  "geometry": {"coordinates":[-73.05641,41.679662],"type":"Point"}
+}

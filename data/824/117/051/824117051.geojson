@@ -1,0 +1,66 @@
+{
+  "id": 824117051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.631271,41.11225,-73.631271,41.11225",
+    "geom:latitude":41.11225,
+    "geom:longitude":-73.631271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"781 North St",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 629 4200",
+    "sg:postcode":"06831",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850923,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eVSLFVHieFillDs5sZmxQ_41.112250_-73.631271@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454704,
+    "wof:geomhash":"38601eff210c735f505ad9fdf70a6f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850923,
+            "region_id":85688629,
+            "venue_id":824117051
+        }
+    ],
+    "wof:id":824117051,
+    "wof:lastmodified":1466423280,
+    "wof:name":"The Vehicle Production Group",
+    "wof:parent_id":85850923,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.631271,
+    41.11225,
+    -73.631271,
+    41.11225
+],
+  "geometry": {"coordinates":[-73.631271,41.11225],"type":"Point"}
+}

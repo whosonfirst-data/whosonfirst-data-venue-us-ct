@@ -1,0 +1,77 @@
+{
+  "id": 823848461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528592,41.049325,-73.528592,41.049325",
+    "geom:latitude":41.049325,
+    "geom:longitude":-73.528592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Magee Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ooc4yMHoNYJPYqcah268a_41.049325_-73.528592@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448181,
+    "wof:geomhash":"35bc2b1c250c1bed02014cc44a00afd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823848461
+        }
+    ],
+    "wof:id":823848461,
+    "wof:lastmodified":1466425620,
+    "wof:name":"Three D Car Wash",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.528592,
+    41.049325,
+    -73.528592,
+    41.049325
+],
+  "geometry": {"coordinates":[-73.528592,41.049325],"type":"Point"}
+}

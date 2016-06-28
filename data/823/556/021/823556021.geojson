@@ -1,0 +1,77 @@
+{
+  "id": 823556021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.072508,41.547045,-73.072508,41.547045",
+    "geom:latitude":41.547045,
+    "geom:longitude":-73.072508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"714 Chase Pkwy",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 574 1725",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856379,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E0DUWDPclv6j2taMmOTFW_41.547045_-73.072508@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440841,
+    "wof:geomhash":"7f5aa6269ba5782fb74f5c85c82bd7e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":823556021
+        }
+    ],
+    "wof:id":823556021,
+    "wof:lastmodified":1466422581,
+    "wof:name":"Carl Bender DDS",
+    "wof:parent_id":85856379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.072508,
+    41.547045,
+    -73.072508,
+    41.547045
+],
+  "geometry": {"coordinates":[-73.072508,41.547045],"type":"Point"}
+}

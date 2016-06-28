@@ -2,13 +2,14 @@
   "id": 253709903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.656789,41.014333,-73.656789,41.014333",
     "geom:latitude":41.014333,
     "geom:longitude":-73.656789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Riverdale Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253709903,
-    "wof:lastmodified":1449063403,
+    "wof:lastmodified":1466421110,
     "wof:name":"C S Goodfriend & Co",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.656789,41.014333,-73.656789,41.014333],
+  "bbox": [
+    -73.656789,
+    41.014333,
+    -73.656789,
+    41.014333
+],
   "geometry": {"coordinates":[-73.656789,41.014333],"type":"Point"}
 }

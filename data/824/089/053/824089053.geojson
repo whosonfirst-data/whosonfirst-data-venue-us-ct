@@ -1,0 +1,80 @@
+{
+  "id": 824089053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.829944,41.721604,-72.829944,41.721604",
+    "geom:latitude":41.721604,
+    "geom:longitude":-72.829944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 677 6866",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Em6QZlnHpPJDzp4IHpmeK_41.721604_-72.829944@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454068,
+    "wof:geomhash":"92d4266f442ef6212a02e4f2c9af51ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824089053
+        }
+    ],
+    "wof:id":824089053,
+    "wof:lastmodified":1466422808,
+    "wof:name":"Village Branch Library",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -72.829944,
+    41.721604,
+    -72.829944,
+    41.721604
+],
+  "geometry": {"coordinates":[-72.829944,41.721604],"type":"Point"}
+}

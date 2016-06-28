@@ -1,0 +1,82 @@
+{
+  "id": 823512921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107613,41.195746,-73.107613,41.195746",
+    "geom:latitude":41.195746,
+    "geom:longitude":-73.107613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Berkeley Ter",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 877 4373",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "roofing",
+        "material",
+        "contractor"
+    ],
+    "sg:website":"www.berkeleyexteriors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85814411,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mAyBWIXp9DpjQ2tyadNQO_41.195746_-73.107613@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439863,
+    "wof:geomhash":"28967389a23721b2dba57e1d9e7d03eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85814411,
+            "region_id":85688629,
+            "venue_id":823512921
+        }
+    ],
+    "wof:id":823512921,
+    "wof:lastmodified":1466422084,
+    "wof:name":"Berkeley Exteriors Inc",
+    "wof:parent_id":85814411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "material",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.107613,
+    41.195746,
+    -73.107613,
+    41.195746
+],
+  "geometry": {"coordinates":[-73.107613,41.195746],"type":"Point"}
+}

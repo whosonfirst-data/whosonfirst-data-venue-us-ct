@@ -1,0 +1,76 @@
+{
+  "id": 824074073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.640077,41.856108,-72.640077,41.856108",
+    "geom:latitude":41.856108,
+    "geom:longitude":-72.640077,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Palisado Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/windsor/83158-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 683 2127",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q105DVZS3QhGFsubFujZJ_41.856108_-72.640077@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453720,
+    "wof:geomhash":"17d510caa66e5c7ada12aa91fe9ee913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824074073
+        }
+    ],
+    "wof:id":824074073,
+    "wof:lastmodified":1466422410,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.640077,
+    41.856108,
+    -72.640077,
+    41.856108
+],
+  "geometry": {"coordinates":[-72.64007700000001,41.856108],"type":"Point"}
+}

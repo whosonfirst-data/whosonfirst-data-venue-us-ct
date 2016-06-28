@@ -1,0 +1,87 @@
+{
+  "id": 824098425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.062303,41.528325,-72.062303,41.528325",
+    "geom:latitude":41.528325,
+    "geom:longitude":-72.062303,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Central Ave",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 886 5902",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "accessory",
+        "customizing"
+    ],
+    "sg:website":"http://www.streetstuffcycle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823081,
+        102191575,
+        404495761,
+        85633793,
+        85930861,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46Js1DuwJmsy0MVbmhMy8X_41.528325_-72.062303@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454306,
+    "wof:geomhash":"c139d856dabd1b3cd87d2c3bd618ec59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495761,
+            "locality_id":85930861,
+            "neighbourhood_id":85823081,
+            "region_id":85688629,
+            "venue_id":824098425
+        }
+    ],
+    "wof:id":824098425,
+    "wof:lastmodified":1466422737,
+    "wof:name":"Street Stuff",
+    "wof:parent_id":85823081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "accessory",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -72.062303,
+    41.528325,
+    -72.062303,
+    41.528325
+],
+  "geometry": {"coordinates":[-72.062303,41.528325],"type":"Point"}
+}

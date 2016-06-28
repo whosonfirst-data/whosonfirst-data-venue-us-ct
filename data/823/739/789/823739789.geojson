@@ -1,0 +1,75 @@
+{
+  "id": 823739789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.985016,41.347332,-72.985016,41.347332",
+    "geom:latitude":41.347332,
+    "geom:longitude":-72.985016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Lawrence St",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 387 7477",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5omki7Eu4OOWLs0GweSS0a_41.347332_-72.985016@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445154,
+    "wof:geomhash":"c4138a49819a80daaa23f1d444ab10a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823739789
+        }
+    ],
+    "wof:id":823739789,
+    "wof:lastmodified":1466424668,
+    "wof:name":"Sal's Electric",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.985016,
+    41.347332,
+    -72.985016,
+    41.347332
+],
+  "geometry": {"coordinates":[-72.985016,41.347332],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 824113943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.472838,41.394662,-73.472838,41.394662",
+    "geom:latitude":41.394662,
+    "geom:longitude":-73.472838,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Hakim St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 3366",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "convalescent",
+        "nursing",
+        "homes-skilled",
+        "facility"
+    ],
+    "sg:website":"http://www.filosa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62GXKxV6iSXJNJBBDOVBLe_41.394662_-73.472838@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454638,
+    "wof:geomhash":"ba6556fb559d95e71c2eee0244f35082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824113943
+        }
+    ],
+    "wof:id":824113943,
+    "wof:lastmodified":1466423110,
+    "wof:name":"Filosa Convalescent Home, Inc.",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convalescent",
+        "nursing",
+        "homes-skilled",
+        "facility"
+    ]
+},
+  "bbox": [
+    -73.472838,
+    41.394662,
+    -73.472838,
+    41.394662
+],
+  "geometry": {"coordinates":[-73.472838,41.394662],"type":"Point"}
+}

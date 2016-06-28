@@ -1,0 +1,71 @@
+{
+  "id": 823632681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932411,41.337697,-72.932411,41.337697",
+    "geom:latitude":41.337697,
+    "geom:longitude":-72.932411,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"382 Morse St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QhOdbp36DvNeXke8tqzMF_41.337697_-72.932411@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442686,
+    "wof:geomhash":"d0bfec866f1abd1b97db50421b47cae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823632681
+        }
+    ],
+    "wof:id":823632681,
+    "wof:lastmodified":1466423611,
+    "wof:name":"Hamden Auto Interiors",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.932411,
+    41.337697,
+    -72.932411,
+    41.337697
+],
+  "geometry": {"coordinates":[-72.932411,41.337697],"type":"Point"}
+}

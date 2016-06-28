@@ -1,0 +1,93 @@
+{
+  "id": 824114479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.457176,41.412498,-73.457176,41.412498",
+    "geom:latitude":41.412498,
+    "geom:longitude":-73.457176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Padanaram Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 2668",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824355,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bdQWVg6HQ3IGdX7TXs8dl_41.412498_-73.457176@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454648,
+    "wof:geomhash":"c63c17bb2ece0be547660bf1ba957a2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85824355,
+            "region_id":85688629,
+            "venue_id":824114479
+        }
+    ],
+    "wof:id":824114479,
+    "wof:lastmodified":1466423248,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85824355,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -73.457176,
+    41.412498,
+    -73.457176,
+    41.412498
+],
+  "geometry": {"coordinates":[-73.457176,41.412498],"type":"Point"}
+}

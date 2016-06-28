@@ -1,0 +1,73 @@
+{
+  "id": 823467633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.760373,41.605536,-72.760373,41.605536",
+    "geom:latitude":41.605536,
+    "geom:longitude":-72.760373,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Red Barn Ct",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 829 2254",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GCHqba1PR5YIJPTzZDBxU_41.605536_-72.760373@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438778,
+    "wof:geomhash":"30f0e98a14b6667d7ea86da36856088a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823467633
+        }
+    ],
+    "wof:id":823467633,
+    "wof:lastmodified":1466421217,
+    "wof:name":"Mothers Family Restaurant",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.760373,
+    41.605536,
+    -72.760373,
+    41.605536
+],
+  "geometry": {"coordinates":[-72.760373,41.605536],"type":"Point"}
+}

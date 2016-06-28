@@ -1,0 +1,75 @@
+{
+  "id": 823975725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.751397,41.627411,-72.751397,41.627411",
+    "geom:latitude":41.627411,
+    "geom:longitude":-72.751397,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Town Farm Ln",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 828 7057",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "sg:tags":[
+        "executive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00Z1TM5RHJ3pnrAqYabHxU_41.627411_-72.751397@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451373,
+    "wof:geomhash":"eb5d47bd7799f908ae3432a3bf194d00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823975725
+        }
+    ],
+    "wof:id":823975725,
+    "wof:lastmodified":1466426678,
+    "wof:name":"Berlin Municipal Garage",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.751397,
+    41.627411,
+    -72.751397,
+    41.627411
+],
+  "geometry": {"coordinates":[-72.751397,41.627411],"type":"Point"}
+}

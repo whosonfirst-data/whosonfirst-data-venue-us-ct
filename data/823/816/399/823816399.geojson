@@ -1,0 +1,87 @@
+{
+  "id": 823816399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627284,41.788368,-72.627284,41.788368",
+    "geom:latitude":41.788368,
+    "geom:longitude":-72.627284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Tiffany Rd",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 528 8440",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CXtwInRXjDr9ZQBfxaks4_41.788368_-72.627284@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447194,
+    "wof:geomhash":"5db9e6f83f645c7e7dfa9511a50e94d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823816399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823816399
+        }
+    ],
+    "wof:id":823816399,
+    "wof:lastmodified":1466425279,
+    "wof:name":"Clifford C Clauson",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.627284,
+    41.788368,
+    -72.627284,
+    41.788368
+],
+  "geometry": {"coordinates":[-72.627284,41.788368],"type":"Point"}
+}

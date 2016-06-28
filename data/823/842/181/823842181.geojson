@@ -1,0 +1,82 @@
+{
+  "id": 823842181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.393594,41.109018,-73.393594,41.109018",
+    "geom:latitude":41.109018,
+    "geom:longitude":-73.393594,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Norden Pl",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 8666",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "soccer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879315,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ueByVKoWs8sQOUNY2158_41.109018_-73.393594@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447993,
+    "wof:geomhash":"52756c0036a21e2214cee38645077569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879315,
+            "region_id":85688629,
+            "venue_id":823842181
+        }
+    ],
+    "wof:id":823842181,
+    "wof:lastmodified":1466425609,
+    "wof:name":"Soccer With Aldwin",
+    "wof:parent_id":85879315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer"
+    ]
+},
+  "bbox": [
+    -73.393594,
+    41.109018,
+    -73.393594,
+    41.109018
+],
+  "geometry": {"coordinates":[-73.39359399999999,41.109018],"type":"Point"}
+}

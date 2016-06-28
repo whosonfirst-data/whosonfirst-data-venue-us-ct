@@ -1,0 +1,66 @@
+{
+  "id": 824085115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.734543,41.84729,-72.734543,41.84729",
+    "geom:latitude":41.84729,
+    "geom:longitude":-72.734543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Richard Ln",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 559 1040",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xFK8q94QjlC9VSo5RmZS7_41.847290_-72.734543@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453975,
+    "wof:geomhash":"1b7d2e017d26e1a051b8110a709d7f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":824085115
+        }
+    ],
+    "wof:id":824085115,
+    "wof:lastmodified":1466422624,
+    "wof:name":"Bill Taxi",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.734543,
+    41.84729,
+    -72.734543,
+    41.84729
+],
+  "geometry": {"coordinates":[-72.734543,41.84729],"type":"Point"}
+}

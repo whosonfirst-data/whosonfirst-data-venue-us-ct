@@ -1,0 +1,73 @@
+{
+  "id": 823647059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.904024,41.798559,-71.904024,41.798559",
+    "geom:latitude":41.798559,
+    "geom:longitude":-71.904024,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 S Main St",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 774 1192",
+    "sg:postcode":"06234",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Rf4smA1tGLgfaKKUMm4Pf_41.798559_-71.904024@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443019,
+    "wof:geomhash":"4189ed3efe6dc07d13e2a31628096a5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":823647059
+        }
+    ],
+    "wof:id":823647059,
+    "wof:lastmodified":1466423778,
+    "wof:name":"East Brooklyn Fire Dept",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -71.904024,
+    41.798559,
+    -71.904024,
+    41.798559
+],
+  "geometry": {"coordinates":[-71.90402400000001,41.798559],"type":"Point"}
+}

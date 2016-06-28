@@ -1,0 +1,77 @@
+{
+  "id": 823579705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185829,41.193196,-73.185829,41.193196",
+    "geom:latitude":41.193196,
+    "geom:longitude":-73.185829,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Vernon St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 4343",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Ux9B4Ruv2bVMtBatUHr6_41.193196_-73.185829@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441414,
+    "wof:geomhash":"7a813152c15133dee575984049c383ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823579705
+        }
+    ],
+    "wof:id":823579705,
+    "wof:lastmodified":1466422780,
+    "wof:name":"Speedy Cab Incorporated",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.185829,
+    41.193196,
+    -73.185829,
+    41.193196
+],
+  "geometry": {"coordinates":[-73.185829,41.193196],"type":"Point"}
+}

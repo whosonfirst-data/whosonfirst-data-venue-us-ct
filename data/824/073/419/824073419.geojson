@@ -1,0 +1,74 @@
+{
+  "id": 824073419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.77829,41.670321,-72.77829,41.670321",
+    "geom:latitude":41.670321,
+    "geom:longitude":-72.77829,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 E Main St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-britain/207961-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 224 3184",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ABpZQXa32ebG9cb4scsIU_41.670321_-72.778290@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453704,
+    "wof:geomhash":"f6fcc874ebda260d6498cab8baa4073b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":824073419
+        }
+    ],
+    "wof:id":824073419,
+    "wof:lastmodified":1466422420,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.77829,
+    41.670321,
+    -72.77829,
+    41.670321
+],
+  "geometry": {"coordinates":[-72.77829,41.670321],"type":"Point"}
+}

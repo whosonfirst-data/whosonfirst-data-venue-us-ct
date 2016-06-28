@@ -1,0 +1,73 @@
+{
+  "id": 823842475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.409934,41.602883,-73.409934,41.602883",
+    "geom:latitude":41.602883,
+    "geom:longitude":-73.409934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Avery Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 6923",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uoex9iVMXTbCR3ss23b6P_41.602883_-73.409934@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448004,
+    "wof:geomhash":"9b58ae251f7e9e767d8292334ebc52f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823842475
+        }
+    ],
+    "wof:id":823842475,
+    "wof:lastmodified":1466425615,
+    "wof:name":"Peak Roofing",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.409934,
+    41.602883,
+    -73.409934,
+    41.602883
+],
+  "geometry": {"coordinates":[-73.40993400000001,41.602883],"type":"Point"}
+}

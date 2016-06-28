@@ -1,0 +1,80 @@
+{
+  "id": 823610197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.47318,41.328774,-73.47318,41.328774",
+    "geom:latitude":41.328774,
+    "geom:longitude":-73.47318,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"746 Danbury Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 438 0471",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.remotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XsX9uDJpaI9Cq8c2HgJn2_41.328774_-73.473180@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442143,
+    "wof:geomhash":"5de3e8598664d71d895a7b0b2c9682dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823610197
+        }
+    ],
+    "wof:id":823610197,
+    "wof:lastmodified":1466423431,
+    "wof:name":"Ridgefield BMW Mazda",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.47318,
+    41.328774,
+    -73.47318,
+    41.328774
+],
+  "geometry": {"coordinates":[-73.47318,41.328774],"type":"Point"}
+}

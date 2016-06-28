@@ -1,0 +1,71 @@
+{
+  "id": 823797647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.65679,41.922446,-72.65679,41.922446",
+    "geom:latitude":41.922446,
+    "geom:longitude":-72.65679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Bristol Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3km4PkQwDVUzf7gzvLV0bc_41.922446_-72.656790@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446647,
+    "wof:geomhash":"2456d3308d46222d2d8c3bb2038e3b8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823797647
+        }
+    ],
+    "wof:id":823797647,
+    "wof:lastmodified":1466425121,
+    "wof:name":"Bristol Auto Center",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.65679,
+    41.922446,
+    -72.65679,
+    41.922446
+],
+  "geometry": {"coordinates":[-72.65679,41.922446],"type":"Point"}
+}

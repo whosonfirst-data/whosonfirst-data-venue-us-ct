@@ -1,0 +1,80 @@
+{
+  "id": 824081415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.524845,41.070522,-73.524845,41.070522",
+    "geom:latitude":41.070522,
+    "geom:longitude":-73.524845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"306 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/250998-pappas-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 359 8873",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oV13isiU4pbSmqp0TMS60_41.070522_-73.524845@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453884,
+    "wof:geomhash":"4a6324078e469160bdd742d24e93bd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824081415
+        }
+    ],
+    "wof:id":824081415,
+    "wof:lastmodified":1466422587,
+    "wof:name":"Pappas Pizzeria",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.524845,
+    41.070522,
+    -73.524845,
+    41.070522
+],
+  "geometry": {"coordinates":[-73.524845,41.070522],"type":"Point"}
+}

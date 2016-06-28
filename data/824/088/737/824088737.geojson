@@ -1,0 +1,88 @@
+{
+  "id": 824088737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.854861,41.748653,-72.854861,41.748653",
+    "geom:latitude":41.748653,
+    "geom:longitude":-72.854861,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Eastview Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 676 0896",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ],
+    "sg:website":"http://www.come2rivervalley.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T2WaDWqdKx79cWWcpFX8b_41.748653_-72.854861@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454063,
+    "wof:geomhash":"fb81254e09fca85a90f793907c145a71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824088737
+        }
+    ],
+    "wof:id":824088737,
+    "wof:lastmodified":1466422876,
+    "wof:name":"River Valley Christian Center",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -72.854861,
+    41.748653,
+    -72.854861,
+    41.748653
+],
+  "geometry": {"coordinates":[-72.854861,41.748653],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823684349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.199582,41.195408,-73.199582,41.195408",
+    "geom:latitude":41.195408,
+    "geom:longitude":-73.199582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2295 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 2470",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p9UIcJ4kLZpuk85LlO7Kw_41.195408_-73.199582@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443880,
+    "wof:geomhash":"baaa00b3e01a5485fd3a85ac741b6577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823684349
+        }
+    ],
+    "wof:id":823684349,
+    "wof:lastmodified":1466424094,
+    "wof:name":"D & G Auto Center LLC",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.199582,
+    41.195408,
+    -73.199582,
+    41.195408
+],
+  "geometry": {"coordinates":[-73.19958200000001,41.195408],"type":"Point"}
+}

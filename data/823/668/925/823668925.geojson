@@ -1,0 +1,73 @@
+{
+  "id": 823668925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226703,41.346134,-73.226703,41.346134",
+    "geom:latitude":41.346134,
+    "geom:longitude":-73.226703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Diane Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UM8L5s8v29oVQNAkkoF3F_41.346134_-73.226703@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443549,
+    "wof:geomhash":"72e8c4b0e45d6db42ac180c3912144b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823668925
+        }
+    ],
+    "wof:id":823668925,
+    "wof:lastmodified":1466424043,
+    "wof:name":"Monroe Porcelain Studio",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -73.226703,
+    41.346134,
+    -73.226703,
+    41.346134
+],
+  "geometry": {"coordinates":[-73.226703,41.346134],"type":"Point"}
+}

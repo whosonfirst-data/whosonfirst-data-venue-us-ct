@@ -1,0 +1,72 @@
+{
+  "id": 823570239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.560441,41.058903,-73.560441,41.058903",
+    "geom:latitude":41.058903,
+    "geom:longitude":-73.560441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Palmers Hill Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 328 2671",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B17I2vjtfNyMKxp0vN5fk_41.058903_-73.560441@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441192,
+    "wof:geomhash":"b5fe790352e40c9dd0d105d3cccdf91a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823570239
+        }
+    ],
+    "wof:id":823570239,
+    "wof:lastmodified":1466422800,
+    "wof:name":"Stamford Health System",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.560441,
+    41.058903,
+    -73.560441,
+    41.058903
+],
+  "geometry": {"coordinates":[-73.560441,41.058903],"type":"Point"}
+}

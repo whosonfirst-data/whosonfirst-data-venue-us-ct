@@ -1,0 +1,73 @@
+{
+  "id": 823840559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914,41.356868,-72.914,41.356868",
+    "geom:latitude":41.356868,
+    "geom:longitude":-72.914,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Coram St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 0728",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04DpVdgHW0wXwzP4ygn1rI_41.356868_-72.914000@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447952,
+    "wof:geomhash":"e056ae7b3b104dd59f82d2f9e4c64fde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823840559
+        }
+    ],
+    "wof:id":823840559,
+    "wof:lastmodified":1466425462,
+    "wof:name":"Sweeney Building Inc",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "repair"
+    ]
+},
+  "bbox": [
+    -72.914,
+    41.356868,
+    -72.914,
+    41.356868
+],
+  "geometry": {"coordinates":[-72.914,41.356868],"type":"Point"}
+}

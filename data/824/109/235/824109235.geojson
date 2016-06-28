@@ -1,0 +1,78 @@
+{
+  "id": 824109235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.193069,41.178101,-73.193069,41.178101",
+    "geom:latitude":41.178101,
+    "geom:longitude":-73.193069,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"277 Fairfield Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 331 1377",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.twobootsbridgeport.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876483,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mgADc57VgXxH0rHjqvu7Z_41.178101_-73.193069@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454539,
+    "wof:geomhash":"8fa12dbf74d72d956c526b2958b8d557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876483,
+            "region_id":85688629,
+            "venue_id":824109235
+        }
+    ],
+    "wof:id":824109235,
+    "wof:lastmodified":1466423236,
+    "wof:name":"Two Boots",
+    "wof:parent_id":85876483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.193069,
+    41.178101,
+    -73.193069,
+    41.178101
+],
+  "geometry": {"coordinates":[-73.19306899999999,41.178101],"type":"Point"}
+}

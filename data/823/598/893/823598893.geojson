@@ -1,0 +1,86 @@
+{
+  "id": 823598893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.659795,41.012619,-73.659795,41.012619",
+    "geom:latitude":41.012619,
+    "geom:longitude":-73.659795,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"548 Willett Ave",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 939 1820",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "hospital",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V7HHrnTGMTNgNpLEdE4hs_41.012619_-73.659795@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441856,
+    "wof:geomhash":"c99bbc78a2326f0c006c13e6cc03887a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823598893
+        }
+    ],
+    "wof:id":823598893,
+    "wof:lastmodified":1466423346,
+    "wof:name":"Lyon Park Pharmacy Inc",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "hospital",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.659795,
+    41.012619,
+    -73.659795,
+    41.012619
+],
+  "geometry": {"coordinates":[-73.659795,41.012619],"type":"Point"}
+}

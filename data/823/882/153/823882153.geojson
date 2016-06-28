@@ -1,0 +1,71 @@
+{
+  "id": 823882153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.303523,41.354859,-72.303523,41.354859",
+    "geom:latitude":41.354859,
+    "geom:longitude":-72.303523,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Rogers Lake Trl",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830045,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JpxuAN658BFLb1gNtMMh8_41.354859_-72.303523@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449017,
+    "wof:geomhash":"d3ec0c6a3db3924da35f8cfc7387daf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85830045,
+            "region_id":85688629,
+            "venue_id":823882153
+        }
+    ],
+    "wof:id":823882153,
+    "wof:lastmodified":1466425937,
+    "wof:name":"Sean Clark Chimney Services",
+    "wof:parent_id":85830045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.303523,
+    41.354859,
+    -72.303523,
+    41.354859
+],
+  "geometry": {"coordinates":[-72.303523,41.354859],"type":"Point"}
+}

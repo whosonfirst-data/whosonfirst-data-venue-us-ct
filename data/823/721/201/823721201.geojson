@@ -1,0 +1,75 @@
+{
+  "id": 823721201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.745883,41.62545,-72.745883,41.62545",
+    "geom:latitude":41.62545,
+    "geom:longitude":-72.745883,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"128 Mill St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 828 9920",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bcRObUyf0CZHisOgauswm_41.625450_-72.745883@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444673,
+    "wof:geomhash":"e8837108a5d84155f63546019471f64a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823721201
+        }
+    ],
+    "wof:id":823721201,
+    "wof:lastmodified":1466424435,
+    "wof:name":"Dinos Restaurant",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.745883,
+    41.62545,
+    -72.745883,
+    41.62545
+],
+  "geometry": {"coordinates":[-72.74588300000001,41.62545],"type":"Point"}
+}

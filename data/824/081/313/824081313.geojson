@@ -1,0 +1,78 @@
+{
+  "id": 824081313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.554619,41.04814,-73.554619,41.04814",
+    "geom:latitude":41.04814,
+    "geom:longitude":-73.554619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"405 W Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/250988-two-in-one/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 8700",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yYIBw0uaBj8gCaeAT4Dz9_41.048140_-73.554619@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453882,
+    "wof:geomhash":"493e0b61c6e8a07826d21514b24c6c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":824081313
+        }
+    ],
+    "wof:id":824081313,
+    "wof:lastmodified":1466422579,
+    "wof:name":"Two In One",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.554619,
+    41.04814,
+    -73.554619,
+    41.04814
+],
+  "geometry": {"coordinates":[-73.554619,41.04814],"type":"Point"}
+}

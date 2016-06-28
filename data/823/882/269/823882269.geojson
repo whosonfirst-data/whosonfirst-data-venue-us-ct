@@ -1,0 +1,77 @@
+{
+  "id": 823882269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093387,41.272861,-73.093387,41.272861",
+    "geom:latitude":41.272861,
+    "geom:longitude":-73.093387,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Murphys Ln",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 8562",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RcmDC99gAMe8yEPnDVFIJ_41.272861_-73.093387@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449018,
+    "wof:geomhash":"77e3755ad97586b57116730485c7cded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":823882269
+        }
+    ],
+    "wof:id":823882269,
+    "wof:lastmodified":1466425826,
+    "wof:name":"Iroquois Gas Transmission",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.093387,
+    41.272861,
+    -73.093387,
+    41.272861
+],
+  "geometry": {"coordinates":[-73.09338700000001,41.272861],"type":"Point"}
+}

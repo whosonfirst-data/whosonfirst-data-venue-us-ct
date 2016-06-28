@@ -2,13 +2,14 @@
   "id": 336755597,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.507614,41.196739,-73.507614,41.196739",
     "geom:latitude":41.196739,
     "geom:longitude":-73.507614,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1279 Smith Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":336755597,
-    "wof:lastmodified":1448997254,
+    "wof:lastmodified":1466421127,
     "wof:name":"Benchmark Publications Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "training"
     ]
 },
-  "bbox": [-73.507614,41.196739,-73.507614,41.196739],
+  "bbox": [
+    -73.507614,
+    41.196739,
+    -73.507614,
+    41.196739
+],
   "geometry": {"coordinates":[-73.507614,41.196739],"type":"Point"}
 }

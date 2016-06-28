@@ -1,0 +1,80 @@
+{
+  "id": 824075149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683041,41.779637,-72.683041,41.779637",
+    "geom:latitude":41.779637,
+    "geom:longitude":-72.683041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Brook St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hartford/72448-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"0",
+    "sg:postcode":"06120",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878021,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZMsiY44S4yjtIqLbor0pE_41.779637_-72.683041@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453744,
+    "wof:geomhash":"1718fefe8802620b4c949d518e145dfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878021,
+            "region_id":85688629,
+            "venue_id":824075149
+        }
+    ],
+    "wof:id":824075149,
+    "wof:lastmodified":1466422549,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85878021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.683041,
+    41.779637,
+    -72.683041,
+    41.779637
+],
+  "geometry": {"coordinates":[-72.683041,41.779637],"type":"Point"}
+}

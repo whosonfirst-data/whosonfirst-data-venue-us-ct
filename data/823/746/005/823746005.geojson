@@ -1,0 +1,66 @@
+{
+  "id": 823746005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.60979,41.666669,-72.60979,41.666669",
+    "geom:latitude":41.666669,
+    "geom:longitude":-72.60979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"156 Tryon St",
+    "sg:city":"South Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 2289",
+    "sg:postcode":"06073",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iQIPgojC24M9pMFp9VQh6_41.666669_-72.609790@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445287,
+    "wof:geomhash":"49bde8a84d6f3dba8ea0f572e2cfae24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823746005
+        }
+    ],
+    "wof:id":823746005,
+    "wof:lastmodified":1466424639,
+    "wof:name":"Pratt Farms",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.60979,
+    41.666669,
+    -72.60979,
+    41.666669
+],
+  "geometry": {"coordinates":[-72.60979,41.666669],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823685825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.375833,41.380162,-73.375833,41.380162",
+    "geom:latitude":41.380162,
+    "geom:longitude":-73.375833,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 State Hwy 302",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZMpy74bVSextUsFdzx2Y4_41.380162_-73.375833@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443918,
+    "wof:geomhash":"ca893fb94ec30e20bf67602ee22a89e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823685825
+        }
+    ],
+    "wof:id":823685825,
+    "wof:lastmodified":1466424159,
+    "wof:name":"Randers Susan B",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.375833,
+    41.380162,
+    -73.375833,
+    41.380162
+],
+  "geometry": {"coordinates":[-73.375833,41.380162],"type":"Point"}
+}

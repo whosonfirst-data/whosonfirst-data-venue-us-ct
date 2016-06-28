@@ -1,0 +1,71 @@
+{
+  "id": 823742317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908346,41.382884,-72.908346,41.382884",
+    "geom:latitude":41.382884,
+    "geom:longitude":-72.908346,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2750 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 287 7082",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tOHQLflMgSpRj8OzAlKhr_41.382884_-72.908346@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445202,
+    "wof:geomhash":"51fdab0746f670e86b9d1884c47bdf9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823742317
+        }
+    ],
+    "wof:id":823742317,
+    "wof:lastmodified":1466424677,
+    "wof:name":"Hamden Probate Court",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.908346,
+    41.382884,
+    -72.908346,
+    41.382884
+],
+  "geometry": {"coordinates":[-72.90834599999999,41.382884],"type":"Point"}
+}

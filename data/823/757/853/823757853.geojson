@@ -1,0 +1,75 @@
+{
+  "id": 823757853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.978126,41.346694,-72.978126,41.346694",
+    "geom:latitude":41.346694,
+    "geom:longitude":-72.978126,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Bradley Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 397 7641",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aUH0ngYqw5Afd06JhGQog_41.346694_-72.978126@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445575,
+    "wof:geomhash":"d4eccee5a13379d83109fc845b59a2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823757853
+        }
+    ],
+    "wof:id":823757853,
+    "wof:lastmodified":1466424814,
+    "wof:name":"Northern Pipeline",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pipe",
+        "line",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.978126,
+    41.346694,
+    -72.978126,
+    41.346694
+],
+  "geometry": {"coordinates":[-72.978126,41.346694],"type":"Point"}
+}

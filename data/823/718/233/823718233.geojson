@@ -1,0 +1,86 @@
+{
+  "id": 823718233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.170226,41.189143,-73.170226,41.189143",
+    "geom:latitude":41.189143,
+    "geom:longitude":-73.170226,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2049 Seaview Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 8407",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49QJ0o18c46ZX3bu8nRcgU_41.189143_-73.170226@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444611,
+    "wof:geomhash":"6a6c87b4d71dae4e9a8506a347b1e48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823718233
+        }
+    ],
+    "wof:id":823718233,
+    "wof:lastmodified":1466424309,
+    "wof:name":"Rowayton Trading Company",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.170226,
+    41.189143,
+    -73.170226,
+    41.189143
+],
+  "geometry": {"coordinates":[-73.170226,41.189143],"type":"Point"}
+}

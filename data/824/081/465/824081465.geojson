@@ -1,0 +1,80 @@
+{
+  "id": 824081465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.517809,41.091192,-73.517809,41.091192",
+    "geom:latitude":41.091192,
+    "geom:longitude":-73.517809,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"947 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/250985-fireside-restaurant--bar-b-q/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 348 1495",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RtBBBVn7XBMkfmeXAG9Mc_41.091192_-73.517809@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453884,
+    "wof:geomhash":"4e370fa79d5d26a53642775c57629c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":824081465
+        }
+    ],
+    "wof:id":824081465,
+    "wof:lastmodified":1466422665,
+    "wof:name":"Fireside Restaurant & Bar-B-Q",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.517809,
+    41.091192,
+    -73.517809,
+    41.091192
+],
+  "geometry": {"coordinates":[-73.517809,41.091192],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823985553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.278702,41.42257,-73.278702,41.42257",
+    "geom:latitude":41.42257,
+    "geom:longitude":-73.278702,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Riverside Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 364 1901",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N0o737RKgJQ4JdL2YiI1e_41.422570_-73.278702@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451619,
+    "wof:geomhash":"a24e98330b96a44c5b86ea2649ca992a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823985553
+        }
+    ],
+    "wof:id":823985553,
+    "wof:lastmodified":1466426733,
+    "wof:name":"Eastco Inc",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.278702,
+    41.42257,
+    -73.278702,
+    41.42257
+],
+  "geometry": {"coordinates":[-73.278702,41.42257],"type":"Point"}
+}

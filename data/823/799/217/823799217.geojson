@@ -1,0 +1,71 @@
+{
+  "id": 823799217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.811779,41.281348,-72.811779,41.281348",
+    "geom:latitude":41.281348,
+    "geom:longitude":-72.811779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"960 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49f8bDYJrjNFA2cfM485mh_41.281348_-72.811779@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446693,
+    "wof:geomhash":"85f3a20a9b4bc1312f672bd7dcb5afd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823799217
+        }
+    ],
+    "wof:id":823799217,
+    "wof:lastmodified":1466425068,
+    "wof:name":"Richard E Kaufman Dr",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.811779,
+    41.281348,
+    -72.811779,
+    41.281348
+],
+  "geometry": {"coordinates":[-72.811779,41.281348],"type":"Point"}
+}

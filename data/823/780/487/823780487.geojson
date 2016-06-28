@@ -1,0 +1,73 @@
+{
+  "id": 823780487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.934612,41.343326,-72.934612,41.343326",
+    "geom:latitude":41.343326,
+    "geom:longitude":-72.934612,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1110 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 562 0844",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37ewAncZBJLCZeh0kpkpwy_41.343326_-72.934612@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446102,
+    "wof:geomhash":"1bf613b1e37d2ecf11385654c7b3a360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823780487
+        }
+    ],
+    "wof:id":823780487,
+    "wof:lastmodified":1466424948,
+    "wof:name":"Maturo's Auto Shop",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.934612,
+    41.343326,
+    -72.934612,
+    41.343326
+],
+  "geometry": {"coordinates":[-72.934612,41.343326],"type":"Point"}
+}

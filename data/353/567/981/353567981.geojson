@@ -2,13 +2,14 @@
   "id": 353567981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.6544,41.016423,-73.6544,41.016423",
     "geom:latitude":41.016423,
     "geom:longitude":-73.6544,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"37 Pemberwick Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":353567981,
-    "wof:lastmodified":1449020817,
+    "wof:lastmodified":1466421132,
     "wof:name":"Art Scapes",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.6544,41.016423,-73.6544,41.016423],
+  "bbox": [
+    -73.6544,
+    41.016423,
+    -73.6544,
+    41.016423
+],
   "geometry": {"coordinates":[-73.6544,41.016423],"type":"Point"}
 }

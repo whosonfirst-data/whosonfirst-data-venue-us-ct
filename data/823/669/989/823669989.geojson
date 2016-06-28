@@ -1,0 +1,82 @@
+{
+  "id": 823669989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060304,41.566903,-73.060304,41.566903",
+    "geom:latitude":41.566903,
+    "geom:longitude":-73.060304,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"445 Watertown Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 596 7210",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IQDy0v5hesmumlqz7YkDV_41.566903_-73.060304@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443573,
+    "wof:geomhash":"4ce05f85d9893f1d9d70266c8b7c30cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823669989
+        }
+    ],
+    "wof:id":823669989,
+    "wof:lastmodified":1466424049,
+    "wof:name":"Permanent Weight Control Cente",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -73.060304,
+    41.566903,
+    -73.060304,
+    41.566903
+],
+  "geometry": {"coordinates":[-73.060304,41.566903],"type":"Point"}
+}

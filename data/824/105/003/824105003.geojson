@@ -1,0 +1,73 @@
+{
+  "id": 824105003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.381203,41.2938,-72.381203,41.2938",
+    "geom:latitude":41.2938,
+    "geom:longitude":-72.381203,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"774 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 6313",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "game",
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0odVOH20FeLjzWLSJRMVQf_41.293800_-72.381203@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454445,
+    "wof:geomhash":"1bd9df1e1f1dbca4c11b55f8d58d56c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105003
+        }
+    ],
+    "wof:id":824105003,
+    "wof:lastmodified":1466423159,
+    "wof:name":"Variety Video",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "game",
+        "video"
+    ]
+},
+  "bbox": [
+    -72.381203,
+    41.2938,
+    -72.381203,
+    41.2938
+],
+  "geometry": {"coordinates":[-72.381203,41.2938],"type":"Point"}
+}

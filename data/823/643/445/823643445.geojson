@@ -1,0 +1,77 @@
+{
+  "id": 823643445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.190152,41.181901,-73.190152,41.181901",
+    "geom:latitude":41.181901,
+    "geom:longitude":-73.190152,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1290 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 2295",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876485,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79mCOXo6IGDLN3P9WJzcZM_41.181901_-73.190152@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442932,
+    "wof:geomhash":"48cfa38774d859d9e5c62268b06b434d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876485,
+            "region_id":85688629,
+            "venue_id":823643445
+        }
+    ],
+    "wof:id":823643445,
+    "wof:lastmodified":1466423718,
+    "wof:name":"Main Deli News",
+    "wof:parent_id":85876485,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -73.190152,
+    41.181901,
+    -73.190152,
+    41.181901
+],
+  "geometry": {"coordinates":[-73.190152,41.181901],"type":"Point"}
+}

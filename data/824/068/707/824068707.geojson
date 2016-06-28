@@ -1,0 +1,80 @@
+{
+  "id": 824068707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43985,41.399509,-73.43985,41.399509",
+    "geom:latitude":41.399509,
+    "geom:longitude":-73.43985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"224 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 1818",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "sg:website":"http://www.regnersauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qr5QK8khYw4v4Xy9afKyB_41.399491_-73.440426@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453582,
+    "wof:geomhash":"a35ee77778096c132d6ab9239073c6dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824068707
+        }
+    ],
+    "wof:id":824068707,
+    "wof:lastmodified":1466422334,
+    "wof:name":"Regner's Auto Sales",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -73.43985,
+    41.399509,
+    -73.43985,
+    41.399509
+],
+  "geometry": {"coordinates":[-73.43985000000001,41.399509],"type":"Point"}
+}

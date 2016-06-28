@@ -1,0 +1,75 @@
+{
+  "id": 823624761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.378181,41.696562,-73.378181,41.696562",
+    "geom:latitude":41.696562,
+    "geom:longitude":-73.378181,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Lake Waramaug Rd",
+    "sg:city":"Marble Dale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 868 2592",
+    "sg:postcode":"06777",
+    "sg:province":"CT",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931231,
+        102085375,
+        85824781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5esMMiqP0mbXoQSpBvFuvG_41.696562_-73.378181@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442506,
+    "wof:geomhash":"9461bc4e80f78e5d8975c94a5fdd2884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85931231,
+            "neighbourhood_id":85824781,
+            "region_id":85688629,
+            "venue_id":823624761
+        }
+    ],
+    "wof:id":823624761,
+    "wof:lastmodified":1466423729,
+    "wof:name":"Mount Tom State Park",
+    "wof:parent_id":85824781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -73.378181,
+    41.696562,
+    -73.378181,
+    41.696562
+],
+  "geometry": {"coordinates":[-73.378181,41.696562],"type":"Point"}
+}

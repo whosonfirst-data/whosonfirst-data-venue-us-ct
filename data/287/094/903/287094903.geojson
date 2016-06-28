@@ -2,13 +2,14 @@
   "id": 287094903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493307,41.146896,-73.493307,41.146896",
     "geom:latitude":41.146896,
     "geom:longitude":-73.493307,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 South Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":287094903,
-    "wof:lastmodified":1449001226,
+    "wof:lastmodified":1466421095,
     "wof:name":"Simply Safari",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "decorator"
     ]
 },
-  "bbox": [-73.493307,41.146896,-73.493307,41.146896],
+  "bbox": [
+    -73.493307,
+    41.146896,
+    -73.493307,
+    41.146896
+],
   "geometry": {"coordinates":[-73.493307,41.146896],"type":"Point"}
 }

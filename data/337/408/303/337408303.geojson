@@ -2,13 +2,14 @@
   "id": 337408303,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.504324,41.148595,-73.504324,41.148595",
     "geom:latitude":41.148595,
     "geom:longitude":-73.504324,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Kimberly Pl",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":337408303,
-    "wof:lastmodified":1449027031,
+    "wof:lastmodified":1466421129,
     "wof:name":"Ruth Smithers Ed Conslnt",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "educational"
     ]
 },
-  "bbox": [-73.504324,41.148595,-73.504324,41.148595],
+  "bbox": [
+    -73.504324,
+    41.148595,
+    -73.504324,
+    41.148595
+],
   "geometry": {"coordinates":[-73.504324,41.148595],"type":"Point"}
 }

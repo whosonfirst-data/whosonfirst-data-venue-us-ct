@@ -2,13 +2,14 @@
   "id": 270421099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629358,41.107101,-73.629358,41.107101",
     "geom:latitude":41.107101,
     "geom:longitude":-73.629358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 S Stanwich Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270421099,
-    "wof:lastmodified":1449010218,
+    "wof:lastmodified":1466421102,
     "wof:name":"Ettlinger Robert CPA PC Inc",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "certified"
     ]
 },
-  "bbox": [-73.629358,41.107101,-73.629358,41.107101],
+  "bbox": [
+    -73.629358,
+    41.107101,
+    -73.629358,
+    41.107101
+],
   "geometry": {"coordinates":[-73.629358,41.107101],"type":"Point"}
 }

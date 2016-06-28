@@ -1,0 +1,73 @@
+{
+  "id": 823714793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.584007,41.785637,-72.584007,41.785637",
+    "geom:latitude":41.785637,
+    "geom:longitude":-72.584007,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Vernon Rd",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AGMfgcrMbYKApFphByZXg_41.785637_-72.584007@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444543,
+    "wof:geomhash":"85b61c47182da2a97014d3d68961cf93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823714793
+        }
+    ],
+    "wof:id":823714793,
+    "wof:lastmodified":1466424429,
+    "wof:name":"Britton & OConnell",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "health"
+    ]
+},
+  "bbox": [
+    -72.584007,
+    41.785637,
+    -72.584007,
+    41.785637
+],
+  "geometry": {"coordinates":[-72.584007,41.785637],"type":"Point"}
+}

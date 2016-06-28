@@ -1,0 +1,86 @@
+{
+  "id": 824109055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.89688,41.39606,-72.89688,41.39606",
+    "geom:latitude":41.39606,
+    "geom:longitude":-72.89688,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2764 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 8739",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "attorney",
+        "law",
+        "business"
+    ],
+    "sg:website":"http://www.attybegemann.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WRCzpOuxpwDR330HJwhFB_41.396060_-72.896880@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454534,
+    "wof:geomhash":"8cfa01069fd3b1d1f2977c6548dcc40e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":824109055
+        }
+    ],
+    "wof:id":824109055,
+    "wof:lastmodified":1466423102,
+    "wof:name":"Attny Paul H Begemann",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney",
+        "law",
+        "business"
+    ]
+},
+  "bbox": [
+    -72.89688,
+    41.39606,
+    -72.89688,
+    41.39606
+],
+  "geometry": {"coordinates":[-72.89688,41.39606],"type":"Point"}
+}

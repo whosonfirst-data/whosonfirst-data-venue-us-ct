@@ -1,0 +1,81 @@
+{
+  "id": 823888187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.534987,41.078317,-73.534987,41.078317",
+    "geom:latitude":41.078317,
+    "geom:longitude":-73.534987,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Oaklawn Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 357 0144",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805565,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OVxlJ5GKXpw1wvnoDCR5Y_41.078317_-73.534987@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449150,
+    "wof:geomhash":"35786cc4ff0d5fd132404fbd32440385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85805565,
+            "region_id":85688629,
+            "venue_id":823888187
+        }
+    ],
+    "wof:id":823888187,
+    "wof:lastmodified":1466425848,
+    "wof:name":"O's Cleaning",
+    "wof:parent_id":85805565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -73.534987,
+    41.078317,
+    -73.534987,
+    41.078317
+],
+  "geometry": {"coordinates":[-73.534987,41.078317],"type":"Point"}
+}

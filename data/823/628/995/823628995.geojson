@@ -1,0 +1,94 @@
+{
+  "id": 823628995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.656055,41.010847,-73.656055,41.010847",
+    "geom:latitude":41.010847,
+    "geom:longitude":-73.656055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 N Main St",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 937 2685",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "diving",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808713,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543,
+        85885307,
+        404495949,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SFdEcjwpXtwCAamQMFusS_41.010847_-73.656055@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442610,
+    "wof:geomhash":"58ca09222cd838b5516701e45d4aaa2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":85808713,
+            "region_id":85688543,
+            "venue_id":823628995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823628995
+        }
+    ],
+    "wof:id":823628995,
+    "wof:lastmodified":1466423586,
+    "wof:name":"Westchester Dive Ctr Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "diving",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -73.656055,
+    41.010847,
+    -73.656055,
+    41.010847
+],
+  "geometry": {"coordinates":[-73.65605499999999,41.010847],"type":"Point"}
+}

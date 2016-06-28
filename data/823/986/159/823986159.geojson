@@ -1,0 +1,71 @@
+{
+  "id": 823986159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67906,41.279295,-72.67906,41.279295",
+    "geom:latitude":41.279295,
+    "geom:longitude":-72.67906,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"177 Whitfield St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 9739",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cw2jp4GC87qu3gJSiezVG_41.279295_-72.679060@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451633,
+    "wof:geomhash":"ea7d96211e2dc89d68819ebb06a5c88f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823986159
+        }
+    ],
+    "wof:id":823986159,
+    "wof:lastmodified":1466426684,
+    "wof:name":"Boundaries By Dog Guard",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.67906,
+    41.279295,
+    -72.67906,
+    41.279295
+],
+  "geometry": {"coordinates":[-72.67906000000001,41.279295],"type":"Point"}
+}

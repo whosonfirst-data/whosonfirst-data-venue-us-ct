@@ -1,0 +1,83 @@
+{
+  "id": 824108919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.929913,41.353788,-72.929913,41.353788",
+    "geom:latitude":41.353788,
+    "geom:longitude":-72.929913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1505 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 9888",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "thai",
+        "asian",
+        "pan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ROIv3zV5qLvyUN2dQczi9_41.353788_-72.929913@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454531,
+    "wof:geomhash":"f8cd2765faa54b58af261bf34da69573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824108919
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":824108919
+        }
+    ],
+    "wof:id":824108919,
+    "wof:lastmodified":1466423096,
+    "wof:name":"Thai Awesome Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thai",
+        "asian",
+        "pan"
+    ]
+},
+  "bbox": [
+    -72.929913,
+    41.353788,
+    -72.929913,
+    41.353788
+],
+  "geometry": {"coordinates":[-72.929913,41.353788],"type":"Point"}
+}

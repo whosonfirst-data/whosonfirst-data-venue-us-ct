@@ -1,0 +1,83 @@
+{
+  "id": 823837903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927811,41.343632,-72.927811,41.343632",
+    "geom:latitude":41.343632,
+    "geom:longitude":-72.927811,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"449 Putnam Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plant",
+        "commercial",
+        "developing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923,
+        85885309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10DITjrOiLniPeomPI5Ws0_41.343632_-72.927811@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447862,
+    "wof:geomhash":"ce28b3445c2a40213555872c7fae8b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823837903
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823837903
+        }
+    ],
+    "wof:id":823837903,
+    "wof:lastmodified":1466425608,
+    "wof:name":"A F Imaging LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "commercial",
+        "developing"
+    ]
+},
+  "bbox": [
+    -72.927811,
+    41.343632,
+    -72.927811,
+    41.343632
+],
+  "geometry": {"coordinates":[-72.92781100000001,41.343632],"type":"Point"}
+}

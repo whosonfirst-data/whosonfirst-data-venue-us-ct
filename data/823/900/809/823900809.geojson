@@ -1,0 +1,73 @@
+{
+  "id": 823900809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914602,41.37788,-72.914602,41.37788",
+    "geom:latitude":41.37788,
+    "geom:longitude":-72.914602,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2420 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 1026",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06ANsu0oMWDnjf2800Syc1_41.377880_-72.914602@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449473,
+    "wof:geomhash":"6b2f6e293a4ec010f445a8f3f9e99361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823900809
+        }
+    ],
+    "wof:id":823900809,
+    "wof:lastmodified":1466426061,
+    "wof:name":"Skips Gulf Service Station",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.914602,
+    41.37788,
+    -72.914602,
+    41.37788
+],
+  "geometry": {"coordinates":[-72.914602,41.37788],"type":"Point"}
+}

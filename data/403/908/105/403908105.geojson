@@ -2,13 +2,14 @@
   "id": 403908105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491869,41.146111,-73.491869,41.146111",
     "geom:latitude":41.146111,
     "geom:longitude":-73.491869,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"130 Main St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403908105,
-    "wof:lastmodified":1449055392,
+    "wof:lastmodified":1466421096,
     "wof:name":"Scofield's Furniture Custom",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.491869,41.146111,-73.491869,41.146111],
-  "geometry": {"coordinates":[-73.491869,41.146111],"type":"Point"}
+  "bbox": [
+    -73.491869,
+    41.146111,
+    -73.491869,
+    41.146111
+],
+  "geometry": {"coordinates":[-73.49186899999999,41.146111],"type":"Point"}
 }

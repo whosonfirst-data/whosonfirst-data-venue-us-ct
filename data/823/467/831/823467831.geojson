@@ -1,0 +1,83 @@
+{
+  "id": 823467831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.931745,41.350449,-72.931745,41.350449",
+    "geom:latitude":41.350449,
+    "geom:longitude":-72.931745,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1348 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 0339",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53n73iwiUrAj30kyX01fFq_41.350449_-72.931745@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438784,
+    "wof:geomhash":"06af76c76f0ab2caa04c9a95d2a3a179",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823467831
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823467831
+        }
+    ],
+    "wof:id":823467831,
+    "wof:lastmodified":1466421237,
+    "wof:name":"General Glass Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -72.931745,
+    41.350449,
+    -72.931745,
+    41.350449
+],
+  "geometry": {"coordinates":[-72.93174500000001,41.350449],"type":"Point"}
+}

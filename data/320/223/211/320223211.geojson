@@ -2,13 +2,14 @@
   "id": 320223211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.622104,41.100792,-73.622104,41.100792",
     "geom:latitude":41.100792,
     "geom:longitude":-73.622104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 Taconic Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320223211,
-    "wof:lastmodified":1449011501,
+    "wof:lastmodified":1466421123,
     "wof:name":"Pemberwick Building Corp",
     "wof:parent_id":85844811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.622104,41.100792,-73.622104,41.100792],
-  "geometry": {"coordinates":[-73.622104,41.100792],"type":"Point"}
+  "bbox": [
+    -73.622104,
+    41.100792,
+    -73.622104,
+    41.100792
+],
+  "geometry": {"coordinates":[-73.62210399999999,41.100792],"type":"Point"}
 }

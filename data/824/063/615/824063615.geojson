@@ -1,0 +1,79 @@
+{
+  "id": 824063615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081254,41.493634,-73.081254,41.493634",
+    "geom:latitude":41.493634,
+    "geom:longitude":-73.081254,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"575 Rubber Ave",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 723 8037",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834457,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4V8R9trDwoEP8YvVBKFHjg_41.493634_-73.081254@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453463,
+    "wof:geomhash":"39fc660c860e6f6a97094b4512f4cdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85834457,
+            "region_id":85688629,
+            "venue_id":824063615
+        }
+    ],
+    "wof:id":824063615,
+    "wof:lastmodified":1466422212,
+    "wof:name":"Naugatuck Handicap Elderly Svc",
+    "wof:parent_id":85834457,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -73.081254,
+    41.493634,
+    -73.081254,
+    41.493634
+],
+  "geometry": {"coordinates":[-73.081254,41.493634],"type":"Point"}
+}

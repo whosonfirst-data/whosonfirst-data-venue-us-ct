@@ -1,0 +1,66 @@
+{
+  "id": 823498647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.412068,41.435213,-73.412068,41.435213",
+    "geom:latitude":41.435213,
+    "geom:longitude":-73.412068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Candlewood Lake Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 5002",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bupk785TlfeKEE9YVbqTF_41.435213_-73.412068@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439547,
+    "wof:geomhash":"14596209b62f61d78e58aedfcc028812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823498647
+        }
+    ],
+    "wof:id":823498647,
+    "wof:lastmodified":1466421635,
+    "wof:name":"T J Maxx",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.412068,
+    41.435213,
+    -73.412068,
+    41.435213
+],
+  "geometry": {"coordinates":[-73.412068,41.435213],"type":"Point"}
+}

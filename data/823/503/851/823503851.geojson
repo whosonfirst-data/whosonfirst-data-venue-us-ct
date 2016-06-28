@@ -1,0 +1,77 @@
+{
+  "id": 823503851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9847,41.548974,-72.9847,41.548974",
+    "geom:latitude":41.548974,
+    "geom:longitude":-72.9847,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Overton Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 575 0452",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816299,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lfQ85XXbb377BWwVWXVwD_41.548974_-72.984700@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439660,
+    "wof:geomhash":"e30b16955586463a90c0262714d0a174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85816299,
+            "region_id":85688629,
+            "venue_id":823503851
+        }
+    ],
+    "wof:id":823503851,
+    "wof:lastmodified":1466421689,
+    "wof:name":"RCD Enterprises",
+    "wof:parent_id":85816299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -72.9847,
+    41.548974,
+    -72.9847,
+    41.548974
+],
+  "geometry": {"coordinates":[-72.9847,41.548974],"type":"Point"}
+}

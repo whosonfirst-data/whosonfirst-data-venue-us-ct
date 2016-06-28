@@ -1,0 +1,81 @@
+{
+  "id": 824097575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.970913,41.941764,-71.970913,41.941764",
+    "geom:latitude":41.941764,
+    "geom:longitude":-71.970913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Plaine Hill Rd",
+    "sg:city":"Woodstock",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 0528",
+    "sg:postcode":"06281",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.woodstockhill.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931297,
+        102085377,
+        85824107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ezAo3PC06Up7AZta70gAY_41.941764_-71.970913@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454281,
+    "wof:geomhash":"4e454a0a615a0ef2ec71db8abaa6eb28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85931297,
+            "neighbourhood_id":85824107,
+            "region_id":85688629,
+            "venue_id":824097575
+        }
+    ],
+    "wof:id":824097575,
+    "wof:lastmodified":1466422928,
+    "wof:name":"Inn At Woodstock Hill",
+    "wof:parent_id":85824107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -71.970913,
+    41.941764,
+    -71.970913,
+    41.941764
+],
+  "geometry": {"coordinates":[-71.970913,41.941764],"type":"Point"}
+}

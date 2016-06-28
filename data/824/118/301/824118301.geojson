@@ -1,0 +1,85 @@
+{
+  "id": 824118301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.441559,41.267214,-73.441559,41.267214",
+    "geom:latitude":41.267214,
+    "geom:longitude":-73.441559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Ethan Allen Hwy",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dog Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 544 9100",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "sg:tags":[
+        "training",
+        "store"
+    ],
+    "sg:website":"http://www.truebreeders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807091,
+        102191575,
+        404495863,
+        85633793,
+        85930985,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I4fqa6Z46bGn6DrpHFtmW_41.267214_-73.441559@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454731,
+    "wof:geomhash":"317d6b3b56c0621377c125aeda31042b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":824118301
+        }
+    ],
+    "wof:id":824118301,
+    "wof:lastmodified":1466423450,
+    "wof:name":"True Breeders of Connecticut",
+    "wof:parent_id":85807091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "store"
+    ]
+},
+  "bbox": [
+    -73.441559,
+    41.267214,
+    -73.441559,
+    41.267214
+],
+  "geometry": {"coordinates":[-73.441559,41.267214],"type":"Point"}
+}

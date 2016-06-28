@@ -1,0 +1,75 @@
+{
+  "id": 823943393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229712,41.322793,-73.229712,41.322793",
+    "geom:latitude":41.322793,
+    "geom:longitude":-73.229712,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Edgewood Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4538",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vimUYaPtka0dj0zvLo9yV_41.322793_-73.229712@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450601,
+    "wof:geomhash":"56481ad8c9288916fb4b4112621b21dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823943393
+        }
+    ],
+    "wof:id":823943393,
+    "wof:lastmodified":1466426404,
+    "wof:name":"Foundation Fighting Blindness",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -73.229712,
+    41.322793,
+    -73.229712,
+    41.322793
+],
+  "geometry": {"coordinates":[-73.22971200000001,41.322793],"type":"Point"}
+}

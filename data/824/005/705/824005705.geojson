@@ -1,0 +1,90 @@
+{
+  "id": 824005705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.459026,41.134176,-73.459026,41.134176",
+    "geom:latitude":41.134176,
+    "geom:longitude":-73.459026,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"290 New Canaan Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 847 1249",
+    "sg:postcode":"06850",
+    "sg:province":"CT",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879307,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85856029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HBx3qaSYN7eCkoJuDtlDW_41.134176_-73.459026@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452112,
+    "wof:geomhash":"db3731b8caec36cbbc4ffc7890ad0e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879307,
+            "region_id":85688629,
+            "venue_id":824005705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85856029,
+            "region_id":85688629,
+            "venue_id":824005705
+        }
+    ],
+    "wof:id":824005705,
+    "wof:lastmodified":1466421135,
+    "wof:name":"Military Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -73.459026,
+    41.134176,
+    -73.459026,
+    41.134176
+],
+  "geometry": {"coordinates":[-73.45902599999999,41.134176],"type":"Point"}
+}

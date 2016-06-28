@@ -1,0 +1,71 @@
+{
+  "id": 823935363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.428135,41.3397,-73.428135,41.3397",
+    "geom:latitude":41.3397,
+    "geom:longitude":-73.428135,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Firelite Dr",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 2757",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fyRGHayL4LyLErWIvlBBR_41.339700_-73.428135@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450409,
+    "wof:geomhash":"747eeb52d6a7e64adc4b0be318dcbf8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823935363
+        }
+    ],
+    "wof:id":823935363,
+    "wof:lastmodified":1466426086,
+    "wof:name":"Cary Brenner DVM",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.428135,
+    41.3397,
+    -73.428135,
+    41.3397
+],
+  "geometry": {"coordinates":[-73.428135,41.3397],"type":"Point"}
+}

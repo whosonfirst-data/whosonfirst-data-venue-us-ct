@@ -1,0 +1,77 @@
+{
+  "id": 823667477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.510624,41.068646,-73.510624,41.068646",
+    "geom:latitude":41.068646,
+    "geom:longitude":-73.510624,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"130 Lenox Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 0016",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xOJmRohZjPcVyBViddtK7_41.068646_-73.510624@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443512,
+    "wof:geomhash":"ab3795eba5720f0a1956ea3d460f4400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":823667477
+        }
+    ],
+    "wof:id":823667477,
+    "wof:lastmodified":1466423962,
+    "wof:name":"Eveready Cab",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.510624,
+    41.068646,
+    -73.510624,
+    41.068646
+],
+  "geometry": {"coordinates":[-73.51062400000001,41.068646],"type":"Point"}
+}

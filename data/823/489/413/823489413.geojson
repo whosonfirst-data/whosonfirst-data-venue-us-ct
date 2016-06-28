@@ -1,0 +1,84 @@
+{
+  "id": 823489413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.678297,41.004661,-73.678297,41.004661",
+    "geom:latitude":41.004661,
+    "geom:longitude":-73.678297,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Bowman Ave",
+    "sg:city":"Rye Brook",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 939 5749",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85846517,
+        102191575,
+        404523389,
+        85633793,
+        85978769,
+        102082373,
+        85688543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19k9bZ8V4KWWOHLtNJG4xs_41.004661_-73.678297@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439298,
+    "wof:geomhash":"acad6d479e3bdd158d5219821461b8cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978769,
+            "neighbourhood_id":85846517,
+            "region_id":85688543,
+            "venue_id":823489413
+        }
+    ],
+    "wof:id":823489413,
+    "wof:lastmodified":1466421482,
+    "wof:name":"Biltmore Food Market Inc",
+    "wof:parent_id":85846517,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -73.678297,
+    41.004661,
+    -73.678297,
+    41.004661
+],
+  "geometry": {"coordinates":[-73.678297,41.004661],"type":"Point"}
+}

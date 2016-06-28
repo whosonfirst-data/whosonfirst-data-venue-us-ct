@@ -1,0 +1,71 @@
+{
+  "id": 823727965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079764,41.665143,-73.079764,41.665143",
+    "geom:latitude":41.665143,
+    "geom:longitude":-73.079764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"359 S Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 2726",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ePvTBe6zgjHNChfeEoZDt_41.665143_-73.079764@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444845,
+    "wof:geomhash":"54af7593082ec14b4916e8ebfdbb8630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823727965
+        }
+    ],
+    "wof:id":823727965,
+    "wof:lastmodified":1466424554,
+    "wof:name":"Office of Surveys",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -73.079764,
+    41.665143,
+    -73.079764,
+    41.665143
+],
+  "geometry": {"coordinates":[-73.079764,41.665143],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 824075805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139322,41.373381,-72.139322,41.373381",
+    "geom:latitude":41.373381,
+    "geom:longitude":-72.139322,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"850 Hartford Tpke",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/waterford/166881-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 444 1599",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832113,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fT7wQDMa2BLgSz3yRnL5O_41.373381_-72.139322@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453758,
+    "wof:geomhash":"f82de2c0f4ee6511c9baa9396a8ac10f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85832113,
+            "region_id":85688629,
+            "venue_id":824075805
+        }
+    ],
+    "wof:id":824075805,
+    "wof:lastmodified":1466422673,
+    "wof:name":"Burger King",
+    "wof:parent_id":85832113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.139322,
+    41.373381,
+    -72.139322,
+    41.373381
+],
+  "geometry": {"coordinates":[-72.13932200000001,41.373381],"type":"Point"}
+}

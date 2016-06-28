@@ -1,0 +1,75 @@
+{
+  "id": 823713709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203458,41.526903,-73.203458,41.526903",
+    "geom:latitude":41.526903,
+    "geom:longitude":-73.203458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"729 Main St S",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XiPNjWttnEdOoB0ym6wBt_41.526903_-73.203458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444524,
+    "wof:geomhash":"90d1016f6d1dc4343f41b833028ef687",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823713709
+        }
+    ],
+    "wof:id":823713709,
+    "wof:lastmodified":1466424381,
+    "wof:name":"West Chevrolet Sales & Service",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "used"
+    ]
+},
+  "bbox": [
+    -73.203458,
+    41.526903,
+    -73.203458,
+    41.526903
+],
+  "geometry": {"coordinates":[-73.203458,41.526903],"type":"Point"}
+}

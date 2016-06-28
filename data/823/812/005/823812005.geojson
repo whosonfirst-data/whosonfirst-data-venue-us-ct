@@ -1,0 +1,77 @@
+{
+  "id": 823812005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.943377,41.31705,-72.943377,41.31705",
+    "geom:latitude":41.31705,
+    "geom:longitude":-72.943377,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"299 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 782 0737",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879171,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rdCQ7ISWL1RtxP0XqDQt0_41.317050_-72.943377@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447070,
+    "wof:geomhash":"9a0312de0fb2dc7f95aa6452a37561df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879171,
+            "region_id":85688629,
+            "venue_id":823812005
+        }
+    ],
+    "wof:id":823812005,
+    "wof:lastmodified":1466425386,
+    "wof:name":"A-Crown Inc",
+    "wof:parent_id":85879171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.943377,
+    41.31705,
+    -72.943377,
+    41.31705
+],
+  "geometry": {"coordinates":[-72.943377,41.31705],"type":"Point"}
+}

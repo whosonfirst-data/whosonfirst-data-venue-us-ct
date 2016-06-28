@@ -1,0 +1,82 @@
+{
+  "id": 824115377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.4842,41.06588,-73.4842,41.06588",
+    "geom:latitude":41.06588,
+    "geom:longitude":-73.4842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Renshaw Rd Ste 117",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 656 7345",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ToAVUU7tBbv9ogzYunBFx_41.065880_-73.484200@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454664,
+    "wof:geomhash":"00c219fe02823a9bdaa6bd30dad3cb76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824115377
+        }
+    ],
+    "wof:id":824115377,
+    "wof:lastmodified":1466423132,
+    "wof:name":"Fire Marshal",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.4842,
+    41.06588,
+    -73.4842,
+    41.06588
+],
+  "geometry": {"coordinates":[-73.4842,41.06588],"type":"Point"}
+}

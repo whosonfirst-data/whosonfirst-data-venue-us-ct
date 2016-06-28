@@ -1,0 +1,81 @@
+{
+  "id": 823738837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.211031,41.503803,-73.211031,41.503803",
+    "geom:latitude":41.503803,
+    "geom:longitude":-73.211031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"990 Main St N",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "continuous",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810009,
+        102191575,
+        404495799,
+        85633793,
+        85931399,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JcD1r1UPfGkVSFh0nwrhf_41.503803_-73.211031@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445130,
+    "wof:geomhash":"192650e77b001558dd63c7442697d955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "locality_id":85931399,
+            "neighbourhood_id":85810009,
+            "region_id":85688629,
+            "venue_id":823738837
+        }
+    ],
+    "wof:id":823738837,
+    "wof:lastmodified":1466424596,
+    "wof:name":"Lutheran Home Of Southbury",
+    "wof:parent_id":85810009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "continuous",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -73.211031,
+    41.503803,
+    -73.211031,
+    41.503803
+],
+  "geometry": {"coordinates":[-73.21103100000001,41.503803],"type":"Point"}
+}

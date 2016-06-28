@@ -1,0 +1,71 @@
+{
+  "id": 823795689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.408136,41.451314,-73.408136,41.451314",
+    "geom:latitude":41.451314,
+    "geom:longitude":-73.408136,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Gail Ann Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 8089",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AXyDbw1dd5YyMBSoXsG3j_41.451314_-73.408136@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446593,
+    "wof:geomhash":"7af43d186602cc6b9e1795dd89b7f233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823795689
+        }
+    ],
+    "wof:id":823795689,
+    "wof:lastmodified":1466425120,
+    "wof:name":"Old Ridge Building Corp",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.408136,
+    41.451314,
+    -73.408136,
+    41.451314
+],
+  "geometry": {"coordinates":[-73.408136,41.451314],"type":"Point"}
+}

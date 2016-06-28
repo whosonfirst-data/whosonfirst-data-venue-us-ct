@@ -1,0 +1,88 @@
+{
+  "id": 824085537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.942322,41.67551,-72.942322,41.67551",
+    "geom:latitude":41.67551,
+    "geom:longitude":-72.942322,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"353 Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 583 5207",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment-repair",
+        "industrial",
+        "electrician",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21YMKwllR64q2pxDOsE7Rl_41.675510_-72.942322@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453986,
+    "wof:geomhash":"5a6217d8b61bb98bcc66f571f1a08c2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085537
+        }
+    ],
+    "wof:id":824085537,
+    "wof:lastmodified":1466422697,
+    "wof:name":"Levasseur Electric Construction",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-repair",
+        "industrial",
+        "electrician",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -72.942322,
+    41.67551,
+    -72.942322,
+    41.67551
+],
+  "geometry": {"coordinates":[-72.942322,41.67551],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823475359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.77744,41.6675,-72.77744,41.6675",
+    "geom:latitude":41.6675,
+    "geom:longitude":-72.77744,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"177 Columbus Blvd",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 827 7133",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "state",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LofCykNBGhReIQkCjJiOD_41.667500_-72.777440@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438962,
+    "wof:geomhash":"b46fc84ae9d2e792f04e476cbbca9f76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823475359
+        }
+    ],
+    "wof:id":823475359,
+    "wof:lastmodified":1466421219,
+    "wof:name":"Hartford County-New Britain",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.77744,
+    41.6675,
+    -72.77744,
+    41.6675
+],
+  "geometry": {"coordinates":[-72.77744,41.6675],"type":"Point"}
+}

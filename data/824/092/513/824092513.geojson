@@ -1,0 +1,87 @@
+{
+  "id": 824092513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.660957,41.983673,-72.660957,41.983673",
+    "geom:latitude":41.983673,
+    "geom:longitude":-72.660957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"230 Mountain Rd",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 254 5991",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "psychotherapist",
+        "psychologist",
+        "worker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931039,
+        102085381,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2omp9DTEwgCbgdzlFzYgvg_41.983673_-72.660957@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454139,
+    "wof:geomhash":"8dfa7d53de5d2e00c36c9d275e47c31f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":824092513
+        }
+    ],
+    "wof:id":824092513,
+    "wof:lastmodified":1466422877,
+    "wof:name":"Ayotte Stauffer Shannon L",
+    "wof:parent_id":85865187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychotherapist",
+        "psychologist",
+        "worker"
+    ]
+},
+  "bbox": [
+    -72.660957,
+    41.983673,
+    -72.660957,
+    41.983673
+],
+  "geometry": {"coordinates":[-72.660957,41.983673],"type":"Point"}
+}

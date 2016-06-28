@@ -1,0 +1,71 @@
+{
+  "id": 823890709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.294349,41.308275,-73.294349,41.308275",
+    "geom:latitude":41.308275,
+    "geom:longitude":-73.294349,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Maple Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qaJ9CrbBCWzM9s4LhYltU_41.308275_-73.294349@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449226,
+    "wof:geomhash":"3392a7fb3daa1d16b20bd4f010474edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823890709
+        }
+    ],
+    "wof:id":823890709,
+    "wof:lastmodified":1466425974,
+    "wof:name":"Clasp Home Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.294349,
+    41.308275,
+    -73.294349,
+    41.308275
+],
+  "geometry": {"coordinates":[-73.294349,41.308275],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 824082245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.458995,41.088192,-73.458995,41.088192",
+    "geom:latitude":41.088192,
+    "geom:longitude":-73.458995,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"275 Post Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/darien/99017-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 8467",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11QYASsVdILgrxLqnhGH6G_41.088451_-73.458819@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453900,
+    "wof:geomhash":"a9c795c91572c1256d2f9c3f9e656ed7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":824082245
+        }
+    ],
+    "wof:id":824082245,
+    "wof:lastmodified":1466422380,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -73.458995,
+    41.088192,
+    -73.458995,
+    41.088192
+],
+  "geometry": {"coordinates":[-73.458995,41.088192],"type":"Point"}
+}

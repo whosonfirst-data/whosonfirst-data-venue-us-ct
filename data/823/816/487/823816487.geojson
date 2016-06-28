@@ -1,0 +1,71 @@
+{
+  "id": 823816487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21762,41.315222,-73.21762,41.315222",
+    "geom:latitude":41.315222,
+    "geom:longitude":-73.21762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"483 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 0411",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fV5pCgchzlU6WqBfXsFLX_41.315222_-73.217620@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447196,
+    "wof:geomhash":"fd26226d7e59a9e8b0d1bfcbd0cdb459",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823816487
+        }
+    ],
+    "wof:id":823816487,
+    "wof:lastmodified":1466425287,
+    "wof:name":"Doughnut Inn Of Monroe",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -73.21762,
+    41.315222,
+    -73.21762,
+    41.315222
+],
+  "geometry": {"coordinates":[-73.21762,41.315222],"type":"Point"}
+}

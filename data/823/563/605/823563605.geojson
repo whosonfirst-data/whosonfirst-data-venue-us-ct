@@ -1,0 +1,73 @@
+{
+  "id": 823563605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.694287,41.860905,-72.694287,41.860905",
+    "geom:latitude":41.860905,
+    "geom:longitude":-72.694287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Old Windsor Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 286 2986",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w9ZazGJBA3JOIAQ3idet6_41.860905_-72.694287@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441029,
+    "wof:geomhash":"900c6c22c19b055005068f4f62470402",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823563605
+        }
+    ],
+    "wof:id":823563605,
+    "wof:lastmodified":1466422741,
+    "wof:name":"Bloomfield Animal Hospital PC",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -72.694287,
+    41.860905,
+    -72.694287,
+    41.860905
+],
+  "geometry": {"coordinates":[-72.694287,41.860905],"type":"Point"}
+}

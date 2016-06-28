@@ -1,0 +1,73 @@
+{
+  "id": 823609885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.722168,41.909206,-72.722168,41.909206",
+    "geom:latitude":41.909206,
+    "geom:longitude":-72.722168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Loren Cir",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 683 2768",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28kq06nSElkSNh1RfI7P85_41.909206_-72.722168@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442138,
+    "wof:geomhash":"aa26a37f0c8bb905f84f8ae49465901e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823609885
+        }
+    ],
+    "wof:id":823609885,
+    "wof:lastmodified":1466423475,
+    "wof:name":"JTO Electrical Services",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.722168,
+    41.909206,
+    -72.722168,
+    41.909206
+],
+  "geometry": {"coordinates":[-72.722168,41.909206],"type":"Point"}
+}

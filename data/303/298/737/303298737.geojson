@@ -2,13 +2,14 @@
   "id": 303298737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.490657,41.146975,-73.490657,41.146975",
     "geom:latitude":41.146975,
     "geom:longitude":-73.490657,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Burtis Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":303298737,
-    "wof:lastmodified":1448998772,
+    "wof:lastmodified":1466421116,
     "wof:name":"Snow Removal Svc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "removal"
     ]
 },
-  "bbox": [-73.490657,41.146975,-73.490657,41.146975],
+  "bbox": [
+    -73.490657,
+    41.146975,
+    -73.490657,
+    41.146975
+],
   "geometry": {"coordinates":[-73.490657,41.146975],"type":"Point"}
 }

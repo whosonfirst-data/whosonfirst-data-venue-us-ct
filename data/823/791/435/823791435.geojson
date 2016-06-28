@@ -1,0 +1,87 @@
+{
+  "id": 823791435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.77625,41.685028,-72.77625,41.685028",
+    "geom:latitude":41.685028,
+    "geom:longitude":-72.77625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Vincent Ave",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 229 8300",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85867445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EU7xqIJO24DMGY7bxdr8Z_41.685028_-72.776250@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446463,
+    "wof:geomhash":"cfcb1ba2cb7bb5b897287d2d71da4871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823791435
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823791435
+        }
+    ],
+    "wof:id":823791435,
+    "wof:lastmodified":1466425089,
+    "wof:name":"Stone Excavating Company Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.77625,
+    41.685028,
+    -72.77625,
+    41.685028
+],
+  "geometry": {"coordinates":[-72.77625,41.685028],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 824012191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216844,41.161533,-73.216844,41.161533",
+    "geom:latitude":41.161533,
+    "geom:longitude":-73.216844,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"148 Saint Stephens Rd",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 332 7491",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fvQQZnLsfd8V4xxWnoUWa_41.161533_-73.216844@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452240,
+    "wof:geomhash":"3f92c370e2425de16f5760d12ec0d4da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824012191
+        }
+    ],
+    "wof:id":824012191,
+    "wof:lastmodified":1466421333,
+    "wof:name":"Maria's Salon",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.216844,
+    41.161533,
+    -73.216844,
+    41.161533
+],
+  "geometry": {"coordinates":[-73.21684399999999,41.161533],"type":"Point"}
+}

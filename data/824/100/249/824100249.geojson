@@ -1,0 +1,87 @@
+{
+  "id": 824100249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819174,41.292706,-72.819174,41.292706",
+    "geom:latitude":41.292706,
+    "geom:longitude":-72.819174,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Brushy Plain Rd",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 8824",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grooming",
+        "cat",
+        "dog",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iLSUYZoam6fz9uUiq7wIo_41.292706_-72.819174@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454350,
+    "wof:geomhash":"905c05dbd2954823ff760e1adb485de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824100249
+        }
+    ],
+    "wof:id":824100249,
+    "wof:lastmodified":1466423056,
+    "wof:name":"Happy Tails Grooming",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "cat",
+        "dog",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.819174,
+    41.292706,
+    -72.819174,
+    41.292706
+],
+  "geometry": {"coordinates":[-72.819174,41.292706],"type":"Point"}
+}

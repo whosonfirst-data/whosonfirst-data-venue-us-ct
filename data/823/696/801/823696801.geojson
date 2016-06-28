@@ -1,0 +1,79 @@
+{
+  "id": 823696801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932411,41.354217,-72.932411,41.354217",
+    "geom:latitude":41.354217,
+    "geom:longitude":-72.932411,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Grandview Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 9035",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sv7xlm3PxYgWNELWe1IIv_41.354217_-72.932411@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444167,
+    "wof:geomhash":"9844d6a6212067dc0258e822b4b4b9b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823696801
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823696801
+        }
+    ],
+    "wof:id":823696801,
+    "wof:lastmodified":1466424198,
+    "wof:name":"J V Cleaning Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -72.932411,
+    41.354217,
+    -72.932411,
+    41.354217
+],
+  "geometry": {"coordinates":[-72.932411,41.354217],"type":"Point"}
+}

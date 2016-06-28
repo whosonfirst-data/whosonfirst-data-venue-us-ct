@@ -1,0 +1,73 @@
+{
+  "id": 823656999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.030574,41.839234,-73.030574,41.839234",
+    "geom:latitude":41.839234,
+    "geom:longitude":-73.030574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Winchester Rd",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00sTiBSfWnUhx3kFu5Mqz6_41.839234_-73.030574@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443238,
+    "wof:geomhash":"f74bcde206e2ef7c7ba40a6c5c41e00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823656999
+        }
+    ],
+    "wof:id":823656999,
+    "wof:lastmodified":1466424029,
+    "wof:name":"Certification Labs",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.030574,
+    41.839234,
+    -73.030574,
+    41.839234
+],
+  "geometry": {"coordinates":[-73.030574,41.839234],"type":"Point"}
+}

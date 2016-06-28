@@ -1,0 +1,66 @@
+{
+  "id": 823775145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214128,41.736472,-73.214128,41.736472",
+    "geom:latitude":41.736472,
+    "geom:longitude":-73.214128,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Harris Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822601,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B9FNSsX8WVkKYby1exXEe_41.736472_-73.214128@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445961,
+    "wof:geomhash":"13c700a64f7e417ad3976f1d5e736ec4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85822601,
+            "region_id":85688629,
+            "venue_id":823775145
+        }
+    ],
+    "wof:id":823775145,
+    "wof:lastmodified":1466424897,
+    "wof:name":"Litchfield Piano Works",
+    "wof:parent_id":85822601,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.214128,
+    41.736472,
+    -73.214128,
+    41.736472
+],
+  "geometry": {"coordinates":[-73.214128,41.736472],"type":"Point"}
+}

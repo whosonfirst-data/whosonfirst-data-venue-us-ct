@@ -1,0 +1,73 @@
+{
+  "id": 823501931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252472,41.30134,-73.252472,41.30134",
+    "geom:latitude":41.30134,
+    "geom:longitude":-73.252472,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"91 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 0077",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eqSO3RmFqxTulByCgVgAG_41.301340_-73.252472@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439619,
+    "wof:geomhash":"3afa554a0c228a01ac85d8f90582ceaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823501931
+        }
+    ],
+    "wof:id":823501931,
+    "wof:lastmodified":1466421546,
+    "wof:name":"River's Edge Mortgage LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.252472,
+    41.30134,
+    -73.252472,
+    41.30134
+],
+  "geometry": {"coordinates":[-73.252472,41.30134],"type":"Point"}
+}

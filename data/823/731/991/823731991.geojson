@@ -1,0 +1,75 @@
+{
+  "id": 823731991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.982915,41.341447,-72.982915,41.341447",
+    "geom:latitude":41.341447,
+    "geom:longitude":-72.982915,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 387 3380",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PzikSGyHZX7dpzocXKlrf_41.341447_-72.982915@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444960,
+    "wof:geomhash":"3e3dec491e32caae57628808399c01b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823731991
+        }
+    ],
+    "wof:id":823731991,
+    "wof:lastmodified":1466424521,
+    "wof:name":"D R Walt Auto Specialists",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.982915,
+    41.341447,
+    -72.982915,
+    41.341447
+],
+  "geometry": {"coordinates":[-72.98291500000001,41.341447],"type":"Point"}
+}

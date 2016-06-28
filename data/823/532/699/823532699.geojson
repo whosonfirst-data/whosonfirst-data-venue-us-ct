@@ -1,0 +1,75 @@
+{
+  "id": 823532699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.580013,41.975975,-72.580013,41.975975",
+    "geom:latitude":41.975975,
+    "geom:longitude":-72.580013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"157 South Rd",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RIhKKAWXzvSug1codaWR7_41.975975_-72.580013@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440306,
+    "wof:geomhash":"276a48508620708536ccddd74a5ac410",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":823532699
+        }
+    ],
+    "wof:id":823532699,
+    "wof:lastmodified":1466422267,
+    "wof:name":"Pacheco & Son LLC",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.580013,
+    41.975975,
+    -72.580013,
+    41.975975
+],
+  "geometry": {"coordinates":[-72.58001299999999,41.975975],"type":"Point"}
+}

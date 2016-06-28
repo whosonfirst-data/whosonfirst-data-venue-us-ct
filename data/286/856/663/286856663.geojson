@@ -2,13 +2,14 @@
   "id": 286856663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.46064,41.145904,-73.46064,41.145904",
     "geom:latitude":41.145904,
     "geom:longitude":-73.46064,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"367 Cedar Ln",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286856663,
-    "wof:lastmodified":1449016029,
+    "wof:lastmodified":1466421113,
     "wof:name":"Dencom Computer Systems Inc",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-73.46064,41.145904,-73.46064,41.145904],
+  "bbox": [
+    -73.46064,
+    41.145904,
+    -73.46064,
+    41.145904
+],
   "geometry": {"coordinates":[-73.46064,41.145904],"type":"Point"}
 }

@@ -1,0 +1,66 @@
+{
+  "id": 823964615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.578487,41.744626,-72.578487,41.744626",
+    "geom:latitude":41.744626,
+    "geom:longitude":-72.578487,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Whitehall Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 569 1130",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KwQitH84YbWEzKIYPboP4_41.744626_-72.578487@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451126,
+    "wof:geomhash":"a5d9ea245ecc1dfede87a25395f7fd77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823964615
+        }
+    ],
+    "wof:id":823964615,
+    "wof:lastmodified":1466426537,
+    "wof:name":"Bogner Meats",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.578487,
+    41.744626,
+    -72.578487,
+    41.744626
+],
+  "geometry": {"coordinates":[-72.578487,41.744626],"type":"Point"}
+}

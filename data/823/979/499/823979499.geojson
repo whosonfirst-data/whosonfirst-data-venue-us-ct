@@ -1,0 +1,73 @@
+{
+  "id": 823979499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08038,41.391806,-73.08038,41.391806",
+    "geom:latitude":41.391806,
+    "geom:longitude":-73.08038,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 W Church St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 8005",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nEzUxYNn6TTDu5Wzj3baP_41.391806_-73.080380@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451470,
+    "wof:geomhash":"d1ffc205c9b7e835ce005b21214c25c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823979499
+        }
+    ],
+    "wof:id":823979499,
+    "wof:lastmodified":1466426679,
+    "wof:name":"Mad Electric LLC",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.08038,
+    41.391806,
+    -73.08038,
+    41.391806
+],
+  "geometry": {"coordinates":[-73.08038000000001,41.391806],"type":"Point"}
+}

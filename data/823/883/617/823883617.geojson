@@ -1,0 +1,66 @@
+{
+  "id": 823883617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.171457,41.2699,-73.171457,41.2699",
+    "geom:latitude":41.2699,
+    "geom:longitude":-73.171457,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Honeybee Ln",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZJBcVv6MNKvlQHQkNNJZ6_41.269900_-73.171457@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449050,
+    "wof:geomhash":"8b658d8685f1b1baa5f7d3e51f33ec08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823883617
+        }
+    ],
+    "wof:id":823883617,
+    "wof:lastmodified":1466425862,
+    "wof:name":"Medtronic",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.171457,
+    41.2699,
+    -73.171457,
+    41.2699
+],
+  "geometry": {"coordinates":[-73.171457,41.2699],"type":"Point"}
+}

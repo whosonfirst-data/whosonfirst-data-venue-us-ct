@@ -1,0 +1,71 @@
+{
+  "id": 823567177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.521518,41.794343,-72.521518,41.794343",
+    "geom:latitude":41.794343,
+    "geom:longitude":-72.521518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Woodbridge St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TDHku3yAwmXqEN1ZahMHs_41.794343_-72.521518@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441117,
+    "wof:geomhash":"a6f014cb2a229a109441d6098c65bfba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":823567177
+        }
+    ],
+    "wof:id":823567177,
+    "wof:lastmodified":1466422649,
+    "wof:name":"Colchester Family Practice",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.521518,
+    41.794343,
+    -72.521518,
+    41.794343
+],
+  "geometry": {"coordinates":[-72.521518,41.794343],"type":"Point"}
+}

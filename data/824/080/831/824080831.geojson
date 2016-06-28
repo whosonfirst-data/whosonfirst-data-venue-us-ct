@@ -1,0 +1,78 @@
+{
+  "id": 824080831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.359603,41.141493,-73.359603,41.141493",
+    "geom:latitude":41.141493,
+    "geom:longitude":-73.359603,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"143 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/westport/25360-joes-pizza--italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 7887",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aP7TcFUEzRP6YVXmssJZ0_41.141493_-73.359603@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453870,
+    "wof:geomhash":"9ed2009cbe761dc36c817103c5eab30d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":824080831
+        }
+    ],
+    "wof:id":824080831,
+    "wof:lastmodified":1466422604,
+    "wof:name":"Joe's Pizza & Italian Restaurant",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.359603,
+    41.141493,
+    -73.359603,
+    41.141493
+],
+  "geometry": {"coordinates":[-73.35960300000001,41.141493],"type":"Point"}
+}

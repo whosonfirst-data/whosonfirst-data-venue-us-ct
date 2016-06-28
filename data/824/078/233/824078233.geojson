@@ -1,0 +1,80 @@
+{
+  "id": 824078233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.895213,41.30901,-72.895213,41.30901",
+    "geom:latitude":41.30901,
+    "geom:longitude":-72.895213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"188 Grand Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-haven/144092-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 8158",
+    "sg:postcode":"06513",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818427,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75rlqTJzO09br0zRc5tqgL_41.309010_-72.895213@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453817,
+    "wof:geomhash":"ee134706a4f41ffe1d7873b6058880ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85818427,
+            "region_id":85688629,
+            "venue_id":824078233
+        }
+    ],
+    "wof:id":824078233,
+    "wof:lastmodified":1466422559,
+    "wof:name":"Subway",
+    "wof:parent_id":85818427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.895213,
+    41.30901,
+    -72.895213,
+    41.30901
+],
+  "geometry": {"coordinates":[-72.895213,41.30901],"type":"Point"}
+}

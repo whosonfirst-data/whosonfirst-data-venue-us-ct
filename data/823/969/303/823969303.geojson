@@ -1,0 +1,77 @@
+{
+  "id": 823969303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.080889,41.317001,-73.080889,41.317001",
+    "geom:latitude":41.317001,
+    "geom:longitude":-73.080889,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Derby Ave",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 736 1476",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bjS9aSI4T3BzY6mwLrcPo_41.317001_-73.080889@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451238,
+    "wof:geomhash":"979d4112f0807003745d27bca9c2e5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823969303
+        }
+    ],
+    "wof:id":823969303,
+    "wof:lastmodified":1466426638,
+    "wof:name":"Derby Fire Dept",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.080889,
+    41.317001,
+    -73.080889,
+    41.317001
+],
+  "geometry": {"coordinates":[-73.080889,41.317001],"type":"Point"}
+}

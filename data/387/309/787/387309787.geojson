@@ -2,13 +2,14 @@
   "id": 387309787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640488,41.142643,-73.640488,41.142643",
     "geom:latitude":41.142643,
     "geom:longitude":-73.640488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18 Bedford-Banksville Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":387309787,
-    "wof:lastmodified":1449056949,
+    "wof:lastmodified":1466421100,
     "wof:name":"United Wireless",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "cellular"
     ]
 },
-  "bbox": [-73.640488,41.142643,-73.640488,41.142643],
+  "bbox": [
+    -73.640488,
+    41.142643,
+    -73.640488,
+    41.142643
+],
   "geometry": {"coordinates":[-73.640488,41.142643],"type":"Point"}
 }

@@ -1,0 +1,85 @@
+{
+  "id": 823647721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.731124,41.430285,-72.731124,41.430285",
+    "geom:latitude":41.430285,
+    "geom:longitude":-72.731124,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1041 New Haven Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06422",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "race",
+        "general",
+        "chassis",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815623,
+        102191575,
+        404496061,
+        85633793,
+        85931149,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UkiWnbAyUG9OwgoezVfYY_41.430285_-72.731124@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443032,
+    "wof:geomhash":"b77fcfc40d84be440985bcfddc8e9ea4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496061,
+            "locality_id":85931149,
+            "neighbourhood_id":85815623,
+            "region_id":85688629,
+            "venue_id":823647721
+        }
+    ],
+    "wof:id":823647721,
+    "wof:lastmodified":1466423842,
+    "wof:name":"Aubreys Competition Driveline",
+    "wof:parent_id":85815623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "race",
+        "general",
+        "chassis",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.731124,
+    41.430285,
+    -72.731124,
+    41.430285
+],
+  "geometry": {"coordinates":[-72.73112399999999,41.430285],"type":"Point"}
+}

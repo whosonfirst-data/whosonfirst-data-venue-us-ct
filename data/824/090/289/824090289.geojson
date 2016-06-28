@@ -1,0 +1,73 @@
+{
+  "id": 824090289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.831656,41.671023,-72.831656,41.671023",
+    "geom:latitude":41.671023,
+    "geom:longitude":-72.831656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"440 New Britain Ave",
+    "sg:city":"Plainville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 229 2807",
+    "sg:postcode":"06062",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RICBnwx9vvFAnHknEKJv7_41.671023_-72.831656@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454093,
+    "wof:geomhash":"1f0161ea33b914cbb914586f4ab27a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824090289
+        }
+    ],
+    "wof:id":824090289,
+    "wof:lastmodified":1466422833,
+    "wof:name":"Derouin, Michael",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -72.831656,
+    41.671023,
+    -72.831656,
+    41.671023
+],
+  "geometry": {"coordinates":[-72.831656,41.671023],"type":"Point"}
+}

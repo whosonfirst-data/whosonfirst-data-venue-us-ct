@@ -1,0 +1,83 @@
+{
+  "id": 823889977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.936626,41.689948,-72.936626,41.689948",
+    "geom:latitude":41.689948,
+    "geom:longitude":-72.936626,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"144 Vanderbilt Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 582 3555",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sFjMd9HPsa24rRByOoMXc_41.689948_-72.936626@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449208,
+    "wof:geomhash":"5c68695ceca340c983dbc77e30a2a1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823889977
+        }
+    ],
+    "wof:id":823889977,
+    "wof:lastmodified":1466425933,
+    "wof:name":"Elite Systems LLC",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.936626,
+    41.689948,
+    -72.936626,
+    41.689948
+],
+  "geometry": {"coordinates":[-72.936626,41.689948],"type":"Point"}
+}

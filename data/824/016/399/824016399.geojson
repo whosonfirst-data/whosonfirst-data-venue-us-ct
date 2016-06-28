@@ -1,0 +1,73 @@
+{
+  "id": 824016399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.871013,41.277514,-72.871013,41.277514",
+    "geom:latitude":41.277514,
+    "geom:longitude":-72.871013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"230 Main St",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 469 3388",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZlcX3gL5OZiCeSgOQxkp1_41.277514_-72.871013@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452346,
+    "wof:geomhash":"99eac1cce449614a91259aa5930c1e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824016399
+        }
+    ],
+    "wof:id":824016399,
+    "wof:lastmodified":1466421438,
+    "wof:name":"Abate Electric",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.871013,
+    41.277514,
+    -72.871013,
+    41.277514
+],
+  "geometry": {"coordinates":[-72.871013,41.277514],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 303080875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501384,41.126672,-73.501384,41.126672",
     "geom:latitude":41.126672,
     "geom:longitude":-73.501384,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"125 Weed St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303080875,
-    "wof:lastmodified":1449000499,
+    "wof:lastmodified":1466421115,
     "wof:name":"William H Garbus",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"
     ]
 },
-  "bbox": [-73.501384,41.126672,-73.501384,41.126672],
+  "bbox": [
+    -73.501384,
+    41.126672,
+    -73.501384,
+    41.126672
+],
   "geometry": {"coordinates":[-73.501384,41.126672],"type":"Point"}
 }

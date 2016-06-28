@@ -1,0 +1,79 @@
+{
+  "id": 823842085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.510397,41.604045,-72.510397,41.604045",
+    "geom:latitude":41.604045,
+    "geom:longitude":-72.510397,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Hale Rd",
+    "sg:city":"East Hampton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 267 0251",
+    "sg:postcode":"06424",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842475,
+        102191575,
+        404496067,
+        85633793,
+        85931135,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bCQ6AM30GFFMM7LiVlxM1_41.604045_-72.510397@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447990,
+    "wof:geomhash":"d0fa2203fb27e5cd98e5ec4104d227a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496067,
+            "locality_id":85931135,
+            "neighbourhood_id":85842475,
+            "region_id":85688629,
+            "venue_id":823842085
+        }
+    ],
+    "wof:id":823842085,
+    "wof:lastmodified":1466425606,
+    "wof:name":"Sentry Landscape",
+    "wof:parent_id":85842475,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -72.510397,
+    41.604045,
+    -72.510397,
+    41.604045
+],
+  "geometry": {"coordinates":[-72.510397,41.604045],"type":"Point"}
+}

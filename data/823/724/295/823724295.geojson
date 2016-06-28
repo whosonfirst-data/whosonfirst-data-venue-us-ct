@@ -1,0 +1,72 @@
+{
+  "id": 823724295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.559338,41.039264,-73.559338,41.039264",
+    "geom:latitude":41.039264,
+    "geom:longitude":-73.559338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"427 West Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 326 2032",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881173,
+        102191575,
+        404495949,
+        85633793,
+        85930945,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zr5HHiTJcJxcnwx1BHH8c_41.039264_-73.559338@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444759,
+    "wof:geomhash":"74895bbdfe599e1ba6e4b12a47c77183",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930945,
+            "neighbourhood_id":85881173,
+            "region_id":85688629,
+            "venue_id":823724295
+        }
+    ],
+    "wof:id":823724295,
+    "wof:lastmodified":1466424443,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85881173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.559338,
+    41.039264,
+    -73.559338,
+    41.039264
+],
+  "geometry": {"coordinates":[-73.559338,41.039264],"type":"Point"}
+}

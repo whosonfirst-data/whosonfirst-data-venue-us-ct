@@ -1,0 +1,73 @@
+{
+  "id": 823774713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.596588,41.734848,-72.596588,41.734848",
+    "geom:latitude":41.734848,
+    "geom:longitude":-72.596588,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Prasser Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 568 4624",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hOR8lySNs0SkHgu4ox5Hj_41.734848_-72.596588@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445948,
+    "wof:geomhash":"ac5f1d4001fe7d8bfabd1abb0632c311",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823774713
+        }
+    ],
+    "wof:id":823774713,
+    "wof:lastmodified":1466424951,
+    "wof:name":"Rusty S Electric",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.596588,
+    41.734848,
+    -72.596588,
+    41.734848
+],
+  "geometry": {"coordinates":[-72.596588,41.734848],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823824955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.432319,41.104036,-73.432319,41.104036",
+    "geom:latitude":41.104036,
+    "geom:longitude":-73.432319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"163 Connecticut Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 855 1764",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTekn4I7JwoOqOk8KjtSf_41.104036_-73.432319@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447443,
+    "wof:geomhash":"ce49ec02d0c6e865596411b2261c8dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823824955
+        }
+    ],
+    "wof:id":823824955,
+    "wof:lastmodified":1466425411,
+    "wof:name":"Norwalk Taxi",
+    "wof:parent_id":85879311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.432319,
+    41.104036,
+    -73.432319,
+    41.104036
+],
+  "geometry": {"coordinates":[-73.43231900000001,41.104036],"type":"Point"}
+}

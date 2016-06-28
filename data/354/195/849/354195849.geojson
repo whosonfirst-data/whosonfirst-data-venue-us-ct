@@ -2,13 +2,14 @@
   "id": 354195849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630682,41.029562,-73.630682,41.029562",
     "geom:latitude":41.029562,
     "geom:longitude":-73.630682,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Dearfield Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354195849,
-    "wof:lastmodified":1449067094,
+    "wof:lastmodified":1466421136,
     "wof:name":"Caterina Viola MD Obgyn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-73.630682,41.029562,-73.630682,41.029562],
-  "geometry": {"coordinates":[-73.630682,41.029562],"type":"Point"}
+  "bbox": [
+    -73.630682,
+    41.029562,
+    -73.630682,
+    41.029562
+],
+  "geometry": {"coordinates":[-73.63068199999999,41.029562],"type":"Point"}
 }

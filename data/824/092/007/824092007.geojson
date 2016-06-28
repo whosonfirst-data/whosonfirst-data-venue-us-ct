@@ -1,0 +1,86 @@
+{
+  "id": 824092007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.80913,41.859015,-72.80913,41.859015",
+    "geom:latitude":41.859015,
+    "geom:longitude":-72.80913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Hazelmeadow Pl",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 651 0574",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mason",
+        "chimney",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841787,
+        102191575,
+        404495997,
+        85633793,
+        85931071,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68PEveFzMWhbpHbjx6ivDa_41.859015_-72.809130@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454130,
+    "wof:geomhash":"a9764bb4cfaeb75be279836b4dc16538",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495997,
+            "locality_id":85931071,
+            "neighbourhood_id":85841787,
+            "region_id":85688629,
+            "venue_id":824092007
+        }
+    ],
+    "wof:id":824092007,
+    "wof:lastmodified":1466422824,
+    "wof:name":"Chimney Services",
+    "wof:parent_id":85841787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mason",
+        "chimney",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.80913,
+    41.859015,
+    -72.80913,
+    41.859015
+],
+  "geometry": {"coordinates":[-72.80913,41.859015],"type":"Point"}
+}

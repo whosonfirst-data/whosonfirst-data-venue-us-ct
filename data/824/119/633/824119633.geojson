@@ -1,0 +1,85 @@
+{
+  "id": 824119633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.542921,41.05392,-73.542921,41.05392",
+    "geom:latitude":41.05392,
+    "geom:longitude":-73.542921,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1055 Washington Blvd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 517 3500",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ChxcNTnQLeNEz1Dzs8PSa_41.053920_-73.542921@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454758,
+    "wof:geomhash":"e7ae3ab72ffe35fbc99fb3a69a0c5a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824119633
+        }
+    ],
+    "wof:id":824119633,
+    "wof:lastmodified":1466423297,
+    "wof:name":"Benefit Practice",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [
+    -73.542921,
+    41.05392,
+    -73.542921,
+    41.05392
+],
+  "geometry": {"coordinates":[-73.54292100000001,41.05392],"type":"Point"}
+}

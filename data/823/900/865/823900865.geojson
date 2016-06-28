@@ -1,0 +1,86 @@
+{
+  "id": 823900865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.038321,41.547973,-73.038321,41.547973",
+    "geom:latitude":41.547973,
+    "geom:longitude":-73.038321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"546 S Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 9137",
+    "sg:postcode":"06706",
+    "sg:province":"CT",
+    "sg:tags":[
+        "stampings",
+        "manufacturer",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852453,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xFIUfZP5rwp9hdXDTa8LB_41.547973_-73.038321@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449476,
+    "wof:geomhash":"76b466bc5e60f7a1bc6abac0d002eb75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85852453,
+            "region_id":85688629,
+            "venue_id":823900865
+        }
+    ],
+    "wof:id":823900865,
+    "wof:lastmodified":1466426063,
+    "wof:name":"Lee Lynd Corp",
+    "wof:parent_id":85852453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stampings",
+        "manufacturer",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.038321,
+    41.547973,
+    -73.038321,
+    41.547973
+],
+  "geometry": {"coordinates":[-73.038321,41.547973],"type":"Point"}
+}

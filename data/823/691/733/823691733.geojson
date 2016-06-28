@@ -1,0 +1,73 @@
+{
+  "id": 823691733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.937128,41.340486,-72.937128,41.340486",
+    "geom:latitude":41.340486,
+    "geom:longitude":-72.937128,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 George St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 624 9889",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y8ETm8Dt9sV2fCZNKkkp4_41.340486_-72.937128@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444057,
+    "wof:geomhash":"51483ef48078f3c163291a292663c37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823691733
+        }
+    ],
+    "wof:id":823691733,
+    "wof:lastmodified":1466424174,
+    "wof:name":"R & R Over Land Travel Svc",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -72.937128,
+    41.340486,
+    -72.937128,
+    41.340486
+],
+  "geometry": {"coordinates":[-72.937128,41.340486],"type":"Point"}
+}

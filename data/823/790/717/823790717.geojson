@@ -1,0 +1,73 @@
+{
+  "id": 823790717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679499,41.651773,-72.679499,41.651773",
+    "geom:latitude":41.651773,
+    "geom:longitude":-72.679499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"676 Cromwell Ave",
+    "sg:city":"Rocky Hill",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 721 9415",
+    "sg:postcode":"06067",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822259,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HM4nCewYTeh8eymAL6LCy_41.651773_-72.679499@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446443,
+    "wof:geomhash":"985febd0ef2505b09b2de06afd128b19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85822259,
+            "region_id":85688629,
+            "venue_id":823790717
+        }
+    ],
+    "wof:id":823790717,
+    "wof:lastmodified":1466425053,
+    "wof:name":"Pavilion West",
+    "wof:parent_id":85822259,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.679499,
+    41.651773,
+    -72.679499,
+    41.651773
+],
+  "geometry": {"coordinates":[-72.67949900000001,41.651773],"type":"Point"}
+}

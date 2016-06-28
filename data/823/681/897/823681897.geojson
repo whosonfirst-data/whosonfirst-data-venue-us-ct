@@ -1,0 +1,71 @@
+{
+  "id": 823681897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.91042,41.3215,-72.91042,41.3215",
+    "geom:latitude":41.3215,
+    "geom:longitude":-72.91042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"165 Willow St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 498 8537",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laundromat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pjO0fu1Nw3S8ftY1aRBlA_41.321500_-72.910420@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443826,
+    "wof:geomhash":"5f00cd1107ba2252933371bddabf2e32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823681897
+        }
+    ],
+    "wof:id":823681897,
+    "wof:lastmodified":1466424231,
+    "wof:name":"Bubble and Squeak Laundromat",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laundromat"
+    ]
+},
+  "bbox": [
+    -72.91042,
+    41.3215,
+    -72.91042,
+    41.3215
+],
+  "geometry": {"coordinates":[-72.91042,41.3215],"type":"Point"}
+}

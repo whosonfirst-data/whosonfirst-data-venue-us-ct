@@ -1,0 +1,68 @@
+{
+  "id": 823604993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.780271,41.633183,-72.780271,41.633183",
+    "geom:latitude":41.633183,
+    "geom:longitude":-72.780271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Harris St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YwigDGMHtMAsi6NVcCmzy_41.633183_-72.780271@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442021,
+    "wof:geomhash":"31cb5b97ac3d7f400b24327af52d9f07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823604993
+        }
+    ],
+    "wof:id":823604993,
+    "wof:lastmodified":1466423411,
+    "wof:name":"Drain Doctor Inc",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.780271,
+    41.633183,
+    -72.780271,
+    41.633183
+],
+  "geometry": {"coordinates":[-72.780271,41.633183],"type":"Point"}
+}

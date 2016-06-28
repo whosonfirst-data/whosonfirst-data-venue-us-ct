@@ -1,0 +1,74 @@
+{
+  "id": 824104645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.36698,41.330258,-72.36698,41.330258",
+    "geom:latitude":41.330258,
+    "geom:longitude":-72.36698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Otter Cove Dr",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 6565",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.whiskersinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AaQDHRSHmYbmdC9HdGCus_41.330258_-72.366980@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454438,
+    "wof:geomhash":"000a7cc429af0529bcd27c617f45019f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824104645
+        }
+    ],
+    "wof:id":824104645,
+    "wof:lastmodified":1466423219,
+    "wof:name":"The Whiskers Inn",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -72.36698,
+    41.330258,
+    -72.36698,
+    41.330258
+],
+  "geometry": {"coordinates":[-72.36698,41.330258],"type":"Point"}
+}

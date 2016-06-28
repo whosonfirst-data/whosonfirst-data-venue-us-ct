@@ -1,0 +1,71 @@
+{
+  "id": 823930913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.44321,41.215023,-73.44321,41.215023",
+    "geom:latitude":41.215023,
+    "geom:longitude":-73.44321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"233 Catalpa Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 834 7414",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Im87vUZznzjCHcJHHxBhJ_41.215023_-73.443210@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450265,
+    "wof:geomhash":"1911cbe1912d17d9df5e1169f28cc52b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823930913
+        }
+    ],
+    "wof:id":823930913,
+    "wof:lastmodified":1466426338,
+    "wof:name":"Coastal Construction",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.44321,
+    41.215023,
+    -73.44321,
+    41.215023
+],
+  "geometry": {"coordinates":[-73.44320999999999,41.215023],"type":"Point"}
+}

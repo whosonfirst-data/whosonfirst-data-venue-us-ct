@@ -1,0 +1,91 @@
+{
+  "id": 824072591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.824413,41.8071,-72.824413,41.8071",
+    "geom:latitude":41.8071,
+    "geom:longitude":-72.824413,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 E Main St",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/avon/129766-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 674 0669",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46LCzZ2QVmJE86EGC4fndM_41.807100_-72.824413@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453684,
+    "wof:geomhash":"37c98606f70f23a6b78b1d76dbd81654",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824072591
+        }
+    ],
+    "wof:id":824072591,
+    "wof:lastmodified":1466422456,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.824413,
+    41.8071,
+    -72.824413,
+    41.8071
+],
+  "geometry": {"coordinates":[-72.82441300000001,41.8071],"type":"Point"}
+}

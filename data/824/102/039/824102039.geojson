@@ -1,0 +1,84 @@
+{
+  "id": 824102039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.417396,41.337432,-72.417396,41.337432",
+    "geom:latitude":41.337432,
+    "geom:longitude":-72.417396,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"158 Westbrook Rd",
+    "sg:city":"Essex",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 767 1072",
+    "sg:postcode":"06426",
+    "sg:province":"CT",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "sg:website":"www.kindercare.com/Our-Centers/C...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a1sKdQqBaxpcvAUs3YB9R_41.337432_-72.417396@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454382,
+    "wof:geomhash":"16a2ba14f27aa9adb86afeba5f5362f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":824102039
+        }
+    ],
+    "wof:id":824102039,
+    "wof:lastmodified":1466422877,
+    "wof:name":"Essex Kindercare",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -72.417396,
+    41.337432,
+    -72.417396,
+    41.337432
+],
+  "geometry": {"coordinates":[-72.417396,41.337432],"type":"Point"}
+}

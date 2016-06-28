@@ -1,0 +1,81 @@
+{
+  "id": 823880261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.415401,41.430959,-73.415401,41.430959",
+    "geom:latitude":41.430959,
+    "geom:longitude":-73.415401,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 9867",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FneKgwUoNP2xT874luYUR_41.430959_-73.415401@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448975,
+    "wof:geomhash":"cd0c9880d6aa47b79ba05fcd139d3726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":823880261
+        }
+    ],
+    "wof:id":823880261,
+    "wof:lastmodified":1466425821,
+    "wof:name":"Federal Road Car Wash",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.415401,
+    41.430959,
+    -73.415401,
+    41.430959
+],
+  "geometry": {"coordinates":[-73.415401,41.430959],"type":"Point"}
+}

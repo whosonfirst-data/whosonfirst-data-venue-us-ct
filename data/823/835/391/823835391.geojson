@@ -1,0 +1,71 @@
+{
+  "id": 823835391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.284589,41.282961,-73.284589,41.282961",
+    "geom:latitude":41.282961,
+    "geom:longitude":-73.284589,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Everett Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 0200",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77aLa4s9DNDzM9QHPPfuyS_41.282961_-73.284589@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447769,
+    "wof:geomhash":"16c2b7933e79f44d8a0c8be573b616f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823835391
+        }
+    ],
+    "wof:id":823835391,
+    "wof:lastmodified":1466425588,
+    "wof:name":"Colony Builders Supply Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.284589,
+    41.282961,
+    -73.284589,
+    41.282961
+],
+  "geometry": {"coordinates":[-73.284589,41.282961],"type":"Point"}
+}

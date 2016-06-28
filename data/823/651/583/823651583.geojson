@@ -1,0 +1,71 @@
+{
+  "id": 823651583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.305333,41.781295,-73.305333,41.781295",
+    "geom:latitude":41.781295,
+    "geom:longitude":-73.305333,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 South Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816203,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gJhYQ2rzSHiIm5M01Hkdc_41.781295_-73.305333@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443111,
+    "wof:geomhash":"114b1355606efbcd9f8bac38a93c7df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816203,
+            "region_id":85688629,
+            "venue_id":823651583
+        }
+    ],
+    "wof:id":823651583,
+    "wof:lastmodified":1466423826,
+    "wof:name":"John A Galloway MD",
+    "wof:parent_id":85816203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.305333,
+    41.781295,
+    -73.305333,
+    41.781295
+],
+  "geometry": {"coordinates":[-73.305333,41.781295],"type":"Point"}
+}

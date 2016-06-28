@@ -1,0 +1,79 @@
+{
+  "id": 824072467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.118156,41.159298,-73.118156,41.159298",
+    "geom:latitude":41.159298,
+    "geom:longitude":-73.118156,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"985 Stratford Rd",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 0644",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "appliance",
+        "appliances-small"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831419,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JVmNLKfatqPuKZTDVShvS_41.159592_-73.117983@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453680,
+    "wof:geomhash":"05056d1e6beaefb66a388c6830704caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85831419,
+            "region_id":85688629,
+            "venue_id":824072467
+        }
+    ],
+    "wof:id":824072467,
+    "wof:lastmodified":1466422433,
+    "wof:name":"ACME Appliance",
+    "wof:parent_id":85831419,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "appliances-small"
+    ]
+},
+  "bbox": [
+    -73.118156,
+    41.159298,
+    -73.118156,
+    41.159298
+],
+  "geometry": {"coordinates":[-73.118156,41.159298],"type":"Point"}
+}

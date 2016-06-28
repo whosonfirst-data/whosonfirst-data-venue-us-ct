@@ -1,0 +1,71 @@
+{
+  "id": 823654443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.581926,41.74275,-72.581926,41.74275",
+    "geom:latitude":41.74275,
+    "geom:longitude":-72.581926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Wickham Dr",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 568 6398",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74LaNthkbBtK6MWcGr8YAc_41.742750_-72.581926@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443181,
+    "wof:geomhash":"9cf15367bf7614fd608d7f706e8c82d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823654443
+        }
+    ],
+    "wof:id":823654443,
+    "wof:lastmodified":1466423812,
+    "wof:name":"Northeast Exteriors LLC",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.581926,
+    41.74275,
+    -72.581926,
+    41.74275
+],
+  "geometry": {"coordinates":[-72.581926,41.74275],"type":"Point"}
+}

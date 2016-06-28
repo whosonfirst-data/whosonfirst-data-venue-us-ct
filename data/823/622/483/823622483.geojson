@@ -1,0 +1,71 @@
+{
+  "id": 823622483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.910625,41.361643,-72.910625,41.361643",
+    "geom:latitude":41.361643,
+    "geom:longitude":-72.910625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Elihu St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L5QQtbfBDFZ2m7hA8DHaK_41.361643_-72.910625@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442461,
+    "wof:geomhash":"91587872dc2f21e8248cc8ace3df4128",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823622483
+        }
+    ],
+    "wof:id":823622483,
+    "wof:lastmodified":1466423720,
+    "wof:name":"Worldwide Leadership Council",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -72.910625,
+    41.361643,
+    -72.910625,
+    41.361643
+],
+  "geometry": {"coordinates":[-72.910625,41.361643],"type":"Point"}
+}

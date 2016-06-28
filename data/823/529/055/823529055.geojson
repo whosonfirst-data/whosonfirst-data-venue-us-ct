@@ -1,0 +1,77 @@
+{
+  "id": 823529055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.433405,41.972335,-73.433405,41.972335",
+    "geom:latitude":41.972335,
+    "geom:longitude":-73.433405,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"223 Main St",
+    "sg:city":"Lakeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 1011",
+    "sg:postcode":"06039",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803031,
+        102191575,
+        404496017,
+        85633793,
+        85931193,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KqZqtUgX5Eer0amlbU5y7_41.972335_-73.433405@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440234,
+    "wof:geomhash":"67a0b7ff582433c82752dff12b5d2f22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496017,
+            "locality_id":85931193,
+            "neighbourhood_id":85803031,
+            "region_id":85688629,
+            "venue_id":823529055
+        }
+    ],
+    "wof:id":823529055,
+    "wof:lastmodified":1466422230,
+    "wof:name":"Pastorale",
+    "wof:parent_id":85803031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.433405,
+    41.972335,
+    -73.433405,
+    41.972335
+],
+  "geometry": {"coordinates":[-73.43340499999999,41.972335],"type":"Point"}
+}

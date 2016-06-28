@@ -1,0 +1,82 @@
+{
+  "id": 824119923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.563951,41.048812,-73.563951,41.048812",
+    "geom:latitude":41.048812,
+    "geom:longitude":-73.563951,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2001 W Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 348 2546",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.heitlandcosmetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zg25M0mJi1wmP7ot9CKrQ_41.048812_-73.563951@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454763,
+    "wof:geomhash":"68ef1c82a71a0f770113784fdfe615b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":824119923
+        }
+    ],
+    "wof:id":824119923,
+    "wof:lastmodified":1466423307,
+    "wof:name":"Rosagraf Cosmetics",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -73.563951,
+    41.048812,
+    -73.563951,
+    41.048812
+],
+  "geometry": {"coordinates":[-73.563951,41.048812],"type":"Point"}
+}

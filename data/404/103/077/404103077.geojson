@@ -2,13 +2,14 @@
   "id": 404103077,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.697019,41.112214,-73.697019,41.112214",
     "geom:latitude":41.112214,
     "geom:longitude":-73.697019,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Steeple Chase Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404103077,
-    "wof:lastmodified":1449039860,
+    "wof:lastmodified":1466421155,
     "wof:name":"John J Meakem Jr",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "consultant"
     ]
 },
-  "bbox": [-73.697019,41.112214,-73.697019,41.112214],
+  "bbox": [
+    -73.697019,
+    41.112214,
+    -73.697019,
+    41.112214
+],
   "geometry": {"coordinates":[-73.697019,41.112214],"type":"Point"}
 }

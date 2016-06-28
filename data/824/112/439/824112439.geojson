@@ -1,0 +1,90 @@
+{
+  "id": 824112439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.402786,41.416241,-73.402786,41.416241",
+    "geom:latitude":41.416241,
+    "geom:longitude":-73.402786,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Stony Hill Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 792 2263",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgery",
+        "surgeons",
+        "oral",
+        "dentists-periodontists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E2TQxB3rK4095VQHrpYTG_41.416241_-73.402786@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454603,
+    "wof:geomhash":"3efcbe5a93d3005b1c14f5db2b2b9fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":824112439
+        }
+    ],
+    "wof:id":824112439,
+    "wof:lastmodified":1466423118,
+    "wof:name":"Cucharale & Silston",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgery",
+        "surgeons",
+        "oral",
+        "dentists-periodontists"
+    ]
+},
+  "bbox": [
+    -73.402786,
+    41.416241,
+    -73.402786,
+    41.416241
+],
+  "geometry": {"coordinates":[-73.40278600000001,41.416241],"type":"Point"}
+}

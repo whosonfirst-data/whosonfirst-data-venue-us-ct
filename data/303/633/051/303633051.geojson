@@ -2,13 +2,14 @@
   "id": 303633051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630934,41.029971,-73.630934,41.029971",
     "geom:latitude":41.029971,
     "geom:longitude":-73.630934,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Dearfield Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303633051,
-    "wof:lastmodified":1449000548,
+    "wof:lastmodified":1466421118,
     "wof:name":"Dustin Dental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"
     ]
 },
-  "bbox": [-73.630934,41.029971,-73.630934,41.029971],
+  "bbox": [
+    -73.630934,
+    41.029971,
+    -73.630934,
+    41.029971
+],
   "geometry": {"coordinates":[-73.630934,41.029971],"type":"Point"}
 }

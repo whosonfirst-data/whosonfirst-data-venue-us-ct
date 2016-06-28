@@ -1,0 +1,71 @@
+{
+  "id": 823999787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.06183,41.64478,-73.06183,41.64478",
+    "geom:latitude":41.64478,
+    "geom:longitude":-73.06183,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"365 Carter Rd",
+    "sg:city":"Plymouth",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 7222",
+    "sg:postcode":"06782",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Wfjz2eHxXoZqCQ8lozPtL_41.644780_-73.061830@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451984,
+    "wof:geomhash":"a8da9067adce330e2efac0d928c90c29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823999787
+        }
+    ],
+    "wof:id":823999787,
+    "wof:lastmodified":1466426852,
+    "wof:name":"Z-Built Construction",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.06183,
+    41.64478,
+    -73.06183,
+    41.64478
+],
+  "geometry": {"coordinates":[-73.06183,41.64478],"type":"Point"}
+}

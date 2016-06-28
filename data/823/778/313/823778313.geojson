@@ -1,0 +1,73 @@
+{
+  "id": 823778313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.070095,41.418152,-73.070095,41.418152",
+    "geom:latitude":41.418152,
+    "geom:longitude":-73.070095,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"808 S Main St",
+    "sg:city":"Beacon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 8810",
+    "sg:postcode":"06403",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fvz0aYiij7525cplHKQmz_41.418152_-73.070095@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446045,
+    "wof:geomhash":"861eb535f67557b306ddfee9f3fcb57a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823778313
+        }
+    ],
+    "wof:id":823778313,
+    "wof:lastmodified":1466424917,
+    "wof:name":"A Space Ctr",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.070095,
+    41.418152,
+    -73.070095,
+    41.418152
+],
+  "geometry": {"coordinates":[-73.07009499999999,41.418152],"type":"Point"}
+}

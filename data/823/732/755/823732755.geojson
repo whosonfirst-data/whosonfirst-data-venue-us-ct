@@ -1,0 +1,77 @@
+{
+  "id": 823732755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.651572,41.563218,-72.651572,41.563218",
+    "geom:latitude":41.563218,
+    "geom:longitude":-72.651572,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"533 Main St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 346 8621",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QD58YtxKtsHtqiCBTkSF8_41.563218_-72.651572@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444985,
+    "wof:geomhash":"b3e01be005e24e1509809556c350dbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":823732755
+        }
+    ],
+    "wof:id":823732755,
+    "wof:lastmodified":1466424575,
+    "wof:name":"Middletown Fire Dept",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.651572,
+    41.563218,
+    -72.651572,
+    41.563218
+],
+  "geometry": {"coordinates":[-72.651572,41.563218],"type":"Point"}
+}

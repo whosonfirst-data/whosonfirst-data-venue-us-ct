@@ -1,0 +1,77 @@
+{
+  "id": 823512697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.36503,41.140025,-73.36503,41.140025",
+    "geom:latitude":41.140025,
+    "geom:longitude":-73.36503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Post Rd W",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 221 8477",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888507,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MzgYQJ1d34xLGvIovalyt_41.140025_-73.365030@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439852,
+    "wof:geomhash":"fe6ebc2a28593c55d6dfb2c7f1d3e62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85888507,
+            "region_id":85688629,
+            "venue_id":823512697
+        }
+    ],
+    "wof:id":823512697,
+    "wof:lastmodified":1466422071,
+    "wof:name":"Lexington Limousine",
+    "wof:parent_id":85888507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -73.36503,
+    41.140025,
+    -73.36503,
+    41.140025
+],
+  "geometry": {"coordinates":[-73.36503,41.140025],"type":"Point"}
+}

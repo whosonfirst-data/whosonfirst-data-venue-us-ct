@@ -1,0 +1,73 @@
+{
+  "id": 823923433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143626,41.400018,-73.143626,41.400018",
+    "geom:latitude":41.400018,
+    "geom:longitude":-73.143626,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Punkup Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 1499",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844939,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EjB6ULsjACtVs7Cgz5QlO_41.400018_-73.143626@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450088,
+    "wof:geomhash":"b8a95ba727fb0a8b735d2bfc0ca07b3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844939,
+            "region_id":85688629,
+            "venue_id":823923433
+        }
+    ],
+    "wof:id":823923433,
+    "wof:lastmodified":1466426165,
+    "wof:name":"Benco LLC",
+    "wof:parent_id":85844939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.143626,
+    41.400018,
+    -73.143626,
+    41.400018
+],
+  "geometry": {"coordinates":[-73.143626,41.400018],"type":"Point"}
+}

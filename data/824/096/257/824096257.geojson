@@ -1,0 +1,86 @@
+{
+  "id": 824096257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.877686,41.809361,-71.877686,41.809361",
+    "geom:latitude":41.809361,
+    "geom:longitude":-71.877686,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Westcott Rd",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 4949",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "enforcement",
+        "law",
+        "agencies-government",
+        "government-state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CZGKwSpDiUqmyEbtdNXkr_41.809361_-71.877686@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454250,
+    "wof:geomhash":"7ff9b518d85abd7497e18b03b8354079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824096257
+        }
+    ],
+    "wof:id":824096257,
+    "wof:lastmodified":1466423007,
+    "wof:name":"State Police Barrick Troop D",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "enforcement",
+        "law",
+        "agencies-government",
+        "government-state"
+    ]
+},
+  "bbox": [
+    -71.877686,
+    41.809361,
+    -71.877686,
+    41.809361
+],
+  "geometry": {"coordinates":[-71.877686,41.809361],"type":"Point"}
+}

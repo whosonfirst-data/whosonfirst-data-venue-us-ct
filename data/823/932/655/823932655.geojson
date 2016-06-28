@@ -1,0 +1,71 @@
+{
+  "id": 823932655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.418785,41.16361,-73.418785,41.16361",
+    "geom:latitude":41.16361,
+    "geom:longitude":-73.418785,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56oyvlBcxSGYTOJ2ITsJGj_41.163610_-73.418785@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450324,
+    "wof:geomhash":"b9588fcf336c260c69b1b2d614b4bd45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823932655
+        }
+    ],
+    "wof:id":823932655,
+    "wof:lastmodified":1466426339,
+    "wof:name":"T James Salon",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.418785,
+    41.16361,
+    -73.418785,
+    41.16361
+],
+  "geometry": {"coordinates":[-73.418785,41.16361],"type":"Point"}
+}

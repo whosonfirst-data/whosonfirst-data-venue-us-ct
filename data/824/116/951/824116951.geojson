@@ -1,0 +1,80 @@
+{
+  "id": 824116951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.614479,41.101891,-73.614479,41.101891",
+    "geom:latitude":41.101891,
+    "geom:longitude":-73.614479,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"106 Hunting Ridge Rd",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 661 0105",
+    "sg:postcode":"06831",
+    "sg:province":"CT",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m878MMCqOUsInifZJ5fwV_41.101891_-73.614479@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454703,
+    "wof:geomhash":"fdcd70afac045759e352dc8d563cf14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844811,
+            "region_id":85688629,
+            "venue_id":824116951
+        }
+    ],
+    "wof:id":824116951,
+    "wof:lastmodified":1466423226,
+    "wof:name":"Renaissance Workshop",
+    "wof:parent_id":85844811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -73.614479,
+    41.101891,
+    -73.614479,
+    41.101891
+],
+  "geometry": {"coordinates":[-73.614479,41.101891],"type":"Point"}
+}

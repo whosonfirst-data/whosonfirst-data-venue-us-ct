@@ -1,0 +1,77 @@
+{
+  "id": 823899889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031439,41.55421,-73.031439,41.55421",
+    "geom:latitude":41.55421,
+    "geom:longitude":-73.031439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"519 E Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 754 4957",
+    "sg:postcode":"06702",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826239,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57B2id6AYf1E9992bSdXZk_41.554210_-73.031439@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449454,
+    "wof:geomhash":"6dfb7e14265014d75c7694ec02fa2a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85826239,
+            "region_id":85688629,
+            "venue_id":823899889
+        }
+    ],
+    "wof:id":823899889,
+    "wof:lastmodified":1466426064,
+    "wof:name":"Station 2",
+    "wof:parent_id":85826239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.031439,
+    41.55421,
+    -73.031439,
+    41.55421
+],
+  "geometry": {"coordinates":[-73.03143900000001,41.55421],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823474469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.298519,41.2541,-73.298519,41.2541",
+    "geom:latitude":41.2541,
+    "geom:longitude":-73.298519,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Morehouse Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4111",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c0jecYfaHTJlFvrnettjX_41.254100_-73.298519@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438942,
+    "wof:geomhash":"a0a99a98c831ecb18193e96b960b7dce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823474469
+        }
+    ],
+    "wof:id":823474469,
+    "wof:lastmodified":1466421323,
+    "wof:name":"Easton Town Police Dept",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.298519,
+    41.2541,
+    -73.298519,
+    41.2541
+],
+  "geometry": {"coordinates":[-73.298519,41.2541],"type":"Point"}
+}

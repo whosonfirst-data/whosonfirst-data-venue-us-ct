@@ -1,0 +1,66 @@
+{
+  "id": 823951815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908607,41.382686,-72.908607,41.382686",
+    "geom:latitude":41.382686,
+    "geom:longitude":-72.908607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2781 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 1800",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gLY8IahSR55RWLVsg1Fmi_41.382686_-72.908607@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450817,
+    "wof:geomhash":"3d6fabbade9a6671bf9cb5f52ab5e29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823951815
+        }
+    ],
+    "wof:id":823951815,
+    "wof:lastmodified":1466426438,
+    "wof:name":"Atlantic Health Svc",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.908607,
+    41.382686,
+    -72.908607,
+    41.382686
+],
+  "geometry": {"coordinates":[-72.908607,41.382686],"type":"Point"}
+}

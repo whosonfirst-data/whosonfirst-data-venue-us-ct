@@ -1,0 +1,80 @@
+{
+  "id": 824121145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.526633,41.068052,-73.526633,41.068052",
+    "geom:latitude":41.068052,
+    "geom:longitude":-73.526633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"217 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 222 2656",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair",
+        "fence"
+    ],
+    "sg:website":"http://wwwcontactexcalibur.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZSPJApB75T3BftQmLSV9z_41.068052_-73.526633@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454786,
+    "wof:geomhash":"057c26f60d15c7ae1736b924e2a1ef71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824121145
+        }
+    ],
+    "wof:id":824121145,
+    "wof:lastmodified":1466423317,
+    "wof:name":"Excalibur Fence & Iron Works",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence"
+    ]
+},
+  "bbox": [
+    -73.526633,
+    41.068052,
+    -73.526633,
+    41.068052
+],
+  "geometry": {"coordinates":[-73.526633,41.068052],"type":"Point"}
+}

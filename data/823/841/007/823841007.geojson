@@ -1,0 +1,75 @@
+{
+  "id": 823841007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969905,41.587454,-72.969905,41.587454",
+    "geom:latitude":41.587454,
+    "geom:longitude":-72.969905,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"638 Woodtick Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 5829",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fAc8pNCYSUzmazihZc2Ub_41.587454_-72.969905@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447964,
+    "wof:geomhash":"89094f7bbabacd6b6d1ea2cf52006e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823841007
+        }
+    ],
+    "wof:id":823841007,
+    "wof:lastmodified":1466425475,
+    "wof:name":"Skip's Last Chance Garage",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.969905,
+    41.587454,
+    -72.969905,
+    41.587454
+],
+  "geometry": {"coordinates":[-72.969905,41.587454],"type":"Point"}
+}

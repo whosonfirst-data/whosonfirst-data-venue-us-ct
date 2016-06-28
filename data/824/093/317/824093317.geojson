@@ -1,0 +1,81 @@
+{
+  "id": 824093317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.603371,41.962132,-72.603371,41.962132",
+    "geom:latitude":41.962132,
+    "geom:longitude":-72.603371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Elan St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 745 7509",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mothproofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85931043,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JnI4BfmcRiNwBdrnv9OEC_41.962132_-72.603371@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454159,
+    "wof:geomhash":"7c35a66347a05d3b779566352062a72a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":824093317
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093317
+        }
+    ],
+    "wof:id":824093317,
+    "wof:lastmodified":1466422896,
+    "wof:name":"Action Pest Control",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mothproofing"
+    ]
+},
+  "bbox": [
+    -72.603371,
+    41.962132,
+    -72.603371,
+    41.962132
+],
+  "geometry": {"coordinates":[-72.603371,41.962132],"type":"Point"}
+}

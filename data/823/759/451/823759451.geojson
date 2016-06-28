@@ -1,0 +1,71 @@
+{
+  "id": 823759451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261989,41.318674,-73.261989,41.318674",
+    "geom:latitude":41.318674,
+    "geom:longitude":-73.261989,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"406 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 9761",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05EBT5a64v39McwjiwjQtD_41.318674_-73.261989@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445604,
+    "wof:geomhash":"58b7f6c35bee784fe107dddc2174201f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823759451
+        }
+    ],
+    "wof:id":823759451,
+    "wof:lastmodified":1466424773,
+    "wof:name":"Shear Magic Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.261989,
+    41.318674,
+    -73.261989,
+    41.318674
+],
+  "geometry": {"coordinates":[-73.261989,41.318674],"type":"Point"}
+}

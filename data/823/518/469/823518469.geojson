@@ -1,0 +1,71 @@
+{
+  "id": 823518469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.284089,41.381813,-73.284089,41.381813",
+    "geom:latitude":41.381813,
+    "geom:longitude":-73.284089,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"132 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 6680",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_236UWgLrpX6JzN3e0rx0Xg_41.381813_-73.284089@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439990,
+    "wof:geomhash":"80fae401aa6668e309df72efbfabd00f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823518469
+        }
+    ],
+    "wof:id":823518469,
+    "wof:lastmodified":1466422058,
+    "wof:name":"Newtown Upholstery",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -73.284089,
+    41.381813,
+    -73.284089,
+    41.381813
+],
+  "geometry": {"coordinates":[-73.28408899999999,41.381813],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823562461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.903973,41.697453,-72.903973,41.697453",
+    "geom:latitude":41.697453,
+    "geom:longitude":-72.903973,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1097 Farmington Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "vehicle",
+        "rent",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ojkOlRVkfjVWoxeUwn2UF_41.697453_-72.903973@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440995,
+    "wof:geomhash":"3877a4c603727370706af44bf4ffdb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823562461
+        }
+    ],
+    "wof:id":823562461,
+    "wof:lastmodified":1466422976,
+    "wof:name":"GTA Rental Corp",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vehicle",
+        "rent",
+        "lease"
+    ]
+},
+  "bbox": [
+    -72.903973,
+    41.697453,
+    -72.903973,
+    41.697453
+],
+  "geometry": {"coordinates":[-72.90397299999999,41.697453],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824074113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.657314,41.819237,-72.657314,41.819237",
+    "geom:latitude":41.819237,
+    "geom:longitude":-72.657314,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"503 Windsor Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/windsor/144203-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 525 9000",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878031,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GDZgHu8UQqwe9vW3CsGub_41.819237_-72.657314@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453721,
+    "wof:geomhash":"028567ba45b57de9756e3cbbbcf04a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878031,
+            "region_id":85688629,
+            "venue_id":824074113
+        }
+    ],
+    "wof:id":824074113,
+    "wof:lastmodified":1466422412,
+    "wof:name":"Subway",
+    "wof:parent_id":85878031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.657314,
+    41.819237,
+    -72.657314,
+    41.819237
+],
+  "geometry": {"coordinates":[-72.657314,41.819237],"type":"Point"}
+}

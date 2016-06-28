@@ -1,0 +1,66 @@
+{
+  "id": 823611297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.86595,41.812278,-72.86595,41.812278",
+    "geom:latitude":41.812278,
+    "geom:longitude":-72.86595,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"70 W Avon Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1v5kxxuUtcxCBdUDXRbhkv_41.812278_-72.865950@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442175,
+    "wof:geomhash":"12b100d7f74684b9528a9de3fe717242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":823611297
+        }
+    ],
+    "wof:id":823611297,
+    "wof:lastmodified":1466423510,
+    "wof:name":"Dr Crouch & Zeiner PC",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.86595,
+    41.812278,
+    -72.86595,
+    41.812278
+],
+  "geometry": {"coordinates":[-72.86595,41.812278],"type":"Point"}
+}

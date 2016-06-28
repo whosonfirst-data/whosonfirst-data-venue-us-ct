@@ -1,0 +1,73 @@
+{
+  "id": 823800045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.805011,41.520811,-72.805011,41.520811",
+    "geom:latitude":41.520811,
+    "geom:longitude":-72.805011,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 Willis Ave",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 235 1330",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TBuXXnWSZ0nG3qJIIsVkj_41.520811_-72.805011@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446713,
+    "wof:geomhash":"ac03ec89e385e919a1645c25f56b1daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823800045
+        }
+    ],
+    "wof:id":823800045,
+    "wof:lastmodified":1466425060,
+    "wof:name":"Coutermash Septic",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -72.805011,
+    41.520811,
+    -72.805011,
+    41.520811
+],
+  "geometry": {"coordinates":[-72.80501099999999,41.520811],"type":"Point"}
+}

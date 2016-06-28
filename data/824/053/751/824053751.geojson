@@ -1,0 +1,84 @@
+{
+  "id": 824053751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.119503,41.197095,-73.119503,41.197095",
+    "geom:latitude":41.197095,
+    "geom:longitude":-73.119503,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"550 Ferry Blvd",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 3244",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "gymnastic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844831,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34Zk9EimaP36nsQveySXel_41.197095_-73.119503@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453243,
+    "wof:geomhash":"583053101ed95a7314d7565550242030",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85844831,
+            "region_id":85688629,
+            "venue_id":824053751
+        }
+    ],
+    "wof:id":824053751,
+    "wof:lastmodified":1466422082,
+    "wof:name":"Polly's School Of Gymnastics",
+    "wof:parent_id":85844831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "gymnastic"
+    ]
+},
+  "bbox": [
+    -73.119503,
+    41.197095,
+    -73.119503,
+    41.197095
+],
+  "geometry": {"coordinates":[-73.11950299999999,41.197095],"type":"Point"}
+}

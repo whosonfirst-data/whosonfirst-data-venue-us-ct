@@ -1,0 +1,83 @@
+{
+  "id": 823522955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.695201,41.804062,-72.695201,41.804062",
+    "geom:latitude":41.804062,
+    "geom:longitude":-72.695201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"624 Blue Hills Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06112",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85806499,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36LLTRz5QS25KqOFjmtBlV_41.804062_-72.695201@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440091,
+    "wof:geomhash":"86c869cc3a096ee4cf023e5e9302b9ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85806499,
+            "region_id":85688629,
+            "venue_id":823522955
+        }
+    ],
+    "wof:id":823522955,
+    "wof:lastmodified":1466422207,
+    "wof:name":"Freds Cleaners",
+    "wof:parent_id":85806499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -72.695201,
+    41.804062,
+    -72.695201,
+    41.804062
+],
+  "geometry": {"coordinates":[-72.695201,41.804062],"type":"Point"}
+}

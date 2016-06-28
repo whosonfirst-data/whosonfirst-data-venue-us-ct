@@ -1,0 +1,73 @@
+{
+  "id": 824050769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079396,41.66711,-73.079396,41.66711",
+    "geom:latitude":41.66711,
+    "geom:longitude":-73.079396,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"258 S Main St",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55NJa7bSwyEAYV84ZH9BFp_41.667110_-73.079396@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453185,
+    "wof:geomhash":"c8a3ce56881035caeea86018fe520050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824050769
+        }
+    ],
+    "wof:id":824050769,
+    "wof:lastmodified":1466421859,
+    "wof:name":"Thomaston Counseling Assoc LLC",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -73.079396,
+    41.66711,
+    -73.079396,
+    41.66711
+],
+  "geometry": {"coordinates":[-73.079396,41.66711],"type":"Point"}
+}

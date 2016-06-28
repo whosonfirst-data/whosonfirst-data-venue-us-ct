@@ -1,0 +1,80 @@
+{
+  "id": 824078899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13469,41.187018,-73.13469,41.187018",
+    "geom:latitude":41.187018,
+    "geom:longitude":-73.13469,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1240 Stratford Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stratford/144050-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 385 0882",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xTBZPVWkCOYsJznkPiD2m_41.187018_-73.134690@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453829,
+    "wof:geomhash":"f3d2a462c79c43cc0b5b03c304fbfb0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":824078899
+        }
+    ],
+    "wof:id":824078899,
+    "wof:lastmodified":1466422621,
+    "wof:name":"Subway",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.13469,
+    41.187018,
+    -73.13469,
+    41.187018
+],
+  "geometry": {"coordinates":[-73.13469000000001,41.187018],"type":"Point"}
+}

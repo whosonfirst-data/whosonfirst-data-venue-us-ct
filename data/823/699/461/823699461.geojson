@@ -1,0 +1,78 @@
+{
+  "id": 823699461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.266247,41.236495,-73.266247,41.236495",
+    "geom:latitude":41.236495,
+    "geom:longitude":-73.266247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Chester Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 371 6121",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "alarm",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842185,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EYWWQjanvMAGD9fXYr941_41.236495_-73.266247@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444227,
+    "wof:geomhash":"9b1bc5350af1ea71b231ddbd69e24456",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85842185,
+            "region_id":85688629,
+            "venue_id":823699461
+        }
+    ],
+    "wof:id":823699461,
+    "wof:lastmodified":1466424416,
+    "wof:name":"Emergency Response Services",
+    "wof:parent_id":85842185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -73.266247,
+    41.236495,
+    -73.266247,
+    41.236495
+],
+  "geometry": {"coordinates":[-73.26624700000001,41.236495],"type":"Point"}
+}

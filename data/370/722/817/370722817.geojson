@@ -2,13 +2,14 @@
   "id": 370722817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49319,41.14623,-73.49319,41.14623",
     "geom:latitude":41.14623,
     "geom:longitude":-73.49319,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 South Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":370722817,
-    "wof:lastmodified":1449030278,
+    "wof:lastmodified":1466421176,
     "wof:name":"Hawthorne Ackerly & Dorrance",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-73.49319,41.14623,-73.49319,41.14623],
+  "bbox": [
+    -73.49319,
+    41.14623,
+    -73.49319,
+    41.14623
+],
   "geometry": {"coordinates":[-73.49319,41.14623],"type":"Point"}
 }

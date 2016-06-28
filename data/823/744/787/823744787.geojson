@@ -1,0 +1,73 @@
+{
+  "id": 823744787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14282,41.365671,-73.14282,41.365671",
+    "geom:latitude":41.365671,
+    "geom:longitude":-73.14282,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"352 Roosevelt Dr",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 736 9559",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shed",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844939,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0povCOKhTT3hNp6eMQkrIz_41.365671_-73.142820@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445261,
+    "wof:geomhash":"7b0e017e4bcb3a96d775f49946256ed2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844939,
+            "region_id":85688629,
+            "venue_id":823744787
+        }
+    ],
+    "wof:id":823744787,
+    "wof:lastmodified":1466424651,
+    "wof:name":"Walsh Country Store",
+    "wof:parent_id":85844939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shed",
+        "utility"
+    ]
+},
+  "bbox": [
+    -73.14282,
+    41.365671,
+    -73.14282,
+    41.365671
+],
+  "geometry": {"coordinates":[-73.14282,41.365671],"type":"Point"}
+}

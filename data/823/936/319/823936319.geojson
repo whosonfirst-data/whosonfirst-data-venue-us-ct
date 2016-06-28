@@ -1,0 +1,75 @@
+{
+  "id": 823936319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.821265,41.276626,-72.821265,41.276626",
+    "geom:latitude":41.276626,
+    "geom:longitude":-72.821265,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Bradley St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ymCoPoBdKPvaPT7qrpVFv_41.276626_-72.821265@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450440,
+    "wof:geomhash":"2dc8aa79227473e9de320bfecf02a492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823936319
+        }
+    ],
+    "wof:id":823936319,
+    "wof:lastmodified":1466426155,
+    "wof:name":"Giovanni Auto Body",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.821265,
+    41.276626,
+    -72.821265,
+    41.276626
+],
+  "geometry": {"coordinates":[-72.821265,41.276626],"type":"Point"}
+}

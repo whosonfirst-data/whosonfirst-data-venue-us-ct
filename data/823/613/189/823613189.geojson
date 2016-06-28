@@ -1,0 +1,66 @@
+{
+  "id": 823613189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.898677,41.404924,-72.898677,41.404924",
+    "geom:latitude":41.404924,
+    "geom:longitude":-72.898677,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2977 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 0228",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EHhdM1WPvjmjnqDyktbzy_41.404924_-72.898677@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442231,
+    "wof:geomhash":"4b5171245ed291792a0de5b17fa2d8e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823613189
+        }
+    ],
+    "wof:id":823613189,
+    "wof:lastmodified":1466423433,
+    "wof:name":"Raffaello's Restaurant",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.898677,
+    41.404924,
+    -72.898677,
+    41.404924
+],
+  "geometry": {"coordinates":[-72.89867700000001,41.404924],"type":"Point"}
+}

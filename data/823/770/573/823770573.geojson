@@ -1,0 +1,66 @@
+{
+  "id": 823770573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000934,41.678992,-73.000934,41.678992",
+    "geom:latitude":41.678992,
+    "geom:longitude":-73.000934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 589 1991",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KuTsvQIE3XbgXQUlrKEmI_41.678992_-73.000934@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445836,
+    "wof:geomhash":"229cf1cc58b111fde284d31282c9d62b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823770573
+        }
+    ],
+    "wof:id":823770573,
+    "wof:lastmodified":1466424690,
+    "wof:name":"Anylers World",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.000934,
+    41.678992,
+    -73.000934,
+    41.678992
+],
+  "geometry": {"coordinates":[-73.000934,41.678992],"type":"Point"}
+}

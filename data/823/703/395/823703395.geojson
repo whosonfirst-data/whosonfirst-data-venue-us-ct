@@ -1,0 +1,73 @@
+{
+  "id": 823703395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.832763,41.275466,-72.832763,41.275466",
+    "geom:latitude":41.275466,
+    "geom:longitude":-72.832763,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"938 W Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 2770",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JDsD17Dyv31pZ34AHVKmy_41.275466_-72.832763@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444309,
+    "wof:geomhash":"4be141d6d915975e86c943a5479adf51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823703395
+        }
+    ],
+    "wof:id":823703395,
+    "wof:lastmodified":1466424246,
+    "wof:name":"Branford Car Wash & Express",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -72.832763,
+    41.275466,
+    -72.832763,
+    41.275466
+],
+  "geometry": {"coordinates":[-72.832763,41.275466],"type":"Point"}
+}

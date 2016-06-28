@@ -1,0 +1,82 @@
+{
+  "id": 823693861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.161239,41.179778,-73.161239,41.179778",
+    "geom:latitude":41.179778,
+    "geom:longitude":-73.161239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1540 Stratford Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 0217",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kLVKby8TSehVpjKmfn6hq_41.179778_-73.161239@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444101,
+    "wof:geomhash":"ee34a12ec8837bcc6c0b0bc3b28d1b09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823693861
+        }
+    ],
+    "wof:id":823693861,
+    "wof:lastmodified":1466424217,
+    "wof:name":"Rhoda's Unisex Hair Design",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.161239,
+    41.179778,
+    -73.161239,
+    41.179778
+],
+  "geometry": {"coordinates":[-73.16123899999999,41.179778],"type":"Point"}
+}

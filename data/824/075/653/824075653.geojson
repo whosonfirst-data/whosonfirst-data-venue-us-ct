@@ -1,0 +1,97 @@
+{
+  "id": 824075653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.093647,41.547317,-72.093647,41.547317",
+    "geom:latitude":41.547317,
+    "geom:longitude":-72.093647,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Town St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwich/130003-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 889 1721",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823081,
+        102191575,
+        404495761,
+        85633793,
+        85930861,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DgQ59oXQpA0yMF975m9uK_41.547317_-72.093647@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453755,
+    "wof:geomhash":"360e066ae82b7c413a9de7ece1482df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495761,
+            "locality_id":85930861,
+            "neighbourhood_id":85823081,
+            "region_id":85688629,
+            "venue_id":824075653
+        }
+    ],
+    "wof:id":824075653,
+    "wof:lastmodified":1466422612,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85823081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.093647,
+    41.547317,
+    -72.093647,
+    41.547317
+],
+  "geometry": {"coordinates":[-72.093647,41.547317],"type":"Point"}
+}

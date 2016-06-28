@@ -1,0 +1,84 @@
+{
+  "id": 823974609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.13008,41.209268,-73.13008,41.209268",
+    "geom:latitude":41.209268,
+    "geom:longitude":-73.13008,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3634 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 3686",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory",
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MU0Xh67hq6wi8JZ3S13kZ_41.209268_-73.130080@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451346,
+    "wof:geomhash":"aec825225676125d91fbf15b94e731b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823974609
+        }
+    ],
+    "wof:id":823974609,
+    "wof:lastmodified":1466426486,
+    "wof:name":"Studio At Hot Shots",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "photographer"
+    ]
+},
+  "bbox": [
+    -73.13008,
+    41.209268,
+    -73.13008,
+    41.209268
+],
+  "geometry": {"coordinates":[-73.13008000000001,41.209268],"type":"Point"}
+}

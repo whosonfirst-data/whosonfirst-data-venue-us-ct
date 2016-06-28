@@ -1,0 +1,73 @@
+{
+  "id": 823617503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.859321,41.259283,-72.859321,41.259283",
+    "geom:latitude":41.259283,
+    "geom:longitude":-72.859321,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Wheaton Rd",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 467 7445",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85848603,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bPg1fIqrkQO2QSrmb76EK_41.259283_-72.859321@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442334,
+    "wof:geomhash":"7ccfc3e1571ed2add6f659b83b87624a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85848603,
+            "region_id":85688629,
+            "venue_id":823617503
+        }
+    ],
+    "wof:id":823617503,
+    "wof:lastmodified":1466423479,
+    "wof:name":"J & N Electrical Contractor",
+    "wof:parent_id":85848603,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.859321,
+    41.259283,
+    -72.859321,
+    41.259283
+],
+  "geometry": {"coordinates":[-72.85932099999999,41.259283],"type":"Point"}
+}

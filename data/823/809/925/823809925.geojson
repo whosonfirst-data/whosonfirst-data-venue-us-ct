@@ -1,0 +1,71 @@
+{
+  "id": 823809925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914134,41.465482,-72.914134,41.465482",
+    "geom:latitude":41.465482,
+    "geom:longitude":-72.914134,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Fernwood Ln",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807983,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UXnjbMEKtM1FHxaS7TYet_41.465482_-72.914134@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446996,
+    "wof:geomhash":"d9b72de3dcfc4d92983e69ebd9b12afd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85807983,
+            "region_id":85688629,
+            "venue_id":823809925
+        }
+    ],
+    "wof:id":823809925,
+    "wof:lastmodified":1466425083,
+    "wof:name":"Gail Landy MD",
+    "wof:parent_id":85807983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.914134,
+    41.465482,
+    -72.914134,
+    41.465482
+],
+  "geometry": {"coordinates":[-72.914134,41.465482],"type":"Point"}
+}

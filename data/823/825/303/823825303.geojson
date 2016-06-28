@@ -1,0 +1,66 @@
+{
+  "id": 823825303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.876705,41.924967,-71.876705,41.924967",
+    "geom:latitude":41.924967,
+    "geom:longitude":-71.876705,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Providence Pike",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 5822",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RuM7L23zWC2QARpH2TU5U_41.924967_-71.876705@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447455,
+    "wof:geomhash":"ccac6ea9452d94f2b7c9ef37f5d7f95f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823825303
+        }
+    ],
+    "wof:id":823825303,
+    "wof:lastmodified":1466425397,
+    "wof:name":"GNC",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.876705,
+    41.924967,
+    -71.876705,
+    41.924967
+],
+  "geometry": {"coordinates":[-71.876705,41.924967],"type":"Point"}
+}

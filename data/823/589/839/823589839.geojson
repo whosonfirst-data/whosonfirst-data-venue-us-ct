@@ -1,0 +1,71 @@
+{
+  "id": 823589839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.727268,41.474609,-72.727268,41.474609",
+    "geom:latitude":41.474609,
+    "geom:longitude":-72.727268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"705 Wallingford Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 349 8963",
+    "sg:postcode":"06422",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804219,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Q8zB1sYZWWPkPlSgb0YY_41.474609_-72.727268@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441643,
+    "wof:geomhash":"d21a79468f433ffdbe8f2959ed8bb670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85804219,
+            "region_id":85688629,
+            "venue_id":823589839
+        }
+    ],
+    "wof:id":823589839,
+    "wof:lastmodified":1466423196,
+    "wof:name":"Steve Koerber Construction",
+    "wof:parent_id":85804219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.727268,
+    41.474609,
+    -72.727268,
+    41.474609
+],
+  "geometry": {"coordinates":[-72.727268,41.474609],"type":"Point"}
+}

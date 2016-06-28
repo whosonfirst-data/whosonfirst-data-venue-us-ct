@@ -1,0 +1,83 @@
+{
+  "id": 823928011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.941456,41.66227,-72.941456,41.66227",
+    "geom:latitude":41.66227,
+    "geom:longitude":-72.941456,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"276 Hull St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 589 0152",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lxY39Tyw5xDbsAWfLravv_41.662270_-72.941456@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450202,
+    "wof:geomhash":"56f09a4ed9f1e22e5ee8a64f4add96d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823928011
+        }
+    ],
+    "wof:id":823928011,
+    "wof:lastmodified":1466426183,
+    "wof:name":"Harold Fletcher",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.941456,
+    41.66227,
+    -72.941456,
+    41.66227
+],
+  "geometry": {"coordinates":[-72.941456,41.66227],"type":"Point"}
+}

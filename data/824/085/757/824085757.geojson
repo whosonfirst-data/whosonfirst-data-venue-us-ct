@@ -1,0 +1,101 @@
+{
+  "id": 824085757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.947194,41.680286,-72.947194,41.680286",
+    "geom:latitude":41.680286,
+    "geom:longitude":-72.947194,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 N Main St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 584 3400",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "living",
+        "assisted",
+        "rest",
+        "homes-skilled",
+        "nurses-home"
+    ],
+    "sg:website":"http://www.bristolhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dM0qDnLN70SKXqiUd4WK5_41.680286_-72.947194@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453992,
+    "wof:geomhash":"b48bd6bb5a08b9fcb2f9219032f4cb5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085757
+        }
+    ],
+    "wof:id":824085757,
+    "wof:lastmodified":1466422728,
+    "wof:name":"Ingraham Manor Nursing Home",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "assisted",
+        "rest",
+        "homes-skilled",
+        "nurses-home"
+    ]
+},
+  "bbox": [
+    -72.947194,
+    41.680286,
+    -72.947194,
+    41.680286
+],
+  "geometry": {"coordinates":[-72.947194,41.680286],"type":"Point"}
+}

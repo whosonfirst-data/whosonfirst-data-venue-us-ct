@@ -1,0 +1,66 @@
+{
+  "id": 823586793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.680871,41.281648,-72.680871,41.281648",
+    "geom:latitude":41.281648,
+    "geom:longitude":-72.680871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Boston St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 2259",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19kI6lGwEXFxZtJRWoVTJ3_41.281648_-72.680871@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441576,
+    "wof:geomhash":"8073e1a4b51fdf3fb4070530bf86cb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823586793
+        }
+    ],
+    "wof:id":823586793,
+    "wof:lastmodified":1466423270,
+    "wof:name":"Frank's Package Store",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.680871,
+    41.281648,
+    -72.680871,
+    41.281648
+],
+  "geometry": {"coordinates":[-72.680871,41.281648],"type":"Point"}
+}

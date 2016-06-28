@@ -1,0 +1,68 @@
+{
+  "id": 823689631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.737488,41.8314,-72.737488,41.8314",
+    "geom:latitude":41.8314,
+    "geom:longitude":-72.737488,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Tunxis Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 1234",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wb9sRm8FAA2hbJrdhloum_41.831400_-72.737488@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444005,
+    "wof:geomhash":"f2c48978a1d60a1314cfb58ca07fac69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":823689631
+        }
+    ],
+    "wof:id":823689631,
+    "wof:lastmodified":1466424132,
+    "wof:name":"Naro Realty",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.737488,
+    41.8314,
+    -72.737488,
+    41.8314
+],
+  "geometry": {"coordinates":[-72.737488,41.8314],"type":"Point"}
+}

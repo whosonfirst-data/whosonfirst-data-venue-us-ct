@@ -1,0 +1,73 @@
+{
+  "id": 823956235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81645,41.509274,-72.81645,41.509274",
+    "geom:latitude":41.509274,
+    "geom:longitude":-72.81645,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1100 Old Colony Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 686 0472",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qanmDvennFuWZ2Zebpnz1_41.509274_-72.816450@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450909,
+    "wof:geomhash":"5d64ad2200c58f6888358e1c5351f988",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823956235
+        }
+    ],
+    "wof:id":823956235,
+    "wof:lastmodified":1466426471,
+    "wof:name":"Old Colony Group",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.81645,
+    41.509274,
+    -72.81645,
+    41.509274
+],
+  "geometry": {"coordinates":[-72.81645,41.509274],"type":"Point"}
+}

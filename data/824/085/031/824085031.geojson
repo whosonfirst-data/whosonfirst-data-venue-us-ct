@@ -1,0 +1,75 @@
+{
+  "id": 824085031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.702911,41.852951,-72.702911,41.852951",
+    "geom:latitude":41.852951,
+    "geom:longitude":-72.702911,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1280 Blue Hills Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 600 6500",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carrier",
+        "radiotelephone",
+        "communications-common"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jY2arC1w9EUW1CueybX5D_41.852951_-72.702911@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453973,
+    "wof:geomhash":"2d5ab81f0b4a76c720ba9e91d788135a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":824085031
+        }
+    ],
+    "wof:id":824085031,
+    "wof:lastmodified":1466422612,
+    "wof:name":"Pocket Communications",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "radiotelephone",
+        "communications-common"
+    ]
+},
+  "bbox": [
+    -72.702911,
+    41.852951,
+    -72.702911,
+    41.852951
+],
+  "geometry": {"coordinates":[-72.702911,41.852951],"type":"Point"}
+}

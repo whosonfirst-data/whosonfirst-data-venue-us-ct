@@ -1,0 +1,73 @@
+{
+  "id": 823601901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.394088,41.453761,-73.394088,41.453761",
+    "geom:latitude":41.453761,
+    "geom:longitude":-73.394088,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Commerce Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 9555",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28I0WtN60KZHuQhkST0xa9_41.453761_-73.394088@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441955,
+    "wof:geomhash":"3b0c0b57544b3b37f6c0cfc914784bc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823601901
+        }
+    ],
+    "wof:id":823601901,
+    "wof:lastmodified":1466423499,
+    "wof:name":"Universal Voltronics Corp",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.394088,
+    41.453761,
+    -73.394088,
+    41.453761
+],
+  "geometry": {"coordinates":[-73.394088,41.453761],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823933555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.896185,41.340215,-72.896185,41.340215",
+    "geom:latitude":41.340215,
+    "geom:longitude":-72.896185,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2199 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 772 2453",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rWNgbMSUoN07iAnMOHsrO_41.340215_-72.896185@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450350,
+    "wof:geomhash":"64c6f99cc50cdb10b42dd3bf86cd6003",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823933555
+        }
+    ],
+    "wof:id":823933555,
+    "wof:lastmodified":1466426286,
+    "wof:name":"Litchfield Builders Inc",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.896185,
+    41.340215,
+    -72.896185,
+    41.340215
+],
+  "geometry": {"coordinates":[-72.896185,41.340215],"type":"Point"}
+}

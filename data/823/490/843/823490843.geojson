@@ -1,0 +1,66 @@
+{
+  "id": 823490843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.666723,41.272803,-72.666723,41.272803",
+    "geom:latitude":41.272803,
+    "geom:longitude":-72.666723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"514 Whitfield St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 458 9800",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JsHCDM6ERIxooLazzHmM2_41.272803_-72.666723@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439326,
+    "wof:geomhash":"19ae18eaa0ba5c08ed9db72b4ad8a00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823490843
+        }
+    ],
+    "wof:id":823490843,
+    "wof:lastmodified":1466421359,
+    "wof:name":"Little Stone House Cafe",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.666723,
+    41.272803,
+    -72.666723,
+    41.272803
+],
+  "geometry": {"coordinates":[-72.666723,41.272803],"type":"Point"}
+}

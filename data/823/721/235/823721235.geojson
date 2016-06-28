@@ -1,0 +1,71 @@
+{
+  "id": 823721235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.383169,41.373798,-73.383169,41.373798",
+    "geom:latitude":41.373798,
+    "geom:longitude":-73.383169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 E Brook Ct",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aCPJwcNMe6PJZrugn1eZ1_41.373798_-73.383169@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444674,
+    "wof:geomhash":"47dd9652864993989026282397ab406e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823721235
+        }
+    ],
+    "wof:id":823721235,
+    "wof:lastmodified":1466424437,
+    "wof:name":"Kellys Cleaning Service",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.383169,
+    41.373798,
+    -73.383169,
+    41.373798
+],
+  "geometry": {"coordinates":[-73.383169,41.373798],"type":"Point"}
+}

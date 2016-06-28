@@ -1,0 +1,79 @@
+{
+  "id": 823886041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.783723,41.668938,-72.783723,41.668938",
+    "geom:latitude":41.668938,
+    "geom:longitude":-72.783723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Washington St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "care",
+        "primary",
+        "outpatient",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yjZe19fqwu5bxFGhXWbJh_41.668938_-72.783723@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449105,
+    "wof:geomhash":"5694201040e0dc08915550f27c40d13a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823886041
+        }
+    ],
+    "wof:id":823886041,
+    "wof:lastmodified":1466425833,
+    "wof:name":"Community Hlth Ctr New Britain",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care",
+        "primary",
+        "outpatient",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.783723,
+    41.668938,
+    -72.783723,
+    41.668938
+],
+  "geometry": {"coordinates":[-72.78372299999999,41.668938],"type":"Point"}
+}

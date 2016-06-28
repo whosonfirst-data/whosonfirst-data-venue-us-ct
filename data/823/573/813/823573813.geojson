@@ -1,0 +1,73 @@
+{
+  "id": 823573813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.618209,41.282153,-72.618209,41.282153",
+    "geom:latitude":41.282153,
+    "geom:longitude":-72.618209,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 Fort Path Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 3392",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ooFOmwSL7cB7yEFa46p4a_41.282153_-72.618209@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441272,
+    "wof:geomhash":"8b438a699be884c538a5afd8d03de137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823573813
+        }
+    ],
+    "wof:id":823573813,
+    "wof:lastmodified":1466422919,
+    "wof:name":"Aldrich Self Storage",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -72.618209,
+    41.282153,
+    -72.618209,
+    41.282153
+],
+  "geometry": {"coordinates":[-72.61820899999999,41.282153],"type":"Point"}
+}

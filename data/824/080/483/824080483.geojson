@@ -1,0 +1,80 @@
+{
+  "id": 824080483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.419374,41.100793,-73.419374,41.100793",
+    "geom:latitude":41.100793,
+    "geom:longitude":-73.419374,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 N Main St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwalk/25351-crossroads-pizza-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 855 7785",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XjV58LJ13HuXqlKa7NUql_41.100793_-73.419374@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453862,
+    "wof:geomhash":"00c3f0e45b7c8fb28a126fc201892b2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":824080483
+        }
+    ],
+    "wof:id":824080483,
+    "wof:lastmodified":1466422582,
+    "wof:name":"Crossroads Pizza House",
+    "wof:parent_id":85849909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.419374,
+    41.100793,
+    -73.419374,
+    41.100793
+],
+  "geometry": {"coordinates":[-73.419374,41.100793],"type":"Point"}
+}

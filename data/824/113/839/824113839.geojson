@@ -1,0 +1,83 @@
+{
+  "id": 824113839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43214,41.399309,-73.43214,41.399309",
+    "geom:latitude":41.399309,
+    "geom:longitude":-73.43214,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"307 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 1135",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b6V25C8F5UF84Fdj3CVCr_41.399309_-73.432140@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454636,
+    "wof:geomhash":"2dd4196a9216a14287def4bd2c0a6546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824113839
+        }
+    ],
+    "wof:id":824113839,
+    "wof:lastmodified":1466423102,
+    "wof:name":"Southbury Waste Disposal Inc",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "rubbish",
+        "removal"
+    ]
+},
+  "bbox": [
+    -73.43214,
+    41.399309,
+    -73.43214,
+    41.399309
+],
+  "geometry": {"coordinates":[-73.43214,41.399309],"type":"Point"}
+}

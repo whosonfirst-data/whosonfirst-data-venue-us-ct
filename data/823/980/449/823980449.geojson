@@ -1,0 +1,73 @@
+{
+  "id": 823980449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.625716,41.975274,-72.625716,41.975274",
+    "geom:latitude":41.975274,
+    "geom:longitude":-72.625716,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Devine Rd",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931039,
+        102085381,
+        85865187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wJtMwMedv0nSDoXZPB7JA_41.975274_-72.625716@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451496,
+    "wof:geomhash":"7e17b39f24497d0f6dc737b332cd66c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931039,
+            "neighbourhood_id":85865187,
+            "region_id":85688629,
+            "venue_id":823980449
+        }
+    ],
+    "wof:id":823980449,
+    "wof:lastmodified":1466426675,
+    "wof:name":"Edward Ewald Dr",
+    "wof:parent_id":85865187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.625716,
+    41.975274,
+    -72.625716,
+    41.975274
+],
+  "geometry": {"coordinates":[-72.625716,41.975274],"type":"Point"}
+}

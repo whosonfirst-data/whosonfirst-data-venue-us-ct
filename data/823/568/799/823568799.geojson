@@ -1,0 +1,71 @@
+{
+  "id": 823568799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.80968,41.495703,-72.80968,41.495703",
+    "geom:latitude":41.495703,
+    "geom:longitude":-72.80968,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1083 N Colony Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 294 0585",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w5gwrzHXRGs0oFHeq5bep_41.495703_-72.809680@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441160,
+    "wof:geomhash":"666b4903266c447a32a82981088731e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823568799
+        }
+    ],
+    "wof:id":823568799,
+    "wof:lastmodified":1466422844,
+    "wof:name":"Newfield Construction",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -72.80968,
+    41.495703,
+    -72.80968,
+    41.495703
+],
+  "geometry": {"coordinates":[-72.80968,41.495703],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824109639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.265013,41.223227,-73.265013,41.223227",
+    "geom:latitude":41.223227,
+    "geom:longitude":-73.265013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 Delaware Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 372 3185",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor",
+        "grading"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842185,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_130QPfLwf3PM8bt3gXfzYj_41.223227_-73.265013@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454548,
+    "wof:geomhash":"eed2815c9d4a2a104f956dc3fae08bb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85842185,
+            "region_id":85688629,
+            "venue_id":824109639
+        }
+    ],
+    "wof:id":824109639,
+    "wof:lastmodified":1466423251,
+    "wof:name":"Joseph Yurcho",
+    "wof:parent_id":85842185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "grading"
+    ]
+},
+  "bbox": [
+    -73.265013,
+    41.223227,
+    -73.265013,
+    41.223227
+],
+  "geometry": {"coordinates":[-73.265013,41.223227],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823872491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.915486,41.461245,-72.915486,41.461245",
+    "geom:latitude":41.461245,
+    "geom:longitude":-72.915486,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 Harrison Rd",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 250 9609",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807983,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L68q3ydHp5evpifziBLKH_41.461245_-72.915486@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448796,
+    "wof:geomhash":"584a8e85e510d0d928b3df6529a904eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85807983,
+            "region_id":85688629,
+            "venue_id":823872491
+        }
+    ],
+    "wof:id":823872491,
+    "wof:lastmodified":1466425773,
+    "wof:name":"A Barley",
+    "wof:parent_id":85807983,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.915486,
+    41.461245,
+    -72.915486,
+    41.461245
+],
+  "geometry": {"coordinates":[-72.915486,41.461245],"type":"Point"}
+}

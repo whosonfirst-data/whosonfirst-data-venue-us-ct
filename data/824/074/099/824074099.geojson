@@ -1,0 +1,91 @@
+{
+  "id": 824074099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.660114,41.872998,-72.660114,41.872998",
+    "geom:latitude":41.872998,
+    "geom:longitude":-72.660114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"700 Poquonock Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/windsor/130239-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 683 1603",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z3VOujksqDdtqMNeGaJPX_41.872998_-72.660114@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453720,
+    "wof:geomhash":"dd61e143a81dd884e2165ef93fff2fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":824074099
+        }
+    ],
+    "wof:id":824074099,
+    "wof:lastmodified":1466422411,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.660114,
+    41.872998,
+    -72.660114,
+    41.872998
+],
+  "geometry": {"coordinates":[-72.66011399999999,41.872998],"type":"Point"}
+}

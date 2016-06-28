@@ -1,0 +1,82 @@
+{
+  "id": 823464917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.26248,41.339656,-73.26248,41.339656",
+    "geom:latitude":41.339656,
+    "geom:longitude":-73.26248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"731 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 7301",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "music",
+        "lesson",
+        "voice",
+        "sheet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hhiW3hCxFlEio1Aad2Sbu_41.339656_-73.262480@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438713,
+    "wof:geomhash":"966df2c43cc342d18c33b23294e1ebc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823464917
+        }
+    ],
+    "wof:id":823464917,
+    "wof:lastmodified":1466421149,
+    "wof:name":"Creative Music & Arts",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "lesson",
+        "voice",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -73.26248,
+    41.339656,
+    -73.26248,
+    41.339656
+],
+  "geometry": {"coordinates":[-73.26248,41.339656],"type":"Point"}
+}

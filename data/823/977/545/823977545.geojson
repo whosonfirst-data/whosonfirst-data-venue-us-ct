@@ -1,0 +1,83 @@
+{
+  "id": 823977545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.939439,41.349109,-72.939439,41.349109",
+    "geom:latitude":41.349109,
+    "geom:longitude":-72.939439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Gorham Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 1553",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uaADpMxh067RieEMCjhRX_41.349109_-72.939439@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451411,
+    "wof:geomhash":"3d0d915fd799fccceafca3d15e117371",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823977545
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823977545
+        }
+    ],
+    "wof:id":823977545,
+    "wof:lastmodified":1466426601,
+    "wof:name":"Tony Marone's Auto Repair",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.939439,
+    41.349109,
+    -72.939439,
+    41.349109
+],
+  "geometry": {"coordinates":[-72.93943899999999,41.349109],"type":"Point"}
+}

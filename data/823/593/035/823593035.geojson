@@ -1,0 +1,75 @@
+{
+  "id": 823593035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.147149,41.295979,-73.147149,41.295979",
+    "geom:latitude":41.295979,
+    "geom:longitude":-73.147149,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Church St",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 9230",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rplmd1JjJOegCJNfBdlY1_41.295979_-73.147149@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441720,
+    "wof:geomhash":"85053a2db5fc01c4839910cee3ce2b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823593035
+        }
+    ],
+    "wof:id":823593035,
+    "wof:lastmodified":1466423057,
+    "wof:name":"Bob Boroski School Of Art",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art"
+    ]
+},
+  "bbox": [
+    -73.147149,
+    41.295979,
+    -73.147149,
+    41.295979
+],
+  "geometry": {"coordinates":[-73.147149,41.295979],"type":"Point"}
+}

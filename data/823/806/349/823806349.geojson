@@ -1,0 +1,81 @@
+{
+  "id": 823806349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.091943,41.525022,-73.091943,41.525022",
+    "geom:latitude":41.525022,
+    "geom:longitude":-73.091943,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 Shadduck Rd",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 598 7725",
+    "sg:postcode":"06762",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807003,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jIOxb6cgdtjPEP7eOH2IS_41.525022_-73.091943@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446883,
+    "wof:geomhash":"3b4ed618e6bf39d5dc9b82cf869eed3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85807003,
+            "region_id":85688629,
+            "venue_id":823806349
+        }
+    ],
+    "wof:id":823806349,
+    "wof:lastmodified":1466425368,
+    "wof:name":"EWD Remodeling",
+    "wof:parent_id":85807003,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.091943,
+    41.525022,
+    -73.091943,
+    41.525022
+],
+  "geometry": {"coordinates":[-73.091943,41.525022],"type":"Point"}
+}

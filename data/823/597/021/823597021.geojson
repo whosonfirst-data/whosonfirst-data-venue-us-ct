@@ -1,0 +1,73 @@
+{
+  "id": 823597021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.940202,41.271957,-72.940202,41.271957",
+    "geom:latitude":41.271957,
+    "geom:longitude":-72.940202,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 E Brown St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 932 6253",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LvfYBBRslyN3biRLzhgKD_41.271957_-72.940202@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441816,
+    "wof:geomhash":"8eaa80a799ca4fec9e591beaad9eb6cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823597021
+        }
+    ],
+    "wof:id":823597021,
+    "wof:lastmodified":1466423285,
+    "wof:name":"Mordente Electric Inc",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.940202,
+    41.271957,
+    -72.940202,
+    41.271957
+],
+  "geometry": {"coordinates":[-72.940202,41.271957],"type":"Point"}
+}

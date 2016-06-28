@@ -1,0 +1,66 @@
+{
+  "id": 823783181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.898147,41.911224,-71.898147,41.911224",
+    "geom:latitude":41.911224,
+    "geom:longitude":-71.898147,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Memorial Ter",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 6783",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21fD8wTacSZyA2rLB8wUN7_41.911224_-71.898147@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446177,
+    "wof:geomhash":"8d9f0b954243aed113dc7837f032cca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823783181
+        }
+    ],
+    "wof:id":823783181,
+    "wof:lastmodified":1466424983,
+    "wof:name":"Joes Bike Shop",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.898147,
+    41.911224,
+    -71.898147,
+    41.911224
+],
+  "geometry": {"coordinates":[-71.89814699999999,41.911224],"type":"Point"}
+}

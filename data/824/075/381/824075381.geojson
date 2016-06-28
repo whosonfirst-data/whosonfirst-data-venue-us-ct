@@ -1,0 +1,91 @@
+{
+  "id": 824075381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.2671,41.827782,-72.2671,41.827782",
+    "geom:latitude":41.827782,
+    "geom:longitude":-72.2671,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1659 Storrs Rd",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/mansfield/130100-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 429 1302",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832175,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U6DmYdVyl9jhaawYZpDmW_41.827782_-72.267100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453748,
+    "wof:geomhash":"7a5c6b2f6a9cea1be34d836e30f9987f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85832175,
+            "region_id":85688629,
+            "venue_id":824075381
+        }
+    ],
+    "wof:id":824075381,
+    "wof:lastmodified":1466422573,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85832175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.2671,
+    41.827782,
+    -72.2671,
+    41.827782
+],
+  "geometry": {"coordinates":[-72.2671,41.827782],"type":"Point"}
+}

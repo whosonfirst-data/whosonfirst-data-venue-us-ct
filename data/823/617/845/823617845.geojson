@@ -1,0 +1,81 @@
+{
+  "id": 823617845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096627,41.204153,-73.096627,41.204153",
+    "geom:latitude":41.204153,
+    "geom:longitude":-73.096627,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"348 Bridgeport Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85814411,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dNIpD0Ei8LYO2Hue8rBQR_41.204153_-73.096627@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442342,
+    "wof:geomhash":"08b6011b7566a08d20c18afbda2506a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85814411,
+            "region_id":85688629,
+            "venue_id":823617845
+        }
+    ],
+    "wof:id":823617845,
+    "wof:lastmodified":1466423328,
+    "wof:name":"Brangaccios",
+    "wof:parent_id":85814411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.096627,
+    41.204153,
+    -73.096627,
+    41.204153
+],
+  "geometry": {"coordinates":[-73.096627,41.204153],"type":"Point"}
+}

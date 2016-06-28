@@ -1,0 +1,71 @@
+{
+  "id": 823651791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.909195,41.361477,-72.909195,41.361477",
+    "geom:latitude":41.361477,
+    "geom:longitude":-72.909195,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1733 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VJfWd0LCFpRl7GvucGFQD_41.361477_-72.909195@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443116,
+    "wof:geomhash":"53b19b32e88adf13063f6d6a81b0ecfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823651791
+        }
+    ],
+    "wof:id":823651791,
+    "wof:lastmodified":1466423846,
+    "wof:name":"Ronald E Coe MD",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.909195,
+    41.361477,
+    -72.909195,
+    41.361477
+],
+  "geometry": {"coordinates":[-72.909195,41.361477],"type":"Point"}
+}

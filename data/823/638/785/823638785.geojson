@@ -1,0 +1,79 @@
+{
+  "id": 823638785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.654673,41.018576,-73.654673,41.018576",
+    "geom:latitude":41.018576,
+    "geom:longitude":-73.654673,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Pemberwick Rd",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 531 5248",
+    "sg:postcode":"06831",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DOWIc7s7hEQKCTzlJ8hDu_41.018576_-73.654673@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442825,
+    "wof:geomhash":"130c182f94523dd7ed1b42fb25e86e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823638785
+        }
+    ],
+    "wof:id":823638785,
+    "wof:lastmodified":1466423698,
+    "wof:name":"AEE Svc",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.654673,
+    41.018576,
+    -73.654673,
+    41.018576
+],
+  "geometry": {"coordinates":[-73.654673,41.018576],"type":"Point"}
+}

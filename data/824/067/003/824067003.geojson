@@ -1,0 +1,71 @@
+{
+  "id": 824067003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201128,41.332493,-73.201128,41.332493",
+    "geom:latitude":41.332493,
+    "geom:longitude":-73.201128,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Richmond Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 8150",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QKeW2doMQke07VYIKlJef_41.332493_-73.201128@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453544,
+    "wof:geomhash":"0295e1303cd7cc7c8d51df12f42899dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824067003
+        }
+    ],
+    "wof:id":824067003,
+    "wof:lastmodified":1466422360,
+    "wof:name":"Xavier Builders Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -73.201128,
+    41.332493,
+    -73.201128,
+    41.332493
+],
+  "geometry": {"coordinates":[-73.201128,41.332493],"type":"Point"}
+}

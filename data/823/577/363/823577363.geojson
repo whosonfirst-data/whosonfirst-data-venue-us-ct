@@ -1,0 +1,71 @@
+{
+  "id": 823577363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.885469,41.704197,-72.885469,41.704197",
+    "geom:latitude":41.704197,
+    "geom:longitude":-72.885469,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"325 Scott Swamp Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JwNgstgocmyk8559XvTIw_41.704197_-72.885469@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441358,
+    "wof:geomhash":"9328507552df35fc061e89c448fa4a2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823577363
+        }
+    ],
+    "wof:id":823577363,
+    "wof:lastmodified":1466422952,
+    "wof:name":"Farmington Automotive",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.885469,
+    41.704197,
+    -72.885469,
+    41.704197
+],
+  "geometry": {"coordinates":[-72.885469,41.704197],"type":"Point"}
+}

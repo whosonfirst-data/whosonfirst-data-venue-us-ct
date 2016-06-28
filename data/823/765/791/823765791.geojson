@@ -1,0 +1,66 @@
+{
+  "id": 823765791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.909362,41.918342,-71.909362,41.918342",
+    "geom:latitude":41.918342,
+    "geom:longitude":-71.909362,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"345 Kennedy Dr",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gGqZWLpUZBNQPNOuvUbvH_41.918342_-71.909362@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445734,
+    "wof:geomhash":"ed5980661c59da4ddfa4163c54761e1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823765791
+        }
+    ],
+    "wof:id":823765791,
+    "wof:lastmodified":1466424876,
+    "wof:name":"Morrison Carpet Cleaning",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.909362,
+    41.918342,
+    -71.909362,
+    41.918342
+],
+  "geometry": {"coordinates":[-71.909362,41.918342],"type":"Point"}
+}

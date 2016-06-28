@@ -2,13 +2,14 @@
   "id": 286686309,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.661322,41.01286,-73.661322,41.01286",
     "geom:latitude":41.01286,
     "geom:longitude":-73.661322,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Putnam Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":286686309,
-    "wof:lastmodified":1449017412,
+    "wof:lastmodified":1466421112,
     "wof:name":"Artemios Signs",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.661322,41.01286,-73.661322,41.01286],
+  "bbox": [
+    -73.661322,
+    41.01286,
+    -73.661322,
+    41.01286
+],
   "geometry": {"coordinates":[-73.661322,41.01286],"type":"Point"}
 }

@@ -1,0 +1,82 @@
+{
+  "id": 823770807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.739705,41.663086,-72.739705,41.663086",
+    "geom:latitude":41.663086,
+    "geom:longitude":-72.739705,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"317 Church St",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 1166",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GyvSZfkhTPOLV5sHhV5Cl_41.663086_-72.739705@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445840,
+    "wof:geomhash":"c3272c44c6660cf93ef8d18c0bf94294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823770807
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823770807
+        }
+    ],
+    "wof:id":823770807,
+    "wof:lastmodified":1466424862,
+    "wof:name":"Fierro Landscape",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.739705,
+    41.663086,
+    -72.739705,
+    41.663086
+],
+  "geometry": {"coordinates":[-72.739705,41.663086],"type":"Point"}
+}

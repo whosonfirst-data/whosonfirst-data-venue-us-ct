@@ -1,0 +1,73 @@
+{
+  "id": 823607241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.302257,41.406314,-73.302257,41.406314",
+    "geom:latitude":41.406314,
+    "geom:longitude":-73.302257,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 1755",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OX32DAYcRJCdRaYQ5L5jz_41.406314_-73.302257@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442071,
+    "wof:geomhash":"8db90bcfc4d38aa3fd1b25fa2c4c7f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823607241
+        }
+    ],
+    "wof:id":823607241,
+    "wof:lastmodified":1466423487,
+    "wof:name":"Force-1 Security Agency Inc",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -73.302257,
+    41.406314,
+    -73.302257,
+    41.406314
+],
+  "geometry": {"coordinates":[-73.302257,41.406314],"type":"Point"}
+}

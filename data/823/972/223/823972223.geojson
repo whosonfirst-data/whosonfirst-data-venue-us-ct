@@ -1,0 +1,75 @@
+{
+  "id": 823972223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.09961,41.512849,-72.09961,41.512849",
+    "geom:latitude":41.512849,
+    "geom:longitude":-72.09961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Gregory Rd",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 889 2792",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66cmpeDhCWWXW6eEOwB0Vf_41.512849_-72.099610@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451300,
+    "wof:geomhash":"fccf518c3dd8efc02913823d9aacdcbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823972223
+        }
+    ],
+    "wof:id":823972223,
+    "wof:lastmodified":1466426651,
+    "wof:name":"Jane Arms Apartments",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "rental"
+    ]
+},
+  "bbox": [
+    -72.09961,
+    41.512849,
+    -72.09961,
+    41.512849
+],
+  "geometry": {"coordinates":[-72.09961,41.512849],"type":"Point"}
+}

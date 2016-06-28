@@ -1,0 +1,77 @@
+{
+  "id": 824040889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.638836,41.575149,-72.638836,41.575149",
+    "geom:latitude":41.575149,
+    "geom:longitude":-72.638836,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"265 Main St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 342 6780",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23CLFBKTyB2sbh4ww5Z8yY_41.575149_-72.638836@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452947,
+    "wof:geomhash":"f23e86a9939950e43c9efd346d64dd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824040889
+        }
+    ],
+    "wof:id":824040889,
+    "wof:lastmodified":1466421925,
+    "wof:name":"Portland Police Dept",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.638836,
+    41.575149,
+    -72.638836,
+    41.575149
+],
+  "geometry": {"coordinates":[-72.638836,41.575149],"type":"Point"}
+}

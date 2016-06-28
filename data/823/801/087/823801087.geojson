@@ -1,0 +1,81 @@
+{
+  "id": 823801087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.229393,41.148647,-73.229393,41.148647",
+    "geom:latitude":41.148647,
+    "geom:longitude":-73.229393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Balmforth St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 8576",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v1zhMjyzL881XM2OyId6L_41.148647_-73.229393@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446736,
+    "wof:geomhash":"e96bf00752db77dae5983b1d00c05917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823801087
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823801087
+        }
+    ],
+    "wof:id":823801087,
+    "wof:lastmodified":1466425111,
+    "wof:name":"Greater Bridgeport Phrm Assoc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.229393,
+    41.148647,
+    -73.229393,
+    41.148647
+],
+  "geometry": {"coordinates":[-73.229393,41.148647],"type":"Point"}
+}

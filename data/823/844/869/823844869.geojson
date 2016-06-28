@@ -1,0 +1,79 @@
+{
+  "id": 823844869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.67808,41.754082,-72.67808,41.754082",
+    "geom:latitude":41.754082,
+    "geom:longitude":-72.67808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Retreat Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialist",
+        "oncology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878035,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VaYcTPiSVVyJaPjxyoVeg_41.754082_-72.678080@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448074,
+    "wof:geomhash":"e31e41f08c2559caa121f501f864886d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878035,
+            "region_id":85688629,
+            "venue_id":823844869
+        }
+    ],
+    "wof:id":823844869,
+    "wof:lastmodified":1466425568,
+    "wof:name":"Gray Cancer Center",
+    "wof:parent_id":85878035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialist",
+        "oncology"
+    ]
+},
+  "bbox": [
+    -72.67808,
+    41.754082,
+    -72.67808,
+    41.754082
+],
+  "geometry": {"coordinates":[-72.67807999999999,41.754082],"type":"Point"}
+}

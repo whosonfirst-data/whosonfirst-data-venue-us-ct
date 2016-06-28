@@ -1,0 +1,80 @@
+{
+  "id": 823522657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.943967,41.345948,-72.943967,41.345948",
+    "geom:latitude":41.345948,
+    "geom:longitude":-72.943967,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 Longmeadow Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 679 0066",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879159,
+        102191575,
+        404495787,
+        85930897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ymzA7STyg16gwiOoMrA7_41.345948_-72.943967@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440082,
+    "wof:geomhash":"8b44f487870adf82748125eb6a6fd121",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823522657
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879159,
+            "region_id":85688629,
+            "venue_id":823522657
+        }
+    ],
+    "wof:id":823522657,
+    "wof:lastmodified":1466422194,
+    "wof:name":"Mikes Towing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.943967,
+    41.345948,
+    -72.943967,
+    41.345948
+],
+  "geometry": {"coordinates":[-72.943967,41.345948],"type":"Point"}
+}

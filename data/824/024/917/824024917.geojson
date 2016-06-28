@@ -1,0 +1,71 @@
+{
+  "id": 824024917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.929013,41.72486,-72.929013,41.72486",
+    "geom:latitude":41.72486,
+    "geom:longitude":-72.929013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 S Main St",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03say6dXWUxI084B918klc_41.724860_-72.929013@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452538,
+    "wof:geomhash":"2724f251d1fa88104b9b908d776da18b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824024917
+        }
+    ],
+    "wof:id":824024917,
+    "wof:lastmodified":1466421375,
+    "wof:name":"Dr Cutlers Office",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.929013,
+    41.72486,
+    -72.929013,
+    41.72486
+],
+  "geometry": {"coordinates":[-72.929013,41.72486],"type":"Point"}
+}

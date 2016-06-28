@@ -1,0 +1,76 @@
+{
+  "id": 824075573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.055386,41.349242,-72.055386,41.349242",
+    "geom:latitude":41.349242,
+    "geom:longitude":-72.055386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"687 Long Hill Rd",
+    "sg:city":"Groton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/groton/169430-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 405 0831",
+    "sg:postcode":"06340",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85831297,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fmo7yGYdcMjn6AlJaJTLE_41.349242_-72.055386@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453752,
+    "wof:geomhash":"71043e30de191af1d1d5dfb306955ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85831297,
+            "region_id":85688629,
+            "venue_id":824075573
+        }
+    ],
+    "wof:id":824075573,
+    "wof:lastmodified":1466422666,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85831297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.055386,
+    41.349242,
+    -72.055386,
+    41.349242
+],
+  "geometry": {"coordinates":[-72.055386,41.349242],"type":"Point"}
+}

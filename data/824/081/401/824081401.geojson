@@ -1,0 +1,78 @@
+{
+  "id": 824081401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.54531,41.066632,-73.54531,41.066632",
+    "geom:latitude":41.066632,
+    "geom:longitude":-73.54531,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2139 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/108509-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 4607",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j6dyapuzFglwmPzCrFNsa_41.066632_-73.545310@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453883,
+    "wof:geomhash":"5d22938c9afcb292cf2807661eb33b51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":824081401
+        }
+    ],
+    "wof:id":824081401,
+    "wof:lastmodified":1466422585,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.54531,
+    41.066632,
+    -73.54531,
+    41.066632
+],
+  "geometry": {"coordinates":[-73.54531,41.066632],"type":"Point"}
+}

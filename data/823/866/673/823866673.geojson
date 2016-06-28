@@ -1,0 +1,73 @@
+{
+  "id": 823866673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.298565,41.343855,-73.298565,41.343855",
+    "geom:latitude":41.343855,
+    "geom:longitude":-73.298565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Castle Meadow Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 364 1739",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824235,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lQL9tvgnTwnaKLJefdMcj_41.343855_-73.298565@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448666,
+    "wof:geomhash":"f3eb2ad061079ea77890165aad9f9dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85824235,
+            "region_id":85688629,
+            "venue_id":823866673
+        }
+    ],
+    "wof:id":823866673,
+    "wof:lastmodified":1466425743,
+    "wof:name":"Gamblinggetaway",
+    "wof:parent_id":85824235,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -73.298565,
+    41.343855,
+    -73.298565,
+    41.343855
+],
+  "geometry": {"coordinates":[-73.298565,41.343855],"type":"Point"}
+}

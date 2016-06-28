@@ -1,0 +1,83 @@
+{
+  "id": 823809975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.150302,41.179127,-73.150302,41.179127",
+    "geom:latitude":41.179127,
+    "geom:longitude":-73.150302,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"534 Surf Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 8704",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rDNcsbHNlE0j21iOUICmS_41.179127_-73.150302@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446998,
+    "wof:geomhash":"edcaf5ba6462ca11f7a1769154b7e7f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823809975
+        }
+    ],
+    "wof:id":823809975,
+    "wof:lastmodified":1466425092,
+    "wof:name":"United Sewer & Drain Cleaning",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "drain",
+        "cleaning",
+        "sewer"
+    ]
+},
+  "bbox": [
+    -73.150302,
+    41.179127,
+    -73.150302,
+    41.179127
+],
+  "geometry": {"coordinates":[-73.150302,41.179127],"type":"Point"}
+}

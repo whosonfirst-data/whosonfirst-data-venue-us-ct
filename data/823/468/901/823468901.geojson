@@ -1,0 +1,73 @@
+{
+  "id": 823468901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.904026,41.492483,-72.904026,41.492483",
+    "geom:latitude":41.492483,
+    "geom:longitude":-72.904026,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"396 S Main St",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 271 0705",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931411,
+        102086923,
+        85844387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mvOLXqhczHjYrt0ovWGHP_41.492483_-72.904026@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438813,
+    "wof:geomhash":"2192f74b599e5c372381c32cdf0aa0d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "locality_id":85931411,
+            "neighbourhood_id":85844387,
+            "region_id":85688629,
+            "venue_id":823468901
+        }
+    ],
+    "wof:id":823468901,
+    "wof:lastmodified":1466421254,
+    "wof:name":"Matthew Fisel",
+    "wof:parent_id":85844387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -72.904026,
+    41.492483,
+    -72.904026,
+    41.492483
+],
+  "geometry": {"coordinates":[-72.904026,41.492483],"type":"Point"}
+}

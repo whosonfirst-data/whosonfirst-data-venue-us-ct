@@ -1,0 +1,80 @@
+{
+  "id": 824095243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.70225,41.767921,-72.70225,41.767921",
+    "geom:latitude":41.767921,
+    "geom:longitude":-72.70225,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Woodland St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 527 3435",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.whcapc.salu.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878017,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iiDQ17LAI6rieUIkEGvQX_41.767921_-72.702250@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454227,
+    "wof:geomhash":"ff2bdec01f767534623ae420dc3ce4e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878017,
+            "region_id":85688629,
+            "venue_id":824095243
+        }
+    ],
+    "wof:id":824095243,
+    "wof:lastmodified":1466422902,
+    "wof:name":"Women's Health Care Associates PC",
+    "wof:parent_id":85878017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.70225,
+    41.767921,
+    -72.70225,
+    41.767921
+],
+  "geometry": {"coordinates":[-72.70225000000001,41.767921],"type":"Point"}
+}

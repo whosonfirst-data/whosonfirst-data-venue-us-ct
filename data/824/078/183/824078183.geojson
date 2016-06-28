@@ -1,0 +1,82 @@
+{
+  "id": 824078183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.881165,41.286571,-72.881165,41.286571",
+    "geom:latitude":41.286571,
+    "geom:longitude":-72.881165,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"96 Frontage Rd",
+    "sg:city":"East Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-haven/136234-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 467 4472",
+    "sg:postcode":"06512",
+    "sg:province":"CT",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882013,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LMjbsZRAcbbDsgtOdCrbv_41.286571_-72.881165@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453815,
+    "wof:geomhash":"9e735445f07fe1cc4bae82eac71225da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85882013,
+            "region_id":85688629,
+            "venue_id":824078183
+        }
+    ],
+    "wof:id":824078183,
+    "wof:lastmodified":1466422554,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85882013,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.881165,
+    41.286571,
+    -72.881165,
+    41.286571
+],
+  "geometry": {"coordinates":[-72.881165,41.286571],"type":"Point"}
+}

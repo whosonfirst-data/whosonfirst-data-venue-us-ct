@@ -1,0 +1,73 @@
+{
+  "id": 823844053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.806897,41.51159,-72.806897,41.51159",
+    "geom:latitude":41.51159,
+    "geom:longitude":-72.806897,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"319 S Broad St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 379 5004",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5C7G4RCX5EeGwNCRh96sdL_41.511590_-72.806897@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448052,
+    "wof:geomhash":"18d5c1326889f7db7af1a33a948b38c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823844053
+        }
+    ],
+    "wof:id":823844053,
+    "wof:lastmodified":1466425502,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.806897,
+    41.51159,
+    -72.806897,
+    41.51159
+],
+  "geometry": {"coordinates":[-72.80689700000001,41.51159],"type":"Point"}
+}

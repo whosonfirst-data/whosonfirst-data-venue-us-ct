@@ -1,0 +1,71 @@
+{
+  "id": 823943461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.687033,41.257804,-72.687033,41.257804",
+    "geom:latitude":41.257804,
+    "geom:longitude":-72.687033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 N Reeves Ave",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 3833",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49ztPhSYE697aSXs9cOBbd_41.257804_-72.687033@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450602,
+    "wof:geomhash":"a2df5d744543e81ff750228ee73d431c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823943461
+        }
+    ],
+    "wof:id":823943461,
+    "wof:lastmodified":1466426411,
+    "wof:name":"Performance Painting",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.687033,
+    41.257804,
+    -72.687033,
+    41.257804
+],
+  "geometry": {"coordinates":[-72.687033,41.257804],"type":"Point"}
+}

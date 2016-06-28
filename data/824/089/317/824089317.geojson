@@ -1,0 +1,73 @@
+{
+  "id": 824089317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598768,41.711525,-72.598768,41.711525",
+    "geom:latitude":41.711525,
+    "geom:longitude":-72.598768,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Sycamore St",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 659 0581",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RehTOufyzjy60ucn4okOK_41.711525_-72.598768@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454074,
+    "wof:geomhash":"81dd6e8e901db25b227451750f8e36e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":824089317
+        }
+    ],
+    "wof:id":824089317,
+    "wof:lastmodified":1466422839,
+    "wof:name":"Trow Lorraine, MD",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.598768,
+    41.711525,
+    -72.598768,
+    41.711525
+],
+  "geometry": {"coordinates":[-72.59876800000001,41.711525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823587393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.192221,41.528216,-73.192221,41.528216",
+    "geom:latitude":41.528216,
+    "geom:longitude":-73.192221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Sage Rd",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 263 2917",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hHCtiRQeS5sqnNcPW08vV_41.528216_-73.192221@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441587,
+    "wof:geomhash":"6443de2e2fab83a1fe75e2fef1082b4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823587393
+        }
+    ],
+    "wof:id":823587393,
+    "wof:lastmodified":1466423171,
+    "wof:name":"Renaissance Builders LLC",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.192221,
+    41.528216,
+    -73.192221,
+    41.528216
+],
+  "geometry": {"coordinates":[-73.192221,41.528216],"type":"Point"}
+}

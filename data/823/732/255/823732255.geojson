@@ -1,0 +1,84 @@
+{
+  "id": 823732255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.449393,41.391994,-73.449393,41.391994",
+    "geom:latitude":41.391994,
+    "geom:longitude":-73.449393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"139 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 5598",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "personal",
+        "tailor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tBtzrR18ldqS2hgCBQksj_41.391994_-73.449393@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444969,
+    "wof:geomhash":"7b793951e30254f80444eecede94ae22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823732255
+        }
+    ],
+    "wof:id":823732255,
+    "wof:lastmodified":1466424536,
+    "wof:name":"Rebello's Custom Tailor",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "tailor"
+    ]
+},
+  "bbox": [
+    -73.449393,
+    41.391994,
+    -73.449393,
+    41.391994
+],
+  "geometry": {"coordinates":[-73.449393,41.391994],"type":"Point"}
+}

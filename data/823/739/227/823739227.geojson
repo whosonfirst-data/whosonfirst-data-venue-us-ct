@@ -1,0 +1,79 @@
+{
+  "id": 823739227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.848382,41.402556,-72.848382,41.402556",
+    "geom:latitude":41.402556,
+    "geom:longitude":-72.848382,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"299 Washington Ave",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 239 9843",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DGksTQSssGOyLjZcT320n_41.402556_-72.848382@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445138,
+    "wof:geomhash":"f678eccd52123e89f980471f0e156fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823739227
+        }
+    ],
+    "wof:id":823739227,
+    "wof:lastmodified":1466424571,
+    "wof:name":"Parese Motors",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.848382,
+    41.402556,
+    -72.848382,
+    41.402556
+],
+  "geometry": {"coordinates":[-72.848382,41.402556],"type":"Point"}
+}

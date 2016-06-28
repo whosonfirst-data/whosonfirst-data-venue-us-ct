@@ -2,13 +2,14 @@
   "id": 303561529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.509358,41.137939,-73.509358,41.137939",
     "geom:latitude":41.137939,
     "geom:longitude":-73.509358,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"193 Parish Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":303561529,
-    "wof:lastmodified":1448999851,
+    "wof:lastmodified":1466421118,
     "wof:name":"Charles A Siegel Attorney",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-73.509358,41.137939,-73.509358,41.137939],
-  "geometry": {"coordinates":[-73.509358,41.137939],"type":"Point"}
+  "bbox": [
+    -73.509358,
+    41.137939,
+    -73.509358,
+    41.137939
+],
+  "geometry": {"coordinates":[-73.50935800000001,41.137939],"type":"Point"}
 }

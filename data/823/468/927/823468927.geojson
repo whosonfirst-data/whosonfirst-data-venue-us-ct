@@ -1,0 +1,83 @@
+{
+  "id": 823468927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0072,41.569662,-73.0072,41.569662",
+    "geom:latitude":41.569662,
+    "geom:longitude":-73.0072,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"858 Lakewood Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 4982",
+    "sg:postcode":"06704",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831301,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1E6RQbqy5GlfpuMD74x1Pr_41.569662_-73.007200@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438813,
+    "wof:geomhash":"025b7ca659aa09065c201ddaaf88941c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85831301,
+            "region_id":85688629,
+            "venue_id":823468927
+        }
+    ],
+    "wof:id":823468927,
+    "wof:lastmodified":1466421256,
+    "wof:name":"X T C World Video",
+    "wof:parent_id":85831301,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.0072,
+    41.569662,
+    -73.0072,
+    41.569662
+],
+  "geometry": {"coordinates":[-73.0072,41.569662],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823599049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.418611,41.163877,-73.418611,41.163877",
+    "geom:latitude":41.163877,
+    "geom:longitude":-73.418611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 563 9439",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KygAOJQpzOA53okMB3zaR_41.163877_-73.418611@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441859,
+    "wof:geomhash":"a1de7e0d1e807f8047401fbccf97c726",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823599049
+        }
+    ],
+    "wof:id":823599049,
+    "wof:lastmodified":1466423287,
+    "wof:name":"Wilton Diner",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.418611,
+    41.163877,
+    -73.418611,
+    41.163877
+],
+  "geometry": {"coordinates":[-73.418611,41.163877],"type":"Point"}
+}

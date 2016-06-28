@@ -1,0 +1,75 @@
+{
+  "id": 823680041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089896,41.832583,-73.089896,41.832583",
+    "geom:latitude":41.832583,
+    "geom:longitude":-73.089896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Tara Dr",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 482 4707",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PUbyUTeYPLQQjrGSkWdPM_41.832583_-73.089896@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443789,
+    "wof:geomhash":"952baf7dda0d75b256471637b3965c15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823680041
+        }
+    ],
+    "wof:id":823680041,
+    "wof:lastmodified":1466424218,
+    "wof:name":"Northside Terraces",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.089896,
+    41.832583,
+    -73.089896,
+    41.832583
+],
+  "geometry": {"coordinates":[-73.089896,41.832583],"type":"Point"}
+}

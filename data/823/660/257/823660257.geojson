@@ -1,0 +1,71 @@
+{
+  "id": 823660257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.810606,41.282479,-72.810606,41.282479",
+    "geom:latitude":41.282479,
+    "geom:longitude":-72.810606,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1020 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 5975",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yXl14GyIWiHQWWOKMfxHw_41.282479_-72.810606@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443342,
+    "wof:geomhash":"bb7c916eb0d8a79636963872f191aaec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823660257
+        }
+    ],
+    "wof:id":823660257,
+    "wof:lastmodified":1466424030,
+    "wof:name":"Branford Book & Card Shoppe",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -72.810606,
+    41.282479,
+    -72.810606,
+    41.282479
+],
+  "geometry": {"coordinates":[-72.81060600000001,41.282479],"type":"Point"}
+}

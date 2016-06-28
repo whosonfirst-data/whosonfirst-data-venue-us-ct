@@ -1,0 +1,71 @@
+{
+  "id": 823699457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.897033,41.394567,-72.897033,41.394567",
+    "geom:latitude":41.394567,
+    "geom:longitude":-72.897033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Glenham Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 287 8948",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uttUR6Z6tBzVNdF4j7g9Q_41.394567_-72.897033@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444226,
+    "wof:geomhash":"b3a16261e3eecbfa58fa67673737884e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823699457
+        }
+    ],
+    "wof:id":823699457,
+    "wof:lastmodified":1466424247,
+    "wof:name":"Audette Limousine Service",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -72.897033,
+    41.394567,
+    -72.897033,
+    41.394567
+],
+  "geometry": {"coordinates":[-72.89703299999999,41.394567],"type":"Point"}
+}

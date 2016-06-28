@@ -1,0 +1,84 @@
+{
+  "id": 824119701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.536118,41.05402,-73.536118,41.05402",
+    "geom:latitude":41.05402,
+    "geom:longitude":-73.536118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Main St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 353 9576",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tree",
+        "mothproofing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HeGTlPjLUKEWOb555jwKi_41.054020_-73.536118@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454759,
+    "wof:geomhash":"e857d879c409342062c365aefb044f8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824119701
+        }
+    ],
+    "wof:id":824119701,
+    "wof:lastmodified":1466423299,
+    "wof:name":"Country Green Incorporated",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree",
+        "mothproofing"
+    ]
+},
+  "bbox": [
+    -73.536118,
+    41.05402,
+    -73.536118,
+    41.05402
+],
+  "geometry": {"coordinates":[-73.536118,41.05402],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823864525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245294,41.340135,-73.245294,41.340135",
+    "geom:latitude":41.340135,
+    "geom:longitude":-73.245294,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"178 Jockey Hollow Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 0948",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rLUtERc2P4YTprmG3TPRl_41.340135_-73.245294@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448616,
+    "wof:geomhash":"dcf3a8ed92c4c99f072c4dd468381f9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823864525
+        }
+    ],
+    "wof:id":823864525,
+    "wof:lastmodified":1466425655,
+    "wof:name":"Colonial Painting",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.245294,
+    41.340135,
+    -73.245294,
+    41.340135
+],
+  "geometry": {"coordinates":[-73.245294,41.340135],"type":"Point"}
+}

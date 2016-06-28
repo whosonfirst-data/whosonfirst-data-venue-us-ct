@@ -1,0 +1,88 @@
+{
+  "id": 823740265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.051268,41.210649,-73.051268,41.210649",
+    "geom:latitude":41.210649,
+    "geom:longitude":-73.051268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Trumbull Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 877 1261",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "club",
+        "membership",
+        "yacht",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A7XiMQso9qKuG5XrFdZQg_41.210649_-73.051268@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445163,
+    "wof:geomhash":"03110c36dbd1242197c06b3ead7d5d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823740265
+        }
+    ],
+    "wof:id":823740265,
+    "wof:lastmodified":1466424562,
+    "wof:name":"Milford Yacht Club Pool",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership",
+        "yacht",
+        "private"
+    ]
+},
+  "bbox": [
+    -73.051268,
+    41.210649,
+    -73.051268,
+    41.210649
+],
+  "geometry": {"coordinates":[-73.05126799999999,41.210649],"type":"Point"}
+}

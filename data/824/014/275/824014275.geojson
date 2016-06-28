@@ -1,0 +1,86 @@
+{
+  "id": 824014275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.076452,41.215592,-73.076452,41.215592",
+    "geom:latitude":41.215592,
+    "geom:longitude":-73.076452,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 Boston Post Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 5433",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "material",
+        "wrecking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50gbo9QgV1NLNdxu2vfUQO_41.215592_-73.076452@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452302,
+    "wof:geomhash":"586262892123fdf169cb36f6fe79034c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":824014275
+        }
+    ],
+    "wof:id":824014275,
+    "wof:lastmodified":1466421327,
+    "wof:name":"Roger's Auto Salvage",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "material",
+        "wrecking"
+    ]
+},
+  "bbox": [
+    -73.076452,
+    41.215592,
+    -73.076452,
+    41.215592
+],
+  "geometry": {"coordinates":[-73.076452,41.215592],"type":"Point"}
+}

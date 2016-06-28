@@ -1,0 +1,72 @@
+{
+  "id": 823985927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.094585,41.356656,-72.094585,41.356656",
+    "geom:latitude":41.356656,
+    "geom:longitude":-72.094585,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Water St",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 447 3841",
+    "sg:postcode":"06320",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5znKzGwMvhDOTC6zCHsUup_41.356656_-72.094585@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451626,
+    "wof:geomhash":"cc57de7da60914c7e306fa3815f152b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":823985927
+        }
+    ],
+    "wof:id":823985927,
+    "wof:lastmodified":1466426766,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.094585,
+    41.356656,
+    -72.094585,
+    41.356656
+],
+  "geometry": {"coordinates":[-72.094585,41.356656],"type":"Point"}
+}

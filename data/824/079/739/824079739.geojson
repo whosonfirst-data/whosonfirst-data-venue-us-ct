@@ -1,0 +1,80 @@
+{
+  "id": 824079739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.419977,41.405416,-73.419977,41.405416",
+    "geom:latitude":41.405416,
+    "geom:longitude":-73.419977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Newtown Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/danbury/144223-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 778 8282",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nR4bv4eoPchit5pWIwcQ3_41.405416_-73.419977@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453848,
+    "wof:geomhash":"78a4ca84a8341da66a9ae5b6f99dd826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":824079739
+        }
+    ],
+    "wof:id":824079739,
+    "wof:lastmodified":1466422591,
+    "wof:name":"Subway",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.419977,
+    41.405416,
+    -73.419977,
+    41.405416
+],
+  "geometry": {"coordinates":[-73.419977,41.405416],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823512925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.101424,41.82404,-73.101424,41.82404",
+    "geom:latitude":41.82404,
+    "geom:longitude":-73.101424,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"333 Kennedy Dr",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UfrZjOiQ04ywOZGi0SyhQ_41.824040_-73.101424@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439863,
+    "wof:geomhash":"c2ed093d230e915ac0b71a2f8bd4447d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823512925
+        }
+    ],
+    "wof:id":823512925,
+    "wof:lastmodified":1466422019,
+    "wof:name":"Northwest Conn Occptonal Medic",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.101424,
+    41.82404,
+    -73.101424,
+    41.82404
+],
+  "geometry": {"coordinates":[-73.10142399999999,41.82404],"type":"Point"}
+}

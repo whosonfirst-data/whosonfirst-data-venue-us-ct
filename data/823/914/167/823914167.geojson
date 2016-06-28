@@ -1,0 +1,71 @@
+{
+  "id": 823914167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079244,41.397622,-73.079244,41.397622",
+    "geom:latitude":41.397622,
+    "geom:longitude":-73.079244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Bank St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 9921",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fGwY9p7rqrkqQfaSDdgjA_41.397622_-73.079244@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449858,
+    "wof:geomhash":"e5c43a5896ea1fead542baa7050588f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823914167
+        }
+    ],
+    "wof:id":823914167,
+    "wof:lastmodified":1466426111,
+    "wof:name":"Ed's Cleaners",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.079244,
+    41.397622,
+    -73.079244,
+    41.397622
+],
+  "geometry": {"coordinates":[-73.079244,41.397622],"type":"Point"}
+}

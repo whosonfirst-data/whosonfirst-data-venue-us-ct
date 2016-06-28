@@ -1,0 +1,73 @@
+{
+  "id": 823674211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376105,41.29098,-72.376105,41.29098",
+    "geom:latitude":41.29098,
+    "geom:longitude":-72.376105,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Sheffield St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 5915",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "housing",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wFQ2CayI8caopJxlcs27r_41.290980_-72.376105@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443668,
+    "wof:geomhash":"71863e007edd92c7d9968374a31d207e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823674211
+        }
+    ],
+    "wof:id":823674211,
+    "wof:lastmodified":1466424165,
+    "wof:name":"Saybrook Village East",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "management"
+    ]
+},
+  "bbox": [
+    -72.376105,
+    41.29098,
+    -72.376105,
+    41.29098
+],
+  "geometry": {"coordinates":[-72.376105,41.29098],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823739001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.630084,41.02473,-73.630084,41.02473",
+    "geom:latitude":41.02473,
+    "geom:longitude":-73.630084,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Field Point Rd",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 618 1300",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "communications",
+        "datum"
+    ],
+    "sg:website":"www.usdc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dOdQHaPFQmjl55c0Iq92b_41.024730_-73.630084@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445132,
+    "wof:geomhash":"309b8eeafea5816b30af00b8ccac05b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823739001
+        }
+    ],
+    "wof:id":823739001,
+    "wof:lastmodified":1466424646,
+    "wof:name":"U S Data Capture",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "datum"
+    ]
+},
+  "bbox": [
+    -73.630084,
+    41.02473,
+    -73.630084,
+    41.02473
+],
+  "geometry": {"coordinates":[-73.630084,41.02473],"type":"Point"}
+}

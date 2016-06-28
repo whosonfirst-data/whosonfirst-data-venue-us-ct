@@ -1,0 +1,83 @@
+{
+  "id": 823580813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.925104,41.702538,-72.925104,41.702538",
+    "geom:latitude":41.702538,
+    "geom:longitude":-72.925104,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"435 Mix St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 584 2467",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GjcAULq4rN9LGtNBFHLQk_41.702538_-72.925104@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441440,
+    "wof:geomhash":"22a39726fe0f91a25ca639cfeed60d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823580813
+        }
+    ],
+    "wof:id":823580813,
+    "wof:lastmodified":1466422903,
+    "wof:name":"Troy Lavigne",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.925104,
+    41.702538,
+    -72.925104,
+    41.702538
+],
+  "geometry": {"coordinates":[-72.925104,41.702538],"type":"Point"}
+}

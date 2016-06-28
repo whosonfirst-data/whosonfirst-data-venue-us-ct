@@ -1,0 +1,89 @@
+{
+  "id": 823690393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.395545,41.424376,-73.395545,41.424376",
+    "geom:latitude":41.424376,
+    "geom:longitude":-73.395545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Vail Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 9926",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grounds",
+        "caterer",
+        "picnic",
+        "catering"
+    ],
+    "sg:website":"www.capgrove.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OX9C9Vvg24bisEFRxl6Ed_41.424376_-73.395545@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444025,
+    "wof:geomhash":"402a9186e4843bd4622d04e691a5cdc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":823690393
+        }
+    ],
+    "wof:id":823690393,
+    "wof:lastmodified":1466424113,
+    "wof:name":"Capellaro's Grove",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grounds",
+        "caterer",
+        "picnic",
+        "catering"
+    ]
+},
+  "bbox": [
+    -73.395545,
+    41.424376,
+    -73.395545,
+    41.424376
+],
+  "geometry": {"coordinates":[-73.395545,41.424376],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823976935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.555394,41.05286,-73.555394,41.05286",
+    "geom:latitude":41.05286,
+    "geom:longitude":-73.555394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"215 Stillwater Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 973 0590",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DEihim8kc1SfbMKa7GKZo_41.052860_-73.555394@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451398,
+    "wof:geomhash":"cd5bf8eaaabead09f3eab49a4a29d50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823976935
+        }
+    ],
+    "wof:id":823976935,
+    "wof:lastmodified":1466426571,
+    "wof:name":"West Side Pizza",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.555394,
+    41.05286,
+    -73.555394,
+    41.05286
+],
+  "geometry": {"coordinates":[-73.55539400000001,41.05286],"type":"Point"}
+}

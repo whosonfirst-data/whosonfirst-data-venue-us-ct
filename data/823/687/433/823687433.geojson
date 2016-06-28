@@ -1,0 +1,73 @@
+{
+  "id": 823687433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.923733,41.743667,-72.923733,41.743667",
+    "geom:latitude":41.743667,
+    "geom:longitude":-72.923733,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 Jerome Ave",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 2147",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pD7kBfk5jcq4fr3Bf3Op8_41.743667_-72.923733@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443960,
+    "wof:geomhash":"4368f220fda9c6cfcc9913c683c6ed0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823687433
+        }
+    ],
+    "wof:id":823687433,
+    "wof:lastmodified":1466424102,
+    "wof:name":"Rhl Electric LLC",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.923733,
+    41.743667,
+    -72.923733,
+    41.743667
+],
+  "geometry": {"coordinates":[-72.923733,41.743667],"type":"Point"}
+}

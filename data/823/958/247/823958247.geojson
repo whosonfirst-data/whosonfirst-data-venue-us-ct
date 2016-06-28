@@ -1,0 +1,77 @@
+{
+  "id": 823958247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.449559,41.392102,-73.449559,41.392102",
+    "geom:latitude":41.392102,
+    "geom:longitude":-73.449559,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 797 4577",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cYzXYPeyAzDRkfgqdq99l_41.392102_-73.449559@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450981,
+    "wof:geomhash":"db229978cd14a976357a263ed96c0974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823958247
+        }
+    ],
+    "wof:id":823958247,
+    "wof:lastmodified":1466426483,
+    "wof:name":"Danbury Crime Prevention",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.449559,
+    41.392102,
+    -73.449559,
+    41.392102
+],
+  "geometry": {"coordinates":[-73.44955899999999,41.392102],"type":"Point"}
+}

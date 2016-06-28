@@ -1,0 +1,73 @@
+{
+  "id": 823972479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.727919,41.348943,-72.727919,41.348943",
+    "geom:latitude":41.348943,
+    "geom:longitude":-72.727919,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Maplecrest Dr",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 0642",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gqjyjy49ctB9ouzRMH7wY_41.348943_-72.727919@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451304,
+    "wof:geomhash":"8f20b7969d63260f1eb0da600bd97785",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823972479
+        }
+    ],
+    "wof:id":823972479,
+    "wof:lastmodified":1466426608,
+    "wof:name":"C-White Electric",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.727919,
+    41.348943,
+    -72.727919,
+    41.348943
+],
+  "geometry": {"coordinates":[-72.727919,41.348943],"type":"Point"}
+}

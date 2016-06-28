@@ -1,0 +1,87 @@
+{
+  "id": 823781569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.014706,41.256424,-73.014706,41.256424",
+    "geom:latitude":41.256424,
+    "geom:longitude":-73.014706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"518 Boston Post Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "development",
+        "hour",
+        "photo",
+        "processing",
+        "lab",
+        "one"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79YYmb87qWyHR8JDY9cbAR_41.256424_-73.014706@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446129,
+    "wof:geomhash":"1c0a9544b1fc1f2338c362a24d931b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823781569
+        }
+    ],
+    "wof:id":823781569,
+    "wof:lastmodified":1466424961,
+    "wof:name":"Photoland",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "hour",
+        "photo",
+        "processing",
+        "lab",
+        "one"
+    ]
+},
+  "bbox": [
+    -73.014706,
+    41.256424,
+    -73.014706,
+    41.256424
+],
+  "geometry": {"coordinates":[-73.014706,41.256424],"type":"Point"}
+}

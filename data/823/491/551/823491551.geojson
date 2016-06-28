@@ -1,0 +1,71 @@
+{
+  "id": 823491551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.185944,41.299739,-73.185944,41.299739",
+    "geom:latitude":41.299739,
+    "geom:longitude":-73.185944,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Lazy Brook Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 925 0355",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I25QDYSvRsnL5pDjsKKrj_41.299739_-73.185944@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439343,
+    "wof:geomhash":"79f2ea83fd10b19a01dd5b76630518ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823491551
+        }
+    ],
+    "wof:id":823491551,
+    "wof:lastmodified":1466421606,
+    "wof:name":"Martino Construction",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.185944,
+    41.299739,
+    -73.185944,
+    41.299739
+],
+  "geometry": {"coordinates":[-73.18594400000001,41.299739],"type":"Point"}
+}

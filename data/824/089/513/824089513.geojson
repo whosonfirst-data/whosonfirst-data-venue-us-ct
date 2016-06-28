@@ -1,0 +1,87 @@
+{
+  "id": 824089513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.474419,41.954464,-73.474419,41.954464",
+    "geom:latitude":41.954464,
+    "geom:longitude":-73.474419,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"351 Millerton Rd",
+    "sg:city":"Lakeville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 3569",
+    "sg:postcode":"06039",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "resale",
+        "second",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85850959,
+        102082363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kd18fuXDFJAXrUzjs87As_41.954464_-73.474419@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454079,
+    "wof:geomhash":"3eab434c349c4c4df2f9eedb9ea2d147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85850959,
+            "region_id":85688543,
+            "venue_id":824089513
+        }
+    ],
+    "wof:id":824089513,
+    "wof:lastmodified":1466422871,
+    "wof:name":"Lou's Relics",
+    "wof:parent_id":85850959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "resale",
+        "second",
+        "hand"
+    ]
+},
+  "bbox": [
+    -73.474419,
+    41.954464,
+    -73.474419,
+    41.954464
+],
+  "geometry": {"coordinates":[-73.474419,41.954464],"type":"Point"}
+}

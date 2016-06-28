@@ -1,0 +1,67 @@
+{
+  "id": 824095137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.839055,41.779633,-72.839055,41.779633",
+    "geom:latitude":41.779633,
+    "geom:longitude":-72.839055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 W Farms Rd",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 561 4536",
+    "sg:postcode":"06101",
+    "sg:province":"CT",
+    "sg:website":"www.t-mobile.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P10sJmvJS6qIT35Ds8FsV_41.779633_-72.839055@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454224,
+    "wof:geomhash":"89da01175ae5c6d17fe688260f82af26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824095137
+        }
+    ],
+    "wof:id":824095137,
+    "wof:lastmodified":1466422895,
+    "wof:name":"T-Mobile",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.839055,
+    41.779633,
+    -72.839055,
+    41.779633
+],
+  "geometry": {"coordinates":[-72.839055,41.779633],"type":"Point"}
+}

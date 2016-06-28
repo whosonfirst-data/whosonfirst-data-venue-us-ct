@@ -1,0 +1,86 @@
+{
+  "id": 824045731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.016536,41.56159,-73.016536,41.56159",
+    "geom:latitude":41.56159,
+    "geom:longitude":-73.016536,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"156 Harris Cir",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 596 8215",
+    "sg:postcode":"06704",
+    "sg:province":"CT",
+    "sg:tags":[
+        "authorities",
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xVbvdoBkw9n8El8KNVLCm_41.561590_-73.016536@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453056,
+    "wof:geomhash":"8db3dc59dde8ebfd05e877aef174e97c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":824045731
+        }
+    ],
+    "wof:id":824045731,
+    "wof:lastmodified":1466421971,
+    "wof:name":"Waterbury Housing Authority",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -73.016536,
+    41.56159,
+    -73.016536,
+    41.56159
+],
+  "geometry": {"coordinates":[-73.016536,41.56159],"type":"Point"}
+}

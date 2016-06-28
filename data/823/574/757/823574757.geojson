@@ -1,0 +1,71 @@
+{
+  "id": 823574757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.26313,41.675785,-73.26313,41.675785",
+    "geom:latitude":41.675785,
+    "geom:longitude":-73.26313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Senff Rd",
+    "sg:city":"Washington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06793",
+    "sg:province":"CT",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859063,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F6KViptKgcz69Nw7EK3Nw_41.675785_-73.263130@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441291,
+    "wof:geomhash":"f911c22fad6c5bb0685d34877612aee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85859063,
+            "region_id":85688629,
+            "venue_id":823574757
+        }
+    ],
+    "wof:id":823574757,
+    "wof:lastmodified":1466422986,
+    "wof:name":"Gray Design",
+    "wof:parent_id":85859063,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.26313,
+    41.675785,
+    -73.26313,
+    41.675785
+],
+  "geometry": {"coordinates":[-73.26313,41.675785],"type":"Point"}
+}

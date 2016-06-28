@@ -1,0 +1,77 @@
+{
+  "id": 823652453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143543,41.785536,-73.143543,41.785536",
+    "geom:latitude":41.785536,
+    "geom:longitude":-73.143543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Peck Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nABRzWIM0L6N8U2EuYqXi_41.785536_-73.143543@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443130,
+    "wof:geomhash":"d49ed1a5a9d3b5d544e80b77d86b66e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":823652453
+        }
+    ],
+    "wof:id":823652453,
+    "wof:lastmodified":1466424018,
+    "wof:name":"Litchfield Internal Medicine",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.143543,
+    41.785536,
+    -73.143543,
+    41.785536
+],
+  "geometry": {"coordinates":[-73.14354299999999,41.785536],"type":"Point"}
+}

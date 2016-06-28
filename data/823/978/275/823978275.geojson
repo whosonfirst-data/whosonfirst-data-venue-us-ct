@@ -1,0 +1,82 @@
+{
+  "id": 823978275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.296495,41.334977,-73.296495,41.334977",
+    "geom:latitude":41.334977,
+    "geom:longitude":-73.296495,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Pine Tree Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 6578",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "authorities",
+        "housing",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mZvz9JZi3xA8YycnQkoqO_41.334977_-73.296495@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451435,
+    "wof:geomhash":"31da43ff659f781c12e76c1fdae2ce11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823978275
+        }
+    ],
+    "wof:id":823978275,
+    "wof:lastmodified":1466426784,
+    "wof:name":"Housing Authority Fairfield",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "authorities",
+        "housing",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -73.296495,
+    41.334977,
+    -73.296495,
+    41.334977
+],
+  "geometry": {"coordinates":[-73.29649499999999,41.334977],"type":"Point"}
+}

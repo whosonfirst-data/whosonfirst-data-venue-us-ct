@@ -1,0 +1,77 @@
+{
+  "id": 823837285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.537224,41.065259,-73.537224,41.065259",
+    "geom:latitude":41.065259,
+    "geom:longitude":-73.537224,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"83 Morgan St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 4356",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bwk2kHBi6PFJGfMYRQTOh_41.065259_-73.537224@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447840,
+    "wof:geomhash":"3b59c2720c025144a5d10600abd7ab70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823837285
+        }
+    ],
+    "wof:id":823837285,
+    "wof:lastmodified":1466425582,
+    "wof:name":"All Care Dentistry",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.537224,
+    41.065259,
+    -73.537224,
+    41.065259
+],
+  "geometry": {"coordinates":[-73.53722399999999,41.065259],"type":"Point"}
+}

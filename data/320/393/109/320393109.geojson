@@ -2,13 +2,14 @@
   "id": 320393109,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500828,41.184116,-73.500828,41.184116",
     "geom:latitude":41.184116,
     "geom:longitude":-73.500828,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 N Wilton Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":320393109,
-    "wof:lastmodified":1449012448,
+    "wof:lastmodified":1466421124,
     "wof:name":"Top Floor Creations",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.500828,41.184116,-73.500828,41.184116],
+  "bbox": [
+    -73.500828,
+    41.184116,
+    -73.500828,
+    41.184116
+],
   "geometry": {"coordinates":[-73.500828,41.184116],"type":"Point"}
 }

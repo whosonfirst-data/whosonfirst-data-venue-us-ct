@@ -1,0 +1,78 @@
+{
+  "id": 823572761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809507,41.488215,-72.809507,41.488215",
+    "geom:latitude":41.488215,
+    "geom:longitude":-72.809507,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"994 N Colony Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 269 6667",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.tommyk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04aUL2mNsWraRriNvdKkge_41.488215_-72.809507@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441245,
+    "wof:geomhash":"0bfcce279b8acb1cb140910e5630d5a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823572761
+        }
+    ],
+    "wof:id":823572761,
+    "wof:lastmodified":1466422856,
+    "wof:name":"Tommy K's Video",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.809507,
+    41.488215,
+    -72.809507,
+    41.488215
+],
+  "geometry": {"coordinates":[-72.809507,41.488215],"type":"Point"}
+}

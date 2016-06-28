@@ -1,0 +1,73 @@
+{
+  "id": 823564759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.79106,41.662193,-72.79106,41.662193",
+    "geom:latitude":41.662193,
+    "geom:longitude":-72.79106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Hart Ter",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06052",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bGaOAucs85u1H2ct7mfr9_41.662193_-72.791060@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441059,
+    "wof:geomhash":"3c66eae2199763d514434cb390c0dee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823564759
+        }
+    ],
+    "wof:id":823564759,
+    "wof:lastmodified":1466422707,
+    "wof:name":"Patrick M Rocco MD",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.79106,
+    41.662193,
+    -72.79106,
+    41.662193
+],
+  "geometry": {"coordinates":[-72.79106,41.662193],"type":"Point"}
+}

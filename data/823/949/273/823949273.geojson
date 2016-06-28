@@ -1,0 +1,73 @@
+{
+  "id": 823949273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.483188,41.27467,-72.483188,41.27467",
+    "geom:latitude":41.27467,
+    "geom:longitude":-72.483188,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"177 Boston Post Rd",
+    "sg:city":"Westbrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06498",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823261,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wuw8Yu3PH7kTIkkofoVSd_41.274670_-72.483188@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450762,
+    "wof:geomhash":"7cbae4effa090eefcba12ae8ffc20a8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85823261,
+            "region_id":85688629,
+            "venue_id":823949273
+        }
+    ],
+    "wof:id":823949273,
+    "wof:lastmodified":1466426411,
+    "wof:name":"Cardone & Daughter Automotive",
+    "wof:parent_id":85823261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.483188,
+    41.27467,
+    -72.483188,
+    41.27467
+],
+  "geometry": {"coordinates":[-72.483188,41.27467],"type":"Point"}
+}

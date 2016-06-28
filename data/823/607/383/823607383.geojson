@@ -1,0 +1,75 @@
+{
+  "id": 823607383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.131985,41.569576,-72.131985,41.569576",
+    "geom:latitude":41.569576,
+    "geom:longitude":-72.131985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 State Hwy 32",
+    "sg:city":"North Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 887 2620",
+    "sg:postcode":"06254",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garage",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IkJfLq4HcMVPhCIXquZIX_41.569576_-72.131985@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442074,
+    "wof:geomhash":"e8406de91006c601be558b2bc8562bd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823607383
+        }
+    ],
+    "wof:id":823607383,
+    "wof:lastmodified":1466423385,
+    "wof:name":"Bridge Department",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.131985,
+    41.569576,
+    -72.131985,
+    41.569576
+],
+  "geometry": {"coordinates":[-72.131985,41.569576],"type":"Point"}
+}

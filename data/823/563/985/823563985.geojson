@@ -1,0 +1,81 @@
+{
+  "id": 823563985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.411651,41.135174,-73.411651,41.135174",
+    "geom:latitude":41.135174,
+    "geom:longitude":-73.411651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Bobwhite Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 846 3951",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879319,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ulLwBRgtazyMvdAzxvjD0_41.135174_-73.411651@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441040,
+    "wof:geomhash":"cc63e0fc4754450b9dd1a9ef62f84e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":823563985
+        }
+    ],
+    "wof:id":823563985,
+    "wof:lastmodified":1466422992,
+    "wof:name":"Robert W Grossman",
+    "wof:parent_id":85879319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.411651,
+    41.135174,
+    -73.411651,
+    41.135174
+],
+  "geometry": {"coordinates":[-73.41165100000001,41.135174],"type":"Point"}
+}

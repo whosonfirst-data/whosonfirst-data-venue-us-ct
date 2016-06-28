@@ -1,0 +1,71 @@
+{
+  "id": 823689431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.430442,41.526465,-73.430442,41.526465",
+    "geom:latitude":41.526465,
+    "geom:longitude":-73.430442,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"73 Sullivan Farm Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 210 1894",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809223,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xnu2AVYuNFcPdjiJarLQe_41.526465_-73.430442@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443999,
+    "wof:geomhash":"22030fc595d14798d7ada9101f89618e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809223,
+            "region_id":85688629,
+            "venue_id":823689431
+        }
+    ],
+    "wof:id":823689431,
+    "wof:lastmodified":1466424101,
+    "wof:name":"SJS Communications LLC",
+    "wof:parent_id":85809223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -73.430442,
+    41.526465,
+    -73.430442,
+    41.526465
+],
+  "geometry": {"coordinates":[-73.430442,41.526465],"type":"Point"}
+}

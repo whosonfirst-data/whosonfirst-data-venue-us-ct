@@ -1,0 +1,71 @@
+{
+  "id": 823692293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.967231,41.6,-72.967231,41.6",
+    "geom:latitude":41.6,
+    "geom:longitude":-72.967231,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Center St",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 4641",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Q4sgyTB2jHPMnP7Dw8QR_41.600000_-72.967231@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444071,
+    "wof:geomhash":"e995aaa36cc54223d1584ee9a883a97c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823692293
+        }
+    ],
+    "wof:id":823692293,
+    "wof:lastmodified":1466424384,
+    "wof:name":"Wolcott Veterinary Clinic P C",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.967231,
+    41.6,
+    -72.967231,
+    41.6
+],
+  "geometry": {"coordinates":[-72.967231,41.6],"type":"Point"}
+}

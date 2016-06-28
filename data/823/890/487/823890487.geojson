@@ -1,0 +1,75 @@
+{
+  "id": 823890487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.785434,41.66849,-72.785434,41.66849",
+    "geom:latitude":41.66849,
+    "geom:longitude":-72.785434,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 High St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "school",
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AnKUizanrm8kk61epbOe9_41.668490_-72.785434@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449222,
+    "wof:geomhash":"26407fd60ba88d864576414026d20906",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823890487
+        }
+    ],
+    "wof:id":823890487,
+    "wof:lastmodified":1466425967,
+    "wof:name":"Literacy Volunteers of New BRT",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -72.785434,
+    41.66849,
+    -72.785434,
+    41.66849
+],
+  "geometry": {"coordinates":[-72.785434,41.66849],"type":"Point"}
+}

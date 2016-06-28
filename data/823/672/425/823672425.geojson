@@ -1,0 +1,81 @@
+{
+  "id": 823672425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.526489,41.052131,-73.526489,41.052131",
+    "geom:latitude":41.052131,
+    "geom:longitude":-73.526489,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"129 Myrtle Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 2247",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tuH5IpgQkwCeCDAy3bMqw_41.052131_-73.526489@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443626,
+    "wof:geomhash":"549f24e36bfb00b1c5e14686e9e8e1b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823672425
+        }
+    ],
+    "wof:id":823672425,
+    "wof:lastmodified":1466424014,
+    "wof:name":"Berlingo's Auto Body Shop Inc",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.526489,
+    41.052131,
+    -73.526489,
+    41.052131
+],
+  "geometry": {"coordinates":[-73.526489,41.052131],"type":"Point"}
+}

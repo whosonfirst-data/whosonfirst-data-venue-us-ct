@@ -1,0 +1,87 @@
+{
+  "id": 823742553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.087378,41.321486,-73.087378,41.321486",
+    "geom:latitude":41.321486,
+    "geom:longitude":-73.087378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"119 Caroline St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 1638",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shelter",
+        "residential",
+        "homeless"
+    ],
+    "sg:website":"www.act-spooner.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wTRW3JbwkqtqNcmSdd6fu_41.321486_-73.087378@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445208,
+    "wof:geomhash":"08d872e152317ab57298ca0af7f3aba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823742553
+        }
+    ],
+    "wof:id":823742553,
+    "wof:lastmodified":1466424679,
+    "wof:name":"Area Congregations Together",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "residential",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -73.087378,
+    41.321486,
+    -73.087378,
+    41.321486
+],
+  "geometry": {"coordinates":[-73.087378,41.321486],"type":"Point"}
+}

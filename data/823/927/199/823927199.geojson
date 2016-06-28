@@ -1,0 +1,85 @@
+{
+  "id": 823927199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.70253,41.458252,-72.70253,41.458252",
+    "geom:latitude":41.458252,
+    "geom:longitude":-72.70253,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Tuttle Rd",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06422",
+    "sg:province":"CT",
+    "sg:tags":[
+        "engine",
+        "rebuilding",
+        "cylinder",
+        "work",
+        "head"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815623,
+        102191575,
+        404496061,
+        85633793,
+        85931149,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aPCam2GImwTTYmtzFFvIA_41.458252_-72.702530@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450182,
+    "wof:geomhash":"197f09fda464207c7be11d56858613de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496061,
+            "locality_id":85931149,
+            "neighbourhood_id":85815623,
+            "region_id":85688629,
+            "venue_id":823927199
+        }
+    ],
+    "wof:id":823927199,
+    "wof:lastmodified":1466426202,
+    "wof:name":"CH Machining",
+    "wof:parent_id":85815623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "rebuilding",
+        "cylinder",
+        "work",
+        "head"
+    ]
+},
+  "bbox": [
+    -72.70253,
+    41.458252,
+    -72.70253,
+    41.458252
+],
+  "geometry": {"coordinates":[-72.70253,41.458252],"type":"Point"}
+}

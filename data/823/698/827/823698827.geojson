@@ -1,0 +1,73 @@
+{
+  "id": 823698827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.903711,41.384812,-72.903711,41.384812",
+    "geom:latitude":41.384812,
+    "geom:longitude":-72.903711,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"169 School St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 8441",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U3MuGfIwYuTQAMrtK8EFa_41.384812_-72.903711@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444214,
+    "wof:geomhash":"958dfe5bf14e19a84876bb4fedd812b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823698827
+        }
+    ],
+    "wof:id":823698827,
+    "wof:lastmodified":1466424262,
+    "wof:name":"Hamden Center Apartments",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.903711,
+    41.384812,
+    -72.903711,
+    41.384812
+],
+  "geometry": {"coordinates":[-72.903711,41.384812],"type":"Point"}
+}

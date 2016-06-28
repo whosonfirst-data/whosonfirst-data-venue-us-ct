@@ -1,0 +1,79 @@
+{
+  "id": 823925687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.52435,41.071092,-73.52435,41.071092",
+    "geom:latitude":41.071092,
+    "geom:longitude":-73.52435,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"320 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 7571",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62RWAjHxIgiYpm3kjN9kEB_41.071092_-73.524350@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450140,
+    "wof:geomhash":"5afed175b179140c6bd99b537e0e0743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":823925687
+        }
+    ],
+    "wof:id":823925687,
+    "wof:lastmodified":1466426320,
+    "wof:name":"Helen's Luncheonette",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.52435,
+    41.071092,
+    -73.52435,
+    41.071092
+],
+  "geometry": {"coordinates":[-73.52435,41.071092],"type":"Point"}
+}

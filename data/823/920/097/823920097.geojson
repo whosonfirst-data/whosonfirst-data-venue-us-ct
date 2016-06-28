@@ -1,0 +1,73 @@
+{
+  "id": 823920097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.913581,41.332566,-72.913581,41.332566",
+    "geom:latitude":41.332566,
+    "geom:longitude":-72.913581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Cliff St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 777 2000",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "ornamental",
+        "nursery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hI4CZpLlo0jccfTP6SXoP_41.332566_-72.913581@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449998,
+    "wof:geomhash":"f0c9bcd907156c7df1671e239438a00c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823920097
+        }
+    ],
+    "wof:id":823920097,
+    "wof:lastmodified":1466426145,
+    "wof:name":"Greenbrier Greenhouse",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental",
+        "nursery"
+    ]
+},
+  "bbox": [
+    -72.913581,
+    41.332566,
+    -72.913581,
+    41.332566
+],
+  "geometry": {"coordinates":[-72.91358099999999,41.332566],"type":"Point"}
+}

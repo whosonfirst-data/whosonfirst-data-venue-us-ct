@@ -1,0 +1,71 @@
+{
+  "id": 823505027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.911562,41.460745,-72.911562,41.460745",
+    "geom:latitude":41.460745,
+    "geom:longitude":-72.911562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Tanglewood Cir",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 8619",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85827173,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f7ntgKiTm2JDYAecgEhEw_41.460745_-72.911562@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439684,
+    "wof:geomhash":"3774591c53f8f60b55cee4e02e7c2f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85827173,
+            "region_id":85688629,
+            "venue_id":823505027
+        }
+    ],
+    "wof:id":823505027,
+    "wof:lastmodified":1466421739,
+    "wof:name":"Simpson Plumbing",
+    "wof:parent_id":85827173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.911562,
+    41.460745,
+    -72.911562,
+    41.460745
+],
+  "geometry": {"coordinates":[-72.911562,41.460745],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824111841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096445,41.814631,-73.096445,41.814631",
+    "geom:latitude":41.814631,
+    "geom:longitude":-73.096445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1104 E Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 482 9173",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PjZNClcYYV4BYCIOUhvhr_41.814631_-73.096445@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454589,
+    "wof:geomhash":"39d30d3e25cd00d5005c0e02b786649b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824111841
+        }
+    ],
+    "wof:id":824111841,
+    "wof:lastmodified":1466423140,
+    "wof:name":"SAFELITE AUTO GLASS",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -73.096445,
+    41.814631,
+    -73.096445,
+    41.814631
+],
+  "geometry": {"coordinates":[-73.096445,41.814631],"type":"Point"}
+}

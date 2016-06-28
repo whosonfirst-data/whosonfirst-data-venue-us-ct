@@ -1,0 +1,77 @@
+{
+  "id": 824005301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.351792,41.10921,-73.351792,41.10921",
+    "geom:latitude":41.10921,
+    "geom:longitude":-73.351792,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Fairfield Ave",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85840017,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eFqHfdokgCSn0RCIH1Zmm_41.109210_-73.351792@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452105,
+    "wof:geomhash":"746e79c8cd5a588ccca2bbc2b840b198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85840017,
+            "region_id":85688629,
+            "venue_id":824005301
+        }
+    ],
+    "wof:id":824005301,
+    "wof:lastmodified":1466421125,
+    "wof:name":"Dr Stephen G Baum",
+    "wof:parent_id":85840017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.351792,
+    41.10921,
+    -73.351792,
+    41.10921
+],
+  "geometry": {"coordinates":[-73.351792,41.10921],"type":"Point"}
+}

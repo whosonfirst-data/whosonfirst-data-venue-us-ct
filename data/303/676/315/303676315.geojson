@@ -2,13 +2,14 @@
   "id": 303676315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474739,41.178853,-73.474739,41.178853",
     "geom:latitude":41.178853,
     "geom:longitude":-73.474739,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Partridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -48,16 +49,22 @@
         }
     ],
     "wof:id":303676315,
-    "wof:lastmodified":1448999687,
+    "wof:lastmodified":1466421118,
     "wof:name":"Angel Fish Therapy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.474739,41.178853,-73.474739,41.178853],
+  "bbox": [
+    -73.474739,
+    41.178853,
+    -73.474739,
+    41.178853
+],
   "geometry": {"coordinates":[-73.474739,41.178853],"type":"Point"}
 }

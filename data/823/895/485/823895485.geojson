@@ -1,0 +1,85 @@
+{
+  "id": 823895485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.430376,41.10538,-73.430376,41.10538",
+    "geom:latitude":41.10538,
+    "geom:longitude":-73.430376,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 W Cedar St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 853 2418",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RP9MR7P88bjnqHD2UmMQ5_41.105380_-73.430376@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449337,
+    "wof:geomhash":"74c3f066c3618555611d791b1c6ef28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823895485
+        }
+    ],
+    "wof:id":823895485,
+    "wof:lastmodified":1466425832,
+    "wof:name":"Luke's Auto Body Inc",
+    "wof:parent_id":85879311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.430376,
+    41.10538,
+    -73.430376,
+    41.10538
+],
+  "geometry": {"coordinates":[-73.430376,41.10538],"type":"Point"}
+}

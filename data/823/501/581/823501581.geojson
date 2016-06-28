@@ -1,0 +1,66 @@
+{
+  "id": 823501581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25269,41.792153,-73.25269,41.792153",
+    "geom:latitude":41.792153,
+    "geom:longitude":-73.25269,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Chatham Ct",
+    "sg:city":"Middlebury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 758 8932",
+    "sg:postcode":"06756",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816203,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49w4c3QVoXZ1JDqJLaNhOx_41.792153_-73.252690@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439610,
+    "wof:geomhash":"b3cb7c565d279f5fa39e3944ab35d34a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816203,
+            "region_id":85688629,
+            "venue_id":823501581
+        }
+    ],
+    "wof:id":823501581,
+    "wof:lastmodified":1466421686,
+    "wof:name":"Baker Residential",
+    "wof:parent_id":85816203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25269,
+    41.792153,
+    -73.25269,
+    41.792153
+],
+  "geometry": {"coordinates":[-73.25269,41.792153],"type":"Point"}
+}

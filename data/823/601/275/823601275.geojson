@@ -1,0 +1,73 @@
+{
+  "id": 823601275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.861687,41.794144,-72.861687,41.794144",
+    "geom:latitude":41.794144,
+    "geom:longitude":-72.861687,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"395 W Avon Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "school",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74P0m2BmacZpPYah1S3jTK_41.794144_-72.861687@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441930,
+    "wof:geomhash":"3a5ea4f2b32602e8f3c45cda022e4bce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":823601275
+        }
+    ],
+    "wof:id":823601275,
+    "wof:lastmodified":1466423348,
+    "wof:name":"Wollenbergs Driving School/To",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "driving"
+    ]
+},
+  "bbox": [
+    -72.861687,
+    41.794144,
+    -72.861687,
+    41.794144
+],
+  "geometry": {"coordinates":[-72.861687,41.794144],"type":"Point"}
+}

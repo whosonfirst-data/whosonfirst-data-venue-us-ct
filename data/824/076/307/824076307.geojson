@@ -1,0 +1,80 @@
+{
+  "id": 824076307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.061113,41.310755,-73.061113,41.310755",
+    "geom:latitude":41.310755,
+    "geom:longitude":-73.061113,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"540 New Haven Ave",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/derby/166788-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 734 0733",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bTOfTPsMsfsfbN3maWP8H_41.310755_-73.061113@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453770,
+    "wof:geomhash":"e5982f23591a4de1a56c9610cd744722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":824076307
+        }
+    ],
+    "wof:id":824076307,
+    "wof:lastmodified":1466422561,
+    "wof:name":"Burger King",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.061113,
+    41.310755,
+    -73.061113,
+    41.310755
+],
+  "geometry": {"coordinates":[-73.06111300000001,41.310755],"type":"Point"}
+}

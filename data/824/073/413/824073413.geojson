@@ -1,0 +1,86 @@
+{
+  "id": 824073413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.764928,41.669944,-72.764928,41.669944",
+    "geom:latitude":41.669944,
+    "geom:longitude":-72.764928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"619 East St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-britain/18881-east-side-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 225 6575",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "cheesesteaks",
+        "calzones",
+        "american",
+        "pasta",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yfcMKqKJtV29cTVCtwOtz_41.669944_-72.764928@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453704,
+    "wof:geomhash":"c2aa85742e665c88d4d53d7aa1cea339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":824073413
+        }
+    ],
+    "wof:id":824073413,
+    "wof:lastmodified":1466422653,
+    "wof:name":"East Side Pizza",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "cheesesteaks",
+        "calzones",
+        "american",
+        "pasta",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.764928,
+    41.669944,
+    -72.764928,
+    41.669944
+],
+  "geometry": {"coordinates":[-72.764928,41.669944],"type":"Point"}
+}

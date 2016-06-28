@@ -1,0 +1,71 @@
+{
+  "id": 823874423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249743,41.412259,-73.249743,41.412259",
+    "geom:latitude":41.412259,
+    "geom:longitude":-73.249743,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Fawnwood Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 9217",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "barn"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zdobxGKbYE7ZSkZlAJp3i_41.412259_-73.249743@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448833,
+    "wof:geomhash":"21953b2799b5f43398084c7258f95a70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823874423
+        }
+    ],
+    "wof:id":823874423,
+    "wof:lastmodified":1466425772,
+    "wof:name":"Elm Barn",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barn"
+    ]
+},
+  "bbox": [
+    -73.249743,
+    41.412259,
+    -73.249743,
+    41.412259
+],
+  "geometry": {"coordinates":[-73.249743,41.412259],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823872093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2033,41.205531,-73.2033,41.205531",
+    "geom:latitude":41.205531,
+    "geom:longitude":-73.2033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"606 Gurdon St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 374 6282",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876503,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20i2JecOz4NBJ7YZqLb38F_41.205531_-73.203300@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448788,
+    "wof:geomhash":"072f915f7ecd5f2626ee2a6083743bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876503,
+            "region_id":85688629,
+            "venue_id":823872093
+        }
+    ],
+    "wof:id":823872093,
+    "wof:lastmodified":1466425740,
+    "wof:name":"NLM Electric LLC",
+    "wof:parent_id":85876503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.2033,
+    41.205531,
+    -73.2033,
+    41.205531
+],
+  "geometry": {"coordinates":[-73.2033,41.205531],"type":"Point"}
+}

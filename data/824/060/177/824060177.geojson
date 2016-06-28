@@ -1,0 +1,82 @@
+{
+  "id": 824060177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.121005,41.204337,-73.121005,41.204337",
+    "geom:latitude":41.204337,
+    "geom:longitude":-73.121005,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Frog Pond Ln",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 385 4068",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rBN6N8KksPgo3ZoM0PECp_41.204337_-73.121005@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453393,
+    "wof:geomhash":"90ead1ef85763167ca2478f2da47a9ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":824060177
+        }
+    ],
+    "wof:id":824060177,
+    "wof:lastmodified":1466422137,
+    "wof:name":"Stratford Police-Dog Warden",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -73.121005,
+    41.204337,
+    -73.121005,
+    41.204337
+],
+  "geometry": {"coordinates":[-73.121005,41.204337],"type":"Point"}
+}

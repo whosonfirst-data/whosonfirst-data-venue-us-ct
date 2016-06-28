@@ -1,0 +1,72 @@
+{
+  "id": 823863201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15394,41.192606,-73.15394,41.192606",
+    "geom:latitude":41.192606,
+    "geom:longitude":-73.15394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2091 Boston Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 000 1111",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YXb0JOodhJQOX91lp4j9A_41.192606_-73.153940@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448578,
+    "wof:geomhash":"a42f27775ad731a815ccb858c4b11fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823863201
+        }
+    ],
+    "wof:id":823863201,
+    "wof:lastmodified":1466425655,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.15394,
+    41.192606,
+    -73.15394,
+    41.192606
+],
+  "geometry": {"coordinates":[-73.15394000000001,41.192606],"type":"Point"}
+}

@@ -1,0 +1,97 @@
+{
+  "id": 824073793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.447542,41.984166,-72.447542,41.984166",
+    "geom:latitude":41.984166,
+    "geom:longitude":-72.447542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 South Rd",
+    "sg:city":"Somers",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/somers/130058-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 272 0140",
+    "sg:postcode":"06071",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85813121,
+        102191575,
+        404495897,
+        85633793,
+        85931281,
+        102085379,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13h3lFzUvlU4uN6v7dMk2y_41.984166_-72.447542@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453715,
+    "wof:geomhash":"7f332afbfc76f55a0e0da7bd19a523f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085379,
+            "localadmin_id":404495897,
+            "locality_id":85931281,
+            "neighbourhood_id":85813121,
+            "region_id":85688629,
+            "venue_id":824073793
+        }
+    ],
+    "wof:id":824073793,
+    "wof:lastmodified":1466422447,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85813121,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.447542,
+    41.984166,
+    -72.447542,
+    41.984166
+],
+  "geometry": {"coordinates":[-72.447542,41.984166],"type":"Point"}
+}

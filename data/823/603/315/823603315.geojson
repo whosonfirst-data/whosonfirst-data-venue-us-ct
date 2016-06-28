@@ -1,0 +1,79 @@
+{
+  "id": 823603315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.099826,41.254768,-73.099826,41.254768",
+    "geom:latitude":41.254768,
+    "geom:longitude":-73.099826,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6911 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 380 0006",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OCcneaKr6x5ECqUS86Wkq_41.254768_-73.099826@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441986,
+    "wof:geomhash":"94f10ad16352f7e23a99544e1c62276b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":823603315
+        }
+    ],
+    "wof:id":823603315,
+    "wof:lastmodified":1466423363,
+    "wof:name":"Atria Stratford",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.099826,
+    41.254768,
+    -73.099826,
+    41.254768
+],
+  "geometry": {"coordinates":[-73.09982599999999,41.254768],"type":"Point"}
+}

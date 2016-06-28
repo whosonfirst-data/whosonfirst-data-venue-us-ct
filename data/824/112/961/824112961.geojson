@@ -1,0 +1,80 @@
+{
+  "id": 824112961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.414878,41.485452,-73.414878,41.485452",
+    "geom:latitude":41.485452,
+    "geom:longitude":-73.414878,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 Laurel Hill Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 3735",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruments-repair",
+        "musical",
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809215,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EF8bvaEkGYUtIZ6ZDDgLe_41.485452_-73.414878@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454618,
+    "wof:geomhash":"505ca748879f63d534e1d2c294eb2952",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809215,
+            "region_id":85688629,
+            "venue_id":824112961
+        }
+    ],
+    "wof:id":824112961,
+    "wof:lastmodified":1466423131,
+    "wof:name":"Chuck's Musical Instruments",
+    "wof:parent_id":85809215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruments-repair",
+        "musical",
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [
+    -73.414878,
+    41.485452,
+    -73.414878,
+    41.485452
+],
+  "geometry": {"coordinates":[-73.414878,41.485452],"type":"Point"}
+}

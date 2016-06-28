@@ -1,0 +1,80 @@
+{
+  "id": 823925047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778357,41.682496,-72.778357,41.682496",
+    "geom:latitude":41.682496,
+    "geom:longitude":-72.778357,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"268 Allen St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85867445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cJVa0iFpnqtygncC0ZoIu_41.682496_-72.778357@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450127,
+    "wof:geomhash":"5e06150db5b5ccd12d9f9998a8a81b81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823925047
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823925047
+        }
+    ],
+    "wof:id":823925047,
+    "wof:lastmodified":1466426186,
+    "wof:name":"Premier Rental Purchase",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.778357,
+    41.682496,
+    -72.778357,
+    41.682496
+],
+  "geometry": {"coordinates":[-72.778357,41.682496],"type":"Point"}
+}

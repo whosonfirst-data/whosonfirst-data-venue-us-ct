@@ -1,0 +1,71 @@
+{
+  "id": 823517041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81111,41.281812,-72.81111,41.281812",
+    "geom:latitude":41.281812,
+    "geom:longitude":-72.81111,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1019 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 6305",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wAEeZSbzCs99mrGxYgrAn_41.281812_-72.811110@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439953,
+    "wof:geomhash":"ac908739d08b7926789d13c6949001fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823517041
+        }
+    ],
+    "wof:id":823517041,
+    "wof:lastmodified":1466422039,
+    "wof:name":"Branford Town Clerk",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -72.81111,
+    41.281812,
+    -72.81111,
+    41.281812
+],
+  "geometry": {"coordinates":[-72.81111,41.281812],"type":"Point"}
+}

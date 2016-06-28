@@ -1,0 +1,77 @@
+{
+  "id": 823928897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981613,41.340139,-72.981613,41.340139",
+    "geom:latitude":41.340139,
+    "geom:longitude":-72.981613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Lucy St",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 397 2909",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kjcEF2NFdG4mKaf4vyesH_41.340139_-72.981613@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450222,
+    "wof:geomhash":"f3d96228777ab0843281825df1c363ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823928897
+        }
+    ],
+    "wof:id":823928897,
+    "wof:lastmodified":1466426259,
+    "wof:name":"Woodbridge Auto Body Shop Inc",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.981613,
+    41.340139,
+    -72.981613,
+    41.340139
+],
+  "geometry": {"coordinates":[-72.981613,41.340139],"type":"Point"}
+}

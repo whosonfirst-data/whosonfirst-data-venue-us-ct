@@ -1,0 +1,86 @@
+{
+  "id": 824073035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.616468,41.72078,-72.616468,41.72078",
+    "geom:latitude":41.72078,
+    "geom:longitude":-72.616468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2855 Main St",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/glastonbury/109995-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 657 2333",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SjvNvCbPL9PITzrzQhrm9_41.720780_-72.616468@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453696,
+    "wof:geomhash":"1ee9c2aeee0b3059f251ee614fb964ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824073035
+        }
+    ],
+    "wof:id":824073035,
+    "wof:lastmodified":1466422646,
+    "wof:name":"Chili's",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.616468,
+    41.72078,
+    -72.616468,
+    41.72078
+],
+  "geometry": {"coordinates":[-72.616468,41.72078],"type":"Point"}
+}

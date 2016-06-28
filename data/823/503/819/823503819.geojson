@@ -1,0 +1,77 @@
+{
+  "id": 823503819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.678106,41.757283,-72.678106,41.757283",
+    "geom:latitude":41.757283,
+    "geom:longitude":-72.678106,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"111 Park St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06106",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878035,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nx0MWAbV0FDeZAj3nxX4I_41.757283_-72.678106@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439659,
+    "wof:geomhash":"4c6f00c2db4f6710e0581384f2c082df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878035,
+            "region_id":85688629,
+            "venue_id":823503819
+        }
+    ],
+    "wof:id":823503819,
+    "wof:lastmodified":1466421736,
+    "wof:name":"Charles Ray Jones MD",
+    "wof:parent_id":85878035,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.678106,
+    41.757283,
+    -72.678106,
+    41.757283
+],
+  "geometry": {"coordinates":[-72.678106,41.757283],"type":"Point"}
+}

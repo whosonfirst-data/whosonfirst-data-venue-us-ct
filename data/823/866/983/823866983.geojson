@@ -1,0 +1,73 @@
+{
+  "id": 823866983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.259972,41.344584,-73.259972,41.344584",
+    "geom:latitude":41.344584,
+    "geom:longitude":-73.259972,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"820 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 3866",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ZwTPl5tOehero0s65BDk_41.344584_-73.259972@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448671,
+    "wof:geomhash":"75753e9b7867fc876b04ffb1451501d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823866983
+        }
+    ],
+    "wof:id":823866983,
+    "wof:lastmodified":1466425914,
+    "wof:name":"Big Earl's Dumpster Svc",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.259972,
+    41.344584,
+    -73.259972,
+    41.344584
+],
+  "geometry": {"coordinates":[-73.259972,41.344584],"type":"Point"}
+}

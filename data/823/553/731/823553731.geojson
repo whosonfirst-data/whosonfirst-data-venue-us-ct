@@ -1,0 +1,73 @@
+{
+  "id": 823553731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.267078,41.325822,-73.267078,41.325822",
+    "geom:latitude":41.325822,
+    "geom:longitude":-73.267078,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"446 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6040",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "driving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGJKOV6e0Y6Vt78WEnA78_41.325822_-73.267078@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440795,
+    "wof:geomhash":"6d6bce2012db550f1ccebf61cb9534ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823553731
+        }
+    ],
+    "wof:id":823553731,
+    "wof:lastmodified":1466422625,
+    "wof:name":"Gary Knepler Driving School",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "driving"
+    ]
+},
+  "bbox": [
+    -73.267078,
+    41.325822,
+    -73.267078,
+    41.325822
+],
+  "geometry": {"coordinates":[-73.267078,41.325822],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823642513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.981248,41.339485,-72.981248,41.339485",
+    "geom:latitude":41.339485,
+    "geom:longitude":-72.981248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"194 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 397 2211",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6osCzIuVrzYOVF4HSeMrKN_41.339485_-72.981248@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442911,
+    "wof:geomhash":"be17ef5409ce1a3c01c9c7ec902c0cb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823642513
+        }
+    ],
+    "wof:id":823642513,
+    "wof:lastmodified":1466423695,
+    "wof:name":"Amity Chiropractic Center",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.981248,
+    41.339485,
+    -72.981248,
+    41.339485
+],
+  "geometry": {"coordinates":[-72.98124799999999,41.339485],"type":"Point"}
+}

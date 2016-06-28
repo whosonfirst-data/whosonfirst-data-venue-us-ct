@@ -1,0 +1,78 @@
+{
+  "id": 824074561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.744665,41.760337,-72.744665,41.760337",
+    "geom:latitude":41.760337,
+    "geom:longitude":-72.744665,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Lasalle Rd",
+    "sg:city":"West Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/west-hartford/263077-mediza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 233 3370",
+    "sg:postcode":"06107",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mediterranean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868763,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TJKcmWiOtlC9SxbZ4b3Cj_41.760337_-72.744665@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453728,
+    "wof:geomhash":"7bd611311d1f5839f0f529acb45f6c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85868763,
+            "region_id":85688629,
+            "venue_id":824074561
+        }
+    ],
+    "wof:id":824074561,
+    "wof:lastmodified":1466422425,
+    "wof:name":"Mediza",
+    "wof:parent_id":85868763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mediterranean"
+    ]
+},
+  "bbox": [
+    -72.744665,
+    41.760337,
+    -72.744665,
+    41.760337
+],
+  "geometry": {"coordinates":[-72.744665,41.760337],"type":"Point"}
+}

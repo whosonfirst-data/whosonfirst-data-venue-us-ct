@@ -1,0 +1,71 @@
+{
+  "id": 824028289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809201,41.50709,-72.809201,41.50709",
+    "geom:latitude":41.50709,
+    "geom:longitude":-72.809201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1226 S Broad St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 269 1014",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QlxAEB3PHx4LATC0WCITH_41.507090_-72.809201@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452624,
+    "wof:geomhash":"90c2990770ff5b24323d10553aea263e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":824028289
+        }
+    ],
+    "wof:id":824028289,
+    "wof:lastmodified":1466421581,
+    "wof:name":"Rigali Orthodontix",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.809201,
+    41.50709,
+    -72.809201,
+    41.50709
+],
+  "geometry": {"coordinates":[-72.809201,41.50709],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823627109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.176129,41.457476,-73.176129,41.457476",
+    "geom:latitude":41.457476,
+    "geom:longitude":-73.176129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1010 Jeremy Swamp Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 0331",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fKOL3cbMXulikXmzSVd7C_41.457476_-73.176129@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442554,
+    "wof:geomhash":"95ecad95b139656eccb8f270698ff147",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823627109
+        }
+    ],
+    "wof:id":823627109,
+    "wof:lastmodified":1466423568,
+    "wof:name":"Colonial Heating & Air Cond",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.176129,
+    41.457476,
+    -73.176129,
+    41.457476
+],
+  "geometry": {"coordinates":[-73.176129,41.457476],"type":"Point"}
+}

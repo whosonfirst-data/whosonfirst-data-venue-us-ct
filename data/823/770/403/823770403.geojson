@@ -1,0 +1,71 @@
+{
+  "id": 823770403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.845913,41.27964,-72.845913,41.27964",
+    "geom:latitude":41.27964,
+    "geom:longitude":-72.845913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"471 W Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 2591",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oUzKDWb644GbZDOpE53RI_41.279640_-72.845913@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445828,
+    "wof:geomhash":"fd2b395dc7c96688c9eee9544066376f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823770403
+        }
+    ],
+    "wof:id":823770403,
+    "wof:lastmodified":1466424688,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.845913,
+    41.27964,
+    -72.845913,
+    41.27964
+],
+  "geometry": {"coordinates":[-72.845913,41.27964],"type":"Point"}
+}

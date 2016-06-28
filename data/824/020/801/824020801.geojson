@@ -1,0 +1,82 @@
+{
+  "id": 824020801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.110042,41.355155,-73.110042,41.355155",
+    "geom:latitude":41.355155,
+    "geom:longitude":-73.110042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Great Hill Rd",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 736 2277",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dYeTZ4LtShkXBPEusM4uH_41.355155_-73.110042@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452443,
+    "wof:geomhash":"bff8b6461d9c29b8d3dfe9106891f26e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":824020801
+        }
+    ],
+    "wof:id":824020801,
+    "wof:lastmodified":1466421590,
+    "wof:name":"Tom's Toy Box",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.110042,
+    41.355155,
+    -73.110042,
+    41.355155
+],
+  "geometry": {"coordinates":[-73.11004200000001,41.355155],"type":"Point"}
+}

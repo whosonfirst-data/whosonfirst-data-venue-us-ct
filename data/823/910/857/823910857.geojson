@@ -1,0 +1,71 @@
+{
+  "id": 823910857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.68579,41.256116,-72.68579,41.256116",
+    "geom:latitude":41.256116,
+    "geom:longitude":-72.68579,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Bay St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 1906",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Lq7g2qHTJBJoDMO2VwSm1_41.256116_-72.685790@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449766,
+    "wof:geomhash":"decbf9afcfbc4239d005990d2d92774d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823910857
+        }
+    ],
+    "wof:id":823910857,
+    "wof:lastmodified":1466426135,
+    "wof:name":"Guilford Holistic Health Pract",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -72.68579,
+    41.256116,
+    -72.68579,
+    41.256116
+],
+  "geometry": {"coordinates":[-72.68579,41.256116],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823525411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.412827,41.577267,-73.412827,41.577267",
+    "geom:latitude":41.577267,
+    "geom:longitude":-73.412827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Bank St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 1515",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29uo4VCG0qG19NcOLR4Km8_41.577267_-73.412827@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440147,
+    "wof:geomhash":"d09ce2444acad0b196db56d2cdc6b382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823525411
+        }
+    ],
+    "wof:id":823525411,
+    "wof:lastmodified":1466422211,
+    "wof:name":"Bank Street Natural Foods",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.412827,
+    41.577267,
+    -73.412827,
+    41.577267
+],
+  "geometry": {"coordinates":[-73.41282699999999,41.577267],"type":"Point"}
+}

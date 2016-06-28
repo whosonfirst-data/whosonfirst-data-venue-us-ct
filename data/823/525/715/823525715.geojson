@@ -1,0 +1,79 @@
+{
+  "id": 823525715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.935462,41.298477,-72.935462,41.298477",
+    "geom:latitude":41.298477,
+    "geom:longitude":-72.935462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"369 Washington Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 782 3717",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882017,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WGWQg10V6ZGi3x68yko5n_41.298477_-72.935462@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440156,
+    "wof:geomhash":"61bdd79ec4d321bb85804d89ba71a730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85882017,
+            "region_id":85688629,
+            "venue_id":823525715
+        }
+    ],
+    "wof:id":823525715,
+    "wof:lastmodified":1466422334,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85882017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.935462,
+    41.298477,
+    -72.935462,
+    41.298477
+],
+  "geometry": {"coordinates":[-72.935462,41.298477],"type":"Point"}
+}

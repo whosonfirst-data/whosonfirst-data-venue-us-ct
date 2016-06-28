@@ -1,0 +1,71 @@
+{
+  "id": 823647917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.37632,41.285134,-72.37632,41.285134",
+    "geom:latitude":41.285134,
+    "geom:longitude":-72.37632,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Shepard St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828733,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55QQorT8qoavDptsA9wX3m_41.285134_-72.376320@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443036,
+    "wof:geomhash":"c860b7ba8abd253ed16765294e083563",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85828733,
+            "region_id":85688629,
+            "venue_id":823647917
+        }
+    ],
+    "wof:id":823647917,
+    "wof:lastmodified":1466423863,
+    "wof:name":"All County Collision LLC",
+    "wof:parent_id":85828733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.37632,
+    41.285134,
+    -72.37632,
+    41.285134
+],
+  "geometry": {"coordinates":[-72.37632000000001,41.285134],"type":"Point"}
+}

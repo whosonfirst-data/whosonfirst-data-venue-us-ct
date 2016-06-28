@@ -1,0 +1,81 @@
+{
+  "id": 824111859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.105707,41.810187,-73.105707,41.810187",
+    "geom:latitude":41.810187,
+    "geom:longitude":-73.105707,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"733 E Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 626 1167",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "acupuncture",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.acuhealingcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74Fr4GCyJKnXySIiOBC1ur_41.810187_-73.105707@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454590,
+    "wof:geomhash":"717a9f800c098ae3f385ba95baa0b21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":824111859
+        }
+    ],
+    "wof:id":824111859,
+    "wof:lastmodified":1466423142,
+    "wof:name":"Acupunture Healing Arts Center",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "acupuncture",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -73.105707,
+    41.810187,
+    -73.105707,
+    41.810187
+],
+  "geometry": {"coordinates":[-73.105707,41.810187],"type":"Point"}
+}

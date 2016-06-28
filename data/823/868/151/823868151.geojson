@@ -1,0 +1,79 @@
+{
+  "id": 823868151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.107406,41.260837,-73.107406,41.260837",
+    "geom:latitude":41.260837,
+    "geom:longitude":-73.107406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Far Mill Dr",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 5355",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62SMON4W93WVYbwGPgU2CI_41.260837_-73.107406@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448695,
+    "wof:geomhash":"3af78c5af9539b938014689985a30646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":823868151
+        }
+    ],
+    "wof:id":823868151,
+    "wof:lastmodified":1466425731,
+    "wof:name":"Al's Electric",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.107406,
+    41.260837,
+    -73.107406,
+    41.260837
+],
+  "geometry": {"coordinates":[-73.107406,41.260837],"type":"Point"}
+}

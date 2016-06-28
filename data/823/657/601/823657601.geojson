@@ -1,0 +1,66 @@
+{
+  "id": 823657601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.965512,41.32878,-72.965512,41.32878",
+    "geom:latitude":41.32878,
+    "geom:longitude":-72.965512,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1150 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 387 1850",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cmIflgMQfkxXKAuKgCE9Q_41.328780_-72.965512@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443254,
+    "wof:geomhash":"4285903d062f8700a52d3e99b4befcec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823657601
+        }
+    ],
+    "wof:id":823657601,
+    "wof:lastmodified":1466423732,
+    "wof:name":"Whalley Liquor Shop",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.965512,
+    41.32878,
+    -72.965512,
+    41.32878
+],
+  "geometry": {"coordinates":[-72.965512,41.32878],"type":"Point"}
+}

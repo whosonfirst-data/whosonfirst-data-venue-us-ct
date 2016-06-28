@@ -1,0 +1,85 @@
+{
+  "id": 823821465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725775,41.785913,-72.725775,41.785913",
+    "geom:latitude":41.785913,
+    "geom:longitude":-72.725775,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2021 Albany Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06117",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical",
+        "skilled",
+        "nursing",
+        "care",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85867455,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bfx7jHD0R47TVw4z18PQW_41.785913_-72.725775@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447335,
+    "wof:geomhash":"72acf49e8c3f4a63d620d4369ed6bd8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85867455,
+            "region_id":85688629,
+            "venue_id":823821465
+        }
+    ],
+    "wof:id":823821465,
+    "wof:lastmodified":1466425296,
+    "wof:name":"CATHOLIC HEALTH SYSTEM",
+    "wof:parent_id":85867455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "skilled",
+        "nursing",
+        "care",
+        "facility"
+    ]
+},
+  "bbox": [
+    -72.725775,
+    41.785913,
+    -72.725775,
+    41.785913
+],
+  "geometry": {"coordinates":[-72.725775,41.785913],"type":"Point"}
+}

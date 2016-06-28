@@ -1,0 +1,79 @@
+{
+  "id": 823470269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.660826,41.01061,-73.660826,41.01061",
+    "geom:latitude":41.01061,
+    "geom:longitude":-73.660826,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"216 Husted St",
+    "sg:city":"Port Chester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 914 934 8716",
+    "sg:postcode":"10573",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66RaQm09JM2AaUcccM2NZ1_41.010610_-73.660826@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438843,
+    "wof:geomhash":"a2869c61e9e8885d1d2b22e90bbd1541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823470269
+        }
+    ],
+    "wof:id":823470269,
+    "wof:lastmodified":1466421252,
+    "wof:name":"A & E Electric",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.660826,
+    41.01061,
+    -73.660826,
+    41.01061
+],
+  "geometry": {"coordinates":[-73.660826,41.01061],"type":"Point"}
+}

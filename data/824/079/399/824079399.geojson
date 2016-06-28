@@ -1,0 +1,74 @@
+{
+  "id": 824079399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.2029,41.524849,-73.2029,41.524849",
+    "geom:latitude":41.524849,
+    "geom:longitude":-73.2029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"757 Main St S",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/woodbury/270218-carmen-anthony-fishhouse-of-woodbury/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 266 0011",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hIs6tvPMPNlIrAlfE4Q8a_41.524849_-73.202900@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453839,
+    "wof:geomhash":"53cd84d588b205783b5787f96a3d6d41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":824079399
+        }
+    ],
+    "wof:id":824079399,
+    "wof:lastmodified":1466422574,
+    "wof:name":"Carmen Anthony Fishhouse of Woodbury",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.2029,
+    41.524849,
+    -73.2029,
+    41.524849
+],
+  "geometry": {"coordinates":[-73.2029,41.524849],"type":"Point"}
+}

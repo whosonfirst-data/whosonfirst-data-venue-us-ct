@@ -2,13 +2,14 @@
   "id": 354191585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.644257,41.03546,-73.644257,41.03546",
     "geom:latitude":41.03546,
     "geom:longitude":-73.644257,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"12 Huntzinger Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":354191585,
-    "wof:lastmodified":1449066966,
+    "wof:lastmodified":1466421136,
     "wof:name":"Multi Media Services LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "aircraft"
     ]
 },
-  "bbox": [-73.644257,41.03546,-73.644257,41.03546],
+  "bbox": [
+    -73.644257,
+    41.03546,
+    -73.644257,
+    41.03546
+],
   "geometry": {"coordinates":[-73.644257,41.03546],"type":"Point"}
 }

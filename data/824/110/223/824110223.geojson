@@ -1,0 +1,92 @@
+{
+  "id": 824110223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.985378,41.551106,-72.985378,41.551106",
+    "geom:latitude":41.551106,
+    "geom:longitude":-72.985378,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 Diane Ter",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 757 1575",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "machine",
+        "cutting",
+        "store"
+    ],
+    "sg:website":"http://www.lcmtool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816299,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BaCC2nDwjJ0PWNAlJx8b2_41.551106_-72.985378@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454558,
+    "wof:geomhash":"a1861509e8f9dcf6eeacf1a28c697f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85816299,
+            "region_id":85688629,
+            "venue_id":824110223
+        }
+    ],
+    "wof:id":824110223,
+    "wof:lastmodified":1466423236,
+    "wof:name":"L C M Tool Co",
+    "wof:parent_id":85816299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "cutting",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.985378,
+    41.551106,
+    -72.985378,
+    41.551106
+],
+  "geometry": {"coordinates":[-72.985378,41.551106],"type":"Point"}
+}

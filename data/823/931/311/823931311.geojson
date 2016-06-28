@@ -1,0 +1,66 @@
+{
+  "id": 823931311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.393838,41.456369,-73.393838,41.456369",
+    "geom:latitude":41.456369,
+    "geom:longitude":-73.393838,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Pocono Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 2717",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DD6AJyL4nTnCBjCHpcqN6_41.456369_-73.393838@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450279,
+    "wof:geomhash":"f43209c739cea48a4fb2e1ff126a1d49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823931311
+        }
+    ],
+    "wof:id":823931311,
+    "wof:lastmodified":1466426236,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.393838,
+    41.456369,
+    -73.393838,
+    41.456369
+],
+  "geometry": {"coordinates":[-73.393838,41.456369],"type":"Point"}
+}

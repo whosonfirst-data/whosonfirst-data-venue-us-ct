@@ -1,0 +1,78 @@
+{
+  "id": 824077375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.234703,41.460759,-73.234703,41.460759",
+    "geom:latitude":41.460759,
+    "geom:longitude":-73.234703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"775 Main St S",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/southbury/108504-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 267 7548",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810009,
+        102191575,
+        404495799,
+        85633793,
+        85931399,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lY4SruSgSx2uH7ymFs1Mq_41.460759_-73.234703@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453794,
+    "wof:geomhash":"8f2ac25388cbcc28c89d6383088de0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "locality_id":85931399,
+            "neighbourhood_id":85810009,
+            "region_id":85688629,
+            "venue_id":824077375
+        }
+    ],
+    "wof:id":824077375,
+    "wof:lastmodified":1466422575,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85810009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.234703,
+    41.460759,
+    -73.234703,
+    41.460759
+],
+  "geometry": {"coordinates":[-73.234703,41.460759],"type":"Point"}
+}

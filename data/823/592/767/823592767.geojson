@@ -1,0 +1,73 @@
+{
+  "id": 823592767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809978,41.505999,-72.809978,41.505999",
+    "geom:latitude":41.505999,
+    "geom:longitude":-72.809978,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1161 S Broad St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 294 4483",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q8Lelp74a4TTExxXrvpoM_41.505999_-72.809978@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441710,
+    "wof:geomhash":"8d7010752b43ab85866db82f82a3e22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823592767
+        }
+    ],
+    "wof:id":823592767,
+    "wof:lastmodified":1466423266,
+    "wof:name":"Concrete & Excav Specialists",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.809978,
+    41.505999,
+    -72.809978,
+    41.505999
+],
+  "geometry": {"coordinates":[-72.809978,41.505999],"type":"Point"}
+}

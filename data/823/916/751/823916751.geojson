@@ -1,0 +1,83 @@
+{
+  "id": 823916751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.871136,41.33378,-72.871136,41.33378",
+    "geom:latitude":41.33378,
+    "geom:longitude":-72.871136,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"631 Middletown Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 777 6580",
+    "sg:postcode":"06513",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879181,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Eq73nhPhSEAxlKuihRy8y_41.333780_-72.871136@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449920,
+    "wof:geomhash":"1a73c5628c36170719d3002161ddd584",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879181,
+            "region_id":85688629,
+            "venue_id":823916751
+        }
+    ],
+    "wof:id":823916751,
+    "wof:lastmodified":1466426155,
+    "wof:name":"Video Store",
+    "wof:parent_id":85879181,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.871136,
+    41.33378,
+    -72.871136,
+    41.33378
+],
+  "geometry": {"coordinates":[-72.87113600000001,41.33378],"type":"Point"}
+}

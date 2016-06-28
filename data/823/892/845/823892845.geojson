@@ -1,0 +1,79 @@
+{
+  "id": 823892845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.063426,41.215931,-73.063426,41.215931",
+    "geom:latitude":41.215931,
+    "geom:longitude":-73.063426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"281 Seaside Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 7778",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0T9hyHY9ak5CZfA5YjSIwh_41.215931_-73.063426@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449270,
+    "wof:geomhash":"02113d87462a25a1b3f4f008ae3d1858",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823892845
+        }
+    ],
+    "wof:id":823892845,
+    "wof:lastmodified":1466425922,
+    "wof:name":"John Irving MD",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.063426,
+    41.215931,
+    -73.063426,
+    41.215931
+],
+  "geometry": {"coordinates":[-73.06342600000001,41.215931],"type":"Point"}
+}

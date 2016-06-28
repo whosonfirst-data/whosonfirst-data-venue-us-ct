@@ -1,0 +1,79 @@
+{
+  "id": 823912063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.531085,41.080537,-73.531085,41.080537",
+    "geom:latitude":41.080537,
+    "geom:longitude":-73.531085,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"136 Belltown Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 9883",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805565,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AWxDONfsO26qIU7A3kbqf_41.080537_-73.531085@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449804,
+    "wof:geomhash":"292ec6c21a489db7969ffd072f4605a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85805565,
+            "region_id":85688629,
+            "venue_id":823912063
+        }
+    ],
+    "wof:id":823912063,
+    "wof:lastmodified":1466426273,
+    "wof:name":"A-Reed Refuse Co",
+    "wof:parent_id":85805565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.531085,
+    41.080537,
+    -73.531085,
+    41.080537
+],
+  "geometry": {"coordinates":[-73.531085,41.080537],"type":"Point"}
+}

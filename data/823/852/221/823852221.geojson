@@ -1,0 +1,83 @@
+{
+  "id": 823852221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.608001,41.502131,-72.608001,41.502131",
+    "geom:latitude":41.502131,
+    "geom:longitude":-72.608001,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Brainard Hill Rd",
+    "sg:city":"Higganum",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 345 3309",
+    "sg:postcode":"06441",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85829315,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24oVAh0gQf94vgUnqQgByx_41.502131_-72.608001@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448285,
+    "wof:geomhash":"8e91713aa347dd64cccffc9755eb1c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85829315,
+            "region_id":85688629,
+            "venue_id":823852221
+        }
+    ],
+    "wof:id":823852221,
+    "wof:lastmodified":1466425534,
+    "wof:name":"Walter Sindelar",
+    "wof:parent_id":85829315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.608001,
+    41.502131,
+    -72.608001,
+    41.502131
+],
+  "geometry": {"coordinates":[-72.608001,41.502131],"type":"Point"}
+}

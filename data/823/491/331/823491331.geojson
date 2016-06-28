@@ -1,0 +1,71 @@
+{
+  "id": 823491331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.139868,41.377297,-72.139868,41.377297",
+    "geom:latitude":41.377297,
+    "geom:longitude":-72.139868,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"53 Dayton Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 442 0455",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832113,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kxh9nKWRaNgFShRciQz13_41.377297_-72.139868@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439340,
+    "wof:geomhash":"3af83c7165ca07a1965725d0644be98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85832113,
+            "region_id":85688629,
+            "venue_id":823491331
+        }
+    ],
+    "wof:id":823491331,
+    "wof:lastmodified":1466421584,
+    "wof:name":"Cohanzie Fire Department",
+    "wof:parent_id":85832113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.139868,
+    41.377297,
+    -72.139868,
+    41.377297
+],
+  "geometry": {"coordinates":[-72.13986800000001,41.377297],"type":"Point"}
+}

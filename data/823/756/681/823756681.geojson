@@ -1,0 +1,66 @@
+{
+  "id": 823756681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.410546,41.796284,-72.410546,41.796284",
+    "geom:latitude":41.796284,
+    "geom:longitude":-72.410546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2711 Boston Tpke",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 742 7547",
+    "sg:postcode":"06238",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868767,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EyZSEMvBpSXuQO6lcf9sX_41.796284_-72.410546@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445552,
+    "wof:geomhash":"b0db11dc473d3e3b6670ef1e8003fe1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85868767,
+            "region_id":85688629,
+            "venue_id":823756681
+        }
+    ],
+    "wof:id":823756681,
+    "wof:lastmodified":1466424785,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85868767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.410546,
+    41.796284,
+    -72.410546,
+    41.796284
+],
+  "geometry": {"coordinates":[-72.410546,41.796284],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823845783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.095522,41.815143,-73.095522,41.815143",
+    "geom:latitude":41.815143,
+    "geom:longitude":-73.095522,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1063 E Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 4767",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A0FZP4Q6vmF2UjacBsuKn_41.815143_-73.095522@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448095,
+    "wof:geomhash":"8d1772a93f80a2846cfab7cfa31a20c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823845783
+        }
+    ],
+    "wof:id":823845783,
+    "wof:lastmodified":1466425572,
+    "wof:name":"Casa Mia Ristorante & Pizza",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.095522,
+    41.815143,
+    -73.095522,
+    41.815143
+],
+  "geometry": {"coordinates":[-73.095522,41.815143],"type":"Point"}
+}

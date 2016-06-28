@@ -1,0 +1,75 @@
+{
+  "id": 823697673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.747818,41.625756,-72.747818,41.625756",
+    "geom:latitude":41.625756,
+    "geom:longitude":-72.747818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"212 Mill St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wr5Tdxdq6tchR7riphCxJ_41.625756_-72.747818@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444190,
+    "wof:geomhash":"08ce1b754df23495e2af30cedd92e388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823697673
+        }
+    ],
+    "wof:id":823697673,
+    "wof:lastmodified":1466424212,
+    "wof:name":"High Tech Nursing Service",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -72.747818,
+    41.625756,
+    -72.747818,
+    41.625756
+],
+  "geometry": {"coordinates":[-72.747818,41.625756],"type":"Point"}
+}

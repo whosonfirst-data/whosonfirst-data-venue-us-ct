@@ -1,0 +1,73 @@
+{
+  "id": 823812259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.497714,41.810574,-72.497714,41.810574",
+    "geom:latitude":41.810574,
+    "geom:longitude":-72.497714,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 Hamilton Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 432 7729",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rE4o4RPOYsJnK0Bci1INw_41.810574_-72.497714@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447075,
+    "wof:geomhash":"cb9c7ca9e979cfd8277a22a11ce9deec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":823812259
+        }
+    ],
+    "wof:id":823812259,
+    "wof:lastmodified":1466425393,
+    "wof:name":"Ferguson Properties LLC",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.497714,
+    41.810574,
+    -72.497714,
+    41.810574
+],
+  "geometry": {"coordinates":[-72.497714,41.810574],"type":"Point"}
+}

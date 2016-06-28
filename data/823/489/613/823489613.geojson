@@ -1,0 +1,71 @@
+{
+  "id": 823489613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.4879,41.370555,-72.4879,41.370555",
+    "geom:latitude":41.370555,
+    "geom:longitude":-72.4879,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Cedar Swamp Rd",
+    "sg:city":"Deep River",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 526 2161",
+    "sg:postcode":"06417",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842637,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uew2LEanUYXU4nFVJ5m15_41.370555_-72.487900@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439301,
+    "wof:geomhash":"73849b462224b6cb224d58e2bc8e7105",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85842637,
+            "region_id":85688629,
+            "venue_id":823489613
+        }
+    ],
+    "wof:id":823489613,
+    "wof:lastmodified":1466421677,
+    "wof:name":"Winthrop Cemetery Assoc I",
+    "wof:parent_id":85842637,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.4879,
+    41.370555,
+    -72.4879,
+    41.370555
+],
+  "geometry": {"coordinates":[-72.4879,41.370555],"type":"Point"}
+}

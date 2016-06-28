@@ -1,0 +1,71 @@
+{
+  "id": 823530207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.928476,41.711295,-72.928476,41.711295",
+    "geom:latitude":41.711295,
+    "geom:longitude":-72.928476,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"807 Jerome Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 582 0656",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f9LF0wy8VmXku9LmxOB8w_41.711295_-72.928476@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440257,
+    "wof:geomhash":"7ac1e4c0889a51cb7b4d201f5b11ad42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":823530207
+        }
+    ],
+    "wof:id":823530207,
+    "wof:lastmodified":1466422241,
+    "wof:name":"Bob Loveland Builder",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -72.928476,
+    41.711295,
+    -72.928476,
+    41.711295
+],
+  "geometry": {"coordinates":[-72.928476,41.711295],"type":"Point"}
+}

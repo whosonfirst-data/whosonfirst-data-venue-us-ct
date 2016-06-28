@@ -1,0 +1,77 @@
+{
+  "id": 823591249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.195277,41.485887,-73.195277,41.485887",
+    "geom:latitude":41.485887,
+    "geom:longitude":-73.195277,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"93 Dublin Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 267 4716",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85810009,
+        102191575,
+        404495799,
+        85633793,
+        85931399,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iu704GvJWRermjKCnHGEr_41.485887_-73.195277@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441677,
+    "wof:geomhash":"4c42063f342f0c124f4f1e489db48f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "locality_id":85931399,
+            "neighbourhood_id":85810009,
+            "region_id":85688629,
+            "venue_id":823591249
+        }
+    ],
+    "wof:id":823591249,
+    "wof:lastmodified":1466423168,
+    "wof:name":"TLC",
+    "wof:parent_id":85810009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.195277,
+    41.485887,
+    -73.195277,
+    41.485887
+],
+  "geometry": {"coordinates":[-73.195277,41.485887],"type":"Point"}
+}

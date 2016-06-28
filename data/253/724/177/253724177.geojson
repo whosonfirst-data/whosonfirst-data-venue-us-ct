@@ -2,13 +2,14 @@
   "id": 253724177,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.642499,41.168095,-73.642499,41.168095",
     "geom:latitude":41.168095,
     "geom:longitude":-73.642499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"175 Hickory Kingdom Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253724177,
-    "wof:lastmodified":1449065745,
+    "wof:lastmodified":1466421110,
     "wof:name":"Industrial Distribution",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "distribution"
     ]
 },
-  "bbox": [-73.642499,41.168095,-73.642499,41.168095],
+  "bbox": [
+    -73.642499,
+    41.168095,
+    -73.642499,
+    41.168095
+],
   "geometry": {"coordinates":[-73.642499,41.168095],"type":"Point"}
 }

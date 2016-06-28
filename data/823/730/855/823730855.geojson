@@ -1,0 +1,79 @@
+{
+  "id": 823730855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.831006,41.45449,-72.831006,41.45449",
+    "geom:latitude":41.45449,
+    "geom:longitude":-72.831006,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Ward St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 1177",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NbFBFre1YhTYB2TVz4xjf_41.454490_-72.831006@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444925,
+    "wof:geomhash":"820c45dc19345ae38d0ce3f7912c1e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823730855
+        }
+    ],
+    "wof:id":823730855,
+    "wof:lastmodified":1466424541,
+    "wof:name":"Sullivan's Service Station",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.831006,
+    41.45449,
+    -72.831006,
+    41.45449
+],
+  "geometry": {"coordinates":[-72.831006,41.45449],"type":"Point"}
+}

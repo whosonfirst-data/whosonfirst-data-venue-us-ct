@@ -1,0 +1,79 @@
+{
+  "id": 823626245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.447062,41.405967,-73.447062,41.405967",
+    "geom:latitude":41.405967,
+    "geom:longitude":-73.447062,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Hospital Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 730 0074",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A3sbSs6Fn3XiOgHi7rZwQ_41.405967_-73.447062@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442538,
+    "wof:geomhash":"3c52bda40bcf2cfe29ed5e6c130f5293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823626245
+        }
+    ],
+    "wof:id":823626245,
+    "wof:lastmodified":1466423541,
+    "wof:name":"Clinical Research Ctr Of Ct",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.447062,
+    41.405967,
+    -73.447062,
+    41.405967
+],
+  "geometry": {"coordinates":[-73.447062,41.405967],"type":"Point"}
+}

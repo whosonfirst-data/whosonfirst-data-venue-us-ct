@@ -1,0 +1,86 @@
+{
+  "id": 823784957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528867,41.071499,-73.528867,41.071499",
+    "geom:latitude":41.071499,
+    "geom:longitude":-73.528867,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"102 Pine Hill Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 4511",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Pj4uBM5HTQxPycyj9HtC_41.071499_-73.528867@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446248,
+    "wof:geomhash":"a0fd1c4d3dd89f467fbad20160b775ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":823784957
+        }
+    ],
+    "wof:id":823784957,
+    "wof:lastmodified":1466424769,
+    "wof:name":"Medical Data Consultants",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "business"
+    ]
+},
+  "bbox": [
+    -73.528867,
+    41.071499,
+    -73.528867,
+    41.071499
+],
+  "geometry": {"coordinates":[-73.52886700000001,41.071499],"type":"Point"}
+}

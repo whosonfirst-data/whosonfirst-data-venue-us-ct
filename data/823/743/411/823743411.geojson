@@ -1,0 +1,73 @@
+{
+  "id": 823743411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.373285,41.281703,-72.373285,41.281703",
+    "geom:latitude":41.281703,
+    "geom:longitude":-72.373285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Sherman St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 319 7471",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828733,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iti6N5IfPTsecjqABFt8Q_41.281703_-72.373285@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445230,
+    "wof:geomhash":"d3f1fbd5bf1a40d04047d54f8954db1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85828733,
+            "region_id":85688629,
+            "venue_id":823743411
+        }
+    ],
+    "wof:id":823743411,
+    "wof:lastmodified":1466424483,
+    "wof:name":"Connecticut Plumbing & Drain",
+    "wof:parent_id":85828733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.373285,
+    41.281703,
+    -72.373285,
+    41.281703
+],
+  "geometry": {"coordinates":[-72.373285,41.281703],"type":"Point"}
+}

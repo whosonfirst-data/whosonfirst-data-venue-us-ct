@@ -1,0 +1,79 @@
+{
+  "id": 823985239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167381,41.181029,-73.167381,41.181029",
+    "geom:latitude":41.181029,
+    "geom:longitude":-73.167381,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"187 Bunnell St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 0221",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836801,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4idTToUWJsk83Gl40DkEHI_41.181029_-73.167381@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451611,
+    "wof:geomhash":"fb809a7df287e55fb6c84a5e6bc306c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85836801,
+            "region_id":85688629,
+            "venue_id":823985239
+        }
+    ],
+    "wof:id":823985239,
+    "wof:lastmodified":1466426699,
+    "wof:name":"Compare Electrical Contractors",
+    "wof:parent_id":85836801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.167381,
+    41.181029,
+    -73.167381,
+    41.181029
+],
+  "geometry": {"coordinates":[-73.16738100000001,41.181029],"type":"Point"}
+}

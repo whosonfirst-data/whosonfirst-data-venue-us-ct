@@ -1,0 +1,66 @@
+{
+  "id": 823595071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.300773,41.424292,-73.300773,41.424292",
+    "geom:latitude":41.424292,
+    "geom:longitude":-73.300773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Edgewood Dr",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OST9vG3nxVDMZTUoDqFVU_41.424292_-73.300773@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441765,
+    "wof:geomhash":"9d5f73860f57719209d60e5ff046cf85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823595071
+        }
+    ],
+    "wof:id":823595071,
+    "wof:lastmodified":1466423177,
+    "wof:name":"Red Baron Carpet",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.300773,
+    41.424292,
+    -73.300773,
+    41.424292
+],
+  "geometry": {"coordinates":[-73.30077300000001,41.424292],"type":"Point"}
+}

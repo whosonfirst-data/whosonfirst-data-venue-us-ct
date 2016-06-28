@@ -1,0 +1,66 @@
+{
+  "id": 823969385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.39363,41.175157,-73.39363,41.175157",
+    "geom:latitude":41.175157,
+    "geom:longitude":-73.39363,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Chestnut Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 5648",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AqWMDlzZXpIpYZaMRS6VW_41.175157_-73.393630@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451245,
+    "wof:geomhash":"c4c3eeffb60ea9a919ef09dbbe49cc72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823969385
+        }
+    ],
+    "wof:id":823969385,
+    "wof:lastmodified":1466426574,
+    "wof:name":"Wilton Lawn Service",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.39363,
+    41.175157,
+    -73.39363,
+    41.175157
+],
+  "geometry": {"coordinates":[-73.39363,41.175157],"type":"Point"}
+}

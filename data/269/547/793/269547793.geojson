@@ -2,13 +2,14 @@
   "id": 269547793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49316,41.148296,-73.49316,41.148296",
     "geom:latitude":41.148296,
     "geom:longitude":-73.49316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"82 Main St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269547793,
-    "wof:lastmodified":1449036397,
+    "wof:lastmodified":1466421096,
     "wof:name":"Victor F Christ-Janer & Assoc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.49316,41.148296,-73.49316,41.148296],
+  "bbox": [
+    -73.49316,
+    41.148296,
+    -73.49316,
+    41.148296
+],
   "geometry": {"coordinates":[-73.49316,41.148296],"type":"Point"}
 }

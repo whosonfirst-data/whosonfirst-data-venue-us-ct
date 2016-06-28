@@ -1,0 +1,66 @@
+{
+  "id": 823584923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.941218,41.27793,-72.941218,41.27793",
+    "geom:latitude":41.27793,
+    "geom:longitude":-72.941218,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"420 1st Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 931 1616",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CHP7fZ6F5fyq5OJwXdZBm_41.277930_-72.941218@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441535,
+    "wof:geomhash":"a82cff10f64eb5866219638020e8c393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823584923
+        }
+    ],
+    "wof:id":823584923,
+    "wof:lastmodified":1466423095,
+    "wof:name":"Quiznos Sub Of West Haven",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.941218,
+    41.27793,
+    -72.941218,
+    41.27793
+],
+  "geometry": {"coordinates":[-72.94121800000001,41.27793],"type":"Point"}
+}

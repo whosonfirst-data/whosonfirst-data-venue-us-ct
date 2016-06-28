@@ -1,0 +1,73 @@
+{
+  "id": 823599007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.683063,41.522511,-72.683063,41.522511",
+    "geom:latitude":41.522511,
+    "geom:longitude":-72.683063,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"63 Hubbard St",
+    "sg:city":"Middlefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 347 5061",
+    "sg:postcode":"06455",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804219,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VssZN81NRkTblCDYuBgjm_41.522511_-72.683063@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441858,
+    "wof:geomhash":"e3de65bf840d77c34230c1530c965f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85804219,
+            "region_id":85688629,
+            "venue_id":823599007
+        }
+    ],
+    "wof:id":823599007,
+    "wof:lastmodified":1466423283,
+    "wof:name":"Roe Granger",
+    "wof:parent_id":85804219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.683063,
+    41.522511,
+    -72.683063,
+    41.522511
+],
+  "geometry": {"coordinates":[-72.683063,41.522511],"type":"Point"}
+}

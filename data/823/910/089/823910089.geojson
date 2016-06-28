@@ -1,0 +1,73 @@
+{
+  "id": 823910089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.404198,41.445524,-73.404198,41.445524",
+    "geom:latitude":41.445524,
+    "geom:longitude":-73.404198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"246 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 3290",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gYqUOLm0En5d4WnwoTewi_41.445524_-73.404198@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449748,
+    "wof:geomhash":"7edbec0fab6eb8f5b8ab91c62ea3f63b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823910089
+        }
+    ],
+    "wof:id":823910089,
+    "wof:lastmodified":1466426275,
+    "wof:name":"Pros Medical Svc",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.404198,
+    41.445524,
+    -73.404198,
+    41.445524
+],
+  "geometry": {"coordinates":[-73.40419799999999,41.445524],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823559777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778472,41.56875,-72.778472,41.56875",
+    "geom:latitude":41.56875,
+    "geom:longitude":-72.778472,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1401 N Colony St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 237 5595",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "sg:website":"www.berlinbandag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85824991,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UvGDhIY2CgGAWy6lq8IhO_41.568750_-72.778472@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440931,
+    "wof:geomhash":"7e9970413d9d7ca32ac98d9391769fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85824991,
+            "region_id":85688629,
+            "venue_id":823559777
+        }
+    ],
+    "wof:id":823559777,
+    "wof:lastmodified":1466422758,
+    "wof:name":"Berlin Bandag Inc",
+    "wof:parent_id":85824991,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -72.778472,
+    41.56875,
+    -72.778472,
+    41.56875
+],
+  "geometry": {"coordinates":[-72.77847199999999,41.56875],"type":"Point"}
+}

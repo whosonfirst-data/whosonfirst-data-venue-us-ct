@@ -1,0 +1,71 @@
+{
+  "id": 823597505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81252,41.283546,-72.81252,41.283546",
+    "geom:latitude":41.283546,
+    "geom:longitude":-72.81252,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Rose St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 7907",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZwG7pjv4H5NIUry7zO2HG_41.283546_-72.812520@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441825,
+    "wof:geomhash":"cc04bb5207f16b1103b1c7a0812b7c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823597505
+        }
+    ],
+    "wof:id":823597505,
+    "wof:lastmodified":1466423316,
+    "wof:name":"Rosehill Apartments",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.81252,
+    41.283546,
+    -72.81252,
+    41.283546
+],
+  "geometry": {"coordinates":[-72.81252000000001,41.283546],"type":"Point"}
+}

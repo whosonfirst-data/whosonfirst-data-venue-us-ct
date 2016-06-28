@@ -1,0 +1,80 @@
+{
+  "id": 824080469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417144,41.098938,-73.417144,41.098938",
+    "geom:latitude":41.098938,
+    "geom:longitude":-73.417144,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"124 Washington St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwalk/25334-porterhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 855 0441",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JoDclChDncG256mwb1UcN_41.098938_-73.417144@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453862,
+    "wof:geomhash":"86b9ea31ca3b0d0a333239fe1b7d25f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":824080469
+        }
+    ],
+    "wof:id":824080469,
+    "wof:lastmodified":1466422581,
+    "wof:name":"Porterhouse",
+    "wof:parent_id":85849909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -73.417144,
+    41.098938,
+    -73.417144,
+    41.098938
+],
+  "geometry": {"coordinates":[-73.41714399999999,41.098938],"type":"Point"}
+}

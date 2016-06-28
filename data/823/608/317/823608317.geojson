@@ -1,0 +1,71 @@
+{
+  "id": 823608317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.922119,41.389142,-72.922119,41.389142",
+    "geom:latitude":41.389142,
+    "geom:longitude":-72.922119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"625 Shepard Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 3811",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_636OPF306ME9vLLCs0LJBj_41.389142_-72.922119@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442093,
+    "wof:geomhash":"b6270289fc80068fc0501d3b87d16e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823608317
+        }
+    ],
+    "wof:id":823608317,
+    "wof:lastmodified":1466423262,
+    "wof:name":"Merryfield Hosp For Animals",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.922119,
+    41.389142,
+    -72.922119,
+    41.389142
+],
+  "geometry": {"coordinates":[-72.922119,41.389142],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823511003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81075,41.464704,-72.81075,41.464704",
+    "geom:latitude":41.464704,
+    "geom:longitude":-72.81075,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"168 North St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 679 0355",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29GXo8i3JJ36zsNTnK4cqU_41.464704_-72.810750@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439811,
+    "wof:geomhash":"785483e6c07d55c6c1749c2774d14516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823511003
+        }
+    ],
+    "wof:id":823511003,
+    "wof:lastmodified":1466422063,
+    "wof:name":"Fen Air",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.81075,
+    41.464704,
+    -72.81075,
+    41.464704
+],
+  "geometry": {"coordinates":[-72.81075,41.464704],"type":"Point"}
+}

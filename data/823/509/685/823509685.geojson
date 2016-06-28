@@ -1,0 +1,83 @@
+{
+  "id": 823509685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.571969,41.051169,-73.571969,41.051169",
+    "geom:latitude":41.051169,
+    "geom:longitude":-73.571969,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Halsey Dr",
+    "sg:city":"Old Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 637 4090",
+    "sg:postcode":"06870",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "refrigeration",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837819,
+        102191575,
+        404495949,
+        85633793,
+        85930955,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2i2FUeVSxz647UEotq7v3x_41.051169_-73.571969@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439788,
+    "wof:geomhash":"02e7b8779c7cd6dbeb5bdb3e385f0fc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930955,
+            "neighbourhood_id":85837819,
+            "region_id":85688629,
+            "venue_id":823509685
+        }
+    ],
+    "wof:id":823509685,
+    "wof:lastmodified":1466421963,
+    "wof:name":"Broadbent Electrical & Rfrgn",
+    "wof:parent_id":85837819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "refrigeration",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -73.571969,
+    41.051169,
+    -73.571969,
+    41.051169
+],
+  "geometry": {"coordinates":[-73.571969,41.051169],"type":"Point"}
+}

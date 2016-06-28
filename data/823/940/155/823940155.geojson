@@ -1,0 +1,82 @@
+{
+  "id": 823940155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.788674,41.48342,-72.788674,41.48342",
+    "geom:latitude":41.48342,
+    "geom:longitude":-72.788674,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Fairfield Blvd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 6641",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "organization",
+        "management",
+        "plan",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SPZSXrYYmomm3oZrO8jbT_41.483420_-72.788674@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450526,
+    "wof:geomhash":"5fa0244222a2de8a5922040d8cd60a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823940155
+        }
+    ],
+    "wof:id":823940155,
+    "wof:lastmodified":1466426351,
+    "wof:name":"Community Health Network of CT",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "management",
+        "plan",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.788674,
+    41.48342,
+    -72.788674,
+    41.48342
+],
+  "geometry": {"coordinates":[-72.788674,41.48342],"type":"Point"}
+}

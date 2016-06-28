@@ -1,0 +1,84 @@
+{
+  "id": 823898425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.919492,41.303936,-72.919492,41.303936",
+    "geom:latitude":41.303936,
+    "geom:longitude":-72.919492,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"607 Chapel St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 562 1456",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879175,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nYqU97eVsNuMD0Gg9pnkV_41.303936_-72.919492@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449404,
+    "wof:geomhash":"954739edc40ec58b62796348a6381815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879175,
+            "region_id":85688629,
+            "venue_id":823898425
+        }
+    ],
+    "wof:id":823898425,
+    "wof:lastmodified":1466426048,
+    "wof:name":"Studio 607",
+    "wof:parent_id":85879175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "attorney"
+    ]
+},
+  "bbox": [
+    -72.919492,
+    41.303936,
+    -72.919492,
+    41.303936
+],
+  "geometry": {"coordinates":[-72.91949200000001,41.303936],"type":"Point"}
+}

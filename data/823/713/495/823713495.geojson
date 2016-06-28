@@ -1,0 +1,79 @@
+{
+  "id": 823713495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43079,41.385624,-73.43079,41.385624",
+    "geom:latitude":41.385624,
+    "geom:longitude":-73.43079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Wixted Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 792 2525",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uQLWUB7Q84dp5Dtjk5pdg_41.385624_-73.430790@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444521,
+    "wof:geomhash":"d894d94ff679d0453f0a06b1622b1b18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823713495
+        }
+    ],
+    "wof:id":823713495,
+    "wof:lastmodified":1466424365,
+    "wof:name":"Trojan Horse Sanitation",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.43079,
+    41.385624,
+    -73.43079,
+    41.385624
+],
+  "geometry": {"coordinates":[-73.43079,41.385624],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 823689169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031734,41.225325,-73.031734,41.225325",
+    "geom:latitude":41.225325,
+    "geom:longitude":-73.031734,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"524 New Haven Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 877 3597",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85834207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MWrlnyIjFxj1CVkM9BiU3_41.225325_-73.031734@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443994,
+    "wof:geomhash":"74a70fce0c3fc7d30fd9e91de36ef22c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823689169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85834207,
+            "region_id":85688629,
+            "venue_id":823689169
+        }
+    ],
+    "wof:id":823689169,
+    "wof:lastmodified":1466424075,
+    "wof:name":"New Haven Ave Shell LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -73.031734,
+    41.225325,
+    -73.031734,
+    41.225325
+],
+  "geometry": {"coordinates":[-73.031734,41.225325],"type":"Point"}
+}

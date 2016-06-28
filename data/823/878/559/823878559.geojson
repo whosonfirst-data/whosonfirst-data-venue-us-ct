@@ -1,0 +1,73 @@
+{
+  "id": 823878559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.255194,41.305553,-73.255194,41.305553",
+    "geom:latitude":41.305553,
+    "geom:longitude":-73.255194,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"236 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 459 4778",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xxWv9rNJL8zmPlTqwErzv_41.305553_-73.255194@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448942,
+    "wof:geomhash":"e98452951896d276a6baea5455c22857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823878559
+        }
+    ],
+    "wof:id":823878559,
+    "wof:lastmodified":1466425838,
+    "wof:name":"A B Reilly Landscape Svc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.255194,
+    41.305553,
+    -73.255194,
+    41.305553
+],
+  "geometry": {"coordinates":[-73.255194,41.305553],"type":"Point"}
+}

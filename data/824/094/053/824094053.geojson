@@ -1,0 +1,71 @@
+{
+  "id": 824094053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.887802,41.757,-72.887802,41.757",
+    "geom:latitude":41.757,
+    "geom:longitude":-72.887802,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Mill St Ste 1",
+    "sg:city":"Unionville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 3219",
+    "sg:postcode":"06085",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10h019ZniSF9DdENxZATsy_41.757000_-72.887802@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454191,
+    "wof:geomhash":"c11a0f53721a136195838aeb17a07559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824094053
+        }
+    ],
+    "wof:id":824094053,
+    "wof:lastmodified":1466422875,
+    "wof:name":"Ryan Pharmacy",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -72.887802,
+    41.757,
+    -72.887802,
+    41.757
+],
+  "geometry": {"coordinates":[-72.88780199999999,41.757],"type":"Point"}
+}

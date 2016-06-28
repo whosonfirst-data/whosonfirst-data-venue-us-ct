@@ -1,0 +1,71 @@
+{
+  "id": 823670245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.436938,41.806018,-72.436938,41.806018",
+    "geom:latitude":41.806018,
+    "geom:longitude":-72.436938,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"802 Bolton Rd",
+    "sg:city":"Vernon Rockville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06066",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868767,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I5wKpI5eCbfhYenxFiADd_41.806018_-72.436938@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443577,
+    "wof:geomhash":"f19b29ef3b638296d02de2ee82a68c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85868767,
+            "region_id":85688629,
+            "venue_id":823670245
+        }
+    ],
+    "wof:id":823670245,
+    "wof:lastmodified":1466423974,
+    "wof:name":"Harvey Pastel MD",
+    "wof:parent_id":85868767,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.436938,
+    41.806018,
+    -72.436938,
+    41.806018
+],
+  "geometry": {"coordinates":[-72.436938,41.806018],"type":"Point"}
+}

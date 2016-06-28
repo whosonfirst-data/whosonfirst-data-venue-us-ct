@@ -1,0 +1,91 @@
+{
+  "id": 824009819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.411651,41.119946,-73.411651,41.119946",
+    "geom:latitude":41.119946,
+    "geom:longitude":-73.411651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 High St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 838 2087",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "gourmet",
+        "shop"
+    ],
+    "sg:website":"www.scandiafood.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z59jSkQ9bNffBj6BAJKEN_41.119946_-73.411651@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452194,
+    "wof:geomhash":"a4657ebb821d0eda18c41cff72a45cd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":824009819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879317,
+            "region_id":85688629,
+            "venue_id":824009819
+        }
+    ],
+    "wof:id":824009819,
+    "wof:lastmodified":1466421311,
+    "wof:name":"Scandia Food & Gifts Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gourmet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.411651,
+    41.119946,
+    -73.411651,
+    41.119946
+],
+  "geometry": {"coordinates":[-73.41165100000001,41.119946],"type":"Point"}
+}

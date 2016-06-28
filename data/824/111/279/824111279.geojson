@@ -1,0 +1,86 @@
+{
+  "id": 824111279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.036633,41.509472,-73.036633,41.509472",
+    "geom:latitude":41.509472,
+    "geom:longitude":-73.036633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Brittany Ln",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 723 7408",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842181,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z1d5UeabGD5pxLMrT46qj_41.509472_-73.036633@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454575,
+    "wof:geomhash":"4c17c66dc85ba728494bc9af212d11fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85842181,
+            "region_id":85688629,
+            "venue_id":824111279
+        }
+    ],
+    "wof:id":824111279,
+    "wof:lastmodified":1466423111,
+    "wof:name":"The Original Concrete Crafter Inc",
+    "wof:parent_id":85842181,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.036633,
+    41.509472,
+    -73.036633,
+    41.509472
+],
+  "geometry": {"coordinates":[-73.03663299999999,41.509472],"type":"Point"}
+}

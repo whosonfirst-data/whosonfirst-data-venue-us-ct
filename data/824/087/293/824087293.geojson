@@ -1,0 +1,93 @@
+{
+  "id": 824087293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.898229,41.826586,-72.898229,41.826586",
+    "geom:latitude":41.826586,
+    "geom:longitude":-72.898229,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 Albany Tpke",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 9284",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Wdq0IzClWCIOtoALbfDOh_41.826586_-72.898229@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454027,
+    "wof:geomhash":"8fcb3d23a3e63aca59316043e648548e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824087293
+        }
+    ],
+    "wof:id":824087293,
+    "wof:lastmodified":1466422650,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.898229,
+    41.826586,
+    -72.898229,
+    41.826586
+],
+  "geometry": {"coordinates":[-72.898229,41.826586],"type":"Point"}
+}

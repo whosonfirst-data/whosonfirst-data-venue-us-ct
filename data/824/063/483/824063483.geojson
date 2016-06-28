@@ -1,0 +1,80 @@
+{
+  "id": 824063483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.55315,41.040762,-73.55315,41.040762",
+    "geom:latitude":41.040762,
+    "geom:longitude":-73.55315,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"144 Selleck St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 978 9050",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "builder",
+        "deck"
+    ],
+    "sg:website":"www.archadeck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881173,
+        102191575,
+        404495949,
+        85633793,
+        85930945,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H8ZX7xGNIIlvVzdtETVga_41.040762_-73.553150@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453461,
+    "wof:geomhash":"d5f99b2a13d31f154300d83a8815b701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930945,
+            "neighbourhood_id":85881173,
+            "region_id":85688629,
+            "venue_id":824063483
+        }
+    ],
+    "wof:id":824063483,
+    "wof:lastmodified":1466422210,
+    "wof:name":"Archadeck",
+    "wof:parent_id":85881173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "deck"
+    ]
+},
+  "bbox": [
+    -73.55315,
+    41.040762,
+    -73.55315,
+    41.040762
+],
+  "geometry": {"coordinates":[-73.55315,41.040762],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823581343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.607752,41.872591,-72.607752,41.872591",
+    "geom:latitude":41.872591,
+    "geom:longitude":-72.607752,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"287 S Main St",
+    "sg:city":"East Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 292 1016",
+    "sg:postcode":"06088",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YS8JIz7nTSf3z7iuRnJks_41.872591_-72.607752@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441452,
+    "wof:geomhash":"8896dc7b3f30e2f9db9c92897fdfb064",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823581343
+        }
+    ],
+    "wof:id":823581343,
+    "wof:lastmodified":1466423085,
+    "wof:name":"Butchery",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.607752,
+    41.872591,
+    -72.607752,
+    41.872591
+],
+  "geometry": {"coordinates":[-72.607752,41.872591],"type":"Point"}
+}

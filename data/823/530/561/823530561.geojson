@@ -1,0 +1,71 @@
+{
+  "id": 823530561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528703,41.127212,-73.528703,41.127212",
+    "geom:latitude":41.127212,
+    "geom:longitude":-73.528703,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Davenport Farm Ln E",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 8366",
+    "sg:postcode":"06903",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z7wzbDB1jaHf75XSOOWq2_41.127212_-73.528703@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440263,
+    "wof:geomhash":"73a57dad91f0421aef8a5521c337103c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85842701,
+            "region_id":85688629,
+            "venue_id":823530561
+        }
+    ],
+    "wof:id":823530561,
+    "wof:lastmodified":1466422268,
+    "wof:name":"Colonial Contractors LLC",
+    "wof:parent_id":85842701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.528703,
+    41.127212,
+    -73.528703,
+    41.127212
+],
+  "geometry": {"coordinates":[-73.52870299999999,41.127212],"type":"Point"}
+}

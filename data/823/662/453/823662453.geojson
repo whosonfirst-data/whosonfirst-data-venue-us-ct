@@ -1,0 +1,71 @@
+{
+  "id": 823662453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.435352,41.443347,-73.435352,41.443347",
+    "geom:latitude":41.443347,
+    "geom:longitude":-73.435352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Laura Dr",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3djiyY19WHf8yGR3XZFYm3_41.443347_-73.435352@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443399,
+    "wof:geomhash":"9561ee1ba850d3df12581bcf4f71eb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823662453
+        }
+    ],
+    "wof:id":823662453,
+    "wof:lastmodified":1466423880,
+    "wof:name":"Preferred Maintenance Inc",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.435352,
+    41.443347,
+    -73.435352,
+    41.443347
+],
+  "geometry": {"coordinates":[-73.43535199999999,41.443347],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 824111629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031186,41.677349,-73.031186,41.677349",
+    "geom:latitude":41.677349,
+    "geom:longitude":-73.031186,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"436 Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 5265",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bus",
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t2v2H993Uat0uo2PsOvWA_41.677349_-73.031186@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454583,
+    "wof:geomhash":"d509bfe0e2dc4958946fb2169ca17660",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824111629
+        }
+    ],
+    "wof:id":824111629,
+    "wof:lastmodified":1466423126,
+    "wof:name":"Wollenberg's Inc",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -73.031186,
+    41.677349,
+    -73.031186,
+    41.677349
+],
+  "geometry": {"coordinates":[-73.03118600000001,41.677349],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823890881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597857,41.675465,-72.597857,41.675465",
+    "geom:latitude":41.675465,
+    "geom:longitude":-72.597857,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"86 Chestnut Hill Rd",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 8826",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ovZXTbqbtsLq8zpM3Ldn2_41.675465_-72.597857@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449230,
+    "wof:geomhash":"4619b0f8602a3f244122b30ebb5364e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823890881
+        }
+    ],
+    "wof:id":823890881,
+    "wof:lastmodified":1466425977,
+    "wof:name":"Fuller Property",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.597857,
+    41.675465,
+    -72.597857,
+    41.675465
+],
+  "geometry": {"coordinates":[-72.597857,41.675465],"type":"Point"}
+}

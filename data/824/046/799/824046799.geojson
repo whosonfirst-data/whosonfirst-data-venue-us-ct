@@ -1,0 +1,73 @@
+{
+  "id": 824046799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.327013,41.324515,-72.327013,41.324515",
+    "geom:latitude":41.324515,
+    "geom:longitude":-72.327013,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Lyme St",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85831737,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17cMGQokjSABINmlOtPqO1_41.324515_-72.327013@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453076,
+    "wof:geomhash":"677dee4077019147020d55993b99ea27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85831737,
+            "region_id":85688629,
+            "venue_id":824046799
+        }
+    ],
+    "wof:id":824046799,
+    "wof:lastmodified":1466421966,
+    "wof:name":"Old Lyme Inn Inc",
+    "wof:parent_id":85831737,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.327013,
+    41.324515,
+    -72.327013,
+    41.324515
+],
+  "geometry": {"coordinates":[-72.32701299999999,41.324515],"type":"Point"}
+}

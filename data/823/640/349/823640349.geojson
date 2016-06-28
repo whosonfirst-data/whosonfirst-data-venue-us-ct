@@ -1,0 +1,75 @@
+{
+  "id": 823640349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.112053,41.549884,-72.112053,41.549884",
+    "geom:latitude":41.549884,
+    "geom:longitude":-72.112053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"177 Otrobando Ave",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 886 0188",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ArXNuvA2AEKC9U26TMIgX_41.549884_-72.112053@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442864,
+    "wof:geomhash":"14c41c0bb42f6d5a56a123d1ccec4778",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823640349
+        }
+    ],
+    "wof:id":823640349,
+    "wof:lastmodified":1466423644,
+    "wof:name":"Norwichtown Veterinery Hosp",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -72.112053,
+    41.549884,
+    -72.112053,
+    41.549884
+],
+  "geometry": {"coordinates":[-72.112053,41.549884],"type":"Point"}
+}

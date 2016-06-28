@@ -1,0 +1,73 @@
+{
+  "id": 823870055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.063394,41.397309,-73.063394,41.397309",
+    "geom:latitude":41.397309,
+    "geom:longitude":-73.063394,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 New Haven Rd",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instrument",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04B5WUa6kUHD4SVAInEKZh_41.397309_-73.063394@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448739,
+    "wof:geomhash":"9e0294687011bf94f9ff92c6893eb468",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823870055
+        }
+    ],
+    "wof:id":823870055,
+    "wof:lastmodified":1466425728,
+    "wof:name":"A Musical Expression",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "musical"
+    ]
+},
+  "bbox": [
+    -73.063394,
+    41.397309,
+    -73.063394,
+    41.397309
+],
+  "geometry": {"coordinates":[-73.063394,41.397309],"type":"Point"}
+}

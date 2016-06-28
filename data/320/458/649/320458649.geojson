@@ -2,13 +2,14 @@
   "id": 320458649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.518799,41.130638,-73.518799,41.130638",
     "geom:latitude":41.130638,
     "geom:longitude":-73.518799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"568 Frogtown Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":320458649,
-    "wof:lastmodified":1449013920,
+    "wof:lastmodified":1466421124,
     "wof:name":"Brierdesig Net LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "datum"
     ]
 },
-  "bbox": [-73.518799,41.130638,-73.518799,41.130638],
+  "bbox": [
+    -73.518799,
+    41.130638,
+    -73.518799,
+    41.130638
+],
   "geometry": {"coordinates":[-73.518799,41.130638],"type":"Point"}
 }

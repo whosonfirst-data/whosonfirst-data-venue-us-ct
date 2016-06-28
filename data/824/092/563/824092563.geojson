@@ -1,0 +1,90 @@
+{
+  "id": 824092563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.665187,41.952708,-72.665187,41.952708",
+    "geom:latitude":41.952708,
+    "geom:longitude":-72.665187,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1160 South St",
+    "sg:city":"Suffield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 668 1201",
+    "sg:postcode":"06078",
+    "sg:province":"CT",
+    "sg:tags":[
+        "control",
+        "industry",
+        "monitoring",
+        "thermostat",
+        "system"
+    ],
+    "sg:website":"http://www51.honeywell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eZaKITdnLsULyzAApHdvE_41.952708_-72.665187@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454140,
+    "wof:geomhash":"a0b69804fd3efa65a46ddb36da6ab89a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":824092563
+        }
+    ],
+    "wof:id":824092563,
+    "wof:lastmodified":1466422882,
+    "wof:name":"Honeywell",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "industry",
+        "monitoring",
+        "thermostat",
+        "system"
+    ]
+},
+  "bbox": [
+    -72.665187,
+    41.952708,
+    -72.665187,
+    41.952708
+],
+  "geometry": {"coordinates":[-72.665187,41.952708],"type":"Point"}
+}

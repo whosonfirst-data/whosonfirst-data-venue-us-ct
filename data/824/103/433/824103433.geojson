@@ -1,0 +1,82 @@
+{
+  "id": 824103433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.821819,41.529826,-72.821819,41.529826",
+    "geom:latitude":41.529826,
+    "geom:longitude":-72.821819,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"587 Hanover Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 630 2951",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bakers-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yX71c3JDFXIccYcil7x1v_41.529826_-72.821819@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454411,
+    "wof:geomhash":"06d00a0e38a10597bb359eb75a4bd2a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":824103433
+        }
+    ],
+    "wof:id":824103433,
+    "wof:lastmodified":1466423039,
+    "wof:name":"Albert's Bakery",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakers-wholesale"
+    ]
+},
+  "bbox": [
+    -72.821819,
+    41.529826,
+    -72.821819,
+    41.529826
+],
+  "geometry": {"coordinates":[-72.821819,41.529826],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823512385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.817308,41.285946,-72.817308,41.285946",
+    "geom:latitude":41.285946,
+    "geom:longitude":-72.817308,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"117 N Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 0800",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LZVG3fVC6n1l783BmoWl3_41.285946_-72.817308@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439841,
+    "wof:geomhash":"c29cd98ca61654251b92da15f37b068b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823512385
+        }
+    ],
+    "wof:id":823512385,
+    "wof:lastmodified":1466421984,
+    "wof:name":"A & M Svc Station",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.817308,
+    41.285946,
+    -72.817308,
+    41.285946
+],
+  "geometry": {"coordinates":[-72.817308,41.285946],"type":"Point"}
+}

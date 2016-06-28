@@ -2,13 +2,14 @@
   "id": 354328241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50007,41.155193,-73.50007,41.155193",
     "geom:latitude":41.155193,
     "geom:longitude":-73.50007,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"179 Oenoke Ridge",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354328241,
-    "wof:lastmodified":1449066948,
+    "wof:lastmodified":1466421136,
     "wof:name":"Maples Inn The",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-73.50007,41.155193,-73.50007,41.155193],
-  "geometry": {"coordinates":[-73.50007,41.155193],"type":"Point"}
+  "bbox": [
+    -73.50007,
+    41.155193,
+    -73.50007,
+    41.155193
+],
+  "geometry": {"coordinates":[-73.50006999999999,41.155193],"type":"Point"}
 }

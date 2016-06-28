@@ -1,0 +1,66 @@
+{
+  "id": 824106561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.085871,41.396482,-73.085871,41.396482",
+    "geom:latitude":41.396482,
+    "geom:longitude":-73.085871,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"225 West St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 2466",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jdvmIHDRAgtxfvQfjeX6e_41.396482_-73.085871@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454477,
+    "wof:geomhash":"8a676af62b69d4c0208ce514fb9514f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":824106561
+        }
+    ],
+    "wof:id":824106561,
+    "wof:lastmodified":1466423091,
+    "wof:name":"Body Shoppe Salon",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.085871,
+    41.396482,
+    -73.085871,
+    41.396482
+],
+  "geometry": {"coordinates":[-73.085871,41.396482],"type":"Point"}
+}

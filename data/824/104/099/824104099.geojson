@@ -1,0 +1,83 @@
+{
+  "id": 824104099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214772,41.31836,-73.214772,41.31836",
+    "geom:latitude":41.31836,
+    "geom:longitude":-73.214772,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"535 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 2265",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59yA7KocK1AUmVCCxwI02h_41.318360_-73.214772@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454423,
+    "wof:geomhash":"21a35c0394ae353aacb173fd42cdc47a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824104099
+        }
+    ],
+    "wof:id":824104099,
+    "wof:lastmodified":1466423059,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -73.214772,
+    41.31836,
+    -73.214772,
+    41.31836
+],
+  "geometry": {"coordinates":[-73.214772,41.31836],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824045961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.096455,41.640721,-73.096455,41.640721",
+    "geom:latitude":41.640721,
+    "geom:longitude":-73.096455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"222 Bidwell Hill Rd",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 945 0057",
+    "sg:postcode":"06795",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44w8GEW9aboxfjptUhGbSW_41.640721_-73.096455@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453060,
+    "wof:geomhash":"85e93e259613b1bfb4ddb77bfac21c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824045961
+        }
+    ],
+    "wof:id":824045961,
+    "wof:lastmodified":1466421993,
+    "wof:name":"Select Outdoor",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.096455,
+    41.640721,
+    -73.096455,
+    41.640721
+],
+  "geometry": {"coordinates":[-73.09645500000001,41.640721],"type":"Point"}
+}

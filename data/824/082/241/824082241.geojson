@@ -1,0 +1,90 @@
+{
+  "id": 824082241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.47212,41.075159,-73.47212,41.075159",
+    "geom:latitude":41.075159,
+    "geom:longitude":-73.47212,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1041 Post Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/darien/25312-uncles-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 9701",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUMmuamR3S2XuReNb72ka_41.075015_-73.472537@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453900,
+    "wof:geomhash":"2dd591c9286c101b63595ee4ee7a2d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":824082241
+        }
+    ],
+    "wof:id":824082241,
+    "wof:lastmodified":1466422624,
+    "wof:name":"Uncle's Deli",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.47212,
+    41.075159,
+    -73.47212,
+    41.075159
+],
+  "geometry": {"coordinates":[-73.47212,41.075159],"type":"Point"}
+}

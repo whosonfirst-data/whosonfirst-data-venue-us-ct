@@ -1,0 +1,83 @@
+{
+  "id": 823701623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.035961,41.864919,-73.035961,41.864919",
+    "geom:latitude":41.864919,
+    "geom:longitude":-73.035961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"530 Niles Rd",
+    "sg:city":"New Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 738 0392",
+    "sg:postcode":"06057",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hog",
+        "egg",
+        "or",
+        "feedlot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835175,
+        102191575,
+        404495849,
+        85633793,
+        85931209,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IMO0tENQPSDQxyfAuV8FJ_41.864919_-73.035961@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444273,
+    "wof:geomhash":"63761fcaa7cb704d8613d040c1b0293d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404495849,
+            "locality_id":85931209,
+            "neighbourhood_id":85835175,
+            "region_id":85688629,
+            "venue_id":823701623
+        }
+    ],
+    "wof:id":823701623,
+    "wof:lastmodified":1466424263,
+    "wof:name":"Green Acres Farm",
+    "wof:parent_id":85835175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hog",
+        "egg",
+        "or",
+        "feedlot"
+    ]
+},
+  "bbox": [
+    -73.035961,
+    41.864919,
+    -73.035961,
+    41.864919
+],
+  "geometry": {"coordinates":[-73.035961,41.864919],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823476001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.108558,41.425105,-73.108558,41.425105",
+    "geom:latitude":41.425105,
+    "geom:longitude":-73.108558,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 7111",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hBuU23xGiQuRXOo5qGj9Y_41.425105_-73.108558@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438978,
+    "wof:geomhash":"cbe11fbec53aff1d3371ff5d4df03217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823476001
+        }
+    ],
+    "wof:id":823476001,
+    "wof:lastmodified":1466421253,
+    "wof:name":"Divine Realty",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.108558,
+    41.425105,
+    -73.108558,
+    41.425105
+],
+  "geometry": {"coordinates":[-73.108558,41.425105],"type":"Point"}
+}

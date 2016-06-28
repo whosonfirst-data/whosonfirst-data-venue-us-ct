@@ -1,0 +1,73 @@
+{
+  "id": 823606105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.808529,41.279581,-72.808529,41.279581",
+    "geom:latitude":41.279581,
+    "geom:longitude":-72.808529,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Wilford Ave",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 1086",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fSioCsjDHs835wSBhBTSd_41.279581_-72.808529@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442048,
+    "wof:geomhash":"242c2bb6ab228b6fc717520c2c189a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823606105
+        }
+    ],
+    "wof:id":823606105,
+    "wof:lastmodified":1466423358,
+    "wof:name":"Hally's Cleaning & Waxing Svc",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.808529,
+    41.279581,
+    -72.808529,
+    41.279581
+],
+  "geometry": {"coordinates":[-72.80852899999999,41.279581],"type":"Point"}
+}

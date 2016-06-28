@@ -1,0 +1,77 @@
+{
+  "id": 824013985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.393215,41.125357,-73.393215,41.125357",
+    "geom:latitude":41.125357,
+    "geom:longitude":-73.393215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"350 Westport Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 847 5875",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879315,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06dCY1nPZnUQg2fCOvlRpK_41.125357_-73.393215@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452292,
+    "wof:geomhash":"41c3478ca507fdef40906b9718dad217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879315,
+            "region_id":85688629,
+            "venue_id":824013985
+        }
+    ],
+    "wof:id":824013985,
+    "wof:lastmodified":1466421370,
+    "wof:name":"Strawberry Hill Animal Hosp",
+    "wof:parent_id":85879315,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -73.393215,
+    41.125357,
+    -73.393215,
+    41.125357
+],
+  "geometry": {"coordinates":[-73.393215,41.125357],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823903913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248289,41.30458,-73.248289,41.30458",
+    "geom:latitude":41.30458,
+    "geom:longitude":-73.248289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"454 Purdy Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 3768",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aFwhwLcPo2tN8mEOtANWP_41.304580_-73.248289@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449569,
+    "wof:geomhash":"bf946f71b8fcb062e3376174426634a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823903913
+        }
+    ],
+    "wof:id":823903913,
+    "wof:lastmodified":1466426020,
+    "wof:name":"Wolfe Park",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -73.248289,
+    41.30458,
+    -73.248289,
+    41.30458
+],
+  "geometry": {"coordinates":[-73.248289,41.30458],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823821855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.91185,41.314341,-72.91185,41.314341",
+    "geom:latitude":41.314341,
+    "geom:longitude":-72.91185,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"892 State St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 2938",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cOFeC0nJfaNhNZ1lXoxi2_41.314341_-72.911850@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447345,
+    "wof:geomhash":"782e512f1f9d0b3093f3f8dc27ef2948",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823821855
+        }
+    ],
+    "wof:id":823821855,
+    "wof:lastmodified":1466425338,
+    "wof:name":"Humphrey State Fish Market",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.91185,
+    41.314341,
+    -72.91185,
+    41.314341
+],
+  "geometry": {"coordinates":[-72.91185,41.314341],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 823910245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417094,41.373517,-73.417094,41.373517",
+    "geom:latitude":41.373517,
+    "geom:longitude":-73.417094,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Grand St",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 1500",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cargo",
+        "charter",
+        "leasing",
+        "for",
+        "passenger",
+        "aircraft"
+    ],
+    "sg:website":"www.aircargoassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11fbKaTlPKLn9hcrKlhOMA_41.373517_-73.417094@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449753,
+    "wof:geomhash":"3098045b084fcf99082fd8619e91424b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823910245
+        }
+    ],
+    "wof:id":823910245,
+    "wof:lastmodified":1466426283,
+    "wof:name":"Air Cargo Associates Inc",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "charter",
+        "leasing",
+        "for",
+        "passenger",
+        "aircraft"
+    ]
+},
+  "bbox": [
+    -73.417094,
+    41.373517,
+    -73.417094,
+    41.373517
+],
+  "geometry": {"coordinates":[-73.41709400000001,41.373517],"type":"Point"}
+}

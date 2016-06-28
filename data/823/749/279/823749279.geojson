@@ -1,0 +1,75 @@
+{
+  "id": 823749279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.102437,41.514574,-72.102437,41.514574",
+    "geom:latitude":41.514574,
+    "geom:longitude":-72.102437,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Norman Rd",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 889 7677",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85851993
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZFshqVYSEqme1jA0m7L1P_41.514574_-72.102437@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445369,
+    "wof:geomhash":"173d589cc730edb89ca602bccb0c1e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85851993,
+            "region_id":85688629,
+            "venue_id":823749279
+        }
+    ],
+    "wof:id":823749279,
+    "wof:lastmodified":1466424716,
+    "wof:name":"Chase Manor Apartments",
+    "wof:parent_id":85851993,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.102437,
+    41.514574,
+    -72.102437,
+    41.514574
+],
+  "geometry": {"coordinates":[-72.10243699999999,41.514574],"type":"Point"}
+}

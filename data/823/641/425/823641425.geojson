@@ -1,0 +1,92 @@
+{
+  "id": 823641425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.032556,41.225112,-73.032556,41.225112",
+    "geom:latitude":41.225112,
+    "geom:longitude":-73.032556,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"503 New Haven Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 3802",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85819849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TpzKPbw2xcNlEnORCewqx_41.225112_-73.032556@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442885,
+    "wof:geomhash":"ebc845122ea3b75e2a6871b692e497f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823641425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823641425
+        }
+    ],
+    "wof:id":823641425,
+    "wof:lastmodified":1466423658,
+    "wof:name":"Connecticut Auto Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.032556,
+    41.225112,
+    -73.032556,
+    41.225112
+],
+  "geometry": {"coordinates":[-73.032556,41.225112],"type":"Point"}
+}

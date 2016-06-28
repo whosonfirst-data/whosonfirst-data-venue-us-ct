@@ -1,0 +1,80 @@
+{
+  "id": 823903207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.136576,41.333718,-73.136576,41.333718",
+    "geom:latitude":41.333718,
+    "geom:longitude":-73.136576,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"153 Leavenworth Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 8629",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "video",
+        "audio",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52S73KdwvOBLZYbkLPPl5K_41.333718_-73.136576@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449551,
+    "wof:geomhash":"f711105a2ad5954bb31e41ee79ec37fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823903207
+        }
+    ],
+    "wof:id":823903207,
+    "wof:lastmodified":1466426011,
+    "wof:name":"Audio Video Environments",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "audio",
+        "tape"
+    ]
+},
+  "bbox": [
+    -73.136576,
+    41.333718,
+    -73.136576,
+    41.333718
+],
+  "geometry": {"coordinates":[-73.13657600000001,41.333718],"type":"Point"}
+}

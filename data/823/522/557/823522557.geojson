@@ -1,0 +1,77 @@
+{
+  "id": 823522557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417252,41.092031,-73.417252,41.092031",
+    "geom:latitude":41.092031,
+    "geom:longitude":-73.417252,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Woodward Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 852 9113",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gXHnHJxoVA4lK80g3mrhN_41.092031_-73.417252@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440080,
+    "wof:geomhash":"07ca80104256e69b15b439149b603ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":823522557
+        }
+    ],
+    "wof:id":823522557,
+    "wof:lastmodified":1466422191,
+    "wof:name":"East Avenue Towing",
+    "wof:parent_id":85849909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -73.417252,
+    41.092031,
+    -73.417252,
+    41.092031
+],
+  "geometry": {"coordinates":[-73.417252,41.092031],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823533289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.532041,41.988267,-72.532041,41.988267",
+    "geom:latitude":41.988267,
+    "geom:longitude":-72.532041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Mill St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 763 2166",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet",
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g0UR7DJxlv86KaibMHUee_41.988267_-72.532041@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440318,
+    "wof:geomhash":"3b0f17b0ce3157066ba7706741dfbb0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":823533289
+        }
+    ],
+    "wof:id":823533289,
+    "wof:lastmodified":1466422250,
+    "wof:name":"Top Dog Grooming",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "salon"
+    ]
+},
+  "bbox": [
+    -72.532041,
+    41.988267,
+    -72.532041,
+    41.988267
+],
+  "geometry": {"coordinates":[-72.53204100000001,41.988267],"type":"Point"}
+}

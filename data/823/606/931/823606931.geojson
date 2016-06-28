@@ -1,0 +1,73 @@
+{
+  "id": 823606931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.382762,41.487641,-73.382762,41.487641",
+    "geom:latitude":41.487641,
+    "geom:longitude":-73.382762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Hidden Brook Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 1887",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UQXT2GSPzOpnrLY75wbhF_41.487641_-73.382762@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442064,
+    "wof:geomhash":"4c8c5b3c1ae214713378cbf9b8234f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823606931
+        }
+    ],
+    "wof:id":823606931,
+    "wof:lastmodified":1466423436,
+    "wof:name":"American Home & Building",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -73.382762,
+    41.487641,
+    -73.382762,
+    41.487641
+],
+  "geometry": {"coordinates":[-73.382762,41.487641],"type":"Point"}
+}

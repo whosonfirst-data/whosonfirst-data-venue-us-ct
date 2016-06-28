@@ -1,0 +1,88 @@
+{
+  "id": 824117273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.418053,41.116779,-73.418053,41.116779",
+    "geom:latitude":41.116779,
+    "geom:longitude":-73.418053,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Byington Pl",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 810 4100",
+    "sg:postcode":"06850",
+    "sg:province":"CT",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yMezXHZnD7DhiD2wDEws5_41.116779_-73.418053@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454709,
+    "wof:geomhash":"d11ecd9b4445bf184f231a3f9cf800fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":824117273
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":824117273
+        }
+    ],
+    "wof:id":824117273,
+    "wof:lastmodified":1466423288,
+    "wof:name":"The Salvation Army",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -73.418053,
+    41.116779,
+    -73.418053,
+    41.116779
+],
+  "geometry": {"coordinates":[-73.418053,41.116779],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823539325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.281929,41.42145,-73.281929,41.42145",
+    "geom:latitude":41.42145,
+    "geom:longitude":-73.281929,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Glen Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 4335",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M1DQ2KQEITGlYts78LqTM_41.421450_-73.281929@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440455,
+    "wof:geomhash":"c33a5532a45f33edac4e0c39320abb99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823539325
+        }
+    ],
+    "wof:id":823539325,
+    "wof:lastmodified":1466422374,
+    "wof:name":"Youth Services In Newtown",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.281929,
+    41.42145,
+    -73.281929,
+    41.42145
+],
+  "geometry": {"coordinates":[-73.28192900000001,41.42145],"type":"Point"}
+}

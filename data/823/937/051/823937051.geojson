@@ -1,0 +1,73 @@
+{
+  "id": 823937051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.440977,41.857289,-72.440977,41.857289",
+    "geom:latitude":41.857289,
+    "geom:longitude":-72.440977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 South St",
+    "sg:city":"Vernon Rockville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 871 0189",
+    "sg:postcode":"06066",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843433,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54ZROl9mMtVFc5ESm0ZH62_41.857289_-72.440977@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450456,
+    "wof:geomhash":"c39627e62f4880397584abbec6d70685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85843433,
+            "region_id":85688629,
+            "venue_id":823937051
+        }
+    ],
+    "wof:id":823937051,
+    "wof:lastmodified":1466426205,
+    "wof:name":"Michael Bouchard",
+    "wof:parent_id":85843433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.440977,
+    41.857289,
+    -72.440977,
+    41.857289
+],
+  "geometry": {"coordinates":[-72.440977,41.857289],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823808289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.898825,41.394832,-72.898825,41.394832",
+    "geom:latitude":41.394832,
+    "geom:longitude":-72.898825,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Glenham Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 3297",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nvUoaRyq7qjire9dRZ3Ix_41.394832_-72.898825@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446953,
+    "wof:geomhash":"baa93836c79be99d89f26aca8fe5693a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823808289
+        }
+    ],
+    "wof:id":823808289,
+    "wof:lastmodified":1466425185,
+    "wof:name":"Hird Electrical Contractors",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.898825,
+    41.394832,
+    -72.898825,
+    41.394832
+],
+  "geometry": {"coordinates":[-72.898825,41.394832],"type":"Point"}
+}

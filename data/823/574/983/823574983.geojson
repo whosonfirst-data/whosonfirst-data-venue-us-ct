@@ -1,0 +1,66 @@
+{
+  "id": 823574983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.569076,41.767061,-72.569076,41.767061",
+    "geom:latitude":41.767061,
+    "geom:longitude":-72.569076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"205 Spencer St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 646 8462",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RzqysDCkuhhC7AOj6uZyu_41.767061_-72.569076@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441305,
+    "wof:geomhash":"fad11d68c2f96a57688ad88dc6b3574c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823574983
+        }
+    ],
+    "wof:id":823574983,
+    "wof:lastmodified":1466422993,
+    "wof:name":"Ocean State Job Lot",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.569076,
+    41.767061,
+    -72.569076,
+    41.767061
+],
+  "geometry": {"coordinates":[-72.569076,41.767061],"type":"Point"}
+}

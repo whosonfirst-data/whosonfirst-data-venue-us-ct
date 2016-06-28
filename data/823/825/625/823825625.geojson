@@ -1,0 +1,83 @@
+{
+  "id": 823825625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417338,41.110726,-73.417338,41.110726",
+    "geom:latitude":41.110726,
+    "geom:longitude":-73.417338,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"467 West Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 2548",
+    "sg:postcode":"06850",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85879311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ccsDICGHyccS6QCuhOCBW_41.110726_-73.417338@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447468,
+    "wof:geomhash":"2fb9249399a2e715fa7ac2cd95e58786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":823825625
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823825625
+        }
+    ],
+    "wof:id":823825625,
+    "wof:lastmodified":1466425354,
+    "wof:name":"Loehmann's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.417338,
+    41.110726,
+    -73.417338,
+    41.110726
+],
+  "geometry": {"coordinates":[-73.417338,41.110726],"type":"Point"}
+}

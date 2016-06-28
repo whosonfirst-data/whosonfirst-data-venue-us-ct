@@ -1,0 +1,82 @@
+{
+  "id": 823891549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.245957,41.275435,-73.245957,41.275435",
+    "geom:latitude":41.275435,
+    "geom:longitude":-73.245957,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"480 Stonehouse Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 1119",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "home",
+        "contractor",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04jEVQAcgcjPY8mHaLUZ3l_41.275435_-73.245957@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449242,
+    "wof:geomhash":"f7251a7b4891acf3b0b641a893b618b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823891549
+        }
+    ],
+    "wof:id":823891549,
+    "wof:lastmodified":1466425689,
+    "wof:name":"Jacozzi Plumbing and Heating",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "home",
+        "contractor",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -73.245957,
+    41.275435,
+    -73.245957,
+    41.275435
+],
+  "geometry": {"coordinates":[-73.245957,41.275435],"type":"Point"}
+}

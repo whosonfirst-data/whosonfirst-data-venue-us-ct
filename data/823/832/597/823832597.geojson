@@ -1,0 +1,71 @@
+{
+  "id": 823832597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.899284,41.354535,-72.899284,41.354535",
+    "geom:latitude":41.354535,
+    "geom:longitude":-72.899284,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"535 Hartford Tpke",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 0525",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09oOzBoga6HXFlnRDaU5cC_41.354535_-72.899284@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447676,
+    "wof:geomhash":"2b02a4b226f418ac95653ea2564bbf1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823832597
+        }
+    ],
+    "wof:id":823832597,
+    "wof:lastmodified":1466425592,
+    "wof:name":"New England Building Systems",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.899284,
+    41.354535,
+    -72.899284,
+    41.354535
+],
+  "geometry": {"coordinates":[-72.89928399999999,41.354535],"type":"Point"}
+}

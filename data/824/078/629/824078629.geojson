@@ -1,0 +1,74 @@
+{
+  "id": 824078629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.982671,41.341244,-72.982671,41.341244",
+    "geom:latitude":41.341244,
+    "geom:longitude":-72.982671,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"214 Amity Rd",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/woodbridge/144111-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 1218",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FahLvKFEw88sY9LmZ5Qku_41.341244_-72.982671@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453824,
+    "wof:geomhash":"b51c5505576a97b30f65e7fc1cf1aeb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":824078629
+        }
+    ],
+    "wof:id":824078629,
+    "wof:lastmodified":1466422599,
+    "wof:name":"Subway",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.982671,
+    41.341244,
+    -72.982671,
+    41.341244
+],
+  "geometry": {"coordinates":[-72.982671,41.341244],"type":"Point"}
+}

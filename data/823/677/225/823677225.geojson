@@ -1,0 +1,66 @@
+{
+  "id": 823677225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.967887,41.329075,-72.967887,41.329075",
+    "geom:latitude":41.329075,
+    "geom:longitude":-72.967887,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1083 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 6589",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hUzvQHQK8z2MaI5oJsnaD_41.329075_-72.967887@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443730,
+    "wof:geomhash":"05cd2d6fbdeb87192d33b4ad76732b0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823677225
+        }
+    ],
+    "wof:id":823677225,
+    "wof:lastmodified":1466423797,
+    "wof:name":"Westville Realty",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.967887,
+    41.329075,
+    -72.967887,
+    41.329075
+],
+  "geometry": {"coordinates":[-72.967887,41.329075],"type":"Point"}
+}

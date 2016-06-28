@@ -1,0 +1,71 @@
+{
+  "id": 823714213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.929994,41.282776,-72.929994,41.282776",
+    "geom:latitude":41.282776,
+    "geom:longitude":-72.929994,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Howard Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55E0FAlfEwmmgWvUak84Fl_41.282776_-72.929994@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444533,
+    "wof:geomhash":"c927a10243ca4f46b57ef531b1965acc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823714213
+        }
+    ],
+    "wof:id":823714213,
+    "wof:lastmodified":1466424326,
+    "wof:name":"Cmu",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.929994,
+    41.282776,
+    -72.929994,
+    41.282776
+],
+  "geometry": {"coordinates":[-72.92999399999999,41.282776],"type":"Point"}
+}

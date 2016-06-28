@@ -1,0 +1,75 @@
+{
+  "id": 823558919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.434482,41.16682,-73.434482,41.16682",
+    "geom:latitude":41.16682,
+    "geom:longitude":-73.434482,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"432 Belden Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 834 0653",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85848785,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wNeMFwWlM1CMONrD7ZIwr_41.166820_-73.434482@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440908,
+    "wof:geomhash":"7bcfbce6a31b314dcbe7b6ebd5665ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85848785,
+            "region_id":85688629,
+            "venue_id":823558919
+        }
+    ],
+    "wof:id":823558919,
+    "wof:lastmodified":1466422742,
+    "wof:name":"Hamilton Francis J Jr MD",
+    "wof:parent_id":85848785,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.434482,
+    41.16682,
+    -73.434482,
+    41.16682
+],
+  "geometry": {"coordinates":[-73.434482,41.16682],"type":"Point"}
+}

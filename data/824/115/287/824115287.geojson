@@ -1,0 +1,83 @@
+{
+  "id": 824115287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.47937,41.08638,-73.47937,41.08638",
+    "geom:latitude":41.08638,
+    "geom:longitude":-73.47937,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Four Acres Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 656 3065",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rVFz1DKt8ru6lgbNkZfEx_41.086380_-73.479370@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454662,
+    "wof:geomhash":"66987780bb243575c5838da3f3001a58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":824115287
+        }
+    ],
+    "wof:id":824115287,
+    "wof:lastmodified":1466423246,
+    "wof:name":"The Body Method",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -73.47937,
+    41.08638,
+    -73.47937,
+    41.08638
+],
+  "geometry": {"coordinates":[-73.47937,41.08638],"type":"Point"}
+}

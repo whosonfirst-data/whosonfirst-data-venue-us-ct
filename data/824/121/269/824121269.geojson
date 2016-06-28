@@ -1,0 +1,86 @@
+{
+  "id": 824121269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.52466,41.08559,-73.52466,41.08559",
+    "geom:latitude":41.08559,
+    "geom:longitude":-73.52466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 Saint Charles Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 327 4353",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "guitar",
+        "amplifier",
+        "instruction-instrumental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_475xQKiPrwIwrV8K9Bgc59_41.085590_-73.524660@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454788,
+    "wof:geomhash":"cd6f7bd9e433301db3eb8674a1c052b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":824121269
+        }
+    ],
+    "wof:id":824121269,
+    "wof:lastmodified":1466423324,
+    "wof:name":"Rudy Leonetti Guitar Studio",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guitar",
+        "amplifier",
+        "instruction-instrumental"
+    ]
+},
+  "bbox": [
+    -73.52466,
+    41.08559,
+    -73.52466,
+    41.08559
+],
+  "geometry": {"coordinates":[-73.52466,41.08559],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823813257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.302055,41.414438,-73.302055,41.414438",
+    "geom:latitude":41.414438,
+    "geom:longitude":-73.302055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Church Hill Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 8449",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cmA8dIEu27iRzwUNXrBDy_41.414438_-73.302055@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447102,
+    "wof:geomhash":"bd313cf34439ded1da3b8c99611a4c5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823813257
+        }
+    ],
+    "wof:id":823813257,
+    "wof:lastmodified":1466425231,
+    "wof:name":"Church Hill Physical Therapy",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.302055,
+    41.414438,
+    -73.302055,
+    41.414438
+],
+  "geometry": {"coordinates":[-73.302055,41.414438],"type":"Point"}
+}

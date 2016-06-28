@@ -1,0 +1,82 @@
+{
+  "id": 823490087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.452914,41.396581,-73.452914,41.396581",
+    "geom:latitude":41.396581,
+    "geom:longitude":-73.452914,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 7169",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rscbwaKKzcLTctu7vJLsQ_41.396581_-73.452914@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439312,
+    "wof:geomhash":"b5d5e6029987ba1ef28248d8cebd0ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823490087
+        }
+    ],
+    "wof:id":823490087,
+    "wof:lastmodified":1466421481,
+    "wof:name":"Downtown Cut Connections",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.452914,
+    41.396581,
+    -73.452914,
+    41.396581
+],
+  "geometry": {"coordinates":[-73.45291400000001,41.396581],"type":"Point"}
+}

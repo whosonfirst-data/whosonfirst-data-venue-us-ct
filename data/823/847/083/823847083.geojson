@@ -1,0 +1,71 @@
+{
+  "id": 823847083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.680567,41.282249,-72.680567,41.282249",
+    "geom:latitude":41.282249,
+    "geom:longitude":-72.680567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Park St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 8282",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bSwx6WWfV3bqWdrQaZPU2_41.282249_-72.680567@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448137,
+    "wof:geomhash":"f076e660c968f6d6b695c0f386371937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823847083
+        }
+    ],
+    "wof:id":823847083,
+    "wof:lastmodified":1466425506,
+    "wof:name":"Guilford Free Library",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -72.680567,
+    41.282249,
+    -72.680567,
+    41.282249
+],
+  "geometry": {"coordinates":[-72.680567,41.282249],"type":"Point"}
+}

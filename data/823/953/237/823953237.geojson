@@ -1,0 +1,73 @@
+{
+  "id": 823953237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900311,41.335275,-72.900311,41.335275",
+    "geom:latitude":41.335275,
+    "geom:longitude":-72.900311,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1946 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 3444",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uMjPxJmcuuR2rqbgmG4K7_41.335275_-72.900311@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450849,
+    "wof:geomhash":"542b5b877b9ee13a37fc7ebb4c75979c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823953237
+        }
+    ],
+    "wof:id":823953237,
+    "wof:lastmodified":1466426468,
+    "wof:name":"Dance Unlimited",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -72.900311,
+    41.335275,
+    -72.900311,
+    41.335275
+],
+  "geometry": {"coordinates":[-72.900311,41.335275],"type":"Point"}
+}

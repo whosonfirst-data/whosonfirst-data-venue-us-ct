@@ -1,0 +1,82 @@
+{
+  "id": 824082405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.41261,41.099383,-73.41261,41.099383",
+    "geom:latitude":41.099383,
+    "geom:longitude":-73.41261,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"202 Liberty Sq",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwalk/83141-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 854 5777",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ChgeLu2MiGXOMOhBW3EkF_41.099675_-73.412056@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453903,
+    "wof:geomhash":"50bb52a8bfb0bd62548451e8702da198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":824082405
+        }
+    ],
+    "wof:id":824082405,
+    "wof:lastmodified":1466422391,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85849909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.41261,
+    41.099383,
+    -73.41261,
+    41.099383
+],
+  "geometry": {"coordinates":[-73.41261,41.099383],"type":"Point"}
+}

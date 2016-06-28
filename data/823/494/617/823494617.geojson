@@ -1,0 +1,71 @@
+{
+  "id": 823494617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.389639,41.170109,-73.389639,41.170109",
+    "geom:latitude":41.170109,
+    "geom:longitude":-73.389639,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Brenner Ln",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 226 0271",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uHWmSsqEusdqLdB3bdO0a_41.170109_-73.389639@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439421,
+    "wof:geomhash":"34174ccfcf0c93e7d29598e64476e0c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823494617
+        }
+    ],
+    "wof:id":823494617,
+    "wof:lastmodified":1466421596,
+    "wof:name":"Service Master",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.389639,
+    41.170109,
+    -73.389639,
+    41.170109
+],
+  "geometry": {"coordinates":[-73.389639,41.170109],"type":"Point"}
+}

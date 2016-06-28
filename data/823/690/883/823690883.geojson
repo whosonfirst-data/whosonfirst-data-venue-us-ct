@@ -1,0 +1,73 @@
+{
+  "id": 823690883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.426633,41.183029,-73.426633,41.183029",
+    "geom:latitude":41.183029,
+    "geom:longitude":-73.426633,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Horseshoe Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 3823",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821519,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qKH5svKfKCYt9mLwR8ytN_41.183029_-73.426633@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444036,
+    "wof:geomhash":"42632a92a76211bbac65645a8c871c3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85821519,
+            "region_id":85688629,
+            "venue_id":823690883
+        }
+    ],
+    "wof:id":823690883,
+    "wof:lastmodified":1466424156,
+    "wof:name":"Abbott Construction",
+    "wof:parent_id":85821519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.426633,
+    41.183029,
+    -73.426633,
+    41.183029
+],
+  "geometry": {"coordinates":[-73.426633,41.183029],"type":"Point"}
+}

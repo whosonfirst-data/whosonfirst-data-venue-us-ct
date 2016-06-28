@@ -2,13 +2,14 @@
   "id": 320390885,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527359,41.144085,-73.527359,41.144085",
     "geom:latitude":41.144085,
     "geom:longitude":-73.527359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"913 Ponus Ridge",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":320390885,
-    "wof:lastmodified":1449015006,
+    "wof:lastmodified":1466421124,
     "wof:name":"Lynn Dowd Interiors",
     "wof:parent_id":85842701,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.527359,41.144085,-73.527359,41.144085],
+  "bbox": [
+    -73.527359,
+    41.144085,
+    -73.527359,
+    41.144085
+],
   "geometry": {"coordinates":[-73.527359,41.144085],"type":"Point"}
 }

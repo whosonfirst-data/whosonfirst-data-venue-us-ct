@@ -2,13 +2,14 @@
   "id": 370676019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.499406,41.136286,-73.499406,41.136286",
     "geom:latitude":41.136286,
     "geom:longitude":-73.499406,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"128 Marshall Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370676019,
-    "wof:lastmodified":1449031245,
+    "wof:lastmodified":1466421095,
     "wof:name":"New England Academy of Dance",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.499406,41.136286,-73.499406,41.136286],
-  "geometry": {"coordinates":[-73.499406,41.136286],"type":"Point"}
+  "bbox": [
+    -73.499406,
+    41.136286,
+    -73.499406,
+    41.136286
+],
+  "geometry": {"coordinates":[-73.49940599999999,41.136286],"type":"Point"}
 }

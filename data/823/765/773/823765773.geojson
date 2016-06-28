@@ -1,0 +1,73 @@
+{
+  "id": 823765773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.513653,41.112405,-73.513653,41.112405",
+    "geom:latitude":41.112405,
+    "geom:longitude":-73.513653,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 E Cross Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 968 9897",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "material",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YjAO4Oyz1a6d6lCHyyknM_41.112405_-73.513653@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445734,
+    "wof:geomhash":"a3a78fb7e3563ee631ba709c0ee7ddaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":823765773
+        }
+    ],
+    "wof:id":823765773,
+    "wof:lastmodified":1466424874,
+    "wof:name":"Porceglaze",
+    "wof:parent_id":85851779,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "material",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.513653,
+    41.112405,
+    -73.513653,
+    41.112405
+],
+  "geometry": {"coordinates":[-73.51365300000001,41.112405],"type":"Point"}
+}

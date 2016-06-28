@@ -1,0 +1,83 @@
+{
+  "id": 824113505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.447533,41.40329,-73.447533,41.40329",
+    "geom:latitude":41.40329,
+    "geom:longitude":-73.447533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Hospital Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 9225",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dermatology",
+        "physician",
+        "surgeon",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AcSGWYLHZsTyPYqdm4TRD_41.403290_-73.447533@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454628,
+    "wof:geomhash":"37d3450e3f67e7a97dcbe35b99f3aa81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824113505
+        }
+    ],
+    "wof:id":824113505,
+    "wof:lastmodified":1466423079,
+    "wof:name":"Kittay Stuart A MD",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatology",
+        "physician",
+        "surgeon",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -73.447533,
+    41.40329,
+    -73.447533,
+    41.40329
+],
+  "geometry": {"coordinates":[-73.44753300000001,41.40329],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 824117731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.41613,41.098669,-73.41613,41.098669",
+    "geom:latitude":41.098669,
+    "geom:longitude":-73.41613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"144 Water St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Boat Charter",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 5555",
+    "sg:postcode":"06854",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair",
+        "yard",
+        "supply",
+        "equipment",
+        "lift",
+        "maintenance"
+    ],
+    "sg:website":"http://www.rexmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849909,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0seXoyAgDxngTAYQOgqRCV_41.098669_-73.416130@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454720,
+    "wof:geomhash":"df3fbfb15f91feb5175c8724e8fc1a3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":824117731
+        }
+    ],
+    "wof:id":824117731,
+    "wof:lastmodified":1466423325,
+    "wof:name":"Rex Marine Center Inc",
+    "wof:parent_id":85849909,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "yard",
+        "supply",
+        "equipment",
+        "lift",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.41613,
+    41.098669,
+    -73.41613,
+    41.098669
+],
+  "geometry": {"coordinates":[-73.41613,41.098669],"type":"Point"}
+}

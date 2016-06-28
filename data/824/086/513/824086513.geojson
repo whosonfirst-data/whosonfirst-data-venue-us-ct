@@ -1,0 +1,71 @@
+{
+  "id": 824086513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.321441,42.023625,-73.321441,42.023625",
+    "geom:latitude":42.023625,
+    "geom:longitude":-73.321441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 E Main St",
+    "sg:city":"Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 824 8275",
+    "sg:postcode":"06018",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841753,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nO0xmI46M61sPd27pOJ4X_42.023625_-73.321441@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454008,
+    "wof:geomhash":"b68bf9253afe87b515481aff750c13e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85841753,
+            "region_id":85688629,
+            "venue_id":824086513
+        }
+    ],
+    "wof:id":824086513,
+    "wof:lastmodified":1466422791,
+    "wof:name":"Black Forest Bakery & Cafe",
+    "wof:parent_id":85841753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.321441,
+    42.023625,
+    -73.321441,
+    42.023625
+],
+  "geometry": {"coordinates":[-73.32144099999999,42.023625],"type":"Point"}
+}

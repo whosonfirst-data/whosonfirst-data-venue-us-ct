@@ -1,0 +1,71 @@
+{
+  "id": 823664373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.737963,41.345217,-72.737963,41.345217",
+    "geom:latitude":41.345217,
+    "geom:longitude":-72.737963,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Edgewood Dr",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 1316",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00gR0GCVAlE6TIA145JIHS_41.345217_-72.737963@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443444,
+    "wof:geomhash":"604e4bc43a72be722bbcef5fe2ba5fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823664373
+        }
+    ],
+    "wof:id":823664373,
+    "wof:lastmodified":1466423929,
+    "wof:name":"Construction Services",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -72.737963,
+    41.345217,
+    -72.737963,
+    41.345217
+],
+  "geometry": {"coordinates":[-72.73796299999999,41.345217],"type":"Point"}
+}

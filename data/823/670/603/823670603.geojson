@@ -1,0 +1,73 @@
+{
+  "id": 823670603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.840723,41.692854,-72.840723,41.692854",
+    "geom:latitude":41.692854,
+    "geom:longitude":-72.840723,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Forest Hills Dr",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 677 5731",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EqdhJxjwjsazJx8RmWgSK_41.692854_-72.840723@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443583,
+    "wof:geomhash":"7d552cf6772f4cceb234386f9af665c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":823670603
+        }
+    ],
+    "wof:id":823670603,
+    "wof:lastmodified":1466423981,
+    "wof:name":"James B Shea Jr",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.840723,
+    41.692854,
+    -72.840723,
+    41.692854
+],
+  "geometry": {"coordinates":[-72.840723,41.692854],"type":"Point"}
+}

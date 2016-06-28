@@ -2,13 +2,14 @@
   "id": 387870089,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.609377,41.10235,-73.609377,41.10235",
     "geom:latitude":41.10235,
     "geom:longitude":-73.609377,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Stag Ln",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387870089,
-    "wof:lastmodified":1449057102,
+    "wof:lastmodified":1466421108,
     "wof:name":"John S Tamerin MD",
     "wof:parent_id":85844811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-73.609377,41.10235,-73.609377,41.10235],
-  "geometry": {"coordinates":[-73.609377,41.10235],"type":"Point"}
+  "bbox": [
+    -73.609377,
+    41.10235,
+    -73.609377,
+    41.10235
+],
+  "geometry": {"coordinates":[-73.60937699999999,41.10235],"type":"Point"}
 }

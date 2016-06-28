@@ -1,0 +1,66 @@
+{
+  "id": 823834605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.548722,41.709265,-72.548722,41.709265",
+    "geom:latitude":41.709265,
+    "geom:longitude":-72.548722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"248 Candlelight Dr",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 5958",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808271,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MPqjIBdSLVarDuZApD98f_41.709265_-72.548722@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447748,
+    "wof:geomhash":"5e82f9d4d3350cf11119ced98d703d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808271,
+            "region_id":85688629,
+            "venue_id":823834605
+        }
+    ],
+    "wof:id":823834605,
+    "wof:lastmodified":1466425447,
+    "wof:name":"Canine Care",
+    "wof:parent_id":85808271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.548722,
+    41.709265,
+    -72.548722,
+    41.709265
+],
+  "geometry": {"coordinates":[-72.548722,41.709265],"type":"Point"}
+}

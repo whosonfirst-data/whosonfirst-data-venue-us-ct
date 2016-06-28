@@ -1,0 +1,79 @@
+{
+  "id": 823975449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.698201,41.77168,-72.698201,41.77168",
+    "geom:latitude":41.77168,
+    "geom:longitude":-72.698201,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Asylum Ave",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06105",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878017,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fVTAeqvJ2GCZ5e8kzsMGQ_41.771680_-72.698201@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451367,
+    "wof:geomhash":"6d2b8505cda05ffbd5f36241dff36303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878017,
+            "region_id":85688629,
+            "venue_id":823975449
+        }
+    ],
+    "wof:id":823975449,
+    "wof:lastmodified":1466426674,
+    "wof:name":"Walking Clinic",
+    "wof:parent_id":85878017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.698201,
+    41.77168,
+    -72.698201,
+    41.77168
+],
+  "geometry": {"coordinates":[-72.698201,41.77168],"type":"Point"}
+}

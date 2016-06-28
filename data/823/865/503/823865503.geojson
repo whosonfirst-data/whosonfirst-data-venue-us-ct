@@ -1,0 +1,89 @@
+{
+  "id": 823865503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.893672,41.541753,-72.893672,41.541753",
+    "geom:latitude":41.541753,
+    "geom:longitude":-72.893672,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"150 Commerce Ct",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 699 9000",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "control",
+        "plant",
+        "scale",
+        "weighing",
+        "mfg",
+        "except",
+        "bulk",
+        "grain",
+        "laboratory",
+        "balance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826143,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TDeAN6hEIi3BgK0emElnQ_41.541753_-72.893672@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448636,
+    "wof:geomhash":"fc88ea2ff14c680de2d8f8e9fb95926e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826143,
+            "region_id":85688629,
+            "venue_id":823865503
+        }
+    ],
+    "wof:id":823865503,
+    "wof:lastmodified":1466425736,
+    "wof:name":"Compuweigh Automation Inc",
+    "wof:parent_id":85826143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "plant",
+        "scale",
+        "weighing",
+        "mfg",
+        "except",
+        "bulk",
+        "grain",
+        "laboratory",
+        "balance"
+    ]
+},
+  "bbox": [
+    -72.893672,
+    41.541753,
+    -72.893672,
+    41.541753
+],
+  "geometry": {"coordinates":[-72.893672,41.541753],"type":"Point"}
+}

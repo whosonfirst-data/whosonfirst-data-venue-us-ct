@@ -1,0 +1,74 @@
+{
+  "id": 823483741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.281455,41.234266,-73.281455,41.234266",
+    "geom:latitude":41.234266,
+    "geom:longitude":-73.281455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"371 Morehouse Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 2115",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.raybrownelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51fur5wz1QlY1VFbiKcsTB_41.234266_-73.281455@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439161,
+    "wof:geomhash":"44e6df2ad2022349c9098794fb630976",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823483741
+        }
+    ],
+    "wof:id":823483741,
+    "wof:lastmodified":1466421473,
+    "wof:name":"Ray Brown & Son Electrical",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.281455,
+    41.234266,
+    -73.281455,
+    41.234266
+],
+  "geometry": {"coordinates":[-73.28145499999999,41.234266],"type":"Point"}
+}

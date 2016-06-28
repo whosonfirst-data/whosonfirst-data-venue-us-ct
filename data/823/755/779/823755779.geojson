@@ -1,0 +1,83 @@
+{
+  "id": 823755779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.156651,41.184279,-73.156651,41.184279",
+    "geom:latitude":41.184279,
+    "geom:longitude":-73.156651,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Bishop Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 5266",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mNgbcHQkltG9b9MbkPaKz_41.184279_-73.156651@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445532,
+    "wof:geomhash":"c67f06a5b990f8ffcf7926d909f9f08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823755779
+        }
+    ],
+    "wof:id":823755779,
+    "wof:lastmodified":1466424733,
+    "wof:name":"Personnal Touch Auto Salon",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -73.156651,
+    41.184279,
+    -73.156651,
+    41.184279
+],
+  "geometry": {"coordinates":[-73.156651,41.184279],"type":"Point"}
+}

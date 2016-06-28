@@ -2,13 +2,14 @@
   "id": 320225793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496056,41.145408,-73.496056,41.145408",
     "geom:latitude":41.145408,
     "geom:longitude":-73.496056,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 Pine St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":320225793,
-    "wof:lastmodified":1449012432,
+    "wof:lastmodified":1466421123,
     "wof:name":"Redstone7com LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "provider"
     ]
 },
-  "bbox": [-73.496056,41.145408,-73.496056,41.145408],
+  "bbox": [
+    -73.496056,
+    41.145408,
+    -73.496056,
+    41.145408
+],
   "geometry": {"coordinates":[-73.496056,41.145408],"type":"Point"}
 }

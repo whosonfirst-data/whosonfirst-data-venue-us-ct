@@ -1,0 +1,77 @@
+{
+  "id": 823621805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.903922,41.697311,-72.903922,41.697311",
+    "geom:latitude":41.697311,
+    "geom:longitude":-72.903922,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1098 Farmington Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MPvV1qaCFTrNqH43nGXbK_41.697311_-72.903922@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442446,
+    "wof:geomhash":"a751a52bd2fb41b26101153b7e28c994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823621805
+        }
+    ],
+    "wof:id":823621805,
+    "wof:lastmodified":1466423729,
+    "wof:name":"Hartford Dispensary",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.903922,
+    41.697311,
+    -72.903922,
+    41.697311
+],
+  "geometry": {"coordinates":[-72.90392199999999,41.697311],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 824107605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.811906,41.478083,-72.811906,41.478083",
+    "geom:latitude":41.478083,
+    "geom:longitude":-72.811906,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"844 N Colony Rd",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 294 9331",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.littlecaesars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DpmUTKDLgJ4yHshpF8pKl_41.478083_-72.811906@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454500,
+    "wof:geomhash":"482e1d136149673fef369c53445dc849",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":824107605
+        }
+    ],
+    "wof:id":824107605,
+    "wof:lastmodified":1466423074,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.811906,
+    41.478083,
+    -72.811906,
+    41.478083
+],
+  "geometry": {"coordinates":[-72.81190599999999,41.478083],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823945601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.640891,41.753333,-72.640891,41.753333",
+    "geom:latitude":41.753333,
+    "geom:longitude":-72.640891,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"470 Main St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dBQ0JkaaYWsSwUTt78Hyi_41.753333_-72.640891@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450670,
+    "wof:geomhash":"3cb51b4b8c2c9be686e2e7711af09496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":823945601
+        }
+    ],
+    "wof:id":823945601,
+    "wof:lastmodified":1466426425,
+    "wof:name":"Mr Sparkle Car Wash",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -72.640891,
+    41.753333,
+    -72.640891,
+    41.753333
+],
+  "geometry": {"coordinates":[-72.640891,41.753333],"type":"Point"}
+}

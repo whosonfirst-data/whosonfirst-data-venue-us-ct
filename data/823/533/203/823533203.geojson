@@ -1,0 +1,89 @@
+{
+  "id": 823533203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.547599,41.09936,-73.547599,41.09936",
+    "geom:latitude":41.09936,
+    "geom:longitude":-73.547599,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"825 High Ridge Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 968 2910",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "physician",
+        "nonresidential",
+        "medical",
+        "clinic",
+        "operator",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852825,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nbiZG6dxgskOUQj9kSI8u_41.099360_-73.547599@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440315,
+    "wof:geomhash":"fc58c61c3fa42877af34f7c00df7a941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85852825,
+            "region_id":85688629,
+            "venue_id":823533203
+        }
+    ],
+    "wof:id":823533203,
+    "wof:lastmodified":1466422240,
+    "wof:name":"Immediate Medical Care Center",
+    "wof:parent_id":85852825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "physician",
+        "nonresidential",
+        "medical",
+        "clinic",
+        "operator",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.547599,
+    41.09936,
+    -73.547599,
+    41.09936
+],
+  "geometry": {"coordinates":[-73.54759900000001,41.09936],"type":"Point"}
+}

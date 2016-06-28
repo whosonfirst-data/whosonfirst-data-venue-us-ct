@@ -1,0 +1,66 @@
+{
+  "id": 823840267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.265606,41.295545,-73.265606,41.295545",
+    "geom:latitude":41.295545,
+    "geom:longitude":-73.265606,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"149 Sturbridge Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 7974",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tol679k7MO3UqPlpnvcMB_41.295545_-73.265606@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447942,
+    "wof:geomhash":"1c603bd5fab3794b923fc52b68e351bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823840267
+        }
+    ],
+    "wof:id":823840267,
+    "wof:lastmodified":1466425457,
+    "wof:name":"Cedar Village Flower Shop",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.265606,
+    41.295545,
+    -73.265606,
+    41.295545
+],
+  "geometry": {"coordinates":[-73.26560600000001,41.295545],"type":"Point"}
+}

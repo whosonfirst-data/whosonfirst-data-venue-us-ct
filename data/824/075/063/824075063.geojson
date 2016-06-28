@@ -1,0 +1,80 @@
+{
+  "id": 824075063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.642367,41.757381,-72.642367,41.757381",
+    "geom:latitude":41.757381,
+    "geom:longitude":-72.642367,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"441 Main St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/164920-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 568 8171",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TUF78ZXP2DdtdBJHQJ0Go_41.757381_-72.642367@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453737,
+    "wof:geomhash":"5c94b3418024da97a76f92b60f9eb835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824075063
+        }
+    ],
+    "wof:id":824075063,
+    "wof:lastmodified":1466422540,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.642367,
+    41.757381,
+    -72.642367,
+    41.757381
+],
+  "geometry": {"coordinates":[-72.64236699999999,41.757381],"type":"Point"}
+}

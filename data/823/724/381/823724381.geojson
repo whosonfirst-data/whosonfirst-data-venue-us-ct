@@ -1,0 +1,73 @@
+{
+  "id": 823724381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.974211,41.398525,-72.974211,41.398525",
+    "geom:latitude":41.398525,
+    "geom:longitude":-72.974211,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"128 Litchfield Tpke",
+    "sg:city":"Bethany",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 393 9100",
+    "sg:postcode":"06524",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HCtnnJstFWOADA2Wn1eH0_41.398525_-72.974211@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444761,
+    "wof:geomhash":"6420bb9cc80cc52f2a5189dd9c421fca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823724381
+        }
+    ],
+    "wof:id":823724381,
+    "wof:lastmodified":1466424444,
+    "wof:name":"Adult Development",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.974211,
+    41.398525,
+    -72.974211,
+    41.398525
+],
+  "geometry": {"coordinates":[-72.974211,41.398525],"type":"Point"}
+}

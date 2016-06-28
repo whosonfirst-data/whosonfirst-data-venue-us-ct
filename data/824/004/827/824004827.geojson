@@ -1,0 +1,66 @@
+{
+  "id": 824004827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.42735,41.473425,-73.42735,41.473425",
+    "geom:latitude":41.473425,
+    "geom:longitude":-73.42735,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Mist Hill Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 8778",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809225,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GEI75WJZMXLoeIXR3Vsxi_41.473425_-73.427350@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452096,
+    "wof:geomhash":"f42f3a5f016fd39cf1c59f100c73cb54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809225,
+            "region_id":85688629,
+            "venue_id":824004827
+        }
+    ],
+    "wof:id":824004827,
+    "wof:lastmodified":1466421349,
+    "wof:name":"King Landscaping",
+    "wof:parent_id":85809225,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.42735,
+    41.473425,
+    -73.42735,
+    41.473425
+],
+  "geometry": {"coordinates":[-73.42735,41.473425],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823859099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.15712,41.192727,-73.15712,41.192727",
+    "geom:latitude":41.192727,
+    "geom:longitude":-73.15712,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2012 Boston Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 579 0666",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k69v99Cq4aTpgsPN3iWvw_41.192727_-73.157120@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448476,
+    "wof:geomhash":"6cfa9c82d31b9ac9cbd3fc5f98a7e5f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823859099
+        }
+    ],
+    "wof:id":823859099,
+    "wof:lastmodified":1466425645,
+    "wof:name":"Happy Car Place Inc",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -73.15712,
+    41.192727,
+    -73.15712,
+    41.192727
+],
+  "geometry": {"coordinates":[-73.15712000000001,41.192727],"type":"Point"}
+}

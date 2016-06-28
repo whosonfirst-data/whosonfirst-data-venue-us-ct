@@ -1,0 +1,86 @@
+{
+  "id": 824075071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.641285,41.753057,-72.641285,41.753057",
+    "geom:latitude":41.753057,
+    "geom:longitude":-72.641285,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"445 Main St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/91035-dangelo-sandwich-shops/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 569 7633",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vhttsXX2nZCzLq6tu3kpp_41.753057_-72.641285@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453738,
+    "wof:geomhash":"766f91c57189c94729d102c9600aa277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824075071
+        }
+    ],
+    "wof:id":824075071,
+    "wof:lastmodified":1466422541,
+    "wof:name":"D'Angelo Sandwich Shops",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -72.641285,
+    41.753057,
+    -72.641285,
+    41.753057
+],
+  "geometry": {"coordinates":[-72.641285,41.753057],"type":"Point"}
+}

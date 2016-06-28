@@ -1,0 +1,75 @@
+{
+  "id": 823972591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.271268,41.702751,-72.271268,41.702751",
+    "geom:latitude":41.702751,
+    "geom:longitude":-72.271268,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Johnson Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 228 8087",
+    "sg:postcode":"06237",
+    "sg:province":"CT",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931285,
+        102085379,
+        85865199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GdJ5hzq1kmTRNLlean7oi_41.702751_-72.271268@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451306,
+    "wof:geomhash":"69bd5b392b0e215aa1c8b9de4913d55e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931285,
+            "neighbourhood_id":85865199,
+            "region_id":85688629,
+            "venue_id":823972591
+        }
+    ],
+    "wof:id":823972591,
+    "wof:lastmodified":1466426659,
+    "wof:name":"Chez Nous Inc",
+    "wof:parent_id":85865199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.271268,
+    41.702751,
+    -72.271268,
+    41.702751
+],
+  "geometry": {"coordinates":[-72.27126800000001,41.702751],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823996965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.724289,41.33769,-72.724289,41.33769",
+    "geom:latitude":41.33769,
+    "geom:longitude":-72.724289,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2053 Long Hill Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 0447",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838597,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fKlWRSWFXYqhLZWUyWv3K_41.337690_-72.724289@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451917,
+    "wof:geomhash":"83da3c921c116b8161908cf373613c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85838597,
+            "region_id":85688629,
+            "venue_id":823996965
+        }
+    ],
+    "wof:id":823996965,
+    "wof:lastmodified":1466426805,
+    "wof:name":"American Carting Co",
+    "wof:parent_id":85838597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -72.724289,
+    41.33769,
+    -72.724289,
+    41.33769
+],
+  "geometry": {"coordinates":[-72.724289,41.33769],"type":"Point"}
+}

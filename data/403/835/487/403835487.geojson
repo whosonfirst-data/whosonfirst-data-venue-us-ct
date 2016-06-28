@@ -2,13 +2,14 @@
   "id": 403835487,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.466017,41.140086,-73.466017,41.140086",
     "geom:latitude":41.140086,
     "geom:longitude":-73.466017,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"29 Middle Ridge",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403835487,
-    "wof:lastmodified":1449054820,
+    "wof:lastmodified":1466421095,
     "wof:name":"Anthony Sillo & Sons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.466017,41.140086,-73.466017,41.140086],
-  "geometry": {"coordinates":[-73.466017,41.140086],"type":"Point"}
+  "bbox": [
+    -73.466017,
+    41.140086,
+    -73.466017,
+    41.140086
+],
+  "geometry": {"coordinates":[-73.46601699999999,41.140086],"type":"Point"}
 }

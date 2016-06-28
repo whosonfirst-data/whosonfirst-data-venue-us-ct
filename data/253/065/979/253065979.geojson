@@ -2,13 +2,14 @@
   "id": 253065979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.660216,41.010436,-73.660216,41.010436",
     "geom:latitude":41.010436,
     "geom:longitude":-73.660216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"427 Willett Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":253065979,
-    "wof:lastmodified":1449065775,
+    "wof:lastmodified":1466421098,
     "wof:name":"Port Chester Elks Lodge 863",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-73.660216,41.010436,-73.660216,41.010436],
-  "geometry": {"coordinates":[-73.660216,41.010436],"type":"Point"}
+  "bbox": [
+    -73.660216,
+    41.010436,
+    -73.660216,
+    41.010436
+],
+  "geometry": {"coordinates":[-73.66021600000001,41.010436],"type":"Point"}
 }

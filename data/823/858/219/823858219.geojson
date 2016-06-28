@@ -1,0 +1,82 @@
+{
+  "id": 823858219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180579,41.19233,-73.180579,41.19233",
+    "geom:latitude":41.19233,
+    "geom:longitude":-73.180579,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1255 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 1629",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ChWy9JOvmQNjAhB7Rty7s_41.192330_-73.180579@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448460,
+    "wof:geomhash":"e7be73782eb78b443b4a445d95998314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823858219
+        }
+    ],
+    "wof:id":823858219,
+    "wof:lastmodified":1466425657,
+    "wof:name":"St Charles Religious Education",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -73.180579,
+    41.19233,
+    -73.180579,
+    41.19233
+],
+  "geometry": {"coordinates":[-73.18057899999999,41.19233],"type":"Point"}
+}

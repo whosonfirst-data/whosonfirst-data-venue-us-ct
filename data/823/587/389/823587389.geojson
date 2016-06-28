@@ -1,0 +1,94 @@
+{
+  "id": 823587389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.744581,41.691754,-72.744581,41.691754",
+    "geom:latitude":41.691754,
+    "geom:longitude":-72.744581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"56 Maple Hill Ave",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 9737",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "exterior",
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VPskB8nQhiJD8ax1iwODq_41.691754_-72.744581@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441587,
+    "wof:geomhash":"cc6af1e513b1eb0875f6b2b02e96a8f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823587389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823587389
+        }
+    ],
+    "wof:id":823587389,
+    "wof:lastmodified":1466423255,
+    "wof:name":"Bachand J P Waterproofing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "exterior",
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.744581,
+    41.691754,
+    -72.744581,
+    41.691754
+],
+  "geometry": {"coordinates":[-72.744581,41.691754],"type":"Point"}
+}

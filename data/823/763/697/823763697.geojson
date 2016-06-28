@@ -1,0 +1,85 @@
+{
+  "id": 823763697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.780095,41.682323,-72.780095,41.682323",
+    "geom:latitude":41.682323,
+    "geom:longitude":-72.780095,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"224 Allen St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 225 3727",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sporting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85867445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dv8f5NieUHP3GvWLpPYEd_41.682323_-72.780095@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445694,
+    "wof:geomhash":"bd98c94d0f47b6a39e047a69284d0a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823763697
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823763697
+        }
+    ],
+    "wof:id":823763697,
+    "wof:lastmodified":1466424847,
+    "wof:name":"Hardware City Sports",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sporting"
+    ]
+},
+  "bbox": [
+    -72.780095,
+    41.682323,
+    -72.780095,
+    41.682323
+],
+  "geometry": {"coordinates":[-72.780095,41.682323],"type":"Point"}
+}

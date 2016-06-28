@@ -1,0 +1,89 @@
+{
+  "id": 824091221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.790764,41.84192,-72.790764,41.84192",
+    "geom:latitude":41.84192,
+    "geom:longitude":-72.790764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"133 Hartford Rd",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 844 0160",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fence-sales",
+        "vinyl",
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"http://www.hastiefence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841787,
+        102191575,
+        404495997,
+        85633793,
+        85931071,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NniIDmhuG3WUCiVdcqmdN_41.841920_-72.790764@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454113,
+    "wof:geomhash":"6e51b70f699ac007491497d56ba43b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495997,
+            "locality_id":85931071,
+            "neighbourhood_id":85841787,
+            "region_id":85688629,
+            "venue_id":824091221
+        }
+    ],
+    "wof:id":824091221,
+    "wof:lastmodified":1466422835,
+    "wof:name":"Hastie Fence Co",
+    "wof:parent_id":85841787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence-sales",
+        "vinyl",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.790764,
+    41.84192,
+    -72.790764,
+    41.84192
+],
+  "geometry": {"coordinates":[-72.790764,41.84192],"type":"Point"}
+}

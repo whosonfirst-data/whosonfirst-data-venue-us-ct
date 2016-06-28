@@ -2,13 +2,14 @@
   "id": 354262547,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489476,41.139317,-73.489476,41.139317",
     "geom:latitude":41.139317,
     "geom:longitude":-73.489476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13 Harrison Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354262547,
-    "wof:lastmodified":1449066999,
+    "wof:lastmodified":1466421136,
     "wof:name":"Secretary 2000 LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "court"
     ]
 },
-  "bbox": [-73.489476,41.139317,-73.489476,41.139317],
+  "bbox": [
+    -73.489476,
+    41.139317,
+    -73.489476,
+    41.139317
+],
   "geometry": {"coordinates":[-73.489476,41.139317],"type":"Point"}
 }

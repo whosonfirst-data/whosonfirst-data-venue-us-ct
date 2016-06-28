@@ -1,0 +1,73 @@
+{
+  "id": 824006879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.16147,41.32048,-73.16147,41.32048",
+    "geom:latitude":41.32048,
+    "geom:longitude":-73.16147,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"89 Pearmain Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 925 9746",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fruit",
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41e2v2MCGqzRJ604PtBo45_41.320480_-73.161470@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452135,
+    "wof:geomhash":"b698b97361aaa68002599af87e3c85b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824006879
+        }
+    ],
+    "wof:id":824006879,
+    "wof:lastmodified":1466421288,
+    "wof:name":"Beardsley Cider Mill & Orchard",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fruit",
+        "tree"
+    ]
+},
+  "bbox": [
+    -73.16147,
+    41.32048,
+    -73.16147,
+    41.32048
+],
+  "geometry": {"coordinates":[-73.16146999999999,41.32048],"type":"Point"}
+}

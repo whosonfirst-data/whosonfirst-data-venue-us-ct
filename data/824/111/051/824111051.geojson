@@ -1,0 +1,79 @@
+{
+  "id": 824111051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.472627,41.726893,-73.472627,41.726893",
+    "geom:latitude":41.726893,
+    "geom:longitude":-73.472627,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Kent Green Blvd",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 927 3435",
+    "sg:postcode":"06757",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zaLkT9HkBMewMU9p46mxt_41.726893_-73.472627@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454572,
+    "wof:geomhash":"cc149b86bf55a22229a88c633f31d148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":824111051
+        }
+    ],
+    "wof:id":824111051,
+    "wof:lastmodified":1466423102,
+    "wof:name":"Us Post Office",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -73.472627,
+    41.726893,
+    -73.472627,
+    41.726893
+],
+  "geometry": {"coordinates":[-73.472627,41.726893],"type":"Point"}
+}

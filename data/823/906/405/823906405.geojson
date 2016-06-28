@@ -1,0 +1,79 @@
+{
+  "id": 823906405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191339,41.202871,-73.191339,41.202871",
+    "geom:latitude":41.202871,
+    "geom:longitude":-73.191339,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Colonial Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 0482",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KUfWA1pg1GK9T4rUkEFMv_41.202871_-73.191339@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449632,
+    "wof:geomhash":"1f2cf9f0d854402dd2d036f1711d249b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823906405
+        }
+    ],
+    "wof:id":823906405,
+    "wof:lastmodified":1466425980,
+    "wof:name":"Family Motor Pool",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.191339,
+    41.202871,
+    -73.191339,
+    41.202871
+],
+  "geometry": {"coordinates":[-73.191339,41.202871],"type":"Point"}
+}

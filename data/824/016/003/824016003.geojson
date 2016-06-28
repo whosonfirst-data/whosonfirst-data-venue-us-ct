@@ -1,0 +1,71 @@
+{
+  "id": 824016003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212421,41.313893,-73.212421,41.313893",
+    "geom:latitude":41.313893,
+    "geom:longitude":-73.212421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Pepperidge Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 0219",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kxp2tIu9EmqiQiY0S8td6_41.313893_-73.212421@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452337,
+    "wof:geomhash":"bd91e9468cd7cb95d3ace0c242cb6f99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824016003
+        }
+    ],
+    "wof:id":824016003,
+    "wof:lastmodified":1466421660,
+    "wof:name":"Ernandos Landscaping",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -73.212421,
+    41.313893,
+    -73.212421,
+    41.313893
+],
+  "geometry": {"coordinates":[-73.21242100000001,41.313893],"type":"Point"}
+}

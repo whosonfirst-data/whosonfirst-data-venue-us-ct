@@ -2,13 +2,14 @@
   "id": 353866433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.494847,41.148784,-73.494847,41.148784",
     "geom:latitude":41.148784,
     "geom:longitude":-73.494847,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4 Main St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353866433,
-    "wof:lastmodified":1449019473,
+    "wof:lastmodified":1466421133,
     "wof:name":"James W Talbot MD",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-73.494847,41.148784,-73.494847,41.148784],
-  "geometry": {"coordinates":[-73.494847,41.148784],"type":"Point"}
+  "bbox": [
+    -73.494847,
+    41.148784,
+    -73.494847,
+    41.148784
+],
+  "geometry": {"coordinates":[-73.49484699999999,41.148784],"type":"Point"}
 }

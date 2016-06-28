@@ -1,0 +1,71 @@
+{
+  "id": 823989111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.307783,41.142914,-73.307783,41.142914",
+    "geom:latitude":41.142914,
+    "geom:longitude":-73.307783,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Old Rd",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 254 9564",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823009,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wC3RpxC99dZKCAXiJIuE9_41.142914_-73.307783@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451696,
+    "wof:geomhash":"78b5f7ad8ecdf84d85f741a6d1bc191b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823009,
+            "region_id":85688629,
+            "venue_id":823989111
+        }
+    ],
+    "wof:id":823989111,
+    "wof:lastmodified":1466426708,
+    "wof:name":"LBO Leasing Corp",
+    "wof:parent_id":85823009,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.307783,
+    41.142914,
+    -73.307783,
+    41.142914
+],
+  "geometry": {"coordinates":[-73.307783,41.142914],"type":"Point"}
+}

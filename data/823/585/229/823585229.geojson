@@ -1,0 +1,71 @@
+{
+  "id": 823585229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.691068,41.826471,-72.691068,41.826471",
+    "geom:latitude":41.826471,
+    "geom:longitude":-72.691068,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Spruce St",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dMXkG8AjeRvG7hu0oLLqt_41.826471_-72.691068@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441541,
+    "wof:geomhash":"eeaa54e2fc1547d79ca47c4d989e0a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823585229
+        }
+    ],
+    "wof:id":823585229,
+    "wof:lastmodified":1466423113,
+    "wof:name":"W & W Building Maintenance",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.691068,
+    41.826471,
+    -72.691068,
+    41.826471
+],
+  "geometry": {"coordinates":[-72.691068,41.826471],"type":"Point"}
+}

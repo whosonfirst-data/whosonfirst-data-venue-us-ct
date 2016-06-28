@@ -1,0 +1,73 @@
+{
+  "id": 823945103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.66698,41.614233,-72.66698,41.614233",
+    "geom:latitude":41.614233,
+    "geom:longitude":-72.66698,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"53 Washington Rd",
+    "sg:city":"Cromwell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 635 9473",
+    "sg:postcode":"06416",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837533,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XQTbUUvWhaUsbZb2k7a53_41.614233_-72.666980@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450642,
+    "wof:geomhash":"e6157b3e5e1068df7fc43aa9e2478725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85837533,
+            "region_id":85688629,
+            "venue_id":823945103
+        }
+    ],
+    "wof:id":823945103,
+    "wof:lastmodified":1466426370,
+    "wof:name":"Sebastian Electric Inc",
+    "wof:parent_id":85837533,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.66698,
+    41.614233,
+    -72.66698,
+    41.614233
+],
+  "geometry": {"coordinates":[-72.66698,41.614233],"type":"Point"}
+}

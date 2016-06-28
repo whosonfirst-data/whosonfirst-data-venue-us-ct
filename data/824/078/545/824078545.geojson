@@ -1,0 +1,80 @@
+{
+  "id": 824078545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.89947,41.354369,-72.89947,41.354369",
+    "geom:latitude":41.354369,
+    "geom:longitude":-72.89947,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"590 Hartford Tpke",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/109989-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 229 0155",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ItzNkFt9J5muHY6TVmx1g_41.354369_-72.899470@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453822,
+    "wof:geomhash":"d8557cb4e1d9bbb9a52191d42c2a2aa2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":824078545
+        }
+    ],
+    "wof:id":824078545,
+    "wof:lastmodified":1466422590,
+    "wof:name":"Chili's",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.89947,
+    41.354369,
+    -72.89947,
+    41.354369
+],
+  "geometry": {"coordinates":[-72.89946999999999,41.354369],"type":"Point"}
+}

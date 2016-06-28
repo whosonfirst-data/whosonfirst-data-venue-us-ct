@@ -1,0 +1,86 @@
+{
+  "id": 823968241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.767307,41.509626,-72.767307,41.509626",
+    "geom:latitude":41.509626,
+    "geom:longitude":-72.767307,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1000 Research Pkwy",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 686 0800",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "biological",
+        "product",
+        "mfg",
+        "noncommercial",
+        "research"
+    ],
+    "sg:website":"www.proteinsciences.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805899,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39xcrS8yeMlGF937UfZ9oa_41.509626_-72.767307@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451217,
+    "wof:geomhash":"87c81b8c37f8b143646a3727347eba17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85805899,
+            "region_id":85688629,
+            "venue_id":823968241
+        }
+    ],
+    "wof:id":823968241,
+    "wof:lastmodified":1466426581,
+    "wof:name":"Protein Sciences Corporation",
+    "wof:parent_id":85805899,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "biological",
+        "product",
+        "mfg",
+        "noncommercial",
+        "research"
+    ]
+},
+  "bbox": [
+    -72.767307,
+    41.509626,
+    -72.767307,
+    41.509626
+],
+  "geometry": {"coordinates":[-72.767307,41.509626],"type":"Point"}
+}

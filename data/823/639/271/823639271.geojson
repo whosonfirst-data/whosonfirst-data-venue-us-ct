@@ -1,0 +1,75 @@
+{
+  "id": 823639271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.800606,41.289609,-72.800606,41.289609",
+    "geom:latitude":41.289609,
+    "geom:longitude":-72.800606,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"240 N Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 8454",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drinking",
+        "cafe",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vKPmNz5lYUGgeOZMI9qkl_41.289609_-72.800606@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442838,
+    "wof:geomhash":"a8b00557055109e8de5cfcb31c5103d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823639271
+        }
+    ],
+    "wof:id":823639271,
+    "wof:lastmodified":1466423652,
+    "wof:name":"Tommy Sullivan's Cafe",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "cafe",
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.800606,
+    41.289609,
+    -72.800606,
+    41.289609
+],
+  "geometry": {"coordinates":[-72.800606,41.289609],"type":"Point"}
+}

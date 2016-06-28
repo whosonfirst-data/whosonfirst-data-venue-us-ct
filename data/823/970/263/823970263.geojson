@@ -1,0 +1,80 @@
+{
+  "id": 823970263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528596,41.046761,-73.528596,41.046761",
+    "geom:latitude":41.046761,
+    "geom:longitude":-73.528596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"85 Magee Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 961 8425",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.saturnct.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DvnANLLt0QaqV4md74X4f_41.046761_-73.528596@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451263,
+    "wof:geomhash":"666a7e2a035582a45c5bba7db335fa18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823970263
+        }
+    ],
+    "wof:id":823970263,
+    "wof:lastmodified":1466426642,
+    "wof:name":"Saturn",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.528596,
+    41.046761,
+    -73.528596,
+    41.046761
+],
+  "geometry": {"coordinates":[-73.52859599999999,41.046761],"type":"Point"}
+}

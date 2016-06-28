@@ -1,0 +1,73 @@
+{
+  "id": 823581661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.146327,41.404367,-73.146327,41.404367",
+    "geom:latitude":41.404367,
+    "geom:longitude":-73.146327,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Silano Dr",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 5499",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844939,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rlWlPlCwYIpxC2IWBjjVI_41.404367_-73.146327@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441461,
+    "wof:geomhash":"fa724907978ee8eb53b2fce8618f9d0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844939,
+            "region_id":85688629,
+            "venue_id":823581661
+        }
+    ],
+    "wof:id":823581661,
+    "wof:lastmodified":1466423105,
+    "wof:name":"Concrete Decor LLC",
+    "wof:parent_id":85844939,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.146327,
+    41.404367,
+    -73.146327,
+    41.404367
+],
+  "geometry": {"coordinates":[-73.146327,41.404367],"type":"Point"}
+}

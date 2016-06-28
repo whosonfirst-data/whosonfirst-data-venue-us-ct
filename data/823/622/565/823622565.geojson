@@ -1,0 +1,75 @@
+{
+  "id": 823622565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.779597,41.661342,-72.779597,41.661342",
+    "geom:latitude":41.661342,
+    "geom:longitude":-72.779597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"66 Franklin Sq",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 827 0558",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cae3YqSEbfY7IO57WYXsY_41.661342_-72.779597@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442462,
+    "wof:geomhash":"1c9a20a8a3ce9add401111560e9cb649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823622565
+        }
+    ],
+    "wof:id":823622565,
+    "wof:lastmodified":1466423568,
+    "wof:name":"Franklin House",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.779597,
+    41.661342,
+    -72.779597,
+    41.661342
+],
+  "geometry": {"coordinates":[-72.779597,41.661342],"type":"Point"}
+}

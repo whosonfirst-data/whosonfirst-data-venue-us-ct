@@ -1,0 +1,71 @@
+{
+  "id": 823959445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.815437,41.282871,-72.815437,41.282871",
+    "geom:latitude":41.282871,
+    "geom:longitude":-72.815437,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"79 Cedar St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mFoATJShe3chVKKQaL7Om_41.282871_-72.815437@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451016,
+    "wof:geomhash":"911f113705a29bdf3d2c6d5c244fa236",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823959445
+        }
+    ],
+    "wof:id":823959445,
+    "wof:lastmodified":1466426495,
+    "wof:name":"Harbor House",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.815437,
+    41.282871,
+    -72.815437,
+    41.282871
+],
+  "geometry": {"coordinates":[-72.815437,41.282871],"type":"Point"}
+}

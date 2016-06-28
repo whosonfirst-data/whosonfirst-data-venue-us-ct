@@ -1,0 +1,86 @@
+{
+  "id": 823677997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.358544,41.149514,-73.358544,41.149514",
+    "geom:latitude":41.149514,
+    "geom:longitude":-73.358544,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Gorham Ave",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 8016",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888507,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2K7GvFkzdb7YN5cXWlG3j1_41.149514_-73.358544@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443746,
+    "wof:geomhash":"6819df50698e5ce2100dba72a73d2b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85888507,
+            "region_id":85688629,
+            "venue_id":823677997
+        }
+    ],
+    "wof:id":823677997,
+    "wof:lastmodified":1466423860,
+    "wof:name":"Connecticut Fine Arts Inc",
+    "wof:parent_id":85888507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "gallery",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.358544,
+    41.149514,
+    -73.358544,
+    41.149514
+],
+  "geometry": {"coordinates":[-73.35854399999999,41.149514],"type":"Point"}
+}

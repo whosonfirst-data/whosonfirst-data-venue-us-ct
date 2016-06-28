@@ -1,0 +1,79 @@
+{
+  "id": 823562245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932784,41.301553,-72.932784,41.301553",
+    "geom:latitude":41.301553,
+    "geom:longitude":-72.932784,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"184 Liberty St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 785 7200",
+    "sg:postcode":"06519",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882017,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ICUleKLHeW6AfWUPQFmrr_41.301553_-72.932784@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440992,
+    "wof:geomhash":"e9980f91fbdf0f89db6b20bde6e866ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85882017,
+            "region_id":85688629,
+            "venue_id":823562245
+        }
+    ],
+    "wof:id":823562245,
+    "wof:lastmodified":1466422702,
+    "wof:name":"Diane Harcherik MD",
+    "wof:parent_id":85882017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.932784,
+    41.301553,
+    -72.932784,
+    41.301553
+],
+  "geometry": {"coordinates":[-72.932784,41.301553],"type":"Point"}
+}

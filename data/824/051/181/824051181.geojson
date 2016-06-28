@@ -1,0 +1,73 @@
+{
+  "id": 824051181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.36129,41.668092,-73.36129,41.668092",
+    "geom:latitude":41.668092,
+    "geom:longitude":-73.36129,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"199 New Milford Tpke",
+    "sg:city":"Marble Dale",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06777",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931231,
+        102085375,
+        85824781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IH3MppSy51iNOZg9SACEY_41.668092_-73.361290@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453194,
+    "wof:geomhash":"c1f5f67e409e62d28ebcd734c1dc303a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85931231,
+            "neighbourhood_id":85824781,
+            "region_id":85688629,
+            "venue_id":824051181
+        }
+    ],
+    "wof:id":824051181,
+    "wof:lastmodified":1466422136,
+    "wof:name":"Dowler Garage",
+    "wof:parent_id":85824781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.36129,
+    41.668092,
+    -73.36129,
+    41.668092
+],
+  "geometry": {"coordinates":[-73.36129,41.668092],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823504441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.29176,41.394425,-73.29176,41.394425",
+    "geom:latitude":41.394425,
+    "geom:longitude":-73.29176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"87 S Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 9990",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HgCX6FKnVNa31cxc2unwX_41.394425_-73.291760@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439671,
+    "wof:geomhash":"1cbba8361adb9bf2d34b36ad7acfddf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823504441
+        }
+    ],
+    "wof:id":823504441,
+    "wof:lastmodified":1466422031,
+    "wof:name":"Caseworks LLC",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -73.29176,
+    41.394425,
+    -73.29176,
+    41.394425
+],
+  "geometry": {"coordinates":[-73.29176,41.394425],"type":"Point"}
+}

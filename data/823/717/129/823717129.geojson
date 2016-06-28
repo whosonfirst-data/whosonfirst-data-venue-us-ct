@@ -1,0 +1,79 @@
+{
+  "id": 823717129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.517979,41.09147,-73.517979,41.09147",
+    "geom:latitude":41.09147,
+    "geom:longitude":-73.517979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"995 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 323 9623",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cFA9jfLwhKbHNvQlmhUj7_41.091470_-73.517979@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444588,
+    "wof:geomhash":"5c450b7c1105dc0f8ca84ce03f6bf8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823717129
+        }
+    ],
+    "wof:id":823717129,
+    "wof:lastmodified":1466424407,
+    "wof:name":"Stamford & Springdale Animal",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -73.517979,
+    41.09147,
+    -73.517979,
+    41.09147
+],
+  "geometry": {"coordinates":[-73.517979,41.09147],"type":"Point"}
+}

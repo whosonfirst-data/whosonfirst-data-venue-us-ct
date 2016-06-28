@@ -1,0 +1,73 @@
+{
+  "id": 823977057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.151971,41.476316,-73.151971,41.476316",
+    "geom:latitude":41.476316,
+    "geom:longitude":-73.151971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"112 Hurley Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 6567",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eNYpi65M0GnoKDwgpWULO_41.476316_-73.151971@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451400,
+    "wof:geomhash":"1c0e7b4bbe09dc8bb4db89fc5b0490d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823977057
+        }
+    ],
+    "wof:id":823977057,
+    "wof:lastmodified":1466426579,
+    "wof:name":"National Rent-A-Fence",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.151971,
+    41.476316,
+    -73.151971,
+    41.476316
+],
+  "geometry": {"coordinates":[-73.151971,41.476316],"type":"Point"}
+}

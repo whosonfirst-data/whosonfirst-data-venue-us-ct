@@ -1,0 +1,71 @@
+{
+  "id": 823751899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.410177,41.57344,-73.410177,41.57344",
+    "geom:latitude":41.57344,
+    "geom:longitude":-73.410177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 S Main St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZrZqvS6Wd8S8ZqoIvD0v1_41.573440_-73.410177@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445426,
+    "wof:geomhash":"c76e378aeb2bcaf1ff8cc32911708d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":823751899
+        }
+    ],
+    "wof:id":823751899,
+    "wof:lastmodified":1466424782,
+    "wof:name":"Kwittken Pamela MD",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.410177,
+    41.57344,
+    -73.410177,
+    41.57344
+],
+  "geometry": {"coordinates":[-73.410177,41.57344],"type":"Point"}
+}

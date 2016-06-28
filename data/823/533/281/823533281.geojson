@@ -1,0 +1,75 @@
+{
+  "id": 823533281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.313935,41.307925,-73.313935,41.307925",
+    "geom:latitude":41.307925,
+    "geom:longitude":-73.313935,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"940 N Park Ave",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 0012",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Orl5A4H6XOO2avi7pR1f_41.307925_-73.313935@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440318,
+    "wof:geomhash":"7cf6b520a8cb118c3d24d9f507567f87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823533281
+        }
+    ],
+    "wof:id":823533281,
+    "wof:lastmodified":1466422248,
+    "wof:name":"Key Rock Home",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.313935,
+    41.307925,
+    -73.313935,
+    41.307925
+],
+  "geometry": {"coordinates":[-73.313935,41.307925],"type":"Point"}
+}

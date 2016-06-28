@@ -1,0 +1,86 @@
+{
+  "id": 823705843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.662911,41.787608,-72.662911,41.787608",
+    "geom:latitude":41.787608,
+    "geom:longitude":-72.662911,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 Weston St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 549 1222",
+    "sg:postcode":"06120",
+    "sg:province":"CT",
+    "sg:tags":[
+        "messenger",
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878031,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rJjqJsoEXluOprJLVPuPr_41.787608_-72.662911@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444356,
+    "wof:geomhash":"900503643e9b0a4beb53123bfc0d8205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878031,
+            "region_id":85688629,
+            "venue_id":823705843
+        }
+    ],
+    "wof:id":823705843,
+    "wof:lastmodified":1466424348,
+    "wof:name":"Adcom Express",
+    "wof:parent_id":85878031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "messenger",
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -72.662911,
+    41.787608,
+    -72.662911,
+    41.787608
+],
+  "geometry": {"coordinates":[-72.66291099999999,41.787608],"type":"Point"}
+}

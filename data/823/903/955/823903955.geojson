@@ -1,0 +1,71 @@
+{
+  "id": 823903955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.913215,41.714509,-72.913215,41.714509",
+    "geom:latitude":41.714509,
+    "geom:longitude":-72.913215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"427 Stevens St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1apztgtrrM1n4oWTq1n4eu_41.714509_-72.913215@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449571,
+    "wof:geomhash":"5906c7a4f3ec14b66156af43a3c9c443",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823903955
+        }
+    ],
+    "wof:id":823903955,
+    "wof:lastmodified":1466426021,
+    "wof:name":"Robins Beauty Salon",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.913215,
+    41.714509,
+    -72.913215,
+    41.714509
+],
+  "geometry": {"coordinates":[-72.91321499999999,41.714509],"type":"Point"}
+}

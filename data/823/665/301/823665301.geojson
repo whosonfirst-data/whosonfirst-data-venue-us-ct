@@ -1,0 +1,71 @@
+{
+  "id": 823665301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.324133,41.417015,-73.324133,41.417015",
+    "geom:latitude":41.417015,
+    "geom:longitude":-73.324133,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 The Old Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 7552",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "publisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38rEW4vttejanWiHsgEBmr_41.417015_-73.324133@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443460,
+    "wof:geomhash":"5ae842dc4697fe57d09e3c45aa77ad09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823665301
+        }
+    ],
+    "wof:id":823665301,
+    "wof:lastmodified":1466423920,
+    "wof:name":"Hilltop Publishing",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher"
+    ]
+},
+  "bbox": [
+    -73.324133,
+    41.417015,
+    -73.324133,
+    41.417015
+],
+  "geometry": {"coordinates":[-73.324133,41.417015],"type":"Point"}
+}

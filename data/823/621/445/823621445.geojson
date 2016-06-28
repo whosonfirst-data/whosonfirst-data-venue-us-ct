@@ -1,0 +1,73 @@
+{
+  "id": 823621445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.332577,41.407863,-73.332577,41.407863",
+    "geom:latitude":41.407863,
+    "geom:longitude":-73.332577,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Taunton Lake Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 0164",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cybpQub1ojVY4UtkYtv0w_41.407863_-73.332577@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442437,
+    "wof:geomhash":"90b5a74609a296ed740652bf7d233d17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823621445
+        }
+    ],
+    "wof:id":823621445,
+    "wof:lastmodified":1466423550,
+    "wof:name":"B Plus Electric",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.332577,
+    41.407863,
+    -73.332577,
+    41.407863
+],
+  "geometry": {"coordinates":[-73.332577,41.407863],"type":"Point"}
+}

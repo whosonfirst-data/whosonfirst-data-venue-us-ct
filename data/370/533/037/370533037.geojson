@@ -2,13 +2,14 @@
   "id": 370533037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.474083,41.136334,-73.474083,41.136334",
     "geom:latitude":41.136334,
     "geom:longitude":-73.474083,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"137 Old Kings Hwy",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":370533037,
-    "wof:lastmodified":1449029028,
+    "wof:lastmodified":1466421091,
     "wof:name":"Palladium (usa) Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "holding"
     ]
 },
-  "bbox": [-73.474083,41.136334,-73.474083,41.136334],
-  "geometry": {"coordinates":[-73.474083,41.136334],"type":"Point"}
+  "bbox": [
+    -73.474083,
+    41.136334,
+    -73.474083,
+    41.136334
+],
+  "geometry": {"coordinates":[-73.47408299999999,41.136334],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 387788713,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657412,41.017175,-73.657412,41.017175",
     "geom:latitude":41.017175,
     "geom:longitude":-73.657412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"177 Hobart Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":387788713,
-    "wof:lastmodified":1449058070,
+    "wof:lastmodified":1466421282,
     "wof:name":"M P Hardwood Flooring",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.657412,41.017175,-73.657412,41.017175],
-  "geometry": {"coordinates":[-73.657412,41.017175],"type":"Point"}
+  "bbox": [
+    -73.657412,
+    41.017175,
+    -73.657412,
+    41.017175
+],
+  "geometry": {"coordinates":[-73.65741199999999,41.017175],"type":"Point"}
 }

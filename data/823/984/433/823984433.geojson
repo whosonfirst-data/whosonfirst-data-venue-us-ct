@@ -1,0 +1,73 @@
+{
+  "id": 823984433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.267244,41.325596,-73.267244,41.325596",
+    "geom:latitude":41.325596,
+    "geom:longitude":-73.267244,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"451 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 6335",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qis7EfD20QqLgE7RrImH3_41.325596_-73.267244@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451595,
+    "wof:geomhash":"f3272a6546b5ee62c6c8f0611b847700",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823984433
+        }
+    ],
+    "wof:id":823984433,
+    "wof:lastmodified":1466426705,
+    "wof:name":"Monro Muffler Brake & Svc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.267244,
+    41.325596,
+    -73.267244,
+    41.325596
+],
+  "geometry": {"coordinates":[-73.26724400000001,41.325596],"type":"Point"}
+}

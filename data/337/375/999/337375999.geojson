@@ -2,13 +2,14 @@
   "id": 337375999,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657618,41.012644,-73.657618,41.012644",
     "geom:latitude":41.012644,
     "geom:longitude":-73.657618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"216 Madison Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":337375999,
-    "wof:lastmodified":1449026966,
+    "wof:lastmodified":1466421129,
     "wof:name":"Professional Painting",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "painter"
     ]
 },
-  "bbox": [-73.657618,41.012644,-73.657618,41.012644],
+  "bbox": [
+    -73.657618,
+    41.012644,
+    -73.657618,
+    41.012644
+],
   "geometry": {"coordinates":[-73.657618,41.012644],"type":"Point"}
 }

@@ -1,0 +1,77 @@
+{
+  "id": 823921609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.094988,41.356888,-72.094988,41.356888",
+    "geom:latitude":41.356888,
+    "geom:longitude":-72.094988,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Governor Winthrop Blvd",
+    "sg:city":"New London",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 447 5269",
+    "sg:postcode":"06320",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816605,
+        102191575,
+        404495755,
+        85633793,
+        85930865,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76q1fWVKf7Yx6rFJCcxYiA_41.356888_-72.094988@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450048,
+    "wof:geomhash":"cdca8745f68891f8c2f4bef85ab0cb4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495755,
+            "locality_id":85930865,
+            "neighbourhood_id":85816605,
+            "region_id":85688629,
+            "venue_id":823921609
+        }
+    ],
+    "wof:id":823921609,
+    "wof:lastmodified":1466426185,
+    "wof:name":"New London Police Department",
+    "wof:parent_id":85816605,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -72.094988,
+    41.356888,
+    -72.094988,
+    41.356888
+],
+  "geometry": {"coordinates":[-72.094988,41.356888],"type":"Point"}
+}

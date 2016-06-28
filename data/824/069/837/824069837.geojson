@@ -1,0 +1,80 @@
+{
+  "id": 824069837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.820386,41.455182,-72.820386,41.455182",
+    "geom:latitude":41.455182,
+    "geom:longitude":-72.820386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"190 Center St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 1514",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "basket",
+        "gift"
+    ],
+    "sg:website":"www.wallingfordflower.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FNZzXFf3qbl79oTEseEwF_41.455135_-72.820078@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453605,
+    "wof:geomhash":"1471c9f3de4b8fe05a858c72865bb471",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":824069837
+        }
+    ],
+    "wof:id":824069837,
+    "wof:lastmodified":1466422218,
+    "wof:name":"Wallingford Flower & Gift Shoppe",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "basket",
+        "gift"
+    ]
+},
+  "bbox": [
+    -72.820386,
+    41.455182,
+    -72.820386,
+    41.455182
+],
+  "geometry": {"coordinates":[-72.820386,41.455182],"type":"Point"}
+}

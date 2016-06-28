@@ -1,0 +1,71 @@
+{
+  "id": 823732643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248098,41.398091,-73.248098,41.398091",
+    "geom:latitude":41.398091,
+    "geom:longitude":-73.248098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Sherman St",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 6506",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iM8dC2NnU4mkQFtJRw7Y9_41.398091_-73.248098@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444981,
+    "wof:geomhash":"bc0cc2de0e3276c6ebd34df380123d50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823732643
+        }
+    ],
+    "wof:id":823732643,
+    "wof:lastmodified":1466424651,
+    "wof:name":"Home Free",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -73.248098,
+    41.398091,
+    -73.248098,
+    41.398091
+],
+  "geometry": {"coordinates":[-73.248098,41.398091],"type":"Point"}
+}

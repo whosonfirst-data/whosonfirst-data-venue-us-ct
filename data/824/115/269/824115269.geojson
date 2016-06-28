@@ -1,0 +1,90 @@
+{
+  "id": 824115269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.476954,41.069857,-73.476954,41.069857",
+    "geom:latitude":41.069857,
+    "geom:longitude":-73.476954,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1350 Post Rd",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 655 8203",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lIpHtBib7ZQW0A56vcJxx_41.069857_-73.476954@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454662,
+    "wof:geomhash":"1b29c64766a7b9fada14b2b2b419c59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":824115269
+        }
+    ],
+    "wof:id":824115269,
+    "wof:lastmodified":1466423246,
+    "wof:name":"Darien Auto Center",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -73.476954,
+    41.069857,
+    -73.476954,
+    41.069857
+],
+  "geometry": {"coordinates":[-73.47695400000001,41.069857],"type":"Point"}
+}

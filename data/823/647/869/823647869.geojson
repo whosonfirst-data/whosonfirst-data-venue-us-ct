@@ -1,0 +1,73 @@
+{
+  "id": 823647869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.382619,41.306649,-73.382619,41.306649",
+    "geom:latitude":41.306649,
+    "geom:longitude":-73.382619,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"96 Hill Rd",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 2564",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ofyONGlF99ifz08IosdzP_41.306649_-73.382619@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443035,
+    "wof:geomhash":"056881b9d24703421e829e55a2f8e97a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823647869
+        }
+    ],
+    "wof:id":823647869,
+    "wof:lastmodified":1466423856,
+    "wof:name":"Redding Police Dept",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.382619,
+    41.306649,
+    -73.382619,
+    41.306649
+],
+  "geometry": {"coordinates":[-73.38261900000001,41.306649],"type":"Point"}
+}

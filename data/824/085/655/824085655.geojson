@@ -1,0 +1,78 @@
+{
+  "id": 824085655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900439,41.698232,-72.900439,41.698232",
+    "geom:latitude":41.698232,
+    "geom:longitude":-72.900439,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1247 Farmington Ave",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 314 0777",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "restaurant"
+    ],
+    "sg:website":"http://www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MX8ltMUQSvlA7Ug4QK8lL_41.698232_-72.900439@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453990,
+    "wof:geomhash":"f00b4317662c68cdbaf3089862e8aa76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":824085655
+        }
+    ],
+    "wof:id":824085655,
+    "wof:lastmodified":1466422643,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -72.900439,
+    41.698232,
+    -72.900439,
+    41.698232
+],
+  "geometry": {"coordinates":[-72.90043900000001,41.698232],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823910181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207184,41.510569,-73.207184,41.510569",
+    "geom:latitude":41.510569,
+    "geom:longitude":-73.207184,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Woodbury Pl",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pvzgdx21UhlJXEdiGlHHR_41.510569_-73.207184@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449750,
+    "wof:geomhash":"507eee9e36d26a0fd1fb03ab2c324425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823910181
+        }
+    ],
+    "wof:id":823910181,
+    "wof:lastmodified":1466426091,
+    "wof:name":"All Brands Hearing Aid Inc",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -73.207184,
+    41.510569,
+    -73.207184,
+    41.510569
+],
+  "geometry": {"coordinates":[-73.207184,41.510569],"type":"Point"}
+}

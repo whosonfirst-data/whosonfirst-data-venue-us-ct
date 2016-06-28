@@ -1,0 +1,71 @@
+{
+  "id": 823511819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.719798,41.366621,-72.719798,41.366621",
+    "geom:latitude":41.366621,
+    "geom:longitude":-72.719798,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2802 Durham Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 457 0009",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nMxqbE8PIIpNleu16gOqk_41.366621_-72.719798@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439827,
+    "wof:geomhash":"5bc99380cf35e436f7a6824d075ffd5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823511819
+        }
+    ],
+    "wof:id":823511819,
+    "wof:lastmodified":1466422068,
+    "wof:name":"Little Store",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -72.719798,
+    41.366621,
+    -72.719798,
+    41.366621
+],
+  "geometry": {"coordinates":[-72.719798,41.366621],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824090461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000198,41.931801,-73.000198,41.931801",
+    "geom:latitude":41.931801,
+    "geom:longitude":-73.000198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 E River Rd",
+    "sg:city":"Barkhamsted",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 379 6102",
+    "sg:postcode":"06063",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804511,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cJAuvv94iKuDktDfxpAYB_41.931801_-73.000198@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454096,
+    "wof:geomhash":"d99964bc50ae43ee94b3401b3e8fba62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85804511,
+            "region_id":85688629,
+            "venue_id":824090461
+        }
+    ],
+    "wof:id":824090461,
+    "wof:lastmodified":1466422851,
+    "wof:name":"Pleasant Valley Drive-In",
+    "wof:parent_id":85804511,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.000198,
+    41.931801,
+    -73.000198,
+    41.931801
+],
+  "geometry": {"coordinates":[-73.000198,41.931801],"type":"Point"}
+}

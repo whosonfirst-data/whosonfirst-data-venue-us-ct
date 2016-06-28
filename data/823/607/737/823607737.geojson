@@ -1,0 +1,71 @@
+{
+  "id": 823607737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0032,41.66233,-73.0032,41.66233",
+    "geom:latitude":41.66233,
+    "geom:longitude":-73.0032,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"206 S Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 583 5586",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823777,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sMuu7HPwNnkreUuBTIfSi_41.662330_-73.003200@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442083,
+    "wof:geomhash":"18afbc62c1ef8cfb10449ae162646aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85823777,
+            "region_id":85688629,
+            "venue_id":823607737
+        }
+    ],
+    "wof:id":823607737,
+    "wof:lastmodified":1466423426,
+    "wof:name":"Hilltop Restaurant",
+    "wof:parent_id":85823777,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.0032,
+    41.66233,
+    -73.0032,
+    41.66233
+],
+  "geometry": {"coordinates":[-73.00320000000001,41.66233],"type":"Point"}
+}

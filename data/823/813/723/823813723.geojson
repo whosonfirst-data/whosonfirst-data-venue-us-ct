@@ -1,0 +1,71 @@
+{
+  "id": 823813723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.131745,41.30437,-72.131745,41.30437",
+    "geom:latitude":41.30437,
+    "geom:longitude":-72.131745,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Shore Rd",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 443 7586",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847609,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qdvVtWgErwmyDyiNFCHoh_41.304370_-72.131745@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447112,
+    "wof:geomhash":"50e43b5291630d531cde0adefd36f430",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85847609,
+            "region_id":85688629,
+            "venue_id":823813723
+        }
+    ],
+    "wof:id":823813723,
+    "wof:lastmodified":1466425277,
+    "wof:name":"Bruno Plumbing LLC",
+    "wof:parent_id":85847609,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.131745,
+    41.30437,
+    -72.131745,
+    41.30437
+],
+  "geometry": {"coordinates":[-72.131745,41.30437],"type":"Point"}
+}

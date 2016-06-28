@@ -1,0 +1,82 @@
+{
+  "id": 823879739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.54003,41.05954,-73.54003,41.05954",
+    "geom:latitude":41.05954,
+    "geom:longitude":-73.54003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1055 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 325 9045",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26M9hQw2FoMbpUVt1S1UcI_41.059540_-73.540030@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448964,
+    "wof:geomhash":"8c4fe5c730996d434ae9bb47c1e1dd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823879739
+        }
+    ],
+    "wof:id":823879739,
+    "wof:lastmodified":1466425868,
+    "wof:name":"Transamerica Reinsurance",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -73.54003,
+    41.05954,
+    -73.54003,
+    41.05954
+],
+  "geometry": {"coordinates":[-73.54003,41.05954],"type":"Point"}
+}

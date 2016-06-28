@@ -1,0 +1,82 @@
+{
+  "id": 823970381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.129453,41.174333,-73.129453,41.174333",
+    "geom:latitude":41.174333,
+    "geom:longitude":-73.129453,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1055 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 7770",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v5dUbC38L7wRmw06j7KKQ_41.174333_-73.129453@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451265,
+    "wof:geomhash":"f499974b6a3da2b824fca0afb6d36b70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823970381
+        }
+    ],
+    "wof:id":823970381,
+    "wof:lastmodified":1466426591,
+    "wof:name":"Florina's Barber & Beauty Shop",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.129453,
+    41.174333,
+    -73.129453,
+    41.174333
+],
+  "geometry": {"coordinates":[-73.129453,41.174333],"type":"Point"}
+}

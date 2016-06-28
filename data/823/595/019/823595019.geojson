@@ -1,0 +1,77 @@
+{
+  "id": 823595019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.861054,41.348211,-72.861054,41.348211",
+    "geom:latitude":41.348211,
+    "geom:longitude":-72.861054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Village St",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 949 1260",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835039,
+        102191575,
+        404495789,
+        85633793,
+        85931389,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40hliALXUtiY5imy6Z3svT_41.348211_-72.861054@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441764,
+    "wof:geomhash":"207537be0cae3c91e345550896b0f8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495789,
+            "locality_id":85931389,
+            "neighbourhood_id":85835039,
+            "region_id":85688629,
+            "venue_id":823595019
+        }
+    ],
+    "wof:id":823595019,
+    "wof:lastmodified":1466423255,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85835039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.861054,
+    41.348211,
+    -72.861054,
+    41.348211
+],
+  "geometry": {"coordinates":[-72.861054,41.348211],"type":"Point"}
+}

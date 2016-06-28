@@ -1,0 +1,82 @@
+{
+  "id": 824081447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.526446,41.069637,-73.526446,41.069637",
+    "geom:latitude":41.069637,
+    "geom:longitude":-73.526446,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"259 Hope St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/235035-roly-poly-sandwiches/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 969 7669",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821787,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VcCPWGSBif2fMd6Dbcohx_41.069637_-73.526446@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453884,
+    "wof:geomhash":"22c663b1de288acfccaa6190d1ece04f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85821787,
+            "region_id":85688629,
+            "venue_id":824081447
+        }
+    ],
+    "wof:id":824081447,
+    "wof:lastmodified":1466422589,
+    "wof:name":"Roly Poly Sandwiches",
+    "wof:parent_id":85821787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.526446,
+    41.069637,
+    -73.526446,
+    41.069637
+],
+  "geometry": {"coordinates":[-73.52644600000001,41.069637],"type":"Point"}
+}

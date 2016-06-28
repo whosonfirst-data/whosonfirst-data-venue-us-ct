@@ -1,0 +1,83 @@
+{
+  "id": 823542159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.629679,41.920613,-72.629679,41.920613",
+    "geom:latitude":41.920613,
+    "geom:longitude":-72.629679,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 First St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 6761",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "membership",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06FmDz1AjWZjqnZXvVaa2G_41.920613_-72.629679@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440513,
+    "wof:geomhash":"68aaac226eea31774e0f0c133ad76e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823542159
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823542159
+        }
+    ],
+    "wof:id":823542159,
+    "wof:lastmodified":1466422342,
+    "wof:name":"Polish National Home Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "membership",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.629679,
+    41.920613,
+    -72.629679,
+    41.920613
+],
+  "geometry": {"coordinates":[-72.629679,41.920613],"type":"Point"}
+}

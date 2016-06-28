@@ -1,0 +1,78 @@
+{
+  "id": 824089681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559248,41.804919,-72.559248,41.804919",
+    "geom:latitude":41.804919,
+    "geom:longitude":-72.559248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1520 Pleasant Valley Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 644 0016",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fydgg7xHCkvwmNRl9rZ7M_41.804919_-72.559248@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454082,
+    "wof:geomhash":"8fef5047bc291258b6ce0078acea6536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":824089681
+        }
+    ],
+    "wof:id":824089681,
+    "wof:lastmodified":1466422889,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.559248,
+    41.804919,
+    -72.559248,
+    41.804919
+],
+  "geometry": {"coordinates":[-72.559248,41.804919],"type":"Point"}
+}

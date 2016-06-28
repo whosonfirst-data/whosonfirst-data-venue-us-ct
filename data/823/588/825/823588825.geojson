@@ -1,0 +1,83 @@
+{
+  "id": 823588825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927082,41.355155,-72.927082,41.355155",
+    "geom:latitude":41.355155,
+    "geom:longitude":-72.927082,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Marne St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 7769",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "audit",
+        "field",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j1fpiXlkQn9McZucXo0BH_41.355155_-72.927082@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441620,
+    "wof:geomhash":"1e61c55a2d7f2c46ce0b338452e85a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823588825
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823588825
+        }
+    ],
+    "wof:id":823588825,
+    "wof:lastmodified":1466423223,
+    "wof:name":"Field Audit Unit",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit",
+        "field",
+        "unit"
+    ]
+},
+  "bbox": [
+    -72.927082,
+    41.355155,
+    -72.927082,
+    41.355155
+],
+  "geometry": {"coordinates":[-72.927082,41.355155],"type":"Point"}
+}

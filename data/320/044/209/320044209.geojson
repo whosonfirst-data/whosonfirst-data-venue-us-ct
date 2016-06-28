@@ -2,13 +2,14 @@
   "id": 320044209,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.488245,41.153297,-73.488245,41.153297",
     "geom:latitude":41.153297,
     "geom:longitude":-73.488245,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"181 Brushy Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320044209,
-    "wof:lastmodified":1449013208,
+    "wof:lastmodified":1466421122,
     "wof:name":"Logan Group LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-73.488245,41.153297,-73.488245,41.153297],
-  "geometry": {"coordinates":[-73.488245,41.153297],"type":"Point"}
+  "bbox": [
+    -73.488245,
+    41.153297,
+    -73.488245,
+    41.153297
+],
+  "geometry": {"coordinates":[-73.48824500000001,41.153297],"type":"Point"}
 }

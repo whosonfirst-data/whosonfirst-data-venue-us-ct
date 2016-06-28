@@ -1,0 +1,73 @@
+{
+  "id": 823886813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.094479,41.879261,-72.094479,41.879261",
+    "geom:latitude":41.879261,
+    "geom:longitude":-72.094479,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"76 Hartford Tpke",
+    "sg:city":"Eastford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 974 0091",
+    "sg:postcode":"06242",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828179,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41nFJoV4hAyOa1AS0Bsn6O_41.879261_-72.094479@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449122,
+    "wof:geomhash":"9731d3ea0a09246e77c3a192b683ee0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85828179,
+            "region_id":85688629,
+            "venue_id":823886813
+        }
+    ],
+    "wof:id":823886813,
+    "wof:lastmodified":1466425957,
+    "wof:name":"Concrete Systems Inc",
+    "wof:parent_id":85828179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.094479,
+    41.879261,
+    -72.094479,
+    41.879261
+],
+  "geometry": {"coordinates":[-72.09447900000001,41.879261],"type":"Point"}
+}

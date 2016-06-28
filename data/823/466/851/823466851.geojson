@@ -1,0 +1,73 @@
+{
+  "id": 823466851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.279498,41.421988,-73.279498,41.421988",
+    "geom:latitude":41.421988,
+    "geom:longitude":-73.279498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Riverside Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 8488",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ydZX7Lklcw3L2bHFRs8aM_41.421988_-73.279498@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438765,
+    "wof:geomhash":"d6f02483d778c082a6c3efb3a88634a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823466851
+        }
+    ],
+    "wof:id":823466851,
+    "wof:lastmodified":1466421238,
+    "wof:name":"Peter M Obre Guitar Studio",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -73.279498,
+    41.421988,
+    -73.279498,
+    41.421988
+],
+  "geometry": {"coordinates":[-73.279498,41.421988],"type":"Point"}
+}

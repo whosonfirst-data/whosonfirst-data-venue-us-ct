@@ -1,0 +1,79 @@
+{
+  "id": 823908593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228458,41.29651,-73.228458,41.29651",
+    "geom:latitude":41.29651,
+    "geom:longitude":-73.228458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Monroe Tpke",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6284",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888497,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NWBZuBm9BLzxt4yj9dGJX_41.296510_-73.228458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449693,
+    "wof:geomhash":"adb153804b3f6d4f4a0e934a2ea0b20f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888497,
+            "region_id":85688629,
+            "venue_id":823908593
+        }
+    ],
+    "wof:id":823908593,
+    "wof:lastmodified":1466426289,
+    "wof:name":"Knecht's Garage Inc",
+    "wof:parent_id":85888497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.228458,
+    41.29651,
+    -73.228458,
+    41.29651
+],
+  "geometry": {"coordinates":[-73.228458,41.29651],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823687419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781405,41.443698,-72.781405,41.443698",
+    "geom:latitude":41.443698,
+    "geom:longitude":-72.781405,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Stonybrook Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816895,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nFGPz1T6VaQbjt3ozUQO7_41.443698_-72.781405@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443960,
+    "wof:geomhash":"fb1c1619275cccafdae01de68fafde87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816895,
+            "region_id":85688629,
+            "venue_id":823687419
+        }
+    ],
+    "wof:id":823687419,
+    "wof:lastmodified":1466424100,
+    "wof:name":"Redgate Town Car Service",
+    "wof:parent_id":85816895,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.781405,
+    41.443698,
+    -72.781405,
+    41.443698
+],
+  "geometry": {"coordinates":[-72.78140500000001,41.443698],"type":"Point"}
+}

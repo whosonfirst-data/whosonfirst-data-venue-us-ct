@@ -1,0 +1,86 @@
+{
+  "id": 824121311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.260977,41.14073,-73.260977,41.14073",
+    "geom:latitude":41.14073,
+    "geom:longitude":-73.260977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 Ruane Street",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 256 3390",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "communities",
+        "towns",
+        "portal"
+    ],
+    "sg:website":"http://www.americantowns.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x2FESkMqM9khoGL21U6xB_41.140730_-73.260977@1308186496"
+    },
+    "wof:country":"US",
+    "wof:created":1463454789,
+    "wof:geomhash":"8fef644e735c307b1c6ed1926914efb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824121311
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824121311
+        }
+    ],
+    "wof:id":824121311,
+    "wof:lastmodified":1466423254,
+    "wof:name":"AmericanTowns.com",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communities",
+        "towns",
+        "portal"
+    ]
+},
+  "bbox": [
+    -73.260977,
+    41.14073,
+    -73.260977,
+    41.14073
+],
+  "geometry": {"coordinates":[-73.260977,41.14073],"type":"Point"}
+}

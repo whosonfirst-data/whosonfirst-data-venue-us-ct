@@ -2,13 +2,14 @@
   "id": 270293937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491062,41.146544,-73.491062,41.146544",
     "geom:latitude":41.146544,
     "geom:longitude":-73.491062,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"93 Cherry St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270293937,
-    "wof:lastmodified":1449009113,
+    "wof:lastmodified":1466421100,
     "wof:name":"Reel Communications",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-73.491062,41.146544,-73.491062,41.146544],
+  "bbox": [
+    -73.491062,
+    41.146544,
+    -73.491062,
+    41.146544
+],
   "geometry": {"coordinates":[-73.491062,41.146544],"type":"Point"}
 }

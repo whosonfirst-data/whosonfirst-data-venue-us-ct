@@ -1,0 +1,79 @@
+{
+  "id": 823498521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.635118,41.93162,-72.635118,41.93162",
+    "geom:latitude":41.93162,
+    "geom:longitude":-72.635118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 James St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 2276",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ALDUd4kZz6Krl3wazD0v9_41.931620_-72.635118@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439544,
+    "wof:geomhash":"8a31a49c4e7325d5e665de57d451d1bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823498521
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823498521
+        }
+    ],
+    "wof:id":823498521,
+    "wof:lastmodified":1466421628,
+    "wof:name":"Grove Cemetery Association",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -72.635118,
+    41.93162,
+    -72.635118,
+    41.93162
+],
+  "geometry": {"coordinates":[-72.63511800000001,41.93162],"type":"Point"}
+}

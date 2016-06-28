@@ -1,0 +1,78 @@
+{
+  "id": 824076839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.035773,41.238739,-73.035773,41.238739",
+    "geom:latitude":41.238739,
+    "geom:longitude":-73.035773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1319 Boston Post Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/milford/108479-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 1865",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Z1qWHAjpRtd3SVSob15HH_41.238739_-73.035773@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453780,
+    "wof:geomhash":"2838b476a4c4919cfb98b1c9e5908804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824076839
+        }
+    ],
+    "wof:id":824076839,
+    "wof:lastmodified":1466422613,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.035773,
+    41.238739,
+    -73.035773,
+    41.238739
+],
+  "geometry": {"coordinates":[-73.03577300000001,41.238739],"type":"Point"}
+}

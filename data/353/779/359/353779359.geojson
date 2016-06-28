@@ -2,13 +2,14 @@
   "id": 353779359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.455188,41.142024,-73.455188,41.142024",
     "geom:latitude":41.142024,
     "geom:longitude":-73.455188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Silver Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":353779359,
-    "wof:lastmodified":1449018639,
+    "wof:lastmodified":1466421133,
     "wof:name":"Margaret Jansen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "designer"
     ]
 },
-  "bbox": [-73.455188,41.142024,-73.455188,41.142024],
-  "geometry": {"coordinates":[-73.455188,41.142024],"type":"Point"}
+  "bbox": [
+    -73.455188,
+    41.142024,
+    -73.455188,
+    41.142024
+],
+  "geometry": {"coordinates":[-73.45518800000001,41.142024],"type":"Point"}
 }

@@ -1,0 +1,77 @@
+{
+  "id": 823922149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.375143,41.11752,-73.375143,41.11752",
+    "geom:latitude":41.11752,
+    "geom:longitude":-73.375143,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Ferry Ln",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 3063",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wR6FQzQiPTBsSpIEg2fyT_41.117520_-73.375143@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450059,
+    "wof:geomhash":"f86dc6afe90f985bf306c28cbec8a747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823922149
+        }
+    ],
+    "wof:id":823922149,
+    "wof:lastmodified":1466426158,
+    "wof:name":"Wilton Taxi",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -73.375143,
+    41.11752,
+    -73.375143,
+    41.11752
+],
+  "geometry": {"coordinates":[-73.37514299999999,41.11752],"type":"Point"}
+}

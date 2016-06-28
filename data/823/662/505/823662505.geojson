@@ -1,0 +1,77 @@
+{
+  "id": 823662505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.179915,41.209358,-73.179915,41.209358",
+    "geom:latitude":41.209358,
+    "geom:longitude":-73.179915,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Waverly Pl",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 674 0662",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876495,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UbiWVOAKBNoVGbSmOTK1d_41.209358_-73.179915@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443399,
+    "wof:geomhash":"674f52cc84d1a45329bf05263eb9f666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876495,
+            "region_id":85688629,
+            "venue_id":823662505
+        }
+    ],
+    "wof:id":823662505,
+    "wof:lastmodified":1466423881,
+    "wof:name":"Nate's Movers",
+    "wof:parent_id":85876495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -73.179915,
+    41.209358,
+    -73.179915,
+    41.209358
+],
+  "geometry": {"coordinates":[-73.17991499999999,41.209358],"type":"Point"}
+}

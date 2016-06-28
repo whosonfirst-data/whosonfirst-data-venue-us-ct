@@ -1,0 +1,73 @@
+{
+  "id": 823665947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.217791,41.31498,-73.217791,41.31498",
+    "geom:latitude":41.31498,
+    "geom:longitude":-73.217791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"487 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 459 2909",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_187Tg2Bt75khWZ6MBz3HtG_41.314980_-73.217791@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443473,
+    "wof:geomhash":"f7b00db84c393b8893b185fe76d34a84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823665947
+        }
+    ],
+    "wof:id":823665947,
+    "wof:lastmodified":1466424044,
+    "wof:name":"Brewers",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.217791,
+    41.31498,
+    -73.217791,
+    41.31498
+],
+  "geometry": {"coordinates":[-73.21779100000001,41.31498],"type":"Point"}
+}

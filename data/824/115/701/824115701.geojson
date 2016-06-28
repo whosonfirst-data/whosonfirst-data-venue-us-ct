@@ -1,0 +1,73 @@
+{
+  "id": 824115701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.249564,41.180851,-73.249564,41.180851",
+    "geom:latitude":41.180851,
+    "geom:longitude":-73.249564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2000 Black Rock Tpke",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 1522",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IPZ9LYUo97FF9yyZv06sd_41.180851_-73.249564@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454671,
+    "wof:geomhash":"6e8ccc2a107e465b928391f035dab53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852811,
+            "region_id":85688629,
+            "venue_id":824115701
+        }
+    ],
+    "wof:id":824115701,
+    "wof:lastmodified":1466423165,
+    "wof:name":"Bear & Grill",
+    "wof:parent_id":85852811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -73.249564,
+    41.180851,
+    -73.249564,
+    41.180851
+],
+  "geometry": {"coordinates":[-73.24956400000001,41.180851],"type":"Point"}
+}

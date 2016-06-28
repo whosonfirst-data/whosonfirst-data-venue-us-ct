@@ -1,0 +1,84 @@
+{
+  "id": 824114023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.454857,41.38723,-73.454857,41.38723",
+    "geom:latitude":41.38723,
+    "geom:longitude":-73.454857,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 W Wooster St Apt 702",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 791 8629",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ukk55zU0ULRIaRpShYytd_41.387230_-73.454857@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454639,
+    "wof:geomhash":"a538b6d3cf16351ca34653a9b1d6fb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824114023
+        }
+    ],
+    "wof:id":824114023,
+    "wof:lastmodified":1466423290,
+    "wof:name":"Commerical Mortgage",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -73.454857,
+    41.38723,
+    -73.454857,
+    41.38723
+],
+  "geometry": {"coordinates":[-73.454857,41.38723],"type":"Point"}
+}

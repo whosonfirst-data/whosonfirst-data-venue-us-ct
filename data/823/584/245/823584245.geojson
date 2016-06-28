@@ -1,0 +1,79 @@
+{
+  "id": 823584245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.733704,41.726249,-72.733704,41.726249",
+    "geom:latitude":41.726249,
+    "geom:longitude":-72.733704,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"186 Newington Rd",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 566 7897",
+    "sg:postcode":"06110",
+    "sg:province":"CT",
+    "sg:tags":[
+        "administering",
+        "probate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878037,
+        102191575,
+        404496005,
+        85633793,
+        85931011,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DX4gapVCJ35IfxFTthAh3_41.726249_-72.733704@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441521,
+    "wof:geomhash":"082b81e55a8e2343ef35fc35cc616629",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496005,
+            "locality_id":85931011,
+            "neighbourhood_id":85878037,
+            "region_id":85688629,
+            "venue_id":823584245
+        }
+    ],
+    "wof:id":823584245,
+    "wof:lastmodified":1466423071,
+    "wof:name":"Probate Court Administrator",
+    "wof:parent_id":85878037,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administering",
+        "probate"
+    ]
+},
+  "bbox": [
+    -72.733704,
+    41.726249,
+    -72.733704,
+    41.726249
+],
+  "geometry": {"coordinates":[-72.733704,41.726249],"type":"Point"}
+}

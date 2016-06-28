@@ -1,0 +1,71 @@
+{
+  "id": 823855125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.911239,41.318745,-72.911239,41.318745",
+    "geom:latitude":41.318745,
+    "geom:longitude":-72.911239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Foster St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 3598",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fZ50B5JmW36fzln8vm27c_41.318745_-72.911239@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448362,
+    "wof:geomhash":"78704dc1f4c8fe03ce195492d8ce0953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823855125
+        }
+    ],
+    "wof:id":823855125,
+    "wof:lastmodified":1466425562,
+    "wof:name":"Wash Tub",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -72.911239,
+    41.318745,
+    -72.911239,
+    41.318745
+],
+  "geometry": {"coordinates":[-72.91123899999999,41.318745],"type":"Point"}
+}

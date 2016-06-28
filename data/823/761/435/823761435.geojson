@@ -1,0 +1,71 @@
+{
+  "id": 823761435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417362,41.556134,-73.417362,41.556134",
+    "geom:latitude":41.556134,
+    "geom:longitude":-73.417362,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"146 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zRaPPTj5Q4zWs0qhLDCWY_41.556134_-73.417362@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445642,
+    "wof:geomhash":"5fe9619464b1b2dd4779d7137b9b4969",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":823761435
+        }
+    ],
+    "wof:id":823761435,
+    "wof:lastmodified":1466424830,
+    "wof:name":"Cardiac Rehabilitation Center",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.417362,
+    41.556134,
+    -73.417362,
+    41.556134
+],
+  "geometry": {"coordinates":[-73.417362,41.556134],"type":"Point"}
+}

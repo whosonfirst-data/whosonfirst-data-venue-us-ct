@@ -1,0 +1,75 @@
+{
+  "id": 823780443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093642,41.800954,-73.093642,41.800954",
+    "geom:latitude":41.800954,
+    "geom:longitude":-73.093642,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"82 Harvard Dr",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repair",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FsovcIVbhhgXoAPJ0x53X_41.800954_-73.093642@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446101,
+    "wof:geomhash":"c8c9c970da94e9d1c49867920ec0f4fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823780443
+        }
+    ],
+    "wof:id":823780443,
+    "wof:lastmodified":1466424944,
+    "wof:name":"PC Wizard",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -73.093642,
+    41.800954,
+    -73.093642,
+    41.800954
+],
+  "geometry": {"coordinates":[-73.093642,41.800954],"type":"Point"}
+}

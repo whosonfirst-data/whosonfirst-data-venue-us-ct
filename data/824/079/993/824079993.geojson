@@ -1,0 +1,82 @@
+{
+  "id": 824079993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.257217,41.141524,-73.257217,41.141524",
+    "geom:latitude":41.141524,
+    "geom:longitude":-73.257217,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Sanford St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/fairfield/279610-archie-moores-bar--restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 256 9295",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4c6GpJxmX7HNYWnM14yIXe_41.141524_-73.257217@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453853,
+    "wof:geomhash":"7769b47aa09cc75db8f55d856dbc5cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824079993
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824079993
+        }
+    ],
+    "wof:id":824079993,
+    "wof:lastmodified":1466422669,
+    "wof:name":"Archie Moore's Bar & Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.257217,
+    41.141524,
+    -73.257217,
+    41.141524
+],
+  "geometry": {"coordinates":[-73.257217,41.141524],"type":"Point"}
+}

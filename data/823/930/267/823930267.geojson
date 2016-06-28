@@ -1,0 +1,84 @@
+{
+  "id": 823930267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.455956,41.392198,-73.455956,41.392198",
+    "geom:latitude":41.392198,
+    "geom:longitude":-73.455956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"72 West St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 791 9081",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "counseling",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MVz8OCy1zlzBpKKCZ5Jlo_41.392198_-73.455956@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450247,
+    "wof:geomhash":"2bef0c1ca6a0be6a9ea4469e1b662474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823930267
+        }
+    ],
+    "wof:id":823930267,
+    "wof:lastmodified":1466426244,
+    "wof:name":"Danbury Juvenile Justice Ctr",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.455956,
+    41.392198,
+    -73.455956,
+    41.392198
+],
+  "geometry": {"coordinates":[-73.455956,41.392198],"type":"Point"}
+}

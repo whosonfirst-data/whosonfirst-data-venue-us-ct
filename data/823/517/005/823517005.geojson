@@ -1,0 +1,73 @@
+{
+  "id": 823517005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.267071,41.325934,-73.267071,41.325934",
+    "geom:latitude":41.325934,
+    "geom:longitude":-73.267071,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"444 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 8883",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GSu3r4XYak4QMgJ7zJ36P_41.325934_-73.267071@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439952,
+    "wof:geomhash":"49b7cbdd4097bd3acb43abc175f75e2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823517005
+        }
+    ],
+    "wof:id":823517005,
+    "wof:lastmodified":1466422038,
+    "wof:name":"Cingular Wireless",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -73.267071,
+    41.325934,
+    -73.267071,
+    41.325934
+],
+  "geometry": {"coordinates":[-73.267071,41.325934],"type":"Point"}
+}

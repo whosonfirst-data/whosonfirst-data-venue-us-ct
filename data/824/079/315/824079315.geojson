@@ -1,0 +1,82 @@
+{
+  "id": 824079315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.121232,41.799029,-73.121232,41.799029",
+    "geom:latitude":41.799029,
+    "geom:longitude":-73.121232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 S Main St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/torrington/184594-cold-stone-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 618 0115",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2439kFBhICT4knMXObvsQb_41.799029_-73.121232@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453837,
+    "wof:geomhash":"7f3e73558a57e87bb8a0f3f0d54e42c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":824079315
+        }
+    ],
+    "wof:id":824079315,
+    "wof:lastmodified":1466422566,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.121232,
+    41.799029,
+    -73.121232,
+    41.799029
+],
+  "geometry": {"coordinates":[-73.12123200000001,41.799029],"type":"Point"}
+}

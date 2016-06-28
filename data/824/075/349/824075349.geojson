@@ -1,0 +1,84 @@
+{
+  "id": 824075349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.262669,41.808791,-72.262669,41.808791",
+    "geom:latitude":41.808791,
+    "geom:longitude":-72.262669,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"134 N Eagleville Rd",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/mansfield/18199-sgt-pepperonis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 429 8888",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "chicken",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931263,
+        102085379,
+        85815787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GQFnFk2Np52STdHFb1orX_41.808791_-72.262669@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453747,
+    "wof:geomhash":"babddb21c9238b6486ccaeefd9daf0ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931263,
+            "neighbourhood_id":85815787,
+            "region_id":85688629,
+            "venue_id":824075349
+        }
+    ],
+    "wof:id":824075349,
+    "wof:lastmodified":1466422570,
+    "wof:name":"Sgt. Pepperoni's",
+    "wof:parent_id":85815787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "chicken",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.262669,
+    41.808791,
+    -72.262669,
+    41.808791
+],
+  "geometry": {"coordinates":[-72.262669,41.808791],"type":"Point"}
+}

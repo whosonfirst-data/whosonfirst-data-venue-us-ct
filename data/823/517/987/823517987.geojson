@@ -1,0 +1,73 @@
+{
+  "id": 823517987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.206597,41.359659,-72.206597,41.359659",
+    "geom:latitude":41.359659,
+    "geom:longitude":-72.206597,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 King Arthur Dr",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 5516",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822167,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_323RPrqKcHApSmk2NYX6f3_41.359659_-72.206597@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439981,
+    "wof:geomhash":"51a5670a93b4c79fec4c5518371d0b88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85822167,
+            "region_id":85688629,
+            "venue_id":823517987
+        }
+    ],
+    "wof:id":823517987,
+    "wof:lastmodified":1466421851,
+    "wof:name":"Deerfield Village Associates",
+    "wof:parent_id":85822167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.206597,
+    41.359659,
+    -72.206597,
+    41.359659
+],
+  "geometry": {"coordinates":[-72.206597,41.359659],"type":"Point"}
+}

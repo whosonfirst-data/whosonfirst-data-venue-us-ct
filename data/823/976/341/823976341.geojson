@@ -1,0 +1,75 @@
+{
+  "id": 823976341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.735445,41.816897,-72.735445,41.816897",
+    "geom:latitude":41.816897,
+    "geom:longitude":-72.735445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"719 Cottage Grove Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "clinic",
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qFwnuaqYA2QRJ1PdV8lLO_41.816897_-72.735445@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451384,
+    "wof:geomhash":"f084b7a7fc56b05af5801766b16fd13b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":823976341
+        }
+    ],
+    "wof:id":823976341,
+    "wof:lastmodified":1466426544,
+    "wof:name":"Smile America Dental Center",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.735445,
+    41.816897,
+    -72.735445,
+    41.816897
+],
+  "geometry": {"coordinates":[-72.735445,41.816897],"type":"Point"}
+}

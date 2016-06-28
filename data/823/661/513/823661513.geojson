@@ -1,0 +1,81 @@
+{
+  "id": 823661513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.879581,41.376789,-72.879581,41.376789",
+    "geom:latitude":41.376789,
+    "geom:longitude":-72.879581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Stiles Ln",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 3141",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834309,
+        102191575,
+        404495789,
+        85633793,
+        85931389,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ARNTONbxrlTjbQ4hYKm1s_41.376789_-72.879581@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443369,
+    "wof:geomhash":"fd736bc48603203ef91f95cdcc41472a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495789,
+            "locality_id":85931389,
+            "neighbourhood_id":85834309,
+            "region_id":85688629,
+            "venue_id":823661513
+        }
+    ],
+    "wof:id":823661513,
+    "wof:lastmodified":1466423904,
+    "wof:name":"Bouchard Automotive Inc",
+    "wof:parent_id":85834309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.879581,
+    41.376789,
+    -72.879581,
+    41.376789
+],
+  "geometry": {"coordinates":[-72.879581,41.376789],"type":"Point"}
+}

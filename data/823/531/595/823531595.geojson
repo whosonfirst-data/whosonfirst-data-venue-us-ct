@@ -1,0 +1,71 @@
+{
+  "id": 823531595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206462,41.639685,-73.206462,41.639685",
+    "geom:latitude":41.639685,
+    "geom:longitude":-73.206462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 East St",
+    "sg:city":"Bethlehem",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 266 6643",
+    "sg:postcode":"06751",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847045,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L2j7rGHNe63zMJeiKx4pM_41.639685_-73.206462@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440283,
+    "wof:geomhash":"797194b6fc8c40dd39c0c0b452c48daf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":823531595
+        }
+    ],
+    "wof:id":823531595,
+    "wof:lastmodified":1466422354,
+    "wof:name":"Suburban Construction",
+    "wof:parent_id":85847045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.206462,
+    41.639685,
+    -73.206462,
+    41.639685
+],
+  "geometry": {"coordinates":[-73.206462,41.639685],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823753993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081818,41.397597,-73.081818,41.397597",
+    "geom:latitude":41.397597,
+    "geom:longitude":-73.081818,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"235 Bank St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 2890",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QgQ9UbNRsomctaX0bEipb_41.397597_-73.081818@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445480,
+    "wof:geomhash":"1d20bf6d808f6b347c5483a250a13860",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823753993
+        }
+    ],
+    "wof:id":823753993,
+    "wof:lastmodified":1466424720,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.081818,
+    41.397597,
+    -73.081818,
+    41.397597
+],
+  "geometry": {"coordinates":[-73.081818,41.397597],"type":"Point"}
+}

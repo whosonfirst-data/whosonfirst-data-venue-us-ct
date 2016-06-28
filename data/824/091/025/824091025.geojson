@@ -1,0 +1,76 @@
+{
+  "id": 824091025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.492287,41.88406,-73.492287,41.88406",
+    "geom:latitude":41.88406,
+    "geom:longitude":-73.492287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"151 Sharon Valley Rd",
+    "sg:city":"Sharon",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 364 9355",
+    "sg:postcode":"06069",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85850959,
+        102082363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZxHwecwHRZdef9ucOPMgv_41.884060_-73.492287@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454109,
+    "wof:geomhash":"8dce4f0d37e35c1d1a3930c8d70e8b45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85850959,
+            "region_id":85688543,
+            "venue_id":824091025
+        }
+    ],
+    "wof:id":824091025,
+    "wof:lastmodified":1466422815,
+    "wof:name":"Sharon Valley Tavern",
+    "wof:parent_id":85850959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -73.492287,
+    41.88406,
+    -73.492287,
+    41.88406
+],
+  "geometry": {"coordinates":[-73.492287,41.88406],"type":"Point"}
+}

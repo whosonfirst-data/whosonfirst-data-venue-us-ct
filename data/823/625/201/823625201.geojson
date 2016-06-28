@@ -1,0 +1,71 @@
+{
+  "id": 823625201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.937975,41.33974,-72.937975,41.33974",
+    "geom:latitude":41.33974,
+    "geom:longitude":-72.937975,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Pine St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 5459",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10D2VwTz8e0po3gEGfevms_41.339740_-72.937975@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442518,
+    "wof:geomhash":"3ef5662faa0ec631762156112d333c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823625201
+        }
+    ],
+    "wof:id":823625201,
+    "wof:lastmodified":1466423544,
+    "wof:name":"Elderly Services Nutrition",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -72.937975,
+    41.33974,
+    -72.937975,
+    41.33974
+],
+  "geometry": {"coordinates":[-72.93797499999999,41.33974],"type":"Point"}
+}

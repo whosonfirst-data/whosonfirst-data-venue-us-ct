@@ -1,0 +1,87 @@
+{
+  "id": 824115443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251855,41.181248,-73.251855,41.181248",
+    "geom:latitude":41.181248,
+    "geom:longitude":-73.251855,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Stillson Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 579 0304",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "therapist",
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j67mYn2edbwEzD4JewCE4_41.181248_-73.251855@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454666,
+    "wof:geomhash":"436c84940cd98f35e9dbc6b26fcdc843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852811,
+            "region_id":85688629,
+            "venue_id":824115443
+        }
+    ],
+    "wof:id":824115443,
+    "wof:lastmodified":1466423138,
+    "wof:name":"Comprehensive Chiropractic",
+    "wof:parent_id":85852811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "therapist",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -73.251855,
+    41.181248,
+    -73.251855,
+    41.181248
+],
+  "geometry": {"coordinates":[-73.25185500000001,41.181248],"type":"Point"}
+}

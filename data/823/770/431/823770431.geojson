@@ -1,0 +1,66 @@
+{
+  "id": 823770431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.305021,41.361877,-72.305021,41.361877",
+    "geom:latitude":41.361877,
+    "geom:longitude":-72.305021,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"155 Rogers Lake Trl",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830045,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VE5c6UqLz4RYFzmVTof4H_41.361877_-72.305021@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445834,
+    "wof:geomhash":"a91f996e6cd5ec9f2d3a53a0dc1e2818",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85830045,
+            "region_id":85688629,
+            "venue_id":823770431
+        }
+    ],
+    "wof:id":823770431,
+    "wof:lastmodified":1466424844,
+    "wof:name":"Robert Bambino",
+    "wof:parent_id":85830045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.305021,
+    41.361877,
+    -72.305021,
+    41.361877
+],
+  "geometry": {"coordinates":[-72.305021,41.361877],"type":"Point"}
+}

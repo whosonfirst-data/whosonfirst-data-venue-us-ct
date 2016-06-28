@@ -1,0 +1,71 @@
+{
+  "id": 823675125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.386371,41.441089,-73.386371,41.441089",
+    "geom:latitude":41.441089,
+    "geom:longitude":-73.386371,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"14 Knollcrest Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71DlcwLXECs3r5k4Eb9pIT_41.441089_-73.386371@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443685,
+    "wof:geomhash":"f42e02cc9e027abd60eae38471c44a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823675125
+        }
+    ],
+    "wof:id":823675125,
+    "wof:lastmodified":1466424000,
+    "wof:name":"JC Custom Trim LLC",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -73.386371,
+    41.441089,
+    -73.386371,
+    41.441089
+],
+  "geometry": {"coordinates":[-73.386371,41.441089],"type":"Point"}
+}

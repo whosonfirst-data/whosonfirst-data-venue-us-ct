@@ -1,0 +1,83 @@
+{
+  "id": 823838639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.50543,41.781249,-72.50543,41.781249",
+    "geom:latitude":41.781249,
+    "geom:longitude":-72.50543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Gerard St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment",
+        "station",
+        "pumping",
+        "for"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832071,
+        102191575,
+        404495985,
+        85633793,
+        85931105,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XwJkiWtXrmLC2SLUKG7MV_41.781249_-72.505430@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447895,
+    "wof:geomhash":"e01b60ed9b9ff54311adde4da59c4423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495985,
+            "locality_id":85931105,
+            "neighbourhood_id":85832071,
+            "region_id":85688629,
+            "venue_id":823838639
+        }
+    ],
+    "wof:id":823838639,
+    "wof:lastmodified":1466425444,
+    "wof:name":"New England Instrs Svc Assoc",
+    "wof:parent_id":85832071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "station",
+        "pumping",
+        "for"
+    ]
+},
+  "bbox": [
+    -72.50543,
+    41.781249,
+    -72.50543,
+    41.781249
+],
+  "geometry": {"coordinates":[-72.50543,41.781249],"type":"Point"}
+}

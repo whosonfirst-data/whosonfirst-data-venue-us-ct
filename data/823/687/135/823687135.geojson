@@ -1,0 +1,73 @@
+{
+  "id": 823687135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.283632,41.277377,-73.283632,41.277377",
+    "geom:latitude":41.277377,
+    "geom:longitude":-73.283632,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Bayberry Ln",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6777",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P9UUyAQ5LboWFjwvuEbX5_41.277377_-73.283632@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443955,
+    "wof:geomhash":"d5c43090b5c7074f17926e279712b19a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823687135
+        }
+    ],
+    "wof:id":823687135,
+    "wof:lastmodified":1466424071,
+    "wof:name":"Bayberry Electric Co",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.283632,
+    41.277377,
+    -73.283632,
+    41.277377
+],
+  "geometry": {"coordinates":[-73.283632,41.277377],"type":"Point"}
+}

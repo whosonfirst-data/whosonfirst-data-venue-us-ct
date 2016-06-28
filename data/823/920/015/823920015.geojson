@@ -1,0 +1,75 @@
+{
+  "id": 823920015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.210694,41.346803,-73.210694,41.346803",
+    "geom:latitude":41.346803,
+    "geom:longitude":-73.210694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"118 Maryanne Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 5682",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hMh1mSiKmFGm3Bnumymln_41.346803_-73.210694@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449996,
+    "wof:geomhash":"a0bc26e4a69e8e4ce91ccd0120c1fc3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823920015
+        }
+    ],
+    "wof:id":823920015,
+    "wof:lastmodified":1466426136,
+    "wof:name":"Pearson Trucking LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -73.210694,
+    41.346803,
+    -73.210694,
+    41.346803
+],
+  "geometry": {"coordinates":[-73.210694,41.346803],"type":"Point"}
+}

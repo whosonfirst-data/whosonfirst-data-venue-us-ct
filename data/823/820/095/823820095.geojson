@@ -1,0 +1,71 @@
+{
+  "id": 823820095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143562,41.347398,-73.143562,41.347398",
+    "geom:latitude":41.347398,
+    "geom:longitude":-73.143562,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Hickory Ln",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74lY8rmnAVnzKuSyCKPkSv_41.347398_-73.143562@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447296,
+    "wof:geomhash":"efc0ef4c00fc07008cd55bc1c50de8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823820095
+        }
+    ],
+    "wof:id":823820095,
+    "wof:lastmodified":1466425248,
+    "wof:name":"Thomas P Whelan",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.143562,
+    41.347398,
+    -73.143562,
+    41.347398
+],
+  "geometry": {"coordinates":[-73.143562,41.347398],"type":"Point"}
+}

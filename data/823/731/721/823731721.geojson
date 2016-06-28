@@ -1,0 +1,77 @@
+{
+  "id": 823731721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.458458,41.634564,-72.458458,41.634564",
+    "geom:latitude":41.634564,
+    "geom:longitude":-72.458458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Hebron Rd",
+    "sg:city":"Marlborough",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06447",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865197,
+        102191575,
+        404495987,
+        85633793,
+        85931033,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11IZaVr9aDyyBgQO0ME4Or_41.634564_-72.458458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444952,
+    "wof:geomhash":"a6d4f348ec850f48fb9961249e056123",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495987,
+            "locality_id":85931033,
+            "neighbourhood_id":85865197,
+            "region_id":85688629,
+            "venue_id":823731721
+        }
+    ],
+    "wof:id":823731721,
+    "wof:lastmodified":1466424515,
+    "wof:name":"Middlesex Med Ctr Marlborough",
+    "wof:parent_id":85865197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.458458,
+    41.634564,
+    -72.458458,
+    41.634564
+],
+  "geometry": {"coordinates":[-72.45845799999999,41.634564],"type":"Point"}
+}

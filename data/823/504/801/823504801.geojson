@@ -1,0 +1,71 @@
+{
+  "id": 823504801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.420897,41.536191,-73.420897,41.536191",
+    "geom:latitude":41.536191,
+    "geom:longitude":-73.420897,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Lanesville Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 354 2952",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809223,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fkAKFEQCk3eCVEv8vnPVG_41.536191_-73.420897@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439680,
+    "wof:geomhash":"0aa391ce4d0f99a47bedcda0d0d38c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809223,
+            "region_id":85688629,
+            "venue_id":823504801
+        }
+    ],
+    "wof:id":823504801,
+    "wof:lastmodified":1466421776,
+    "wof:name":"Lanesville Fire Dept",
+    "wof:parent_id":85809223,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.420897,
+    41.536191,
+    -73.420897,
+    41.536191
+],
+  "geometry": {"coordinates":[-73.420897,41.536191],"type":"Point"}
+}

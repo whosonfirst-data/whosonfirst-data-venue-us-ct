@@ -1,0 +1,82 @@
+{
+  "id": 824029381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.920551,41.348578,-72.920551,41.348578",
+    "geom:latitude":41.348578,
+    "geom:longitude":-72.920551,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"153 Leeder Hill Dr",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 5700",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "sg:website":"www.hcrmanorcare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I0jRp3218Rn2LFfKbKRuz_41.348578_-72.920551@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452648,
+    "wof:geomhash":"9bab007d66345592e0443d2ae9afa5c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824029381
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":824029381
+        }
+    ],
+    "wof:id":824029381,
+    "wof:lastmodified":1466421715,
+    "wof:name":"Arden Courts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.920551,
+    41.348578,
+    -72.920551,
+    41.348578
+],
+  "geometry": {"coordinates":[-72.920551,41.348578],"type":"Point"}
+}

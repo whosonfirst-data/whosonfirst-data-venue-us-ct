@@ -1,0 +1,87 @@
+{
+  "id": 824034913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778961,41.685763,-72.778961,41.685763",
+    "geom:latitude":41.685763,
+    "geom:longitude":-72.778961,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Jackson St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 229 0455",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "education",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85867445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xRL3uh5G4BrM7coumJj2J_41.685763_-72.778961@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452782,
+    "wof:geomhash":"799dc03d6cd80470b7b3fc035efed4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":824034913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":824034913
+        }
+    ],
+    "wof:id":824034913,
+    "wof:lastmodified":1466421819,
+    "wof:name":"Mary Carter Rak",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "education",
+        "religious"
+    ]
+},
+  "bbox": [
+    -72.778961,
+    41.685763,
+    -72.778961,
+    41.685763
+],
+  "geometry": {"coordinates":[-72.778961,41.685763],"type":"Point"}
+}

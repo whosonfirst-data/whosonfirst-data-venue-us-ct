@@ -1,0 +1,80 @@
+{
+  "id": 823720389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.985369,41.256265,-72.985369,41.256265",
+    "geom:latitude":41.256265,
+    "geom:longitude":-72.985369,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Callegari Dr",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 933 9323",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pickled",
+        "dressing"
+    ],
+    "sg:website":"www.cosmosfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856347,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dTJXj9gPHZTdLDLHTGCI2_41.256265_-72.985369@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444659,
+    "wof:geomhash":"ff9e8a2c9889d16f4c9e1be2a319560c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85856347,
+            "region_id":85688629,
+            "venue_id":823720389
+        }
+    ],
+    "wof:id":823720389,
+    "wof:lastmodified":1466424447,
+    "wof:name":"Cosmo Food Products",
+    "wof:parent_id":85856347,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pickled",
+        "dressing"
+    ]
+},
+  "bbox": [
+    -72.985369,
+    41.256265,
+    -72.985369,
+    41.256265
+],
+  "geometry": {"coordinates":[-72.98536900000001,41.256265],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824096365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.111529,41.906899,-72.111529,41.906899",
+    "geom:latitude":41.906899,
+    "geom:longitude":-72.111529,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"179 Westford Rd",
+    "sg:city":"Eastford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 974 0125",
+    "sg:postcode":"06242",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828179,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tFg0R5xtle9euOAzNnlhX_41.906899_-72.111529@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454252,
+    "wof:geomhash":"027ec08ba976d12893c27889f2d64f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85828179,
+            "region_id":85688629,
+            "venue_id":824096365
+        }
+    ],
+    "wof:id":824096365,
+    "wof:lastmodified":1466423010,
+    "wof:name":"Eastford Public Library",
+    "wof:parent_id":85828179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.111529,
+    41.906899,
+    -72.111529,
+    41.906899
+],
+  "geometry": {"coordinates":[-72.111529,41.906899],"type":"Point"}
+}

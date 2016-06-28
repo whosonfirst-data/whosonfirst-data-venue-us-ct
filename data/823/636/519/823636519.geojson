@@ -1,0 +1,71 @@
+{
+  "id": 823636519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.969016,41.621646,-72.969016,41.621646",
+    "geom:latitude":41.621646,
+    "geom:longitude":-72.969016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1188 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 4966",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zkfGF0DL78tH19xfC98eb_41.621646_-72.969016@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442773,
+    "wof:geomhash":"0789d1fe50052c2d7d146bb1599bcd21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823636519
+        }
+    ],
+    "wof:id":823636519,
+    "wof:lastmodified":1466423668,
+    "wof:name":"Simon Gagnon Moving Inc",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -72.969016,
+    41.621646,
+    -72.969016,
+    41.621646
+],
+  "geometry": {"coordinates":[-72.969016,41.621646],"type":"Point"}
+}

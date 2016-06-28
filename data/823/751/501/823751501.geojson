@@ -1,0 +1,73 @@
+{
+  "id": 823751501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.108375,41.556299,-72.108375,41.556299",
+    "geom:latitude":41.556299,
+    "geom:longitude":-72.108375,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 W Town St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mc6smuDeJX6t0rXSi7DSR_41.556299_-72.108375@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445418,
+    "wof:geomhash":"8e0e3a27bbdcb668d8abe6f5fe6fee90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823751501
+        }
+    ],
+    "wof:id":823751501,
+    "wof:lastmodified":1466424744,
+    "wof:name":"Comprhnsive Psychatric Care PC",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.108375,
+    41.556299,
+    -72.108375,
+    41.556299
+],
+  "geometry": {"coordinates":[-72.108375,41.556299],"type":"Point"}
+}

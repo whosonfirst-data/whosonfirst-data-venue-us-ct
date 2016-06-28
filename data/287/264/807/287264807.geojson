@@ -2,13 +2,14 @@
   "id": 287264807,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.498849,41.144597,-73.498849,41.144597",
     "geom:latitude":41.144597,
     "geom:longitude":-73.498849,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Grove St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":287264807,
-    "wof:lastmodified":1449001259,
+    "wof:lastmodified":1466421102,
     "wof:name":"Douglas Stuart Property Mgmt",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-73.498849,41.144597,-73.498849,41.144597],
-  "geometry": {"coordinates":[-73.498849,41.144597],"type":"Point"}
+  "bbox": [
+    -73.498849,
+    41.144597,
+    -73.498849,
+    41.144597
+],
+  "geometry": {"coordinates":[-73.49884900000001,41.144597],"type":"Point"}
 }

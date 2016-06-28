@@ -1,0 +1,72 @@
+{
+  "id": 823528461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.608273,41.270589,-72.608273,41.270589",
+    "geom:latitude":41.270589,
+    "geom:longitude":-72.608273,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 W Wharf Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 0005",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833961,
+        102191575,
+        404495779,
+        85633793,
+        85931393,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bpc6W8ogmFsbGnJyj9iNw_41.270589_-72.608273@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440223,
+    "wof:geomhash":"c9adf5d5c76da8de077d7b7372a74791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495779,
+            "locality_id":85931393,
+            "neighbourhood_id":85833961,
+            "region_id":85688629,
+            "venue_id":823528461
+        }
+    ],
+    "wof:id":823528461,
+    "wof:lastmodified":1466422260,
+    "wof:name":"Wharf",
+    "wof:parent_id":85833961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.608273,
+    41.270589,
+    -72.608273,
+    41.270589
+],
+  "geometry": {"coordinates":[-72.608273,41.270589],"type":"Point"}
+}

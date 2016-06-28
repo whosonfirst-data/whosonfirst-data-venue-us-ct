@@ -1,0 +1,71 @@
+{
+  "id": 823689791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.64033,41.285325,-72.64033,41.285325",
+    "geom:latitude":41.285325,
+    "geom:longitude":-72.64033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Boston Post Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 9145",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pM2BqznK5R9em0H3tRRHj_41.285325_-72.640330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444008,
+    "wof:geomhash":"55c960ee2656fed98037f8c0fa2bf143",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823689791
+        }
+    ],
+    "wof:id":823689791,
+    "wof:lastmodified":1466424151,
+    "wof:name":"Crescent Motel",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -72.64033,
+    41.285325,
+    -72.64033,
+    41.285325
+],
+  "geometry": {"coordinates":[-72.64033000000001,41.285325],"type":"Point"}
+}

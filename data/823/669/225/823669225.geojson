@@ -1,0 +1,82 @@
+{
+  "id": 823669225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.928348,41.3549,-72.928348,41.3549",
+    "geom:latitude":41.3549,
+    "geom:longitude":-72.928348,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Pershing St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 5241",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "representative",
+        "manufacturer"
+    ],
+    "sg:website":"www.packtor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oImQ6UvkBgCGxV6r1O1Tk_41.354900_-72.928348@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443556,
+    "wof:geomhash":"0d6160c98cd7409dc9aa40d868b1bd48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823669225
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823669225
+        }
+    ],
+    "wof:id":823669225,
+    "wof:lastmodified":1466423924,
+    "wof:name":"Bernard M Packtor Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.928348,
+    41.3549,
+    -72.928348,
+    41.3549
+],
+  "geometry": {"coordinates":[-72.928348,41.3549],"type":"Point"}
+}

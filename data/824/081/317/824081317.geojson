@@ -1,0 +1,78 @@
+{
+  "id": 824081317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.547794,41.041975,-73.547794,41.041975",
+    "geom:latitude":41.041975,
+    "geom:longitude":-73.547794,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"301 Greenwich Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stamford/108468-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 661 3042",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849635,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27M6Gx33Tltj8aY0UxHXYA_41.041975_-73.547794@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453882,
+    "wof:geomhash":"09629482a03fc870bb3360173f3b4d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85849635,
+            "region_id":85688629,
+            "venue_id":824081317
+        }
+    ],
+    "wof:id":824081317,
+    "wof:lastmodified":1466422579,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85849635,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -73.547794,
+    41.041975,
+    -73.547794,
+    41.041975
+],
+  "geometry": {"coordinates":[-73.547794,41.041975],"type":"Point"}
+}

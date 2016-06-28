@@ -1,0 +1,73 @@
+{
+  "id": 823864699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.103478,41.704701,-73.103478,41.704701",
+    "geom:latitude":41.704701,
+    "geom:longitude":-73.103478,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Newton Rd",
+    "sg:city":"Northfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 1280",
+    "sg:postcode":"06778",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02RbX6GI1NEbKYF55M2cHg_41.704701_-73.103478@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448619,
+    "wof:geomhash":"229d2332123227d39cf3f62b68f543ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823864699
+        }
+    ],
+    "wof:id":823864699,
+    "wof:lastmodified":1466425661,
+    "wof:name":"J&F Concrete Foundation I",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.103478,
+    41.704701,
+    -73.103478,
+    41.704701
+],
+  "geometry": {"coordinates":[-73.103478,41.704701],"type":"Point"}
+}

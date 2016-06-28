@@ -1,0 +1,71 @@
+{
+  "id": 823963115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.604979,41.712914,-72.604979,41.712914",
+    "geom:latitude":41.712914,
+    "geom:longitude":-72.604979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Hebron Ave",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 659 6703",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AgPNjBYVA0lvCqiCLydS3_41.712914_-72.604979@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451093,
+    "wof:geomhash":"9a0228348dbef9d5374d4f24916be577",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823963115
+        }
+    ],
+    "wof:id":823963115,
+    "wof:lastmodified":1466426618,
+    "wof:name":"Federal Highway Administration",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -72.604979,
+    41.712914,
+    -72.604979,
+    41.712914
+],
+  "geometry": {"coordinates":[-72.604979,41.712914],"type":"Point"}
+}

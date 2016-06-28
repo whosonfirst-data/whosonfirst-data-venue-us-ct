@@ -1,0 +1,83 @@
+{
+  "id": 823832135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.704118,41.620053,-72.704118,41.620053",
+    "geom:latitude":41.620053,
+    "geom:longitude":-72.704118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Pasco Hill Rd",
+    "sg:city":"Cromwell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06416",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "without",
+        "driver",
+        "lease"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856893,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Wq1LOK4sJJJoy4PJC7iqi_41.620053_-72.704118@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447665,
+    "wof:geomhash":"2a00b28f97bfeb9933d8318ae4f10eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85856893,
+            "region_id":85688629,
+            "venue_id":823832135
+        }
+    ],
+    "wof:id":823832135,
+    "wof:lastmodified":1466425419,
+    "wof:name":"L & W Sales",
+    "wof:parent_id":85856893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "without",
+        "driver",
+        "lease"
+    ]
+},
+  "bbox": [
+    -72.704118,
+    41.620053,
+    -72.704118,
+    41.620053
+],
+  "geometry": {"coordinates":[-72.70411799999999,41.620053],"type":"Point"}
+}

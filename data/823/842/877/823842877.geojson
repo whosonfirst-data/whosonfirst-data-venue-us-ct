@@ -1,0 +1,73 @@
+{
+  "id": 823842877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.91611,41.51648,-72.91611,41.51648",
+    "geom:latitude":41.51648,
+    "geom:longitude":-72.91611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"291 Carlton Dr",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 272 3402",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GkE8Zgd0hpMz5oG6RKzHS_41.516480_-72.916110@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448017,
+    "wof:geomhash":"271270fe724df976008d03397b7b6747",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":823842877
+        }
+    ],
+    "wof:id":823842877,
+    "wof:lastmodified":1466425518,
+    "wof:name":"Cheshire Electric",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.91611,
+    41.51648,
+    -72.91611,
+    41.51648
+],
+  "geometry": {"coordinates":[-72.91611,41.51648],"type":"Point"}
+}

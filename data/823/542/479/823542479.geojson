@@ -1,0 +1,71 @@
+{
+  "id": 823542479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.899552,41.923601,-71.899552,41.923601",
+    "geom:latitude":41.923601,
+    "geom:longitude":-71.899552,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Mechanics St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 6499",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v3DkVh1t0LBeTZl8CM8tY_41.923601_-71.899552@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440521,
+    "wof:geomhash":"75f5db009c17b53407deb3bbef346fac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823542479
+        }
+    ],
+    "wof:id":823542479,
+    "wof:lastmodified":1466422410,
+    "wof:name":"Bar-B-Q-hut",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -71.899552,
+    41.923601,
+    -71.899552,
+    41.923601
+],
+  "geometry": {"coordinates":[-71.899552,41.923601],"type":"Point"}
+}

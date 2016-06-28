@@ -1,0 +1,66 @@
+{
+  "id": 823641411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250883,41.305245,-73.250883,41.305245",
+    "geom:latitude":41.305245,
+    "geom:longitude":-73.250883,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Purdy Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bhpOUzMc6SkKKR4KYVGV3_41.305245_-73.250883@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442884,
+    "wof:geomhash":"5faded6538f7aea1124f5cab0a4f30e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823641411
+        }
+    ],
+    "wof:id":823641411,
+    "wof:lastmodified":1466423656,
+    "wof:name":"John Chadys DMD",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.250883,
+    41.305245,
+    -73.250883,
+    41.305245
+],
+  "geometry": {"coordinates":[-73.250883,41.305245],"type":"Point"}
+}

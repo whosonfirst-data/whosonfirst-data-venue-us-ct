@@ -1,0 +1,77 @@
+{
+  "id": 824039057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.036279,41.543825,-73.036279,41.543825",
+    "geom:latitude":41.543825,
+    "geom:longitude":-73.036279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Washington St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 591 9256",
+    "sg:postcode":"06706",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85826239,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s26ygtvVbqiphh3zoMs3p_41.543825_-73.036279@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452908,
+    "wof:geomhash":"0e145c1526f2f9e8de78a3598b503e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85826239,
+            "region_id":85688629,
+            "venue_id":824039057
+        }
+    ],
+    "wof:id":824039057,
+    "wof:lastmodified":1466421839,
+    "wof:name":"Dr Grocery Store",
+    "wof:parent_id":85826239,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.036279,
+    41.543825,
+    -73.036279,
+    41.543825
+],
+  "geometry": {"coordinates":[-73.03627899999999,41.543825],"type":"Point"}
+}

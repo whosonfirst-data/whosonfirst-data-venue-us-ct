@@ -1,0 +1,66 @@
+{
+  "id": 824064421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.286146,41.298113,-73.286146,41.298113",
+    "geom:latitude":41.298113,
+    "geom:longitude":-73.286146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"310 Everett Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 6948",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kTOwoy6T8cdFbIU4Iq3uJ_41.298113_-73.286146@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453483,
+    "wof:geomhash":"ebf37cf61b787dbb7b74ff4ba9e5e1d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824064421
+        }
+    ],
+    "wof:id":824064421,
+    "wof:lastmodified":1466422261,
+    "wof:name":"Thomas Realty Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.286146,
+    41.298113,
+    -73.286146,
+    41.298113
+],
+  "geometry": {"coordinates":[-73.286146,41.298113],"type":"Point"}
+}

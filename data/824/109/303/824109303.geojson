@@ -1,0 +1,77 @@
+{
+  "id": 824109303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.214198,41.16328,-73.214198,41.16328",
+    "geom:latitude":41.16328,
+    "geom:longitude":-73.214198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1001 Wordin Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 5387",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7N3sa9iAa84fWbiQNS2fLL_41.163280_-73.214198@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454541,
+    "wof:geomhash":"7726a75c72c67d09b1f8b9d97263225a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824109303
+        }
+    ],
+    "wof:id":824109303,
+    "wof:lastmodified":1466423116,
+    "wof:name":"Hines Brothers International",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.214198,
+    41.16328,
+    -73.214198,
+    41.16328
+],
+  "geometry": {"coordinates":[-73.214198,41.16328],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823911611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92831,41.355854,-72.92831,41.355854",
+    "geom:latitude":41.355854,
+    "geom:longitude":-72.92831,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1564 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 0101",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V8fYNJ3kh9QdbNKlCvBpc_41.355854_-72.928310@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449788,
+    "wof:geomhash":"ff4c8a1194f6a0a9cd828ca77eff5b69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823911611
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823911611
+        }
+    ],
+    "wof:id":823911611,
+    "wof:lastmodified":1466426123,
+    "wof:name":"Buffers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -72.92831,
+    41.355854,
+    -72.92831,
+    41.355854
+],
+  "geometry": {"coordinates":[-72.92831,41.355854],"type":"Point"}
+}

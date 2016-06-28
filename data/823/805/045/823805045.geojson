@@ -1,0 +1,75 @@
+{
+  "id": 823805045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093386,41.800022,-73.093386,41.800022",
+    "geom:latitude":41.800022,
+    "geom:longitude":-73.093386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Sunrise Dr",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 2989",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VHITdsrtjDQP9Gvxromzl_41.800022_-73.093386@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446848,
+    "wof:geomhash":"c547bdf0c43b0b8da28f56d19ee32b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823805045
+        }
+    ],
+    "wof:id":823805045,
+    "wof:lastmodified":1466425183,
+    "wof:name":"Vision Properties LLC",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.093386,
+    41.800022,
+    -73.093386,
+    41.800022
+],
+  "geometry": {"coordinates":[-73.093386,41.800022],"type":"Point"}
+}

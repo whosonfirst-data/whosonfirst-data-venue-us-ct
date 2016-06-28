@@ -1,0 +1,71 @@
+{
+  "id": 823610023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.21295,41.347932,-73.21295,41.347932",
+    "geom:latitude":41.347932,
+    "geom:longitude":-73.21295,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Christianna Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 4967",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w4wd6sP7zkUHn0EQnz6MY_41.347932_-73.212950@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442140,
+    "wof:geomhash":"281650e0f2530d745ef7c4977703acb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823610023
+        }
+    ],
+    "wof:id":823610023,
+    "wof:lastmodified":1466423418,
+    "wof:name":"Distefano Builders",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.21295,
+    41.347932,
+    -73.21295,
+    41.347932
+],
+  "geometry": {"coordinates":[-73.21295000000001,41.347932],"type":"Point"}
+}

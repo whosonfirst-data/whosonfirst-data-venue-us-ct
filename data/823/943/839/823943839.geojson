@@ -1,0 +1,77 @@
+{
+  "id": 823943839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.164549,41.173868,-73.164549,41.173868",
+    "geom:latitude":41.173868,
+    "geom:longitude":-73.164549,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"310 Smith St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 6144",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B50ZZm5IFpVyRweKF6Qbb_41.173868_-73.164549@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450612,
+    "wof:geomhash":"6104c31d7fcabb5204366da4ec64a36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":823943839
+        }
+    ],
+    "wof:id":823943839,
+    "wof:lastmodified":1466426437,
+    "wof:name":"Precision Welding Machining",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -73.164549,
+    41.173868,
+    -73.164549,
+    41.173868
+],
+  "geometry": {"coordinates":[-73.16454899999999,41.173868],"type":"Point"}
+}

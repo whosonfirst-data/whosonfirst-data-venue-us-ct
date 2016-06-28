@@ -1,0 +1,66 @@
+{
+  "id": 823780189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.404052,41.44549,-73.404052,41.44549",
+    "geom:latitude":41.44549,
+    "geom:longitude":-73.404052,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"247 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 1200",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bcIzjTcY5Y922awceYBtC_41.445490_-73.404052@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446094,
+    "wof:geomhash":"1c901df831fd5743163be4786c180cd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823780189
+        }
+    ],
+    "wof:id":823780189,
+    "wof:lastmodified":1466424916,
+    "wof:name":"Sound Federal Savings Bank",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.404052,
+    41.44549,
+    -73.404052,
+    41.44549
+],
+  "geometry": {"coordinates":[-73.40405199999999,41.44549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823523729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.976582,41.334294,-72.976582,41.334294",
+    "geom:latitude":41.334294,
+    "geom:longitude":-72.976582,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1460 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 387 2214",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KihNHB8GJiBZoMxmV38bt_41.334294_-72.976582@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440107,
+    "wof:geomhash":"d61d402d0c231934d052afadd7638f2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823523729
+        }
+    ],
+    "wof:id":823523729,
+    "wof:lastmodified":1466422149,
+    "wof:name":"Westville Kosher Bakery",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.976582,
+    41.334294,
+    -72.976582,
+    41.334294
+],
+  "geometry": {"coordinates":[-72.97658199999999,41.334294],"type":"Point"}
+}

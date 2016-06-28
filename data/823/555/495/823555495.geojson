@@ -1,0 +1,73 @@
+{
+  "id": 823555495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.887928,41.799948,-71.887928,41.799948",
+    "geom:latitude":41.799948,
+    "geom:longitude":-71.887928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Tiffany St",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 0472",
+    "sg:postcode":"06234",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MSs3UnzivBXAZIBdfprxK_41.799948_-71.887928@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440829,
+    "wof:geomhash":"57fe8b5bd1977ab3151fd81bcf7c8260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":823555495
+        }
+    ],
+    "wof:id":823555495,
+    "wof:lastmodified":1466422520,
+    "wof:name":"Ems Fire Department",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -71.887928,
+    41.799948,
+    -71.887928,
+    41.799948
+],
+  "geometry": {"coordinates":[-71.887928,41.799948],"type":"Point"}
+}

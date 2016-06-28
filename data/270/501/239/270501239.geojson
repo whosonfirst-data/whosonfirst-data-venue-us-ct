@@ -2,13 +2,14 @@
   "id": 270501239,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.468031,41.128201,-73.468031,41.128201",
     "geom:latitude":41.128201,
     "geom:longitude":-73.468031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"225 Marvin Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":270501239,
-    "wof:lastmodified":1449011129,
+    "wof:lastmodified":1466421102,
     "wof:name":"Filatov Design Co",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.468031,41.128201,-73.468031,41.128201],
+  "bbox": [
+    -73.468031,
+    41.128201,
+    -73.468031,
+    41.128201
+],
   "geometry": {"coordinates":[-73.468031,41.128201],"type":"Point"}
 }

@@ -1,0 +1,73 @@
+{
+  "id": 823907705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.594667,41.683966,-72.594667,41.683966",
+    "geom:latitude":41.683966,
+    "geom:longitude":-72.594667,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Brookfield Dr",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 7791",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "breeder",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ajEPmogeQhZbMYxPrhlOU_41.683966_-72.594667@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449665,
+    "wof:geomhash":"abf1a2734e403f228eecd1335538707d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823907705
+        }
+    ],
+    "wof:id":823907705,
+    "wof:lastmodified":1466426074,
+    "wof:name":"Brookfield Cattery",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "breeder",
+        "cat"
+    ]
+},
+  "bbox": [
+    -72.594667,
+    41.683966,
+    -72.594667,
+    41.683966
+],
+  "geometry": {"coordinates":[-72.594667,41.683966],"type":"Point"}
+}

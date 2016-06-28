@@ -1,0 +1,66 @@
+{
+  "id": 823868111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.205564,41.510191,-73.205564,41.510191",
+    "geom:latitude":41.510191,
+    "geom:longitude":-73.205564,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1188 Main St S",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 263 3232",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ypbr2gAX8Z1CrqpFV0RLj_41.510191_-73.205564@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448694,
+    "wof:geomhash":"6068d816243fc63539fcf173c31b78e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823868111
+        }
+    ],
+    "wof:id":823868111,
+    "wof:lastmodified":1466425727,
+    "wof:name":"Woodbury Veterinary Clinic",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.205564,
+    41.510191,
+    -73.205564,
+    41.510191
+],
+  "geometry": {"coordinates":[-73.205564,41.510191],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823517099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.006067,41.262987,-73.006067,41.262987",
+    "geom:latitude":41.262987,
+    "geom:longitude":-73.006067,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"291 Lambert Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 795 5425",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nEqZ8qqjWrbywRcWeAMtF_41.262987_-73.006067@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439955,
+    "wof:geomhash":"0993c55952ebabdc86f8d48a32012cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823517099
+        }
+    ],
+    "wof:id":823517099,
+    "wof:lastmodified":1466421758,
+    "wof:name":"Amiram Katz MD",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.006067,
+    41.262987,
+    -73.006067,
+    41.262987
+],
+  "geometry": {"coordinates":[-73.006067,41.262987],"type":"Point"}
+}

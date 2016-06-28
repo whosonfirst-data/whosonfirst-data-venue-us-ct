@@ -1,0 +1,73 @@
+{
+  "id": 823909531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.814882,41.496976,-72.814882,41.496976",
+    "geom:latitude":41.496976,
+    "geom:longitude":-72.814882,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"517 Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 269 6906",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "training",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b5EHCPsDN3Q7gXpmik1lf_41.496976_-72.814882@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449733,
+    "wof:geomhash":"ce7f2cd643031c525f7fe4f36ca60cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823909531
+        }
+    ],
+    "wof:id":823909531,
+    "wof:lastmodified":1466426116,
+    "wof:name":"Canine Cadre",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "dog"
+    ]
+},
+  "bbox": [
+    -72.814882,
+    41.496976,
+    -72.814882,
+    41.496976
+],
+  "geometry": {"coordinates":[-72.814882,41.496976],"type":"Point"}
+}

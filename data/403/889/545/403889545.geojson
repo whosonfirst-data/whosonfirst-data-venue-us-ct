@@ -2,13 +2,14 @@
   "id": 403889545,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.619662,41.191723,-73.619662,41.191723",
     "geom:latitude":41.191723,
     "geom:longitude":-73.619662,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"217 Long Ridge Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":403889545,
-    "wof:lastmodified":1449054608,
+    "wof:lastmodified":1466421096,
     "wof:name":"Relocation Consulting Service",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "relocation"
     ]
 },
-  "bbox": [-73.619662,41.191723,-73.619662,41.191723],
-  "geometry": {"coordinates":[-73.619662,41.191723],"type":"Point"}
+  "bbox": [
+    -73.619662,
+    41.191723,
+    -73.619662,
+    41.191723
+],
+  "geometry": {"coordinates":[-73.61966200000001,41.191723],"type":"Point"}
 }

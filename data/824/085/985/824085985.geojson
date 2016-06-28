@@ -1,0 +1,73 @@
+{
+  "id": 824085985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9618,41.767899,-72.9618,41.767899",
+    "geom:latitude":41.767899,
+    "geom:longitude":-72.9618,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Covey Rd",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 673 4842",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85857375,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z3y2HFIcgKYb9y8rQMKDi_41.767899_-72.961800@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453996,
+    "wof:geomhash":"acdeaacfccc23312a08801707418f13f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85857375,
+            "region_id":85688629,
+            "venue_id":824085985
+        }
+    ],
+    "wof:id":824085985,
+    "wof:lastmodified":1466422750,
+    "wof:name":"Schwaber David P DDS",
+    "wof:parent_id":85857375,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -72.9618,
+    41.767899,
+    -72.9618,
+    41.767899
+],
+  "geometry": {"coordinates":[-72.9618,41.767899],"type":"Point"}
+}

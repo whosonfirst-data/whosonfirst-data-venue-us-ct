@@ -1,0 +1,71 @@
+{
+  "id": 823765115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.475031,41.72339,-73.475031,41.72339",
+    "geom:latitude":41.72339,
+    "geom:longitude":-73.475031,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Maple St",
+    "sg:city":"Kent",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06757",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828129,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UxO0xBpWdbZ9l76vWo50E_41.723390_-73.475031@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445719,
+    "wof:geomhash":"30871666ae4aaded73d087a8f841926a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85828129,
+            "region_id":85688629,
+            "venue_id":823765115
+        }
+    ],
+    "wof:id":823765115,
+    "wof:lastmodified":1466424796,
+    "wof:name":"Specialty Care Center",
+    "wof:parent_id":85828129,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -73.475031,
+    41.72339,
+    -73.475031,
+    41.72339
+],
+  "geometry": {"coordinates":[-73.475031,41.72339],"type":"Point"}
+}

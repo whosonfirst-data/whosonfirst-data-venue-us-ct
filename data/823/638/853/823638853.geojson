@@ -1,0 +1,71 @@
+{
+  "id": 823638853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.708499,41.915068,-72.708499,41.915068",
+    "geom:latitude":41.915068,
+    "geom:longitude":-72.708499,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Merriman Rd",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c6kUqn4h5mX1Bf1V0r11l_41.915068_-72.708499@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442828,
+    "wof:geomhash":"c4b2db98de39dbcc60365923deb3b47e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823638853
+        }
+    ],
+    "wof:id":823638853,
+    "wof:lastmodified":1466423708,
+    "wof:name":"Merriman Road Home",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -72.708499,
+    41.915068,
+    -72.708499,
+    41.915068
+],
+  "geometry": {"coordinates":[-72.708499,41.915068],"type":"Point"}
+}

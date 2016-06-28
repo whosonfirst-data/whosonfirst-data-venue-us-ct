@@ -1,0 +1,66 @@
+{
+  "id": 824090473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.987701,41.9156,-72.987701,41.9156",
+    "geom:latitude":41.9156,
+    "geom:longitude":-72.987701,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 E River Rd",
+    "sg:city":"Barkhamsted",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 379 7020",
+    "sg:postcode":"06063",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804511,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6y09bDHdmOfhB5fzFpvyxW_41.915600_-72.987701@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454096,
+    "wof:geomhash":"ceffe1de0fc0cc70a359472d48f9e1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85804511,
+            "region_id":85688629,
+            "venue_id":824090473
+        }
+    ],
+    "wof:id":824090473,
+    "wof:lastmodified":1466422852,
+    "wof:name":"Yellow Victorian Restaurant",
+    "wof:parent_id":85804511,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.987701,
+    41.9156,
+    -72.987701,
+    41.9156
+],
+  "geometry": {"coordinates":[-72.987701,41.9156],"type":"Point"}
+}

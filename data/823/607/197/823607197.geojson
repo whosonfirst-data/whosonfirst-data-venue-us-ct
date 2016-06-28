@@ -1,0 +1,66 @@
+{
+  "id": 823607197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.25638,41.307914,-73.25638,41.307914",
+    "geom:latitude":41.307914,
+    "geom:longitude":-73.25638,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"176 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 8440",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p40vtA0c0dBai0MZLEbR2_41.307914_-73.256380@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442071,
+    "wof:geomhash":"e6ef0e6404a77b904d216bf4052a82a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823607197
+        }
+    ],
+    "wof:id":823607197,
+    "wof:lastmodified":1466423371,
+    "wof:name":"Monroe Spirits Shop",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.25638,
+    41.307914,
+    -73.25638,
+    41.307914
+],
+  "geometry": {"coordinates":[-73.25637999999999,41.307914],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823513607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.707598,41.686783,-72.707598,41.686783",
+    "geom:latitude":41.686783,
+    "geom:longitude":-72.707598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2300 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 1447",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MRKG02wNIqsUC5flZa7dP_41.686783_-72.707598@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439878,
+    "wof:geomhash":"42f76f6b553d61bc555e5412f5c70f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823513607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823513607
+        }
+    ],
+    "wof:id":823513607,
+    "wof:lastmodified":1466422081,
+    "wof:name":"Haines William A Dr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.707598,
+    41.686783,
+    -72.707598,
+    41.686783
+],
+  "geometry": {"coordinates":[-72.707598,41.686783],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824019505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.287116,41.391974,-73.287116,41.391974",
+    "geom:latitude":41.391974,
+    "geom:longitude":-73.287116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Simm Ln",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 1333",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qUH3H2wHit3HJElgI3k61_41.391974_-73.287116@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452412,
+    "wof:geomhash":"5acf06daf6ffefe794d0e5efb38328b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":824019505
+        }
+    ],
+    "wof:id":824019505,
+    "wof:lastmodified":1466421538,
+    "wof:name":"Newtown Car Wash",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.287116,
+    41.391974,
+    -73.287116,
+    41.391974
+],
+  "geometry": {"coordinates":[-73.287116,41.391974],"type":"Point"}
+}

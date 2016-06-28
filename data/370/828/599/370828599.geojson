@@ -2,13 +2,14 @@
   "id": 370828599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.660102,41.023331,-73.660102,41.023331",
     "geom:latitude":41.023331,
     "geom:longitude":-73.660102,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Fletcher Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":370828599,
-    "wof:lastmodified":1449030797,
+    "wof:lastmodified":1466421179,
     "wof:name":"Edgewater Group Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.660102,41.023331,-73.660102,41.023331],
-  "geometry": {"coordinates":[-73.660102,41.023331],"type":"Point"}
+  "bbox": [
+    -73.660102,
+    41.023331,
+    -73.660102,
+    41.023331
+],
+  "geometry": {"coordinates":[-73.66010199999999,41.023331],"type":"Point"}
 }

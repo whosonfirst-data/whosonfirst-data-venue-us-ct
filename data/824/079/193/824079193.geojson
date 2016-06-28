@@ -1,0 +1,74 @@
+{
+  "id": 824079193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.41729,41.555711,-73.41729,41.555711",
+    "geom:latitude":41.555711,
+    "geom:longitude":-73.41729,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"108 Danbury Rd",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-milford/99003-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 0826",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JZiqmDLUzN07kSqjZAAft_41.555711_-73.417290@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453835,
+    "wof:geomhash":"4c166b9058fffc2cc5b4f5f026eb13e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":824079193
+        }
+    ],
+    "wof:id":824079193,
+    "wof:lastmodified":1466422554,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -73.41729,
+    41.555711,
+    -73.41729,
+    41.555711
+],
+  "geometry": {"coordinates":[-73.41728999999999,41.555711],"type":"Point"}
+}

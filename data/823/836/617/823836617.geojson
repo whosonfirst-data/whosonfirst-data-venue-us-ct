@@ -1,0 +1,82 @@
+{
+  "id": 823836617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.746414,41.654235,-72.746414,41.654235",
+    "geom:latitude":41.654235,
+    "geom:longitude":-72.746414,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"182 Kelsey St",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 436 2086",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BkZJ6iitAoCecq93dGayQ_41.654235_-72.746414@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447817,
+    "wof:geomhash":"33d7e734c5e5582fdbd7251762a6e52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823836617
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823836617
+        }
+    ],
+    "wof:id":823836617,
+    "wof:lastmodified":1466425592,
+    "wof:name":"Final Detail",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.746414,
+    41.654235,
+    -72.746414,
+    41.654235
+],
+  "geometry": {"coordinates":[-72.746414,41.654235],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 824110571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.983163,41.510885,-72.983163,41.510885",
+    "geom:latitude":41.510885,
+    "geom:longitude":-72.983163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 Waterbury Rd",
+    "sg:city":"Prospect",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 758 7575",
+    "sg:postcode":"06712",
+    "sg:province":"CT",
+    "sg:tags":[
+        "restaurant"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77voVooj4BGnQ0IfIRJJ6s_41.510885_-72.983163@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454564,
+    "wof:geomhash":"c93067c4fcedf3b8b397bccc24f05ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":824110571
+        }
+    ],
+    "wof:id":824110571,
+    "wof:lastmodified":1466423248,
+    "wof:name":"Subway",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -72.983163,
+    41.510885,
+    -72.983163,
+    41.510885
+],
+  "geometry": {"coordinates":[-72.983163,41.510885],"type":"Point"}
+}

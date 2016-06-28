@@ -1,0 +1,71 @@
+{
+  "id": 823593387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.203685,41.527579,-73.203685,41.527579",
+    "geom:latitude":41.527579,
+    "geom:longitude":-73.203685,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"704 Main St S",
+    "sg:city":"Woodbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06798",
+    "sg:province":"CT",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842595,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DB4kiKKToPDwmiCAz6Fvw_41.527579_-73.203685@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441731,
+    "wof:geomhash":"dbea4d7a319e134a936e3b639a1336c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85842595,
+            "region_id":85688629,
+            "venue_id":823593387
+        }
+    ],
+    "wof:id":823593387,
+    "wof:lastmodified":1466423077,
+    "wof:name":"Rick Daunis Photography",
+    "wof:parent_id":85842595,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -73.203685,
+    41.527579,
+    -73.203685,
+    41.527579
+],
+  "geometry": {"coordinates":[-73.20368499999999,41.527579],"type":"Point"}
+}

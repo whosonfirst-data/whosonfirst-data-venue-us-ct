@@ -1,0 +1,82 @@
+{
+  "id": 824114759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.492607,41.393749,-73.492607,41.393749",
+    "geom:latitude":41.393749,
+    "geom:longitude":-73.492607,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"201 University Blvd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 778 7462",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834261,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13cA8J1RIGVMNZf35ldUxo_41.393749_-73.492607@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454652,
+    "wof:geomhash":"642a705059a669b2f28b62854e256506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834261,
+            "region_id":85688629,
+            "venue_id":824114759
+        }
+    ],
+    "wof:id":824114759,
+    "wof:lastmodified":1466423362,
+    "wof:name":"Academy For Int'l Studies",
+    "wof:parent_id":85834261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -73.492607,
+    41.393749,
+    -73.492607,
+    41.393749
+],
+  "geometry": {"coordinates":[-73.49260700000001,41.393749],"type":"Point"}
+}

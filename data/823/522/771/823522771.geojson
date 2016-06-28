@@ -1,0 +1,71 @@
+{
+  "id": 823522771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.191401,41.314379,-73.191401,41.314379",
+    "geom:latitude":41.314379,
+    "geom:longitude":-73.191401,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"216 Thompson St",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 1987",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VzQsxbleAAIM7fMzVCxev_41.314379_-73.191401@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440085,
+    "wof:geomhash":"2e061ed42ed3310650dc48941290a26c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823522771
+        }
+    ],
+    "wof:id":823522771,
+    "wof:lastmodified":1466422198,
+    "wof:name":"Volos Painting",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.191401,
+    41.314379,
+    -73.191401,
+    41.314379
+],
+  "geometry": {"coordinates":[-73.191401,41.314379],"type":"Point"}
+}

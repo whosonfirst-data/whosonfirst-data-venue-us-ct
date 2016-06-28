@@ -1,0 +1,79 @@
+{
+  "id": 823779851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.672438,41.579374,-72.672438,41.579374",
+    "geom:latitude":41.579374,
+    "geom:longitude":-72.672438,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"750 Newfield St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856893,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pRo0blKAVRBJzT0R1WpeK_41.579374_-72.672438@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446085,
+    "wof:geomhash":"34339d770b2255724060820aa5ba824a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85856893,
+            "region_id":85688629,
+            "venue_id":823779851
+        }
+    ],
+    "wof:id":823779851,
+    "wof:lastmodified":1466425035,
+    "wof:name":"Budget Rent-A-Car",
+    "wof:parent_id":85856893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.672438,
+    41.579374,
+    -72.672438,
+    41.579374
+],
+  "geometry": {"coordinates":[-72.672438,41.579374],"type":"Point"}
+}

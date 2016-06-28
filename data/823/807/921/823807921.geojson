@@ -1,0 +1,85 @@
+{
+  "id": 823807921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.901563,41.680017,-72.901563,41.680017",
+    "geom:latitude":41.680017,
+    "geom:longitude":-72.901563,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Fair St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "care",
+        "skilled",
+        "nursing",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kGO3dq3HpttfdvOoSnfrw_41.680017_-72.901563@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446940,
+    "wof:geomhash":"72b395b829ce2a150852713f3ada2a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823807921
+        }
+    ],
+    "wof:id":823807921,
+    "wof:lastmodified":1466425376,
+    "wof:name":"Subacute Center of Bristol",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care",
+        "skilled",
+        "nursing",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -72.901563,
+    41.680017,
+    -72.901563,
+    41.680017
+],
+  "geometry": {"coordinates":[-72.901563,41.680017],"type":"Point"}
+}

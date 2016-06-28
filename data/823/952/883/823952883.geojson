@@ -1,0 +1,66 @@
+{
+  "id": 823952883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.543281,41.797242,-72.543281,41.797242",
+    "geom:latitude":41.797242,
+    "geom:longitude":-72.543281,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 Oak Forest Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 432 0653",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u9oNNTVccO1fFfhBW7IOL_41.797242_-72.543281@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450842,
+    "wof:geomhash":"d427be13e0a1c01091b9f085e9541b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823952883
+        }
+    ],
+    "wof:id":823952883,
+    "wof:lastmodified":1466426491,
+    "wof:name":"Century 21",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.543281,
+    41.797242,
+    -72.543281,
+    41.797242
+],
+  "geometry": {"coordinates":[-72.54328099999999,41.797242],"type":"Point"}
+}

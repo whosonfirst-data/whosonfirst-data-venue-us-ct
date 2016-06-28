@@ -1,0 +1,86 @@
+{
+  "id": 824093321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.590039,41.980298,-72.590039,41.980298",
+    "geom:latitude":41.980298,
+    "geom:longitude":-72.590039,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Enfield Terrace Ext",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 741 0258",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VbuYEt8zzFrJF2Nn1YqMb_41.980298_-72.590039@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454159,
+    "wof:geomhash":"2d59e9d4ddb2e1d06f51efa1c70cfadd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093321
+        }
+    ],
+    "wof:id":824093321,
+    "wof:lastmodified":1466422896,
+    "wof:name":"Town Of Enfield Pump Station",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -72.590039,
+    41.980298,
+    -72.590039,
+    41.980298
+],
+  "geometry": {"coordinates":[-72.590039,41.980298],"type":"Point"}
+}

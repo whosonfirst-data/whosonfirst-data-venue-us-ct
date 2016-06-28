@@ -1,0 +1,89 @@
+{
+  "id": 824002599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.041336,41.223279,-73.041336,41.223279",
+    "geom:latitude":41.223279,
+    "geom:longitude":-73.041336,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"349 New Haven Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 5200",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "newspaper"
+    ],
+    "sg:website":"www.ctcentral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85819849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HlLRidCwZG4eK8670QTur_41.223279_-73.041336@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452045,
+    "wof:geomhash":"7ec6a79ae32a73335f9b32f00cc7b56d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":824002599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824002599
+        }
+    ],
+    "wof:id":824002599,
+    "wof:lastmodified":1466421342,
+    "wof:name":"Elm City Newspapers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newspaper"
+    ]
+},
+  "bbox": [
+    -73.041336,
+    41.223279,
+    -73.041336,
+    41.223279
+],
+  "geometry": {"coordinates":[-73.041336,41.223279],"type":"Point"}
+}

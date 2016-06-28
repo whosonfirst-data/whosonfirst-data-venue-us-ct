@@ -1,0 +1,73 @@
+{
+  "id": 823730829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.82343,41.278048,-72.82343,41.278048",
+    "geom:latitude":41.278048,
+    "geom:longitude":-72.82343,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 5885",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EhJoeiLB8PrljgLfHK2rD_41.278048_-72.823430@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444924,
+    "wof:geomhash":"3c4fbb6bd07636e8be7290bf5dd2ed58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823730829
+        }
+    ],
+    "wof:id":823730829,
+    "wof:lastmodified":1466424539,
+    "wof:name":"Tamulevich John",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.82343,
+    41.278048,
+    -72.82343,
+    41.278048
+],
+  "geometry": {"coordinates":[-72.82343,41.278048],"type":"Point"}
+}

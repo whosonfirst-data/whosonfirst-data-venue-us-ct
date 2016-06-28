@@ -1,0 +1,66 @@
+{
+  "id": 823811097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.788206,41.684176,-72.788206,41.684176",
+    "geom:latitude":41.684176,
+    "geom:longitude":-72.788206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"263 Farmington Ave",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 679 2332",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AFQiomAgjLcHGM5Nt0VMW_41.684176_-72.788206@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447041,
+    "wof:geomhash":"9652fa3c3cdd219fe0e97ca781717cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823811097
+        }
+    ],
+    "wof:id":823811097,
+    "wof:lastmodified":1466425388,
+    "wof:name":"Uchc Bookstore",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.788206,
+    41.684176,
+    -72.788206,
+    41.684176
+],
+  "geometry": {"coordinates":[-72.788206,41.684176],"type":"Point"}
+}

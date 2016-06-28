@@ -1,0 +1,80 @@
+{
+  "id": 823564591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.94198,41.338466,-72.94198,41.338466",
+    "geom:latitude":41.338466,
+    "geom:longitude":-72.94198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"195 Arch St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879159,
+        102191575,
+        404495787,
+        85930897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65z4Ed5PAdQVwEvrHl97uU_41.338466_-72.941980@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441054,
+    "wof:geomhash":"2900e2ccfcd39a9871cd2211f820fb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823564591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879159,
+            "region_id":85688629,
+            "venue_id":823564591
+        }
+    ],
+    "wof:id":823564591,
+    "wof:lastmodified":1466422697,
+    "wof:name":"DK Inventory Services of Conn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.94198,
+    41.338466,
+    -72.94198,
+    41.338466
+],
+  "geometry": {"coordinates":[-72.94198,41.338466],"type":"Point"}
+}

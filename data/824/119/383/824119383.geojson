@@ -1,0 +1,81 @@
+{
+  "id": 824119383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.430383,41.191248,-73.430383,41.191248",
+    "geom:latitude":41.191248,
+    "geom:longitude":-73.430383,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 River Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 842 0137",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "tutoring",
+        "reading"
+    ],
+    "sg:website":"http://www.tutoringcenter.com/centers.asp?center=Wilton_CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821519,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zGT7TDZoRvz7wukg8NEbC_41.191248_-73.430383@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454754,
+    "wof:geomhash":"8661427a37bcfb4473a15f35d8cced9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85821519,
+            "region_id":85688629,
+            "venue_id":824119383
+        }
+    ],
+    "wof:id":824119383,
+    "wof:lastmodified":1466423233,
+    "wof:name":"The Tutoring Center",
+    "wof:parent_id":85821519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "tutoring",
+        "reading"
+    ]
+},
+  "bbox": [
+    -73.430383,
+    41.191248,
+    -73.430383,
+    41.191248
+],
+  "geometry": {"coordinates":[-73.43038300000001,41.191248],"type":"Point"}
+}

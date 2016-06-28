@@ -2,13 +2,14 @@
   "id": 336634535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.662966,41.037629,-73.662966,41.037629",
     "geom:latitude":41.037629,
     "geom:longitude":-73.662966,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"235 Glenville Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":336634535,
-    "wof:lastmodified":1448997465,
+    "wof:lastmodified":1466421127,
     "wof:name":"Boyd Center For Integrative",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.662966,41.037629,-73.662966,41.037629],
+  "bbox": [
+    -73.662966,
+    41.037629,
+    -73.662966,
+    41.037629
+],
   "geometry": {"coordinates":[-73.662966,41.037629],"type":"Point"}
 }

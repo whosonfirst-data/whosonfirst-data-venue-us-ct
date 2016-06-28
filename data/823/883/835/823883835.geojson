@@ -1,0 +1,71 @@
+{
+  "id": 823883835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.081509,41.405315,-73.081509,41.405315",
+    "geom:latitude":41.405315,
+    "geom:longitude":-73.081509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Rimmon St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 0578",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56VxoyWPsz92X6Id6Dmwnt_41.405315_-73.081509@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449056,
+    "wof:geomhash":"93c4819d7887948ee7969f5d11ad86fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823883835
+        }
+    ],
+    "wof:id":823883835,
+    "wof:lastmodified":1466425892,
+    "wof:name":"Horizon Home Improvement",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.081509,
+    41.405315,
+    -73.081509,
+    41.405315
+],
+  "geometry": {"coordinates":[-73.081509,41.405315],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824027683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.888192,41.947451,-71.888192,41.947451",
+    "geom:latitude":41.947451,
+    "geom:longitude":-71.888192,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"370 Riverside Dr",
+    "sg:city":"North Grosvenordale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06255",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MTfWVH2NJlJKuN0H1zvzq_41.947451_-71.888192@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452610,
+    "wof:geomhash":"0e9260ab003ff7825b1dd37506b8b7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":824027683
+        }
+    ],
+    "wof:id":824027683,
+    "wof:lastmodified":1466421521,
+    "wof:name":"Alan M Dattner MD",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -71.888192,
+    41.947451,
+    -71.888192,
+    41.947451
+],
+  "geometry": {"coordinates":[-71.888192,41.947451],"type":"Point"}
+}

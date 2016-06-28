@@ -1,0 +1,73 @@
+{
+  "id": 823844111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.215614,41.439274,-73.215614,41.439274",
+    "geom:latitude":41.439274,
+    "geom:longitude":-73.215614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"865 Georges Hill Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 7200",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829333,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Gwd7JQwS2xkgU7Zf8qwbZ_41.439274_-73.215614@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448054,
+    "wof:geomhash":"8b09789c95fb766f931fa12f8036d709",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85829333,
+            "region_id":85688629,
+            "venue_id":823844111
+        }
+    ],
+    "wof:id":823844111,
+    "wof:lastmodified":1466425508,
+    "wof:name":"Tim Conlan Co",
+    "wof:parent_id":85829333,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.215614,
+    41.439274,
+    -73.215614,
+    41.439274
+],
+  "geometry": {"coordinates":[-73.215614,41.439274],"type":"Point"}
+}

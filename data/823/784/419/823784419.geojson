@@ -1,0 +1,71 @@
+{
+  "id": 823784419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.588731,41.748478,-72.588731,41.748478",
+    "geom:latitude":41.748478,
+    "geom:longitude":-72.588731,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"149 Langford Ln",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "engineering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xo3BfrCXS9wx7t1wwey7G_41.748478_-72.588731@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446225,
+    "wof:geomhash":"1a2dcfd821ba4bca024c3ffb8a0208e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823784419
+        }
+    ],
+    "wof:id":823784419,
+    "wof:lastmodified":1466425010,
+    "wof:name":"Daniel Champagne",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering"
+    ]
+},
+  "bbox": [
+    -72.588731,
+    41.748478,
+    -72.588731,
+    41.748478
+],
+  "geometry": {"coordinates":[-72.588731,41.748478],"type":"Point"}
+}

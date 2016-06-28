@@ -1,0 +1,72 @@
+{
+  "id": 823738909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.483916,41.377618,-73.483916,41.377618",
+    "geom:latitude":41.377618,
+    "geom:longitude":-73.483916,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Backus Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 796 1901",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tq1U1mt9lUFqFpIsgQUnz_41.377618_-73.483916@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445131,
+    "wof:geomhash":"84d7ae44839d773f7ff20c6158817fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823738909
+        }
+    ],
+    "wof:id":823738909,
+    "wof:lastmodified":1466424601,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.483916,
+    41.377618,
+    -73.483916,
+    41.377618
+],
+  "geometry": {"coordinates":[-73.48391599999999,41.377618],"type":"Point"}
+}

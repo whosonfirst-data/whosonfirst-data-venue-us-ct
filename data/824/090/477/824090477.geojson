@@ -1,0 +1,66 @@
+{
+  "id": 824090477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.0028,41.9296,-73.0028,41.9296",
+    "geom:latitude":41.9296,
+    "geom:longitude":-73.0028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"105 River Rd",
+    "sg:city":"Barkhamsted",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 379 2252",
+    "sg:postcode":"06063",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804511,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aV1AFeFP8Hi3JsIOkkCwf_41.929600_-73.002800@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454096,
+    "wof:geomhash":"3812a396e9cc6bef6fa815bb5b30fd6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85804511,
+            "region_id":85688629,
+            "venue_id":824090477
+        }
+    ],
+    "wof:id":824090477,
+    "wof:lastmodified":1466422852,
+    "wof:name":"United States Government",
+    "wof:parent_id":85804511,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.0028,
+    41.9296,
+    -73.0028,
+    41.9296
+],
+  "geometry": {"coordinates":[-73.00279999999999,41.9296],"type":"Point"}
+}

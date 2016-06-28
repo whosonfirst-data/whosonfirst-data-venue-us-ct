@@ -1,0 +1,71 @@
+{
+  "id": 823902367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.227647,41.401331,-73.227647,41.401331",
+    "geom:latitude":41.401331,
+    "geom:longitude":-73.227647,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Charter Ridge",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GRPrt3e2XIGH0h5AmD6HH_41.401331_-73.227647@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449525,
+    "wof:geomhash":"dd869d5e5837676a1db4f071eee8c72e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823902367
+        }
+    ],
+    "wof:id":823902367,
+    "wof:lastmodified":1466426021,
+    "wof:name":"Susan B Salon",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.227647,
+    41.401331,
+    -73.227647,
+    41.401331
+],
+  "geometry": {"coordinates":[-73.227647,41.401331],"type":"Point"}
+}

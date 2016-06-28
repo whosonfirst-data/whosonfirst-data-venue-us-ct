@@ -1,0 +1,74 @@
+{
+  "id": 823671211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.26248,41.339656,-73.26248,41.339656",
+    "geom:latitude":41.339656,
+    "geom:longitude":-73.26248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"731 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 9667",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.wmnr.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bt7aYAEOrRnEeg3UIdoIQ_41.339656_-73.262480@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443600,
+    "wof:geomhash":"966df2c43cc342d18c33b23294e1ebc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823671211
+        }
+    ],
+    "wof:id":823671211,
+    "wof:lastmodified":1466423990,
+    "wof:name":"WMNR",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -73.26248,
+    41.339656,
+    -73.26248,
+    41.339656
+],
+  "geometry": {"coordinates":[-73.26248,41.339656],"type":"Point"}
+}

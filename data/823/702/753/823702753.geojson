@@ -1,0 +1,66 @@
+{
+  "id": 823702753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.473416,41.280359,-73.473416,41.280359",
+    "geom:latitude":41.280359,
+    "geom:longitude":-73.473416,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Ridgewood Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 438 8528",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JduJFPPXrdOJ51ZNMBYlY_41.280359_-73.473416@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444296,
+    "wof:geomhash":"3d844da4543666c2d7428a32eccf3928",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823702753
+        }
+    ],
+    "wof:id":823702753,
+    "wof:lastmodified":1466424142,
+    "wof:name":"Economy Outdoor Services",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.473416,
+    41.280359,
+    -73.473416,
+    41.280359
+],
+  "geometry": {"coordinates":[-73.473416,41.280359],"type":"Point"}
+}

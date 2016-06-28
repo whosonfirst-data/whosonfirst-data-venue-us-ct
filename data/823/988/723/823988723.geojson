@@ -1,0 +1,71 @@
+{
+  "id": 823988723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200432,41.630271,-73.200432,41.630271",
+    "geom:latitude":41.630271,
+    "geom:longitude":-73.200432,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Green Hill Rd",
+    "sg:city":"Bethlehem",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06751",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847045,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FrzBNz7abj6QBEjRAE3gT_41.630271_-73.200432@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451688,
+    "wof:geomhash":"24f1c3f4085d4424ecc0eeb153d9db46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":823988723
+        }
+    ],
+    "wof:id":823988723,
+    "wof:lastmodified":1466426739,
+    "wof:name":"Tri-Town Auto",
+    "wof:parent_id":85847045,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.200432,
+    41.630271,
+    -73.200432,
+    41.630271
+],
+  "geometry": {"coordinates":[-73.20043200000001,41.630271],"type":"Point"}
+}

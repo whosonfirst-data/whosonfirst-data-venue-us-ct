@@ -1,0 +1,78 @@
+{
+  "id": 824075053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.63298,41.762074,-72.63298,41.762074",
+    "geom:latitude":41.762074,
+    "geom:longitude":-72.63298,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"268 Silver Ln",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/207953-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 569 8890",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dyD2yXPyY8sFtg3oVLf5f_41.762074_-72.632980@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453737,
+    "wof:geomhash":"08f27883ab52b9318d53d2279deebc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824075053
+        }
+    ],
+    "wof:id":824075053,
+    "wof:lastmodified":1466422539,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.63298,
+    41.762074,
+    -72.63298,
+    41.762074
+],
+  "geometry": {"coordinates":[-72.63298,41.762074],"type":"Point"}
+}

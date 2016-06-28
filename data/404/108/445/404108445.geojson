@@ -2,13 +2,14 @@
   "id": 404108445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500427,41.145445,-73.500427,41.145445",
     "geom:latitude":41.145445,
     "geom:longitude":-73.500427,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"280 Elm St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404108445,
-    "wof:lastmodified":1449039105,
+    "wof:lastmodified":1466421092,
     "wof:name":"Medi-Rec Foundation Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.500427,41.145445,-73.500427,41.145445],
+  "bbox": [
+    -73.500427,
+    41.145445,
+    -73.500427,
+    41.145445
+],
   "geometry": {"coordinates":[-73.500427,41.145445],"type":"Point"}
 }

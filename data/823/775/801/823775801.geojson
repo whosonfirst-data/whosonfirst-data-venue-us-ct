@@ -1,0 +1,73 @@
+{
+  "id": 823775801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.292539,41.415458,-73.292539,41.415458",
+    "geom:latitude":41.415458,
+    "geom:longitude":-73.292539,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Commerce Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 3252",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UGDDgsnzXrkCtYNyni2Pz_41.415458_-73.292539@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445979,
+    "wof:geomhash":"d5e72ba0c4ba55d5891c6b7a06a3bb4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823775801
+        }
+    ],
+    "wof:id":823775801,
+    "wof:lastmodified":1466424952,
+    "wof:name":"Newtown Drywall",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.292539,
+    41.415458,
+    -73.292539,
+    41.415458
+],
+  "geometry": {"coordinates":[-73.292539,41.415458],"type":"Point"}
+}

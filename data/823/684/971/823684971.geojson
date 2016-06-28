@@ -1,0 +1,86 @@
+{
+  "id": 823684971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.542245,41.078412,-73.542245,41.078412",
+    "geom:latitude":41.078412,
+    "geom:longitude":-73.542245,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"233 Oaklawn Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 326 5657",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85831311,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gZMOo6kayIES2icETwYAW_41.078412_-73.542245@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443897,
+    "wof:geomhash":"6c515266ed80848c5d539ec129d24a62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85831311,
+            "region_id":85688629,
+            "venue_id":823684971
+        }
+    ],
+    "wof:id":823684971,
+    "wof:lastmodified":1466424233,
+    "wof:name":"John H Gagnon PHD",
+    "wof:parent_id":85831311,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counselor",
+        "marriage",
+        "family"
+    ]
+},
+  "bbox": [
+    -73.542245,
+    41.078412,
+    -73.542245,
+    41.078412
+],
+  "geometry": {"coordinates":[-73.54224499999999,41.078412],"type":"Point"}
+}

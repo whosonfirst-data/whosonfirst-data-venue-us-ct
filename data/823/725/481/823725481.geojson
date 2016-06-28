@@ -1,0 +1,71 @@
+{
+  "id": 823725481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.984462,41.389749,-71.984462,41.389749",
+    "geom:latitude":41.389749,
+    "geom:longitude":-71.984462,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2400 Gold Star Hwy",
+    "sg:city":"Mystic",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06355",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843415,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xs9s1ckvRcFOpebhKb7ua_41.389749_-71.984462@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444796,
+    "wof:geomhash":"7d45f5c4569d813b929d914b5c5db6eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85843415,
+            "region_id":85688629,
+            "venue_id":823725481
+        }
+    ],
+    "wof:id":823725481,
+    "wof:lastmodified":1466424499,
+    "wof:name":"Precision Motors",
+    "wof:parent_id":85843415,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -71.984462,
+    41.389749,
+    -71.984462,
+    41.389749
+],
+  "geometry": {"coordinates":[-71.98446199999999,41.389749],"type":"Point"}
+}

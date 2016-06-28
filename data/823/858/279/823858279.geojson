@@ -1,0 +1,71 @@
+{
+  "id": 823858279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908901,41.719676,-72.908901,41.719676",
+    "geom:latitude":41.719676,
+    "geom:longitude":-72.908901,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"180 Country Ln",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49bpQqaJPzRRnZJ2L9Z6i6_41.719676_-72.908901@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448461,
+    "wof:geomhash":"b0c30fbe1f538e5275c24f410412ae3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823858279
+        }
+    ],
+    "wof:id":823858279,
+    "wof:lastmodified":1466425904,
+    "wof:name":"Connecticut Detailing",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.908901,
+    41.719676,
+    -72.908901,
+    41.719676
+],
+  "geometry": {"coordinates":[-72.908901,41.719676],"type":"Point"}
+}

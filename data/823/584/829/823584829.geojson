@@ -1,0 +1,66 @@
+{
+  "id": 823584829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416291,41.169192,-73.416291,41.169192",
+    "geom:latitude":41.169192,
+    "geom:longitude":-73.416291,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 9012",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LbYzKOBcAlqQfXjY1hfw9_41.169192_-73.416291@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441533,
+    "wof:geomhash":"b01756dbec0d5874e7b98de682a2e0a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823584829
+        }
+    ],
+    "wof:id":823584829,
+    "wof:lastmodified":1466423094,
+    "wof:name":"Rose Garden",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.416291,
+    41.169192,
+    -73.416291,
+    41.169192
+],
+  "geometry": {"coordinates":[-73.416291,41.169192],"type":"Point"}
+}

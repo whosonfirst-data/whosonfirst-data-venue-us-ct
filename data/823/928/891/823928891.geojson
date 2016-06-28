@@ -1,0 +1,71 @@
+{
+  "id": 823928891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.432534,41.192224,-73.432534,41.192224",
+    "geom:latitude":41.192224,
+    "geom:longitude":-73.432534,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Godfrey Pl",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 9480",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821519,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X3bEGdYRygEokdJuDYowb_41.192224_-73.432534@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450222,
+    "wof:geomhash":"b37502ed6bd3f77f8753018a5bdf8de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85821519,
+            "region_id":85688629,
+            "venue_id":823928891
+        }
+    ],
+    "wof:id":823928891,
+    "wof:lastmodified":1466426323,
+    "wof:name":"William D Pescod DDS",
+    "wof:parent_id":85821519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.432534,
+    41.192224,
+    -73.432534,
+    41.192224
+],
+  "geometry": {"coordinates":[-73.432534,41.192224],"type":"Point"}
+}

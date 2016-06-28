@@ -1,0 +1,66 @@
+{
+  "id": 823843335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.306586,41.410355,-73.306586,41.410355",
+    "geom:latitude":41.410355,
+    "geom:longitude":-73.306586,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Main St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 1876",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Qe5Bu0k2Frs6Vb9gObclv_41.410355_-73.306586@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448036,
+    "wof:geomhash":"723a44ba2f1b9be4436d3cb686c4b30f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823843335
+        }
+    ],
+    "wof:id":823843335,
+    "wof:lastmodified":1466425488,
+    "wof:name":"Inn At Newtown",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.306586,
+    41.410355,
+    -73.306586,
+    41.410355
+],
+  "geometry": {"coordinates":[-73.306586,41.410355],"type":"Point"}
+}

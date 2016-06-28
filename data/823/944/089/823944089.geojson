@@ -1,0 +1,75 @@
+{
+  "id": 823944089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.83567,41.276175,-72.83567,41.276175",
+    "geom:latitude":41.276175,
+    "geom:longitude":-72.83567,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"906 W Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 483 6622",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zkVGjtJlAsAPXQYzNfUym_41.276175_-72.835670@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450617,
+    "wof:geomhash":"e8311522c6ebb1d39e0c2737911da715",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823944089
+        }
+    ],
+    "wof:id":823944089,
+    "wof:lastmodified":1466426368,
+    "wof:name":"Supreme Auto Body LLC",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.83567,
+    41.276175,
+    -72.83567,
+    41.276175
+],
+  "geometry": {"coordinates":[-72.83566999999999,41.276175],"type":"Point"}
+}

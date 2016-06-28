@@ -1,0 +1,78 @@
+{
+  "id": 823909955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.90325,41.387011,-72.90325,41.387011",
+    "geom:latitude":41.387011,
+    "geom:longitude":-72.90325,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Hampton Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 7759",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical",
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iPZHiMDf9oNDrR9EUIc8L_41.387011_-72.903250@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449745,
+    "wof:geomhash":"40b15de213f970f63115746880702591",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823909955
+        }
+    ],
+    "wof:id":823909955,
+    "wof:lastmodified":1466426150,
+    "wof:name":"Morgan Medical LLC",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "establishment"
+    ]
+},
+  "bbox": [
+    -72.90325,
+    41.387011,
+    -72.90325,
+    41.387011
+],
+  "geometry": {"coordinates":[-72.90325,41.387011],"type":"Point"}
+}

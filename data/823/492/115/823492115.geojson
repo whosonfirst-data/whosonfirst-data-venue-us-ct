@@ -1,0 +1,66 @@
+{
+  "id": 823492115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074108,41.394367,-73.074108,41.394367",
+    "geom:latitude":41.394367,
+    "geom:longitude":-73.074108,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 1st St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 5533",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60d5X5d6Yo0PpEMmhWSm55_41.394367_-73.074108@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439357,
+    "wof:geomhash":"57c8b879382cec8233afa432d6c018dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823492115
+        }
+    ],
+    "wof:id":823492115,
+    "wof:lastmodified":1466421557,
+    "wof:name":"William Pitt Sotheby's Intl",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.074108,
+    41.394367,
+    -73.074108,
+    41.394367
+],
+  "geometry": {"coordinates":[-73.074108,41.394367],"type":"Point"}
+}

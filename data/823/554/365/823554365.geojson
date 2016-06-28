@@ -1,0 +1,79 @@
+{
+  "id": 823554365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528421,41.077188,-73.528421,41.077188",
+    "geom:latitude":41.077188,
+    "geom:longitude":-73.528421,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 Leonard St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 4656",
+    "sg:postcode":"06906",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805565,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64KzwulIK6cQ8o6GAL5CXF_41.077188_-73.528421@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440807,
+    "wof:geomhash":"e070818367474c720abc9baba0a68d52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85805565,
+            "region_id":85688629,
+            "venue_id":823554365
+        }
+    ],
+    "wof:id":823554365,
+    "wof:lastmodified":1466422409,
+    "wof:name":"Dolphin Tile",
+    "wof:parent_id":85805565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.528421,
+    41.077188,
+    -73.528421,
+    41.077188
+],
+  "geometry": {"coordinates":[-73.52842099999999,41.077188],"type":"Point"}
+}

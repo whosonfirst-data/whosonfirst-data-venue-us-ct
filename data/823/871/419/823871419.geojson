@@ -1,0 +1,71 @@
+{
+  "id": 823871419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.135786,41.62832,-73.135786,41.62832",
+    "geom:latitude":41.62832,
+    "geom:longitude":-73.135786,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"338 Ledgewood Rd",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06795",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dHDUG1Kb5HcXR0gluZc8S_41.628320_-73.135786@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448768,
+    "wof:geomhash":"844065cd6b1314d2dc2143fdb0d9d5ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823871419
+        }
+    ],
+    "wof:id":823871419,
+    "wof:lastmodified":1466425762,
+    "wof:name":"Westbury Automotive LLC",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -73.135786,
+    41.62832,
+    -73.135786,
+    41.62832
+],
+  "geometry": {"coordinates":[-73.135786,41.62832],"type":"Point"}
+}

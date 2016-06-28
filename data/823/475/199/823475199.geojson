@@ -1,0 +1,71 @@
+{
+  "id": 823475199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256454,41.765129,-73.256454,41.765129",
+    "geom:latitude":41.765129,
+    "geom:longitude":-73.256454,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"433 Milton Rd",
+    "sg:city":"Litchfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06759",
+    "sg:province":"CT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85834489,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iSZ3wtYQHnnuc7PqbKBF6_41.765129_-73.256454@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438958,
+    "wof:geomhash":"65a358728279629ca1ad88dfd20e9b04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85834489,
+            "region_id":85688629,
+            "venue_id":823475199
+        }
+    ],
+    "wof:id":823475199,
+    "wof:lastmodified":1466421353,
+    "wof:name":"Peter Galgano & Daughters",
+    "wof:parent_id":85834489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.256454,
+    41.765129,
+    -73.256454,
+    41.765129
+],
+  "geometry": {"coordinates":[-73.25645400000001,41.765129],"type":"Point"}
+}

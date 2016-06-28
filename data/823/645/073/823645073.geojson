@@ -1,0 +1,73 @@
+{
+  "id": 823645073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.093079,41.406045,-73.093079,41.406045",
+    "geom:latitude":41.406045,
+    "geom:longitude":-73.093079,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"84 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 9901",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21OAufDY8Q6fgWuZ5rViwD_41.406045_-73.093079@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442968,
+    "wof:geomhash":"224aa1ed05bf96dee5bb651d30dfbe50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823645073
+        }
+    ],
+    "wof:id":823645073,
+    "wof:lastmodified":1466423624,
+    "wof:name":"Heart Specialist PC",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.093079,
+    41.406045,
+    -73.093079,
+    41.406045
+],
+  "geometry": {"coordinates":[-73.093079,41.406045],"type":"Point"}
+}

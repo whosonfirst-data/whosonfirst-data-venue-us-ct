@@ -1,0 +1,73 @@
+{
+  "id": 823491219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986591,41.601729,-72.986591,41.601729",
+    "geom:latitude":41.601729,
+    "geom:longitude":-72.986591,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"747 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UN5yqQFsHW6Kwx2FICri2_41.601729_-72.986591@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439337,
+    "wof:geomhash":"190c210aa1775c9865514d8cb4a8e280",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823491219
+        }
+    ],
+    "wof:id":823491219,
+    "wof:lastmodified":1466421568,
+    "wof:name":"Yankee Video",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.986591,
+    41.601729,
+    -72.986591,
+    41.601729
+],
+  "geometry": {"coordinates":[-72.986591,41.601729],"type":"Point"}
+}

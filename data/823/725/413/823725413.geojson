@@ -1,0 +1,81 @@
+{
+  "id": 823725413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.94706,41.667656,-72.94706,41.667656",
+    "geom:latitude":41.667656,
+    "geom:longitude":-72.94706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 South St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 584 4795",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "audit",
+        "field",
+        "unit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vMPq8GU7UGIIbWvv5J53b_41.667656_-72.947060@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444795,
+    "wof:geomhash":"c52b694200073f8cd09269adf482b39e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823725413
+        }
+    ],
+    "wof:id":823725413,
+    "wof:lastmodified":1466424492,
+    "wof:name":"Field Audit Unit",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "audit",
+        "field",
+        "unit"
+    ]
+},
+  "bbox": [
+    -72.94706,
+    41.667656,
+    -72.94706,
+    41.667656
+],
+  "geometry": {"coordinates":[-72.94705999999999,41.667656],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 824078551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900387,41.387487,-72.900387,41.387487",
+    "geom:latitude":41.387487,
+    "geom:longitude":-72.900387,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2490 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/129879-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 1899",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b8m4pIQ8qcN2w7qdeS8GD_41.387487_-72.900387@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453822,
+    "wof:geomhash":"4a12aaec9f0c12f429bfbbb7948dbb90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":824078551
+        }
+    ],
+    "wof:id":824078551,
+    "wof:lastmodified":1466422591,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.900387,
+    41.387487,
+    -72.900387,
+    41.387487
+],
+  "geometry": {"coordinates":[-72.90038699999999,41.387487],"type":"Point"}
+}

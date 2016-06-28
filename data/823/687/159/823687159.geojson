@@ -1,0 +1,81 @@
+{
+  "id": 823687159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.121946,41.195668,-73.121946,41.195668",
+    "geom:latitude":41.195668,
+    "geom:longitude":-73.121946,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"345 Ferry Blvd",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 377 5638",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844831,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AtFYIurHWlttMOj2wBOGN_41.195668_-73.121946@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443955,
+    "wof:geomhash":"898b8bd54050a856b3273b420f5e8f11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85844831,
+            "region_id":85688629,
+            "venue_id":823687159
+        }
+    ],
+    "wof:id":823687159,
+    "wof:lastmodified":1466424073,
+    "wof:name":"Schock's Auto Body Inc",
+    "wof:parent_id":85844831,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.121946,
+    41.195668,
+    -73.121946,
+    41.195668
+],
+  "geometry": {"coordinates":[-73.12194599999999,41.195668],"type":"Point"}
+}

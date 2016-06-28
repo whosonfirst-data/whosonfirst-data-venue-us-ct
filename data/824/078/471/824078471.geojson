@@ -1,0 +1,80 @@
+{
+  "id": 824078471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.962863,41.291903,-72.962863,41.291903",
+    "geom:latitude":41.291903,
+    "geom:longitude":-72.962863,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"417 Boston Post Rd",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/west-haven/144179-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 934 1616",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879183,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oQw6iZvTXI3SflrT1iXc6_41.291903_-72.962863@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453821,
+    "wof:geomhash":"69beb5d408ca50401c5a8fe95dfde55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85879183,
+            "region_id":85688629,
+            "venue_id":824078471
+        }
+    ],
+    "wof:id":824078471,
+    "wof:lastmodified":1466422583,
+    "wof:name":"Subway",
+    "wof:parent_id":85879183,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.962863,
+    41.291903,
+    -72.962863,
+    41.291903
+],
+  "geometry": {"coordinates":[-72.962863,41.291903],"type":"Point"}
+}

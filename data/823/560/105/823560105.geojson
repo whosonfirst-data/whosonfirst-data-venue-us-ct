@@ -1,0 +1,77 @@
+{
+  "id": 823560105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.196682,41.244782,-73.196682,41.244782",
+    "geom:latitude":41.244782,
+    "geom:longitude":-73.196682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"945 White Plains Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 1555",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888501,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G4DN2UgxUuTYaPo0lNDYV_41.244782_-73.196682@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440943,
+    "wof:geomhash":"2bb035a3ec850bd7b2f4cca5ab1045dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888501,
+            "region_id":85688629,
+            "venue_id":823560105
+        }
+    ],
+    "wof:id":823560105,
+    "wof:lastmodified":1466422959,
+    "wof:name":"Studio",
+    "wof:parent_id":85888501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -73.196682,
+    41.244782,
+    -73.196682,
+    41.244782
+],
+  "geometry": {"coordinates":[-73.196682,41.244782],"type":"Point"}
+}

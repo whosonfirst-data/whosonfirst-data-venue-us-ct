@@ -1,0 +1,73 @@
+{
+  "id": 823577881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.200613,41.354087,-73.200613,41.354087",
+    "geom:latitude":41.354087,
+    "geom:longitude":-73.200613,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"104 Sentry Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 445 9013",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mNrOatzskGv9LZy8bhisY_41.354087_-73.200613@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441366,
+    "wof:geomhash":"aa16e76ef52bf18d8523a034d021f217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823577881
+        }
+    ],
+    "wof:id":823577881,
+    "wof:lastmodified":1466422978,
+    "wof:name":"Relaxation Station",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -73.200613,
+    41.354087,
+    -73.200613,
+    41.354087
+],
+  "geometry": {"coordinates":[-73.200613,41.354087],"type":"Point"}
+}

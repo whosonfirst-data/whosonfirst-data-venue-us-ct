@@ -1,0 +1,71 @@
+{
+  "id": 823703523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.781468,41.682173,-72.781468,41.682173",
+    "geom:latitude":41.682173,
+    "geom:longitude":-72.781468,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"188 Allen St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 202 0545",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lxhaZD75EKQhNUyqiaLx8_41.682173_-72.781468@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444311,
+    "wof:geomhash":"ab3854c19a5134ddb980c2e3ddece115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823703523
+        }
+    ],
+    "wof:id":823703523,
+    "wof:lastmodified":1466424248,
+    "wof:name":"M Corp",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.781468,
+    41.682173,
+    -72.781468,
+    41.682173
+],
+  "geometry": {"coordinates":[-72.781468,41.682173],"type":"Point"}
+}

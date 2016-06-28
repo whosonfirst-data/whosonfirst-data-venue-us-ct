@@ -2,13 +2,14 @@
   "id": 404103819,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.671363,41.116908,-73.671363,41.116908",
     "geom:latitude":41.116908,
     "geom:longitude":-73.671363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"61 Sumner Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404103819,
-    "wof:lastmodified":1449039861,
+    "wof:lastmodified":1466421117,
     "wof:name":"Shibui Data Corp",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "software"
     ]
 },
-  "bbox": [-73.671363,41.116908,-73.671363,41.116908],
+  "bbox": [
+    -73.671363,
+    41.116908,
+    -73.671363,
+    41.116908
+],
   "geometry": {"coordinates":[-73.671363,41.116908],"type":"Point"}
 }

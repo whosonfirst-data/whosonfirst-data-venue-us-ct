@@ -1,0 +1,78 @@
+{
+  "id": 823539307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.078051,41.339937,-73.078051,41.339937",
+    "geom:latitude":41.339937,
+    "geom:longitude":-73.078051,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"404 Main St",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 736 6191",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.bigy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gZv6m8RxAfgZFUT32MMer_41.339937_-73.078051@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440455,
+    "wof:geomhash":"8a706d0e109c8ea3b195f0737ec17570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823539307
+        }
+    ],
+    "wof:id":823539307,
+    "wof:lastmodified":1466422312,
+    "wof:name":"Big Y Supermarket",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.078051,
+    41.339937,
+    -73.078051,
+    41.339937
+],
+  "geometry": {"coordinates":[-73.078051,41.339937],"type":"Point"}
+}

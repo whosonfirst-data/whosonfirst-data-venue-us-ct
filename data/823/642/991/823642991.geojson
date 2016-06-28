@@ -1,0 +1,66 @@
+{
+  "id": 823642991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.074198,41.394624,-73.074198,41.394624",
+    "geom:latitude":41.394624,
+    "geom:longitude":-73.074198,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 1st St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 0628",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04RAadjbVDsdQ4SnHIyLmn_41.394624_-73.074198@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442920,
+    "wof:geomhash":"a131173b7d082e8429ba3de3845acf99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823642991
+        }
+    ],
+    "wof:id":823642991,
+    "wof:lastmodified":1466423551,
+    "wof:name":"Washing Machine Of Seymour",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.074198,
+    41.394624,
+    -73.074198,
+    41.394624
+],
+  "geometry": {"coordinates":[-73.074198,41.394624],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823619411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.140553,41.332211,-73.140553,41.332211",
+    "geom:latitude":41.332211,
+    "geom:longitude":-73.140553,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"224 Leavenworth Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 1206",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c97P6377hO8zlymHtJNsc_41.332211_-73.140553@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442378,
+    "wof:geomhash":"0de781a55fbb4e8c5257e104178b3154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823619411
+        }
+    ],
+    "wof:id":823619411,
+    "wof:lastmodified":1466423456,
+    "wof:name":"John Farens MD",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.140553,
+    41.332211,
+    -73.140553,
+    41.332211
+],
+  "geometry": {"coordinates":[-73.140553,41.332211],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823844155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.853873,41.78175,-72.853873,41.78175",
+    "geom:latitude":41.78175,
+    "geom:longitude":-72.853873,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"137 Burnham Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C1PJTKd0DdbYBhb42P6oV_41.781750_-72.853873@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448055,
+    "wof:geomhash":"9cec9b76bbd501c324ed3d174dc198e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":823844155
+        }
+    ],
+    "wof:id":823844155,
+    "wof:lastmodified":1466425512,
+    "wof:name":"David L Hedberg MD",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.853873,
+    41.78175,
+    -72.853873,
+    41.78175
+],
+  "geometry": {"coordinates":[-72.85387299999999,41.78175],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823972191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.786625,41.904678,-72.786625,41.904678",
+    "geom:latitude":41.904678,
+    "geom:longitude":-72.786625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1362 Hopmeadow St",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 1922",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "evaluation",
+        "hearing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826319,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FXKDIhG8dVN4KvsExeIXo_41.904678_-72.786625@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451299,
+    "wof:geomhash":"63f897fb0e5430fe96badc0b440274c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826319,
+            "region_id":85688629,
+            "venue_id":823972191
+        }
+    ],
+    "wof:id":823972191,
+    "wof:lastmodified":1466426596,
+    "wof:name":"Hear Again Center",
+    "wof:parent_id":85826319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "evaluation",
+        "hearing"
+    ]
+},
+  "bbox": [
+    -72.786625,
+    41.904678,
+    -72.786625,
+    41.904678
+],
+  "geometry": {"coordinates":[-72.786625,41.904678],"type":"Point"}
+}

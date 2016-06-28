@@ -1,0 +1,80 @@
+{
+  "id": 824067671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.212132,41.161555,-73.212132,41.161555",
+    "geom:latitude":41.161555,
+    "geom:longitude":-73.212132,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Bostwick Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 6888",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "sg:website":"www.watersconst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_622yME2ElMfP4tTnNxgjDi_41.161555_-73.212132@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453560,
+    "wof:geomhash":"fde3fbb5f9169d5fcf2ec98897e7753d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824067671
+        }
+    ],
+    "wof:id":824067671,
+    "wof:lastmodified":1466422332,
+    "wof:name":"Waters Construction Co",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.212132,
+    41.161555,
+    -73.212132,
+    41.161555
+],
+  "geometry": {"coordinates":[-73.212132,41.161555],"type":"Point"}
+}

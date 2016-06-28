@@ -1,0 +1,80 @@
+{
+  "id": 824120603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.567025,41.104477,-73.567025,41.104477",
+    "geom:latitude":41.104477,
+    "geom:longitude":-73.567025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1051 Long Ridge Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 329 7960",
+    "sg:postcode":"06903",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.longridgedermatology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852825,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50x8QOYoiS38DSCtN6355x_41.104477_-73.567025@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454776,
+    "wof:geomhash":"9fa66cbc09ec2c5b584b714de1c36655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85852825,
+            "region_id":85688629,
+            "venue_id":824120603
+        }
+    ],
+    "wof:id":824120603,
+    "wof:lastmodified":1466423365,
+    "wof:name":"Fortier Rena MD",
+    "wof:parent_id":85852825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.567025,
+    41.104477,
+    -73.567025,
+    41.104477
+],
+  "geometry": {"coordinates":[-73.567025,41.104477],"type":"Point"}
+}

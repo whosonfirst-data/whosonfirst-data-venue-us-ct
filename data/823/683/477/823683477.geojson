@@ -1,0 +1,88 @@
+{
+  "id": 823683477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.079539,41.568545,-73.079539,41.568545",
+    "geom:latitude":41.568545,
+    "geom:longitude":-73.079539,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Stoddard Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 755 9499",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "interior",
+        "window",
+        "decorator",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AUk1B3mHZbdvapcF3SdLj_41.568545_-73.079539@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443862,
+    "wof:geomhash":"44b676e0059d32508cdc090d70528d07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823683477
+        }
+    ],
+    "wof:id":823683477,
+    "wof:lastmodified":1466424091,
+    "wof:name":"Decorator's Corner",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "window",
+        "decorator",
+        "covering"
+    ]
+},
+  "bbox": [
+    -73.079539,
+    41.568545,
+    -73.079539,
+    41.568545
+],
+  "geometry": {"coordinates":[-73.079539,41.568545],"type":"Point"}
+}

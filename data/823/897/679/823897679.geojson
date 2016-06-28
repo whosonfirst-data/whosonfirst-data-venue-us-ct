@@ -1,0 +1,73 @@
+{
+  "id": 823897679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.913808,41.365018,-72.913808,41.365018",
+    "geom:latitude":41.365018,
+    "geom:longitude":-72.913808,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Filbert St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 230 1833",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10o7c2fyXxt0wLHniJpUF4_41.365018_-72.913808@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449384,
+    "wof:geomhash":"e43da17c23eaf13344f2d925d7eee401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823897679
+        }
+    ],
+    "wof:id":823897679,
+    "wof:lastmodified":1466425999,
+    "wof:name":"Small Job Specialist Electric",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.913808,
+    41.365018,
+    -72.913808,
+    41.365018
+],
+  "geometry": {"coordinates":[-72.913808,41.365018],"type":"Point"}
+}

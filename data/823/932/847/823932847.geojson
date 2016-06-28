@@ -1,0 +1,73 @@
+{
+  "id": 823932847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.763629,41.350751,-72.763629,41.350751",
+    "geom:latitude":41.350751,
+    "geom:longitude":-72.763629,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Beech St",
+    "sg:city":"North Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 494 3554",
+    "sg:postcode":"06471",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WlLoqX80HNOJnoeSl3aAV_41.350751_-72.763629@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450329,
+    "wof:geomhash":"8567d6a7a78364bb8be7ff857491c7ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823932847
+        }
+    ],
+    "wof:id":823932847,
+    "wof:lastmodified":1466426347,
+    "wof:name":"S & L Beach LLC",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.763629,
+    41.350751,
+    -72.763629,
+    41.350751
+],
+  "geometry": {"coordinates":[-72.76362899999999,41.350751],"type":"Point"}
+}

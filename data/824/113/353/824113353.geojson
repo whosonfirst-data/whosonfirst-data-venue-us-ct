@@ -1,0 +1,91 @@
+{
+  "id": 824113353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.455971,41.392208,-73.455971,41.392208",
+    "geom:latitude":41.392208,
+    "geom:longitude":-73.455971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 West St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Massage",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 9155",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13AcLjh6ba6lE6VSiQoTXP_41.392208_-73.455971@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454625,
+    "wof:geomhash":"6bef3c099ac59c406efe7ebacb15eb10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824113353
+        }
+    ],
+    "wof:id":824113353,
+    "wof:lastmodified":1466423192,
+    "wof:name":"Lily Spa",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.455971,
+    41.392208,
+    -73.455971,
+    41.392208
+],
+  "geometry": {"coordinates":[-73.45597100000001,41.392208],"type":"Point"}
+}

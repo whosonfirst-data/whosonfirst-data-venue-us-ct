@@ -1,0 +1,73 @@
+{
+  "id": 824057489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.396294,41.599384,-73.396294,41.599384",
+    "geom:latitude":41.599384,
+    "geom:longitude":-73.396294,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Holly Ln",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931231,
+        102085375,
+        85824781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b5O2pdkuj7uMNjDyGQ4d2_41.599384_-73.396294@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453340,
+    "wof:geomhash":"8904af219be954887ab6a3dbf3ba041d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85931231,
+            "neighbourhood_id":85824781,
+            "region_id":85688629,
+            "venue_id":824057489
+        }
+    ],
+    "wof:id":824057489,
+    "wof:lastmodified":1466422173,
+    "wof:name":"Wesconn Towing & Recovery",
+    "wof:parent_id":85824781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.396294,
+    41.599384,
+    -73.396294,
+    41.599384
+],
+  "geometry": {"coordinates":[-73.396294,41.599384],"type":"Point"}
+}

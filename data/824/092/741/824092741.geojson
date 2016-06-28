@@ -1,0 +1,93 @@
+{
+  "id": 824092741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.577663,41.989718,-72.577663,41.989718",
+    "geom:latitude":41.989718,
+    "geom:longitude":-72.577663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Hazard Ave",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 239 0004",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grill",
+        "bar",
+        "facility",
+        "hall",
+        "reception",
+        "banquet"
+    ],
+    "sg:website":"http://www.hazardgrille.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58KlROLOkIaaD1jvMCDe98_41.989718_-72.577663@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454144,
+    "wof:geomhash":"bc5650384faa0b3e5a6e8dc8092a72a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824092741
+        }
+    ],
+    "wof:id":824092741,
+    "wof:lastmodified":1466422900,
+    "wof:name":"Hazard Grille",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar",
+        "facility",
+        "hall",
+        "reception",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -72.577663,
+    41.989718,
+    -72.577663,
+    41.989718
+],
+  "geometry": {"coordinates":[-72.577663,41.989718],"type":"Point"}
+}

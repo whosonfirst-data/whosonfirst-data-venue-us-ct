@@ -2,13 +2,14 @@
   "id": 353736967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630637,41.108763,-73.630637,41.108763",
     "geom:latitude":41.108763,
     "geom:longitude":-73.630637,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"752 North St",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":353736967,
-    "wof:lastmodified":1449020750,
+    "wof:lastmodified":1466421132,
     "wof:name":"Fenwicke Partners LLC",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.630637,41.108763,-73.630637,41.108763],
-  "geometry": {"coordinates":[-73.630637,41.108763],"type":"Point"}
+  "bbox": [
+    -73.630637,
+    41.108763,
+    -73.630637,
+    41.108763
+],
+  "geometry": {"coordinates":[-73.63063699999999,41.108763],"type":"Point"}
 }

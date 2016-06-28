@@ -1,0 +1,66 @@
+{
+  "id": 823595641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43766,41.475362,-73.43766,41.475362",
+    "geom:latitude":41.475362,
+    "geom:longitude":-73.43766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Laurel Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 0556",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809219,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6guayJ2wgnqRX5tYuPZ2pU_41.475362_-73.437660@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441780,
+    "wof:geomhash":"7792d94dabe337953fa0e7b7d8cea5da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809219,
+            "region_id":85688629,
+            "venue_id":823595641
+        }
+    ],
+    "wof:id":823595641,
+    "wof:lastmodified":1466423212,
+    "wof:name":"Clem-Hart LLC",
+    "wof:parent_id":85809219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.43766,
+    41.475362,
+    -73.43766,
+    41.475362
+],
+  "geometry": {"coordinates":[-73.43765999999999,41.475362],"type":"Point"}
+}

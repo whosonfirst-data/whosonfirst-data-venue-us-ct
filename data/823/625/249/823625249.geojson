@@ -1,0 +1,79 @@
+{
+  "id": 823625249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.186565,41.188616,-73.186565,41.188616",
+    "geom:latitude":41.188616,
+    "geom:longitude":-73.186565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"41 Maple St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 7225",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X1tTHL7U7jSMHKt1R7CnB_41.188616_-73.186565@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442519,
+    "wof:geomhash":"847a442da34e7cee19d744fce3d0721c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823625249
+        }
+    ],
+    "wof:id":823625249,
+    "wof:lastmodified":1466423712,
+    "wof:name":"Liberty Construction",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.186565,
+    41.188616,
+    -73.186565,
+    41.188616
+],
+  "geometry": {"coordinates":[-73.186565,41.188616],"type":"Point"}
+}

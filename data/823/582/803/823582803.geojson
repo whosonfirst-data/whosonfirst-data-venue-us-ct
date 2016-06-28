@@ -1,0 +1,85 @@
+{
+  "id": 823582803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.921024,41.356313,-72.921024,41.356313",
+    "geom:latitude":41.356313,
+    "geom:longitude":-72.921024,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"365 Mather St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 6221",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47OA4O5OmHiY0lgk9Mj4oJ_41.356313_-72.921024@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441484,
+    "wof:geomhash":"c30b4048c4633dd1fea0f983be0c8fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823582803
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823582803
+        }
+    ],
+    "wof:id":823582803,
+    "wof:lastmodified":1466422967,
+    "wof:name":"Air Guard Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "conditioning",
+        "air",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.921024,
+    41.356313,
+    -72.921024,
+    41.356313
+],
+  "geometry": {"coordinates":[-72.921024,41.356313],"type":"Point"}
+}

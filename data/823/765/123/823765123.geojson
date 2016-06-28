@@ -1,0 +1,77 @@
+{
+  "id": 823765123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.076027,41.335733,-73.076027,41.335733",
+    "geom:latitude":41.335733,
+    "geom:longitude":-73.076027,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"560 Main St",
+    "sg:city":"Ansonia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 7177",
+    "sg:postcode":"06401",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13arPr2BkSzQUfBfl5p8kC_41.335733_-73.076027@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445720,
+    "wof:geomhash":"6406d08f3d867ab641eaaad757a6949c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823765123
+        }
+    ],
+    "wof:id":823765123,
+    "wof:lastmodified":1466424796,
+    "wof:name":"Richard Rosenfeld DDS",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.076027,
+    41.335733,
+    -73.076027,
+    41.335733
+],
+  "geometry": {"coordinates":[-73.076027,41.335733],"type":"Point"}
+}

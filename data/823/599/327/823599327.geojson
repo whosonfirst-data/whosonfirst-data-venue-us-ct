@@ -1,0 +1,73 @@
+{
+  "id": 823599327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416595,41.175382,-73.416595,41.175382",
+    "geom:latitude":41.175382,
+    "geom:longitude":-73.416595,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"141 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 761 0821",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xmZCj879fOfe178sk6C0Z_41.175382_-73.416595@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441866,
+    "wof:geomhash":"60e8eea06ce45a15ed072496dec93e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823599327
+        }
+    ],
+    "wof:id":823599327,
+    "wof:lastmodified":1466423320,
+    "wof:name":"United States Surgical",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.416595,
+    41.175382,
+    -73.416595,
+    41.175382
+],
+  "geometry": {"coordinates":[-73.416595,41.175382],"type":"Point"}
+}

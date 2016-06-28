@@ -1,0 +1,66 @@
+{
+  "id": 823870365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.331517,41.384454,-73.331517,41.384454",
+    "geom:latitude":41.384454,
+    "geom:longitude":-73.331517,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Sugar St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 3441",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85814701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BWB2c7ti625v9fJrrxYRH_41.384454_-73.331517@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448747,
+    "wof:geomhash":"7a2d2788ba507b730a9a29954b76fd6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85814701,
+            "region_id":85688629,
+            "venue_id":823870365
+        }
+    ],
+    "wof:id":823870365,
+    "wof:lastmodified":1466425769,
+    "wof:name":"Newtown Country Mill",
+    "wof:parent_id":85814701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.331517,
+    41.384454,
+    -73.331517,
+    41.384454
+],
+  "geometry": {"coordinates":[-73.33151700000001,41.384454],"type":"Point"}
+}

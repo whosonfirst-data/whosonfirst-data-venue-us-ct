@@ -1,0 +1,71 @@
+{
+  "id": 823850603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.790065,41.512035,-72.790065,41.512035",
+    "geom:latitude":41.512035,
+    "geom:longitude":-72.790065,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Evergreen Ln",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 238 9667",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KPNskXVASyC6a6OJeU9BX_41.512035_-72.790065@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448237,
+    "wof:geomhash":"237a84ff08b5f21e3d6311c4ed479a5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823850603
+        }
+    ],
+    "wof:id":823850603,
+    "wof:lastmodified":1466425546,
+    "wof:name":"Royal Flush Plumbing",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.790065,
+    41.512035,
+    -72.790065,
+    41.512035
+],
+  "geometry": {"coordinates":[-72.790065,41.512035],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823533599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.821335,41.487444,-72.821335,41.487444",
+    "geom:latitude":41.487444,
+    "geom:longitude":-72.821335,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"368 Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 5455",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bs6SHB0v1tk2MxS1BLdsK_41.487444_-72.821335@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440327,
+    "wof:geomhash":"ead25bd4070d154995c568ca06acea0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823533599
+        }
+    ],
+    "wof:id":823533599,
+    "wof:lastmodified":1466422272,
+    "wof:name":"Essy's Cake & Party Shop",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.821335,
+    41.487444,
+    -72.821335,
+    41.487444
+],
+  "geometry": {"coordinates":[-72.821335,41.487444],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823918755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.056945,41.396671,-73.056945,41.396671",
+    "geom:latitude":41.396671,
+    "geom:longitude":-73.056945,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Smith St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 4579",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fg1JFillZJG9SrFkdGWER_41.396671_-73.056945@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449972,
+    "wof:geomhash":"9c68916b38e6f2cef81ab4386005295e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823918755
+        }
+    ],
+    "wof:id":823918755,
+    "wof:lastmodified":1466426223,
+    "wof:name":"Seymour Housing Authority",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -73.056945,
+    41.396671,
+    -73.056945,
+    41.396671
+],
+  "geometry": {"coordinates":[-73.056945,41.396671],"type":"Point"}
+}

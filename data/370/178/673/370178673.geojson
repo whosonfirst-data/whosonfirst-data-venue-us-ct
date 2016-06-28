@@ -2,13 +2,14 @@
   "id": 370178673,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.500516,41.191942,-73.500516,41.191942",
     "geom:latitude":41.191942,
     "geom:longitude":-73.500516,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 N Wilton Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":370178673,
-    "wof:lastmodified":1449031521,
+    "wof:lastmodified":1466421139,
     "wof:name":"Russ Kinne Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "scientific"
     ]
 },
-  "bbox": [-73.500516,41.191942,-73.500516,41.191942],
+  "bbox": [
+    -73.500516,
+    41.191942,
+    -73.500516,
+    41.191942
+],
   "geometry": {"coordinates":[-73.500516,41.191942],"type":"Point"}
 }

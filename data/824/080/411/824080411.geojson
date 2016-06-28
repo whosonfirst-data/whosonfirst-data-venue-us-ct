@@ -1,0 +1,80 @@
+{
+  "id": 824080411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.42103,41.157899,-73.42103,41.157899",
+    "geom:latitude":41.157899,
+    "geom:longitude":-73.42103,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"588 Main Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwalk/144220-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 846 4391",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879321,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09FbstYKXuCkVSwcaVrmHq_41.157899_-73.421030@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453860,
+    "wof:geomhash":"0a59c5a22e50c93343d7cd40384cb62a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879321,
+            "region_id":85688629,
+            "venue_id":824080411
+        }
+    ],
+    "wof:id":824080411,
+    "wof:lastmodified":1466422575,
+    "wof:name":"Subway",
+    "wof:parent_id":85879321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -73.42103,
+    41.157899,
+    -73.42103,
+    41.157899
+],
+  "geometry": {"coordinates":[-73.42103,41.157899],"type":"Point"}
+}

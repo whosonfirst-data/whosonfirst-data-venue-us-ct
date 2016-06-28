@@ -1,0 +1,71 @@
+{
+  "id": 823849133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.901856,41.912458,-71.901856,41.912458",
+    "geom:latitude":41.912458,
+    "geom:longitude":-71.901856,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Brown St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0k0IyS3P2EH2cgEZkVgX8x_41.912458_-71.901856@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448199,
+    "wof:geomhash":"63d62e632ba8def8261060136d03760e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823849133
+        }
+    ],
+    "wof:id":823849133,
+    "wof:lastmodified":1466425511,
+    "wof:name":"Ralphs Auto Detailing",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -71.901856,
+    41.912458,
+    -71.901856,
+    41.912458
+],
+  "geometry": {"coordinates":[-71.901856,41.912458],"type":"Point"}
+}

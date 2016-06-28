@@ -1,0 +1,76 @@
+{
+  "id": 824075403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.261953,41.808982,-72.261953,41.808982",
+    "geom:latitude":41.808982,
+    "geom:longitude":-72.261953,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 N Eagleville Rd",
+    "sg:city":"Storrs Mansfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/mansfield/144052-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 429 6806",
+    "sg:postcode":"06268",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931263,
+        102085379,
+        85815787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rGPrt339OTETkn3W5Ox2X_41.808982_-72.261953@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453748,
+    "wof:geomhash":"a92211f0c92e9bdcd5f86d41959a2c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931263,
+            "neighbourhood_id":85815787,
+            "region_id":85688629,
+            "venue_id":824075403
+        }
+    ],
+    "wof:id":824075403,
+    "wof:lastmodified":1466422576,
+    "wof:name":"Subway",
+    "wof:parent_id":85815787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.261953,
+    41.808982,
+    -72.261953,
+    41.808982
+],
+  "geometry": {"coordinates":[-72.26195300000001,41.808982],"type":"Point"}
+}

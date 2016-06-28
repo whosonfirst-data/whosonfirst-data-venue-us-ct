@@ -1,0 +1,73 @@
+{
+  "id": 824050099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93481,41.341711,-72.93481,41.341711",
+    "geom:latitude":41.341711,
+    "geom:longitude":-72.93481,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1013 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 3297",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xaf1PI1SNgMBzSy1ibgIN_41.341711_-72.934810@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453168,
+    "wof:geomhash":"df66007b635e2e9d15d22da816f1291b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824050099
+        }
+    ],
+    "wof:id":824050099,
+    "wof:lastmodified":1466421789,
+    "wof:name":"Hird Electrical Contractors",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.93481,
+    41.341711,
+    -72.93481,
+    41.341711
+],
+  "geometry": {"coordinates":[-72.93481,41.341711],"type":"Point"}
+}

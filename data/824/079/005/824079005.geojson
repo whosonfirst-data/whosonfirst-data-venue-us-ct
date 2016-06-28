@@ -1,0 +1,80 @@
+{
+  "id": 824079005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.97485,41.553676,-72.97485,41.553676",
+    "geom:latitude":41.553676,
+    "geom:longitude":-72.97485,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1344 Meriden Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/wolcott/144058-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 597 8774",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816299,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44pw6LVlJ07I1NMhi00TDj_41.553676_-72.974850@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453831,
+    "wof:geomhash":"acbd04e111533e9d009052d2fcdeba75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85816299,
+            "region_id":85688629,
+            "venue_id":824079005
+        }
+    ],
+    "wof:id":824079005,
+    "wof:lastmodified":1466422535,
+    "wof:name":"Subway",
+    "wof:parent_id":85816299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -72.97485,
+    41.553676,
+    -72.97485,
+    41.553676
+],
+  "geometry": {"coordinates":[-72.97485,41.553676],"type":"Point"}
+}

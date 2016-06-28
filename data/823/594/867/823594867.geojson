@@ -1,0 +1,71 @@
+{
+  "id": 823594867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.20749,41.332526,-73.20749,41.332526",
+    "geom:latitude":41.332526,
+    "geom:longitude":-73.20749,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Fan Hill Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 3622",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D1DQA1xrv6frf54GkkkaQ_41.332526_-73.207490@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441756,
+    "wof:geomhash":"66058ed2cbe293df4d58486ea3d02acf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823594867
+        }
+    ],
+    "wof:id":823594867,
+    "wof:lastmodified":1466423162,
+    "wof:name":"Monroe Police",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.20749,
+    41.332526,
+    -73.20749,
+    41.332526
+],
+  "geometry": {"coordinates":[-73.20749000000001,41.332526],"type":"Point"}
+}

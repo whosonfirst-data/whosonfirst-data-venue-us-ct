@@ -1,0 +1,73 @@
+{
+  "id": 824053163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.957663,41.628567,-72.957663,41.628567",
+    "geom:latitude":41.628567,
+    "geom:longitude":-72.957663,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Boulder Dr",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 4899",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contracting",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0culfeVJ4DEWbb8EIjlT6p_41.628567_-72.957663@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453232,
+    "wof:geomhash":"3671cea21e77f0999bfd768c06a8c486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":824053163
+        }
+    ],
+    "wof:id":824053163,
+    "wof:lastmodified":1466422122,
+    "wof:name":"Integrity Electric",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contracting",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -72.957663,
+    41.628567,
+    -72.957663,
+    41.628567
+],
+  "geometry": {"coordinates":[-72.957663,41.628567],"type":"Point"}
+}

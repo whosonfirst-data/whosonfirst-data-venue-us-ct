@@ -1,0 +1,74 @@
+{
+  "id": 824077149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.378418,41.295737,-72.378418,41.295737",
+    "geom:latitude":41.295737,
+    "geom:longitude":-72.378418,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"688 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/old-saybrook/73600-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 3437",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R2ZOMO70YgR4cji7Z9N2g_41.295737_-72.378418@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453789,
+    "wof:geomhash":"e4c022874181cac90772061463192c47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824077149
+        }
+    ],
+    "wof:id":824077149,
+    "wof:lastmodified":1466422545,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.378418,
+    41.295737,
+    -72.378418,
+    41.295737
+],
+  "geometry": {"coordinates":[-72.378418,41.295737],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823897167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.813003,41.279839,-72.813003,41.279839",
+    "geom:latitude":41.279839,
+    "geom:longitude":-72.813003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 S Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 1428",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GSE4cpEJziFNDT1TLPJrV_41.279839_-72.813003@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449374,
+    "wof:geomhash":"23081946aba97ec8aa1990ec64fb30b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823897167
+        }
+    ],
+    "wof:id":823897167,
+    "wof:lastmodified":1466426038,
+    "wof:name":"John J Girald DMD",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.813003,
+    41.279839,
+    -72.813003,
+    41.279839
+],
+  "geometry": {"coordinates":[-72.81300299999999,41.279839],"type":"Point"}
+}

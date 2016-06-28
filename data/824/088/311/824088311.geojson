@@ -1,0 +1,84 @@
+{
+  "id": 824088311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9216,41.809898,-72.9216,41.809898",
+    "geom:latitude":41.809898,
+    "geom:longitude":-72.9216,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 The Grn",
+    "sg:city":"Collinsville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 693 8020",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YZkIz9herDLZmBdslI8iq_41.809898_-72.921600@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454050,
+    "wof:geomhash":"31f59f049ff8f35e29207682247155e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824088311
+        }
+    ],
+    "wof:id":824088311,
+    "wof:lastmodified":1466422837,
+    "wof:name":"Rubinstein Karel PHD",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -72.9216,
+    41.809898,
+    -72.9216,
+    41.809898
+],
+  "geometry": {"coordinates":[-72.9216,41.809898],"type":"Point"}
+}

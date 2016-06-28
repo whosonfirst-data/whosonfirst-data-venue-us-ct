@@ -1,0 +1,90 @@
+{
+  "id": 824077185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.014934,41.255914,-73.014934,41.255914",
+    "geom:latitude":41.255914,
+    "geom:longitude":-73.014934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"486 Boston Post Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/orange/97168-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 799 8000",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IXm3nEKImv5YZpxMGUq5k_41.255914_-73.014934@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453791,
+    "wof:geomhash":"53d6dad820b51357d5fd59f5017da485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824077185
+        }
+    ],
+    "wof:id":824077185,
+    "wof:lastmodified":1466422553,
+    "wof:name":"IHOP",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -73.014934,
+    41.255914,
+    -73.014934,
+    41.255914
+],
+  "geometry": {"coordinates":[-73.014934,41.255914],"type":"Point"}
+}

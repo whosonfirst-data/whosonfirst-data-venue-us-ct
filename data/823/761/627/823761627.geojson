@@ -1,0 +1,71 @@
+{
+  "id": 823761627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.139346,41.332283,-73.139346,41.332283",
+    "geom:latitude":41.332283,
+    "geom:longitude":-73.139346,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Maple Ave",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 8557",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Klv9pgmaJm6HprcLM5onx_41.332283_-73.139346@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445648,
+    "wof:geomhash":"3b291884d0d37e47f3fb10f983f17810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823761627
+        }
+    ],
+    "wof:id":823761627,
+    "wof:lastmodified":1466425028,
+    "wof:name":"Maple Ave Assoc LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.139346,
+    41.332283,
+    -73.139346,
+    41.332283
+],
+  "geometry": {"coordinates":[-73.139346,41.332283],"type":"Point"}
+}

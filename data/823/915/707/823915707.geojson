@@ -1,0 +1,79 @@
+{
+  "id": 823915707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.043118,41.535241,-73.043118,41.535241",
+    "geom:latitude":41.535241,
+    "geom:longitude":-73.043118,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"447 S Leonard St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 753 0417",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852453,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hpvu7VuItrXkDgrHgz2Fg_41.535241_-73.043118@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449895,
+    "wof:geomhash":"b8838f48d0e7dac5e7e3d26ad09e3676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85852453,
+            "region_id":85688629,
+            "venue_id":823915707
+        }
+    ],
+    "wof:id":823915707,
+    "wof:lastmodified":1466426156,
+    "wof:name":"Butch's",
+    "wof:parent_id":85852453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.043118,
+    41.535241,
+    -73.043118,
+    41.535241
+],
+  "geometry": {"coordinates":[-73.04311800000001,41.535241],"type":"Point"}
+}

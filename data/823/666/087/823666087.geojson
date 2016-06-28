@@ -1,0 +1,73 @@
+{
+  "id": 823666087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819546,41.299552,-72.819546,41.299552",
+    "geom:latitude":41.299552,
+    "geom:longitude":-72.819546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"33 Bay Path Way",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 8661",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FC6V7lK3TQ04dd6Y6qW6n_41.299552_-72.819546@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443476,
+    "wof:geomhash":"cc161248e88b288331b42df3bff57baf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823666087
+        }
+    ],
+    "wof:id":823666087,
+    "wof:lastmodified":1466423899,
+    "wof:name":"Electrical Dynamics LLC",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.819546,
+    41.299552,
+    -72.819546,
+    41.299552
+],
+  "geometry": {"coordinates":[-72.819546,41.299552],"type":"Point"}
+}

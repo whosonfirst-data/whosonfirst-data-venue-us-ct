@@ -1,0 +1,73 @@
+{
+  "id": 823772837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.92215,41.415169,-72.92215,41.415169",
+    "geom:latitude":41.415169,
+    "geom:longitude":-72.92215,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1507 Shepard Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 0888",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Zlt9y4TbDkF3ywOPGUnJP_41.415169_-72.922150@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445890,
+    "wof:geomhash":"9f007a090caf21ab2456a9d13fe19539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823772837
+        }
+    ],
+    "wof:id":823772837,
+    "wof:lastmodified":1466424966,
+    "wof:name":"Power Electric",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.92215,
+    41.415169,
+    -72.92215,
+    41.415169
+],
+  "geometry": {"coordinates":[-72.92215,41.415169],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823776659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.073992,41.39514,-73.073992,41.39514",
+    "geom:latitude":41.39514,
+    "geom:longitude":-73.073992,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 1st St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 3255",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yCKiVP8PAkoPXRyreD0Pv_41.395140_-73.073992@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445999,
+    "wof:geomhash":"c85f3537e346a6e708afda95352bd3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823776659
+        }
+    ],
+    "wof:id":823776659,
+    "wof:lastmodified":1466424956,
+    "wof:name":"First Street Apizza",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.073992,
+    41.39514,
+    -73.073992,
+    41.39514
+],
+  "geometry": {"coordinates":[-73.073992,41.39514],"type":"Point"}
+}

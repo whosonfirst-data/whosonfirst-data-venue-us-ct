@@ -2,13 +2,14 @@
   "id": 336677037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.665171,41.025933,-73.665171,41.025933",
     "geom:latitude":41.025933,
     "geom:longitude":-73.665171,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8 Greenwich Hills Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":336677037,
-    "wof:lastmodified":1448997319,
+    "wof:lastmodified":1466421127,
     "wof:name":"Westfield Capitol Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.665171,41.025933,-73.665171,41.025933],
+  "bbox": [
+    -73.665171,
+    41.025933,
+    -73.665171,
+    41.025933
+],
   "geometry": {"coordinates":[-73.665171,41.025933],"type":"Point"}
 }

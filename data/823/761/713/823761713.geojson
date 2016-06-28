@@ -1,0 +1,77 @@
+{
+  "id": 823761713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.202934,41.200351,-73.202934,41.200351",
+    "geom:latitude":41.200351,
+    "geom:longitude":-73.202934,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2819 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876501,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hze1nEtSDApGd1M15jGsa_41.200351_-73.202934@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445649,
+    "wof:geomhash":"8aad32e2962566cd36708e82f1ae96ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876501,
+            "region_id":85688629,
+            "venue_id":823761713
+        }
+    ],
+    "wof:id":823761713,
+    "wof:lastmodified":1466424865,
+    "wof:name":"John P Rogowski MD",
+    "wof:parent_id":85876501,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.202934,
+    41.200351,
+    -73.202934,
+    41.200351
+],
+  "geometry": {"coordinates":[-73.202934,41.200351],"type":"Point"}
+}

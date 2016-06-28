@@ -1,0 +1,71 @@
+{
+  "id": 823661459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.264232,41.333335,-73.264232,41.333335",
+    "geom:latitude":41.333335,
+    "geom:longitude":-73.264232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"605 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "board"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aAGnOiDGZ9eOpKUyr10hW_41.333335_-73.264232@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443368,
+    "wof:geomhash":"8af665eab7303b92d385cf00adb02e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823661459
+        }
+    ],
+    "wof:id":823661459,
+    "wof:lastmodified":1466423898,
+    "wof:name":"Joel Barlow High School",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "board"
+    ]
+},
+  "bbox": [
+    -73.264232,
+    41.333335,
+    -73.264232,
+    41.333335
+],
+  "geometry": {"coordinates":[-73.26423200000001,41.333335],"type":"Point"}
+}

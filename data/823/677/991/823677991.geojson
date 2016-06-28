@@ -1,0 +1,82 @@
+{
+  "id": 823677991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.362232,41.151555,-73.362232,41.151555",
+    "geom:latitude":41.151555,
+    "geom:longitude":-73.362232,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"337 Main St",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 454 8828",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888507,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20HlJMbaSXGmLFJBlWi9gE_41.151555_-73.362232@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443746,
+    "wof:geomhash":"f7ad938d12458fc50de675a581fab80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85888507,
+            "region_id":85688629,
+            "venue_id":823677991
+        }
+    ],
+    "wof:id":823677991,
+    "wof:lastmodified":1466423859,
+    "wof:name":"Merritt Country Store Inc",
+    "wof:parent_id":85888507,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.362232,
+    41.151555,
+    -73.362232,
+    41.151555
+],
+  "geometry": {"coordinates":[-73.36223200000001,41.151555],"type":"Point"}
+}

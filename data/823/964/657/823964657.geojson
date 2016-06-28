@@ -1,0 +1,71 @@
+{
+  "id": 823964657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597748,41.70463,-72.597748,41.70463",
+    "geom:latitude":41.70463,
+    "geom:longitude":-72.597748,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"289 Williams St E",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QEUxr3oJiN7739aS5JEnR_41.704630_-72.597748@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451127,
+    "wof:geomhash":"7ff2f4924e812703d70f1b700d0a8df0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":823964657
+        }
+    ],
+    "wof:id":823964657,
+    "wof:lastmodified":1466426340,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -72.597748,
+    41.70463,
+    -72.597748,
+    41.70463
+],
+  "geometry": {"coordinates":[-72.597748,41.70463],"type":"Point"}
+}

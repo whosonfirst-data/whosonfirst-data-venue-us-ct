@@ -1,0 +1,91 @@
+{
+  "id": 824072923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725585,41.942517,-72.725585,41.942517",
+    "geom:latitude":41.942517,
+    "geom:longitude":-72.725585,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Rainbow Rd",
+    "sg:city":"East Granby",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-granby/129831-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 653 0883",
+    "sg:postcode":"06026",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0s3uuxZ7Kb9yJTrJXHOWwd_41.942517_-72.725585@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453693,
+    "wof:geomhash":"a6cfd80391bac2e1df83f5b43c9b52e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":824072923
+        }
+    ],
+    "wof:id":824072923,
+    "wof:lastmodified":1466422476,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.725585,
+    41.942517,
+    -72.725585,
+    41.942517
+],
+  "geometry": {"coordinates":[-72.725585,41.942517],"type":"Point"}
+}

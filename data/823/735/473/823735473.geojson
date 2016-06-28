@@ -1,0 +1,71 @@
+{
+  "id": 823735473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.975386,41.618112,-72.975386,41.618112",
+    "geom:latitude":41.618112,
+    "geom:longitude":-72.975386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1139 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oA5HstFuvYQbZJI69dhEq_41.618112_-72.975386@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445053,
+    "wof:geomhash":"67038ddd0d7816e8db6b3e7e869adfa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823735473
+        }
+    ],
+    "wof:id":823735473,
+    "wof:lastmodified":1466424576,
+    "wof:name":"Auto Pro",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.975386,
+    41.618112,
+    -72.975386,
+    41.618112
+],
+  "geometry": {"coordinates":[-72.975386,41.618112],"type":"Point"}
+}

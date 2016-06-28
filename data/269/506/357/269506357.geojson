@@ -2,13 +2,14 @@
   "id": 269506357,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.675552,41.046721,-73.675552,41.046721",
     "geom:latitude":41.046721,
     "geom:longitude":-73.675552,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"16 Bowman Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269506357,
-    "wof:lastmodified":1449036197,
+    "wof:lastmodified":1466421093,
     "wof:name":"Three C Management LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.675552,41.046721,-73.675552,41.046721],
+  "bbox": [
+    -73.675552,
+    41.046721,
+    -73.675552,
+    41.046721
+],
   "geometry": {"coordinates":[-73.675552,41.046721],"type":"Point"}
 }

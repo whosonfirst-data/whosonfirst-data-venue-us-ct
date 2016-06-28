@@ -1,0 +1,73 @@
+{
+  "id": 823741161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.5492,41.819497,-72.5492,41.819497",
+    "geom:latitude":41.819497,
+    "geom:longitude":-72.5492,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"179 Deming St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808291,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kDuLbab197V8EECdfjlpK_41.819497_-72.549200@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445179,
+    "wof:geomhash":"5a41e2012c73b4a095fbddc21b23800b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808291,
+            "region_id":85688629,
+            "venue_id":823741161
+        }
+    ],
+    "wof:id":823741161,
+    "wof:lastmodified":1466424620,
+    "wof:name":"Gateway Cleaners",
+    "wof:parent_id":85808291,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -72.5492,
+    41.819497,
+    -72.5492,
+    41.819497
+],
+  "geometry": {"coordinates":[-72.5492,41.819497],"type":"Point"}
+}

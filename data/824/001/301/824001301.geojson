@@ -1,0 +1,71 @@
+{
+  "id": 824001301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.841855,41.278699,-72.841855,41.278699",
+    "geom:latitude":41.278699,
+    "geom:longitude":-72.841855,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"607 W Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 8100",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22uFpjSQfkeULh6sFkUmLs_41.278699_-72.841855@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452017,
+    "wof:geomhash":"f1f47b06920ef8d990bdb5ef95138c9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":824001301
+        }
+    ],
+    "wof:id":824001301,
+    "wof:lastmodified":1466421138,
+    "wof:name":"Nail Expressions",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -72.841855,
+    41.278699,
+    -72.841855,
+    41.278699
+],
+  "geometry": {"coordinates":[-72.841855,41.278699],"type":"Point"}
+}

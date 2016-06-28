@@ -1,0 +1,71 @@
+{
+  "id": 823642127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.437282,41.470513,-73.437282,41.470513",
+    "geom:latitude":41.470513,
+    "geom:longitude":-73.437282,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Arrowhead Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809219,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08mL3tOqmMEznWeqtxIcFd_41.470513_-73.437282@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442904,
+    "wof:geomhash":"3d82fb7ee238e8079e4bf299cda52e0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809219,
+            "region_id":85688629,
+            "venue_id":823642127
+        }
+    ],
+    "wof:id":823642127,
+    "wof:lastmodified":1466423677,
+    "wof:name":"Arlene D Kalman MD",
+    "wof:parent_id":85809219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.437282,
+    41.470513,
+    -73.437282,
+    41.470513
+],
+  "geometry": {"coordinates":[-73.437282,41.470513],"type":"Point"}
+}

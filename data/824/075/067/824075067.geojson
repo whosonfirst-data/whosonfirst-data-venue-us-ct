@@ -1,0 +1,82 @@
+{
+  "id": 824075067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.63352,41.743321,-72.63352,41.743321",
+    "geom:latitude":41.743321,
+    "geom:longitude":-72.63352,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"303 Main St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/169425-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 569 6949",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85825825,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5muDGRz6WJQtaizzQsULcb_41.743321_-72.633520@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453737,
+    "wof:geomhash":"965988f1e2c1b041986c1883fa9a21cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85825825,
+            "region_id":85688629,
+            "venue_id":824075067
+        }
+    ],
+    "wof:id":824075067,
+    "wof:lastmodified":1466422541,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85825825,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.63352,
+    41.743321,
+    -72.63352,
+    41.743321
+],
+  "geometry": {"coordinates":[-72.63352,41.743321],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823873983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.980427,41.609634,-71.980427,41.609634",
+    "geom:latitude":41.609634,
+    "geom:longitude":-71.980427,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"86 N Main St",
+    "sg:city":"Jewett City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06351",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811237,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NN8Li0MCzR9fjTHuTbVsl_41.609634_-71.980427@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448825,
+    "wof:geomhash":"b294873366e687a9eb4df2142d8dfebd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85811237,
+            "region_id":85688629,
+            "venue_id":823873983
+        }
+    ],
+    "wof:id":823873983,
+    "wof:lastmodified":1466425801,
+    "wof:name":"Keiths Appliance",
+    "wof:parent_id":85811237,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -71.980427,
+    41.609634,
+    -71.980427,
+    41.609634
+],
+  "geometry": {"coordinates":[-71.98042700000001,41.609634],"type":"Point"}
+}

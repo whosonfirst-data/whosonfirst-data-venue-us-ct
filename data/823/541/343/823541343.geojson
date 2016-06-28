@@ -1,0 +1,79 @@
+{
+  "id": 823541343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679745,41.788021,-72.679745,41.788021",
+    "geom:latitude":41.788021,
+    "geom:longitude":-72.679745,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"129 Nelson St",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06120",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85878021,
+        102191575,
+        404495981,
+        85633793,
+        85930819,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Yo6Mp2qJ8S6jJH9FHPkRa_41.788021_-72.679745@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440495,
+    "wof:geomhash":"b1328c686b5edad37531f87b3c35c853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495981,
+            "locality_id":85930819,
+            "neighbourhood_id":85878021,
+            "region_id":85688629,
+            "venue_id":823541343
+        }
+    ],
+    "wof:id":823541343,
+    "wof:lastmodified":1466422653,
+    "wof:name":"Walton Auto Repair Shop",
+    "wof:parent_id":85878021,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.679745,
+    41.788021,
+    -72.679745,
+    41.788021
+],
+  "geometry": {"coordinates":[-72.679745,41.788021],"type":"Point"}
+}

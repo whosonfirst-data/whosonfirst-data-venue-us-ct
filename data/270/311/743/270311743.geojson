@@ -2,13 +2,14 @@
   "id": 270311743,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.687267,41.044972,-73.687267,41.044972",
     "geom:latitude":41.044972,
     "geom:longitude":-73.687267,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"53 Doral Greens Dr W",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":270311743,
-    "wof:lastmodified":1449009208,
+    "wof:lastmodified":1466421100,
     "wof:name":"Videoware Corp",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "direct"
     ]
 },
-  "bbox": [-73.687267,41.044972,-73.687267,41.044972],
-  "geometry": {"coordinates":[-73.687267,41.044972],"type":"Point"}
+  "bbox": [
+    -73.687267,
+    41.044972,
+    -73.687267,
+    41.044972
+],
+  "geometry": {"coordinates":[-73.68726700000001,41.044972],"type":"Point"}
 }

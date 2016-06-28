@@ -1,0 +1,89 @@
+{
+  "id": 824110099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.057247,41.594011,-73.057247,41.594011",
+    "geom:latitude":41.594011,
+    "geom:longitude":-73.057247,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Commons Ct",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 754 9091",
+    "sg:postcode":"06704",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "household",
+        "warehouses-merchandise",
+        "warehouses-public-commercial"
+    ],
+    "sg:website":"http://www.centralctwarehousing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85854745,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_134MHVz5pqk0K2NtSAQFTD_41.594011_-73.057247@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454556,
+    "wof:geomhash":"444e0e41541dad4dd8b7ec6fea13c10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85854745,
+            "region_id":85688629,
+            "venue_id":824110099
+        }
+    ],
+    "wof:id":824110099,
+    "wof:lastmodified":1466423104,
+    "wof:name":"Central CT Warehouse",
+    "wof:parent_id":85854745,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "household",
+        "warehouses-merchandise",
+        "warehouses-public-commercial"
+    ]
+},
+  "bbox": [
+    -73.057247,
+    41.594011,
+    -73.057247,
+    41.594011
+],
+  "geometry": {"coordinates":[-73.057247,41.594011],"type":"Point"}
+}

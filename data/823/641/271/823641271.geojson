@@ -1,0 +1,73 @@
+{
+  "id": 823641271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.913411,41.348456,-72.913411,41.348456",
+    "geom:latitude":41.348456,
+    "geom:longitude":-72.913411,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1400 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "residential",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MDctKYfjJeSge5cnsr3IU_41.348456_-72.913411@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442882,
+    "wof:geomhash":"fc38f9f376cefcc0c7148d322b636347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823641271
+        }
+    ],
+    "wof:id":823641271,
+    "wof:lastmodified":1466423641,
+    "wof:name":"Childrens Center of Hamden",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "care"
+    ]
+},
+  "bbox": [
+    -72.913411,
+    41.348456,
+    -72.913411,
+    41.348456
+],
+  "geometry": {"coordinates":[-72.913411,41.348456],"type":"Point"}
+}

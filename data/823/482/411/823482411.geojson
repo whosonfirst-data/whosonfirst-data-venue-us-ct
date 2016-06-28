@@ -1,0 +1,66 @@
+{
+  "id": 823482411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.209827,41.36015,-72.209827,41.36015",
+    "geom:latitude":41.36015,
+    "geom:longitude":-72.209827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"339 Flanders Rd",
+    "sg:city":"East Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 4637",
+    "sg:postcode":"06333",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85822167,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ybKn35zxqOD3iyqvZ59LM_41.360150_-72.209827@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439136,
+    "wof:geomhash":"03a1c03f1f0209f105091e46bd442415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85822167,
+            "region_id":85688629,
+            "venue_id":823482411
+        }
+    ],
+    "wof:id":823482411,
+    "wof:lastmodified":1466421472,
+    "wof:name":"Goodfriends Veterinary Clinic",
+    "wof:parent_id":85822167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.209827,
+    41.36015,
+    -72.209827,
+    41.36015
+],
+  "geometry": {"coordinates":[-72.209827,41.36015],"type":"Point"}
+}

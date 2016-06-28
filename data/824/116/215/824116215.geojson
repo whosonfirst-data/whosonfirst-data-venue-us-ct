@@ -1,0 +1,71 @@
+{
+  "id": 824116215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.60288,41.095835,-73.60288,41.095835",
+    "geom:latitude":41.095835,
+    "geom:longitude":-73.60288,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Carissa Ln",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 861 7016",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68g6uFU2MzImxBMkhZzTcp_41.095835_-73.602880@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454683,
+    "wof:geomhash":"0f6e9c054a6b9537025aa7bafcb6ce68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844811,
+            "region_id":85688629,
+            "venue_id":824116215
+        }
+    ],
+    "wof:id":824116215,
+    "wof:lastmodified":1466423198,
+    "wof:name":"Fairfield Tutors",
+    "wof:parent_id":85844811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -73.60288,
+    41.095835,
+    -73.60288,
+    41.095835
+],
+  "geometry": {"coordinates":[-73.60288,41.095835],"type":"Point"}
+}

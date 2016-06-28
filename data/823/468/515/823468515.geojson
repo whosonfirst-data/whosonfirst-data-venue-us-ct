@@ -1,0 +1,75 @@
+{
+  "id": 823468515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.230917,41.156246,-73.230917,41.156246",
+    "geom:latitude":41.156246,
+    "geom:longitude":-73.230917,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"152 Morehouse St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 366 1309",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jLdI1FNQ0V3gJergLTa30_41.156246_-73.230917@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438803,
+    "wof:geomhash":"8f434af1ff21afb4cd225e28147b6fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823468515
+        }
+    ],
+    "wof:id":823468515,
+    "wof:lastmodified":1466421220,
+    "wof:name":"Alltech Electric LLC",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.230917,
+    41.156246,
+    -73.230917,
+    41.156246
+],
+  "geometry": {"coordinates":[-73.23091700000001,41.156246],"type":"Point"}
+}

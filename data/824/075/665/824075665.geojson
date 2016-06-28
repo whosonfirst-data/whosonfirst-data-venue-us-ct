@@ -1,0 +1,76 @@
+{
+  "id": 824075665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.108022,41.514345,-72.108022,41.514345",
+    "geom:latitude":41.514345,
+    "geom:longitude":-72.108022,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 Salem Tpke",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/norwich/189499-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 886 7535",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jbnG1mXeV3BA2tt7piFaZ_41.514345_-72.108022@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453755,
+    "wof:geomhash":"7c5109b1cfd237ccbbf8639b6a9b5b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":824075665
+        }
+    ],
+    "wof:id":824075665,
+    "wof:lastmodified":1466422669,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.108022,
+    41.514345,
+    -72.108022,
+    41.514345
+],
+  "geometry": {"coordinates":[-72.10802200000001,41.514345],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823564489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.516963,41.09154,-73.516963,41.09154",
+    "geom:latitude":41.09154,
+    "geom:longitude":-73.516963,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Fahey St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 973 0112",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z5x9G1HZCy75g9r08uXGd_41.091540_-73.516963@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441052,
+    "wof:geomhash":"f9423676aca70abc1040635962b58da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823564489
+        }
+    ],
+    "wof:id":823564489,
+    "wof:lastmodified":1466422693,
+    "wof:name":"FCC Inc",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.516963,
+    41.09154,
+    -73.516963,
+    41.09154
+],
+  "geometry": {"coordinates":[-73.516963,41.09154],"type":"Point"}
+}

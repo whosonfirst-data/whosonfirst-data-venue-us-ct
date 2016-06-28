@@ -1,0 +1,73 @@
+{
+  "id": 823654045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.733469,41.838291,-72.733469,41.838291",
+    "geom:latitude":41.838291,
+    "geom:longitude":-72.733469,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"65 Woodland Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 242 1977",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RqRf9jiw6IwFBxrPVMpys_41.838291_-72.733469@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443174,
+    "wof:geomhash":"6f7277ef8ee647f9f1d53156678bec18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":823654045
+        }
+    ],
+    "wof:id":823654045,
+    "wof:lastmodified":1466423775,
+    "wof:name":"Bouchard Electric",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.733469,
+    41.838291,
+    -72.733469,
+    41.838291
+],
+  "geometry": {"coordinates":[-72.733469,41.838291],"type":"Point"}
+}

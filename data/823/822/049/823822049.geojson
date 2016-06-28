@@ -1,0 +1,71 @@
+{
+  "id": 823822049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.130657,41.634738,-73.130657,41.634738",
+    "geom:latitude":41.634738,
+    "geom:longitude":-73.130657,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"259 Linkfield Rd",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 945 0013",
+    "sg:postcode":"06795",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wVTutDR5mRao9DYfAjSfo_41.634738_-73.130657@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447351,
+    "wof:geomhash":"7c4e0dd4126391f8e44c22c647f92abc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823822049
+        }
+    ],
+    "wof:id":823822049,
+    "wof:lastmodified":1466425243,
+    "wof:name":"Lauras Kitchen",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.130657,
+    41.634738,
+    -73.130657,
+    41.634738
+],
+  "geometry": {"coordinates":[-73.130657,41.634738],"type":"Point"}
+}

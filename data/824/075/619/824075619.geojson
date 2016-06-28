@@ -1,0 +1,80 @@
+{
+  "id": 824075619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.957845,41.349208,-71.957845,41.349208",
+    "geom:latitude":41.349208,
+    "geom:longitude":-71.957845,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42d Williams Ave",
+    "sg:city":"Mystic",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/stonington/144180-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 572 4874",
+    "sg:postcode":"06355",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836187,
+        102191575,
+        404495885,
+        85633793,
+        85931371,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QKUmdD3EffyHaZxrLw3dG_41.349208_-71.957845@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453753,
+    "wof:geomhash":"7e971d444f265867f5d451db31146ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495885,
+            "locality_id":85931371,
+            "neighbourhood_id":85836187,
+            "region_id":85688629,
+            "venue_id":824075619
+        }
+    ],
+    "wof:id":824075619,
+    "wof:lastmodified":1466422605,
+    "wof:name":"Subway",
+    "wof:parent_id":85836187,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -71.957845,
+    41.349208,
+    -71.957845,
+    41.349208
+],
+  "geometry": {"coordinates":[-71.95784500000001,41.349208],"type":"Point"}
+}

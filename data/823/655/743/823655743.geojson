@@ -1,0 +1,71 @@
+{
+  "id": 823655743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.089728,41.65648,-73.089728,41.65648",
+    "geom:latitude":41.65648,
+    "geom:longitude":-73.089728,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"344 Watertown Rd",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69NIiTRV9o2g2QtotHzsWr_41.656480_-73.089728@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443213,
+    "wof:geomhash":"7737f94ceee82618ee70060a0620f8b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823655743
+        }
+    ],
+    "wof:id":823655743,
+    "wof:lastmodified":1466423828,
+    "wof:name":"Paul C Broomhead MD",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.089728,
+    41.65648,
+    -73.089728,
+    41.65648
+],
+  "geometry": {"coordinates":[-73.08972799999999,41.65648],"type":"Point"}
+}

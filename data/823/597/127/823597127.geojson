@@ -1,0 +1,79 @@
+{
+  "id": 823597127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.086647,41.322013,-73.086647,41.322013",
+    "geom:latitude":41.322013,
+    "geom:longitude":-73.086647,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"125 Water St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 7811",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RcSo6O6R2k6JC9WppqzAN_41.322013_-73.086647@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441817,
+    "wof:geomhash":"f3a33a512eee70f7c792780929397e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823597127
+        }
+    ],
+    "wof:id":823597127,
+    "wof:lastmodified":1466423452,
+    "wof:name":"Derby Police Department",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -73.086647,
+    41.322013,
+    -73.086647,
+    41.322013
+],
+  "geometry": {"coordinates":[-73.086647,41.322013],"type":"Point"}
+}

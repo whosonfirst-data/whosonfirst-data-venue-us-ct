@@ -1,0 +1,79 @@
+{
+  "id": 823721721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.626458,41.78123,-72.626458,41.78123",
+    "geom:latitude":41.78123,
+    "geom:longitude":-72.626458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 Garden St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 528 6946",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808571,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JqiWhZ9o5sv5hOjXi63Ye_41.781230_-72.626458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444683,
+    "wof:geomhash":"73b7ec0418e8b67bc1da82ea9e845d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823721721
+        }
+    ],
+    "wof:id":823721721,
+    "wof:lastmodified":1466424466,
+    "wof:name":"Landstar",
+    "wof:parent_id":85808571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.626458,
+    41.78123,
+    -72.626458,
+    41.78123
+],
+  "geometry": {"coordinates":[-72.626458,41.78123],"type":"Point"}
+}

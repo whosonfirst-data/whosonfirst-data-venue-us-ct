@@ -1,0 +1,81 @@
+{
+  "id": 823550187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.060066,41.566236,-73.060066,41.566236",
+    "geom:latitude":41.566236,
+    "geom:longitude":-73.060066,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"497 Watertown Ave",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 754 4003",
+    "sg:postcode":"06708",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808427,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YFUr3lN7dluVzqlAJB2Vc_41.566236_-73.060066@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440705,
+    "wof:geomhash":"7813d971a4e7e450eac91a63c470b3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85808427,
+            "region_id":85688629,
+            "venue_id":823550187
+        }
+    ],
+    "wof:id":823550187,
+    "wof:lastmodified":1466422504,
+    "wof:name":"P J's Complete Auto Svc & Sls",
+    "wof:parent_id":85808427,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.060066,
+    41.566236,
+    -73.060066,
+    41.566236
+],
+  "geometry": {"coordinates":[-73.06006600000001,41.566236],"type":"Point"}
+}

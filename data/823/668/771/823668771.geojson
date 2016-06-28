@@ -1,0 +1,71 @@
+{
+  "id": 823668771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.545837,41.765179,-72.545837,41.765179",
+    "geom:latitude":41.765179,
+    "geom:longitude":-72.545837,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"465 Hartford Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xXaTjGIcqFlBhOkskDh2B_41.765179_-72.545837@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443544,
+    "wof:geomhash":"43fb0a21f9d3454200c92801f64670fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823668771
+        }
+    ],
+    "wof:id":823668771,
+    "wof:lastmodified":1466423955,
+    "wof:name":"Top Ten Salon",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.545837,
+    41.765179,
+    -72.545837,
+    41.765179
+],
+  "geometry": {"coordinates":[-72.54583700000001,41.765179],"type":"Point"}
+}

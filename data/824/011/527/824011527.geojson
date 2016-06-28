@@ -1,0 +1,73 @@
+{
+  "id": 824011527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.023048,41.686303,-73.023048,41.686303",
+    "geom:latitude":41.686303,
+    "geom:longitude":-73.023048,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"13 Sherman Ln",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 1767",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LYlRAZ3nuCD9Lmsu6CNyk_41.686303_-73.023048@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452228,
+    "wof:geomhash":"be1ae16087ac86bc45c3aaa54a6f8af7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824011527
+        }
+    ],
+    "wof:id":824011527,
+    "wof:lastmodified":1466421317,
+    "wof:name":"Creative Electrical Works LLC",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.023048,
+    41.686303,
+    -73.023048,
+    41.686303
+],
+  "geometry": {"coordinates":[-73.023048,41.686303],"type":"Point"}
+}

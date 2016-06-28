@@ -1,0 +1,73 @@
+{
+  "id": 823930673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.182334,41.286875,-73.182334,41.286875",
+    "geom:latitude":41.286875,
+    "geom:longitude":-73.182334,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"399 Waverly Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 1613",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wTNOp0GI7Xo8fUOql1WFG_41.286875_-73.182334@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450257,
+    "wof:geomhash":"641897f7d4dec051a67232a449a3d6e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823930673
+        }
+    ],
+    "wof:id":823930673,
+    "wof:lastmodified":1466426277,
+    "wof:name":"Monteiro Construction Co",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.182334,
+    41.286875,
+    -73.182334,
+    41.286875
+],
+  "geometry": {"coordinates":[-73.182334,41.286875],"type":"Point"}
+}

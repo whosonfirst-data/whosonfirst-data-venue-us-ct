@@ -1,0 +1,79 @@
+{
+  "id": 823659117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.439615,41.397541,-73.439615,41.397541",
+    "geom:latitude":41.397541,
+    "geom:longitude":-73.439615,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Wildman St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 791 8282",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zHqL10xghEfchpJM487no_41.397541_-73.439615@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443306,
+    "wof:geomhash":"821468895f0e059034ef0ed729d3a2ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823659117
+        }
+    ],
+    "wof:id":823659117,
+    "wof:lastmodified":1466424027,
+    "wof:name":"Patriot Motors Inc",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.439615,
+    41.397541,
+    -73.439615,
+    41.397541
+],
+  "geometry": {"coordinates":[-73.439615,41.397541],"type":"Point"}
+}

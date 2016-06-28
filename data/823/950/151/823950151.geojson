@@ -1,0 +1,73 @@
+{
+  "id": 823950151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.418443,41.164388,-73.418443,41.164388",
+    "geom:latitude":41.164388,
+    "geom:longitude":-73.418443,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 761 9710",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BZWUXBqtlX6mp0Npa0jhW_41.164388_-73.418443@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450781,
+    "wof:geomhash":"a0e0e9b3b030966c83615832fde0ebaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823950151
+        }
+    ],
+    "wof:id":823950151,
+    "wof:lastmodified":1466426399,
+    "wof:name":"Wilton Physical Therapy",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -73.418443,
+    41.164388,
+    -73.418443,
+    41.164388
+],
+  "geometry": {"coordinates":[-73.418443,41.164388],"type":"Point"}
+}

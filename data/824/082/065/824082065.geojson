@@ -1,0 +1,80 @@
+{
+  "id": 824082065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.159274,41.188388,-73.159274,41.188388",
+    "geom:latitude":41.188388,
+    "geom:longitude":-73.159274,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1660 Barnum Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bridgeport/273209-frankies-diner-unc/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 334 8971",
+    "sg:postcode":"06610",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834249,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lx4NrrjaUyOb1yZRGYyOU_41.188393_-73.159391@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453897,
+    "wof:geomhash":"d100747745aad131801f8d57f724b6f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":824082065
+        }
+    ],
+    "wof:id":824082065,
+    "wof:lastmodified":1466422370,
+    "wof:name":"Frankie's Diner Unc.",
+    "wof:parent_id":85834249,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -73.159274,
+    41.188388,
+    -73.159274,
+    41.188388
+],
+  "geometry": {"coordinates":[-73.159274,41.188388],"type":"Point"}
+}

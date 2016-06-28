@@ -1,0 +1,81 @@
+{
+  "id": 823932535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.949945,41.351484,-72.949945,41.351484",
+    "geom:latitude":41.351484,
+    "geom:longitude":-72.949945,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"153 W Side Dr",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 492 4866",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85879185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48x8BEGTsLyDrmHaxIYocf_41.351484_-72.949945@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450321,
+    "wof:geomhash":"4fed107a6e5510a0a344e4acd7e012f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823932535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879185,
+            "region_id":85688629,
+            "venue_id":823932535
+        }
+    ],
+    "wof:id":823932535,
+    "wof:lastmodified":1466426333,
+    "wof:name":"New Haven Home Recovery Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -72.949945,
+    41.351484,
+    -72.949945,
+    41.351484
+],
+  "geometry": {"coordinates":[-72.949945,41.351484],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823561365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.499101,41.460748,-73.499101,41.460748",
+    "geom:latitude":41.460748,
+    "geom:longitude":-73.499101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"54 Gillotti Rd",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85806093,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M95GpKPV3zLCKIbSEdq1z_41.460748_-73.499101@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440973,
+    "wof:geomhash":"4a26755dbd4d88f5599b1403a2e142a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85806093,
+            "region_id":85688629,
+            "venue_id":823561365
+        }
+    ],
+    "wof:id":823561365,
+    "wof:lastmodified":1466422974,
+    "wof:name":"New Fairfield High School",
+    "wof:parent_id":85806093,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.499101,
+    41.460748,
+    -73.499101,
+    41.460748
+],
+  "geometry": {"coordinates":[-73.499101,41.460748],"type":"Point"}
+}

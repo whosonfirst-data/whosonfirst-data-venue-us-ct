@@ -1,0 +1,71 @@
+{
+  "id": 823665565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.417354,41.16658,-73.417354,41.16658",
+    "geom:latitude":41.16658,
+    "geom:longitude":-73.417354,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 5800",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UsJal6LkiSoJPaeOnf2tj_41.166580_-73.417354@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443465,
+    "wof:geomhash":"8e4bf11c8b3dfb00e83dd1d7985c0ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823665565
+        }
+    ],
+    "wof:id":823665565,
+    "wof:lastmodified":1466423948,
+    "wof:name":"William Schmid Jr DDS",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.417354,
+    41.16658,
+    -73.417354,
+    41.16658
+],
+  "geometry": {"coordinates":[-73.417354,41.16658],"type":"Point"}
+}

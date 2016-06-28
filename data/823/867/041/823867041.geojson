@@ -1,0 +1,81 @@
+{
+  "id": 823867041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.360621,41.145111,-73.360621,41.145111",
+    "geom:latitude":41.145111,
+    "geom:longitude":-73.360621,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Myrtle Ave",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 341 1081",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wwTQJT6GRwhZpK1WftjQR_41.145111_-73.360621@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448672,
+    "wof:geomhash":"df2d743f076dfc99f86853ed576f10f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823867041
+        }
+    ],
+    "wof:id":823867041,
+    "wof:lastmodified":1466425674,
+    "wof:name":"Westport Town Zoning Board",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -73.360621,
+    41.145111,
+    -73.360621,
+    41.145111
+],
+  "geometry": {"coordinates":[-73.36062099999999,41.145111],"type":"Point"}
+}

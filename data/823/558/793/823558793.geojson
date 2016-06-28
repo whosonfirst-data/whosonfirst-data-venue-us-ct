@@ -1,0 +1,66 @@
+{
+  "id": 823558793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.308519,41.265804,-73.308519,41.265804",
+    "geom:latitude":41.265804,
+    "geom:longitude":-73.308519,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"146 Bibbins Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yPfTapfUMyPuFOqZ78iIa_41.265804_-73.308519@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440906,
+    "wof:geomhash":"1c618000fda3cac7a333d533f0890e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823558793
+        }
+    ],
+    "wof:id":823558793,
+    "wof:lastmodified":1466422731,
+    "wof:name":"Easton Bandstand Association",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.308519,
+    41.265804,
+    -73.308519,
+    41.265804
+],
+  "geometry": {"coordinates":[-73.308519,41.265804],"type":"Point"}
+}

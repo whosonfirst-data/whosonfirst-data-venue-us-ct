@@ -1,0 +1,71 @@
+{
+  "id": 823801783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.474003,41.526632,-73.474003,41.526632",
+    "geom:latitude":41.526632,
+    "geom:longitude":-73.474003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Cedar Ln",
+    "sg:city":"New Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06812",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828691,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kf6eXQsFda7Bv2plkdi79_41.526632_-73.474003@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446752,
+    "wof:geomhash":"9f6dbdea73365adcc853d1a016f3c9ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85828691,
+            "region_id":85688629,
+            "venue_id":823801783
+        }
+    ],
+    "wof:id":823801783,
+    "wof:lastmodified":1466425217,
+    "wof:name":"All Star Transmission",
+    "wof:parent_id":85828691,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.474003,
+    41.526632,
+    -73.474003,
+    41.526632
+],
+  "geometry": {"coordinates":[-73.474003,41.526632],"type":"Point"}
+}

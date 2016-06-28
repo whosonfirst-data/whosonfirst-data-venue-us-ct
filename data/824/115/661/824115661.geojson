@@ -1,0 +1,93 @@
+{
+  "id": 824115661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.228515,41.203685,-73.228515,41.203685",
+    "geom:latitude":41.203685,
+    "geom:longitude":-73.228515,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"198 Wilson St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 5317",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "collection",
+        "contractor",
+        "rubbish",
+        "removal",
+        "demolition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851229,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hQRnzViM9napyPyjgcmd4_41.203685_-73.228515@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454669,
+    "wof:geomhash":"d11942dc527b7eb3fe4bd86a829dff40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851229,
+            "region_id":85688629,
+            "venue_id":824115661
+        }
+    ],
+    "wof:id":824115661,
+    "wof:lastmodified":1466423161,
+    "wof:name":"A A Building Wrecking",
+    "wof:parent_id":85851229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "collection",
+        "contractor",
+        "rubbish",
+        "removal",
+        "demolition"
+    ]
+},
+  "bbox": [
+    -73.228515,
+    41.203685,
+    -73.228515,
+    41.203685
+],
+  "geometry": {"coordinates":[-73.228515,41.203685],"type":"Point"}
+}

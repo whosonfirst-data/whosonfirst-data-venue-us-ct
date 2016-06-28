@@ -1,0 +1,68 @@
+{
+  "id": 824037779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.193107,41.323451,-72.193107,41.323451",
+    "geom:latitude":41.323451,
+    "geom:longitude":-72.193107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"277 Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 6929",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1J3stDpLNSzbojSkzRrJZw_41.323451_-72.193107@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452865,
+    "wof:geomhash":"7855b2b153951ce6361ab4f276ef71e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":824037779
+        }
+    ],
+    "wof:id":824037779,
+    "wof:lastmodified":1466421861,
+    "wof:name":"Niantic Cinema 1 2 3 4",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.193107,
+    41.323451,
+    -72.193107,
+    41.323451
+],
+  "geometry": {"coordinates":[-72.193107,41.323451],"type":"Point"}
+}

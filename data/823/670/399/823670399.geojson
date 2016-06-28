@@ -1,0 +1,66 @@
+{
+  "id": 823670399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.448535,41.287234,-73.448535,41.287234",
+    "geom:latitude":41.287234,
+    "geom:longitude":-73.448535,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Old Redding Rd",
+    "sg:city":"West Redding",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 544 7753",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cj7nX0RtPWi3bYknrwwig_41.287234_-73.448535@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443580,
+    "wof:geomhash":"75bd35b6257ca65bebe417fa57339224",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823670399
+        }
+    ],
+    "wof:id":823670399,
+    "wof:lastmodified":1466423977,
+    "wof:name":"Landmark Academy",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.448535,
+    41.287234,
+    -73.448535,
+    41.287234
+],
+  "geometry": {"coordinates":[-73.44853500000001,41.287234],"type":"Point"}
+}

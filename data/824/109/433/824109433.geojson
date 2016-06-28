@@ -1,0 +1,77 @@
+{
+  "id": 824109433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.168239,41.171863,-73.168239,41.171863",
+    "geom:latitude":41.171863,
+    "geom:longitude":-73.168239,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"254 Jefferson St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 3974",
+    "sg:postcode":"06607",
+    "sg:province":"CT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876487,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bXx0wBK9qVasVOuShNgT6_41.171863_-73.168239@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454544,
+    "wof:geomhash":"1291f43ea77f592742e452e5dec15b53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85876487,
+            "region_id":85688629,
+            "venue_id":824109433
+        }
+    ],
+    "wof:id":824109433,
+    "wof:lastmodified":1466423122,
+    "wof:name":"Nunes Motors",
+    "wof:parent_id":85876487,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.168239,
+    41.171863,
+    -73.168239,
+    41.171863
+],
+  "geometry": {"coordinates":[-73.168239,41.171863],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 823943081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.45544,41.39738,-73.45544,41.39738",
+    "geom:latitude":41.39738,
+    "geom:longitude":-73.45544,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"345 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 778 1234",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YOsVVeSJTihGYXCbRmWTm_41.397380_-73.455440@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450592,
+    "wof:geomhash":"2161cfe5a642572c5f7dc8a485110c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823943081
+        }
+    ],
+    "wof:id":823943081,
+    "wof:lastmodified":1466426369,
+    "wof:name":"Fry's Westport-Fairfield Piano",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -73.45544,
+    41.39738,
+    -73.45544,
+    41.39738
+],
+  "geometry": {"coordinates":[-73.45544,41.39738],"type":"Point"}
+}

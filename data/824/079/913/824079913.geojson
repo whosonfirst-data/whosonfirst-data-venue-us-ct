@@ -1,0 +1,82 @@
+{
+  "id": 824079913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.263393,41.141095,-73.263393,41.141095",
+    "geom:latitude":41.141095,
+    "geom:longitude":-73.263393,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1813 Post Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/fairfield/279618-avellinos-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 254 2339",
+    "sg:postcode":"06824",
+    "sg:province":"CT",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NXyYx6BAkmfE59LI2bRFf_41.141095_-73.263393@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453851,
+    "wof:geomhash":"1363a1453a82c6adc51657118a5e27f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":824079913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824079913
+        }
+    ],
+    "wof:id":824079913,
+    "wof:lastmodified":1466422608,
+    "wof:name":"Avellino's Italian Restaurant",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -73.263393,
+    41.141095,
+    -73.263393,
+    41.141095
+],
+  "geometry": {"coordinates":[-73.26339299999999,41.141095],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823738123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.375995,41.289592,-72.375995,41.289592",
+    "geom:latitude":41.289592,
+    "geom:longitude":-72.375995,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"247 Main St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 0101",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Zr6iNsnNvJF9k65niH0cG_41.289592_-72.375995@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445114,
+    "wof:geomhash":"33c51c989d93291475f99335e95c121d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":823738123
+        }
+    ],
+    "wof:id":823738123,
+    "wof:lastmodified":1466424647,
+    "wof:name":"Bruehwilers Bakery & Cafe",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.375995,
+    41.289592,
+    -72.375995,
+    41.289592
+],
+  "geometry": {"coordinates":[-72.375995,41.289592],"type":"Point"}
+}

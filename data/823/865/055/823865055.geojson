@@ -1,0 +1,71 @@
+{
+  "id": 823865055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.607728,41.666824,-72.607728,41.666824",
+    "geom:latitude":41.666824,
+    "geom:longitude":-72.607728,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2 Water St",
+    "sg:city":"South Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 464 8365",
+    "sg:postcode":"06073",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826251,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NecbAP95yhcaNzp7S3fpO_41.666824_-72.607728@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448626,
+    "wof:geomhash":"9bdfa44886cd9a5d146770bcdef6fbeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826251,
+            "region_id":85688629,
+            "venue_id":823865055
+        }
+    ],
+    "wof:id":823865055,
+    "wof:lastmodified":1466425675,
+    "wof:name":"Transportation Conn Dept",
+    "wof:parent_id":85826251,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -72.607728,
+    41.666824,
+    -72.607728,
+    41.666824
+],
+  "geometry": {"coordinates":[-72.60772799999999,41.666824],"type":"Point"}
+}

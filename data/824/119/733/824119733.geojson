@@ -1,0 +1,86 @@
+{
+  "id": 824119733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.551306,41.027857,-73.551306,41.027857",
+    "geom:latitude":41.027857,
+    "geom:longitude":-73.551306,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Signal Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 406 0535",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881173,
+        102191575,
+        404495949,
+        85633793,
+        85930945,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JcG5NoedcaC7FPJOzE5fo_41.027857_-73.551306@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454760,
+    "wof:geomhash":"2fc194d71a0f6c102e25d8267d897577",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930945,
+            "neighbourhood_id":85881173,
+            "region_id":85688629,
+            "venue_id":824119733
+        }
+    ],
+    "wof:id":824119733,
+    "wof:lastmodified":1466423300,
+    "wof:name":"Rain Global Services",
+    "wof:parent_id":85881173,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "products-wholesale",
+        "oils-petroleum"
+    ]
+},
+  "bbox": [
+    -73.551306,
+    41.027857,
+    -73.551306,
+    41.027857
+],
+  "geometry": {"coordinates":[-73.551306,41.027857],"type":"Point"}
+}

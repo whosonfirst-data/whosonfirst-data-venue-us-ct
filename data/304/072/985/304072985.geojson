@@ -2,13 +2,14 @@
   "id": 304072985,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.4891,41.148675,-73.4891,41.148675",
     "geom:latitude":41.148675,
     "geom:longitude":-73.4891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"42 Vitti St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":304072985,
-    "wof:lastmodified":1449043885,
+    "wof:lastmodified":1466421120,
     "wof:name":"New Canaan Advertiser",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "newspaper"
     ]
 },
-  "bbox": [-73.4891,41.148675,-73.4891,41.148675],
-  "geometry": {"coordinates":[-73.4891,41.148675],"type":"Point"}
+  "bbox": [
+    -73.4891,
+    41.148675,
+    -73.4891,
+    41.148675
+],
+  "geometry": {"coordinates":[-73.48909999999999,41.148675],"type":"Point"}
 }

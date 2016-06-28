@@ -1,0 +1,101 @@
+{
+  "id": 824091541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.825799,41.885763,-72.825799,41.885763",
+    "geom:latitude":41.885763,
+    "geom:longitude":-72.825799,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Great Pond Rd",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 3954",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "living",
+        "nursing",
+        "facility",
+        "alzheimer's",
+        "assisted",
+        "convalescent",
+        "therapist",
+        "occupational"
+    ],
+    "sg:website":"http://www.mcleancare.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819335,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EiV17WmaxntuOmCJWB9wU_41.885763_-72.825799@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454120,
+    "wof:geomhash":"45b9b5b445fbdea03ee41eb0db1d6f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85819335,
+            "region_id":85688629,
+            "venue_id":824091541
+        }
+    ],
+    "wof:id":824091541,
+    "wof:lastmodified":1466422869,
+    "wof:name":"McLean",
+    "wof:parent_id":85819335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "living",
+        "nursing",
+        "facility",
+        "alzheimer's",
+        "assisted",
+        "convalescent",
+        "therapist",
+        "occupational"
+    ]
+},
+  "bbox": [
+    -72.825799,
+    41.885763,
+    -72.825799,
+    41.885763
+],
+  "geometry": {"coordinates":[-72.825799,41.885763],"type":"Point"}
+}

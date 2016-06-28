@@ -1,0 +1,73 @@
+{
+  "id": 823465201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.38936,41.316327,-73.38936,41.316327",
+    "geom:latitude":41.316327,
+    "geom:longitude":-73.38936,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Longwood Dr",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 938 0567",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22g3ueXtQHM8xFzL7rOMro_41.316327_-73.389360@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438723,
+    "wof:geomhash":"55d44800d798cf7f1fd3918e5220a82c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823465201
+        }
+    ],
+    "wof:id":823465201,
+    "wof:lastmodified":1466421142,
+    "wof:name":"P S Designs Inc",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "architectural"
+    ]
+},
+  "bbox": [
+    -73.38936,
+    41.316327,
+    -73.38936,
+    41.316327
+],
+  "geometry": {"coordinates":[-73.38936,41.316327],"type":"Point"}
+}

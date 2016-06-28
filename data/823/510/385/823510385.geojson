@@ -1,0 +1,79 @@
+{
+  "id": 823510385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.589098,41.046212,-73.589098,41.046212",
+    "geom:latitude":41.046212,
+    "geom:longitude":-73.589098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 Valley Rd",
+    "sg:city":"Cos Cob",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 622 1722",
+    "sg:postcode":"06807",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85837819,
+        102191575,
+        404495949,
+        85633793,
+        85930955,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hxFNParMOhPbuAfGZO8dU_41.046212_-73.589098@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439800,
+    "wof:geomhash":"f77b626dfc4b90409a13d46464b18cb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930955,
+            "neighbourhood_id":85837819,
+            "region_id":85688629,
+            "venue_id":823510385
+        }
+    ],
+    "wof:id":823510385,
+    "wof:lastmodified":1466421932,
+    "wof:name":"Sidney Hart MD",
+    "wof:parent_id":85837819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.589098,
+    41.046212,
+    -73.589098,
+    41.046212
+],
+  "geometry": {"coordinates":[-73.58909800000001,41.046212],"type":"Point"}
+}

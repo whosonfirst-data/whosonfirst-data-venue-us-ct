@@ -1,0 +1,80 @@
+{
+  "id": 823500925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.42533,41.383519,-73.42533,41.383519",
+    "geom:latitude":41.383519,
+    "geom:longitude":-73.42533,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 South St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 744 2722",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.danburybenz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03AB49s2YoBaa2nnZ1QWPB_41.383519_-73.425330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439596,
+    "wof:geomhash":"100415aefe601df1d066858d349a3919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823500925
+        }
+    ],
+    "wof:id":823500925,
+    "wof:lastmodified":1466421478,
+    "wof:name":"PERFORMANCE Imports",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.42533,
+    41.383519,
+    -73.42533,
+    41.383519
+],
+  "geometry": {"coordinates":[-73.42533,41.383519],"type":"Point"}
+}

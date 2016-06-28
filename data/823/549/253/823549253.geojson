@@ -1,0 +1,73 @@
+{
+  "id": 823549253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.891206,41.354534,-72.891206,41.354534",
+    "geom:latitude":41.354534,
+    "geom:longitude":-72.891206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2660 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 9351",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XgIZUpsqR0D0ju9ZhPUO3_41.354534_-72.891206@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440679,
+    "wof:geomhash":"53236947e1d6dd746563cd97aa12c198",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823549253
+        }
+    ],
+    "wof:id":823549253,
+    "wof:lastmodified":1466422493,
+    "wof:name":"Ed Mor Electric Co",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.891206,
+    41.354534,
+    -72.891206,
+    41.354534
+],
+  "geometry": {"coordinates":[-72.891206,41.354534],"type":"Point"}
+}

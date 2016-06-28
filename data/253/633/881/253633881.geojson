@@ -2,13 +2,14 @@
   "id": 253633881,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.48576,41.140983,-73.48576,41.140983",
     "geom:latitude":41.140983,
     "geom:longitude":-73.48576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"76 Harrison Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253633881,
-    "wof:lastmodified":1449065783,
+    "wof:lastmodified":1466421090,
     "wof:name":"Katherine McCarthy",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accessory"
     ]
 },
-  "bbox": [-73.48576,41.140983,-73.48576,41.140983],
+  "bbox": [
+    -73.48576,
+    41.140983,
+    -73.48576,
+    41.140983
+],
   "geometry": {"coordinates":[-73.48576,41.140983],"type":"Point"}
 }

@@ -1,0 +1,66 @@
+{
+  "id": 823765827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.248764,41.299116,-73.248764,41.299116",
+    "geom:latitude":41.299116,
+    "geom:longitude":-73.248764,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 5500",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ltSw2CM8qUFiHf7SEMDrx_41.299116_-73.248764@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445735,
+    "wof:geomhash":"6423968b2d87cc5c78d1589cc76534fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823765827
+        }
+    ],
+    "wof:id":823765827,
+    "wof:lastmodified":1466424880,
+    "wof:name":"Kimball Group Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.248764,
+    41.299116,
+    -73.248764,
+    41.299116
+],
+  "geometry": {"coordinates":[-73.24876399999999,41.299116],"type":"Point"}
+}

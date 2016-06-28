@@ -1,0 +1,91 @@
+{
+  "id": 824073569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.846592,41.677681,-72.846592,41.677681",
+    "geom:latitude":41.677681,
+    "geom:longitude":-72.846592,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"149 New Britain Ave",
+    "sg:city":"Plainville",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/plainville/130013-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 410 1831",
+    "sg:postcode":"06062",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pVs1alAtDcLCQfG6sDF5a_41.677681_-72.846592@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453707,
+    "wof:geomhash":"85013d2d98a7d545b6708bc52dffa9e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824073569
+        }
+    ],
+    "wof:id":824073569,
+    "wof:lastmodified":1466422430,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.846592,
+    41.677681,
+    -72.846592,
+    41.677681
+],
+  "geometry": {"coordinates":[-72.846592,41.677681],"type":"Point"}
+}

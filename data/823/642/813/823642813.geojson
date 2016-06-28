@@ -1,0 +1,82 @@
+{
+  "id": 823642813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.075937,41.251101,-73.075937,41.251101",
+    "geom:latitude":41.251101,
+    "geom:longitude":-73.075937,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"381 Wheelers Farms Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 5094",
+    "sg:postcode":"06461",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sXTTbCDlHNtK2ekBve9At_41.251101_-73.075937@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442916,
+    "wof:geomhash":"6f5da04f6fe752a13ef6efd391a108a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823642813
+        }
+    ],
+    "wof:id":823642813,
+    "wof:lastmodified":1466423709,
+    "wof:name":"Marco Filanowski & Sons",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -73.075937,
+    41.251101,
+    -73.075937,
+    41.251101
+],
+  "geometry": {"coordinates":[-73.075937,41.251101],"type":"Point"}
+}

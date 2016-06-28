@@ -1,0 +1,91 @@
+{
+  "id": 824104049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.216312,41.316611,-73.216312,41.316611",
+    "geom:latitude":41.316611,
+    "geom:longitude":-73.216312,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 Monroe Tpke",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 459 0118",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mailbox-rental",
+        "shipping",
+        "materials-shipping",
+        "packing",
+        "mail",
+        "receiving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KQqzyXYex27GQHFkiVSKa_41.316611_-73.216312@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454422,
+    "wof:geomhash":"e3245564ef9b83d5e3450fa7e483f67e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824104049
+        }
+    ],
+    "wof:id":824104049,
+    "wof:lastmodified":1466423056,
+    "wof:name":"Monroe Pack & Ship",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mailbox-rental",
+        "shipping",
+        "materials-shipping",
+        "packing",
+        "mail",
+        "receiving"
+    ]
+},
+  "bbox": [
+    -73.216312,
+    41.316611,
+    -73.216312,
+    41.316611
+],
+  "geometry": {"coordinates":[-73.216312,41.316611],"type":"Point"}
+}

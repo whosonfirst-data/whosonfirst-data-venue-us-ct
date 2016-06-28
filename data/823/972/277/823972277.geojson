@@ -1,0 +1,71 @@
+{
+  "id": 823972277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.380287,41.487919,-73.380287,41.487919",
+    "geom:latitude":41.487919,
+    "geom:longitude":-73.380287,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"38 Hidden Brook Dr",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 6565",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TmHZ9vwdgN2DMove7ecvf_41.487919_-73.380287@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451301,
+    "wof:geomhash":"ea875aac5d383af489d9662ad642330b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823972277
+        }
+    ],
+    "wof:id":823972277,
+    "wof:lastmodified":1466426652,
+    "wof:name":"Connecticut Plumbing & Heating",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.380287,
+    41.487919,
+    -73.380287,
+    41.487919
+],
+  "geometry": {"coordinates":[-73.380287,41.487919],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 824105029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.3694,41.307301,-72.3694,41.307301",
+    "geom:latitude":41.307301,
+    "geom:longitude":-72.3694,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"295 Boston Post Rd",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 5333",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WHrWo2Kb3dxLq32Ep87Qz_41.307301_-72.369400@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454445,
+    "wof:geomhash":"f7267e40c7d68573a6af337354cc568e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105029
+        }
+    ],
+    "wof:id":824105029,
+    "wof:lastmodified":1466423167,
+    "wof:name":"Saybrook Auto Body",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.3694,
+    41.307301,
+    -72.3694,
+    41.307301
+],
+  "geometry": {"coordinates":[-72.3694,41.307301],"type":"Point"}
+}

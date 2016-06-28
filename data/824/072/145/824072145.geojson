@@ -1,0 +1,78 @@
+{
+  "id": 824072145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.469596,41.388639,-73.469596,41.388639",
+    "geom:latitude":41.388639,
+    "geom:longitude":-73.469596,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Lake Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 3300",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YixippgCVFkyzE6TGSNNf_41.388731_-73.470099@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453668,
+    "wof:geomhash":"f6a9397a31a5a5e43b9977a88ff16d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824072145
+        }
+    ],
+    "wof:id":824072145,
+    "wof:lastmodified":1466422416,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.469596,
+    41.388639,
+    -73.469596,
+    41.388639
+],
+  "geometry": {"coordinates":[-73.469596,41.388639],"type":"Point"}
+}

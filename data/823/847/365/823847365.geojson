@@ -1,0 +1,82 @@
+{
+  "id": 823847365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08514,41.319768,-73.08514,41.319768",
+    "geom:latitude":41.319768,
+    "geom:longitude":-73.08514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"131 Main St",
+    "sg:city":"Derby",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 735 5828",
+    "sg:postcode":"06418",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816245,
+        102191575,
+        404495697,
+        85633793,
+        85930921,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lv9knltINGH1C3qF9Aj84_41.319768_-73.085140@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448147,
+    "wof:geomhash":"d631d1c0a76cf920ed2367b9a38fa0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495697,
+            "locality_id":85930921,
+            "neighbourhood_id":85816245,
+            "region_id":85688629,
+            "venue_id":823847365
+        }
+    ],
+    "wof:id":823847365,
+    "wof:lastmodified":1466425535,
+    "wof:name":"First Impression Hair Design",
+    "wof:parent_id":85816245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.08514,
+    41.319768,
+    -73.08514,
+    41.319768
+],
+  "geometry": {"coordinates":[-73.08514,41.319768],"type":"Point"}
+}

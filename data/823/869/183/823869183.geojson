@@ -1,0 +1,71 @@
+{
+  "id": 823869183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.21048,41.355461,-72.21048,41.355461",
+    "geom:latitude":41.355461,
+    "geom:longitude":-72.21048,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"228 Flanders Rd",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 5767",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819559,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35vlWkLALmdlNiqgkKU0hI_41.355461_-72.210480@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448723,
+    "wof:geomhash":"7ef7d10e614163d84c495fadcd114bfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85819559,
+            "region_id":85688629,
+            "venue_id":823869183
+        }
+    ],
+    "wof:id":823869183,
+    "wof:lastmodified":1466425735,
+    "wof:name":"Illianos Grill",
+    "wof:parent_id":85819559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -72.21048,
+    41.355461,
+    -72.21048,
+    41.355461
+],
+  "geometry": {"coordinates":[-72.21048,41.355461],"type":"Point"}
+}

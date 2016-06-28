@@ -1,0 +1,81 @@
+{
+  "id": 823564749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.63116,41.569228,-72.63116,41.569228",
+    "geom:latitude":41.569228,
+    "geom:longitude":-72.63116,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"116 Marlborough St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hh3hmHVsfssKoiSfZncVJ_41.569228_-72.631160@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441059,
+    "wof:geomhash":"dc29d854499c350b52a8a40d0a79df29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":823564749
+        }
+    ],
+    "wof:id":823564749,
+    "wof:lastmodified":1466422707,
+    "wof:name":"Home Town Garage",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.63116,
+    41.569228,
+    -72.63116,
+    41.569228
+],
+  "geometry": {"coordinates":[-72.63115999999999,41.569228],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823829511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.529406,41.093232,-73.529406,41.093232",
+    "geom:latitude":41.093232,
+    "geom:longitude":-73.529406,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Nyselius Pl",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 1233",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "contractor",
+        "system",
+        "conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85850675,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FeK0XrdJKiza2qWJe7q6o_41.093232_-73.529406@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447592,
+    "wof:geomhash":"289cf7e5599f819f470d7ad6536c2de3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85850675,
+            "region_id":85688629,
+            "venue_id":823829511
+        }
+    ],
+    "wof:id":823829511,
+    "wof:lastmodified":1466425480,
+    "wof:name":"Protech Heating & Air Cond",
+    "wof:parent_id":85850675,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "contractor",
+        "system",
+        "conditioning"
+    ]
+},
+  "bbox": [
+    -73.529406,
+    41.093232,
+    -73.529406,
+    41.093232
+],
+  "geometry": {"coordinates":[-73.52940599999999,41.093232],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 824076167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.884189,41.549336,-72.884189,41.549336",
+    "geom:latitude":41.549336,
+    "geom:longitude":-72.884189,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Diana Ct",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/cheshire/129802-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 699 9160",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826143,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KJAsPts4TIZDNT0nbtms0_41.549336_-72.884189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453768,
+    "wof:geomhash":"7ba07714465045dbe4ad189b49da58ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826143,
+            "region_id":85688629,
+            "venue_id":824076167
+        }
+    ],
+    "wof:id":824076167,
+    "wof:lastmodified":1466422546,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85826143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.884189,
+    41.549336,
+    -72.884189,
+    41.549336
+],
+  "geometry": {"coordinates":[-72.88418900000001,41.549336],"type":"Point"}
+}

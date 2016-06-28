@@ -1,0 +1,75 @@
+{
+  "id": 823710493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.09205,41.521113,-72.09205,41.521113",
+    "geom:latitude":41.521113,
+    "geom:longitude":-72.09205,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"401 W Main St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bCgikTh5qc3eyFiCF8lP9_41.521113_-72.092050@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444457,
+    "wof:geomhash":"aeb9c40424e935a6b0b21d1b482cec33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823710493
+        }
+    ],
+    "wof:id":823710493,
+    "wof:lastmodified":1466424317,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.09205,
+    41.521113,
+    -72.09205,
+    41.521113
+],
+  "geometry": {"coordinates":[-72.09205,41.521113],"type":"Point"}
+}

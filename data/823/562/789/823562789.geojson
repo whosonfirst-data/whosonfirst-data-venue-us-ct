@@ -1,0 +1,80 @@
+{
+  "id": 823562789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.603115,41.7972,-72.603115,41.7972",
+    "geom:latitude":41.7972,
+    "geom:longitude":-72.603115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"67 Rene Ct",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PNjmRUNV5VIB2YXK8TJUL_41.797200_-72.603115@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441012,
+    "wof:geomhash":"70b0210407ff2db24dedfaebc57b970d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823562789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823562789
+        }
+    ],
+    "wof:id":823562789,
+    "wof:lastmodified":1466422748,
+    "wof:name":"Olsowy Engineering",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.603115,
+    41.7972,
+    -72.603115,
+    41.7972
+],
+  "geometry": {"coordinates":[-72.603115,41.7972],"type":"Point"}
+}

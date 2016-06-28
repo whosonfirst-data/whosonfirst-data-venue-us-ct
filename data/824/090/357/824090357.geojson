@@ -1,0 +1,72 @@
+{
+  "id": 824090357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.867023,41.66325,-72.867023,41.66325",
+    "geom:latitude":41.66325,
+    "geom:longitude":-72.867023,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Whiting St",
+    "sg:city":"Plainville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 410 9822",
+    "sg:postcode":"06062",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "sg:website":"http://www.elvispizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iPVYZCbYbzQRL2P2YArwu_41.663250_-72.867023@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454094,
+    "wof:geomhash":"ba4543519f430148d6e81d5e5e72bf83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":824090357
+        }
+    ],
+    "wof:id":824090357,
+    "wof:lastmodified":1466422840,
+    "wof:name":"Elvis Pizza",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.867023,
+    41.66325,
+    -72.867023,
+    41.66325
+],
+  "geometry": {"coordinates":[-72.867023,41.66325],"type":"Point"}
+}

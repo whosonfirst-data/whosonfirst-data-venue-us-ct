@@ -1,0 +1,73 @@
+{
+  "id": 823631083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.275051,41.332523,-73.275051,41.332523",
+    "geom:latitude":41.332523,
+    "geom:longitude":-73.275051,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Horizon Ct",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 1318",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TI6I0wkCKRBddDpyTaLIu_41.332523_-73.275051@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442651,
+    "wof:geomhash":"e948ca4473277fd3f407be3ba42a6db0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823631083
+        }
+    ],
+    "wof:id":823631083,
+    "wof:lastmodified":1466423738,
+    "wof:name":"Horizon Landshapers LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.275051,
+    41.332523,
+    -73.275051,
+    41.332523
+],
+  "geometry": {"coordinates":[-73.275051,41.332523],"type":"Point"}
+}

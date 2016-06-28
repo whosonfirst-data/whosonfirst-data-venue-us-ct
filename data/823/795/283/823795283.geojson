@@ -1,0 +1,73 @@
+{
+  "id": 823795283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.655094,41.30267,-72.655094,41.30267",
+    "geom:latitude":41.30267,
+    "geom:longitude":-72.655094,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"480 Clapboard Hill Rd",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838597,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5houpyDh4g2zLa2yAdRiFo_41.302670_-72.655094@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446583,
+    "wof:geomhash":"571549141ae028914ace384fb70d64ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85838597,
+            "region_id":85688629,
+            "venue_id":823795283
+        }
+    ],
+    "wof:id":823795283,
+    "wof:lastmodified":1466425077,
+    "wof:name":"Lee W Henderson",
+    "wof:parent_id":85838597,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -72.655094,
+    41.30267,
+    -72.655094,
+    41.30267
+],
+  "geometry": {"coordinates":[-72.65509400000001,41.30267],"type":"Point"}
+}

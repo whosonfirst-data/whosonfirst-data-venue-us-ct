@@ -1,0 +1,74 @@
+{
+  "id": 823633735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225119,41.394959,-73.225119,41.394959",
+    "geom:latitude":41.394959,
+    "geom:longitude":-73.225119,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Homer Clark Rd",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 0169",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.nagelelectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tlGsD4FfYREpEUz3HYw4S_41.394959_-73.225119@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442708,
+    "wof:geomhash":"14c31d3acc9b99d04477f58de2f7b505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823633735
+        }
+    ],
+    "wof:id":823633735,
+    "wof:lastmodified":1466423688,
+    "wof:name":"Nagel Electric",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.225119,
+    41.394959,
+    -73.225119,
+    41.394959
+],
+  "geometry": {"coordinates":[-73.22511900000001,41.394959],"type":"Point"}
+}

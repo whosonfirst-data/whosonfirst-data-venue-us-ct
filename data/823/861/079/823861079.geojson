@@ -1,0 +1,73 @@
+{
+  "id": 823861079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.905699,41.423274,-71.905699,41.423274",
+    "geom:latitude":41.423274,
+    "geom:longitude":-71.905699,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"97 Jeremy Hill Rd",
+    "sg:city":"Stonington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 535 9251",
+    "sg:postcode":"06378",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841299,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z6YUJSu2w0b0hohra4B3h_41.423274_-71.905699@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448519,
+    "wof:geomhash":"1f0b2b67301e7abaee9452682b13e771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85841299,
+            "region_id":85688629,
+            "venue_id":823861079
+        }
+    ],
+    "wof:id":823861079,
+    "wof:lastmodified":1466425895,
+    "wof:name":"Edward R Pollard",
+    "wof:parent_id":85841299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.905699,
+    41.423274,
+    -71.905699,
+    41.423274
+],
+  "geometry": {"coordinates":[-71.905699,41.423274],"type":"Point"}
+}

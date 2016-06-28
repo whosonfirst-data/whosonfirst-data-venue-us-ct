@@ -2,13 +2,14 @@
   "id": 387726323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.681613,41.046768,-73.681613,41.046768",
     "geom:latitude":41.046768,
     "geom:longitude":-73.681613,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"87 Stonehedge Dr N",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":387726323,
-    "wof:lastmodified":1449058713,
+    "wof:lastmodified":1466421104,
     "wof:name":"M Ravikoff Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "commercial"
     ]
 },
-  "bbox": [-73.681613,41.046768,-73.681613,41.046768],
+  "bbox": [
+    -73.681613,
+    41.046768,
+    -73.681613,
+    41.046768
+],
   "geometry": {"coordinates":[-73.681613,41.046768],"type":"Point"}
 }

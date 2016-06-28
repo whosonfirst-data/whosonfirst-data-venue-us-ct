@@ -1,0 +1,79 @@
+{
+  "id": 823999765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.551673,41.041463,-73.551673,41.041463",
+    "geom:latitude":41.041463,
+    "geom:longitude":-73.551673,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"280 Fairfield Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 324 9000",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5B1lmh4ic2UeZJ0Id1qkkP_41.041463_-73.551673@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451983,
+    "wof:geomhash":"b9d29d2b68826f28bb8b16d795ca6169",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823999765
+        }
+    ],
+    "wof:id":823999765,
+    "wof:lastmodified":1466426852,
+    "wof:name":"Stamford Self Storage",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -73.551673,
+    41.041463,
+    -73.551673,
+    41.041463
+],
+  "geometry": {"coordinates":[-73.55167299999999,41.041463],"type":"Point"}
+}

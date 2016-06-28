@@ -1,0 +1,66 @@
+{
+  "id": 824085915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.908928,41.727414,-72.908928,41.727414",
+    "geom:latitude":41.727414,
+    "geom:longitude":-72.908928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Burlwood Dr",
+    "sg:city":"Burlington",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 7551",
+    "sg:postcode":"06013",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cwmOJBbE2w18S3oWJN6st_41.727414_-72.908928@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453995,
+    "wof:geomhash":"cada23775492fc07cdd8a74a02cde3fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824085915
+        }
+    ],
+    "wof:id":824085915,
+    "wof:lastmodified":1466422743,
+    "wof:name":"Colonial Village Cab Shop",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.908928,
+    41.727414,
+    -72.908928,
+    41.727414
+],
+  "geometry": {"coordinates":[-72.908928,41.727414],"type":"Point"}
+}

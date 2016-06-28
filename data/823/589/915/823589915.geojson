@@ -1,0 +1,71 @@
+{
+  "id": 823589915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.410088,41.360966,-73.410088,41.360966",
+    "geom:latitude":41.360966,
+    "geom:longitude":-73.410088,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"110 Nashville Rd",
+    "sg:city":"Bethel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 1221",
+    "sg:postcode":"06801",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56IwIE1eBsjDpreFwn08b7_41.360966_-73.410088@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441646,
+    "wof:geomhash":"26174876585c51e111536a4ff94b7067",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823589915
+        }
+    ],
+    "wof:id":823589915,
+    "wof:lastmodified":1466423207,
+    "wof:name":"North Point Construction",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.410088,
+    41.360966,
+    -73.410088,
+    41.360966
+],
+  "geometry": {"coordinates":[-73.410088,41.360966],"type":"Point"}
+}

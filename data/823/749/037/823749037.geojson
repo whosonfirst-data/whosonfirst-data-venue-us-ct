@@ -1,0 +1,73 @@
+{
+  "id": 823749037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.936467,41.336705,-72.936467,41.336705",
+    "geom:latitude":41.336705,
+    "geom:longitude":-72.936467,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Alstrum St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 2883",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CCs1b8PMBmpqoNUA9gMwf_41.336705_-72.936467@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445356,
+    "wof:geomhash":"6a753213aa2faa431e6a150b846498b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823749037
+        }
+    ],
+    "wof:id":823749037,
+    "wof:lastmodified":1466424996,
+    "wof:name":"Cell Comm Electrical Svc",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.936467,
+    41.336705,
+    -72.936467,
+    41.336705
+],
+  "geometry": {"coordinates":[-72.93646699999999,41.336705],"type":"Point"}
+}

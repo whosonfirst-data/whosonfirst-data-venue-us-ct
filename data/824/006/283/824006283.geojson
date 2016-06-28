@@ -1,0 +1,71 @@
+{
+  "id": 824006283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.08823,41.65703,-73.08823,41.65703",
+    "geom:latitude":41.65703,
+    "geom:longitude":-73.08823,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"209 Watertown Rd",
+    "sg:city":"Thomaston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 283 5598",
+    "sg:postcode":"06787",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3grm3k8sNX0ODZNgVbQNJ6_41.657030_-73.088230@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452124,
+    "wof:geomhash":"57072e081b3c7d6ecaf689fd82c40a18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824006283
+        }
+    ],
+    "wof:id":824006283,
+    "wof:lastmodified":1466421232,
+    "wof:name":"Thomaston Grill",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.08823,
+    41.65703,
+    -73.08823,
+    41.65703
+],
+  "geometry": {"coordinates":[-73.08823,41.65703],"type":"Point"}
+}

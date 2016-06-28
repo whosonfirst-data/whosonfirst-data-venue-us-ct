@@ -1,0 +1,73 @@
+{
+  "id": 823824275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.725827,41.819305,-72.725827,41.819305",
+    "geom:latitude":41.819305,
+    "geom:longitude":-72.725827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Jolley Dr",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xYV1fL0LEgbHNe61QLCIH_41.819305_-72.725827@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447423,
+    "wof:geomhash":"0a16980a8ed6c91dde7eb78168f43e16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":823824275
+        }
+    ],
+    "wof:id":823824275,
+    "wof:lastmodified":1466425334,
+    "wof:name":"Peter C Donshik MD",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.725827,
+    41.819305,
+    -72.725827,
+    41.819305
+],
+  "geometry": {"coordinates":[-72.725827,41.819305],"type":"Point"}
+}

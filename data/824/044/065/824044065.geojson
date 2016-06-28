@@ -1,0 +1,71 @@
+{
+  "id": 824044065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.548979,41.777014,-72.548979,41.777014",
+    "geom:latitude":41.777014,
+    "geom:longitude":-72.548979,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"585 Adams St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 432 3870",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iNiE4ANQJfAtRVvvz3sbU_41.777014_-72.548979@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453022,
+    "wof:geomhash":"e87debd9b87611138eefb042b2d522b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":824044065
+        }
+    ],
+    "wof:id":824044065,
+    "wof:lastmodified":1466421889,
+    "wof:name":"American Contractor of CT",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.548979,
+    41.777014,
+    -72.548979,
+    41.777014
+],
+  "geometry": {"coordinates":[-72.548979,41.777014],"type":"Point"}
+}

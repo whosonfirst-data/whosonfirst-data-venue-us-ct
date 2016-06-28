@@ -1,0 +1,79 @@
+{
+  "id": 823645605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.722193,41.656321,-72.722193,41.656321",
+    "geom:latitude":41.656321,
+    "geom:longitude":-72.722193,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"175 Costello Rd",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 665 9393",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836819,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ga505RilLCZqoH9GIUgY_41.656321_-72.722193@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442981,
+    "wof:geomhash":"764e0832e8384cc7024b9602f8bdb6be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823645605
+        }
+    ],
+    "wof:id":823645605,
+    "wof:lastmodified":1466423746,
+    "wof:name":"Southern Electric Corp",
+    "wof:parent_id":85836819,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.722193,
+    41.656321,
+    -72.722193,
+    41.656321
+],
+  "geometry": {"coordinates":[-72.722193,41.656321],"type":"Point"}
+}

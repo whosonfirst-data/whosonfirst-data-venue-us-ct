@@ -1,0 +1,75 @@
+{
+  "id": 823667869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.059899,41.435143,-73.059899,41.435143",
+    "geom:latitude":41.435143,
+    "geom:longitude":-73.059899,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"187 S Main St",
+    "sg:city":"Beacon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 723 7247",
+    "sg:postcode":"06403",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qchrOSBEcGckkZhyweCwD_41.435143_-73.059899@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443521,
+    "wof:geomhash":"3e0102e65657f01ea57825a806ad7ff1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823667869
+        }
+    ],
+    "wof:id":823667869,
+    "wof:lastmodified":1466424050,
+    "wof:name":"Fitzgerald Automotive L L C",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.059899,
+    41.435143,
+    -73.059899,
+    41.435143
+],
+  "geometry": {"coordinates":[-73.059899,41.435143],"type":"Point"}
+}

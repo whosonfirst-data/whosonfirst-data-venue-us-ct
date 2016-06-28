@@ -1,0 +1,81 @@
+{
+  "id": 823587547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.561773,41.042377,-73.561773,41.042377",
+    "geom:latitude":41.042377,
+    "geom:longitude":-73.561773,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"37 Brown House Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 356 9752",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vQ8chxa04GXVynYHNApDQ_41.042377_-73.561773@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441590,
+    "wof:geomhash":"6f84bc6b01c5b5b18920416b5fa54a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823587547
+        }
+    ],
+    "wof:id":823587547,
+    "wof:lastmodified":1466423181,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -73.561773,
+    41.042377,
+    -73.561773,
+    41.042377
+],
+  "geometry": {"coordinates":[-73.561773,41.042377],"type":"Point"}
+}

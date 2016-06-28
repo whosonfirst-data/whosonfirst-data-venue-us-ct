@@ -1,0 +1,86 @@
+{
+  "id": 823689827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.820774,41.451139,-72.820774,41.451139",
+    "geom:latitude":41.451139,
+    "geom:longitude":-72.820774,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 S Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 1318",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electronic",
+        "representative",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6adLAS575CtdsLFtvy4EVg_41.451139_-72.820774@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444009,
+    "wof:geomhash":"9229eda10c75a2e506b4a232429f0d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823689827
+        }
+    ],
+    "wof:id":823689827,
+    "wof:lastmodified":1466424154,
+    "wof:name":"John E Boeing Company Inc",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "representative",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -72.820774,
+    41.451139,
+    -72.820774,
+    41.451139
+],
+  "geometry": {"coordinates":[-72.820774,41.451139],"type":"Point"}
+}

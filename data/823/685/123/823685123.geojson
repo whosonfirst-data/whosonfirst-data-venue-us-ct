@@ -1,0 +1,66 @@
+{
+  "id": 823685123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.621025,41.278149,-72.621025,41.278149",
+    "geom:latitude":41.278149,
+    "geom:longitude":-72.621025,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"328 Boston Post Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 5111",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mzBJVguZMFg5oWrdzWU8h_41.278149_-72.621025@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443901,
+    "wof:geomhash":"49eadc8b5a8da08d7b91cb71b789d3cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823685123
+        }
+    ],
+    "wof:id":823685123,
+    "wof:lastmodified":1466424073,
+    "wof:name":"Wildermann Landscaping",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.621025,
+    41.278149,
+    -72.621025,
+    41.278149
+],
+  "geometry": {"coordinates":[-72.621025,41.278149],"type":"Point"}
+}

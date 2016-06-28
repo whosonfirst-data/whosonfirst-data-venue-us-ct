@@ -1,0 +1,73 @@
+{
+  "id": 823650647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.754003,41.273715,-72.754003,41.273715",
+    "geom:latitude":41.273715,
+    "geom:longitude":-72.754003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Howd Ave",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 6852",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "factory",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851179,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wZ0Yr3GAazZt80ABgjUm5_41.273715_-72.754003@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443092,
+    "wof:geomhash":"f9d4caf9b4259f74f1117210223f1a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85851179,
+            "region_id":85688629,
+            "venue_id":823650647
+        }
+    ],
+    "wof:id":823650647,
+    "wof:lastmodified":1466423830,
+    "wof:name":"Murray Co",
+    "wof:parent_id":85851179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "factory",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.754003,
+    41.273715,
+    -72.754003,
+    41.273715
+],
+  "geometry": {"coordinates":[-72.754003,41.273715],"type":"Point"}
+}

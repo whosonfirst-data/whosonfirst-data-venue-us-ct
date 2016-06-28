@@ -1,0 +1,73 @@
+{
+  "id": 824096267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.895401,41.768398,-71.895401,41.768398",
+    "geom:latitude":41.768398,
+    "geom:longitude":-71.895401,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Taos Dr",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 774 3333",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AQ955jMBDORqV25ppPu5I_41.768398_-71.895401@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454250,
+    "wof:geomhash":"d52831d6bc0de52fc80f45633e8b7f44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824096267
+        }
+    ],
+    "wof:id":824096267,
+    "wof:lastmodified":1466423007,
+    "wof:name":"Labossiere Electric",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -71.895401,
+    41.768398,
+    -71.895401,
+    41.768398
+],
+  "geometry": {"coordinates":[-71.89540100000001,41.768398],"type":"Point"}
+}

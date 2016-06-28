@@ -1,0 +1,71 @@
+{
+  "id": 824083771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819298,41.8008,-72.819298,41.8008",
+    "geom:latitude":41.8008,
+    "geom:longitude":-72.819298,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Avonwood Rd",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 674 1886",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855189,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2altGYDlPe1PGLqs6bxuEv_41.800800_-72.819298@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453939,
+    "wof:geomhash":"45986fcd5fee0671018db6e01630d644",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85855189,
+            "region_id":85688629,
+            "venue_id":824083771
+        }
+    ],
+    "wof:id":824083771,
+    "wof:lastmodified":1466422489,
+    "wof:name":"Farmington Vly Veterinary Emergency Hospital Llc",
+    "wof:parent_id":85855189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.819298,
+    41.8008,
+    -72.819298,
+    41.8008
+],
+  "geometry": {"coordinates":[-72.819298,41.8008],"type":"Point"}
+}

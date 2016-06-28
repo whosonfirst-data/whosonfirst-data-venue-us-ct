@@ -1,0 +1,71 @@
+{
+  "id": 823625189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.600766,41.101704,-73.600766,41.101704",
+    "geom:latitude":41.101704,
+    "geom:longitude":-73.600766,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"22 Carrington Dr",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06831",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LQLBaK5JkAUhuVMFjRiZk_41.101704_-73.600766@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442518,
+    "wof:geomhash":"defe807d6b2280de530279a01e728208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85844811,
+            "region_id":85688629,
+            "venue_id":823625189
+        }
+    ],
+    "wof:id":823625189,
+    "wof:lastmodified":1466423544,
+    "wof:name":"B&R Motorsports LLC",
+    "wof:parent_id":85844811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.600766,
+    41.101704,
+    -73.600766,
+    41.101704
+],
+  "geometry": {"coordinates":[-73.60076599999999,41.101704],"type":"Point"}
+}

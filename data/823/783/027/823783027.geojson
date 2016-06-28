@@ -1,0 +1,77 @@
+{
+  "id": 823783027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.207351,41.299942,-73.207351,41.299942",
+    "geom:latitude":41.299942,
+    "geom:longitude":-73.207351,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Elm St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 6777",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bLVJPlJVGStjh7i0MWctF_41.299942_-73.207351@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446170,
+    "wof:geomhash":"0176691afff174a84fce3263101e072d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823783027
+        }
+    ],
+    "wof:id":823783027,
+    "wof:lastmodified":1466424974,
+    "wof:name":"Robert Bocchino",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.207351,
+    41.299942,
+    -73.207351,
+    41.299942
+],
+  "geometry": {"coordinates":[-73.207351,41.299942],"type":"Point"}
+}

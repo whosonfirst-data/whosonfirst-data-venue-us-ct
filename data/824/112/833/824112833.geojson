@@ -1,0 +1,85 @@
+{
+  "id": 824112833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.387661,41.465824,-73.387661,41.465824",
+    "geom:latitude":41.465824,
+    "geom:longitude":-73.387661,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"160 Whisconier Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 1259",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1B0iWMJq1ZBKHsY4Ka9wqD_41.465824_-73.387661@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454615,
+    "wof:geomhash":"cc4b52a1e83d45a53bf6f2794596e5ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":824112833
+        }
+    ],
+    "wof:id":824112833,
+    "wof:lastmodified":1466423125,
+    "wof:name":"Congregational Church of Brookfield",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -73.387661,
+    41.465824,
+    -73.387661,
+    41.465824
+],
+  "geometry": {"coordinates":[-73.38766099999999,41.465824],"type":"Point"}
+}

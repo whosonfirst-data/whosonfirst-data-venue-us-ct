@@ -1,0 +1,73 @@
+{
+  "id": 823865623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.654913,41.283565,-72.654913,41.283565",
+    "geom:latitude":41.283565,
+    "geom:longitude":-72.654913,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Stonewall Ln",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "archeology",
+        "survey"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eLFk3Tgg3jfr3cIo36JBy_41.283565_-72.654913@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448638,
+    "wof:geomhash":"1aa42a63fee7895f49fc6900ddca2dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823865623
+        }
+    ],
+    "wof:id":823865623,
+    "wof:lastmodified":1466425910,
+    "wof:name":"ACS",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archeology",
+        "survey"
+    ]
+},
+  "bbox": [
+    -72.654913,
+    41.283565,
+    -72.654913,
+    41.283565
+],
+  "geometry": {"coordinates":[-72.65491299999999,41.283565],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824005965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.608176,41.706623,-72.608176,41.706623",
+    "geom:latitude":41.706623,
+    "geom:longitude":-72.608176,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2155 Main St",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 652 7629",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QmCz0YpQCfBvLUX0aBvek_41.706623_-72.608176@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452119,
+    "wof:geomhash":"1a82ab023f6dbc6198c3ee0b2bda7939",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":824005965
+        }
+    ],
+    "wof:id":824005965,
+    "wof:lastmodified":1466421206,
+    "wof:name":"Glastonbury Probate Court",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.608176,
+    41.706623,
+    -72.608176,
+    41.706623
+],
+  "geometry": {"coordinates":[-72.608176,41.706623],"type":"Point"}
+}

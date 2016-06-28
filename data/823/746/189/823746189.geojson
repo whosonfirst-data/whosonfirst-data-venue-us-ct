@@ -1,0 +1,72 @@
+{
+  "id": 823746189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.056804,41.531372,-72.056804,41.531372",
+    "geom:latitude":41.531372,
+    "geom:longitude":-72.056804,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"266 N Main St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85823081,
+        102191575,
+        404495761,
+        85633793,
+        85930861,
+        102084295,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xiFHgsuFbM0vJ270MJ7c7_41.531372_-72.056804@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445290,
+    "wof:geomhash":"f4969eda9cc459366cb954e06489a541",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084295,
+            "localadmin_id":404495761,
+            "locality_id":85930861,
+            "neighbourhood_id":85823081,
+            "region_id":85688629,
+            "venue_id":823746189
+        }
+    ],
+    "wof:id":823746189,
+    "wof:lastmodified":1466424643,
+    "wof:name":"Everetts Auto Center",
+    "wof:parent_id":85823081,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.056804,
+    41.531372,
+    -72.056804,
+    41.531372
+],
+  "geometry": {"coordinates":[-72.056804,41.531372],"type":"Point"}
+}

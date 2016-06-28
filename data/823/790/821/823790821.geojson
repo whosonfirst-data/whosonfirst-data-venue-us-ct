@@ -1,0 +1,85 @@
+{
+  "id": 823790821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.463384,41.332847,-73.463384,41.332847",
+    "geom:latitude":41.332847,
+    "geom:longitude":-73.463384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 E Starrs Plain Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 748 8564",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "machine",
+        "trucking",
+        "vending",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S9tb2v59yr4Kj4gObxEb1_41.332847_-73.463384@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446446,
+    "wof:geomhash":"d69ced5595f1aa2040069a31684c0b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823790821
+        }
+    ],
+    "wof:id":823790821,
+    "wof:lastmodified":1466425054,
+    "wof:name":"A L Venning Co",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "machine",
+        "trucking",
+        "vending",
+        "local"
+    ]
+},
+  "bbox": [
+    -73.463384,
+    41.332847,
+    -73.463384,
+    41.332847
+],
+  "geometry": {"coordinates":[-73.463384,41.332847],"type":"Point"}
+}

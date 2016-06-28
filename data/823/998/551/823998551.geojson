@@ -1,0 +1,73 @@
+{
+  "id": 823998551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.902218,41.909537,-71.902218,41.909537",
+    "geom:latitude":41.909537,
+    "geom:longitude":-71.902218,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"83 Chapman St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 3715",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w8qsB5jQ52agOLwxItB21_41.909537_-71.902218@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451955,
+    "wof:geomhash":"c6c9e63db04ed970c3311382d202748a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823998551
+        }
+    ],
+    "wof:id":823998551,
+    "wof:lastmodified":1466426843,
+    "wof:name":"C & G Builders",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.902218,
+    41.909537,
+    -71.902218,
+    41.909537
+],
+  "geometry": {"coordinates":[-71.902218,41.909537],"type":"Point"}
+}

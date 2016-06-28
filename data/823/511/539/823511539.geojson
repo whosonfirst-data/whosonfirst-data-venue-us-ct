@@ -1,0 +1,77 @@
+{
+  "id": 823511539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528628,41.031624,-73.528628,41.031624",
+    "geom:latitude":41.031624,
+    "geom:longitude":-73.528628,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Stamford Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 965 2000",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85848455,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73j7TThMSJGiO2529qT2A0_41.031624_-73.528628@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439822,
+    "wof:geomhash":"5c7e1c1e306d6e71fb29d41e08b95745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85848455,
+            "region_id":85688629,
+            "venue_id":823511539
+        }
+    ],
+    "wof:id":823511539,
+    "wof:lastmodified":1466421976,
+    "wof:name":"Verizon Communications",
+    "wof:parent_id":85848455,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -73.528628,
+    41.031624,
+    -73.528628,
+    41.031624
+],
+  "geometry": {"coordinates":[-73.528628,41.031624],"type":"Point"}
+}

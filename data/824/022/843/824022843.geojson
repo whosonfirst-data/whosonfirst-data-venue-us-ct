@@ -1,0 +1,73 @@
+{
+  "id": 824022843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.256206,41.307434,-73.256206,41.307434",
+    "geom:latitude":41.307434,
+    "geom:longitude":-73.256206,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"188 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 7702",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4REmkJZgamSMX0jHCCPeae_41.307434_-73.256206@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452493,
+    "wof:geomhash":"3e8db2cbe60004da9982311ed06d49f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824022843
+        }
+    ],
+    "wof:id":824022843,
+    "wof:lastmodified":1466421599,
+    "wof:name":"Precision Safe & Lock",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.256206,
+    41.307434,
+    -73.256206,
+    41.307434
+],
+  "geometry": {"coordinates":[-73.25620600000001,41.307434],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 824073891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.582841,41.98992,-72.582841,41.98992",
+    "geom:latitude":41.98992,
+    "geom:longitude":-72.582841,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Hazard Ave",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/enfield/207954-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 741 5980",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2njX4Whc4lVx1tYdjgOLZ2_41.989920_-72.582841@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453717,
+    "wof:geomhash":"ab4d0e4b188ef43b993e17c7a59efc37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824073891
+        }
+    ],
+    "wof:id":824073891,
+    "wof:lastmodified":1466422457,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -72.582841,
+    41.98992,
+    -72.582841,
+    41.98992
+],
+  "geometry": {"coordinates":[-72.582841,41.98992],"type":"Point"}
+}

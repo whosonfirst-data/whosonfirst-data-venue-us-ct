@@ -1,0 +1,71 @@
+{
+  "id": 823482883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.689305,41.825629,-72.689305,41.825629",
+    "geom:latitude":41.825629,
+    "geom:longitude":-72.689305,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"34 Daniel Blvd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qrrX0XNg0tFzJ4GzRzo7j_41.825629_-72.689305@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439144,
+    "wof:geomhash":"78b6654b5083a6cd13a4f7b17e7563fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823482883
+        }
+    ],
+    "wof:id":823482883,
+    "wof:lastmodified":1466421680,
+    "wof:name":"International Window Cleaners",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.689305,
+    41.825629,
+    -72.689305,
+    41.825629
+],
+  "geometry": {"coordinates":[-72.689305,41.825629],"type":"Point"}
+}

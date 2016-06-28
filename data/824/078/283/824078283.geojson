@@ -1,0 +1,82 @@
+{
+  "id": 824078283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.932039,41.350701,-72.932039,41.350701",
+    "geom:latitude":41.350701,
+    "geom:longitude":-72.932039,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1380 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/hamden/261289-star-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 2626",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g8fn5bo4A7Q6ONsPiUXyS_41.350701_-72.932039@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453818,
+    "wof:geomhash":"590cf9b4f126f3245c0f3b51d11ca953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824078283
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":824078283
+        }
+    ],
+    "wof:id":824078283,
+    "wof:lastmodified":1466422564,
+    "wof:name":"Star Pizza",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.932039,
+    41.350701,
+    -72.932039,
+    41.350701
+],
+  "geometry": {"coordinates":[-72.932039,41.350701],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823835735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.799791,41.725449,-72.799791,41.725449",
+    "geom:latitude":41.725449,
+    "geom:longitude":-72.799791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"45 South Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AOlnDQES6lqidiMpK9sGk_41.725449_-72.799791@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447787,
+    "wof:geomhash":"b0dec44de34896ad8965e102b12a992a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823835735
+        }
+    ],
+    "wof:id":823835735,
+    "wof:lastmodified":1466425601,
+    "wof:name":"Manor Care",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -72.799791,
+    41.725449,
+    -72.799791,
+    41.725449
+],
+  "geometry": {"coordinates":[-72.799791,41.725449],"type":"Point"}
+}

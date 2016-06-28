@@ -1,0 +1,80 @@
+{
+  "id": 824081785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.938055,41.315087,-72.938055,41.315087",
+    "geom:latitude":41.315087,
+    "geom:longitude":-72.938055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"169 Whalley Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-haven/166537-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 787 4535",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879167,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gLHSqvMuJBBwmsQRZf9UC_41.314791_-72.937273@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453891,
+    "wof:geomhash":"c010e1b876bbc7220a9f93d94692d73b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879167,
+            "region_id":85688629,
+            "venue_id":824081785
+        }
+    ],
+    "wof:id":824081785,
+    "wof:lastmodified":1466422670,
+    "wof:name":"Burger King",
+    "wof:parent_id":85879167,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -72.938055,
+    41.315087,
+    -72.938055,
+    41.315087
+],
+  "geometry": {"coordinates":[-72.93805500000001,41.315087],"type":"Point"}
+}

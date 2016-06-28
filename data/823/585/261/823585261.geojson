@@ -1,0 +1,66 @@
+{
+  "id": 823585261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.654042,41.862913,-72.654042,41.862913",
+    "geom:latitude":41.862913,
+    "geom:longitude":-72.654042,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"328 Poquonock Ave",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 688 4808",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C57noLLClhNZw3Cg54Etq_41.862913_-72.654042@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441541,
+    "wof:geomhash":"2a05e8d770f3a563466d2394f249fcca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":823585261
+        }
+    ],
+    "wof:id":823585261,
+    "wof:lastmodified":1466423113,
+    "wof:name":"Windsor Pickle Deli",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.654042,
+    41.862913,
+    -72.654042,
+    41.862913
+],
+  "geometry": {"coordinates":[-72.654042,41.862913],"type":"Point"}
+}

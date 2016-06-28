@@ -1,0 +1,81 @@
+{
+  "id": 823798523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.933327,41.347386,-72.933327,41.347386",
+    "geom:latitude":41.347386,
+    "geom:longitude":-72.933327,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1248 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 2971",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_741BsZmZagBRTZajnRARqe_41.347386_-72.933327@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446673,
+    "wof:geomhash":"7e122561a1506ae8bf959ff4a6d7a148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823798523
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823798523
+        }
+    ],
+    "wof:id":823798523,
+    "wof:lastmodified":1466425110,
+    "wof:name":"New Alliance Bank",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -72.933327,
+    41.347386,
+    -72.933327,
+    41.347386
+],
+  "geometry": {"coordinates":[-72.93332700000001,41.347386],"type":"Point"}
+}

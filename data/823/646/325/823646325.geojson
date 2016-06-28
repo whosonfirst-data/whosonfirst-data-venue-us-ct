@@ -1,0 +1,88 @@
+{
+  "id": 823646325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.415993,41.112874,-73.415993,41.112874",
+    "geom:latitude":41.112874,
+    "geom:longitude":-73.415993,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"546 West Ave",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 854 4769",
+    "sg:postcode":"06850",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85849909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GzLjKdGEtPK69tX5t7nAR_41.112874_-73.415993@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442999,
+    "wof:geomhash":"ff1e0f972f6e46ae157b9ee6d7838fa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823646325
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85849909,
+            "region_id":85688629,
+            "venue_id":823646325
+        }
+    ],
+    "wof:id":823646325,
+    "wof:lastmodified":1466423759,
+    "wof:name":"Six Days Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -73.415993,
+    41.112874,
+    -73.415993,
+    41.112874
+],
+  "geometry": {"coordinates":[-73.415993,41.112874],"type":"Point"}
+}

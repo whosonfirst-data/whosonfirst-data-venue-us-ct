@@ -1,0 +1,75 @@
+{
+  "id": 823648983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.69019,41.819132,-72.69019,41.819132",
+    "geom:latitude":41.819132,
+    "geom:longitude":-72.69019,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"84 Englewood Ave",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 242 6071",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PgjTAiAGPm0z4gIhT6A7Z_41.819132_-72.690190@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443060,
+    "wof:geomhash":"c2061c1f426669813ccb6f017f97aa34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":823648983
+        }
+    ],
+    "wof:id":823648983,
+    "wof:lastmodified":1466423878,
+    "wof:name":"Davis Express",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.69019,
+    41.819132,
+    -72.69019,
+    41.819132
+],
+  "geometry": {"coordinates":[-72.69019,41.819132],"type":"Point"}
+}

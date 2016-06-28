@@ -1,0 +1,82 @@
+{
+  "id": 824097073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.912028,41.918785,-71.912028,41.918785",
+    "geom:latitude":41.918785,
+    "geom:longitude":-71.912028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"126 Church St",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 5529",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tpqOC3NWsKD30K6uxYXy7_41.918785_-71.912028@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454270,
+    "wof:geomhash":"5d496a6f76e3b85adb4f2b1a18ecae67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":824097073
+        }
+    ],
+    "wof:id":824097073,
+    "wof:lastmodified":1466422897,
+    "wof:name":"Putnam Fire Department",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -71.912028,
+    41.918785,
+    -71.912028,
+    41.918785
+],
+  "geometry": {"coordinates":[-71.91202800000001,41.918785],"type":"Point"}
+}

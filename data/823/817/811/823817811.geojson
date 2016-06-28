@@ -1,0 +1,73 @@
+{
+  "id": 823817811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.68145,41.281434,-72.68145,41.281434",
+    "geom:latitude":41.281434,
+    "geom:longitude":-72.68145,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Boston St",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 453 2088",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2el6iOEfRAL4VEO8gQVSyF_41.281434_-72.681450@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447225,
+    "wof:geomhash":"dea97de35dabb15530123d41c3784aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823817811
+        }
+    ],
+    "wof:id":823817811,
+    "wof:lastmodified":1466425320,
+    "wof:name":"Hole In The Wall",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -72.68145,
+    41.281434,
+    -72.68145,
+    41.281434
+],
+  "geometry": {"coordinates":[-72.68145,41.281434],"type":"Point"}
+}

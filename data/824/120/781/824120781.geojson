@@ -1,0 +1,84 @@
+{
+  "id": 824120781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.53656,41.061125,-73.53656,41.061125",
+    "geom:latitude":41.061125,
+    "geom:longitude":-73.53656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Hoyt St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 965 5255",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "government-state",
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZLmNIu5vcVM7KTcfreTo_41.061125_-73.536560@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454779,
+    "wof:geomhash":"b7bf9d240ea641b29ab599bf16f0f511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":824120781
+        }
+    ],
+    "wof:id":824120781,
+    "wof:lastmodified":1466423381,
+    "wof:name":"State of Connecticut Ga 1",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "attorney"
+    ]
+},
+  "bbox": [
+    -73.53656,
+    41.061125,
+    -73.53656,
+    41.061125
+],
+  "geometry": {"coordinates":[-73.53655999999999,41.061125],"type":"Point"}
+}

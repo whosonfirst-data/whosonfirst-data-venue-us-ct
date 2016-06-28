@@ -1,0 +1,66 @@
+{
+  "id": 823498129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416705,41.160713,-73.416705,41.160713",
+    "geom:latitude":41.160713,
+    "geom:longitude":-73.416705,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1212 Foxboro Dr",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73GxTdl7M7FaOVXRxhmhrU_41.160713_-73.416705@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439531,
+    "wof:geomhash":"a47b398013fd90dac07217d04adca20f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823498129
+        }
+    ],
+    "wof:id":823498129,
+    "wof:lastmodified":1466421617,
+    "wof:name":"Joel Ingber Dr",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.416705,
+    41.160713,
+    -73.416705,
+    41.160713
+],
+  "geometry": {"coordinates":[-73.41670499999999,41.160713],"type":"Point"}
+}

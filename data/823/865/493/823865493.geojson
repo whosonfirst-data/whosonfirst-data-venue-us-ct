@@ -1,0 +1,66 @@
+{
+  "id": 823865493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.917475,41.328036,-72.917475,41.328036",
+    "geom:latitude":41.328036,
+    "geom:longitude":-72.917475,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"363 Saint Ronan St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 787 6172",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879177,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NpSewrZDWeEr7NBui22vB_41.328036_-72.917475@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448636,
+    "wof:geomhash":"fdd6e48eb3c91f32d20fffe56bbc1980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879177,
+            "region_id":85688629,
+            "venue_id":823865493
+        }
+    ],
+    "wof:id":823865493,
+    "wof:lastmodified":1466425735,
+    "wof:name":"Yale University",
+    "wof:parent_id":85879177,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.917475,
+    41.328036,
+    -72.917475,
+    41.328036
+],
+  "geometry": {"coordinates":[-72.917475,41.328036],"type":"Point"}
+}

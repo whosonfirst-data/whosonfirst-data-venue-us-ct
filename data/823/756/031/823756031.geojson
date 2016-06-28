@@ -1,0 +1,75 @@
+{
+  "id": 823756031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.242096,41.32723,-73.242096,41.32723",
+    "geom:latitude":41.32723,
+    "geom:longitude":-73.242096,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Hannah Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 1387",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i0tfsBenwmxSvFmWjKNUH_41.327230_-73.242096@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445536,
+    "wof:geomhash":"a1698f647a54c35d3d8f60d1ec5b1978",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823756031
+        }
+    ],
+    "wof:id":823756031,
+    "wof:lastmodified":1466424739,
+    "wof:name":"Ralph's Plumbing & Heating",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.242096,
+    41.32723,
+    -73.242096,
+    41.32723
+],
+  "geometry": {"coordinates":[-73.242096,41.32723],"type":"Point"}
+}

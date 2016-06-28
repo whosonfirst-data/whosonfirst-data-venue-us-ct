@@ -1,0 +1,66 @@
+{
+  "id": 823707737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930214,41.335361,-72.930214,41.335361",
+    "geom:latitude":41.335361,
+    "geom:longitude":-72.930214,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"432 Shelton Ave",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 2950",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VCGrIQs7zeP54PQdh8pxm_41.335361_-72.930214@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444398,
+    "wof:geomhash":"5db081b8e3aaf4ff75ac79fa7fe19669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823707737
+        }
+    ],
+    "wof:id":823707737,
+    "wof:lastmodified":1466424349,
+    "wof:name":"Chapman's Liquor",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.930214,
+    41.335361,
+    -72.930214,
+    41.335361
+],
+  "geometry": {"coordinates":[-72.93021400000001,41.335361],"type":"Point"}
+}

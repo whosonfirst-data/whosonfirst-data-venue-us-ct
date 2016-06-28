@@ -1,0 +1,88 @@
+{
+  "id": 823751683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.94098,41.678535,-72.94098,41.678535",
+    "geom:latitude":41.678535,
+    "geom:longitude":-72.94098,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Maple St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06010",
+    "sg:province":"CT",
+    "sg:tags":[
+        "child",
+        "care",
+        "day",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816055,
+        102191575,
+        404495823,
+        85633793,
+        85930825,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tVS863RPvySP4SSycSiaH_41.678535_-72.940980@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445422,
+    "wof:geomhash":"d96912989513dc19c02ddf566b5c5658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495823,
+            "locality_id":85930825,
+            "neighbourhood_id":85816055,
+            "region_id":85688629,
+            "venue_id":823751683
+        }
+    ],
+    "wof:id":823751683,
+    "wof:lastmodified":1466424765,
+    "wof:name":"Century Nursery School",
+    "wof:parent_id":85816055,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "care",
+        "day",
+        "church"
+    ]
+},
+  "bbox": [
+    -72.94098,
+    41.678535,
+    -72.94098,
+    41.678535
+],
+  "geometry": {"coordinates":[-72.94098,41.678535],"type":"Point"}
+}

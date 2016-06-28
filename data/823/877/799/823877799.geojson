@@ -1,0 +1,71 @@
+{
+  "id": 823877799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.393029,41.338035,-73.393029,41.338035",
+    "geom:latitude":41.338035,
+    "geom:longitude":-73.393029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"224 Lonetown Rd",
+    "sg:city":"Redding",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06896",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OSyFwKt4ComWOG81QASFR_41.338035_-73.393029@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448923,
+    "wof:geomhash":"ec217346b33679850155f927be5045d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823877799
+        }
+    ],
+    "wof:id":823877799,
+    "wof:lastmodified":1466425879,
+    "wof:name":"Rshm Maintenance",
+    "wof:parent_id":85867441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.393029,
+    41.338035,
+    -73.393029,
+    41.338035
+],
+  "geometry": {"coordinates":[-73.393029,41.338035],"type":"Point"}
+}

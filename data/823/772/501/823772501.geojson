@@ -1,0 +1,71 @@
+{
+  "id": 823772501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.923041,41.425278,-72.923041,41.425278",
+    "geom:latitude":41.425278,
+    "geom:longitude":-72.923041,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Berkeley Ct",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vV0gGV9AhJZ7Bk6p4Kan2_41.425278_-72.923041@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445883,
+    "wof:geomhash":"5fc10d9decccbc9e8aa1a9061f823f05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823772501
+        }
+    ],
+    "wof:id":823772501,
+    "wof:lastmodified":1466424931,
+    "wof:name":"Civitello Weld Mach",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.923041,
+    41.425278,
+    -72.923041,
+    41.425278
+],
+  "geometry": {"coordinates":[-72.923041,41.425278],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 823817397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.02044,41.251625,-73.02044,41.251625",
+    "geom:latitude":41.251625,
+    "geom:longitude":-73.02044,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"565 Boston Post Rd",
+    "sg:city":"Orange",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 795 9005",
+    "sg:postcode":"06477",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "music",
+        "provides"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TsoB7lAKzCRPtZZ650SJJ_41.251625_-73.020440@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447216,
+    "wof:geomhash":"dbe3aff6fddab592cfcca9aa552ea100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823817397
+        }
+    ],
+    "wof:id":823817397,
+    "wof:lastmodified":1466425277,
+    "wof:name":"Falcetti Music Center",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music",
+        "provides"
+    ]
+},
+  "bbox": [
+    -73.02044,
+    41.251625,
+    -73.02044,
+    41.251625
+],
+  "geometry": {"coordinates":[-73.02043999999999,41.251625],"type":"Point"}
+}

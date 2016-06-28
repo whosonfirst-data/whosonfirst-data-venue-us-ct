@@ -2,13 +2,14 @@
   "id": 354304355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.66191,41.014666,-73.66191,41.014666",
     "geom:latitude":41.014666,
     "geom:longitude":-73.66191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Putnam Dr",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":354304355,
-    "wof:lastmodified":1449067223,
+    "wof:lastmodified":1466421136,
     "wof:name":"Greaige Bros",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"
     ]
 },
-  "bbox": [-73.66191,41.014666,-73.66191,41.014666],
-  "geometry": {"coordinates":[-73.66191,41.014666],"type":"Point"}
+  "bbox": [
+    -73.66191,
+    41.014666,
+    -73.66191,
+    41.014666
+],
+  "geometry": {"coordinates":[-73.66191000000001,41.014666],"type":"Point"}
 }

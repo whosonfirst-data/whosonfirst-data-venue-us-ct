@@ -1,0 +1,80 @@
+{
+  "id": 823952459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.630514,41.789862,-72.630514,41.789862",
+    "geom:latitude":41.789862,
+    "geom:longitude":-72.630514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"129 King St",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 291 0565",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31CUAFb1COrogdhis3qfM8_41.789862_-72.630514@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450831,
+    "wof:geomhash":"7896b8779356c73ebc5ccb64750a076e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":823952459
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":823952459
+        }
+    ],
+    "wof:id":823952459,
+    "wof:lastmodified":1466426450,
+    "wof:name":"Flemings Tree & Service Works",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.630514,
+    41.789862,
+    -72.630514,
+    41.789862
+],
+  "geometry": {"coordinates":[-72.63051400000001,41.789862],"type":"Point"}
+}

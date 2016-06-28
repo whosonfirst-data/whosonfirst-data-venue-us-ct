@@ -1,0 +1,79 @@
+{
+  "id": 823629653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.545724,41.066982,-73.545724,41.066982",
+    "geom:latitude":41.066982,
+    "geom:longitude":-73.545724,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2111 Summer St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 978 0300",
+    "sg:postcode":"06905",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85844555,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rrLLdnYYINkjRfSziZrRT_41.066982_-73.545724@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442623,
+    "wof:geomhash":"dc1354b47e3aeba037731a07ef8124bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823629653
+        }
+    ],
+    "wof:id":823629653,
+    "wof:lastmodified":1466423629,
+    "wof:name":"Metropolitan Dance Ctr",
+    "wof:parent_id":85844555,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -73.545724,
+    41.066982,
+    -73.545724,
+    41.066982
+],
+  "geometry": {"coordinates":[-73.54572400000001,41.066982],"type":"Point"}
+}

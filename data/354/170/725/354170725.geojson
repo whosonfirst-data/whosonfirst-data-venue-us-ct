@@ -2,13 +2,14 @@
   "id": 354170725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.4882,41.148959,-73.4882,41.148959",
     "geom:latitude":41.148959,
     "geom:longitude":-73.4882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 Vitti St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":354170725,
-    "wof:lastmodified":1449066081,
+    "wof:lastmodified":1466421136,
     "wof:name":"Moody & OBrien",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.4882,41.148959,-73.4882,41.148959],
-  "geometry": {"coordinates":[-73.4882,41.148959],"type":"Point"}
+  "bbox": [
+    -73.4882,
+    41.148959,
+    -73.4882,
+    41.148959
+],
+  "geometry": {"coordinates":[-73.48820000000001,41.148959],"type":"Point"}
 }

@@ -1,0 +1,68 @@
+{
+  "id": 823765083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.225591,41.156718,-73.225591,41.156718",
+    "geom:latitude":41.156718,
+    "geom:longitude":-73.225591,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"521 Brewster St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zmg660r8COgWYmlWdWVb7_41.156718_-73.225591@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445719,
+    "wof:geomhash":"6ed358b984051cb11044af513f483f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823765083
+        }
+    ],
+    "wof:id":823765083,
+    "wof:lastmodified":1466424792,
+    "wof:name":"Saint Ann School",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.225591,
+    41.156718,
+    -73.225591,
+    41.156718
+],
+  "geometry": {"coordinates":[-73.22559099999999,41.156718],"type":"Point"}
+}

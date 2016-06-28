@@ -2,13 +2,14 @@
   "id": 287302271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489518,41.155657,-73.489518,41.155657",
     "geom:latitude":41.155657,
     "geom:longitude":-73.489518,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"103 Brushy Ridge Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287302271,
-    "wof:lastmodified":1449000956,
+    "wof:lastmodified":1466421102,
     "wof:name":"Balla Machree Farms",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "livestock"
     ]
 },
-  "bbox": [-73.489518,41.155657,-73.489518,41.155657],
+  "bbox": [
+    -73.489518,
+    41.155657,
+    -73.489518,
+    41.155657
+],
   "geometry": {"coordinates":[-73.489518,41.155657],"type":"Point"}
 }

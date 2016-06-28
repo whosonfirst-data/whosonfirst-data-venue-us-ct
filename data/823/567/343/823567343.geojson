@@ -1,0 +1,80 @@
+{
+  "id": 823567343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.491876,41.379375,-73.491876,41.379375",
+    "geom:latitude":41.379375,
+    "geom:longitude":-73.491876,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Precision Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 0115",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.westcoscientific.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85834619,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qRfq4X1VKZpsQKTTph5az_41.379375_-73.491876@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441121,
+    "wof:geomhash":"52d90349c22d0deedf022d8d8d55f83b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85834619,
+            "region_id":85688629,
+            "venue_id":823567343
+        }
+    ],
+    "wof:id":823567343,
+    "wof:lastmodified":1466422652,
+    "wof:name":"Westco Scientific Instruments",
+    "wof:parent_id":85834619,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.491876,
+    41.379375,
+    -73.491876,
+    41.379375
+],
+  "geometry": {"coordinates":[-73.491876,41.379375],"type":"Point"}
+}

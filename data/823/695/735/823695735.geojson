@@ -1,0 +1,71 @@
+{
+  "id": 823695735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.261365,41.444927,-73.261365,41.444927",
+    "geom:latitude":41.444927,
+    "geom:longitude":-73.261365,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"552 Berkshire Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 267 4363",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847919,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FEPrRoVjFmvTRy44tIfjN_41.444927_-73.261365@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444148,
+    "wof:geomhash":"5edc4cfc7b0e1add0bc2c11814180aba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85847919,
+            "region_id":85688629,
+            "venue_id":823695735
+        }
+    ],
+    "wof:id":823695735,
+    "wof:lastmodified":1466424400,
+    "wof:name":"Noga Caterer",
+    "wof:parent_id":85847919,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.261365,
+    41.444927,
+    -73.261365,
+    41.444927
+],
+  "geometry": {"coordinates":[-73.261365,41.444927],"type":"Point"}
+}

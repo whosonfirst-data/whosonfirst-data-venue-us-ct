@@ -1,0 +1,72 @@
+{
+  "id": 823472905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.292426,41.415085,-73.292426,41.415085",
+    "geom:latitude":41.415085,
+    "geom:longitude":-73.292426,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Commerce Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 0888",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.tuv.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KadJR1qhwCKNfXwvoBQZU_41.415085_-73.292426@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438894,
+    "wof:geomhash":"b1a3dc7de1aa7a840534e5aae56b0e7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823472905
+        }
+    ],
+    "wof:id":823472905,
+    "wof:lastmodified":1466421327,
+    "wof:name":"TUV Rheinland-North America",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -73.292426,
+    41.415085,
+    -73.292426,
+    41.415085
+],
+  "geometry": {"coordinates":[-73.29242600000001,41.415085],"type":"Point"}
+}

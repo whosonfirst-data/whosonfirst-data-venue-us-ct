@@ -1,0 +1,73 @@
+{
+  "id": 823714939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.658925,41.943751,-72.658925,41.943751",
+    "geom:latitude":41.943751,
+    "geom:longitude":-72.658925,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 King Spring Rd",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fZzj8RtNt61hCWrPxFmAz_41.943751_-72.658925@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444545,
+    "wof:geomhash":"ae0ad11b57e247b53eb56e194be8834c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823714939
+        }
+    ],
+    "wof:id":823714939,
+    "wof:lastmodified":1466424431,
+    "wof:name":"Bradley Auto Body",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.658925,
+    41.943751,
+    -72.658925,
+    41.943751
+],
+  "geometry": {"coordinates":[-72.658925,41.943751],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823897481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.36532,41.472395,-73.36532,41.472395",
+    "geom:latitude":41.472395,
+    "geom:longitude":-73.36532,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Obtuse Rd N",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 6878",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C8BZooF3C8wCgSZDM7UlD_41.472395_-73.365320@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449380,
+    "wof:geomhash":"4d221c0cd07088663952884a92c14fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823897481
+        }
+    ],
+    "wof:id":823897481,
+    "wof:lastmodified":1466426049,
+    "wof:name":"Skyline Property Development L",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -73.36532,
+    41.472395,
+    -73.36532,
+    41.472395
+],
+  "geometry": {"coordinates":[-73.36532,41.472395],"type":"Point"}
+}

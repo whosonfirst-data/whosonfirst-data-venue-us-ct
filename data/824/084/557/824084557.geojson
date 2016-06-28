@@ -1,0 +1,85 @@
+{
+  "id": 824084557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.822502,41.8069,-72.822502,41.8069",
+    "geom:latitude":41.8069,
+    "geom:longitude":-72.822502,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 E Main St",
+    "sg:city":"Avon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 676 1114",
+    "sg:postcode":"06001",
+    "sg:province":"CT",
+    "sg:tags":[
+        "reupholstery",
+        "store"
+    ],
+    "sg:website":"www.calicocorners.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841787,
+        102191575,
+        404495997,
+        85633793,
+        85931071,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hk8Ks4MdPeL9xFQ5wvahl_41.806900_-72.822502@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453957,
+    "wof:geomhash":"fd637a8bcf4222845f26db43fd2b355b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495997,
+            "locality_id":85931071,
+            "neighbourhood_id":85841787,
+            "region_id":85688629,
+            "venue_id":824084557
+        }
+    ],
+    "wof:id":824084557,
+    "wof:lastmodified":1466422664,
+    "wof:name":"Calico Corners",
+    "wof:parent_id":85841787,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "reupholstery",
+        "store"
+    ]
+},
+  "bbox": [
+    -72.822502,
+    41.8069,
+    -72.822502,
+    41.8069
+],
+  "geometry": {"coordinates":[-72.822502,41.8069],"type":"Point"}
+}

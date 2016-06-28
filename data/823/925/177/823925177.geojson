@@ -1,0 +1,66 @@
+{
+  "id": 823925177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.453602,41.300112,-73.453602,41.300112",
+    "geom:latitude":41.300112,
+    "geom:longitude":-73.453602,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Topstone Rd",
+    "sg:city":"Ridgefield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 431 8010",
+    "sg:postcode":"06877",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852363,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dyT78zrQAhjb3Yi2Lm8bW_41.300112_-73.453602@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450130,
+    "wof:geomhash":"d21eb4380c5881f01b92ffe761ea4fb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852363,
+            "region_id":85688629,
+            "venue_id":823925177
+        }
+    ],
+    "wof:id":823925177,
+    "wof:lastmodified":1466426200,
+    "wof:name":"Lawns Etc",
+    "wof:parent_id":85852363,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.453602,
+    41.300112,
+    -73.453602,
+    41.300112
+],
+  "geometry": {"coordinates":[-73.453602,41.300112],"type":"Point"}
+}

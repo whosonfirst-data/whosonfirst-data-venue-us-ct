@@ -1,0 +1,82 @@
+{
+  "id": 824093431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.598345,41.988626,-72.598345,41.988626",
+    "geom:latitude":41.988626,
+    "geom:longitude":-72.598345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"23 Fairview Ave",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 265 2235",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "equipment-testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cblzUhe7cnXZAov2E1guI_41.988626_-72.598345@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454164,
+    "wof:geomhash":"ede93b219ec2cbd6c4f426e1ed12f7a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824093431
+        }
+    ],
+    "wof:id":824093431,
+    "wof:lastmodified":1466422904,
+    "wof:name":"Roberts Electic",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -72.598345,
+    41.988626,
+    -72.598345,
+    41.988626
+],
+  "geometry": {"coordinates":[-72.59834499999999,41.988626],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 824072617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.709092,41.815955,-72.709092,41.815955",
+    "geom:latitude":41.815955,
+    "geom:longitude":-72.709092,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Granby St",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/bloomfield/169414-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 8883",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85812393,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vMQ1r7gDH1xoNiAaUCpLh_41.815955_-72.709092@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453685,
+    "wof:geomhash":"4b0839ff549450a211a3b41d252ddb44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85812393,
+            "region_id":85688629,
+            "venue_id":824072617
+        }
+    ],
+    "wof:id":824072617,
+    "wof:lastmodified":1466422459,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85812393,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.709092,
+    41.815955,
+    -72.709092,
+    41.815955
+],
+  "geometry": {"coordinates":[-72.709092,41.815955],"type":"Point"}
+}

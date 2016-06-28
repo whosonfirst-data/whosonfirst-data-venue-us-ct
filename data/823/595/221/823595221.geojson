@@ -1,0 +1,71 @@
+{
+  "id": 823595221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.036718,41.446187,-73.036718,41.446187",
+    "geom:latitude":41.446187,
+    "geom:longitude":-73.036718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"563 Burton Rd",
+    "sg:city":"Beacon Falls",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 729 3302",
+    "sg:postcode":"06403",
+    "sg:province":"CT",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LBUdL3Aort0jR1fyzDMY2_41.446187_-73.036718@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441768,
+    "wof:geomhash":"cb29096e032f59f9554434e32d957301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823595221
+        }
+    ],
+    "wof:id":823595221,
+    "wof:lastmodified":1466423193,
+    "wof:name":"Kmp Communication",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -73.036718,
+    41.446187,
+    -73.036718,
+    41.446187
+],
+  "geometry": {"coordinates":[-73.03671799999999,41.446187],"type":"Point"}
+}

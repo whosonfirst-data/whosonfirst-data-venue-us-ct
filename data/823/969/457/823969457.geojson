@@ -1,0 +1,71 @@
+{
+  "id": 823969457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.201719,41.431914,-73.201719,41.431914",
+    "geom:latitude":41.431914,
+    "geom:longitude":-73.201719,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1294 Georges Hill Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810099,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ObapTHvAHa6qXPRffD25p_41.431914_-73.201719@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451248,
+    "wof:geomhash":"66067b838c4d001e4c4130f1ea0a0025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810099,
+            "region_id":85688629,
+            "venue_id":823969457
+        }
+    ],
+    "wof:id":823969457,
+    "wof:lastmodified":1466426641,
+    "wof:name":"Trans Tech",
+    "wof:parent_id":85810099,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -73.201719,
+    41.431914,
+    -73.201719,
+    41.431914
+],
+  "geometry": {"coordinates":[-73.201719,41.431914],"type":"Point"}
+}

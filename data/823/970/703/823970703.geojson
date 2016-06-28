@@ -1,0 +1,81 @@
+{
+  "id": 823970703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.068786,41.216631,-73.068786,41.216631",
+    "geom:latitude":41.216631,
+    "geom:longitude":-73.068786,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1081 Bridgeport Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 1427",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85820241,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bOQNrSlJacFu3OFqLcYMu_41.216631_-73.068786@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451270,
+    "wof:geomhash":"5dc90c2d5bcd526c4ee4102b6e992811",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823970703
+        }
+    ],
+    "wof:id":823970703,
+    "wof:lastmodified":1466426657,
+    "wof:name":"Carvel Ice Cream Bakery",
+    "wof:parent_id":85820241,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -73.068786,
+    41.216631,
+    -73.068786,
+    41.216631
+],
+  "geometry": {"coordinates":[-73.068786,41.216631],"type":"Point"}
+}

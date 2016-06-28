@@ -1,0 +1,79 @@
+{
+  "id": 824089711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.52458,41.809792,-72.52458,41.809792",
+    "geom:latitude":41.809792,
+    "geom:longitude":-72.52458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"400 Tolland Tpke",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 643 1555",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "inn",
+        "lodging"
+    ],
+    "sg:website":"http://www.abvi.com/bestv.cfm?idp=565&rcode=lcl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CLuS5E5gEI1WqPfEu8LtI_41.809792_-72.524580@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454083,
+    "wof:geomhash":"85739018d06471e79c5132306caa04a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":824089711
+        }
+    ],
+    "wof:id":824089711,
+    "wof:lastmodified":1466422892,
+    "wof:name":"Americas Best Value Inn",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -72.52458,
+    41.809792,
+    -72.52458,
+    41.809792
+],
+  "geometry": {"coordinates":[-72.52458,41.809792],"type":"Point"}
+}

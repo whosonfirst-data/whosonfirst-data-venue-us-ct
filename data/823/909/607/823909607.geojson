@@ -1,0 +1,73 @@
+{
+  "id": 823909607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143884,41.312289,-73.143884,41.312289",
+    "geom:latitude":41.312289,
+    "geom:longitude":-73.143884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"95 Tuckahoe Dr",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 8711",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zzLS9UWNK5rbeXINSWsJ8_41.312289_-73.143884@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449736,
+    "wof:geomhash":"9b364e0d8555e451b8d8750b9aa9b1f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823909607
+        }
+    ],
+    "wof:id":823909607,
+    "wof:lastmodified":1466426296,
+    "wof:name":"Mario's Mechanical Svc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.143884,
+    41.312289,
+    -73.143884,
+    41.312289
+],
+  "geometry": {"coordinates":[-73.143884,41.312289],"type":"Point"}
+}

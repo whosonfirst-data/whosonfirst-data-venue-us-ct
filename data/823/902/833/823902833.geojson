@@ -1,0 +1,73 @@
+{
+  "id": 823902833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.831545,41.491456,-72.831545,41.491456",
+    "geom:latitude":41.491456,
+    "geom:longitude":-72.831545,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Brownstone Ridge",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 269 7643",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XjgnGUjthotgmqGUTar55_41.491456_-72.831545@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449542,
+    "wof:geomhash":"33c5517d2476851c0c32bb42da31c07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823902833
+        }
+    ],
+    "wof:id":823902833,
+    "wof:lastmodified":1466426078,
+    "wof:name":"Brooks Emergency Locksmith",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -72.831545,
+    41.491456,
+    -72.831545,
+    41.491456
+],
+  "geometry": {"coordinates":[-72.83154500000001,41.491456],"type":"Point"}
+}

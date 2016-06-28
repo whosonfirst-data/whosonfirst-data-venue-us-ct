@@ -1,0 +1,80 @@
+{
+  "id": 824074669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.625574,41.776035,-72.625574,41.776035",
+    "geom:latitude":41.776035,
+    "geom:longitude":-72.625574,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"300 Burnside Ave",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/east-hartford/189475-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 282 9596",
+    "sg:postcode":"06108",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808571,
+        102191575,
+        404495879,
+        85633793,
+        85931097,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XtBeECO6305Yx17Ihvrs2_41.776035_-72.625574@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453730,
+    "wof:geomhash":"2dfcb6786a07021cc2b7f6517a179d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":824074669
+        }
+    ],
+    "wof:id":824074669,
+    "wof:lastmodified":1466422427,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85808571,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.625574,
+    41.776035,
+    -72.625574,
+    41.776035
+],
+  "geometry": {"coordinates":[-72.625574,41.776035],"type":"Point"}
+}

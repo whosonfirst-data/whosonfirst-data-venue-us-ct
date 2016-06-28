@@ -1,0 +1,66 @@
+{
+  "id": 824088755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.888928,41.701505,-72.888928,41.701505",
+    "geom:latitude":41.701505,
+    "geom:longitude":-72.888928,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"362 Scott Swamp Rd",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 677 0445",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B07tAkWf5XtuoHkQ4HQRq_41.701505_-72.888928@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454063,
+    "wof:geomhash":"45a925a2bae92f7f9ad16a7b10297851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824088755
+        }
+    ],
+    "wof:id":824088755,
+    "wof:lastmodified":1466422877,
+    "wof:name":"Water Works Car Wash",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.888928,
+    41.701505,
+    -72.888928,
+    41.701505
+],
+  "geometry": {"coordinates":[-72.88892800000001,41.701505],"type":"Point"}
+}

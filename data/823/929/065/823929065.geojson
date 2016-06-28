@@ -1,0 +1,71 @@
+{
+  "id": 823929065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93508,41.337527,-72.93508,41.337527",
+    "geom:latitude":41.337527,
+    "geom:longitude":-72.93508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"899 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 624 5460",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qbpB5onRGpbmsLAY499Tu_41.337527_-72.935080@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450224,
+    "wof:geomhash":"2ca609350517bff0adf6a4f5c3c3ad45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823929065
+        }
+    ],
+    "wof:id":823929065,
+    "wof:lastmodified":1466426196,
+    "wof:name":"Tony's Bakery",
+    "wof:parent_id":85885309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.93508,
+    41.337527,
+    -72.93508,
+    41.337527
+],
+  "geometry": {"coordinates":[-72.93508,41.337527],"type":"Point"}
+}

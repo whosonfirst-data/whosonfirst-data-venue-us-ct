@@ -1,0 +1,75 @@
+{
+  "id": 823548019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.406877,41.501594,-73.406877,41.501594",
+    "geom:latitude":41.501594,
+    "geom:longitude":-73.406877,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"7 Robins Ln",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 9247",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809215,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kSPP4YEFZfMoTBatSW3s8_41.501594_-73.406877@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440654,
+    "wof:geomhash":"dc3ed480ad3f4097d9ea0ccb54e529fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809215,
+            "region_id":85688629,
+            "venue_id":823548019
+        }
+    ],
+    "wof:id":823548019,
+    "wof:lastmodified":1466422431,
+    "wof:name":"Waggin' Train",
+    "wof:parent_id":85809215,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -73.406877,
+    41.501594,
+    -73.406877,
+    41.501594
+],
+  "geometry": {"coordinates":[-73.40687699999999,41.501594],"type":"Point"}
+}

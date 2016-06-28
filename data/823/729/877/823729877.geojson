@@ -1,0 +1,73 @@
+{
+  "id": 823729877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.264271,41.308131,-73.264271,41.308131",
+    "geom:latitude":41.308131,
+    "geom:longitude":-73.264271,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Patmar Dr",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 270 3300",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vcEoKg3DHI4XjnDenxDY4_41.308131_-73.264271@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444899,
+    "wof:geomhash":"03266f1597f16d765e745d06d515b67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823729877
+        }
+    ],
+    "wof:id":823729877,
+    "wof:lastmodified":1466424646,
+    "wof:name":"M D'Eramo Plumbing & Heating",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.264271,
+    41.308131,
+    -73.264271,
+    41.308131
+],
+  "geometry": {"coordinates":[-73.26427099999999,41.308131],"type":"Point"}
+}

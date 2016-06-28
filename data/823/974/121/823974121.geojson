@@ -1,0 +1,79 @@
+{
+  "id": 823974121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.455684,41.388369,-73.455684,41.388369",
+    "geom:latitude":41.388369,
+    "geom:longitude":-73.455684,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Spruce St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 1143",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07QShP9ceK6bhyROH7bJEP_41.388369_-73.455684@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451337,
+    "wof:geomhash":"d8d9d86d83fd349d627704017a592760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823974121
+        }
+    ],
+    "wof:id":823974121,
+    "wof:lastmodified":1466426436,
+    "wof:name":"Jack's TV Repair",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -73.455684,
+    41.388369,
+    -73.455684,
+    41.388369
+],
+  "geometry": {"coordinates":[-73.45568400000001,41.388369],"type":"Point"}
+}

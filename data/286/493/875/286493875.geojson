@@ -2,13 +2,14 @@
   "id": 286493875,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.694838,41.062765,-73.694838,41.062765",
     "geom:latitude":41.062765,
     "geom:longitude":-73.694838,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1241 King St",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":286493875,
-    "wof:lastmodified":1449016115,
+    "wof:lastmodified":1466421111,
     "wof:name":"Walter Campbell Pga Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "give"
     ]
 },
-  "bbox": [-73.694838,41.062765,-73.694838,41.062765],
+  "bbox": [
+    -73.694838,
+    41.062765,
+    -73.694838,
+    41.062765
+],
   "geometry": {"coordinates":[-73.694838,41.062765],"type":"Point"}
 }

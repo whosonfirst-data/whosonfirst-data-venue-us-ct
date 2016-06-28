@@ -1,0 +1,78 @@
+{
+  "id": 824086531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.301003,42.0172,-73.301003,42.0172",
+    "geom:latitude":42.0172,
+    "geom:longitude":-73.301003,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Trescott Hill Rd",
+    "sg:city":"Canaan",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 824 4607",
+    "sg:postcode":"06018",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841753,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_018woBy9S253R9jZwQFxUf_42.017200_-73.301003@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454008,
+    "wof:geomhash":"fe5ee9857ae2e42e6ecd64212e3bf8d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85841753,
+            "region_id":85688629,
+            "venue_id":824086531
+        }
+    ],
+    "wof:id":824086531,
+    "wof:lastmodified":1466422999,
+    "wof:name":"Auto Buff",
+    "wof:parent_id":85841753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.301003,
+    42.0172,
+    -73.301003,
+    42.0172
+],
+  "geometry": {"coordinates":[-73.30100299999999,42.0172],"type":"Point"}
+}

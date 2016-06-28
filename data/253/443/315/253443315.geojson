@@ -2,13 +2,14 @@
   "id": 253443315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.629266,41.137963,-73.629266,41.137963",
     "geom:latitude":41.137963,
     "geom:longitude":-73.629266,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"420 Taconic Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":253443315,
-    "wof:lastmodified":1449065222,
+    "wof:lastmodified":1466421109,
     "wof:name":"Medical Cybernetics Inc",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-73.629266,41.137963,-73.629266,41.137963],
+  "bbox": [
+    -73.629266,
+    41.137963,
+    -73.629266,
+    41.137963
+],
   "geometry": {"coordinates":[-73.629266,41.137963],"type":"Point"}
 }

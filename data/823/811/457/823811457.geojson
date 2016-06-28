@@ -1,0 +1,83 @@
+{
+  "id": 823811457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.404455,41.10186,-73.404455,41.10186",
+    "geom:latitude":41.10186,
+    "geom:longitude":-73.404455,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Van Zant St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 866 7474",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "general",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816631,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fwdl2gNl5cPKkrLyr6qsa_41.101860_-73.404455@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447050,
+    "wof:geomhash":"36f20e8132bdda4ac0c941b0be957fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":823811457
+        }
+    ],
+    "wof:id":823811457,
+    "wof:lastmodified":1466425250,
+    "wof:name":"Bonenfant Alignment Service",
+    "wof:parent_id":85816631,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "general",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.404455,
+    41.10186,
+    -73.404455,
+    41.10186
+],
+  "geometry": {"coordinates":[-73.404455,41.10186],"type":"Point"}
+}

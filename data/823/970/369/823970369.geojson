@@ -1,0 +1,77 @@
+{
+  "id": 823970369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.189449,41.178903,-73.189449,41.178903",
+    "geom:latitude":41.178903,
+    "geom:longitude":-73.189449,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1061 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 579 6239",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876483,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x5qBevVA0Euxp6CxytDOV_41.178903_-73.189449@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451265,
+    "wof:geomhash":"ff27a67004ae33c3fff8f9f72b5aec22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876483,
+            "region_id":85688629,
+            "venue_id":823970369
+        }
+    ],
+    "wof:id":823970369,
+    "wof:lastmodified":1466426591,
+    "wof:name":"Fairfield County Sheriff",
+    "wof:parent_id":85876483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -73.189449,
+    41.178903,
+    -73.189449,
+    41.178903
+],
+  "geometry": {"coordinates":[-73.189449,41.178903],"type":"Point"}
+}

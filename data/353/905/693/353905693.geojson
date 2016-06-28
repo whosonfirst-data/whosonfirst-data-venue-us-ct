@@ -2,13 +2,14 @@
   "id": 353905693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.694162,41.054803,-73.694162,41.054803",
     "geom:latitude":41.054803,
     "geom:longitude":-73.694162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27 Legendary Cir",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":353905693,
-    "wof:lastmodified":1449019268,
+    "wof:lastmodified":1466421134,
     "wof:name":"Out of Box",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "mill"
     ]
 },
-  "bbox": [-73.694162,41.054803,-73.694162,41.054803],
-  "geometry": {"coordinates":[-73.694162,41.054803],"type":"Point"}
+  "bbox": [
+    -73.694162,
+    41.054803,
+    -73.694162,
+    41.054803
+],
+  "geometry": {"coordinates":[-73.69416200000001,41.054803],"type":"Point"}
 }

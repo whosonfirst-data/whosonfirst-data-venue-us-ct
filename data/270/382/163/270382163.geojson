@@ -2,13 +2,14 @@
   "id": 270382163,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.491547,41.141423,-73.491547,41.141423",
     "geom:latitude":41.141423,
     "geom:longitude":-73.491547,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"147 South Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":270382163,
-    "wof:lastmodified":1449009265,
+    "wof:lastmodified":1466421101,
     "wof:name":"New Canaan Podiatry Assoc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.491547,41.141423,-73.491547,41.141423],
+  "bbox": [
+    -73.491547,
+    41.141423,
+    -73.491547,
+    41.141423
+],
   "geometry": {"coordinates":[-73.491547,41.141423],"type":"Point"}
 }

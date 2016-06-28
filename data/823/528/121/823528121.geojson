@@ -1,0 +1,71 @@
+{
+  "id": 823528121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.251121,41.793986,-73.251121,41.793986",
+    "geom:latitude":41.793986,
+    "geom:longitude":-73.251121,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Wynwood Ct",
+    "sg:city":"Goshen",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06756",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816203,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LHa5jc4S87VMy3S4Q7SVV_41.793986_-73.251121@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440217,
+    "wof:geomhash":"3bc5f1da319844149969a8bb5e734132",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816203,
+            "region_id":85688629,
+            "venue_id":823528121
+        }
+    ],
+    "wof:id":823528121,
+    "wof:lastmodified":1466422234,
+    "wof:name":"Joseph Rechtschaffen Dr",
+    "wof:parent_id":85816203,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -73.251121,
+    41.793986,
+    -73.251121,
+    41.793986
+],
+  "geometry": {"coordinates":[-73.251121,41.793986],"type":"Point"}
+}

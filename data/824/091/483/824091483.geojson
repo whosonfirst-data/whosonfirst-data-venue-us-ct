@@ -1,0 +1,66 @@
+{
+  "id": 824091483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.798103,41.8857,-72.798103,41.8857",
+    "geom:latitude":41.8857,
+    "geom:longitude":-72.798103,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"995 Hopmeadow St",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 408 5300",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826319,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WJQfdOZIKM4QYEk8HD6PH_41.885700_-72.798103@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454119,
+    "wof:geomhash":"7721c5499acbe8c943ca94e47a64d8f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826319,
+            "region_id":85688629,
+            "venue_id":824091483
+        }
+    ],
+    "wof:id":824091483,
+    "wof:lastmodified":1466422863,
+    "wof:name":"Centennial Theater",
+    "wof:parent_id":85826319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.798103,
+    41.8857,
+    -72.798103,
+    41.8857
+],
+  "geometry": {"coordinates":[-72.798103,41.8857],"type":"Point"}
+}

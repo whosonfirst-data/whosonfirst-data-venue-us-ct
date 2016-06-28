@@ -1,0 +1,73 @@
+{
+  "id": 823790381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.29484,41.281379,-73.29484,41.281379",
+    "geom:latitude":41.281379,
+    "geom:longitude":-73.29484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"26 Stepney Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 7900",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MBnvnfs2srno3FFec9wzX_41.281379_-73.294840@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446432,
+    "wof:geomhash":"91c19012943f703a5b344697eacf6d99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823790381
+        }
+    ],
+    "wof:id":823790381,
+    "wof:lastmodified":1466425049,
+    "wof:name":"Environmental Container Svc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.29484,
+    41.281379,
+    -73.29484,
+    41.281379
+],
+  "geometry": {"coordinates":[-73.29483999999999,41.281379],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823671635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.247884,41.320215,-73.247884,41.320215",
+    "geom:latitude":41.320215,
+    "geom:longitude":-73.247884,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Old Colony Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 1428",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DMoFWypga1BjfIChoxBp8_41.320215_-73.247884@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443610,
+    "wof:geomhash":"afdc731d9480fd0c25a91063ed99f79e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823671635
+        }
+    ],
+    "wof:id":823671635,
+    "wof:lastmodified":1466423759,
+    "wof:name":"Red Oak Contractors",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.247884,
+    41.320215,
+    -73.247884,
+    41.320215
+],
+  "geometry": {"coordinates":[-73.247884,41.320215],"type":"Point"}
+}

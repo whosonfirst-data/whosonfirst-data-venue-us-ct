@@ -1,0 +1,89 @@
+{
+  "id": 823880327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.742407,41.660548,-72.742407,41.660548",
+    "geom:latitude":41.660548,
+    "geom:longitude":-72.742407,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"73 Winslow Dr",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 666 3422",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85930815,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vUBYCpzBWS2ffEzLv31FB_41.660548_-72.742407@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448977,
+    "wof:geomhash":"ba4762c0e29541b87cf17544aa524237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823880327
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823880327
+        }
+    ],
+    "wof:id":823880327,
+    "wof:lastmodified":1466425941,
+    "wof:name":"Michael A Fazzino",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.742407,
+    41.660548,
+    -72.742407,
+    41.660548
+],
+  "geometry": {"coordinates":[-72.742407,41.660548],"type":"Point"}
+}

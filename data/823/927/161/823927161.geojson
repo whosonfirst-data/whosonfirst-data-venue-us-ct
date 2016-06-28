@@ -1,0 +1,73 @@
+{
+  "id": 823927161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.381294,41.931166,-73.381294,41.931166",
+    "geom:latitude":41.931166,
+    "geom:longitude":-73.381294,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"480 Lime Rock Rd",
+    "sg:city":"Lakeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 0156",
+    "sg:postcode":"06039",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85830509,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Defrf1hLdcyTstioapLUA_41.931166_-73.381294@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450181,
+    "wof:geomhash":"0b5ff684e5221789e85195d3a350bd83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85830509,
+            "region_id":85688629,
+            "venue_id":823927161
+        }
+    ],
+    "wof:id":823927161,
+    "wof:lastmodified":1466426199,
+    "wof:name":"De Angelis Company",
+    "wof:parent_id":85830509,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.381294,
+    41.931166,
+    -73.381294,
+    41.931166
+],
+  "geometry": {"coordinates":[-73.381294,41.931166],"type":"Point"}
+}

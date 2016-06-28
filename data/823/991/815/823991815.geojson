@@ -1,0 +1,71 @@
+{
+  "id": 823991815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.549033,41.775296,-72.549033,41.775296",
+    "geom:latitude":41.775296,
+    "geom:longitude":-72.549033,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"630 Center St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tPyWWjFzhh5pkyzYKUChL_41.775296_-72.549033@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451761,
+    "wof:geomhash":"511a0ebdcf7d3db04fd46fc196927e51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823991815
+        }
+    ],
+    "wof:id":823991815,
+    "wof:lastmodified":1466426842,
+    "wof:name":"Dynalube",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -72.549033,
+    41.775296,
+    -72.549033,
+    41.775296
+],
+  "geometry": {"coordinates":[-72.54903299999999,41.775296],"type":"Point"}
+}

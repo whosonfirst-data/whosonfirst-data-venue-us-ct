@@ -1,0 +1,81 @@
+{
+  "id": 823986355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.575706,41.990929,-72.575706,41.990929",
+    "geom:latitude":41.990929,
+    "geom:longitude":-72.575706,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Cranbrook Dr",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "lube",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kHmWA4t3Qo8ZT4ms2IplJ_41.990929_-72.575706@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451637,
+    "wof:geomhash":"503457d0afc63e7f1e3a8b7b4b24d4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":823986355
+        }
+    ],
+    "wof:id":823986355,
+    "wof:lastmodified":1466426688,
+    "wof:name":"In and Out Oil & Lube Center",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "lube",
+        "center"
+    ]
+},
+  "bbox": [
+    -72.575706,
+    41.990929,
+    -72.575706,
+    41.990929
+],
+  "geometry": {"coordinates":[-72.575706,41.990929],"type":"Point"}
+}

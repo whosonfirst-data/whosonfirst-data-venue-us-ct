@@ -1,0 +1,73 @@
+{
+  "id": 824021261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.895445,41.342239,-72.895445,41.342239",
+    "geom:latitude":41.342239,
+    "geom:longitude":-72.895445,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2240 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 865 5768",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cheese",
+        "processor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43EVhwhcY4MTTYUpR5Mlai_41.342239_-72.895445@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452451,
+    "wof:geomhash":"80e81a2e8e04673a614f5af7554e6360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":824021261
+        }
+    ],
+    "wof:id":824021261,
+    "wof:lastmodified":1466421534,
+    "wof:name":"Elm City Cheese Co Inc",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheese",
+        "processor"
+    ]
+},
+  "bbox": [
+    -72.895445,
+    41.342239,
+    -72.895445,
+    41.342239
+],
+  "geometry": {"coordinates":[-72.895445,41.342239],"type":"Point"}
+}

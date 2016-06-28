@@ -1,0 +1,75 @@
+{
+  "id": 823634333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9225,41.3914,-72.9225,41.3914",
+    "geom:latitude":41.3914,
+    "geom:longitude":-72.9225,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1270 Sherman Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 281 7555",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85810171,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Bs21vrB6mEq65U38BHvjt_41.391400_-72.922500@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442718,
+    "wof:geomhash":"0c8f73fc12a766c87368bde9b9fde4ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823634333
+        }
+    ],
+    "wof:id":823634333,
+    "wof:lastmodified":1466423648,
+    "wof:name":"Hamden Health Care Center",
+    "wof:parent_id":85810171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -72.9225,
+    41.3914,
+    -72.9225,
+    41.3914
+],
+  "geometry": {"coordinates":[-72.9225,41.3914],"type":"Point"}
+}

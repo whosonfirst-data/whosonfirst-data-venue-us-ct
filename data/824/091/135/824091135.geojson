@@ -1,0 +1,80 @@
+{
+  "id": 824091135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.478186,41.885733,-73.478186,41.885733",
+    "geom:latitude":41.885733,
+    "geom:longitude":-73.478186,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Millerton Rd",
+    "sg:city":"Sharon",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 364 6008",
+    "sg:postcode":"06069",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688543,
+        85633793,
+        85850959,
+        102082363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XjYXrQcoO6wtoKLuV0Yhe_41.885733_-73.478186@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454111,
+    "wof:geomhash":"a1a7703f84345d302e17569ca9075707",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082363,
+            "neighbourhood_id":85850959,
+            "region_id":85688543,
+            "venue_id":824091135
+        }
+    ],
+    "wof:id":824091135,
+    "wof:lastmodified":1466422826,
+    "wof:name":"Dbo Home",
+    "wof:parent_id":85850959,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.478186,
+    41.885733,
+    -73.478186,
+    41.885733
+],
+  "geometry": {"coordinates":[-73.47818599999999,41.885733],"type":"Point"}
+}

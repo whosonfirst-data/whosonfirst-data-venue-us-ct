@@ -1,0 +1,86 @@
+{
+  "id": 824114229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.416168,41.408039,-73.416168,41.408039",
+    "geom:latitude":41.408039,
+    "geom:longitude":-73.416168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Newtown Rd Ste 10",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 830 6955",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aiNtiV67KHxpfb1YCUlbj_41.408039_-73.416168@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454643,
+    "wof:geomhash":"2e75633cd2dd49a4493afc7edd7acb9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":824114229
+        }
+    ],
+    "wof:id":824114229,
+    "wof:lastmodified":1466423301,
+    "wof:name":"Union Savings Bank",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -73.416168,
+    41.408039,
+    -73.416168,
+    41.408039
+],
+  "geometry": {"coordinates":[-73.416168,41.408039],"type":"Point"}
+}

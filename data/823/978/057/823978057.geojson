@@ -1,0 +1,71 @@
+{
+  "id": 823978057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.257295,41.336199,-73.257295,41.336199",
+    "geom:latitude":41.336199,
+    "geom:longitude":-73.257295,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 May Ct",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CRlROiH9ghh6bwjpr3rox_41.336199_-73.257295@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451429,
+    "wof:geomhash":"c2c5e19ff3b145200e893eec0850bd51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823978057
+        }
+    ],
+    "wof:id":823978057,
+    "wof:lastmodified":1466426771,
+    "wof:name":"Ryders Health Mgt",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -73.257295,
+    41.336199,
+    -73.257295,
+    41.336199
+],
+  "geometry": {"coordinates":[-73.257295,41.336199],"type":"Point"}
+}

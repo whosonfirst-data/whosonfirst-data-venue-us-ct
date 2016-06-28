@@ -1,0 +1,83 @@
+{
+  "id": 824051809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.014836,41.218196,-73.014836,41.218196",
+    "geom:latitude":41.218196,
+    "geom:longitude":-73.014836,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"143 Bird Ln",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 874 5098",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835257,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r9z6RCRgbOGJyyvec1xTI_41.218196_-73.014836@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453208,
+    "wof:geomhash":"48d1535388d9e7c368db05bc2c0caa10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85835257,
+            "region_id":85688629,
+            "venue_id":824051809
+        }
+    ],
+    "wof:id":824051809,
+    "wof:lastmodified":1466422161,
+    "wof:name":"Robert H Miller",
+    "wof:parent_id":85835257,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.014836,
+    41.218196,
+    -73.014836,
+    41.218196
+],
+  "geometry": {"coordinates":[-73.014836,41.218196],"type":"Point"}
+}

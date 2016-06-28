@@ -1,0 +1,71 @@
+{
+  "id": 824072555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.405028,41.44253,-73.405028,41.44253",
+    "geom:latitude":41.44253,
+    "geom:longitude":-73.405028,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"201 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 740 3800",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XwoVeomDpp9eGoiceII7h_41.442882_-73.404864@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453683,
+    "wof:geomhash":"a5b915d81256152135f0226f49000496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824072555
+        }
+    ],
+    "wof:id":824072555,
+    "wof:lastmodified":1466422451,
+    "wof:name":"Bob's Discount Furniture",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -73.405028,
+    41.44253,
+    -73.405028,
+    41.44253
+],
+  "geometry": {"coordinates":[-73.405028,41.44253],"type":"Point"}
+}

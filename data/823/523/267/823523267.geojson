@@ -1,0 +1,71 @@
+{
+  "id": 823523267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.697827,41.519328,-72.697827,41.519328",
+    "geom:latitude":41.519328,
+    "geom:longitude":-72.697827,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Cherry Hill Rd",
+    "sg:city":"Middlefield",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06455",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804219,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A5rU9W8wl7yoLSsB2RQan_41.519328_-72.697827@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440100,
+    "wof:geomhash":"daaf2a0b698e1ff31cdfd5dd94dc2b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85804219,
+            "region_id":85688629,
+            "venue_id":823523267
+        }
+    ],
+    "wof:id":823523267,
+    "wof:lastmodified":1466422058,
+    "wof:name":"Mikes Machine Repair",
+    "wof:parent_id":85804219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.697827,
+    41.519328,
+    -72.697827,
+    41.519328
+],
+  "geometry": {"coordinates":[-72.697827,41.519328],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823842377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.278565,41.357389,-73.278565,41.357389",
+    "geom:latitude":41.357389,
+    "geom:longitude":-73.278565,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Pine Tree Hill Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 2776",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826573,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53iFMtFua8xD9PPDOODQX6_41.357389_-73.278565@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448001,
+    "wof:geomhash":"f2c11521ae29f0ea0d25194b793780dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
+            "region_id":85688629,
+            "venue_id":823842377
+        }
+    ],
+    "wof:id":823842377,
+    "wof:lastmodified":1466425486,
+    "wof:name":"Advanced Appliance Service",
+    "wof:parent_id":85826573,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.278565,
+    41.357389,
+    -73.278565,
+    41.357389
+],
+  "geometry": {"coordinates":[-73.278565,41.357389],"type":"Point"}
+}

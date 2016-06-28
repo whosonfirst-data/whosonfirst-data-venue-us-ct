@@ -1,0 +1,85 @@
+{
+  "id": 824120627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.605695,41.156743,-73.605695,41.156743",
+    "geom:latitude":41.156743,
+    "geom:longitude":-73.605695,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"185 Echo Hill Dr",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 329 9712",
+    "sg:postcode":"06903",
+    "sg:province":"CT",
+    "sg:tags":[
+        "charity",
+        "foundations-educational",
+        "philanthropic",
+        "research"
+    ],
+    "sg:website":"http://www.cardinalkungfoundation.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930787,
+        102084283,
+        85838073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kinWiud0Bx2oZwOBIm6jR_41.156743_-73.605695@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454776,
+    "wof:geomhash":"0c66e40871cf4ca4d410cdffc82ec9ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930787,
+            "neighbourhood_id":85838073,
+            "region_id":85688629,
+            "venue_id":824120627
+        }
+    ],
+    "wof:id":824120627,
+    "wof:lastmodified":1466423367,
+    "wof:name":"Cardinal Kung Foundation",
+    "wof:parent_id":85838073,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charity",
+        "foundations-educational",
+        "philanthropic",
+        "research"
+    ]
+},
+  "bbox": [
+    -73.605695,
+    41.156743,
+    -73.605695,
+    41.156743
+],
+  "geometry": {"coordinates":[-73.605695,41.156743],"type":"Point"}
+}

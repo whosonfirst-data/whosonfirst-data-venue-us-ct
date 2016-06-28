@@ -1,0 +1,71 @@
+{
+  "id": 823835999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.85115,41.27648,-72.85115,41.27648",
+    "geom:latitude":41.27648,
+    "geom:longitude":-72.85115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Thistle Meadow Ln",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 5520",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00GrNoTXvOoVAy3x6pGY9c_41.276480_-72.851150@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447798,
+    "wof:geomhash":"8915f23af606b5db3d890d205ecc2eeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823835999
+        }
+    ],
+    "wof:id":823835999,
+    "wof:lastmodified":1466425607,
+    "wof:name":"N & V Piscitelli Painting Inc",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -72.85115,
+    41.27648,
+    -72.85115,
+    41.27648
+],
+  "geometry": {"coordinates":[-72.85115,41.27648],"type":"Point"}
+}

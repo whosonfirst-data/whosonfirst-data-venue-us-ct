@@ -1,0 +1,71 @@
+{
+  "id": 823476403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.376107,41.549623,-73.376107,41.549623",
+    "geom:latitude":41.549623,
+    "geom:longitude":-73.376107,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Ben Whitney Ln",
+    "sg:city":"Bridgewater",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 355 8029",
+    "sg:postcode":"06752",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sejGNYXd3G1e0INWNFoGQ_41.549623_-73.376107@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438985,
+    "wof:geomhash":"e08ecece4b1d5d3f8698d452f031d84f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":823476403
+        }
+    ],
+    "wof:id":823476403,
+    "wof:lastmodified":1466421290,
+    "wof:name":"Old Ridge Bldg Corp",
+    "wof:parent_id":85829729,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.376107,
+    41.549623,
+    -73.376107,
+    41.549623
+],
+  "geometry": {"coordinates":[-73.376107,41.549623],"type":"Point"}
+}

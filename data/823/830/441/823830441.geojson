@@ -1,0 +1,75 @@
+{
+  "id": 823830441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.813194,41.520009,-72.813194,41.520009",
+    "geom:latitude":41.520009,
+    "geom:longitude":-72.813194,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"812 Old Colony Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 237 9877",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qXkOuALJ3DwmbzKkQDvFC_41.520009_-72.813194@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447619,
+    "wof:geomhash":"c88d4e2d9a25b06837baff7ff340aba6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823830441
+        }
+    ],
+    "wof:id":823830441,
+    "wof:lastmodified":1466425274,
+    "wof:name":"Meriden Transmission Service",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "transmission"
+    ]
+},
+  "bbox": [
+    -72.813194,
+    41.520009,
+    -72.813194,
+    41.520009
+],
+  "geometry": {"coordinates":[-72.813194,41.520009],"type":"Point"}
+}

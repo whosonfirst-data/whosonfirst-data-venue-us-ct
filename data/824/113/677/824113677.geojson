@@ -1,0 +1,72 @@
+{
+  "id": 824113677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.455345,41.392275,-73.455345,41.392275",
+    "geom:latitude":41.392275,
+    "geom:longitude":-73.455345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 West St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 794 9259",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X4dJOhhiq2jayoHOnYbtu_41.392275_-73.455345@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454633,
+    "wof:geomhash":"2bb61db6879684a917cb5fabc3c2788f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":824113677
+        }
+    ],
+    "wof:id":824113677,
+    "wof:lastmodified":1466423227,
+    "wof:name":"P & M Auto Repair",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.455345,
+    41.392275,
+    -73.455345,
+    41.392275
+],
+  "geometry": {"coordinates":[-73.45534499999999,41.392275],"type":"Point"}
+}

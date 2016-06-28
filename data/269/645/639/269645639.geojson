@@ -2,13 +2,14 @@
   "id": 269645639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.482142,41.12048,-73.482142,41.12048",
     "geom:latitude":41.12048,
     "geom:longitude":-73.482142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26 Gerdes Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":269645639,
-    "wof:lastmodified":1449036393,
+    "wof:lastmodified":1466421099,
     "wof:name":"Linden Elwin E Pe",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.482142,41.12048,-73.482142,41.12048],
+  "bbox": [
+    -73.482142,
+    41.12048,
+    -73.482142,
+    41.12048
+],
   "geometry": {"coordinates":[-73.482142,41.12048],"type":"Point"}
 }

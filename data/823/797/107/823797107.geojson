@@ -1,0 +1,79 @@
+{
+  "id": 823797107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.43718,41.399441,-73.43718,41.399441",
+    "geom:latitude":41.399441,
+    "geom:longitude":-73.43718,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"256 White St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 791 2216",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IJchsEorn3eb7cV2vvO1o_41.399441_-73.437180@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446634,
+    "wof:geomhash":"aae153f9936ea6d8da3f50e4745d5405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823797107
+        }
+    ],
+    "wof:id":823797107,
+    "wof:lastmodified":1466425065,
+    "wof:name":"Accurate Lock and Safe",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -73.43718,
+    41.399441,
+    -73.43718,
+    41.399441
+],
+  "geometry": {"coordinates":[-73.43718,41.399441],"type":"Point"}
+}

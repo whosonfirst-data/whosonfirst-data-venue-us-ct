@@ -1,0 +1,84 @@
+{
+  "id": 824093283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.519213,41.983964,-72.519213,41.983964",
+    "geom:latitude":41.983964,
+    "geom:longitude":-72.519213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Springborn Ctr",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 749 8371",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "development",
+        "analytical",
+        "laboratories-research",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13BFqblDBjVbJgMI219MoU_41.983964_-72.519213@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454158,
+    "wof:geomhash":"1075773cc9a8ef7bbfa04945273f96f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824093283
+        }
+    ],
+    "wof:id":824093283,
+    "wof:lastmodified":1466422892,
+    "wof:name":"Str",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "analytical",
+        "laboratories-research",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.519213,
+    41.983964,
+    -72.519213,
+    41.983964
+],
+  "geometry": {"coordinates":[-72.51921299999999,41.983964],"type":"Point"}
+}

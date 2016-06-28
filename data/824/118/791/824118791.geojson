@@ -1,0 +1,85 @@
+{
+  "id": 824118791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.349688,41.139767,-73.349688,41.139767",
+    "geom:latitude":41.139767,
+    "geom:longitude":-73.349688,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"455 Post Rd E",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 4137",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "society",
+        "humane"
+    ],
+    "sg:website":"http://www.cthumane.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yi2PBbjeT4Dwr1JrfYH1O_41.139767_-73.349688@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454742,
+    "wof:geomhash":"370dc35ee8044caa2008318e7303869d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":824118791
+        }
+    ],
+    "wof:id":824118791,
+    "wof:lastmodified":1466423330,
+    "wof:name":"Connecticut Humane Society",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "society",
+        "humane"
+    ]
+},
+  "bbox": [
+    -73.349688,
+    41.139767,
+    -73.349688,
+    41.139767
+],
+  "geometry": {"coordinates":[-73.349688,41.139767],"type":"Point"}
+}

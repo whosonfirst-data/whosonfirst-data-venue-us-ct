@@ -1,0 +1,79 @@
+{
+  "id": 823700289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.452517,41.398098,-73.452517,41.398098",
+    "geom:latitude":41.398098,
+    "geom:longitude":-73.452517,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Crosby St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 743 5393",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xyCkGx44CMAuiCIRAMyUC_41.398098_-73.452517@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444242,
+    "wof:geomhash":"fcc7f17c2e90f801589af5ee3e5b9753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823700289
+        }
+    ],
+    "wof:id":823700289,
+    "wof:lastmodified":1466424234,
+    "wof:name":"Art's Cleaners",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "agent"
+    ]
+},
+  "bbox": [
+    -73.452517,
+    41.398098,
+    -73.452517,
+    41.398098
+],
+  "geometry": {"coordinates":[-73.452517,41.398098],"type":"Point"}
+}

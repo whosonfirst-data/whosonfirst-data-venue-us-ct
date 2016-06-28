@@ -1,0 +1,73 @@
+{
+  "id": 823568071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.731896,41.878476,-72.731896,41.878476",
+    "geom:latitude":41.878476,
+    "geom:longitude":-72.731896,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Griffin Rd N",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 285 7000",
+    "sg:postcode":"06006",
+    "sg:province":"CT",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49A0uE2T3f0le4fXsdvADc_41.878476_-72.731896@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441137,
+    "wof:geomhash":"fa1b15cdedc3e0ee4d4fa8f39005cb25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":823568071
+        }
+    ],
+    "wof:id":823568071,
+    "wof:lastmodified":1466422785,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -72.731896,
+    41.878476,
+    -72.731896,
+    41.878476
+],
+  "geometry": {"coordinates":[-72.73189600000001,41.878476],"type":"Point"}
+}

@@ -2,13 +2,14 @@
   "id": 354034047,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.50999,41.119777,-73.50999,41.119777",
     "geom:latitude":41.119777,
     "geom:longitude":-73.50999,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"158 Jelliff Mill Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":354034047,
-    "wof:lastmodified":1449066124,
+    "wof:lastmodified":1466421135,
     "wof:name":"Geri Care Connection LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "registry"
     ]
 },
-  "bbox": [-73.50999,41.119777,-73.50999,41.119777],
+  "bbox": [
+    -73.50999,
+    41.119777,
+    -73.50999,
+    41.119777
+],
   "geometry": {"coordinates":[-73.50999,41.119777],"type":"Point"}
 }

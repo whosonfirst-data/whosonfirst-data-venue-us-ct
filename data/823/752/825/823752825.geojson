@@ -1,0 +1,66 @@
+{
+  "id": 823752825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.384233,41.456611,-73.384233,41.456611",
+    "geom:latitude":41.456611,
+    "geom:longitude":-73.384233,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Sunset Hill Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rCd8eqNEt2zXztIjMqTJr_41.456611_-73.384233@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445447,
+    "wof:geomhash":"91dcf957d5c41a20a906d206c31592dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823752825
+        }
+    ],
+    "wof:id":823752825,
+    "wof:lastmodified":1466424760,
+    "wof:name":"Childcare Discovery Center",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.384233,
+    41.456611,
+    -73.384233,
+    41.456611
+],
+  "geometry": {"coordinates":[-73.38423299999999,41.456611],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823468273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.430478,41.206704,-73.430478,41.206704",
+    "geom:latitude":41.206704,
+    "geom:longitude":-73.430478,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"390 Danbury Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 834 2915",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809271,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L2LC0OCTeEbThKt3nWGto_41.206704_-73.430478@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463438798,
+    "wof:geomhash":"3e419eed29161ce07fcf2d7960873bf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823468273
+        }
+    ],
+    "wof:id":823468273,
+    "wof:lastmodified":1466421351,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85809271,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -73.430478,
+    41.206704,
+    -73.430478,
+    41.206704
+],
+  "geometry": {"coordinates":[-73.43047799999999,41.206704],"type":"Point"}
+}

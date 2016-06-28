@@ -1,0 +1,66 @@
+{
+  "id": 824104901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.376801,41.2966,-72.376801,41.2966",
+    "geom:latitude":41.2966,
+    "geom:longitude":-72.376801,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Main St",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 1270",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w34zhF2STYIiCBQ8znhmI_41.296600_-72.376801@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454443,
+    "wof:geomhash":"4005c76622300422593a2eedfef28a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824104901
+        }
+    ],
+    "wof:id":824104901,
+    "wof:lastmodified":1466423230,
+    "wof:name":"Cafe Toscana",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.376801,
+    41.2966,
+    -72.376801,
+    41.2966
+],
+  "geometry": {"coordinates":[-72.376801,41.2966],"type":"Point"}
+}

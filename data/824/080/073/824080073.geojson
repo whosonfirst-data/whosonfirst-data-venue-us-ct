@@ -1,0 +1,80 @@
+{
+  "id": 824080073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226498,41.17646,-73.226498,41.17646",
+    "geom:latitude":41.17646,
+    "geom:longitude":-73.226498,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Tunxis Hill Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/fairfield/18872-pizza-post/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 367 6222",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TKeVxoaabiuptg2zTNrrq_41.176460_-73.226498@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453854,
+    "wof:geomhash":"a1f505027069e8153d6d27c6497c0866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824080073
+        }
+    ],
+    "wof:id":824080073,
+    "wof:lastmodified":1466422543,
+    "wof:name":"Pizza Post",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.226498,
+    41.17646,
+    -73.226498,
+    41.17646
+],
+  "geometry": {"coordinates":[-73.22649800000001,41.17646],"type":"Point"}
+}

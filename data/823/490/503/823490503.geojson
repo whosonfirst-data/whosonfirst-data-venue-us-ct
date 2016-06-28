@@ -1,0 +1,81 @@
+{
+  "id": 823490503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031388,41.506649,-73.031388,41.506649",
+    "geom:latitude":41.506649,
+    "geom:longitude":-73.031388,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Union City Rd",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 729 8991",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842181,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cbl5UwtI4TwYFuQVhFfJO_41.506649_-73.031388@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439320,
+    "wof:geomhash":"3b5f68823ad2fc4550344a78730d99f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85842181,
+            "region_id":85688629,
+            "venue_id":823490503
+        }
+    ],
+    "wof:id":823490503,
+    "wof:lastmodified":1466421508,
+    "wof:name":"D & W Auto Electric Inc",
+    "wof:parent_id":85842181,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -73.031388,
+    41.506649,
+    -73.031388,
+    41.506649
+],
+  "geometry": {"coordinates":[-73.03138800000001,41.506649],"type":"Point"}
+}

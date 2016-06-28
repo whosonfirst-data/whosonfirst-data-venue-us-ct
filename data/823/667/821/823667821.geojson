@@ -1,0 +1,73 @@
+{
+  "id": 823667821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81169,41.281419,-72.81169,41.281419",
+    "geom:latitude":41.281419,
+    "geom:longitude":-72.81169,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"954 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 481 5397",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IST9KXXLaR6xsE6yLzoHJ_41.281419_-72.811690@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443520,
+    "wof:geomhash":"48df05b48d32bafd610f29b6b0705f46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823667821
+        }
+    ],
+    "wof:id":823667821,
+    "wof:lastmodified":1466424049,
+    "wof:name":"Radiology Group",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -72.81169,
+    41.281419,
+    -72.81169,
+    41.281419
+],
+  "geometry": {"coordinates":[-72.81169,41.281419],"type":"Point"}
+}

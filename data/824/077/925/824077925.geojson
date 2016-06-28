@@ -1,0 +1,84 @@
+{
+  "id": 824077925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.915472,41.302872,-72.915472,41.302872",
+    "geom:latitude":41.302872,
+    "geom:longitude":-72.915472,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"127 Wooster St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-haven/257159-anastasios-ristorante/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 776 4825",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pasta",
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879175,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W69Ix5qnXtjHRmYjj23eF_41.302872_-72.915472@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453810,
+    "wof:geomhash":"71fb82f9e8e2c29d7e6184237fae1166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":85879175,
+            "region_id":85688629,
+            "venue_id":824077925
+        }
+    ],
+    "wof:id":824077925,
+    "wof:lastmodified":1466422621,
+    "wof:name":"Anastasio's Ristorante",
+    "wof:parent_id":85879175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pasta",
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -72.915472,
+    41.302872,
+    -72.915472,
+    41.302872
+],
+  "geometry": {"coordinates":[-72.91547199999999,41.302872],"type":"Point"}
+}

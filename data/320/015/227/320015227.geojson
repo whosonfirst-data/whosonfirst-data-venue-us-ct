@@ -2,13 +2,14 @@
   "id": 320015227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.657891,41.00723,-73.657891,41.00723",
     "geom:latitude":41.00723,
     "geom:longitude":-73.657891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"339 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":320015227,
-    "wof:lastmodified":1449012111,
+    "wof:lastmodified":1466421121,
     "wof:name":"D M C Auto Body",
     "wof:parent_id":85808713,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "body"
     ]
 },
-  "bbox": [-73.657891,41.00723,-73.657891,41.00723],
-  "geometry": {"coordinates":[-73.657891,41.00723],"type":"Point"}
+  "bbox": [
+    -73.657891,
+    41.00723,
+    -73.657891,
+    41.00723
+],
+  "geometry": {"coordinates":[-73.65789100000001,41.00723],"type":"Point"}
 }

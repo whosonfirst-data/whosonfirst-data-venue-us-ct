@@ -1,0 +1,66 @@
+{
+  "id": 823903471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819221,41.489769,-72.819221,41.489769",
+    "geom:latitude":41.489769,
+    "geom:longitude":-72.819221,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"413 Main St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 269 0555",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GPWvRnsc35Ntpw4zyUI8q_41.489769_-72.819221@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449558,
+    "wof:geomhash":"646143c9e16562fbf17e077e28adf534",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823903471
+        }
+    ],
+    "wof:id":823903471,
+    "wof:lastmodified":1466426016,
+    "wof:name":"Yalesville Package Store",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.819221,
+    41.489769,
+    -72.819221,
+    41.489769
+],
+  "geometry": {"coordinates":[-72.819221,41.489769],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823524395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.097449,41.261058,-73.097449,41.261058",
+    "geom:latitude":41.261058,
+    "geom:longitude":-73.097449,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Seneca Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 926 0050",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85839801,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TDQ7CXKv8OByFi3NpFaO6_41.261058_-73.097449@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440124,
+    "wof:geomhash":"7ad31d4dcb1f5dbbfa80a7fd12bc45c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":85839801,
+            "region_id":85688629,
+            "venue_id":823524395
+        }
+    ],
+    "wof:id":823524395,
+    "wof:lastmodified":1466422175,
+    "wof:name":"Pine Rock Auto Sales",
+    "wof:parent_id":85839801,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.097449,
+    41.261058,
+    -73.097449,
+    41.261058
+],
+  "geometry": {"coordinates":[-73.097449,41.261058],"type":"Point"}
+}

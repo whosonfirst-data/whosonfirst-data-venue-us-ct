@@ -1,0 +1,73 @@
+{
+  "id": 823560539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.167335,41.302582,-73.167335,41.302582",
+    "geom:latitude":41.302582,
+    "geom:longitude":-73.167335,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"92 High Ridge Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 365 0300",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fZRLaBatdGxrE52vThVyU_41.302582_-73.167335@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440954,
+    "wof:geomhash":"f5a7fe4183c42eee952b578a0cab0b56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823560539
+        }
+    ],
+    "wof:id":823560539,
+    "wof:lastmodified":1466422741,
+    "wof:name":"Pet Buddies",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.167335,
+    41.302582,
+    -73.167335,
+    41.302582
+],
+  "geometry": {"coordinates":[-73.16733499999999,41.302582],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823706317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.131611,41.199061,-73.131611,41.199061",
+    "geom:latitude":41.199061,
+    "geom:longitude":-73.131611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2876 Main St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 383 4466",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V4G1H3Q6CrZmKvgoSfSnF_41.199061_-73.131611@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444365,
+    "wof:geomhash":"be40b9b1567e05322f76464857cea059",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823706317
+        }
+    ],
+    "wof:id":823706317,
+    "wof:lastmodified":1466424290,
+    "wof:name":"Internal Medicine",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.131611,
+    41.199061,
+    -73.131611,
+    41.199061
+],
+  "geometry": {"coordinates":[-73.13161100000001,41.199061],"type":"Point"}
+}

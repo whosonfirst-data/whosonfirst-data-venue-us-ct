@@ -1,0 +1,89 @@
+{
+  "id": 824113721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.434883,41.399948,-73.434883,41.399948",
+    "geom:latitude":41.399948,
+    "geom:longitude":-73.434883,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"6 Federal Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 798 1981",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.lplc-llc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WnX3CLQT6qK1EsSWptefG_41.399948_-73.434883@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454634,
+    "wof:geomhash":"a24ba146ce4f26c34165782f49ec089c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824113721
+        }
+    ],
+    "wof:id":824113721,
+    "wof:lastmodified":1466423096,
+    "wof:name":"Little People Learning Center LLC",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -73.434883,
+    41.399948,
+    -73.434883,
+    41.399948
+],
+  "geometry": {"coordinates":[-73.434883,41.399948],"type":"Point"}
+}

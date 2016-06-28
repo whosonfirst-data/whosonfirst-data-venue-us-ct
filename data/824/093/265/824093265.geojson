@@ -1,0 +1,84 @@
+{
+  "id": 824093265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.601173,41.997181,-72.601173,41.997181",
+    "geom:latitude":41.997181,
+    "geom:longitude":-72.601173,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Prospect St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 741 6081",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "churches-episcopal-anglican",
+        "churches-episcopal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I7i1nYfCKx22aoELNkReu_41.997181_-72.601173@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454157,
+    "wof:geomhash":"82075c701992a1d142a186fb76a61c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824093265
+        }
+    ],
+    "wof:id":824093265,
+    "wof:lastmodified":1466422890,
+    "wof:name":"Saint Andrews Episcopal Church",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-episcopal-anglican",
+        "churches-episcopal"
+    ]
+},
+  "bbox": [
+    -72.601173,
+    41.997181,
+    -72.601173,
+    41.997181
+],
+  "geometry": {"coordinates":[-72.601173,41.997181],"type":"Point"}
+}

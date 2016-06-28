@@ -1,0 +1,93 @@
+{
+  "id": 824073403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.778034,41.670666,-72.778034,41.670666",
+    "geom:latitude":41.670666,
+    "geom:longitude":-72.778034,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"118 E Main St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-britain/129950-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 229 4422",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I9WGukfjNWNArqT96lfpG_41.670666_-72.778034@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453704,
+    "wof:geomhash":"8c7dfeca2680ccd3ff6eeee4810b4807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":824073403
+        }
+    ],
+    "wof:id":824073403,
+    "wof:lastmodified":1466422652,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.778034,
+    41.670666,
+    -72.778034,
+    41.670666
+],
+  "geometry": {"coordinates":[-72.77803400000001,41.670666],"type":"Point"}
+}

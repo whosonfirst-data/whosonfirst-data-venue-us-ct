@@ -1,0 +1,79 @@
+{
+  "id": 823661129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.679015,41.466139,-72.679015,41.466139",
+    "geom:latitude":41.466139,
+    "geom:longitude":-72.679015,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Main St",
+    "sg:city":"Durham",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06422",
+    "sg:province":"CT",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85815623,
+        102191575,
+        404496061,
+        85633793,
+        85931149,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LjsqseLoSc5De05dsZ1kM_41.466139_-72.679015@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443362,
+    "wof:geomhash":"c4048a69842933ea154331db22dffd39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404496061,
+            "locality_id":85931149,
+            "neighbourhood_id":85815623,
+            "region_id":85688629,
+            "venue_id":823661129
+        }
+    ],
+    "wof:id":823661129,
+    "wof:lastmodified":1466423872,
+    "wof:name":"MTA Video",
+    "wof:parent_id":85815623,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.679015,
+    41.466139,
+    -72.679015,
+    41.466139
+],
+  "geometry": {"coordinates":[-72.67901500000001,41.466139],"type":"Point"}
+}

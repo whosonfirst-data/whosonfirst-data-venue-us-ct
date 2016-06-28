@@ -2,13 +2,14 @@
   "id": 269915293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.65586,41.031887,-73.65586,41.031887",
     "geom:latitude":41.031887,
     "geom:longitude":-73.65586,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Flintlock Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":269915293,
-    "wof:lastmodified":1449038923,
+    "wof:lastmodified":1466421104,
     "wof:name":"Berolina Corp Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.65586,41.031887,-73.65586,41.031887],
+  "bbox": [
+    -73.65586,
+    41.031887,
+    -73.65586,
+    41.031887
+],
   "geometry": {"coordinates":[-73.65586,41.031887],"type":"Point"}
 }

@@ -1,0 +1,85 @@
+{
+  "id": 824096139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.84929,41.796552,-71.84929,41.796552",
+    "geom:latitude":41.796552,
+    "geom:longitude":-71.84929,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"551 Westcott Rd",
+    "sg:city":"Danielson",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 642 7392",
+    "sg:postcode":"06239",
+    "sg:province":"CT",
+    "sg:tags":[
+        "paint",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hvoxs1zfmnE4CYBCBIZ3p_41.796552_-71.849290@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454247,
+    "wof:geomhash":"98a5c96dc202dda38589fdae357c8f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":824096139
+        }
+    ],
+    "wof:id":824096139,
+    "wof:lastmodified":1466422896,
+    "wof:name":"Buy Rite True Value Building And Home Center",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "store"
+    ]
+},
+  "bbox": [
+    -71.84929,
+    41.796552,
+    -71.84929,
+    41.796552
+],
+  "geometry": {"coordinates":[-71.84929,41.796552],"type":"Point"}
+}

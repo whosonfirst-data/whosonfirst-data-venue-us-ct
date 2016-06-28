@@ -1,0 +1,73 @@
+{
+  "id": 823861043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.153182,41.464785,-73.153182,41.464785",
+    "geom:latitude":41.464785,
+    "geom:longitude":-73.153182,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"97 Willenbroch Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 262 1009",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18dH4nOFM7XCCynMrsT5XF_41.464785_-73.153182@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448518,
+    "wof:geomhash":"f3281f8db3816eb82de777ce508a81ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823861043
+        }
+    ],
+    "wof:id":823861043,
+    "wof:lastmodified":1466425641,
+    "wof:name":"Connecticut Concrete Constr",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.153182,
+    41.464785,
+    -73.153182,
+    41.464785
+],
+  "geometry": {"coordinates":[-73.153182,41.464785],"type":"Point"}
+}

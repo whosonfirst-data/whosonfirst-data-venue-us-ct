@@ -2,13 +2,14 @@
   "id": 253636863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.483795,41.146545,-73.483795,41.146545",
     "geom:latitude":41.146545,
     "geom:longitude":-73.483795,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"57 Millport Ave",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":253636863,
-    "wof:lastmodified":1449063999,
+    "wof:lastmodified":1466421109,
     "wof:name":"Toughlove International",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.483795,41.146545,-73.483795,41.146545],
+  "bbox": [
+    -73.483795,
+    41.146545,
+    -73.483795,
+    41.146545
+],
   "geometry": {"coordinates":[-73.483795,41.146545],"type":"Point"}
 }

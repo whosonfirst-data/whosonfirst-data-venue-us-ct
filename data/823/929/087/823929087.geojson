@@ -1,0 +1,73 @@
+{
+  "id": 823929087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209067,41.347106,-73.209067,41.347106",
+    "geom:latitude":41.347106,
+    "geom:longitude":-73.209067,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Misty Ln",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 4543",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59YlvcoEvj58kXYupCChRE_41.347106_-73.209067@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450225,
+    "wof:geomhash":"891928647ad7f7e697765ff42c857b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823929087
+        }
+    ],
+    "wof:id":823929087,
+    "wof:lastmodified":1466426199,
+    "wof:name":"Joe's Landscaping",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.209067,
+    41.347106,
+    -73.209067,
+    41.347106
+],
+  "geometry": {"coordinates":[-73.209067,41.347106],"type":"Point"}
+}

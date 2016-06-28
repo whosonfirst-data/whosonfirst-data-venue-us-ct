@@ -1,0 +1,71 @@
+{
+  "id": 823903779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.271943,41.315832,-72.271943,41.315832",
+    "geom:latitude":41.315832,
+    "geom:longitude":-72.271943,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Hatchetts Hill Rd",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821451,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HNcpymAZJgQpyvaA9tFva_41.315832_-72.271943@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449566,
+    "wof:geomhash":"394d123df95f393a3f3627627d03b1fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85821451,
+            "region_id":85688629,
+            "venue_id":823903779
+        }
+    ],
+    "wof:id":823903779,
+    "wof:lastmodified":1466426019,
+    "wof:name":"Learn",
+    "wof:parent_id":85821451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school"
+    ]
+},
+  "bbox": [
+    -72.271943,
+    41.315832,
+    -72.271943,
+    41.315832
+],
+  "geometry": {"coordinates":[-72.27194299999999,41.315832],"type":"Point"}
+}

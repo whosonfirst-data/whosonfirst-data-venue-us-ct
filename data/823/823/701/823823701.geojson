@@ -1,0 +1,75 @@
+{
+  "id": 823823701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.729569,41.830403,-72.729569,41.830403",
+    "geom:latitude":41.830403,
+    "geom:longitude":-72.729569,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"29 Brentwood Dr",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 2174",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931021,
+        102085381,
+        85867459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QQvWjYyTp0sXNgl0SEUCN_41.830403_-72.729569@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447407,
+    "wof:geomhash":"d4d22ab603a17da7ee236b52d9143a4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931021,
+            "neighbourhood_id":85867459,
+            "region_id":85688629,
+            "venue_id":823823701
+        }
+    ],
+    "wof:id":823823701,
+    "wof:lastmodified":1466425403,
+    "wof:name":"Davis Brothers Trucking",
+    "wof:parent_id":85867459,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.729569,
+    41.830403,
+    -72.729569,
+    41.830403
+],
+  "geometry": {"coordinates":[-72.729569,41.830403],"type":"Point"}
+}

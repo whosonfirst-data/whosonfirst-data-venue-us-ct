@@ -1,0 +1,73 @@
+{
+  "id": 823809755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.239814,41.336819,-73.239814,41.336819",
+    "geom:latitude":41.336819,
+    "geom:longitude":-73.239814,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Wells Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 259 4555",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CaUROQkjaIRm5Z8POdekH_41.336819_-73.239814@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446991,
+    "wof:geomhash":"46d9e793553441cf47bc0cb64f62dde0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823809755
+        }
+    ],
+    "wof:id":823809755,
+    "wof:lastmodified":1466425065,
+    "wof:name":"Greater Fairfield Mortgage",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -73.239814,
+    41.336819,
+    -73.239814,
+    41.336819
+],
+  "geometry": {"coordinates":[-73.239814,41.336819],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824098325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.194276,41.323146,-72.194276,41.323146",
+    "geom:latitude":41.323146,
+    "geom:longitude":-72.194276,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"291 Main St",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 691 2011",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "buyer",
+        "consultant",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931369,
+        102084295,
+        85812841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gle31Y9PNd5NoJfqle6Hh_41.323146_-72.194276@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454303,
+    "wof:geomhash":"b437d6d122681b7c737b7c53a13c176f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85931369,
+            "neighbourhood_id":85812841,
+            "region_id":85688629,
+            "venue_id":824098325
+        }
+    ],
+    "wof:id":824098325,
+    "wof:lastmodified":1466422722,
+    "wof:name":"Thamesharbour Real Estate",
+    "wof:parent_id":85812841,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "consultant",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -72.194276,
+    41.323146,
+    -72.194276,
+    41.323146
+],
+  "geometry": {"coordinates":[-72.194276,41.323146],"type":"Point"}
+}

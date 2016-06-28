@@ -1,0 +1,71 @@
+{
+  "id": 823866613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.986076,41.596592,-72.986076,41.596592",
+    "geom:latitude":41.596592,
+    "geom:longitude":-72.986076,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"608 Wolcott Rd",
+    "sg:city":"Wolcott",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 879 7513",
+    "sg:postcode":"06716",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859059,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iMw4dClbG4KGPYnnWyqYI_41.596592_-72.986076@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448664,
+    "wof:geomhash":"257c1ba10e67e8b7a89f8dead732a310",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85859059,
+            "region_id":85688629,
+            "venue_id":823866613
+        }
+    ],
+    "wof:id":823866613,
+    "wof:lastmodified":1466425737,
+    "wof:name":"Spb Development LLC",
+    "wof:parent_id":85859059,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.986076,
+    41.596592,
+    -72.986076,
+    41.596592
+],
+  "geometry": {"coordinates":[-72.986076,41.596592],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823595885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.894614,41.934119,-71.894614,41.934119",
+    "geom:latitude":41.934119,
+    "geom:longitude":-71.894614,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"40 Riverside Dr",
+    "sg:city":"Thompson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 928 2300",
+    "sg:postcode":"06277",
+    "sg:province":"CT",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85856497,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pttXrOBdPx1rmVPmoVHls_41.934119_-71.894614@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441789,
+    "wof:geomhash":"0bb4e8d1d538d9877e904fc90082fbf6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85856497,
+            "region_id":85688629,
+            "venue_id":823595885
+        }
+    ],
+    "wof:id":823595885,
+    "wof:lastmodified":1466423278,
+    "wof:name":"Thompson Sewer Control Auth",
+    "wof:parent_id":85856497,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -71.894614,
+    41.934119,
+    -71.894614,
+    41.934119
+],
+  "geometry": {"coordinates":[-71.894614,41.934119],"type":"Point"}
+}

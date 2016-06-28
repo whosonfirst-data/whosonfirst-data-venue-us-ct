@@ -1,0 +1,75 @@
+{
+  "id": 823840217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.559171,41.7676,-72.559171,41.7676",
+    "geom:latitude":41.7676,
+    "geom:longitude":-72.559171,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"878 Hartford Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive",
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KQLixe2tmztxml05GNlh1_41.767600_-72.559171@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447940,
+    "wof:geomhash":"82af90e65c19df4fff5c150d813f7e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823840217
+        }
+    ],
+    "wof:id":823840217,
+    "wof:lastmodified":1466425455,
+    "wof:name":"Marinellis Auto Center",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.559171,
+    41.7676,
+    -72.559171,
+    41.7676
+],
+  "geometry": {"coordinates":[-72.55917100000001,41.7676],"type":"Point"}
+}

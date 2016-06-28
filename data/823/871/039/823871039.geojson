@@ -1,0 +1,73 @@
+{
+  "id": 823871039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.658114,41.93879,-72.658114,41.93879",
+    "geom:latitude":41.93879,
+    "geom:longitude":-72.658114,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"500 North St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 627 4120",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocery",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843621,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wK6FChhfG9CURTRu2DQSd_41.938790_-72.658114@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448761,
+    "wof:geomhash":"c1a3eba36163bf38474f0c17756d70e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85843621,
+            "region_id":85688629,
+            "venue_id":823871039
+        }
+    ],
+    "wof:id":823871039,
+    "wof:lastmodified":1466425725,
+    "wof:name":"C & S Wholesale Grocers Inc",
+    "wof:parent_id":85843621,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "general"
+    ]
+},
+  "bbox": [
+    -72.658114,
+    41.93879,
+    -72.658114,
+    41.93879
+],
+  "geometry": {"coordinates":[-72.658114,41.93879],"type":"Point"}
+}

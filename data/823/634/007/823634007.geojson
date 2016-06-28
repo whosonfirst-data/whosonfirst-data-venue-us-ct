@@ -1,0 +1,73 @@
+{
+  "id": 823634007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.882165,41.747383,-72.882165,41.747383",
+    "geom:latitude":41.747383,
+    "geom:longitude":-72.882165,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"60 Oakridge",
+    "sg:city":"Unionville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06085",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jM7enbmj35B0evJ4nmID2_41.747383_-72.882165@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442713,
+    "wof:geomhash":"dad330ad16accbd140724d5bf2d1c7d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823634007
+        }
+    ],
+    "wof:id":823634007,
+    "wof:lastmodified":1466423613,
+    "wof:name":"C C Ride",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.882165,
+    41.747383,
+    -72.882165,
+    41.747383
+],
+  "geometry": {"coordinates":[-72.882165,41.747383],"type":"Point"}
+}

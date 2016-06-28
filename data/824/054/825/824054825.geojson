@@ -1,0 +1,79 @@
+{
+  "id": 824054825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.641016,41.572409,-72.641016,41.572409",
+    "geom:latitude":41.572409,
+    "geom:longitude":-72.641016,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"181 Main St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 342 5612",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MmGDumqO2vVSphFQZy02g_41.572409_-72.641016@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453280,
+    "wof:geomhash":"1c94138ca463c0c05abaaec4c2b460c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824054825
+        }
+    ],
+    "wof:id":824054825,
+    "wof:lastmodified":1466421937,
+    "wof:name":"Mercury Fuel",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.641016,
+    41.572409,
+    -72.641016,
+    41.572409
+],
+  "geometry": {"coordinates":[-72.64101599999999,41.572409],"type":"Point"}
+}

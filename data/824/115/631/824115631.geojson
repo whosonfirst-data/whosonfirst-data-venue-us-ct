@@ -1,0 +1,87 @@
+{
+  "id": 824115631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.233398,41.167192,-73.233398,41.167192",
+    "geom:latitude":41.167192,
+    "geom:longitude":-73.233398,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"930 Kings Hwy E",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 335 3181",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.getmillerized.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930811,
+        102084283,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7M1fMG6YelyG8dtMAwYtTN_41.167192_-73.233398@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454669,
+    "wof:geomhash":"2a721ce7ada0361a1704c878fda978ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":824115631
+        }
+    ],
+    "wof:id":824115631,
+    "wof:lastmodified":1466423158,
+    "wof:name":"Miller Nissan",
+    "wof:parent_id":85806293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [
+    -73.233398,
+    41.167192,
+    -73.233398,
+    41.167192
+],
+  "geometry": {"coordinates":[-73.23339799999999,41.167192],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823558565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.989971,41.335772,-72.989971,41.335772",
+    "geom:latitude":41.335772,
+    "geom:longitude":-72.989971,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Park Ln",
+    "sg:city":"Woodbridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 389 2659",
+    "sg:postcode":"06525",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qF3SFFyFQPGoCgXoRMFRS_41.335772_-72.989971@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440899,
+    "wof:geomhash":"e096028479b059ea49de16547c7fffb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823558565
+        }
+    ],
+    "wof:id":823558565,
+    "wof:lastmodified":1466422722,
+    "wof:name":"O & M Electric Inc",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.989971,
+    41.335772,
+    -72.989971,
+    41.335772
+],
+  "geometry": {"coordinates":[-72.989971,41.335772],"type":"Point"}
+}

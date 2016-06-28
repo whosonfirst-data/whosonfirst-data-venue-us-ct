@@ -1,0 +1,73 @@
+{
+  "id": 823878573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.403604,41.447286,-73.403604,41.447286",
+    "geom:latitude":41.447286,
+    "geom:longitude":-73.403604,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"304 Federal Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 6377",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aIvDLJcvJ2nuEuc4mYVyV_41.447286_-73.403604@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448942,
+    "wof:geomhash":"c48079e6375d0c97b105aee6caeb90a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823878573
+        }
+    ],
+    "wof:id":823878573,
+    "wof:lastmodified":1466425840,
+    "wof:name":"Guitar Studio",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -73.403604,
+    41.447286,
+    -73.403604,
+    41.447286
+],
+  "geometry": {"coordinates":[-73.403604,41.447286],"type":"Point"}
+}

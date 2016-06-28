@@ -2,13 +2,14 @@
   "id": 353932895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.640104,41.14205,-73.640104,41.14205",
     "geom:latitude":41.14205,
     "geom:longitude":-73.640104,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 Bedford-Banksville Rd",
     "sg:city":"Bedford",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":353932895,
-    "wof:lastmodified":1449019207,
+    "wof:lastmodified":1466421134,
     "wof:name":"Grand Slam At Banksville",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "health"
     ]
 },
-  "bbox": [-73.640104,41.14205,-73.640104,41.14205],
-  "geometry": {"coordinates":[-73.640104,41.14205],"type":"Point"}
+  "bbox": [
+    -73.640104,
+    41.14205,
+    -73.640104,
+    41.14205
+],
+  "geometry": {"coordinates":[-73.64010399999999,41.14205],"type":"Point"}
 }

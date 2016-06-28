@@ -1,0 +1,73 @@
+{
+  "id": 823675459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.187111,41.439234,-73.187111,41.439234",
+    "geom:latitude":41.439234,
+    "geom:longitude":-73.187111,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"216 Burr Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 3349",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qo6Tpy1zlztKfzHAM1C6Z_41.439234_-73.187111@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443691,
+    "wof:geomhash":"73aa301ae65f978263461cd25dba0048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823675459
+        }
+    ],
+    "wof:id":823675459,
+    "wof:lastmodified":1466424004,
+    "wof:name":"Jeff Hebert Tile & Marble",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -73.187111,
+    41.439234,
+    -73.187111,
+    41.439234
+],
+  "geometry": {"coordinates":[-73.187111,41.439234],"type":"Point"}
+}

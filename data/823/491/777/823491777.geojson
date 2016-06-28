@@ -1,0 +1,82 @@
+{
+  "id": 823491777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.358029,41.141276,-73.358029,41.141276",
+    "geom:latitude":41.141276,
+    "geom:longitude":-73.358029,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Imperial Ave",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 4418",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v9TLHtW8h6zXBbjNzkdXQ_41.141276_-73.358029@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439351,
+    "wof:geomhash":"63a36acec64a5ad65aa1d1bf326e12c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823491777
+        }
+    ],
+    "wof:id":823491777,
+    "wof:lastmodified":1466421631,
+    "wof:name":"Mid-Fairfield County Assn Real",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -73.358029,
+    41.141276,
+    -73.358029,
+    41.141276
+],
+  "geometry": {"coordinates":[-73.358029,41.141276],"type":"Point"}
+}

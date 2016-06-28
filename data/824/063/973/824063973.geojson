@@ -1,0 +1,73 @@
+{
+  "id": 824063973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.830177,41.721511,-72.830177,41.721511",
+    "geom:latitude":41.721511,
+    "geom:longitude":-72.830177,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"76 Main St",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 2533",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fire",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fD2Hr3QNNAKLJ6OqJH8GQ_41.721511_-72.830177@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453474,
+    "wof:geomhash":"31c2ae177684dd4412e844e5318b977b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":824063973
+        }
+    ],
+    "wof:id":824063973,
+    "wof:lastmodified":1466422242,
+    "wof:name":"Farmington Fire Station",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "station"
+    ]
+},
+  "bbox": [
+    -72.830177,
+    41.721511,
+    -72.830177,
+    41.721511
+],
+  "geometry": {"coordinates":[-72.83017700000001,41.721511],"type":"Point"}
+}

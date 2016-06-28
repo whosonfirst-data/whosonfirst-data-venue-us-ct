@@ -1,0 +1,77 @@
+{
+  "id": 823529903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.745927,41.752587,-72.745927,41.752587",
+    "geom:latitude":41.752587,
+    "geom:longitude":-72.745927,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Sedgwick Rd",
+    "sg:city":"Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06107",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868763,
+        102191575,
+        404496003,
+        85633793,
+        85931021,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VvRujUbOxhk2DNa5IZnuV_41.752587_-72.745927@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440250,
+    "wof:geomhash":"3e6c8cad8abc28e51cb1a7d15109ed6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404496003,
+            "locality_id":85931021,
+            "neighbourhood_id":85868763,
+            "region_id":85688629,
+            "venue_id":823529903
+        }
+    ],
+    "wof:id":823529903,
+    "wof:lastmodified":1466422290,
+    "wof:name":"Sedegwick Cleaners Inc",
+    "wof:parent_id":85868763,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -72.745927,
+    41.752587,
+    -72.745927,
+    41.752587
+],
+  "geometry": {"coordinates":[-72.74592699999999,41.752587],"type":"Point"}
+}

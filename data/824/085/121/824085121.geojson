@@ -1,0 +1,93 @@
+{
+  "id": 824085121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.69375,41.861164,-72.69375,41.861164",
+    "geom:latitude":41.861164,
+    "geom:longitude":-72.69375,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 E Newberry Rd",
+    "sg:city":"Bloomfield",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 2240",
+    "sg:postcode":"06002",
+    "sg:province":"CT",
+    "sg:tags":[
+        "container",
+        "garbage",
+        "collection",
+        "removal",
+        "rubbish",
+        "contractor",
+        "demolition"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837379,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IZ7I39j32lpxcvD6M008Z_41.861164_-72.693750@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463453976,
+    "wof:geomhash":"88567d288d5a90c699b750ed8102638d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85837379,
+            "region_id":85688629,
+            "venue_id":824085121
+        }
+    ],
+    "wof:id":824085121,
+    "wof:lastmodified":1466422673,
+    "wof:name":"Demolition Plus",
+    "wof:parent_id":85837379,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "garbage",
+        "collection",
+        "removal",
+        "rubbish",
+        "contractor",
+        "demolition"
+    ]
+},
+  "bbox": [
+    -72.69375,
+    41.861164,
+    -72.69375,
+    41.861164
+],
+  "geometry": {"coordinates":[-72.69374999999999,41.861164],"type":"Point"}
+}

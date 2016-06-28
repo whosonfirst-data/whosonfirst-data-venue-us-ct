@@ -1,0 +1,71 @@
+{
+  "id": 823749121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.14791,41.32402,-73.14791,41.32402",
+    "geom:latitude":41.32402,
+    "geom:longitude":-73.14791,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"200 Birdseye Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 5857",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mrpNk0eVmYpTHyFeAusED_41.324020_-73.147910@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445359,
+    "wof:geomhash":"84096c6d1e4c52c895724a2f82113265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823749121
+        }
+    ],
+    "wof:id":823749121,
+    "wof:lastmodified":1466424710,
+    "wof:name":"Morano's Welding",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -73.14791,
+    41.32402,
+    -73.14791,
+    41.32402
+],
+  "geometry": {"coordinates":[-73.14791,41.32402],"type":"Point"}
+}

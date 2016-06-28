@@ -1,0 +1,84 @@
+{
+  "id": 824118907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.370539,41.128515,-73.370539,41.128515",
+    "geom:latitude":41.128515,
+    "geom:longitude":-73.370539,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"313 Riverside Ave",
+    "sg:city":"Westport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 227 2862",
+    "sg:postcode":"06880",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "bodies-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85847197,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OdQRxMcIu8ciij6KpNwka_41.128515_-73.370539@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454746,
+    "wof:geomhash":"2549915dcbff315aa761e2dd754567d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":824118907
+        }
+    ],
+    "wof:id":824118907,
+    "wof:lastmodified":1466423346,
+    "wof:name":"Westport Autocraft",
+    "wof:parent_id":85847197,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "bodies-commercial"
+    ]
+},
+  "bbox": [
+    -73.370539,
+    41.128515,
+    -73.370539,
+    41.128515
+],
+  "geometry": {"coordinates":[-73.37053899999999,41.128515],"type":"Point"}
+}

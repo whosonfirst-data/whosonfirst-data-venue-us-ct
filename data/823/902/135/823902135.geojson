@@ -1,0 +1,90 @@
+{
+  "id": 823902135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.724625,41.662322,-72.724625,41.662322",
+    "geom:latitude":41.662322,
+    "geom:longitude":-72.724625,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"141 Gloucester Ct",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 665 7306",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AMlZjdJOxw8q46ijH5RAv_41.662322_-72.724625@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449519,
+    "wof:geomhash":"97e842cb0ec221fa6d86c9406bb0fc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":823902135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":823902135
+        }
+    ],
+    "wof:id":823902135,
+    "wof:lastmodified":1466426010,
+    "wof:name":"Cascone Electric LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.724625,
+    41.662322,
+    -72.724625,
+    41.662322
+],
+  "geometry": {"coordinates":[-72.724625,41.662322],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 823806337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.176797,41.276015,-73.176797,41.276015",
+    "geom:latitude":41.276015,
+    "geom:longitude":-73.176797,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"51 Rolling Ridge Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 259 0152",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rmfFXtxh656Q4bvF0Qofh_41.276015_-73.176797@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446882,
+    "wof:geomhash":"564ddb7e745fb3d92c5f0401f0c42659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823806337
+        }
+    ],
+    "wof:id":823806337,
+    "wof:lastmodified":1466425200,
+    "wof:name":"Eldorado Pharmacy Incorporated",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.176797,
+    41.276015,
+    -73.176797,
+    41.276015
+],
+  "geometry": {"coordinates":[-73.17679699999999,41.276015],"type":"Point"}
+}

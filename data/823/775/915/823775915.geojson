@@ -1,0 +1,83 @@
+{
+  "id": 823775915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.122313,41.802987,-73.122313,41.802987",
+    "geom:latitude":41.802987,
+    "geom:longitude":-73.122313,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Mason St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "industrial",
+        "launderer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48qxgEpKAkk2KHap6WsGiy_41.802987_-73.122313@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445982,
+    "wof:geomhash":"c5cbeb7036b0117982d823ec862dcb0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":823775915
+        }
+    ],
+    "wof:id":823775915,
+    "wof:lastmodified":1466424964,
+    "wof:name":"Gates Cleaners",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "industrial",
+        "launderer"
+    ]
+},
+  "bbox": [
+    -73.122313,
+    41.802987,
+    -73.122313,
+    41.802987
+],
+  "geometry": {"coordinates":[-73.12231300000001,41.802987],"type":"Point"}
+}

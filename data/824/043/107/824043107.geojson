@@ -1,0 +1,85 @@
+{
+  "id": 824043107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627935,41.802998,-72.627935,41.802998",
+    "geom:latitude":41.802998,
+    "geom:longitude":-72.627935,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"35 Main St",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 289 4052",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85808543,
+        102085381,
+        85808571,
+        102191575,
+        404495879,
+        85931097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bMQtFpALJVYCtjObwJPfI_41.802998_-72.627935@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453006,
+    "wof:geomhash":"f79d5ab81b86b1b8d89afdcaafda538b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85808543,
+            "region_id":85688629,
+            "venue_id":824043107
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495879,
+            "locality_id":85931097,
+            "neighbourhood_id":85808571,
+            "region_id":85688629,
+            "venue_id":824043107
+        }
+    ],
+    "wof:id":824043107,
+    "wof:lastmodified":1466421902,
+    "wof:name":"G & G Masons",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.627935,
+    41.802998,
+    -72.627935,
+    41.802998
+],
+  "geometry": {"coordinates":[-72.62793499999999,41.802998],"type":"Point"}
+}

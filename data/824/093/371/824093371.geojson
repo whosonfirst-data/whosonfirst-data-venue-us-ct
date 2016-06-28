@@ -1,0 +1,85 @@
+{
+  "id": 824093371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.57656,41.998285,-72.57656,41.998285",
+    "geom:latitude":41.998285,
+    "geom:longitude":-72.57656,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"137 Elm St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 243 3454",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "designer",
+        "jeweler"
+    ],
+    "sg:website":"http://www.ryanjewelers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865185,
+        102191575,
+        404495881,
+        85633793,
+        85931049,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60XMILSJjd65O6FOl9nvBa_41.998285_-72.576560@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454161,
+    "wof:geomhash":"3024d6d725297b699045ffeb66df604d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495881,
+            "locality_id":85931049,
+            "neighbourhood_id":85865185,
+            "region_id":85688629,
+            "venue_id":824093371
+        }
+    ],
+    "wof:id":824093371,
+    "wof:lastmodified":1466422900,
+    "wof:name":"Ryan Jewelers",
+    "wof:parent_id":85865185,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -72.57656,
+    41.998285,
+    -72.57656,
+    41.998285
+],
+  "geometry": {"coordinates":[-72.57656,41.998285],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823540505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.801451,41.51486,-72.801451,41.51486",
+    "geom:latitude":41.51486,
+    "geom:longitude":-72.801451,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"140 Green Rd",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06450",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VqSLAbQWfKYBnW4NaI16V_41.514860_-72.801451@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440480,
+    "wof:geomhash":"2fea10f8fb90993269f3d0a29e6e97cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823540505
+        }
+    ],
+    "wof:id":823540505,
+    "wof:lastmodified":1466422440,
+    "wof:name":"Philip E Shapiro MD",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.801451,
+    41.51486,
+    -72.801451,
+    41.51486
+],
+  "geometry": {"coordinates":[-72.801451,41.51486],"type":"Point"}
+}

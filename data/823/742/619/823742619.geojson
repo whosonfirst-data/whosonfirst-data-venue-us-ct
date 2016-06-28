@@ -1,0 +1,83 @@
+{
+  "id": 823742619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.226781,41.146289,-73.226781,41.146289",
+    "geom:latitude":41.146289,
+    "geom:longitude":-73.226781,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Thorne Pl",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "public",
+        "relations"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823291,
+        102084283,
+        85930811,
+        85806293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vz8u9BO3hLiihik8UC8gA_41.146289_-73.226781@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445209,
+    "wof:geomhash":"af64ac58b46a715db18ac29ddc29a734",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85823291,
+            "region_id":85688629,
+            "venue_id":823742619
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "locality_id":85930811,
+            "neighbourhood_id":85806293,
+            "region_id":85688629,
+            "venue_id":823742619
+        }
+    ],
+    "wof:id":823742619,
+    "wof:lastmodified":1466424681,
+    "wof:name":"Burnhward Strgc Communications",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "public",
+        "relations"
+    ]
+},
+  "bbox": [
+    -73.226781,
+    41.146289,
+    -73.226781,
+    41.146289
+],
+  "geometry": {"coordinates":[-73.226781,41.146289],"type":"Point"}
+}

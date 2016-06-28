@@ -1,0 +1,72 @@
+{
+  "id": 823600493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180647,41.187974,-73.180647,41.187974",
+    "geom:latitude":41.187974,
+    "geom:longitude":-73.180647,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"934 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 333 5688",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IhpceatfXrREzQ1M774yT_41.187974_-73.180647@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441909,
+    "wof:geomhash":"096ff4d993fb7fa3ada5ee340f5c8005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823600493
+        }
+    ],
+    "wof:id":823600493,
+    "wof:lastmodified":1466423299,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.180647,
+    41.187974,
+    -73.180647,
+    41.187974
+],
+  "geometry": {"coordinates":[-73.18064699999999,41.187974],"type":"Point"}
+}

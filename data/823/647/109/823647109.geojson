@@ -1,0 +1,77 @@
+{
+  "id": 823647109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.952678,41.284882,-72.952678,41.284882",
+    "geom:latitude":41.284882,
+    "geom:longitude":-72.952678,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"810 1st Ave",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 931 0677",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85882017,
+        102191575,
+        404495805,
+        85633793,
+        85930885,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07MgiVJ5R18JiT6wtde0wY_41.284882_-72.952678@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443020,
+    "wof:geomhash":"9175edac98fb2d14447d1f1791b436f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85882017,
+            "region_id":85688629,
+            "venue_id":823647109
+        }
+    ],
+    "wof:id":823647109,
+    "wof:lastmodified":1466423784,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85882017,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -72.952678,
+    41.284882,
+    -72.952678,
+    41.284882
+],
+  "geometry": {"coordinates":[-72.95267800000001,41.284882],"type":"Point"}
+}

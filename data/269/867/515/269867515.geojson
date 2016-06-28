@@ -2,13 +2,14 @@
   "id": 269867515,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.465273,41.134905,-73.465273,41.134905",
     "geom:latitude":41.134905,
     "geom:longitude":-73.465273,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"327 Old Norwalk Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":269867515,
-    "wof:lastmodified":1449037171,
+    "wof:lastmodified":1466421104,
     "wof:name":"Susan Goodman Catering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "caterer"
     ]
 },
-  "bbox": [-73.465273,41.134905,-73.465273,41.134905],
+  "bbox": [
+    -73.465273,
+    41.134905,
+    -73.465273,
+    41.134905
+],
   "geometry": {"coordinates":[-73.465273,41.134905],"type":"Point"}
 }

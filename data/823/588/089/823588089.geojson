@@ -1,0 +1,83 @@
+{
+  "id": 823588089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.180601,41.191612,-73.180601,41.191612",
+    "geom:latitude":41.191612,
+    "geom:longitude":-73.180601,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1313 E Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06608",
+    "sg:province":"CT",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "agent",
+        "garment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876489,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JPY3AqJRTcU2RnLHx87mj_41.191612_-73.180601@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441603,
+    "wof:geomhash":"852e9ced8acea5ea6c5716b8971a645d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876489,
+            "region_id":85688629,
+            "venue_id":823588089
+        }
+    ],
+    "wof:id":823588089,
+    "wof:lastmodified":1466423151,
+    "wof:name":"Braca Jr Cleaners",
+    "wof:parent_id":85876489,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "agent",
+        "garment"
+    ]
+},
+  "bbox": [
+    -73.180601,
+    41.191612,
+    -73.180601,
+    41.191612
+],
+  "geometry": {"coordinates":[-73.180601,41.191612],"type":"Point"}
+}

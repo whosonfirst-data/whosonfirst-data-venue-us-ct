@@ -1,0 +1,77 @@
+{
+  "id": 823480473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.453691,41.395535,-73.453691,41.395535",
+    "geom:latitude":41.395535,
+    "geom:longitude":-73.453691,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"262 Main St",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 778 3670",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805179,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xG11cNpb1Vf0epxLZKwmK_41.395535_-73.453691@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439088,
+    "wof:geomhash":"b1f8b243b70e7c8ab468d45c170a2e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805179,
+            "region_id":85688629,
+            "venue_id":823480473
+        }
+    ],
+    "wof:id":823480473,
+    "wof:lastmodified":1466421660,
+    "wof:name":"Coffee Please",
+    "wof:parent_id":85805179,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -73.453691,
+    41.395535,
+    -73.453691,
+    41.395535
+],
+  "geometry": {"coordinates":[-73.45369100000001,41.395535],"type":"Point"}
+}

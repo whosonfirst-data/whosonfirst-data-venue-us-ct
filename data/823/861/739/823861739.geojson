@@ -1,0 +1,84 @@
+{
+  "id": 823861739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.930395,41.352863,-72.930395,41.352863",
+    "geom:latitude":41.352863,
+    "geom:longitude":-72.930395,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1503 Dixwell Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 5503",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2izW1JKh7TIdfRpwCksmQZ_41.352863_-72.930395@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448537,
+    "wof:geomhash":"862dc883c064750c867dd6186efab9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823861739
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823861739
+        }
+    ],
+    "wof:id":823861739,
+    "wof:lastmodified":1466425705,
+    "wof:name":"Wendy's Hair Designs",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.930395,
+    41.352863,
+    -72.930395,
+    41.352863
+],
+  "geometry": {"coordinates":[-72.930395,41.352863],"type":"Point"}
+}

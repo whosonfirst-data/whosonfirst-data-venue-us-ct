@@ -1,0 +1,91 @@
+{
+  "id": 823918277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.406537,41.105115,-73.406537,41.105115",
+    "geom:latitude":41.105115,
+    "geom:longitude":-73.406537,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Prowitt St",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 857 0088",
+    "sg:postcode":"06855",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shelter",
+        "homeless"
+    ],
+    "sg:website":"www.maltahouse.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879311,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629,
+        85816631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yhGRtuoj3S7Cb2C9UW4Ah_41.105115_-73.406537@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449961,
+    "wof:geomhash":"3ed0fa04bdcfe76598c27378b157f4e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879311,
+            "region_id":85688629,
+            "venue_id":823918277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":823918277
+        }
+    ],
+    "wof:id":823918277,
+    "wof:lastmodified":1466426168,
+    "wof:name":"Malta House-Good Counsel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "homeless"
+    ]
+},
+  "bbox": [
+    -73.406537,
+    41.105115,
+    -73.406537,
+    41.105115
+],
+  "geometry": {"coordinates":[-73.406537,41.105115],"type":"Point"}
+}

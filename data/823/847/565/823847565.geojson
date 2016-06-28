@@ -1,0 +1,75 @@
+{
+  "id": 823847565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.76337,41.653193,-72.76337,41.653193",
+    "geom:latitude":41.653193,
+    "geom:longitude":-72.76337,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"221 South St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06051",
+    "sg:province":"CT",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HFswofiurWJaWNmhdbWVS_41.653193_-72.763370@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448160,
+    "wof:geomhash":"ac93822953f6e7f0997a5675da4478e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823847565
+        }
+    ],
+    "wof:id":823847565,
+    "wof:lastmodified":1466425562,
+    "wof:name":"T&J Manufacturing",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.76337,
+    41.653193,
+    -72.76337,
+    41.653193
+],
+  "geometry": {"coordinates":[-72.76336999999999,41.653193],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 824020581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.794208,41.488376,-72.794208,41.488376",
+    "geom:latitude":41.488376,
+    "geom:longitude":-72.794208,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3 Sterling Dr",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 949 5500",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.questdiagnostics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2253RhPePVkMl40qEJLy2w_41.488376_-72.794208@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452437,
+    "wof:geomhash":"066a8d36d464e050c03beadb5383218f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":824020581
+        }
+    ],
+    "wof:id":824020581,
+    "wof:lastmodified":1466421558,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.794208,
+    41.488376,
+    -72.794208,
+    41.488376
+],
+  "geometry": {"coordinates":[-72.794208,41.488376],"type":"Point"}
+}

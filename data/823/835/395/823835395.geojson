@@ -1,0 +1,73 @@
+{
+  "id": 823835395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.639386,41.285236,-72.639386,41.285236",
+    "geom:latitude":41.285236,
+    "geom:longitude":-72.639386,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Old Post Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 7003",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816713,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WYfc8qiJrjeu70t4G5wRx_41.285236_-72.639386@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447769,
+    "wof:geomhash":"2e80155992e27b4cefd52782edb78eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85816713,
+            "region_id":85688629,
+            "venue_id":823835395
+        }
+    ],
+    "wof:id":823835395,
+    "wof:lastmodified":1466425588,
+    "wof:name":"Stanley Chemacki Plumbing",
+    "wof:parent_id":85816713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.639386,
+    41.285236,
+    -72.639386,
+    41.285236
+],
+  "geometry": {"coordinates":[-72.639386,41.285236],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823551829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.81675,41.503585,-72.81675,41.503585",
+    "geom:latitude":41.503585,
+    "geom:longitude":-72.81675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Nigro Dr",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 4176",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852493,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GUVLjeNdebKCxjbshDhbK_41.503585_-72.816750@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440748,
+    "wof:geomhash":"5736caf427cbeb3cf735d3877055a6ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85852493,
+            "region_id":85688629,
+            "venue_id":823551829
+        }
+    ],
+    "wof:id":823551829,
+    "wof:lastmodified":1466422591,
+    "wof:name":"Pete's General Contracting",
+    "wof:parent_id":85852493,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.81675,
+    41.503585,
+    -72.81675,
+    41.503585
+],
+  "geometry": {"coordinates":[-72.81675,41.503585],"type":"Point"}
+}

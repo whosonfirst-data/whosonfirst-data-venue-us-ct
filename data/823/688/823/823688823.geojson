@@ -1,0 +1,79 @@
+{
+  "id": 823688823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.809921,41.540022,-72.809921,41.540022",
+    "geom:latitude":41.540022,
+    "geom:longitude":-72.809921,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Morgan St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 235 4244",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gTssJGCPAWC5hN6OSMnnZ_41.540022_-72.809921@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443987,
+    "wof:geomhash":"5700b0c954245319255b7c574a22c233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":823688823
+        }
+    ],
+    "wof:id":823688823,
+    "wof:lastmodified":1466424143,
+    "wof:name":"My Three Sons",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -72.809921,
+    41.540022,
+    -72.809921,
+    41.540022
+],
+  "geometry": {"coordinates":[-72.809921,41.540022],"type":"Point"}
+}

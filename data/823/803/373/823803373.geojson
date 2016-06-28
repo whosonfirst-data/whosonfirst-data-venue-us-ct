@@ -1,0 +1,73 @@
+{
+  "id": 823803373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.904714,41.329469,-71.904714,41.329469",
+    "geom:latitude":41.329469,
+    "geom:longitude":-71.904714,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Hancox St",
+    "sg:city":"Stonington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 535 3346",
+    "sg:postcode":"06378",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855115,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HpgFBqmVV983lE9iv03Yv_41.329469_-71.904714@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446798,
+    "wof:geomhash":"7320a43d10453fa401e5190408d8e597",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85855115,
+            "region_id":85688629,
+            "venue_id":823803373
+        }
+    ],
+    "wof:id":823803373,
+    "wof:lastmodified":1466425176,
+    "wof:name":"Mystic Paper Beasts",
+    "wof:parent_id":85855115,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -71.904714,
+    41.329469,
+    -71.904714,
+    41.329469
+],
+  "geometry": {"coordinates":[-71.904714,41.329469],"type":"Point"}
+}

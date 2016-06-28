@@ -1,0 +1,82 @@
+{
+  "id": 824115589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.236061,41.179298,-73.236061,41.179298",
+    "geom:latitude":41.179298,
+    "geom:longitude":-73.236061,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"591 Knapps Hwy",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 261 9110",
+    "sg:postcode":"06825",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painting",
+        "washing",
+        "power",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85852811,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d2PIDHwJaN7329QAb8EPI_41.179298_-73.236061@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454668,
+    "wof:geomhash":"5df6d842bde098faa8bf80202f7f292f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85852811,
+            "region_id":85688629,
+            "venue_id":824115589
+        }
+    ],
+    "wof:id":824115589,
+    "wof:lastmodified":1466423154,
+    "wof:name":"Reyes Carpentry and Painting",
+    "wof:parent_id":85852811,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "washing",
+        "power",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.236061,
+    41.179298,
+    -73.236061,
+    41.179298
+],
+  "geometry": {"coordinates":[-73.23606100000001,41.179298],"type":"Point"}
+}

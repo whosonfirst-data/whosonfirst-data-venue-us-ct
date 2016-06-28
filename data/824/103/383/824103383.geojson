@@ -1,0 +1,90 @@
+{
+  "id": 824103383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819168,41.536985,-72.819168,41.536985",
+    "geom:latitude":41.536985,
+    "geom:longitude":-72.819168,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"115 Hamilton St",
+    "sg:city":"Meriden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 237 2851",
+    "sg:postcode":"06451",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849863,
+        102191575,
+        404495707,
+        85633793,
+        85930909,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WXPje4Wbr0RTltYzpZvZh_41.536985_-72.819168@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454411,
+    "wof:geomhash":"97ebb751ece601d0c69aa4cba24d1ca0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495707,
+            "locality_id":85930909,
+            "neighbourhood_id":85849863,
+            "region_id":85688629,
+            "venue_id":824103383
+        }
+    ],
+    "wof:id":824103383,
+    "wof:lastmodified":1466423037,
+    "wof:name":"City Of Meriden",
+    "wof:parent_id":85849863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -72.819168,
+    41.536985,
+    -72.819168,
+    41.536985
+],
+  "geometry": {"coordinates":[-72.819168,41.536985],"type":"Point"}
+}

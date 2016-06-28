@@ -1,0 +1,78 @@
+{
+  "id": 824080225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.635616,41.020962,-73.635616,41.020962",
+    "geom:latitude":41.020962,
+    "geom:longitude":-73.635616,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"44 Old Field Point Rd",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/greenwich/258587-boxcar-cantina/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 661 4774",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71eN0OXpLhzy9G3RbbiFyt_41.020962_-73.635616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453857,
+    "wof:geomhash":"4b23f2557eb83c13dbbe14f2cee8ce82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824080225
+        }
+    ],
+    "wof:id":824080225,
+    "wof:lastmodified":1466422558,
+    "wof:name":"Boxcar Cantina",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -73.635616,
+    41.020962,
+    -73.635616,
+    41.020962
+],
+  "geometry": {"coordinates":[-73.635616,41.020962],"type":"Point"}
+}

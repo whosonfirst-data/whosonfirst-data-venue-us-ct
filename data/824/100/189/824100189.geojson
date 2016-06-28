@@ -1,0 +1,85 @@
+{
+  "id": 824100189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.811451,41.281612,-72.811451,41.281612",
+    "geom:latitude":41.281612,
+    "geom:longitude":-72.811451,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1019 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 8394",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.townofbranford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dbjd3baxvkYniKA2bWNYy_41.281612_-72.811451@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454348,
+    "wof:geomhash":"249698c4014066088fda4c54ca14b28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":824100189
+        }
+    ],
+    "wof:id":824100189,
+    "wof:lastmodified":1466423054,
+    "wof:name":"Town Of Branford",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "town",
+        "township",
+        "planner",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -72.811451,
+    41.281612,
+    -72.811451,
+    41.281612
+],
+  "geometry": {"coordinates":[-72.81145100000001,41.281612],"type":"Point"}
+}

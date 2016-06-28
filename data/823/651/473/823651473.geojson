@@ -1,0 +1,71 @@
+{
+  "id": 823651473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.979458,41.333733,-72.979458,41.333733",
+    "geom:latitude":41.333733,
+    "geom:longitude":-72.979458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"120 Frederick St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06515",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879157,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ngrXTVjA5avghToraHS8v_41.333733_-72.979458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443109,
+    "wof:geomhash":"2890b462ece83dfaafca7d25396c2ed5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":823651473
+        }
+    ],
+    "wof:id":823651473,
+    "wof:lastmodified":1466423814,
+    "wof:name":"Professional General Cleaning",
+    "wof:parent_id":85879157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.979458,
+    41.333733,
+    -72.979458,
+    41.333733
+],
+  "geometry": {"coordinates":[-72.97945799999999,41.333733],"type":"Point"}
+}

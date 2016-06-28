@@ -1,0 +1,72 @@
+{
+  "id": 823745335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.117779,41.825243,-73.117779,41.825243",
+    "geom:latitude":41.825243,
+    "geom:longitude":-73.117779,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Queens Rd",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 2410",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85808607,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10ZPDkpf4ZURB0tr3UOkNM_41.825243_-73.117779@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445271,
+    "wof:geomhash":"16e821da934606f99b50e945b5e46474",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85808607,
+            "region_id":85688629,
+            "venue_id":823745335
+        }
+    ],
+    "wof:id":823745335,
+    "wof:lastmodified":1466424666,
+    "wof:name":"Fishermans Market",
+    "wof:parent_id":85808607,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.117779,
+    41.825243,
+    -73.117779,
+    41.825243
+],
+  "geometry": {"coordinates":[-73.117779,41.825243],"type":"Point"}
+}

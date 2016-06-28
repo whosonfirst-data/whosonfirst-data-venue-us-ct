@@ -1,0 +1,82 @@
+{
+  "id": 824108047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.822793,41.456153,-72.822793,41.456153",
+    "geom:latitude":41.456153,
+    "geom:longitude":-72.822793,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"64 Center St",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 2626",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KcfmXtk3rrSpdsckTEVL4_41.456153_-72.822793@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454510,
+    "wof:geomhash":"e5de71a7b050ffb23e9445be174276e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":824108047
+        }
+    ],
+    "wof:id":824108047,
+    "wof:lastmodified":1466423056,
+    "wof:name":"Lenny's Cafe",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -72.822793,
+    41.456153,
+    -72.822793,
+    41.456153
+],
+  "geometry": {"coordinates":[-72.822793,41.456153],"type":"Point"}
+}

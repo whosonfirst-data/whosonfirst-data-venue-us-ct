@@ -1,0 +1,80 @@
+{
+  "id": 824092901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.539926,41.982195,-72.539926,41.982195",
+    "geom:latitude":41.982195,
+    "geom:longitude":-72.539926,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"32 S Maple St",
+    "sg:city":"Enfield",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Musical Instruments",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 749 8514",
+    "sg:postcode":"06082",
+    "sg:province":"CT",
+    "sg:tags":[
+        "instruments-supplies",
+        "manufacturer",
+        "instruments-wholesale",
+        "accessory"
+    ],
+    "sg:website":"http://www.sweetheartflute.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931043,
+        102085381,
+        85865189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wXex3TU7KnrKTBIZWpG12_41.982195_-72.539926@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454147,
+    "wof:geomhash":"bc19f32dc855ee61d36ee6f0adc1af81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85931043,
+            "neighbourhood_id":85865189,
+            "region_id":85688629,
+            "venue_id":824092901
+        }
+    ],
+    "wof:id":824092901,
+    "wof:lastmodified":1466422910,
+    "wof:name":"Sweetheart Flute Company",
+    "wof:parent_id":85865189,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruments-supplies",
+        "manufacturer",
+        "instruments-wholesale",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -72.539926,
+    41.982195,
+    -72.539926,
+    41.982195
+],
+  "geometry": {"coordinates":[-72.53992599999999,41.982195],"type":"Point"}
+}

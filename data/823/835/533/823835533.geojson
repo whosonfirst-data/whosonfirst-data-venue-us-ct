@@ -1,0 +1,66 @@
+{
+  "id": 823835533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.818267,41.285658,-72.818267,41.285658",
+    "geom:latitude":41.285658,
+    "geom:longitude":-72.818267,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"78 N Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 488 3484",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wYy8K7L256M9vknFZshsU_41.285658_-72.818267@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447773,
+    "wof:geomhash":"6290d78b0bb7d7edbe55ecab35ba2871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823835533
+        }
+    ],
+    "wof:id":823835533,
+    "wof:lastmodified":1466425449,
+    "wof:name":"Elite Fitness Warehouse",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.818267,
+    41.285658,
+    -72.818267,
+    41.285658
+],
+  "geometry": {"coordinates":[-72.81826700000001,41.285658],"type":"Point"}
+}

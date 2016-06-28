@@ -1,0 +1,85 @@
+{
+  "id": 824087347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.927531,41.833094,-72.927531,41.833094",
+    "geom:latitude":41.833094,
+    "geom:longitude":-72.927531,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 River Rd",
+    "sg:city":"Canton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 294 1296",
+    "sg:postcode":"06019",
+    "sg:province":"CT",
+    "sg:tags":[
+        "spa",
+        "medical"
+    ],
+    "sg:website":"www.panaceahealing.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85865195,
+        102191575,
+        404495875,
+        85633793,
+        85931113,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63hwEKzbZLgzGbsHdN0d5v_41.833094_-72.927531@1303262243"
+    },
+    "wof:country":"US",
+    "wof:created":1463454028,
+    "wof:geomhash":"11f3028ce83a84812a6ee380c9f431ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495875,
+            "locality_id":85931113,
+            "neighbourhood_id":85865195,
+            "region_id":85688629,
+            "venue_id":824087347
+        }
+    ],
+    "wof:id":824087347,
+    "wof:lastmodified":1466422764,
+    "wof:name":"Panacea",
+    "wof:parent_id":85865195,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.927531,
+    41.833094,
+    -72.927531,
+    41.833094
+],
+  "geometry": {"coordinates":[-72.927531,41.833094],"type":"Point"}
+}

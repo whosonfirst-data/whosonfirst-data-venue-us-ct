@@ -1,0 +1,79 @@
+{
+  "id": 823788851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.150714,41.21843,-73.150714,41.21843",
+    "geom:latitude":41.21843,
+    "geom:longitude":-73.150714,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"100 Second Hill Ln",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 0169",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OOddcBpfBtD3fuVkDPaxH_41.218430_-73.150714@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446392,
+    "wof:geomhash":"c79e9ea16b440e716be3811ad972f40e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888499,
+            "region_id":85688629,
+            "venue_id":823788851
+        }
+    ],
+    "wof:id":823788851,
+    "wof:lastmodified":1466424995,
+    "wof:name":"Champion Electric",
+    "wof:parent_id":85888499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.150714,
+    41.21843,
+    -73.150714,
+    41.21843
+],
+  "geometry": {"coordinates":[-73.15071399999999,41.21843],"type":"Point"}
+}

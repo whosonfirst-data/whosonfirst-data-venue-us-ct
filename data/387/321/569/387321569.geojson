@@ -2,13 +2,14 @@
   "id": 387321569,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.489259,41.147,-73.489259,41.147",
     "geom:latitude":41.147,
     "geom:longitude":-73.489259,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17 Raymond St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":387321569,
-    "wof:lastmodified":1449056211,
+    "wof:lastmodified":1466421201,
     "wof:name":"Bauer Painting Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-73.489259,41.147,-73.489259,41.147],
+  "bbox": [
+    -73.489259,
+    41.147,
+    -73.489259,
+    41.147
+],
   "geometry": {"coordinates":[-73.489259,41.147],"type":"Point"}
 }

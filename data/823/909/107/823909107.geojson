@@ -1,0 +1,71 @@
+{
+  "id": 823909107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.811309,41.281799,-72.811309,41.281799",
+    "geom:latitude":41.281799,
+    "geom:longitude":-72.811309,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1008 Main St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826883,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TfcPBjultK2lQ6ZxDFNai_41.281799_-72.811309@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449715,
+    "wof:geomhash":"feb43fb44446b04e39c75e283c23a301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826883,
+            "region_id":85688629,
+            "venue_id":823909107
+        }
+    ],
+    "wof:id":823909107,
+    "wof:lastmodified":1466426085,
+    "wof:name":"Beyond Care",
+    "wof:parent_id":85826883,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.811309,
+    41.281799,
+    -72.811309,
+    41.281799
+],
+  "geometry": {"coordinates":[-72.81130899999999,41.281799],"type":"Point"}
+}

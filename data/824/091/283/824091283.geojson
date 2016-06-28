@@ -1,0 +1,78 @@
+{
+  "id": 824091283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819618,41.908581,-72.819618,41.908581",
+    "geom:latitude":41.908581,
+    "geom:longitude":-72.819618,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"39 Clifdon Dr",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 0155",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819335,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Fb4EU5CYIfThQF1imZS5w_41.908581_-72.819618@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454114,
+    "wof:geomhash":"0ce6934142e3726a3e65377ae30f9327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85819335,
+            "region_id":85688629,
+            "venue_id":824091283
+        }
+    ],
+    "wof:id":824091283,
+    "wof:lastmodified":1466422842,
+    "wof:name":"New England Coffeehouses",
+    "wof:parent_id":85819335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso"
+    ]
+},
+  "bbox": [
+    -72.819618,
+    41.908581,
+    -72.819618,
+    41.908581
+],
+  "geometry": {"coordinates":[-72.81961800000001,41.908581],"type":"Point"}
+}

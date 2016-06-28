@@ -1,0 +1,66 @@
+{
+  "id": 823585615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.595471,41.59278,-72.595471,41.59278",
+    "geom:latitude":41.59278,
+    "geom:longitude":-72.595471,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"8 Greenview Dr",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 342 1675",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819713,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uAMyJ8RQnBOBBE83J8NEv_41.592780_-72.595471@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441547,
+    "wof:geomhash":"1dcf866fbbe90eda3614103c29ebd115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85819713,
+            "region_id":85688629,
+            "venue_id":823585615
+        }
+    ],
+    "wof:id":823585615,
+    "wof:lastmodified":1466423126,
+    "wof:name":"R A Spooner Lawn Mowing",
+    "wof:parent_id":85819713,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.595471,
+    41.59278,
+    -72.595471,
+    41.59278
+],
+  "geometry": {"coordinates":[-72.595471,41.59278],"type":"Point"}
+}

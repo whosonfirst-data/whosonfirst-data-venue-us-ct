@@ -2,13 +2,14 @@
   "id": 252987839,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.492302,41.147501,-73.492302,41.147501",
     "geom:latitude":41.147501,
     "geom:longitude":-73.492302,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Main St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":252987839,
-    "wof:lastmodified":1449006021,
+    "wof:lastmodified":1466421091,
     "wof:name":"Evans-Leonard Antiques",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "antique"
     ]
 },
-  "bbox": [-73.492302,41.147501,-73.492302,41.147501],
+  "bbox": [
+    -73.492302,
+    41.147501,
+    -73.492302,
+    41.147501
+],
   "geometry": {"coordinates":[-73.492302,41.147501],"type":"Point"}
 }

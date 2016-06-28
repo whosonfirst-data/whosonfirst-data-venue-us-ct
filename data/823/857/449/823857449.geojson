@@ -1,0 +1,73 @@
+{
+  "id": 823857449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.711968,41.514473,-72.711968,41.514473",
+    "geom:latitude":41.514473,
+    "geom:longitude":-72.711968,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"486 Main St",
+    "sg:city":"Middlefield",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 349 1023",
+    "sg:postcode":"06455",
+    "sg:province":"CT",
+    "sg:tags":[
+        "savings",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85804219,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FG7SKQGBgsx9oXNdmzke2_41.514473_-72.711968@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448427,
+    "wof:geomhash":"f3f2a1452da518966170484b3b57df01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85804219,
+            "region_id":85688629,
+            "venue_id":823857449
+        }
+    ],
+    "wof:id":823857449,
+    "wof:lastmodified":1466425676,
+    "wof:name":"Liberty Bank",
+    "wof:parent_id":85804219,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "savings",
+        "institution"
+    ]
+},
+  "bbox": [
+    -72.711968,
+    41.514473,
+    -72.711968,
+    41.514473
+],
+  "geometry": {"coordinates":[-72.711968,41.514473],"type":"Point"}
+}

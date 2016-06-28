@@ -1,0 +1,71 @@
+{
+  "id": 823668909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.135998,41.310845,-73.135998,41.310845",
+    "geom:latitude":41.310845,
+    "geom:longitude":-73.135998,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"48 Park Ave",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 1739",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57KpPAdbtm1zBoUnxuA5NH_41.310845_-73.135998@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443548,
+    "wof:geomhash":"91caa58585d745a0a7e8f166cb9abd9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823668909
+        }
+    ],
+    "wof:id":823668909,
+    "wof:lastmodified":1466423977,
+    "wof:name":"William C Schwaller",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -73.135998,
+    41.310845,
+    -73.135998,
+    41.310845
+],
+  "geometry": {"coordinates":[-73.135998,41.310845],"type":"Point"}
+}

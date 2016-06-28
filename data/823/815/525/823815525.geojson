@@ -1,0 +1,71 @@
+{
+  "id": 823815525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.411923,41.17056,-73.411923,41.17056",
+    "geom:latitude":41.17056,
+    "geom:longitude":-73.411923,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"46 Grumman Hill Rd",
+    "sg:city":"Wilton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 3676",
+    "sg:postcode":"06897",
+    "sg:province":"CT",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850221,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BEGGK5EMHMLmIZ1OLNNm3_41.170560_-73.411923@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447161,
+    "wof:geomhash":"7b8a58d0858fce25e4e2c825ac5fdb8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85850221,
+            "region_id":85688629,
+            "venue_id":823815525
+        }
+    ],
+    "wof:id":823815525,
+    "wof:lastmodified":1466425289,
+    "wof:name":"John Sponza Painting",
+    "wof:parent_id":85850221,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -73.411923,
+    41.17056,
+    -73.411923,
+    41.17056
+],
+  "geometry": {"coordinates":[-73.411923,41.17056],"type":"Point"}
+}

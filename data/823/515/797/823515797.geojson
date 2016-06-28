@@ -1,0 +1,81 @@
+{
+  "id": 823515797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.423518,41.128929,-73.423518,41.128929",
+    "geom:latitude":41.128929,
+    "geom:longitude":-73.423518,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Van Tassell Ct",
+    "sg:city":"Norwalk",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 762 3747",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879319,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PbKANF6Sv7wxbKCmyZaOd_41.128929_-73.423518@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439922,
+    "wof:geomhash":"2bbe91eed72d9e4cc7fa6a2f13b2b747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879319,
+            "region_id":85688629,
+            "venue_id":823515797
+        }
+    ],
+    "wof:id":823515797,
+    "wof:lastmodified":1466422029,
+    "wof:name":"Fahey Plumbing & Heating Inc",
+    "wof:parent_id":85879319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.423518,
+    41.128929,
+    -73.423518,
+    41.128929
+],
+  "geometry": {"coordinates":[-73.423518,41.128929],"type":"Point"}
+}

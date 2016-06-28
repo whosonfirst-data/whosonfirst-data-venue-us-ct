@@ -1,0 +1,88 @@
+{
+  "id": 824103793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.069862,41.227451,-73.069862,41.227451",
+    "geom:latitude":41.227451,
+    "geom:longitude":-73.069862,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"430 Boston Post Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 878 6551",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85819849,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ca6LgSieJwN0SuU7x1Hdu_41.227451_-73.069862@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454418,
+    "wof:geomhash":"7bd9c9b0d89abe1a77572e6da783f55e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":824103793
+        }
+    ],
+    "wof:id":824103793,
+    "wof:lastmodified":1466423048,
+    "wof:name":"City of Milford",
+    "wof:parent_id":85819849,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -73.069862,
+    41.227451,
+    -73.069862,
+    41.227451
+],
+  "geometry": {"coordinates":[-73.069862,41.227451],"type":"Point"}
+}

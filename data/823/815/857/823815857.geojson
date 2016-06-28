@@ -1,0 +1,77 @@
+{
+  "id": 823815857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.622019,41.59392,-72.622019,41.59392",
+    "geom:latitude":41.59392,
+    "geom:longitude":-72.622019,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"595 Main St",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06480",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dr"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821535,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SBArNP3v6latxAECxryOP_41.593920_-72.622019@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447178,
+    "wof:geomhash":"9f3bf951a65b9bfe97b1fc063434c342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85821535,
+            "region_id":85688629,
+            "venue_id":823815857
+        }
+    ],
+    "wof:id":823815857,
+    "wof:lastmodified":1466425321,
+    "wof:name":"Radiology Clinics",
+    "wof:parent_id":85821535,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dr"
+    ]
+},
+  "bbox": [
+    -72.622019,
+    41.59392,
+    -72.622019,
+    41.59392
+],
+  "geometry": {"coordinates":[-72.62201899999999,41.59392],"type":"Point"}
+}

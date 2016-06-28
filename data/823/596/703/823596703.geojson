@@ -1,0 +1,83 @@
+{
+  "id": 823596703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.204325,41.191903,-73.204325,41.191903",
+    "geom:latitude":41.191903,
+    "geom:longitude":-73.204325,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"781 Madison Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 576 0725",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "brake",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GgxsE2h8eC1wP63TohEg0_41.191903_-73.204325@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441807,
+    "wof:geomhash":"5049bb4342d777f701b9d948e81dd5de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823596703
+        }
+    ],
+    "wof:id":823596703,
+    "wof:lastmodified":1466423327,
+    "wof:name":"Central Brake & Wheel Algnmt",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "brake",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.204325,
+    41.191903,
+    -73.204325,
+    41.191903
+],
+  "geometry": {"coordinates":[-73.204325,41.191903],"type":"Point"}
+}

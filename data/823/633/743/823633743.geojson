@@ -1,0 +1,79 @@
+{
+  "id": 823633743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.050142,41.513111,-73.050142,41.513111",
+    "geom:latitude":41.513111,
+    "geom:longitude":-73.050142,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"68 Radnor Ave",
+    "sg:city":"Naugatuck",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 723 1082",
+    "sg:postcode":"06770",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85842181,
+        102191575,
+        404495785,
+        85633793,
+        85930901,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o7cE9QmoYAoForha61sKp_41.513111_-73.050142@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442708,
+    "wof:geomhash":"637cb2c95cc851ac6114bb5e8229486e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495785,
+            "locality_id":85930901,
+            "neighbourhood_id":85842181,
+            "region_id":85688629,
+            "venue_id":823633743
+        }
+    ],
+    "wof:id":823633743,
+    "wof:lastmodified":1466423748,
+    "wof:name":"Schmidt Electric LLC",
+    "wof:parent_id":85842181,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.050142,
+    41.513111,
+    -73.050142,
+    41.513111
+],
+  "geometry": {"coordinates":[-73.05014199999999,41.513111],"type":"Point"}
+}

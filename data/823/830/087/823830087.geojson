@@ -1,0 +1,73 @@
+{
+  "id": 823830087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.923063,41.426342,-72.923063,41.426342",
+    "geom:latitude":41.426342,
+    "geom:longitude":-72.923063,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"270 Hillfield Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 5246",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qZW2rcfRFp3IwZl6VmrCy_41.426342_-72.923063@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447611,
+    "wof:geomhash":"985119e2b58416b81ad5a786acb38c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823830087
+        }
+    ],
+    "wof:id":823830087,
+    "wof:lastmodified":1466425236,
+    "wof:name":"Continental Roofing",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.923063,
+    41.426342,
+    -72.923063,
+    41.426342
+],
+  "geometry": {"coordinates":[-72.923063,41.426342],"type":"Point"}
+}

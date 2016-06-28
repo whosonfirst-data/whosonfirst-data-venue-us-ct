@@ -1,0 +1,71 @@
+{
+  "id": 823990271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.281666,41.435382,-73.281666,41.435382",
+    "geom:latitude":41.435382,
+    "geom:longitude":-73.281666,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Acorn Dr",
+    "sg:city":"Sandy Hook",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 8989",
+    "sg:postcode":"06482",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZEu60TxsdCq4KSeViDNDp_41.435382_-73.281666@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451720,
+    "wof:geomhash":"6148c8b8613bd4fd1bbc50a34d53198d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823990271
+        }
+    ],
+    "wof:id":823990271,
+    "wof:lastmodified":1466426702,
+    "wof:name":"Superior Gutter & Roofing",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.281666,
+    41.435382,
+    -73.281666,
+    41.435382
+],
+  "geometry": {"coordinates":[-73.281666,41.435382],"type":"Point"}
+}

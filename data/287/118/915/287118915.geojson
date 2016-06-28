@@ -2,13 +2,14 @@
   "id": 287118915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.667419,41.030647,-73.667419,41.030647",
     "geom:latitude":41.030647,
     "geom:longitude":-73.667419,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10 Lantern Ln",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":287118915,
-    "wof:lastmodified":1449001388,
+    "wof:lastmodified":1466421095,
     "wof:name":"MB Travel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-73.667419,41.030647,-73.667419,41.030647],
+  "bbox": [
+    -73.667419,
+    41.030647,
+    -73.667419,
+    41.030647
+],
   "geometry": {"coordinates":[-73.667419,41.030647],"type":"Point"}
 }

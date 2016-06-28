@@ -1,0 +1,75 @@
+{
+  "id": 823890403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.293935,41.416937,-73.293935,41.416937",
+    "geom:latitude":41.416937,
+    "geom:longitude":-73.293935,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Commerce Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "testing",
+        "business",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78V0vOlrwLvl2kTnZrVoOc_41.416937_-73.293935@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449220,
+    "wof:geomhash":"212541168606e48711192d5902ff60c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823890403
+        }
+    ],
+    "wof:id":823890403,
+    "wof:lastmodified":1466425965,
+    "wof:name":"Ifs",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "business",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -73.293935,
+    41.416937,
+    -73.293935,
+    41.416937
+],
+  "geometry": {"coordinates":[-73.293935,41.416937],"type":"Point"}
+}

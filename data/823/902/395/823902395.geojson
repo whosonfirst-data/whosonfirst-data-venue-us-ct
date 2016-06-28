@@ -1,0 +1,66 @@
+{
+  "id": 823902395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.19054,41.281254,-73.19054,41.281254",
+    "geom:latitude":41.281254,
+    "geom:longitude":-73.19054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"76 Greenbriar Rd",
+    "sg:city":"Trumbull",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 5357",
+    "sg:postcode":"06611",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69HpGEPXF7LiC1ILn6Fkez_41.281254_-73.190540@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449526,
+    "wof:geomhash":"cad066a5c93b624150cac80e99cc6e96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823902395
+        }
+    ],
+    "wof:id":823902395,
+    "wof:lastmodified":1466426068,
+    "wof:name":"Marcy's Tennis Academy",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.19054,
+    41.281254,
+    -73.19054,
+    41.281254
+],
+  "geometry": {"coordinates":[-73.19054,41.281254],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 824109231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.188422,41.17852,-73.188422,41.17852",
+    "geom:latitude":41.17852,
+    "geom:longitude":-73.188422,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"10 Middle St Ste 102",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 579 3296",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "internet",
+        "saving",
+        "banking"
+    ],
+    "sg:website":"http://locators.bankofamerica.com/a/BC-13361",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876483,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25gB2BHzzsJHcYjHXlGphk_41.178520_-73.188422@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454539,
+    "wof:geomhash":"78dd80d9142d6336a8f5e84d58fdf945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876483,
+            "region_id":85688629,
+            "venue_id":824109231
+        }
+    ],
+    "wof:id":824109231,
+    "wof:lastmodified":1466423113,
+    "wof:name":"Bank Of America",
+    "wof:parent_id":85876483,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "internet",
+        "saving",
+        "banking"
+    ]
+},
+  "bbox": [
+    -73.188422,
+    41.17852,
+    -73.188422,
+    41.17852
+],
+  "geometry": {"coordinates":[-73.188422,41.17852],"type":"Point"}
+}

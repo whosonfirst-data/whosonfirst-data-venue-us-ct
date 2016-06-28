@@ -1,0 +1,73 @@
+{
+  "id": 823496189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.331364,41.233465,-73.331364,41.233465",
+    "geom:latitude":41.233465,
+    "geom:longitude":-73.331364,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"86 Wells Hill Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 1997",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85803807,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R5hV5kk7IpUtXEOouYTrI_41.233465_-73.331364@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439461,
+    "wof:geomhash":"049bc19f55f5db43e39806c80337c26a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85803807,
+            "region_id":85688629,
+            "venue_id":823496189
+        }
+    ],
+    "wof:id":823496189,
+    "wof:lastmodified":1466421606,
+    "wof:name":"Tea Importers Inc",
+    "wof:parent_id":85803807,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -73.331364,
+    41.233465,
+    -73.331364,
+    41.233465
+],
+  "geometry": {"coordinates":[-73.33136399999999,41.233465],"type":"Point"}
+}

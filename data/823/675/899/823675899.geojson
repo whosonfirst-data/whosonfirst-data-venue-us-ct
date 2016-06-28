@@ -1,0 +1,66 @@
+{
+  "id": 823675899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.804873,41.917451,-71.804873,41.917451",
+    "geom:latitude":41.917451,
+    "geom:longitude":-71.804873,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"55 Rhode Island Line Rd",
+    "sg:city":"Putnam",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06260",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843329,
+        102085377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uSc2qD4M2xdppYRyFRR1U_41.917451_-71.804873@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443699,
+    "wof:geomhash":"fab310935836fd8de9c4563c1a393f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "neighbourhood_id":85843329,
+            "region_id":85688629,
+            "venue_id":823675899
+        }
+    ],
+    "wof:id":823675899,
+    "wof:lastmodified":1466423772,
+    "wof:name":"Fitzgeralds Repair",
+    "wof:parent_id":85843329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -71.804873,
+    41.917451,
+    -71.804873,
+    41.917451
+],
+  "geometry": {"coordinates":[-71.804873,41.917451],"type":"Point"}
+}

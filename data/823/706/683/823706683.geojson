@@ -1,0 +1,73 @@
+{
+  "id": 823706683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.522945,41.082609,-73.522945,41.082609",
+    "geom:latitude":41.082609,
+    "geom:longitude":-73.522945,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"123 Ridgewood Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 977 4556",
+    "sg:postcode":"06907",
+    "sg:province":"CT",
+    "sg:website":"www.toquamschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805565,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wze5SMDwDZz0TCz07BKtV_41.082609_-73.522945@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444372,
+    "wof:geomhash":"30d6ce6e889a9fc52d160c74b3264810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85805565,
+            "region_id":85688629,
+            "venue_id":823706683
+        }
+    ],
+    "wof:id":823706683,
+    "wof:lastmodified":1466424329,
+    "wof:name":"Toquam School",
+    "wof:parent_id":85805565,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.522945,
+    41.082609,
+    -73.522945,
+    41.082609
+],
+  "geometry": {"coordinates":[-73.52294500000001,41.082609],"type":"Point"}
+}

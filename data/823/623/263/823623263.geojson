@@ -1,0 +1,73 @@
+{
+  "id": 823623263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.941514,41.279311,-72.941514,41.279311",
+    "geom:latitude":41.279311,
+    "geom:longitude":-72.941514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Elm St",
+    "sg:city":"West Haven",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 479 3589",
+    "sg:postcode":"06516",
+    "sg:province":"CT",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85811091,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EYzmuCzfU0VDEaBC4MDgj_41.279311_-72.941514@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442474,
+    "wof:geomhash":"75291d9dbd801d7ebd8cc0a21a48fddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":823623263
+        }
+    ],
+    "wof:id":823623263,
+    "wof:lastmodified":1466423545,
+    "wof:name":"P & B Express",
+    "wof:parent_id":85811091,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -72.941514,
+    41.279311,
+    -72.941514,
+    41.279311
+],
+  "geometry": {"coordinates":[-72.941514,41.279311],"type":"Point"}
+}

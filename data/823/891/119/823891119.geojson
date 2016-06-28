@@ -1,0 +1,67 @@
+{
+  "id": 823891119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.263956,41.333825,-73.263956,41.333825",
+    "geom:latitude":41.333825,
+    "geom:longitude":-73.263956,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"612 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 8683",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:website":"www.cyclefitness.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XM04z0pppEKvzd22u5Af5_41.333825_-73.263956@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449235,
+    "wof:geomhash":"b1c1dafdc23a292485b6af586b8943a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823891119
+        }
+    ],
+    "wof:id":823891119,
+    "wof:lastmodified":1466425650,
+    "wof:name":"Cycle Fitness",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.263956,
+    41.333825,
+    -73.263956,
+    41.333825
+],
+  "geometry": {"coordinates":[-73.26395599999999,41.333825],"type":"Point"}
+}

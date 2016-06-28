@@ -1,0 +1,71 @@
+{
+  "id": 823771357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.597973,41.841146,-72.597973,41.841146",
+    "geom:latitude":41.841146,
+    "geom:longitude":-72.597973,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"307 Strong Rd",
+    "sg:city":"South Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06074",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85824329,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LEQyHiiD7cfdsVUEyBtya_41.841146_-72.597973@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445854,
+    "wof:geomhash":"a55005ac6ab99a3192c996a6a504272b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823771357
+        }
+    ],
+    "wof:id":823771357,
+    "wof:lastmodified":1466424898,
+    "wof:name":"Lees Maintenance Service",
+    "wof:parent_id":85824329,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.597973,
+    41.841146,
+    -72.597973,
+    41.841146
+],
+  "geometry": {"coordinates":[-72.597973,41.841146],"type":"Point"}
+}

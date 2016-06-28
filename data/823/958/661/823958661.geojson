@@ -1,0 +1,71 @@
+{
+  "id": 823958661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.889311,41.757362,-72.889311,41.757362",
+    "geom:latitude":41.757362,
+    "geom:longitude":-72.889311,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Mill St",
+    "sg:city":"Unionville",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 675 4227",
+    "sg:postcode":"06085",
+    "sg:province":"CT",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844721,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1akpNsFgjFCOsFm2LjtEnW_41.757362_-72.889311@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450992,
+    "wof:geomhash":"9b563fb51f60c5a357101e79b657a8e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85844721,
+            "region_id":85688629,
+            "venue_id":823958661
+        }
+    ],
+    "wof:id":823958661,
+    "wof:lastmodified":1466426512,
+    "wof:name":"ABS",
+    "wof:parent_id":85844721,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -72.889311,
+    41.757362,
+    -72.889311,
+    41.757362
+],
+  "geometry": {"coordinates":[-72.88931100000001,41.757362],"type":"Point"}
+}

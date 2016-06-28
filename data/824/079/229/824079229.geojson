@@ -1,0 +1,91 @@
+{
+  "id": 824079229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.408404,41.576791,-73.408404,41.576791",
+    "geom:latitude":41.576791,
+    "geom:longitude":-73.408404,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 East St",
+    "sg:city":"New Milford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/new-milford/129976-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 354 4408",
+    "sg:postcode":"06776",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85809229,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IgKrOA9MZpn8Ngti1ESkM_41.576791_-73.408404@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453835,
+    "wof:geomhash":"06a1c3036a5b2138749e0f15985237be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809229,
+            "region_id":85688629,
+            "venue_id":824079229
+        }
+    ],
+    "wof:id":824079229,
+    "wof:lastmodified":1466422558,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85809229,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -73.408404,
+    41.576791,
+    -73.408404,
+    41.576791
+],
+  "geometry": {"coordinates":[-73.408404,41.576791],"type":"Point"}
+}

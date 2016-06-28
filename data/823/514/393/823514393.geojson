@@ -1,0 +1,79 @@
+{
+  "id": 823514393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.85675,41.349591,-72.85675,41.349591",
+    "geom:latitude":41.349591,
+    "geom:longitude":-72.85675,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Peters Ln",
+    "sg:city":"North Haven",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 234 2187",
+    "sg:postcode":"06473",
+    "sg:province":"CT",
+    "sg:tags":[
+        "packing",
+        "crating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85835039,
+        102191575,
+        404495789,
+        85633793,
+        85931389,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yaEuABfkViiE8vvjvTuEf_41.349591_-72.856750@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439894,
+    "wof:geomhash":"be71afa0876483129b863d100926c82f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495789,
+            "locality_id":85931389,
+            "neighbourhood_id":85835039,
+            "region_id":85688629,
+            "venue_id":823514393
+        }
+    ],
+    "wof:id":823514393,
+    "wof:lastmodified":1466422006,
+    "wof:name":"Victoria Packing",
+    "wof:parent_id":85835039,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packing",
+        "crating"
+    ]
+},
+  "bbox": [
+    -72.85675,
+    41.349591,
+    -72.85675,
+    41.349591
+],
+  "geometry": {"coordinates":[-72.85675000000001,41.349591],"type":"Point"}
+}

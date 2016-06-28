@@ -1,0 +1,77 @@
+{
+  "id": 823738127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.32328,41.766374,-72.32328,41.766374",
+    "geom:latitude":41.766374,
+    "geom:longitude":-72.32328,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Midland Rd",
+    "sg:city":"Coventry",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 742 9948",
+    "sg:postcode":"06238",
+    "sg:province":"CT",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931285,
+        102085379,
+        85865199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nqGjXzPOSVVJTbs3L4V84_41.766374_-72.323280@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445114,
+    "wof:geomhash":"2af751bf47f4183bb19699844dc7dc1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "locality_id":85931285,
+            "neighbourhood_id":85865199,
+            "region_id":85688629,
+            "venue_id":823738127
+        }
+    ],
+    "wof:id":823738127,
+    "wof:lastmodified":1466424556,
+    "wof:name":"Northeast Well Pump",
+    "wof:parent_id":85865199,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -72.32328,
+    41.766374,
+    -72.32328,
+    41.766374
+],
+  "geometry": {"coordinates":[-72.32328,41.766374],"type":"Point"}
+}

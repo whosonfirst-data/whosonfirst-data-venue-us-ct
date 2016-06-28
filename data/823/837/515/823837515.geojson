@@ -1,0 +1,71 @@
+{
+  "id": 823837515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.680739,41.257568,-72.680739,41.257568",
+    "geom:latitude":41.257568,
+    "geom:longitude":-72.680739,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"69 Decatur Ave",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85846559,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BZSmmrcYyjDKAVapjszXG_41.257568_-72.680739@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447847,
+    "wof:geomhash":"ea0623c148db7141af239607d9ae6c26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85846559,
+            "region_id":85688629,
+            "venue_id":823837515
+        }
+    ],
+    "wof:id":823837515,
+    "wof:lastmodified":1466425591,
+    "wof:name":"James J Abrahams Dr",
+    "wof:parent_id":85846559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician"
+    ]
+},
+  "bbox": [
+    -72.680739,
+    41.257568,
+    -72.680739,
+    41.257568
+],
+  "geometry": {"coordinates":[-72.680739,41.257568],"type":"Point"}
+}

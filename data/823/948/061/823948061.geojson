@@ -1,0 +1,88 @@
+{
+  "id": 823948061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.015762,41.548027,-73.015762,41.548027",
+    "geom:latitude":41.548027,
+    "geom:longitude":-73.015762,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Meriden Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 756 7884",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "car",
+        "used",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r70T9uJE8WX9QoCbva33R_41.548027_-73.015762@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450735,
+    "wof:geomhash":"5e065361f8f7b57bb3db5f8673bcba3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":823948061
+        }
+    ],
+    "wof:id":823948061,
+    "wof:lastmodified":1466426395,
+    "wof:name":"Ernie's Auto Body Works",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "car",
+        "used",
+        "painting"
+    ]
+},
+  "bbox": [
+    -73.015762,
+    41.548027,
+    -73.015762,
+    41.548027
+],
+  "geometry": {"coordinates":[-73.015762,41.548027],"type":"Point"}
+}

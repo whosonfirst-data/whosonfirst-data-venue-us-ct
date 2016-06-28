@@ -1,0 +1,71 @@
+{
+  "id": 823777921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.159932,41.486212,-73.159932,41.486212",
+    "geom:latitude":41.486212,
+    "geom:longitude":-73.159932,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"885 Strongtown Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 5596",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dDKJGybSw4aiMW3nrEK85_41.486212_-73.159932@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446034,
+    "wof:geomhash":"1d1b66b5c4f1abbd1479e6db6c411719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823777921
+        }
+    ],
+    "wof:id":823777921,
+    "wof:lastmodified":1466425032,
+    "wof:name":"Berkshire Mountain Constr Co",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.159932,
+    41.486212,
+    -73.159932,
+    41.486212
+],
+  "geometry": {"coordinates":[-73.159932,41.486212],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 824028311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.114794,41.570825,-72.114794,41.570825",
+    "geom:latitude":41.570825,
+    "geom:longitude":-72.114794,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"4 Plumtree Dr",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 889 2828",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HgOwyPcnZFeaFd0IgZDj8_41.570825_-72.114794@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452624,
+    "wof:geomhash":"86f9e0125f326e7364ff14ac9317b0f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":824028311
+        }
+    ],
+    "wof:id":824028311,
+    "wof:lastmodified":1466421582,
+    "wof:name":"Meadow Ridge Apartments",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -72.114794,
+    41.570825,
+    -72.114794,
+    41.570825
+],
+  "geometry": {"coordinates":[-72.114794,41.570825],"type":"Point"}
+}

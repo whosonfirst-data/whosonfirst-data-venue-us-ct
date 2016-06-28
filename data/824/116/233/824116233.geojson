@@ -1,0 +1,104 @@
+{
+  "id": 824116233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.625665,41.028841,-73.625665,41.028841",
+    "geom:latitude":41.028841,
+    "geom:longitude":-73.625665,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Lewis St",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 629 2255",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "fixture",
+        "lampshade",
+        "lamp",
+        "lighting",
+        "shade",
+        "shades-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6E1WTg6p4n8fr61vQOBr47_41.028841_-73.625665@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454684,
+    "wof:geomhash":"0b83286d8a640188fcafb00c184fcf8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824116233
+        }
+    ],
+    "wof:id":824116233,
+    "wof:lastmodified":1466423199,
+    "wof:name":"The Light Touch",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fixture",
+        "lampshade",
+        "lamp",
+        "lighting",
+        "shade",
+        "shades-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -73.625665,
+    41.028841,
+    -73.625665,
+    41.028841
+],
+  "geometry": {"coordinates":[-73.625665,41.028841],"type":"Point"}
+}

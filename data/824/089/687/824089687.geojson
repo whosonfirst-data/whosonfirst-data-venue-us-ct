@@ -1,0 +1,78 @@
+{
+  "id": 824089687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.512345,41.7985,-72.512345,41.7985",
+    "geom:latitude":41.7985,
+    "geom:longitude":-72.512345,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"135 Sheldon Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 647 1359",
+    "sg:postcode":"06042",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85838951,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34qiWB4fUALAljzE0TaMkb_41.798500_-72.512345@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454083,
+    "wof:geomhash":"61003492e6145a79acabea02c92e1047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85838951,
+            "region_id":85688629,
+            "venue_id":824089687
+        }
+    ],
+    "wof:id":824089687,
+    "wof:lastmodified":1466422890,
+    "wof:name":"Colt Express",
+    "wof:parent_id":85838951,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "courier"
+    ]
+},
+  "bbox": [
+    -72.512345,
+    41.7985,
+    -72.512345,
+    41.7985
+],
+  "geometry": {"coordinates":[-72.512345,41.7985],"type":"Point"}
+}

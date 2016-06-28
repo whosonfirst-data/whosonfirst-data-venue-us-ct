@@ -1,0 +1,71 @@
+{
+  "id": 823706101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000919,41.678995,-73.000919,41.678995",
+    "geom:latitude":41.678995,
+    "geom:longitude":-73.000919,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"77 Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 314 8005",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32YafOoelFyHuT11j3vyFp_41.678995_-73.000919@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444361,
+    "wof:geomhash":"30ff303b5c8af03734f25692ea944483",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":823706101
+        }
+    ],
+    "wof:id":823706101,
+    "wof:lastmodified":1466424265,
+    "wof:name":"Plymouth Board of Education",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -73.000919,
+    41.678995,
+    -73.000919,
+    41.678995
+],
+  "geometry": {"coordinates":[-73.000919,41.678995],"type":"Point"}
+}

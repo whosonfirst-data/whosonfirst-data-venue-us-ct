@@ -1,0 +1,73 @@
+{
+  "id": 823629333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.055624,41.401015,-73.055624,41.401015",
+    "geom:latitude":41.401015,
+    "geom:longitude":-73.055624,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"43 Skokorat St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 2555",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3w7O3cur2adGSZ7yLcRCEG_41.401015_-73.055624@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442616,
+    "wof:geomhash":"df357a9c4db1cbf1aa14edac6d9d2e42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823629333
+        }
+    ],
+    "wof:id":823629333,
+    "wof:lastmodified":1466423738,
+    "wof:name":"Shady Knoll Health Care",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -73.055624,
+    41.401015,
+    -73.055624,
+    41.401015
+],
+  "geometry": {"coordinates":[-73.05562399999999,41.401015],"type":"Point"}
+}

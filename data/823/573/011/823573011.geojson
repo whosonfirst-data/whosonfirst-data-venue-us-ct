@@ -1,0 +1,75 @@
+{
+  "id": 823573011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.914279,41.476129,-72.914279,41.476129",
+    "geom:latitude":41.476129,
+    "geom:longitude":-72.914279,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"71 Hilltop Rd",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 250 0600",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pavement",
+        "marking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85931411,
+        102086923,
+        85844387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21gE78gUBVjlnhBI0utgmL_41.476129_-72.914279@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441250,
+    "wof:geomhash":"adbc6b24aec7f96860040e4c7ebaf2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "locality_id":85931411,
+            "neighbourhood_id":85844387,
+            "region_id":85688629,
+            "venue_id":823573011
+        }
+    ],
+    "wof:id":823573011,
+    "wof:lastmodified":1466422784,
+    "wof:name":"Kuehl Line Striping",
+    "wof:parent_id":85844387,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pavement",
+        "marking"
+    ]
+},
+  "bbox": [
+    -72.914279,
+    41.476129,
+    -72.914279,
+    41.476129
+],
+  "geometry": {"coordinates":[-72.91427899999999,41.476129],"type":"Point"}
+}

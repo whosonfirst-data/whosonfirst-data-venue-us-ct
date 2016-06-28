@@ -1,0 +1,74 @@
+{
+  "id": 823951139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.889488,41.552903,-72.889488,41.552903",
+    "geom:latitude":41.552903,
+    "geom:longitude":-72.889488,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"210 E Johnson Ave",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 250 9998",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "sg:website":"www.centraltransportinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85851061,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vExGkZTPnwjY3Y7UWdhOK_41.552903_-72.889488@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450803,
+    "wof:geomhash":"bf897ee5e9f51279b0da89af8f821f66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85851061,
+            "region_id":85688629,
+            "venue_id":823951139
+        }
+    ],
+    "wof:id":823951139,
+    "wof:lastmodified":1466426383,
+    "wof:name":"Central Transport Intl Inc",
+    "wof:parent_id":85851061,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -72.889488,
+    41.552903,
+    -72.889488,
+    41.552903
+],
+  "geometry": {"coordinates":[-72.889488,41.552903],"type":"Point"}
+}

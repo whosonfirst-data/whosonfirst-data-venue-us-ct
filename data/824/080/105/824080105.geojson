@@ -1,0 +1,80 @@
+{
+  "id": 824080105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.641952,41.01777,-73.641952,41.01777",
+    "geom:latitude":41.01777,
+    "geom:longitude":-73.641952,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"21 Saint Roch Ave",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/greenwich/25326-little-thai-kitchen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 622 2972",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "thai",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7R26um5MDBmF8wUNOaJBqV_41.017770_-73.641952@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453854,
+    "wof:geomhash":"f92e18c742acc11c6a6bb2e10edf9027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":824080105
+        }
+    ],
+    "wof:id":824080105,
+    "wof:lastmodified":1466422546,
+    "wof:name":"Little Thai Kitchen",
+    "wof:parent_id":85885307,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thai",
+        "asian"
+    ]
+},
+  "bbox": [
+    -73.641952,
+    41.01777,
+    -73.641952,
+    41.01777
+],
+  "geometry": {"coordinates":[-73.641952,41.01777],"type":"Point"}
+}

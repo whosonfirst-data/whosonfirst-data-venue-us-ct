@@ -1,0 +1,73 @@
+{
+  "id": 823724665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.50842,41.637582,-73.50842,41.637582",
+    "geom:latitude":41.637582,
+    "geom:longitude":-73.50842,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"12 Smoke Ridge Rd",
+    "sg:city":"Sherman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 354 2844",
+    "sg:postcode":"06784",
+    "sg:province":"CT",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85833885,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZytqKtGg1foklklzOx7b9_41.637582_-73.508420@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444771,
+    "wof:geomhash":"931c3d7e92e48be26d535cbbaddb7c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85833885,
+            "region_id":85688629,
+            "venue_id":823724665
+        }
+    ],
+    "wof:id":823724665,
+    "wof:lastmodified":1466424397,
+    "wof:name":"William L Murphy Plumbing",
+    "wof:parent_id":85833885,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.50842,
+    41.637582,
+    -73.50842,
+    41.637582
+],
+  "geometry": {"coordinates":[-73.50842,41.637582],"type":"Point"}
+}

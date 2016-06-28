@@ -1,0 +1,79 @@
+{
+  "id": 823956719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.980441,41.543843,-72.980441,41.543843",
+    "geom:latitude":41.543843,
+    "geom:longitude":-72.980441,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 Mulloy Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "complete",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85816299,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dcvaa4vkX6inALk1npvDt_41.543843_-72.980441@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450923,
+    "wof:geomhash":"3775f171c28202ff2c38a673f4ae662f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85816299,
+            "region_id":85688629,
+            "venue_id":823956719
+        }
+    ],
+    "wof:id":823956719,
+    "wof:lastmodified":1466426515,
+    "wof:name":"Break Pedal",
+    "wof:parent_id":85816299,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "complete",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -72.980441,
+    41.543843,
+    -72.980441,
+    41.543843
+],
+  "geometry": {"coordinates":[-72.980441,41.543843],"type":"Point"}
+}

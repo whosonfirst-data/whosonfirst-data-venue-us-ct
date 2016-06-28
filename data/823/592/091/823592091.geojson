@@ -1,0 +1,66 @@
+{
+  "id": 823592091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.303403,41.41373,-73.303403,41.41373",
+    "geom:latitude":41.41373,
+    "geom:longitude":-73.303403,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Queen St",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 7716",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e1CvdanM04iJjxbEMfcS1_41.413730_-73.303403@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441694,
+    "wof:geomhash":"52ff19c48293bdb8ee38ee1d5c32ecae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823592091
+        }
+    ],
+    "wof:id":823592091,
+    "wof:lastmodified":1466423152,
+    "wof:name":"Andreas Pastry Shop Inc",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.303403,
+    41.41373,
+    -73.303403,
+    41.41373
+],
+  "geometry": {"coordinates":[-73.303403,41.41373],"type":"Point"}
+}

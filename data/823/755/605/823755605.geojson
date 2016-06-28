@@ -1,0 +1,66 @@
+{
+  "id": 823755605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252665,41.307433,-73.252665,41.307433",
+    "geom:latitude":41.307433,
+    "geom:longitude":-73.252665,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"180 Old Newtown Rd",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 5870",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rG7AjCxpswPn7N0e8PfOW_41.307433_-73.252665@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445528,
+    "wof:geomhash":"d07f5fc71ac6f0ac29e7c045db79ba7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823755605
+        }
+    ],
+    "wof:id":823755605,
+    "wof:lastmodified":1466424730,
+    "wof:name":"Stepney Elementary School",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.252665,
+    41.307433,
+    -73.252665,
+    41.307433
+],
+  "geometry": {"coordinates":[-73.25266499999999,41.307433],"type":"Point"}
+}

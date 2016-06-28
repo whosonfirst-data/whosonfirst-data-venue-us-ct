@@ -1,0 +1,86 @@
+{
+  "id": 823800331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.143609,41.199119,-73.143609,41.199119",
+    "geom:latitude":41.199119,
+    "geom:longitude":-73.143609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"118 Summer St",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 931 1850",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "midwife",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75B5mwFdsaFyTjghz8xJ8E_41.199119_-73.143609@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446719,
+    "wof:geomhash":"dec8c97fd9aba624ff640e90f9df91b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823800331
+        }
+    ],
+    "wof:id":823800331,
+    "wof:lastmodified":1466425089,
+    "wof:name":"Mothers Care Doula Svcs LLC",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "midwife",
+        "care"
+    ]
+},
+  "bbox": [
+    -73.143609,
+    41.199119,
+    -73.143609,
+    41.199119
+],
+  "geometry": {"coordinates":[-73.143609,41.199119],"type":"Point"}
+}

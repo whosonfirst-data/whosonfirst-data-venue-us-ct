@@ -1,0 +1,82 @@
+{
+  "id": 824089287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.592587,41.711289,-72.592587,41.711289",
+    "geom:latitude":41.711289,
+    "geom:longitude":-72.592587,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"57 Benton Ln",
+    "sg:city":"Glastonbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 633 0795",
+    "sg:postcode":"06033",
+    "sg:province":"CT",
+    "sg:tags":[
+        "cleaner",
+        "rug",
+        "flooring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85802441,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cd5DVEzR007inyO39q5c7_41.711289_-72.592587@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454073,
+    "wof:geomhash":"e7b8a4dedadc6df97cf763e506c239ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85802441,
+            "region_id":85688629,
+            "venue_id":824089287
+        }
+    ],
+    "wof:id":824089287,
+    "wof:lastmodified":1466422833,
+    "wof:name":"Action Cleaning",
+    "wof:parent_id":85802441,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "rug",
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.592587,
+    41.711289,
+    -72.592587,
+    41.711289
+],
+  "geometry": {"coordinates":[-72.59258699999999,41.711289],"type":"Point"}
+}

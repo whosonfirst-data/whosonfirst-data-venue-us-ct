@@ -1,0 +1,88 @@
+{
+  "id": 823601539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.141967,41.185414,-73.141967,41.185414",
+    "geom:latitude":41.185414,
+    "geom:longitude":-73.141967,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1725 Stratford Ave",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 378 5147",
+    "sg:postcode":"06615",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "oil",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888495,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sTAz4wiM7tTMFktO5wrOD_41.185414_-73.141967@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441941,
+    "wof:geomhash":"b3ac09690d5dfb2827f0cd08f9bcbd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85888495,
+            "region_id":85688629,
+            "venue_id":823601539
+        }
+    ],
+    "wof:id":823601539,
+    "wof:lastmodified":1466423489,
+    "wof:name":"Bob's Service Station",
+    "wof:parent_id":85888495,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "oil",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -73.141967,
+    41.185414,
+    -73.141967,
+    41.185414
+],
+  "geometry": {"coordinates":[-73.14196699999999,41.185414],"type":"Point"}
+}

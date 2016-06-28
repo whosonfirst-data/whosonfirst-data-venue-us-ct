@@ -1,0 +1,77 @@
+{
+  "id": 823675337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.82143,41.426165,-72.82143,41.426165",
+    "geom:latitude":41.426165,
+    "geom:longitude":-72.82143,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"15 Anna Dr",
+    "sg:city":"Wallingford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 265 2509",
+    "sg:postcode":"06492",
+    "sg:province":"CT",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843519,
+        102191575,
+        404495801,
+        85633793,
+        85931381,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1T0hFXuOzTvXl9xxE8pM3l_41.426165_-72.821430@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443689,
+    "wof:geomhash":"2e5ac1dfe23afc481667ae3514f61e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495801,
+            "locality_id":85931381,
+            "neighbourhood_id":85843519,
+            "region_id":85688629,
+            "venue_id":823675337
+        }
+    ],
+    "wof:id":823675337,
+    "wof:lastmodified":1466424003,
+    "wof:name":"Direct Deliveries",
+    "wof:parent_id":85843519,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -72.82143,
+    41.426165,
+    -72.82143,
+    41.426165
+],
+  "geometry": {"coordinates":[-72.82143000000001,41.426165],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 824115199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.474931,41.076933,-73.474931,41.076933",
+    "geom:latitude":41.076933,
+    "geom:longitude":-73.474931,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Bailey Ave",
+    "sg:city":"Darien",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Newspaper",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 972 6611",
+    "sg:postcode":"06820",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dealers-wholesale",
+        "news"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iB1Y15KqmCtcLgfAzUztd_41.076933_-73.474931@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454661,
+    "wof:geomhash":"4c05532239e70d8a5d0eff78afb56a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":824115199
+        }
+    ],
+    "wof:id":824115199,
+    "wof:lastmodified":1466423244,
+    "wof:name":"The Ridgefield Press",
+    "wof:parent_id":85879309,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-wholesale",
+        "news"
+    ]
+},
+  "bbox": [
+    -73.474931,
+    41.076933,
+    -73.474931,
+    41.076933
+],
+  "geometry": {"coordinates":[-73.474931,41.076933],"type":"Point"}
+}

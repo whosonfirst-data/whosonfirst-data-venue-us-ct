@@ -2,13 +2,14 @@
   "id": 354070025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.666924,41.033393,-73.666924,41.033393",
     "geom:latitude":41.033393,
     "geom:longitude":-73.666924,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Riverview Ct",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354070025,
-    "wof:lastmodified":1449066743,
+    "wof:lastmodified":1466421135,
     "wof:name":"General Construction Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "company"
     ]
 },
-  "bbox": [-73.666924,41.033393,-73.666924,41.033393],
-  "geometry": {"coordinates":[-73.666924,41.033393],"type":"Point"}
+  "bbox": [
+    -73.666924,
+    41.033393,
+    -73.666924,
+    41.033393
+],
+  "geometry": {"coordinates":[-73.66692399999999,41.033393],"type":"Point"}
 }

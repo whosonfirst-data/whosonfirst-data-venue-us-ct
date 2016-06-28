@@ -1,0 +1,73 @@
+{
+  "id": 823835225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.18609,41.44336,-73.18609,41.44336",
+    "geom:latitude":41.44336,
+    "geom:longitude":-73.18609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"805 Jacob Rd",
+    "sg:city":"Southbury",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 264 0938",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SPxDe616sxpICn7haoDak_41.443360_-73.186090@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463447765,
+    "wof:geomhash":"68fbcf504bb089cc91f36985d5792bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823835225
+        }
+    ],
+    "wof:id":823835225,
+    "wof:lastmodified":1466425581,
+    "wof:name":"Beardsley Excavating Inc",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.18609,
+    41.44336,
+    -73.18609,
+    41.44336
+],
+  "geometry": {"coordinates":[-73.18608999999999,41.44336],"type":"Point"}
+}

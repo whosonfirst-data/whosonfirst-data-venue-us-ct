@@ -1,0 +1,71 @@
+{
+  "id": 823879795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.374299,41.281684,-72.374299,41.281684",
+    "geom:latitude":41.281684,
+    "geom:longitude":-72.374299,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"61 Sherman St",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 255 3636",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828733,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zIouVk2EVX8MofVK6HJPD_41.281684_-72.374299@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448965,
+    "wof:geomhash":"812b55ae8fedfd6831bb2aa1eee8f739",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85828733,
+            "region_id":85688629,
+            "venue_id":823879795
+        }
+    ],
+    "wof:id":823879795,
+    "wof:lastmodified":1466425948,
+    "wof:name":"Sam P De Martino DDS",
+    "wof:parent_id":85828733,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -72.374299,
+    41.281684,
+    -72.374299,
+    41.281684
+],
+  "geometry": {"coordinates":[-72.37429899999999,41.281684],"type":"Point"}
+}

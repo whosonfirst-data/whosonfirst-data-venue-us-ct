@@ -1,0 +1,73 @@
+{
+  "id": 823658431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.583946,41.749388,-72.583946,41.749388",
+    "geom:latitude":41.749388,
+    "geom:longitude":-72.583946,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"196 Langford Ln",
+    "sg:city":"East Hartford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 568 7111",
+    "sg:postcode":"06118",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IixG9Sri2izsA3AkZE1dH_41.749388_-72.583946@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443285,
+    "wof:geomhash":"36c2f0b19f1e0a9c1436574bf482fe05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823658431
+        }
+    ],
+    "wof:id":823658431,
+    "wof:lastmodified":1466423906,
+    "wof:name":"Connecticut Elec Svcs Corp",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.583946,
+    41.749388,
+    -72.583946,
+    41.749388
+],
+  "geometry": {"coordinates":[-72.583946,41.749388],"type":"Point"}
+}

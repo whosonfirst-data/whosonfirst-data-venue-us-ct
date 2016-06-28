@@ -1,0 +1,81 @@
+{
+  "id": 823679723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.528458,41.048617,-73.528458,41.048617",
+    "geom:latitude":41.048617,
+    "geom:longitude":-73.528458,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"36 Magee Ave",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881171,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O2WeFW0V4z3PWncFRznos_41.048617_-73.528458@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443781,
+    "wof:geomhash":"410b91844bcfc89c6b329afe25614e96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881171,
+            "region_id":85688629,
+            "venue_id":823679723
+        }
+    ],
+    "wof:id":823679723,
+    "wof:lastmodified":1466424055,
+    "wof:name":"Mandis",
+    "wof:parent_id":85881171,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.528458,
+    41.048617,
+    -73.528458,
+    41.048617
+],
+  "geometry": {"coordinates":[-73.528458,41.048617],"type":"Point"}
+}

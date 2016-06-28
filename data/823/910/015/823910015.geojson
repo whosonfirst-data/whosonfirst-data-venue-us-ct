@@ -1,0 +1,71 @@
+{
+  "id": 823910015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.68138,41.892245,-72.68138,41.892245",
+    "geom:latitude":41.892245,
+    "geom:longitude":-72.68138,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"9 Fox Meadow Ln",
+    "sg:city":"Windsor",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 688 7575",
+    "sg:postcode":"06095",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85807165,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OaJzJqGbFffKAd6DLbAUV_41.892245_-72.681380@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449746,
+    "wof:geomhash":"30680885823ab12c9ae39d5363d2ac19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85807165,
+            "region_id":85688629,
+            "venue_id":823910015
+        }
+    ],
+    "wof:id":823910015,
+    "wof:lastmodified":1466426081,
+    "wof:name":"Tim Johnson Siding LLC",
+    "wof:parent_id":85807165,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.68138,
+    41.892245,
+    -72.68138,
+    41.892245
+],
+  "geometry": {"coordinates":[-72.68138,41.892245],"type":"Point"}
+}

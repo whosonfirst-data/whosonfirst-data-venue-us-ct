@@ -1,0 +1,71 @@
+{
+  "id": 823928123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.090514,41.401521,-73.090514,41.401521",
+    "geom:latitude":41.401521,
+    "geom:longitude":-73.090514,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Oxford Rd",
+    "sg:city":"Oxford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 881 5572",
+    "sg:postcode":"06478",
+    "sg:province":"CT",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BSSNeRqfBK5uo5Q7kiYxJ_41.401521_-73.090514@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450204,
+    "wof:geomhash":"c4a2676630a7633ebdb635b356cb3c28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823928123
+        }
+    ],
+    "wof:id":823928123,
+    "wof:lastmodified":1466426195,
+    "wof:name":"Traditional Mortgage",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -73.090514,
+    41.401521,
+    -73.090514,
+    41.401521
+],
+  "geometry": {"coordinates":[-73.090514,41.401521],"type":"Point"}
+}

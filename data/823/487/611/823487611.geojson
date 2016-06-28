@@ -1,0 +1,71 @@
+{
+  "id": 823487611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.294939,41.401847,-73.294939,41.401847",
+    "geom:latitude":41.401847,
+    "geom:longitude":-73.294939,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Tinkerfield Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 9316",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85805863,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_688rwLzaWxwZuka1z93RmS_41.401847_-73.294939@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439247,
+    "wof:geomhash":"e25cdc0c032982e453c4022b95ce45ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85805863,
+            "region_id":85688629,
+            "venue_id":823487611
+        }
+    ],
+    "wof:id":823487611,
+    "wof:lastmodified":1466421678,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85805863,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -73.294939,
+    41.401847,
+    -73.294939,
+    41.401847
+],
+  "geometry": {"coordinates":[-73.294939,41.401847],"type":"Point"}
+}

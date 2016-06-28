@@ -1,0 +1,71 @@
+{
+  "id": 823619155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.722249,41.35616,-72.722249,41.35616",
+    "geom:latitude":41.35616,
+    "geom:longitude":-72.722249,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"42 Millstone Dr",
+    "sg:city":"Guilford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06437",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85837669,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58CHlbpq72mTPbWpDNx1gH_41.356160_-72.722249@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442374,
+    "wof:geomhash":"8653455d443c15222dfada6656c3a3e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85837669,
+            "region_id":85688629,
+            "venue_id":823619155
+        }
+    ],
+    "wof:id":823619155,
+    "wof:lastmodified":1466423438,
+    "wof:name":"Barnicks Auto",
+    "wof:parent_id":85837669,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -72.722249,
+    41.35616,
+    -72.722249,
+    41.35616
+],
+  "geometry": {"coordinates":[-72.72224900000001,41.35616],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 824117489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.424988,41.136902,-73.424988,41.136902",
+    "geom:latitude":41.136902,
+    "geom:longitude":-73.424988,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"336 Main Avenue",
+    "sg:city":"NORWALK",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Garage",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 849 1522",
+    "sg:postcode":"06851",
+    "sg:province":"CT",
+    "sg:tags":[
+        "oil",
+        "automotive",
+        "lube",
+        "brake",
+        "lot",
+        "tune"
+    ],
+    "sg:website":"http://sunocous.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85879321,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04RMqdBzq8ZQoSWze8MVp1_41.136902_-73.424988@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454714,
+    "wof:geomhash":"252a30cdf73ca77017656a49cf430306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879321,
+            "region_id":85688629,
+            "venue_id":824117489
+        }
+    ],
+    "wof:id":824117489,
+    "wof:lastmodified":1466423304,
+    "wof:name":"Sunoco Ultra Service Center",
+    "wof:parent_id":85879321,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "automotive",
+        "lube",
+        "brake",
+        "lot",
+        "tune"
+    ]
+},
+  "bbox": [
+    -73.424988,
+    41.136902,
+    -73.424988,
+    41.136902
+],
+  "geometry": {"coordinates":[-73.424988,41.136902],"type":"Point"}
+}

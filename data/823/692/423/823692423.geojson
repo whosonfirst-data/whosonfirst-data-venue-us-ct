@@ -1,0 +1,81 @@
+{
+  "id": 823692423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.209157,41.210497,-73.209157,41.210497",
+    "geom:latitude":41.210497,
+    "geom:longitude":-73.209157,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3606 Main St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 365 0634",
+    "sg:postcode":"06606",
+    "sg:province":"CT",
+    "sg:tags":[
+        "curtain",
+        "made",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876503,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LdrtBOhEycLaSstDSP6wz_41.210497_-73.209157@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444073,
+    "wof:geomhash":"8f2f359fe0a1ea81f421e81be99cac67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876503,
+            "region_id":85688629,
+            "venue_id":823692423
+        }
+    ],
+    "wof:id":823692423,
+    "wof:lastmodified":1466424199,
+    "wof:name":"Traditional Drapery",
+    "wof:parent_id":85876503,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "curtain",
+        "made",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -73.209157,
+    41.210497,
+    -73.209157,
+    41.210497
+],
+  "geometry": {"coordinates":[-73.209157,41.210497],"type":"Point"}
+}

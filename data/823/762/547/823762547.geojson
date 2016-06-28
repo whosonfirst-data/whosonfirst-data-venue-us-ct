@@ -1,0 +1,79 @@
+{
+  "id": 823762547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.150115,41.230409,-73.150115,41.230409",
+    "geom:latitude":41.230409,
+    "geom:longitude":-73.150115,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"53 Armory Rd",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 4831",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85888499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wWZi31JjVyJP22IL7Hc9x_41.230409_-73.150115@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445669,
+    "wof:geomhash":"5acaede4d298a3e7c018db472c64048d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888499,
+            "region_id":85688629,
+            "venue_id":823762547
+        }
+    ],
+    "wof:id":823762547,
+    "wof:lastmodified":1466424826,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85888499,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -73.150115,
+    41.230409,
+    -73.150115,
+    41.230409
+],
+  "geometry": {"coordinates":[-73.150115,41.230409],"type":"Point"}
+}

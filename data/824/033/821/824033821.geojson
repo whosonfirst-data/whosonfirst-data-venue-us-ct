@@ -1,0 +1,73 @@
+{
+  "id": 824033821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.398281,41.442543,-73.398281,41.442543",
+    "geom:latitude":41.442543,
+    "geom:longitude":-73.398281,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 Old Grays Bridge Rd",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 3301",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bm9ISDKwvewopQ9yqLhRJ_41.442543_-73.398281@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452755,
+    "wof:geomhash":"2d69776f603184c257a538cfe34dfee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824033821
+        }
+    ],
+    "wof:id":824033821,
+    "wof:lastmodified":1466421841,
+    "wof:name":"Laidlaw Transit Inc",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -73.398281,
+    41.442543,
+    -73.398281,
+    41.442543
+],
+  "geometry": {"coordinates":[-73.398281,41.442543],"type":"Point"}
+}

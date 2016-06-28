@@ -1,0 +1,80 @@
+{
+  "id": 824076637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.65131,41.545972,-72.65131,41.545972",
+    "geom:latitude":41.545972,
+    "geom:longitude":-72.65131,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"382 S Main St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/middletown/189485-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 346 5658",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85807267,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rhwW3zl6ETtbOx47H6poD_41.545972_-72.651310@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453776,
+    "wof:geomhash":"f8efc97b28c1fcddd1924fc1fc5ab98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85807267,
+            "region_id":85688629,
+            "venue_id":824076637
+        }
+    ],
+    "wof:id":824076637,
+    "wof:lastmodified":1466422595,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85807267,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -72.65131,
+    41.545972,
+    -72.65131,
+    41.545972
+],
+  "geometry": {"coordinates":[-72.65131,41.545972],"type":"Point"}
+}

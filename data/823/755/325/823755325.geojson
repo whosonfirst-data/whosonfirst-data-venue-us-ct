@@ -1,0 +1,71 @@
+{
+  "id": 823755325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.492635,41.286756,-72.492635,41.286756",
+    "geom:latitude":41.286756,
+    "geom:longitude":-72.492635,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"246 Old Post Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 255 0200",
+    "sg:postcode":"06413",
+    "sg:province":"CT",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85823261,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FcCXdYWulk8Usy2TvCWr0_41.286756_-72.492635@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445517,
+    "wof:geomhash":"a564cac31b77d2e7e09031067f1153fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85823261,
+            "region_id":85688629,
+            "venue_id":823755325
+        }
+    ],
+    "wof:id":823755325,
+    "wof:lastmodified":1466424724,
+    "wof:name":"Bagel Maven",
+    "wof:parent_id":85823261,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -72.492635,
+    41.286756,
+    -72.492635,
+    41.286756
+],
+  "geometry": {"coordinates":[-72.49263500000001,41.286756],"type":"Point"}
+}

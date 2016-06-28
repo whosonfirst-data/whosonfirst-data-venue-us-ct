@@ -1,0 +1,84 @@
+{
+  "id": 823904475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.116332,41.224192,-73.116332,41.224192",
+    "geom:latitude":41.224192,
+    "geom:longitude":-73.116332,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"170 Mill Pond Rd",
+    "sg:city":"Stratford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 375 2006",
+    "sg:postcode":"06614",
+    "sg:province":"CT",
+    "sg:tags":[
+        "manufacturer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85841107,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F2qlNs8ZAIECWHNxiZJ8V_41.224192_-73.116332@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449582,
+    "wof:geomhash":"47edf10bd1a5793b3e147984c3232257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85841107,
+            "region_id":85688629,
+            "venue_id":823904475
+        }
+    ],
+    "wof:id":823904475,
+    "wof:lastmodified":1466426031,
+    "wof:name":"Primrose Path LLC",
+    "wof:parent_id":85841107,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.116332,
+    41.224192,
+    -73.116332,
+    41.224192
+],
+  "geometry": {"coordinates":[-73.116332,41.224192],"type":"Point"}
+}

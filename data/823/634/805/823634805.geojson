@@ -1,0 +1,66 @@
+{
+  "id": 823634805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.145722,41.291532,-73.145722,41.291532",
+    "geom:latitude":41.291532,
+    "geom:longitude":-73.145722,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"28 Sorghum Rd",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 8465",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fRC86KoWGMZzvGHzKv4nG_41.291532_-73.145722@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442726,
+    "wof:geomhash":"17540f01fc1eaf91dec030b821ab6540",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823634805
+        }
+    ],
+    "wof:id":823634805,
+    "wof:lastmodified":1466423691,
+    "wof:name":"Rocking Horse Home Daycare",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.145722,
+    41.291532,
+    -73.145722,
+    41.291532
+],
+  "geometry": {"coordinates":[-73.14572200000001,41.291532],"type":"Point"}
+}

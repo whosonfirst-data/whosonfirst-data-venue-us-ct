@@ -1,0 +1,73 @@
+{
+  "id": 823685339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.148668,41.30125,-73.148668,41.30125",
+    "geom:latitude":41.30125,
+    "geom:longitude":-73.148668,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"31 Sportsman Dr",
+    "sg:city":"Shelton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 929 8532",
+    "sg:postcode":"06484",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aYCQejiAghq0tMSRd7kyd_41.301250_-73.148668@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443906,
+    "wof:geomhash":"b041ad64994a7d9970699c6242dd2b9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823685339
+        }
+    ],
+    "wof:id":823685339,
+    "wof:lastmodified":1466424103,
+    "wof:name":"Huntington Electric Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.148668,
+    41.30125,
+    -73.148668,
+    41.30125
+],
+  "geometry": {"coordinates":[-73.148668,41.30125],"type":"Point"}
+}

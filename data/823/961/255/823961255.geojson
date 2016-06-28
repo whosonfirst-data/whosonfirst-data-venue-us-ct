@@ -1,0 +1,79 @@
+{
+  "id": 823961255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.533634,41.059753,-73.533634,41.059753",
+    "geom:latitude":41.059753,
+    "geom:longitude":-73.533634,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"181 Grove St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 327 0233",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48UsFyVAxSoj6AYi8A3oFP_41.059753_-73.533634@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451057,
+    "wof:geomhash":"283f92c3ac1504f11ec884498bd966ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":823961255
+        }
+    ],
+    "wof:id":823961255,
+    "wof:lastmodified":1466426530,
+    "wof:name":"Avex Electric",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.533634,
+    41.059753,
+    -73.533634,
+    41.059753
+],
+  "geometry": {"coordinates":[-73.53363400000001,41.059753],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 824061239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.008059,41.678331,-73.008059,41.678331",
+    "geom:latitude":41.678331,
+    "geom:longitude":-73.008059,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"241 Main St",
+    "sg:city":"Terryville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 585 5158",
+    "sg:postcode":"06786",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85844335,
+        102085375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aS20tfkBxLR3MmkkUf50F_41.678331_-73.008059@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453417,
+    "wof:geomhash":"6133f1ff65782c6e210ff3576adaa4a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85844335,
+            "region_id":85688629,
+            "venue_id":824061239
+        }
+    ],
+    "wof:id":824061239,
+    "wof:lastmodified":1466422175,
+    "wof:name":"Beacon Prescription Center",
+    "wof:parent_id":85844335,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.008059,
+    41.678331,
+    -73.008059,
+    41.678331
+],
+  "geometry": {"coordinates":[-73.008059,41.678331],"type":"Point"}
+}

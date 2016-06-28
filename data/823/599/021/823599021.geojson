@@ -1,0 +1,71 @@
+{
+  "id": 823599021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.447907,41.867865,-72.447907,41.867865",
+    "geom:latitude":41.867865,
+    "geom:longitude":-72.447907,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"20 Park St",
+    "sg:city":"Vernon Rockville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 870 3260",
+    "sg:postcode":"06066",
+    "sg:province":"CT",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85843433,
+        102085379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G6NfV8WLS9UsfQSc9iE3e_41.867865_-72.447907@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441858,
+    "wof:geomhash":"be83512b9d6fd1f28801dc9ea99a213a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085379,
+            "neighbourhood_id":85843433,
+            "region_id":85688629,
+            "venue_id":823599021
+        }
+    ],
+    "wof:id":823599021,
+    "wof:lastmodified":1466423285,
+    "wof:name":"Sheriff Office",
+    "wof:parent_id":85843433,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -72.447907,
+    41.867865,
+    -72.447907,
+    41.867865
+],
+  "geometry": {"coordinates":[-72.447907,41.867865],"type":"Point"}
+}

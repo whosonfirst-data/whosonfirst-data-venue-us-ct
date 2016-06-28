@@ -2,13 +2,14 @@
   "id": 387119091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.49229,41.147436,-73.49229,41.147436",
     "geom:latitude":41.147436,
     "geom:longitude":-73.49229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"112 Main St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":387119091,
-    "wof:lastmodified":1449058825,
+    "wof:lastmodified":1466421159,
     "wof:name":"Grayson Group",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.49229,41.147436,-73.49229,41.147436],
+  "bbox": [
+    -73.49229,
+    41.147436,
+    -73.49229,
+    41.147436
+],
   "geometry": {"coordinates":[-73.49229,41.147436],"type":"Point"}
 }

@@ -1,0 +1,82 @@
+{
+  "id": 823881945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.977319,41.877452,-72.977319,41.877452",
+    "geom:latitude":41.877452,
+    "geom:longitude":-72.977319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"480 Main St",
+    "sg:city":"Winsted",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06098",
+    "sg:province":"CT",
+    "sg:tags":[
+        "camp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85843245,
+        102191575,
+        404496029,
+        85633793,
+        85931237,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6znVzId9lY9KX4VUKJoW66_41.877452_-72.977319@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449013,
+    "wof:geomhash":"69678e20ece527316c089ab4f8c2de7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496029,
+            "locality_id":85931237,
+            "neighbourhood_id":85843245,
+            "region_id":85688629,
+            "venue_id":823881945
+        }
+    ],
+    "wof:id":823881945,
+    "wof:lastmodified":1466425889,
+    "wof:name":"North West YMCA",
+    "wof:parent_id":85843245,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -72.977319,
+    41.877452,
+    -72.977319,
+    41.877452
+],
+  "geometry": {"coordinates":[-72.97731899999999,41.877452],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 823900837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.30054,41.250872,-73.30054,41.250872",
+    "geom:latitude":41.250872,
+    "geom:longitude":-73.30054,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"295 Center Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 261 8386",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "postal",
+        "executive",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W9Q1XskFpqDDL43O8D3Rf_41.250872_-73.300540@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449475,
+    "wof:geomhash":"70c0a38c307e5adee8569c7160ed4f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823900837
+        }
+    ],
+    "wof:id":823900837,
+    "wof:lastmodified":1466426014,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "executive",
+        "us"
+    ]
+},
+  "bbox": [
+    -73.30054,
+    41.250872,
+    -73.30054,
+    41.250872
+],
+  "geometry": {"coordinates":[-73.30054,41.250872],"type":"Point"}
+}

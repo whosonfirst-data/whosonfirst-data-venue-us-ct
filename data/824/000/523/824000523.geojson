@@ -1,0 +1,73 @@
+{
+  "id": 824000523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.540862,41.780765,-72.540862,41.780765",
+    "geom:latitude":41.780765,
+    "geom:longitude":-72.540862,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"369 Middle Tpke W",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GSnvZkXTdK5nKdBEAnD12_41.780765_-72.540862@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452001,
+    "wof:geomhash":"0cf458cc3073152ec0d2c65ca57fd35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":824000523
+        }
+    ],
+    "wof:id":824000523,
+    "wof:lastmodified":1466421124,
+    "wof:name":"Graphcon LLC",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -72.540862,
+    41.780765,
+    -72.540862,
+    41.780765
+],
+  "geometry": {"coordinates":[-72.540862,41.780765],"type":"Point"}
+}

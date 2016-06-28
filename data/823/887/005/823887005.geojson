@@ -1,0 +1,90 @@
+{
+  "id": 823887005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.031546,41.209466,-73.031546,41.209466",
+    "geom:latitude":41.209466,
+    "geom:longitude":-73.031546,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"18 Warren St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 876 8872",
+    "sg:postcode":"06460",
+    "sg:province":"CT",
+    "sg:tags":[
+        "wheel",
+        "cover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85804939,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629,
+        85820241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dwBhcff7nG8DZYGnsSV5S_41.209466_-73.031546@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449125,
+    "wof:geomhash":"039465e96df48834c7b539633d2d3f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85804939,
+            "region_id":85688629,
+            "venue_id":823887005
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85820241,
+            "region_id":85688629,
+            "venue_id":823887005
+        }
+    ],
+    "wof:id":823887005,
+    "wof:lastmodified":1466425830,
+    "wof:name":"Joey's Broken Wheel",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "cover"
+    ]
+},
+  "bbox": [
+    -73.031546,
+    41.209466,
+    -73.031546,
+    41.209466
+],
+  "geometry": {"coordinates":[-73.03154600000001,41.209466],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824105225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.378197,41.326599,-72.378197,41.326599",
+    "geom:latitude":41.326599,
+    "geom:longitude":-72.378197,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"807 Middlesex Tpke",
+    "sg:city":"Old Saybrook",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 388 9681",
+    "sg:postcode":"06475",
+    "sg:province":"CT",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85847263,
+        102086211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SqBHMow51FWf58oCpVMmH_41.326599_-72.378197@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454449,
+    "wof:geomhash":"32d0df9892edd5cd4e9ab3744e4603b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086211,
+            "neighbourhood_id":85847263,
+            "region_id":85688629,
+            "venue_id":824105225
+        }
+    ],
+    "wof:id":824105225,
+    "wof:lastmodified":1466423066,
+    "wof:name":"Thouin Andre DVM",
+    "wof:parent_id":85847263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -72.378197,
+    41.326599,
+    -72.378197,
+    41.326599
+],
+  "geometry": {"coordinates":[-72.378197,41.326599],"type":"Point"}
+}

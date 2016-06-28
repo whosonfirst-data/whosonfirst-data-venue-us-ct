@@ -1,0 +1,87 @@
+{
+  "id": 824119935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.54306,41.045971,-73.54306,41.045971",
+    "geom:latitude":41.045971,
+    "geom:longitude":-73.54306,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Station Pl",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 964 3200",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "van"
+    ],
+    "sg:website":"http://avis.com/IYP_tl",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849635,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j5swrVDy2nU08P6GOfQEj_41.045971_-73.543060@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454763,
+    "wof:geomhash":"f503a8d09438866e268ef1af40de7454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85849635,
+            "region_id":85688629,
+            "venue_id":824119935
+        }
+    ],
+    "wof:id":824119935,
+    "wof:lastmodified":1466423307,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85849635,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "van"
+    ]
+},
+  "bbox": [
+    -73.54306,
+    41.045971,
+    -73.54306,
+    41.045971
+],
+  "geometry": {"coordinates":[-73.54306,41.045971],"type":"Point"}
+}

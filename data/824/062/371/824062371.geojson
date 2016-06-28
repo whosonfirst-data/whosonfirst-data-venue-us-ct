@@ -1,0 +1,73 @@
+{
+  "id": 824062371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.250715,41.300115,-73.250715,41.300115",
+    "geom:latitude":41.300115,
+    "geom:longitude":-73.250715,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"75 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 268 7602",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qOwoR9PecXBhTYaRS1lpv_41.300115_-73.250715@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453438,
+    "wof:geomhash":"dc2ce8838fd22474b890dd965cd6820e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":824062371
+        }
+    ],
+    "wof:id":824062371,
+    "wof:lastmodified":1466422321,
+    "wof:name":"A & G Auto Parts Inc",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -73.250715,
+    41.300115,
+    -73.250715,
+    41.300115
+],
+  "geometry": {"coordinates":[-73.250715,41.300115],"type":"Point"}
+}

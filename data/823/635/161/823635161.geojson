@@ -1,0 +1,66 @@
+{
+  "id": 823635161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.79976,41.730768,-72.79976,41.730768",
+    "geom:latitude":41.730768,
+    "geom:longitude":-72.79976,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"312 Farmington Ave",
+    "sg:city":"Farmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 409 0398",
+    "sg:postcode":"06032",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867445,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_760sxHn48P35gQn8OEcX0C_41.730768_-72.799760@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442735,
+    "wof:geomhash":"86fe9c2b8875e163cb2ad4f0048670c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867445,
+            "region_id":85688629,
+            "venue_id":823635161
+        }
+    ],
+    "wof:id":823635161,
+    "wof:lastmodified":1466423622,
+    "wof:name":"Merck Medco",
+    "wof:parent_id":85867445,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.79976,
+    41.730768,
+    -72.79976,
+    41.730768
+],
+  "geometry": {"coordinates":[-72.79976000000001,41.730768],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 824113455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.447609,41.403751,-73.447609,41.403751",
+    "geom:latitude":41.403751,
+    "geom:longitude":-73.447609,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"24 Hospital Ave",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 739 7000",
+    "sg:postcode":"06810",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "oncology",
+        "management",
+        "weight",
+        "cardiology",
+        "surgeons",
+        "information",
+        "orthopedics",
+        "loss",
+        "surgeon",
+        "referral"
+    ],
+    "sg:website":"http://www.danburyhospital.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85821411,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zQgP67ROYNpkrekl9BnAE_41.403751_-73.447609@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454627,
+    "wof:geomhash":"382870a49b2fe9bf2e1cd2c435b363a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":824113455
+        }
+    ],
+    "wof:id":824113455,
+    "wof:lastmodified":1466423202,
+    "wof:name":"Danbury Hospital",
+    "wof:parent_id":85821411,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "oncology",
+        "management",
+        "weight",
+        "cardiology",
+        "surgeons",
+        "information",
+        "orthopedics",
+        "loss",
+        "surgeon",
+        "referral"
+    ]
+},
+  "bbox": [
+    -73.447609,
+    41.403751,
+    -73.447609,
+    41.403751
+],
+  "geometry": {"coordinates":[-73.447609,41.403751],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823519583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.9213,41.428752,-72.9213,41.428752",
+    "geom:latitude":41.428752,
+    "geom:longitude":-72.9213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"405 Hillfield Rd",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 248 7056",
+    "sg:postcode":"06518",
+    "sg:province":"CT",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867463,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L03U6ukFowr2RhiGz0roI_41.428752_-72.921300@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440015,
+    "wof:geomhash":"16b9ed1ecb140b7e39003f8657e8ee76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":823519583
+        }
+    ],
+    "wof:id":823519583,
+    "wof:lastmodified":1466421987,
+    "wof:name":"DAdio Paving Inc",
+    "wof:parent_id":85867463,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -72.9213,
+    41.428752,
+    -72.9213,
+    41.428752
+],
+  "geometry": {"coordinates":[-72.9213,41.428752],"type":"Point"}
+}

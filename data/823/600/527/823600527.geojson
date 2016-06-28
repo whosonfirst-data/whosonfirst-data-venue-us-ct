@@ -1,0 +1,71 @@
+{
+  "id": 823600527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.880253,41.510756,-72.880253,41.510756",
+    "geom:latitude":41.510756,
+    "geom:longitude":-72.880253,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"508 Buckland Dr",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 250 8474",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826143,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ID7vxSuhwV3HfFHirsUmy_41.510756_-72.880253@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441909,
+    "wof:geomhash":"ca301f176d24e06c704cda5dcbd432d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85826143,
+            "region_id":85688629,
+            "venue_id":823600527
+        }
+    ],
+    "wof:id":823600527,
+    "wof:lastmodified":1466423301,
+    "wof:name":"Secret Gardener",
+    "wof:parent_id":85826143,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -72.880253,
+    41.510756,
+    -72.880253,
+    41.510756
+],
+  "geometry": {"coordinates":[-72.880253,41.510756],"type":"Point"}
+}

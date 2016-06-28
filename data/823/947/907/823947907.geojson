@@ -1,0 +1,73 @@
+{
+  "id": 823947907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.26248,41.339656,-73.26248,41.339656",
+    "geom:latitude":41.339656,
+    "geom:longitude":-73.26248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"731 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 0500",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jtMwoRGUFP1pPFT1sXxNr_41.339656_-73.262480@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450731,
+    "wof:geomhash":"966df2c43cc342d18c33b23294e1ebc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823947907
+        }
+    ],
+    "wof:id":823947907,
+    "wof:lastmodified":1466426379,
+    "wof:name":"Family Medical Ctr LLC",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.26248,
+    41.339656,
+    -73.26248,
+    41.339656
+],
+  "geometry": {"coordinates":[-73.26248,41.339656],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 824030655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.169319,41.479851,-73.169319,41.479851",
+    "geom:latitude":41.479851,
+    "geom:longitude":-73.169319,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"81 Homestead Rd",
+    "sg:city":"Fairfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 254 7741",
+    "sg:postcode":"06488",
+    "sg:province":"CT",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HFMpSRqJjH1c494jwwcVt_41.479851_-73.169319@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463452682,
+    "wof:geomhash":"d5a1e232aa6b76b7257dc4cf2d30080b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":824030655
+        }
+    ],
+    "wof:id":824030655,
+    "wof:lastmodified":1466421751,
+    "wof:name":"Fairfield Dental Implant Ctr",
+    "wof:parent_id":85850263,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -73.169319,
+    41.479851,
+    -73.169319,
+    41.479851
+],
+  "geometry": {"coordinates":[-73.169319,41.479851],"type":"Point"}
+}

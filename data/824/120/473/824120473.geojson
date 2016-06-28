@@ -1,0 +1,83 @@
+{
+  "id": 824120473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.555156,41.047649,-73.555156,41.047649",
+    "geom:latitude":41.047649,
+    "geom:longitude":-73.555156,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"16 Victory St",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 327 0290",
+    "sg:postcode":"06902",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881175,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XrPdoCViLvDpaFELgqxnj_41.047649_-73.555156@1303262248"
+    },
+    "wof:country":"US",
+    "wof:created":1463454773,
+    "wof:geomhash":"c7273418b7eaa6924d6299d3dfa52646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":824120473
+        }
+    ],
+    "wof:id":824120473,
+    "wof:lastmodified":1466423352,
+    "wof:name":"Victory Auto Body",
+    "wof:parent_id":85881175,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -73.555156,
+    41.047649,
+    -73.555156,
+    41.047649
+],
+  "geometry": {"coordinates":[-73.555156,41.047649],"type":"Point"}
+}

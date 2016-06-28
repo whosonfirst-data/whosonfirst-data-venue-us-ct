@@ -1,0 +1,82 @@
+{
+  "id": 824103577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.649185,41.559621,-72.649185,41.559621",
+    "geom:latitude":41.559621,
+    "geom:longitude":-72.649185,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"220 Main St",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 347 2220",
+    "sg:postcode":"06457",
+    "sg:province":"CT",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85849655,
+        102191575,
+        404495971,
+        85633793,
+        85931255,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c8sD6ShMl8Mvkvl8ytj09_41.559621_-72.649185@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454414,
+    "wof:geomhash":"0c1eee46b7c22a72466d47af25a31ef9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495971,
+            "locality_id":85931255,
+            "neighbourhood_id":85849655,
+            "region_id":85688629,
+            "venue_id":824103577
+        }
+    ],
+    "wof:id":824103577,
+    "wof:lastmodified":1466422983,
+    "wof:name":"First & Last Tavern",
+    "wof:parent_id":85849655,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -72.649185,
+    41.559621,
+    -72.649185,
+    41.559621
+],
+  "geometry": {"coordinates":[-72.649185,41.559621],"type":"Point"}
+}

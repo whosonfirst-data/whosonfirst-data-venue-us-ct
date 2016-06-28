@@ -2,13 +2,14 @@
   "id": 354293391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.496557,41.147046,-73.496557,41.147046",
     "geom:latitude":41.147046,
     "geom:longitude":-73.496557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"66 Seminary St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":354293391,
-    "wof:lastmodified":1449066264,
+    "wof:lastmodified":1466421136,
     "wof:name":"Mc Evoy Strategic",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-73.496557,41.147046,-73.496557,41.147046],
+  "bbox": [
+    -73.496557,
+    41.147046,
+    -73.496557,
+    41.147046
+],
   "geometry": {"coordinates":[-73.496557,41.147046],"type":"Point"}
 }

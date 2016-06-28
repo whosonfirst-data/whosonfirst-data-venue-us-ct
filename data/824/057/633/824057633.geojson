@@ -1,0 +1,71 @@
+{
+  "id": 824057633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.068472,41.394649,-73.068472,41.394649",
+    "geom:latitude":41.394649,
+    "geom:longitude":-73.068472,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"47 Grand St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u4utL4VibOQViT8R2fsQN_41.394649_-73.068472@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453343,
+    "wof:geomhash":"33902dc0d837975c44b7457a0cc9bf39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":824057633
+        }
+    ],
+    "wof:id":824057633,
+    "wof:lastmodified":1466422120,
+    "wof:name":"Moonlight Cleaning",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.068472,
+    41.394649,
+    -73.068472,
+    41.394649
+],
+  "geometry": {"coordinates":[-73.068472,41.394649],"type":"Point"}
+}

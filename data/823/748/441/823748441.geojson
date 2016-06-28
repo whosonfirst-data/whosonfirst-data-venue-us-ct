@@ -1,0 +1,68 @@
+{
+  "id": 823748441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.794389,41.643326,-72.794389,41.643326",
+    "geom:latitude":41.643326,
+    "geom:longitude":-72.794389,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"166 Lincoln St",
+    "sg:city":"Berlin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06037",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930815,
+        102085381,
+        85867451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NodHHc17DzodOhxHRVWJT_41.643326_-72.794389@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445337,
+    "wof:geomhash":"de7f08fbb9d8d9703dc75ff2f1a30ded",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "locality_id":85930815,
+            "neighbourhood_id":85867451,
+            "region_id":85688629,
+            "venue_id":823748441
+        }
+    ],
+    "wof:id":823748441,
+    "wof:lastmodified":1466425005,
+    "wof:name":"Mooreland Hill School",
+    "wof:parent_id":85867451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.794389,
+    41.643326,
+    -72.794389,
+    41.643326
+],
+  "geometry": {"coordinates":[-72.794389,41.643326],"type":"Point"}
+}

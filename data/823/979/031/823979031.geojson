@@ -1,0 +1,79 @@
+{
+  "id": 823979031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.037508,41.54415,-73.037508,41.54415",
+    "geom:latitude":41.54415,
+    "geom:longitude":-73.037508,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"911 S Main St",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 591 1699",
+    "sg:postcode":"06706",
+    "sg:province":"CT",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85852453,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yic5jyMIFaw8vgSY68dO6_41.544150_-73.037508@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451455,
+    "wof:geomhash":"632aae757684e9d92c2389bce18a36ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85852453,
+            "region_id":85688629,
+            "venue_id":823979031
+        }
+    ],
+    "wof:id":823979031,
+    "wof:lastmodified":1466426781,
+    "wof:name":"Nutmeg Services",
+    "wof:parent_id":85852453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -73.037508,
+    41.54415,
+    -73.037508,
+    41.54415
+],
+  "geometry": {"coordinates":[-73.037508,41.54415],"type":"Point"}
+}

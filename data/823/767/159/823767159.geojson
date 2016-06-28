@@ -1,0 +1,73 @@
+{
+  "id": 823767159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.432542,41.449018,-73.432542,41.449018",
+    "geom:latitude":41.449018,
+    "geom:longitude":-73.432542,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"58 Cedar Dr",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 794 9536",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OWa4lqKbGhkZxWzDwoSow_41.449018_-73.432542@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445761,
+    "wof:geomhash":"aa22ef1bb20b43b3fa2f0bede093bf13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823767159
+        }
+    ],
+    "wof:id":823767159,
+    "wof:lastmodified":1466424808,
+    "wof:name":"New England Lending",
+    "wof:parent_id":85829875,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -73.432542,
+    41.449018,
+    -73.432542,
+    41.449018
+],
+  "geometry": {"coordinates":[-73.432542,41.449018],"type":"Point"}
+}

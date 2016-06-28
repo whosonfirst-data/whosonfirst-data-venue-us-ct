@@ -1,0 +1,75 @@
+{
+  "id": 823723107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.95433,41.785953,-71.95433,41.785953",
+    "geom:latitude":41.785953,
+    "geom:longitude":-71.95433,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"59 Hartford Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 2600",
+    "sg:postcode":"06234",
+    "sg:province":"CT",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eS0OAU6OrJglk28IjIBzy_41.785953_-71.954330@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444728,
+    "wof:geomhash":"bd5164b8b6dd4744b047ecb4c0b6006a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":823723107
+        }
+    ],
+    "wof:id":823723107,
+    "wof:lastmodified":1466424434,
+    "wof:name":"Brooklyn Correctional Instn",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -71.95433,
+    41.785953,
+    -71.95433,
+    41.785953
+],
+  "geometry": {"coordinates":[-71.95433,41.785953],"type":"Point"}
+}

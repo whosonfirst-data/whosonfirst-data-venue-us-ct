@@ -1,0 +1,73 @@
+{
+  "id": 823530889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.158759,41.386591,-72.158759,41.386591",
+    "geom:latitude":41.386591,
+    "geom:longitude":-72.158759,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"969 Hartford Tpke",
+    "sg:city":"Waterford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 447 3827",
+    "sg:postcode":"06385",
+    "sg:province":"CT",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85832113,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N4FyiiV4Iv5EBwmWwO3f3_41.386591_-72.158759@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440270,
+    "wof:geomhash":"fff007c488916227478cf199d5cf7b15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85832113,
+            "region_id":85688629,
+            "venue_id":823530889
+        }
+    ],
+    "wof:id":823530889,
+    "wof:lastmodified":1466422290,
+    "wof:name":"Shell",
+    "wof:parent_id":85832113,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -72.158759,
+    41.386591,
+    -72.158759,
+    41.386591
+],
+  "geometry": {"coordinates":[-72.158759,41.386591],"type":"Point"}
+}

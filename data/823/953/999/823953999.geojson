@@ -1,0 +1,83 @@
+{
+  "id": 823953999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.123759,41.797849,-73.123759,41.797849",
+    "geom:latitude":41.797849,
+    "geom:longitude":-73.123759,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"147 Litchfield St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 489 1633",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "security",
+        "district",
+        "for",
+        "social"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85836781,
+        102191575,
+        404496043,
+        85633793,
+        85930829,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Cxsfip321i1X4qm0SaKq3_41.797849_-73.123759@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450864,
+    "wof:geomhash":"b64c7528992e54ac2be600823cf5c8fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496043,
+            "locality_id":85930829,
+            "neighbourhood_id":85836781,
+            "region_id":85688629,
+            "venue_id":823953999
+        }
+    ],
+    "wof:id":823953999,
+    "wof:lastmodified":1466426524,
+    "wof:name":"Social Security Administration",
+    "wof:parent_id":85836781,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "security",
+        "district",
+        "for",
+        "social"
+    ]
+},
+  "bbox": [
+    -73.123759,
+    41.797849,
+    -73.123759,
+    41.797849
+],
+  "geometry": {"coordinates":[-73.12375900000001,41.797849],"type":"Point"}
+}

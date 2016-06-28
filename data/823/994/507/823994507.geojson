@@ -1,0 +1,83 @@
+{
+  "id": 823994507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.596071,41.279462,-72.596071,41.279462",
+    "geom:latitude":41.279462,
+    "geom:longitude":-72.596071,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"684 Boston Post Rd",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 245 3136",
+    "sg:postcode":"06443",
+    "sg:province":"CT",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85833961,
+        102191575,
+        404495779,
+        85633793,
+        85931393,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gD5ciAgzxe51upA1saxbo_41.279462_-72.596071@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451846,
+    "wof:geomhash":"cf5d8b4c4fe1c401624b7970f9439701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495779,
+            "locality_id":85931393,
+            "neighbourhood_id":85833961,
+            "region_id":85688629,
+            "venue_id":823994507
+        }
+    ],
+    "wof:id":823994507,
+    "wof:lastmodified":1466426734,
+    "wof:name":"Now Playing",
+    "wof:parent_id":85833961,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -72.596071,
+    41.279462,
+    -72.596071,
+    41.279462
+],
+  "geometry": {"coordinates":[-72.59607099999999,41.279462],"type":"Point"}
+}

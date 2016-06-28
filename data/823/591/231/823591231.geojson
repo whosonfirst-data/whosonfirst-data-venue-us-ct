@@ -1,0 +1,73 @@
+{
+  "id": 823591231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.075407,41.841921,-73.075407,41.841921",
+    "geom:latitude":41.841921,
+    "geom:longitude":-73.075407,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2023 Torringford St",
+    "sg:city":"Torrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 496 0705",
+    "sg:postcode":"06790",
+    "sg:province":"CT",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930829,
+        102085375,
+        85852371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u5KvCeA0HjodUnJ0yGm90_41.841921_-73.075407@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441676,
+    "wof:geomhash":"080f5c2b07909a8e667760494926de51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "locality_id":85930829,
+            "neighbourhood_id":85852371,
+            "region_id":85688629,
+            "venue_id":823591231
+        }
+    ],
+    "wof:id":823591231,
+    "wof:lastmodified":1466423167,
+    "wof:name":"Northwestern CT Tile Svc",
+    "wof:parent_id":85852371,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.075407,
+    41.841921,
+    -73.075407,
+    41.841921
+],
+  "geometry": {"coordinates":[-73.075407,41.841921],"type":"Point"}
+}

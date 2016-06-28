@@ -1,0 +1,76 @@
+{
+  "id": 823927873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.073501,41.394125,-73.073501,41.394125",
+    "geom:latitude":41.394125,
+    "geom:longitude":-73.073501,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"139 Main St",
+    "sg:city":"Seymour",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 888 7400",
+    "sg:postcode":"06483",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PCi9IbEFShSfSWrpNx97k_41.394125_-73.073501@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463450199,
+    "wof:geomhash":"9e3fbeee31c879e14e82ba1ffe72c871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823927873
+        }
+    ],
+    "wof:id":823927873,
+    "wof:lastmodified":1466426250,
+    "wof:name":"Valenti's Cut & Style",
+    "wof:parent_id":85841679,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -73.073501,
+    41.394125,
+    -73.073501,
+    41.394125
+],
+  "geometry": {"coordinates":[-73.07350099999999,41.394125],"type":"Point"}
+}

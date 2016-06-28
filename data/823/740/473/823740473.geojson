@@ -1,0 +1,77 @@
+{
+  "id": 823740473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.1985,41.184311,-73.1985,41.184311",
+    "geom:latitude":41.184311,
+    "geom:longitude":-73.1985,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"273 Lexington Ave",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 336 5611",
+    "sg:postcode":"06604",
+    "sg:province":"CT",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876491,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N3IucCOkB9Oso6XrSrGZ0_41.184311_-73.198500@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463445167,
+    "wof:geomhash":"82ed4a83a809df4a2144ade0eed32e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876491,
+            "region_id":85688629,
+            "venue_id":823740473
+        }
+    ],
+    "wof:id":823740473,
+    "wof:lastmodified":1466424567,
+    "wof:name":"Pizza Valley",
+    "wof:parent_id":85876491,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.1985,
+    41.184311,
+    -73.1985,
+    41.184311
+],
+  "geometry": {"coordinates":[-73.1985,41.184311],"type":"Point"}
+}

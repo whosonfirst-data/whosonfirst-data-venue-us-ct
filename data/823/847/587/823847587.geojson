@@ -1,0 +1,79 @@
+{
+  "id": 823847587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.544543,41.77399,-72.544543,41.77399",
+    "geom:latitude":41.77399,
+    "geom:longitude":-72.544543,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"568 Center St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "passenger",
+        "without",
+        "limousine",
+        "drive",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85825525,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nF2oq82ws0Pg9qN49h7SU_41.773990_-72.544543@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448160,
+    "wof:geomhash":"826b740d23ce24bdc7d7746185b88154",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85825525,
+            "region_id":85688629,
+            "venue_id":823847587
+        }
+    ],
+    "wof:id":823847587,
+    "wof:lastmodified":1466425565,
+    "wof:name":"Abbey Road Limousine Service",
+    "wof:parent_id":85825525,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "without",
+        "limousine",
+        "drive",
+        "car"
+    ]
+},
+  "bbox": [
+    -72.544543,
+    41.77399,
+    -72.544543,
+    41.77399
+],
+  "geometry": {"coordinates":[-72.544543,41.77399],"type":"Point"}
+}

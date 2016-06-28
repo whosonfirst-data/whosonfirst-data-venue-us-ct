@@ -1,0 +1,71 @@
+{
+  "id": 823989019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.307746,41.255994,-73.307746,41.255994",
+    "geom:latitude":41.255994,
+    "geom:longitude":-73.307746,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"50 Staples Rd",
+    "sg:city":"Easton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06612",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2twAnxUuQ3mjWD6VLdIwsl_41.255994_-73.307746@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451694,
+    "wof:geomhash":"a312e983f9ab210152119126af4a68ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823989019
+        }
+    ],
+    "wof:id":823989019,
+    "wof:lastmodified":1466426697,
+    "wof:name":"Fairfield County Deck Care",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -73.307746,
+    41.255994,
+    -73.307746,
+    41.255994
+],
+  "geometry": {"coordinates":[-73.30774599999999,41.255994],"type":"Point"}
+}

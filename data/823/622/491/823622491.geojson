@@ -1,0 +1,71 @@
+{
+  "id": 823622491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.909721,41.359623,-72.909721,41.359623",
+    "geom:latitude":41.359623,
+    "geom:longitude":-72.909721,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1656 Whitney Ave",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 288 6481",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850561,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N12UpX6QhNQQIejU88EU2_41.359623_-72.909721@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442461,
+    "wof:geomhash":"a0d461b8329436337c1be77466b6ce7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823622491
+        }
+    ],
+    "wof:id":823622491,
+    "wof:lastmodified":1466423720,
+    "wof:name":"L & B Dental Laboratory",
+    "wof:parent_id":85850561,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -72.909721,
+    41.359623,
+    -72.909721,
+    41.359623
+],
+  "geometry": {"coordinates":[-72.909721,41.359623],"type":"Point"}
+}

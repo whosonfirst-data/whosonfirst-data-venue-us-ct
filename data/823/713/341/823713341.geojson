@@ -1,0 +1,91 @@
+{
+  "id": 823713341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.622163,41.013372,-73.622163,41.013372",
+    "geom:latitude":41.013372,
+    "geom:longitude":-73.622163,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"623 Steamboat Rd",
+    "sg:city":"Greenwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 661 7129",
+    "sg:postcode":"06830",
+    "sg:province":"CT",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85885307,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629,
+        85833939,
+        85930955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48Y8q7vYcGlayg58kBGWYw_41.013372_-73.622163@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444516,
+    "wof:geomhash":"88107c99ee4cc519675896289b64eab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":823713341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930955,
+            "neighbourhood_id":85833939,
+            "region_id":85688629,
+            "venue_id":823713341
+        }
+    ],
+    "wof:id":823713341,
+    "wof:lastmodified":1466424337,
+    "wof:name":"Roland Foraste MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -73.622163,
+    41.013372,
+    -73.622163,
+    41.013372
+],
+  "geometry": {"coordinates":[-73.622163,41.013372],"type":"Point"}
+}

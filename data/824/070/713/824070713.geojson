@@ -1,0 +1,73 @@
+{
+  "id": 824070713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.210213,41.349493,-72.210213,41.349493",
+    "geom:latitude":41.349493,
+    "geom:longitude":-72.210213,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"170 Flanders Rd",
+    "sg:city":"Niantic",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 739 5281",
+    "sg:postcode":"06357",
+    "sg:province":"CT",
+    "sg:tags":[
+        "nail",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85819559,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ta15DEErOArSvpmSc274s_41.349430_-72.210197@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1463453632,
+    "wof:geomhash":"bd795a1b8277a17b5350cb3bd851ccab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85819559,
+            "region_id":85688629,
+            "venue_id":824070713
+        }
+    ],
+    "wof:id":824070713,
+    "wof:lastmodified":1466422282,
+    "wof:name":"American Nail",
+    "wof:parent_id":85819559,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nail",
+        "shop"
+    ]
+},
+  "bbox": [
+    -72.210213,
+    41.349493,
+    -72.210213,
+    41.349493
+],
+  "geometry": {"coordinates":[-72.210213,41.349493],"type":"Point"}
+}

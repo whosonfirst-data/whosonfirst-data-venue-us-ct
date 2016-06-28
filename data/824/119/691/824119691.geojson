@@ -1,0 +1,84 @@
+{
+  "id": 824119691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.537682,41.055161,-73.537682,41.055161",
+    "geom:latitude":41.055161,
+    "geom:longitude":-73.537682,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1 Landmark Sq",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 967 4786",
+    "sg:postcode":"06901",
+    "sg:province":"CT",
+    "sg:tags":[
+        "consultant",
+        "analyst"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85881169,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FgqQxr9zVOV2C9Abo0VNG_41.055161_-73.537682@1303262247"
+    },
+    "wof:country":"US",
+    "wof:created":1463454759,
+    "wof:geomhash":"864dcc088191f572a49d27513fdf132d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881169,
+            "region_id":85688629,
+            "venue_id":824119691
+        }
+    ],
+    "wof:id":824119691,
+    "wof:lastmodified":1466423298,
+    "wof:name":"Willis RE Inc",
+    "wof:parent_id":85881169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "analyst"
+    ]
+},
+  "bbox": [
+    -73.537682,
+    41.055161,
+    -73.537682,
+    41.055161
+],
+  "geometry": {"coordinates":[-73.537682,41.055161],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823521521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.93293,41.348467,-72.93293,41.348467",
+    "geom:latitude":41.348467,
+    "geom:longitude":-72.93293,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"27 Scott St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06514",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85885309,
+        102086923,
+        85850561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BUYgzs0y9Zk1qeFgVM3PU_41.348467_-72.932930@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440060,
+    "wof:geomhash":"6c0920d4cec409bdd940eb7ce197633b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823521521
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823521521
+        }
+    ],
+    "wof:id":823521521,
+    "wof:lastmodified":1466422102,
+    "wof:name":"Physical Therapy Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.93293,
+    41.348467,
+    -72.93293,
+    41.348467
+],
+  "geometry": {"coordinates":[-72.93293,41.348467],"type":"Point"}
+}

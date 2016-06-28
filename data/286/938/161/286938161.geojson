@@ -2,13 +2,14 @@
   "id": 286938161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.501482,41.127451,-73.501482,41.127451",
     "geom:latitude":41.127451,
     "geom:longitude":-73.501482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Weed St",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286938161,
-    "wof:lastmodified":1449017374,
+    "wof:lastmodified":1466421114,
     "wof:name":"F J Raskopf Properties Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.501482,41.127451,-73.501482,41.127451],
+  "bbox": [
+    -73.501482,
+    41.127451,
+    -73.501482,
+    41.127451
+],
   "geometry": {"coordinates":[-73.501482,41.127451],"type":"Point"}
 }

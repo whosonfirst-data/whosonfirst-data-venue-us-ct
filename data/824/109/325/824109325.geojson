@@ -1,0 +1,90 @@
+{
+  "id": 824109325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.206966,41.171118,-73.206966,41.171118",
+    "geom:latitude":41.171118,
+    "geom:longitude":-73.206966,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1262 State St",
+    "sg:city":"Bridgeport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 332 0666",
+    "sg:postcode":"06605",
+    "sg:province":"CT",
+    "sg:tags":[
+        "limousine",
+        "provider"
+    ],
+    "sg:website":"http://www.chauffeuredlimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85876505,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DKKwMzQ5VSL0BI9afbPms_41.171118_-73.206966@1303262246"
+    },
+    "wof:country":"US",
+    "wof:created":1463454542,
+    "wof:geomhash":"cee4ae1bafeeeb9fc50c47ba133395ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824109325
+        }
+    ],
+    "wof:id":824109325,
+    "wof:lastmodified":1466423116,
+    "wof:name":"Red Dot Airport Shuttle & Chauffeured Limousine Service",
+    "wof:parent_id":85876505,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine",
+        "provider"
+    ]
+},
+  "bbox": [
+    -73.206966,
+    41.171118,
+    -73.206966,
+    41.171118
+],
+  "geometry": {"coordinates":[-73.20696599999999,41.171118],"type":"Point"}
+}

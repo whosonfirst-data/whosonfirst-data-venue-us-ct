@@ -2,13 +2,14 @@
   "id": 286697315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.637539,41.033163,-73.637539,41.033163",
     "geom:latitude":41.033163,
     "geom:longitude":-73.637539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 Meadow Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":286697315,
-    "wof:lastmodified":1449017051,
+    "wof:lastmodified":1466421112,
     "wof:name":"Paradigm 140 Greenwich Ave LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-73.637539,41.033163,-73.637539,41.033163],
+  "bbox": [
+    -73.637539,
+    41.033163,
+    -73.637539,
+    41.033163
+],
   "geometry": {"coordinates":[-73.637539,41.033163],"type":"Point"}
 }

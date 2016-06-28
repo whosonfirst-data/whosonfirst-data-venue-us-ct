@@ -1,0 +1,73 @@
+{
+  "id": 823900015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.911317,41.323366,-72.911317,41.323366",
+    "geom:latitude":41.323366,
+    "geom:longitude":-72.911317,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"151 Canner St",
+    "sg:city":"New Haven",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 787 4524",
+    "sg:postcode":"06511",
+    "sg:province":"CT",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ai45WsZEX1bugodIYj9nE_41.323366_-72.911317@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463449456,
+    "wof:geomhash":"09829fd67690ba36bed86be05bb35613",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823900015
+        }
+    ],
+    "wof:id":823900015,
+    "wof:lastmodified":1466425973,
+    "wof:name":"Down Under Pottery",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -72.911317,
+    41.323366,
+    -72.911317,
+    41.323366
+],
+  "geometry": {"coordinates":[-72.911317,41.323366],"type":"Point"}
+}

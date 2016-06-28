@@ -1,0 +1,71 @@
+{
+  "id": 823722953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.8977,41.338133,-72.8977,41.338133",
+    "geom:latitude":41.338133,
+    "geom:longitude":-72.8977,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"2105 State St",
+    "sg:city":"Hamden",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 789 8003",
+    "sg:postcode":"06517",
+    "sg:province":"CT",
+    "sg:tags":[
+        "policy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85879169,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hVzsDH9vNtkREt2e0LKhF_41.338133_-72.897700@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444725,
+    "wof:geomhash":"647f990c605849db3e05d8f2cfb661bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879169,
+            "region_id":85688629,
+            "venue_id":823722953
+        }
+    ],
+    "wof:id":823722953,
+    "wof:lastmodified":1466424498,
+    "wof:name":"New Haven Regional Office",
+    "wof:parent_id":85879169,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "policy"
+    ]
+},
+  "bbox": [
+    -72.8977,
+    41.338133,
+    -72.8977,
+    41.338133
+],
+  "geometry": {"coordinates":[-72.8977,41.338133],"type":"Point"}
+}

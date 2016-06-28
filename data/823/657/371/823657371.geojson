@@ -1,0 +1,71 @@
+{
+  "id": 823657371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.819581,41.288525,-72.819581,41.288525",
+    "geom:latitude":41.288525,
+    "geom:longitude":-72.819581,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"165 Cedar St",
+    "sg:city":"Branford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06405",
+    "sg:province":"CT",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85868741,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6R9X2RsodGjZcBu4eQbyRK_41.288525_-72.819581@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443247,
+    "wof:geomhash":"c740cf4925236f39aebcebeeee473423",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85868741,
+            "region_id":85688629,
+            "venue_id":823657371
+        }
+    ],
+    "wof:id":823657371,
+    "wof:lastmodified":1466423795,
+    "wof:name":"East Snore Auto Body",
+    "wof:parent_id":85868741,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -72.819581,
+    41.288525,
+    -72.819581,
+    41.288525
+],
+  "geometry": {"coordinates":[-72.819581,41.288525],"type":"Point"}
+}

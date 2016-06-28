@@ -1,0 +1,75 @@
+{
+  "id": 823871625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.78864,41.893867,-72.78864,41.893867",
+    "geom:latitude":41.893867,
+    "geom:longitude":-72.78864,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"1091 Hopmeadow St",
+    "sg:city":"Simsbury",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 658 0666",
+    "sg:postcode":"06070",
+    "sg:province":"CT",
+    "sg:tags":[
+        "building",
+        "theatrical",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85826319,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BJYAZ1eUoLUdpIG1u0aiH_41.893867_-72.788640@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448772,
+    "wof:geomhash":"9a00e5cb974c39f8e300382b4c0fff62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85826319,
+            "region_id":85688629,
+            "venue_id":823871625
+        }
+    ],
+    "wof:id":823871625,
+    "wof:lastmodified":1466425917,
+    "wof:name":"Theatre Guild of Simsbury Ltd",
+    "wof:parent_id":85826319,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "theatrical",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -72.78864,
+    41.893867,
+    -72.78864,
+    41.893867
+],
+  "geometry": {"coordinates":[-72.78864,41.893867],"type":"Point"}
+}

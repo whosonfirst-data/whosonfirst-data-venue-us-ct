@@ -1,0 +1,75 @@
+{
+  "id": 823501343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.104509,41.552717,-72.104509,41.552717",
+    "geom:latitude":41.552717,
+    "geom:longitude":-72.104509,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"17 Case St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jv97MbusWZVT9sqQLjop8_41.552717_-72.104509@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439605,
+    "wof:geomhash":"7b438f7eaaf20330f2f52659c6b594b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823501343
+        }
+    ],
+    "wof:id":823501343,
+    "wof:lastmodified":1466421683,
+    "wof:name":"Ob-Gyn Services PC",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -72.104509,
+    41.552717,
+    -72.104509,
+    41.552717
+],
+  "geometry": {"coordinates":[-72.10450899999999,41.552717],"type":"Point"}
+}

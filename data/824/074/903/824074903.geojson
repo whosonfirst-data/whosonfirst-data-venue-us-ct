@@ -1,0 +1,97 @@
+{
+  "id": 824074903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.719252,41.667225,-72.719252,41.667225",
+    "geom:latitude":41.667225,
+    "geom:longitude":-72.719252,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"3017 Berlin Tpke",
+    "sg:city":"Newington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/newington/109992-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 667 9063",
+    "sg:postcode":"06111",
+    "sg:province":"CT",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85868725,
+        102191575,
+        404495831,
+        85633793,
+        85931077,
+        102085381,
+        85688629,
+        85836819
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23vYnKj3P8TV8zHfWreyt2_41.667225_-72.719252@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453734,
+    "wof:geomhash":"ce8dab346e995618082c05d28d2629c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85868725,
+            "region_id":85688629,
+            "venue_id":824074903
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495831,
+            "locality_id":85931077,
+            "neighbourhood_id":85836819,
+            "region_id":85688629,
+            "venue_id":824074903
+        }
+    ],
+    "wof:id":824074903,
+    "wof:lastmodified":1466422532,
+    "wof:name":"Chili's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -72.719252,
+    41.667225,
+    -72.719252,
+    41.667225
+],
+  "geometry": {"coordinates":[-72.719252,41.667225],"type":"Point"}
+}

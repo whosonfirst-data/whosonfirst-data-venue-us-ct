@@ -1,0 +1,71 @@
+{
+  "id": 823539225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.80805,41.682008,-72.80805,41.682008",
+    "geom:latitude":41.682008,
+    "geom:longitude":-72.80805,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"192 Elam St",
+    "sg:city":"New Britain",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06053",
+    "sg:province":"CT",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ohNU5xNtkKXtsIZJusof_41.682008_-72.808050@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463440453,
+    "wof:geomhash":"c526777c9cf97cb71e35cc022603781a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":823539225
+        }
+    ],
+    "wof:id":823539225,
+    "wof:lastmodified":1466422308,
+    "wof:name":"Castle Cleaning Service Inc",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -72.80805,
+    41.682008,
+    -72.80805,
+    41.682008
+],
+  "geometry": {"coordinates":[-72.80804999999999,41.682008],"type":"Point"}
+}

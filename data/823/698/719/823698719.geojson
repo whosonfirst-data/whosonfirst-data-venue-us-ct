@@ -1,0 +1,78 @@
+{
+  "id": 823698719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.421146,41.416949,-73.421146,41.416949",
+    "geom:latitude":41.416949,
+    "geom:longitude":-73.421146,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"99 Federal Rd",
+    "sg:city":"Danbury",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 790 8030",
+    "sg:postcode":"06811",
+    "sg:province":"CT",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.stew-leonards.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85805151,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nxBYkqdGadcEbrRgGsXDy_41.416949_-73.421146@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444212,
+    "wof:geomhash":"75fdef00771c11520ec9a66208902e89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85805151,
+            "region_id":85688629,
+            "venue_id":823698719
+        }
+    ],
+    "wof:id":823698719,
+    "wof:lastmodified":1466424420,
+    "wof:name":"Stew Leonard's",
+    "wof:parent_id":85805151,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -73.421146,
+    41.416949,
+    -73.421146,
+    41.416949
+],
+  "geometry": {"coordinates":[-73.42114599999999,41.416949],"type":"Point"}
+}

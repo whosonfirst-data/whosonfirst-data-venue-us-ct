@@ -1,0 +1,73 @@
+{
+  "id": 823578755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.089248,41.535822,-72.089248,41.535822",
+    "geom:latitude":41.535822,
+    "geom:longitude":-72.089248,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"119 Sachem St",
+    "sg:city":"Norwich",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1   ",
+    "sg:postcode":"06360",
+    "sg:province":"CT",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930861,
+        102084295,
+        85804157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wMFbPIytIqnFLuPSy1LKz_41.535822_-72.089248@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463441393,
+    "wof:geomhash":"7e03fb6773047f401e585260f95898e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "locality_id":85930861,
+            "neighbourhood_id":85804157,
+            "region_id":85688629,
+            "venue_id":823578755
+        }
+    ],
+    "wof:id":823578755,
+    "wof:lastmodified":1466422973,
+    "wof:name":"Internal Medicine Assoc Nor",
+    "wof:parent_id":85804157,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -72.089248,
+    41.535822,
+    -72.089248,
+    41.535822
+],
+  "geometry": {"coordinates":[-72.089248,41.535822],"type":"Point"}
+}

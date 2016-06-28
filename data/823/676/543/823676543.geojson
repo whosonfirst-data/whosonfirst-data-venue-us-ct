@@ -1,0 +1,66 @@
+{
+  "id": 823676543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.861482,41.673368,-72.861482,41.673368",
+    "geom:latitude":41.673368,
+    "geom:longitude":-72.861482,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"109 E Main St",
+    "sg:city":"Plainville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 747 1651",
+    "sg:postcode":"06062",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85867453,
+        102085381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PBuVClBWk6AxV77bbdbw1_41.673368_-72.861482@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463443713,
+    "wof:geomhash":"c95331a2e44cb37d347b8bc490fbf81a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85867453,
+            "region_id":85688629,
+            "venue_id":823676543
+        }
+    ],
+    "wof:id":823676543,
+    "wof:lastmodified":1466424189,
+    "wof:name":"Hoerle Realty Co",
+    "wof:parent_id":85867453,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -72.861482,
+    41.673368,
+    -72.861482,
+    41.673368
+],
+  "geometry": {"coordinates":[-72.861482,41.673368],"type":"Point"}
+}

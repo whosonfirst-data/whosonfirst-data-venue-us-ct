@@ -1,0 +1,66 @@
+{
+  "id": 823697689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.252598,41.301784,-73.252598,41.301784",
+    "geom:latitude":41.301784,
+    "geom:longitude":-73.252598,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"134 Main St",
+    "sg:city":"Monroe",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 452 0197",
+    "sg:postcode":"06468",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845381,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iLYT2kMC7W9pIqvNdf2iS_41.301784_-73.252598@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463444190,
+    "wof:geomhash":"5ddc8f8985afca746aa15e93b302529a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823697689
+        }
+    ],
+    "wof:id":823697689,
+    "wof:lastmodified":1466424212,
+    "wof:name":"Duchess Of Monroe",
+    "wof:parent_id":85845381,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.252598,
+    41.301784,
+    -73.252598,
+    41.301784
+],
+  "geometry": {"coordinates":[-73.25259800000001,41.301784],"type":"Point"}
+}

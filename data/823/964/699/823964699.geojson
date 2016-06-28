@@ -1,0 +1,75 @@
+{
+  "id": 823964699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-71.949384,41.789852,-71.949384,41.789852",
+    "geom:latitude":41.789852,
+    "geom:longitude":-71.949384,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"49 Pomfret Rd",
+    "sg:city":"Brooklyn",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 779 7609",
+    "sg:postcode":"06234",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85930851,
+        102085377,
+        85843437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OhzHz67ebeoqrPFOaQBiB_41.789852_-71.949384@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451128,
+    "wof:geomhash":"8b6c88f025c59b235755abec08b6a9bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085377,
+            "locality_id":85930851,
+            "neighbourhood_id":85843437,
+            "region_id":85688629,
+            "venue_id":823964699
+        }
+    ],
+    "wof:id":823964699,
+    "wof:lastmodified":1466426538,
+    "wof:name":"Jones Excavation LLC",
+    "wof:parent_id":85843437,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -71.949384,
+    41.789852,
+    -71.949384,
+    41.789852
+],
+  "geometry": {"coordinates":[-71.94938399999999,41.789852],"type":"Point"}
+}

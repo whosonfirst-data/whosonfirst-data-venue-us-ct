@@ -2,13 +2,14 @@
   "id": 353566051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.533771,41.183788,-73.533771,41.183788",
     "geom:latitude":41.183788,
     "geom:longitude":-73.533771,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1038 West Rd",
     "sg:city":"New Canaan",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":353566051,
-    "wof:lastmodified":1449018303,
+    "wof:lastmodified":1466421132,
     "wof:name":"Spring Lake Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-73.533771,41.183788,-73.533771,41.183788],
+  "bbox": [
+    -73.533771,
+    41.183788,
+    -73.533771,
+    41.183788
+],
   "geometry": {"coordinates":[-73.533771,41.183788],"type":"Point"}
 }

@@ -1,0 +1,88 @@
+{
+  "id": 824101393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.708191,41.611412,-72.708191,41.611412",
+    "geom:latitude":41.611412,
+    "geom:longitude":-72.708191,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Alcap Rdg",
+    "sg:city":"Cromwell",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 635 8222",
+    "sg:postcode":"06416",
+    "sg:province":"CT",
+    "sg:tags":[
+        "limousine"
+    ],
+    "sg:website":"http://executive2000taxi.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85856893,
+        102191575,
+        404495967,
+        85633793,
+        85930847,
+        102086211,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IrhHEhG9yCFWV2VLSuLMn_41.611412_-72.708191@1303262245"
+    },
+    "wof:country":"US",
+    "wof:created":1463454371,
+    "wof:geomhash":"3ed869f7747fedd36bf57b38d6288bb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086211,
+            "localadmin_id":404495967,
+            "locality_id":85930847,
+            "neighbourhood_id":85856893,
+            "region_id":85688629,
+            "venue_id":824101393
+        }
+    ],
+    "wof:id":824101393,
+    "wof:lastmodified":1466422808,
+    "wof:name":"Executive 2000 Taxicabs",
+    "wof:parent_id":85856893,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -72.708191,
+    41.611412,
+    -72.708191,
+    41.611412
+],
+  "geometry": {"coordinates":[-72.708191,41.611412],"type":"Point"}
+}

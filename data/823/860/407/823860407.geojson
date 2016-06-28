@@ -1,0 +1,79 @@
+{
+  "id": 823860407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.520093,41.776266,-72.520093,41.776266",
+    "geom:latitude":41.776266,
+    "geom:longitude":-72.520093,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"52 E Center St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 646 0994",
+    "sg:postcode":"06040",
+    "sg:province":"CT",
+    "sg:tags":[
+        "center",
+        "dispatch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85832071,
+        102191575,
+        404495985,
+        85633793,
+        85931105,
+        102085381,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16jPqiLLPJkdbhQ6jC1aW8_41.776266_-72.520093@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463448503,
+    "wof:geomhash":"77e20ed9eadfd01b092a8456d4abe708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085381,
+            "localadmin_id":404495985,
+            "locality_id":85931105,
+            "neighbourhood_id":85832071,
+            "region_id":85688629,
+            "venue_id":823860407
+        }
+    ],
+    "wof:id":823860407,
+    "wof:lastmodified":1466425674,
+    "wof:name":"SBC Communications",
+    "wof:parent_id":85832071,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "dispatch"
+    ]
+},
+  "bbox": [
+    -72.520093,
+    41.776266,
+    -72.520093,
+    41.776266
+],
+  "geometry": {"coordinates":[-72.520093,41.776266],"type":"Point"}
+}

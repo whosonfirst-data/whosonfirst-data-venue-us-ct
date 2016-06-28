@@ -1,0 +1,84 @@
+{
+  "id": 824090879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.4207,41.982201,-73.4207,41.982201",
+    "geom:latitude":41.982201,
+    "geom:longitude":-73.4207,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"19 Railroad St",
+    "sg:city":"Salisbury",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 435 8000",
+    "sg:postcode":"06068",
+    "sg:province":"CT",
+    "sg:tags":[
+        "shuttle",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85803031,
+        102191575,
+        404496017,
+        85633793,
+        85931193,
+        102085375,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G1uRwWJDsjyWZMkrmrP6I_41.982201_-73.420700@1303262244"
+    },
+    "wof:country":"US",
+    "wof:created":1463454106,
+    "wof:geomhash":"80bbd1f69ad311ce6cf428bd1b2608e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496017,
+            "locality_id":85931193,
+            "neighbourhood_id":85803031,
+            "region_id":85688629,
+            "venue_id":824090879
+        }
+    ],
+    "wof:id":824090879,
+    "wof:lastmodified":1466422881,
+    "wof:name":"Lakeville Taxi Co",
+    "wof:parent_id":85803031,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "airport"
+    ]
+},
+  "bbox": [
+    -73.4207,
+    41.982201,
+    -73.4207,
+    41.982201
+],
+  "geometry": {"coordinates":[-73.4207,41.982201],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 824082137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.000254,41.552814,-73.000254,41.552814",
+    "geom:latitude":41.552814,
+    "geom:longitude":-73.000254,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"499 Frost Rd",
+    "sg:city":"Waterbury",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/waterbury/80968-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 757 7272",
+    "sg:postcode":"06705",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85818431,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923,
+        85688629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NkwkLfu2iAVcWGln03BlB_41.552966_-73.000420@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463453898,
+    "wof:geomhash":"4bff0ecff91f264ae10fb16a65ce9745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85818431,
+            "region_id":85688629,
+            "venue_id":824082137
+        }
+    ],
+    "wof:id":824082137,
+    "wof:lastmodified":1466422375,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85818431,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -73.000254,
+    41.552814,
+    -73.000254,
+    41.552814
+],
+  "geometry": {"coordinates":[-73.000254,41.552814],"type":"Point"}
+}

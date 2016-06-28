@@ -1,0 +1,73 @@
+{
+  "id": 823970459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.537892,41.152254,-73.537892,41.152254",
+    "geom:latitude":41.152254,
+    "geom:longitude":-73.537892,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 Woodbine Rd",
+    "sg:city":"Stamford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 322 7490",
+    "sg:postcode":"06903",
+    "sg:province":"CT",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85842701,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T5ItE5v59YyyLr313mm8v_41.152254_-73.537892@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463451266,
+    "wof:geomhash":"00c9559ecc706768a68340b5b1834033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85842701,
+            "region_id":85688629,
+            "venue_id":823970459
+        }
+    ],
+    "wof:id":823970459,
+    "wof:lastmodified":1466426650,
+    "wof:name":"Longo Brothers Carting",
+    "wof:parent_id":85842701,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -73.537892,
+    41.152254,
+    -73.537892,
+    41.152254
+],
+  "geometry": {"coordinates":[-73.537892,41.152254],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823605803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.900738,41.503508,-72.900738,41.503508",
+    "geom:latitude":41.503508,
+    "geom:longitude":-72.900738,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"145 Highland Ave",
+    "sg:city":"Cheshire",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 272 3272",
+    "sg:postcode":"06410",
+    "sg:province":"CT",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85855287,
+        102086923
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vuWyXHsJdt9u5NcvTSQhI_41.503508_-72.900738@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463442043,
+    "wof:geomhash":"7de4ac37fe4657d10c40e6fd643442a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85855287,
+            "region_id":85688629,
+            "venue_id":823605803
+        }
+    ],
+    "wof:id":823605803,
+    "wof:lastmodified":1466423403,
+    "wof:name":"American Cellular",
+    "wof:parent_id":85855287,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -72.900738,
+    41.503508,
+    -72.900738,
+    41.503508
+],
+  "geometry": {"coordinates":[-72.900738,41.503508],"type":"Point"}
+}

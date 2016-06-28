@@ -1,0 +1,83 @@
+{
+  "id": 823492981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.626055,41.921652,-72.626055,41.921652",
+    "geom:latitude":41.921652,
+    "geom:longitude":-72.626055,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"25 School St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 2304",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "home",
+        "executive",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S8MeT36xPWG7HgCFMLuPB_41.921652_-72.626055@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439375,
+    "wof:geomhash":"d81c7d6cc82620eac8e9485a98de6448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":823492981
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":823492981
+        }
+    ],
+    "wof:id":823492981,
+    "wof:lastmodified":1466421637,
+    "wof:name":"East Windsor Visiting Nurse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "executive",
+        "care"
+    ]
+},
+  "bbox": [
+    -72.626055,
+    41.921652,
+    -72.626055,
+    41.921652
+],
+  "geometry": {"coordinates":[-72.62605499999999,41.921652],"type":"Point"}
+}

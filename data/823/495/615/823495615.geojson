@@ -1,0 +1,73 @@
+{
+  "id": 823495615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.364894,41.471575,-73.364894,41.471575",
+    "geom:latitude":41.471575,
+    "geom:longitude":-73.364894,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"101 Obtuse Rd S",
+    "sg:city":"Brookfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 775 0275",
+    "sg:postcode":"06804",
+    "sg:province":"CT",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85839139,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fnnwon7l8cldOW6VcHKLe_41.471575_-73.364894@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463439448,
+    "wof:geomhash":"7e4cca284acb3e9dd05574c5421a290f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823495615
+        }
+    ],
+    "wof:id":823495615,
+    "wof:lastmodified":1466421706,
+    "wof:name":"Complete Excavation",
+    "wof:parent_id":85839139,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -73.364894,
+    41.471575,
+    -73.364894,
+    41.471575
+],
+  "geometry": {"coordinates":[-73.36489400000001,41.471575],"type":"Point"}
+}

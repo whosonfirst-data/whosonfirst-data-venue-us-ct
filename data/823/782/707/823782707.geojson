@@ -1,0 +1,71 @@
+{
+  "id": 823782707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.255611,41.307608,-72.255611,41.307608",
+    "geom:latitude":41.307608,
+    "geom:longitude":-72.255611,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"11 River Rd",
+    "sg:city":"Old Lyme",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 663 2021",
+    "sg:postcode":"06371",
+    "sg:province":"CT",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85821451,
+        102084295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yg6MhJyis9WCabNqAx89K_41.307608_-72.255611@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446162,
+    "wof:geomhash":"21c01852685bedc301f6f9d2b45a3cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084295,
+            "neighbourhood_id":85821451,
+            "region_id":85688629,
+            "venue_id":823782707
+        }
+    ],
+    "wof:id":823782707,
+    "wof:lastmodified":1466424999,
+    "wof:name":"Beaver Logging",
+    "wof:parent_id":85821451,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -72.255611,
+    41.307608,
+    -72.255611,
+    41.307608
+],
+  "geometry": {"coordinates":[-72.255611,41.307608],"type":"Point"}
+}

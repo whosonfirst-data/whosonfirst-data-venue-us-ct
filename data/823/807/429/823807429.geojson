@@ -1,0 +1,66 @@
+{
+  "id": 823807429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-73.289139,41.413973,-73.289139,41.413973",
+    "geom:latitude":41.413973,
+    "geom:longitude":-73.289139,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"5 Commerce Rd",
+    "sg:city":"Newtown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 203 426 4271",
+    "sg:postcode":"06470",
+    "sg:province":"CT",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85845579,
+        102084283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20DkPHTF8dx6RirjpC0sRD_41.413973_-73.289139@1294084077"
+    },
+    "wof:country":"US",
+    "wof:created":1463446919,
+    "wof:geomhash":"768ee9af095ceda8f0d0534b8224260f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85845579,
+            "region_id":85688629,
+            "venue_id":823807429
+        }
+    ],
+    "wof:id":823807429,
+    "wof:lastmodified":1466425365,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85845579,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -73.289139,
+    41.413973,
+    -73.289139,
+    41.413973
+],
+  "geometry": {"coordinates":[-73.28913900000001,41.413973],"type":"Point"}
+}

@@ -1,0 +1,99 @@
+{
+  "id": 824074131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-72.627561,41.931319,-72.627561,41.931319",
+    "geom:latitude":41.931319,
+    "geom:longitude":-72.627561,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Main St",
+    "sg:city":"Windsor Locks",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/ct/windsor-locks/130244-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 860 623 8229",
+    "sg:postcode":"06096",
+    "sg:province":"CT",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85828387,
+        102085381,
+        85824329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eZGQRP8UlJFVtqcerHfan_41.931319_-72.627561@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1463453721,
+    "wof:geomhash":"f73e8f9b7ff6bc7e9160c856d214553c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85828387,
+            "region_id":85688629,
+            "venue_id":824074131
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085381,
+            "neighbourhood_id":85824329,
+            "region_id":85688629,
+            "venue_id":824074131
+        }
+    ],
+    "wof:id":824074131,
+    "wof:lastmodified":1466422412,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ct",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -72.627561,
+    41.931319,
+    -72.627561,
+    41.931319
+],
+  "geometry": {"coordinates":[-72.627561,41.931319],"type":"Point"}
+}
