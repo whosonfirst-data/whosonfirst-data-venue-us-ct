@@ -2,6 +2,10 @@
   "id": 824070109,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Bill Hill Rd Old Lyme CT 06371",
+    "addr:housenumber":"78",
+    "addr:postcode":"06371",
+    "addr:street":"Bill Hill Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":824070109,
-    "wof:lastmodified":1466422234,
+    "wof:lastmodified":1472611805,
     "wof:name":"Ashlawn Farm Store",
     "wof:parent_id":85830045,
     "wof:placetype":"venue",

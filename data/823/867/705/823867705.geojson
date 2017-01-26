@@ -2,6 +2,10 @@
   "id": 823867705,
   "type": "Feature",
   "properties": {
+    "addr:full":"28 Main St Windsor Locks CT 06096",
+    "addr:housenumber":"28",
+    "addr:postcode":"06096",
+    "addr:street":"Main St;Locks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823867705,
-    "wof:lastmodified":1466425743,
+    "wof:lastmodified":1472613843,
     "wof:name":"Windsor Locks Public Library",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

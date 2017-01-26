@@ -2,6 +2,10 @@
   "id": 823502481,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Naugatuck Ave Milford CT 06460",
+    "addr:housenumber":"123",
+    "addr:postcode":"06460",
+    "addr:street":"Naugatuck Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823502481,
-    "wof:lastmodified":1466421603,
+    "wof:lastmodified":1472612101,
     "wof:name":"Shoremart",
     "wof:parent_id":85854319,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823606463,
   "type": "Feature",
   "properties": {
+    "addr:full":"1132 Storrs Rd Storrs Mansfield CT 06268",
+    "addr:housenumber":"1132",
+    "addr:postcode":"06268",
+    "addr:street":"Storrs Rd;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823606463,
-    "wof:lastmodified":1466423491,
+    "wof:lastmodified":1472613388,
     "wof:name":"Liberty Bank",
     "wof:parent_id":85815787,
     "wof:placetype":"venue",

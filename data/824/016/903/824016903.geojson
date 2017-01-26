@@ -2,6 +2,10 @@
   "id": 824016903,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Black Bridge Rd Sandy Hook CT 06482",
+    "addr:housenumber":"42",
+    "addr:postcode":"06482",
+    "addr:street":"Black Bridge Rd;Hook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":824016903,
-    "wof:lastmodified":1466421476,
+    "wof:lastmodified":1472608348,
     "wof:name":"C & S Septic Svc",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

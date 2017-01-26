@@ -2,6 +2,10 @@
   "id": 823813863,
   "type": "Feature",
   "properties": {
+    "addr:full":"34 Hickory Ln Cornwall Bridge CT 06754",
+    "addr:housenumber":"34",
+    "addr:postcode":"06754",
+    "addr:street":"Hickory Ln;Bridge Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823813863,
-    "wof:lastmodified":1466425292,
+    "wof:lastmodified":1472613829,
     "wof:name":"Cornwall Medical Emrgncy Fund",
     "wof:parent_id":85837751,
     "wof:placetype":"venue",

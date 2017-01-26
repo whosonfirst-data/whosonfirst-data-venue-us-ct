@@ -2,6 +2,10 @@
   "id": 823606791,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 N Main St Branford CT 06405",
+    "addr:housenumber":"45",
+    "addr:postcode":"06405",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823606791,
-    "wof:lastmodified":1466423501,
+    "wof:lastmodified":1472613419,
     "wof:name":"Branford Town Ambulance Svc",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",

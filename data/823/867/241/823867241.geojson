@@ -2,6 +2,10 @@
   "id": 823867241,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Richards St West Haven CT 06516",
+    "addr:housenumber":"100",
+    "addr:postcode":"06516",
+    "addr:street":"Richards St;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823867241,
-    "wof:lastmodified":1466425695,
+    "wof:lastmodified":1472613786,
     "wof:name":"Real Time Records",
     "wof:parent_id":85882017,
     "wof:placetype":"venue",

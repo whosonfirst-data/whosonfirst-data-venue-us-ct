@@ -2,6 +2,10 @@
   "id": 823466523,
   "type": "Feature",
   "properties": {
+    "addr:full":"576 Hamburg Rd Old Lyme CT 06371",
+    "addr:housenumber":"576",
+    "addr:postcode":"06371",
+    "addr:street":"Hamburg Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823466523,
-    "wof:lastmodified":1466421209,
+    "wof:lastmodified":1472607484,
     "wof:name":"Old Lyme Stable",
     "wof:parent_id":85823623,
     "wof:placetype":"venue",

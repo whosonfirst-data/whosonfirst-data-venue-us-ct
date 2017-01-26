@@ -2,6 +2,10 @@
   "id": 823533537,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 Quaker Ln S Hartford CT 06110",
+    "addr:housenumber":"612",
+    "addr:postcode":"06110",
+    "addr:street":"Quaker Ln;Hartford",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823533537,
-    "wof:lastmodified":1466422270,
+    "wof:lastmodified":1472613311,
     "wof:name":"Lindys Laundromat",
     "wof:parent_id":85878019,
     "wof:placetype":"venue",

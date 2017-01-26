@@ -2,6 +2,10 @@
   "id": 823553769,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Roberts St East Hartford CT 06108",
+    "addr:housenumber":"333",
+    "addr:postcode":"06108",
+    "addr:street":"Roberts St East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823553769,
-    "wof:lastmodified":1466422382,
+    "wof:lastmodified":1472613342,
     "wof:name":"Wellesley Inn",
     "wof:parent_id":85808571,
     "wof:placetype":"venue",

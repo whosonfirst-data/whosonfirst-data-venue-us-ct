@@ -2,6 +2,10 @@
   "id": 824074429,
   "type": "Feature",
   "properties": {
+    "addr:full":"497 Flatbush Ave Hartford CT 06106",
+    "addr:housenumber":"497",
+    "addr:postcode":"06106",
+    "addr:street":"Flatbush Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824074429,
-    "wof:lastmodified":1466422422,
+    "wof:lastmodified":1472613239,
     "wof:name":"Subway",
     "wof:parent_id":85878019,
     "wof:placetype":"venue",

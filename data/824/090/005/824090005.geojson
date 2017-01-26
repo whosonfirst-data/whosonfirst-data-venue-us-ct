@@ -2,6 +2,10 @@
   "id": 824090005,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Main St # 360 New Hartford CT 06057",
+    "addr:housenumber":"220;360",
+    "addr:postcode":"06057",
+    "addr:street":"Main St #;Hartford",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":824090005,
-    "wof:lastmodified":1466422804,
+    "wof:lastmodified":1472610823,
     "wof:name":"Foothills Delery the",
     "wof:parent_id":85843245,
     "wof:placetype":"venue",

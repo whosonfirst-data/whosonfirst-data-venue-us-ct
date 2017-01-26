@@ -2,6 +2,10 @@
   "id": 824121305,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 West Main St., Suite 255 Stamford CT 06902",
+    "addr:housenumber":"2001",
+    "addr:postcode":"06902",
+    "addr:street":"West Main St. Suite 255",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824121305,
-    "wof:lastmodified":1466423326,
+    "wof:lastmodified":1472613330,
     "wof:name":"Ikan",
     "wof:parent_id":85881175,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 824114023,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 W Wooster St Apt 702 Danbury CT 06810",
+    "addr:housenumber":"36;702",
+    "addr:postcode":"06810",
+    "addr:street":"W Wooster St Apt;Danbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":824114023,
-    "wof:lastmodified":1466423290,
+    "wof:lastmodified":1472613312,
     "wof:name":"Commerical Mortgage",
     "wof:parent_id":85805179,
     "wof:placetype":"venue",

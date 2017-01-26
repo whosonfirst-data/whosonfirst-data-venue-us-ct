@@ -2,6 +2,10 @@
   "id": 824085725,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Farmington Ave Ste 101 & 102 Bristol CT 06010",
+    "addr:housenumber":"1001",
+    "addr:postcode":"06010",
+    "addr:street":"Farmington Ave Ste 101 &;Bristol Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824085725,
-    "wof:lastmodified":1466422724,
+    "wof:lastmodified":1472613263,
     "wof:name":"Physical Therapy & Medical Massage of CT",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",

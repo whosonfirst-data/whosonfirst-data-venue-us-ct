@@ -2,6 +2,10 @@
   "id": 824057489,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Holly Ln New Milford CT 06776",
+    "addr:housenumber":"25",
+    "addr:postcode":"06776",
+    "addr:street":"Holly Ln;Milford",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":824057489,
-    "wof:lastmodified":1466422173,
+    "wof:lastmodified":1472611935,
     "wof:name":"Wesconn Towing & Recovery",
     "wof:parent_id":85824781,
     "wof:placetype":"venue",

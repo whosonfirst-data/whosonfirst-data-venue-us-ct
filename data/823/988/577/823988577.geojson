@@ -2,6 +2,10 @@
   "id": 823988577,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Brush Hill Rd Old Lyme CT 06371",
+    "addr:housenumber":"123",
+    "addr:postcode":"06371",
+    "addr:street":"Brush Hill Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":823988577,
-    "wof:lastmodified":1466426725,
+    "wof:lastmodified":1472613951,
     "wof:name":"U S Map & Book Company",
     "wof:parent_id":85807761,
     "wof:placetype":"venue",

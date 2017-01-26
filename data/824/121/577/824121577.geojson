@@ -2,6 +2,10 @@
   "id": 824121577,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Pearl St, 14th Floor, #8 Hartford CT 06103",
+    "addr:housenumber":"100;14th floor # 8",
+    "addr:postcode":"06103",
+    "addr:street":"Pearl St;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":824121577,
-    "wof:lastmodified":1466423262,
+    "wof:lastmodified":1472613340,
     "wof:name":"Vaulten",
     "wof:parent_id":85866871,
     "wof:placetype":"venue",

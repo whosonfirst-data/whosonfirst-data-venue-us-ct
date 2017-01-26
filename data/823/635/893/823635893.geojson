@@ -2,6 +2,10 @@
   "id": 823635893,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Boston Tpke Pomfret Center CT 06259",
+    "addr:housenumber":"206",
+    "addr:postcode":"06259",
+    "addr:street":"Boston Tpke;Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823635893,
-    "wof:lastmodified":1466423750,
+    "wof:lastmodified":1472613427,
     "wof:name":"Wesley Vincent",
     "wof:parent_id":85828179,
     "wof:placetype":"venue",

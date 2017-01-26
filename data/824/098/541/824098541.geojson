@@ -2,6 +2,10 @@
   "id": 824098541,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 McCurdy Rd Old Lyme CT 06371",
+    "addr:housenumber":"40",
+    "addr:postcode":"06371",
+    "addr:street":"Mccurdy Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":824098541,
-    "wof:lastmodified":1466422748,
+    "wof:lastmodified":1472613253,
     "wof:name":"Old Lyme Country Club",
     "wof:parent_id":85831737,
     "wof:placetype":"venue",

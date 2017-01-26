@@ -2,6 +2,10 @@
   "id": 824038345,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Enterprise Dr Bristol CT 06010",
+    "addr:housenumber":"130",
+    "addr:postcode":"06010",
+    "addr:street":"Enterprise Dr Bristol Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":824038345,
-    "wof:lastmodified":1466421836,
+    "wof:lastmodified":1472608945,
     "wof:name":"Abel Transmission Inc",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",

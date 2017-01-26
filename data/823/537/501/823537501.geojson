@@ -2,6 +2,10 @@
   "id": 823537501,
   "type": "Feature",
   "properties": {
+    "addr:full":"355 Main St West Haven CT 06516",
+    "addr:housenumber":"355",
+    "addr:postcode":"06516",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823537501,
-    "wof:lastmodified":1466422630,
+    "wof:lastmodified":1472613304,
     "wof:name":"West Haven Community Dev",
     "wof:parent_id":85868719,
     "wof:placetype":"venue",

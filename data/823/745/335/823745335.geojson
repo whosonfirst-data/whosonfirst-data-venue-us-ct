@@ -2,6 +2,10 @@
   "id": 823745335,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Queens Rd Torrington CT 06790",
+    "addr:housenumber":"123",
+    "addr:postcode":"06790",
+    "addr:street":"Queens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823745335,
-    "wof:lastmodified":1466424666,
+    "wof:lastmodified":1472613728,
     "wof:name":"Fishermans Market",
     "wof:parent_id":85808607,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823504463,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Main St N Southbury CT 06488",
+    "addr:housenumber":"100",
+    "addr:postcode":"06488",
+    "addr:street":"Main St N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823504463,
-    "wof:lastmodified":1466421747,
+    "wof:lastmodified":1472613235,
     "wof:name":"Kmart",
     "wof:parent_id":85810009,
     "wof:placetype":"venue",

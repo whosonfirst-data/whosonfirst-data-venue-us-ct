@@ -2,6 +2,10 @@
   "id": 823587791,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Fowler St New Haven CT 06515",
+    "addr:housenumber":"123",
+    "addr:postcode":"06515",
+    "addr:street":"Fowler St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823587791,
-    "wof:lastmodified":1466423267,
+    "wof:lastmodified":1472613369,
     "wof:name":"Auto Spa Of Woodbridge",
     "wof:parent_id":85879157,
     "wof:placetype":"venue",

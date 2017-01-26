@@ -2,6 +2,10 @@
   "id": 823801595,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Cedar St Norwalk CT 06854",
+    "addr:housenumber":"123",
+    "addr:postcode":"06854",
+    "addr:street":"W Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823801595,
-    "wof:lastmodified":1466425214,
+    "wof:lastmodified":1472613812,
     "wof:name":"Animal Eye Clinic",
     "wof:parent_id":85879311,
     "wof:placetype":"venue",

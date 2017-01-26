@@ -2,6 +2,10 @@
   "id": 823500307,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 Washington Blvd Stamford CT 06901",
+    "addr:housenumber":"888",
+    "addr:postcode":"06901",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823500307,
-    "wof:lastmodified":1466421667,
+    "wof:lastmodified":1472611046,
     "wof:name":"City Of Stamford Dept-Health",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",

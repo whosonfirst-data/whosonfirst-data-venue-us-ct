@@ -2,6 +2,10 @@
   "id": 823981325,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Bernhard Rd North Haven CT 06473",
+    "addr:housenumber":"15",
+    "addr:postcode":"bernhard;06473",
+    "addr:street":"Rd;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823981325,
-    "wof:lastmodified":1466426674,
+    "wof:lastmodified":1472613921,
     "wof:name":"Ironworkers",
     "wof:parent_id":85879181,
     "wof:placetype":"venue",

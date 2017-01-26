@@ -2,6 +2,10 @@
   "id": 823883851,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 Bill Hill Rd Old Lyme CT 06371",
+    "addr:housenumber":"86",
+    "addr:postcode":"06371",
+    "addr:street":"Bill Hill Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823883851,
-    "wof:lastmodified":1466425893,
+    "wof:lastmodified":1472613945,
     "wof:name":"1921 Hobart Ave Corp",
     "wof:parent_id":85823623,
     "wof:placetype":"venue",

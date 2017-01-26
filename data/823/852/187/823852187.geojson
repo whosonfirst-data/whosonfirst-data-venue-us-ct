@@ -2,6 +2,10 @@
   "id": 823852187,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 N Eagleville Rd Storrs Mansfield CT 06268",
+    "addr:housenumber":"42",
+    "addr:postcode":"06268",
+    "addr:street":"N Eagleville Rd;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823852187,
-    "wof:lastmodified":1466425531,
+    "wof:lastmodified":1472613784,
     "wof:name":"St Marks Episcopal Chapel",
     "wof:parent_id":85832175,
     "wof:placetype":"venue",

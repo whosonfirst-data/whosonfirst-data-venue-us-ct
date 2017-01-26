@@ -2,6 +2,10 @@
   "id": 823759111,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 George St New Haven CT 06511",
+    "addr:housenumber":"300",
+    "addr:postcode":"06511",
+    "addr:street":"George St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823759111,
-    "wof:lastmodified":1466424747,
+    "wof:lastmodified":1472613744,
     "wof:name":"SBC Communications",
     "wof:parent_id":85879167,
     "wof:placetype":"venue",

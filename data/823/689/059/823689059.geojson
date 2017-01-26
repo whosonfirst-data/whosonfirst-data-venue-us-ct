@@ -2,6 +2,10 @@
   "id": 823689059,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 John Perry Rd Eastford CT 06242",
+    "addr:housenumber":"99",
+    "addr:postcode":"06242",
+    "addr:street":"John Perry Rd Eastford Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823689059,
-    "wof:lastmodified":1466424063,
+    "wof:lastmodified":1472613666,
     "wof:name":"Walter Electric",
     "wof:parent_id":85828179,
     "wof:placetype":"venue",

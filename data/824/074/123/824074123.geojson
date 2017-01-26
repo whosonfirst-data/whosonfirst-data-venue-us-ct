@@ -2,6 +2,10 @@
   "id": 824074123,
   "type": "Feature",
   "properties": {
+    "addr:full":"92 Main St Windsor Locks CT 06096",
+    "addr:housenumber":"92",
+    "addr:postcode":"06096",
+    "addr:street":"Main St;Locks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":824074123,
-    "wof:lastmodified":1466422350,
+    "wof:lastmodified":1472611577,
     "wof:name":"Subway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

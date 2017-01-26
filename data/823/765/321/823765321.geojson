@@ -2,6 +2,10 @@
   "id": 823765321,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 Washington Blvd Stamford CT 06901",
+    "addr:housenumber":"888",
+    "addr:postcode":"06901",
+    "addr:street":"Washington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823765321,
-    "wof:lastmodified":1466424817,
+    "wof:lastmodified":1472613770,
     "wof:name":"Stamford Commission On Aging",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",

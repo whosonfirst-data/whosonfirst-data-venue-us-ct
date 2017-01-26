@@ -2,6 +2,10 @@
   "id": 823688647,
   "type": "Feature",
   "properties": {
+    "addr:full":"323 Main St Cromwell CT 06416",
+    "addr:housenumber":"323",
+    "addr:postcode":"06416",
+    "addr:street":"Main St;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823688647,
-    "wof:lastmodified":1466424124,
+    "wof:lastmodified":1472613662,
     "wof:name":"E Sales Central",
     "wof:parent_id":85837533,
     "wof:placetype":"venue",

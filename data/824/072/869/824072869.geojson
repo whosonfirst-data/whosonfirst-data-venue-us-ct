@@ -2,6 +2,10 @@
   "id": 824072869,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Farmington Ave Bristol CT 06010",
+    "addr:housenumber":"123",
+    "addr:postcode":"06010",
+    "addr:street":"Farmington Ave Bristol Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824072869,
-    "wof:lastmodified":1466422471,
+    "wof:lastmodified":1472613267,
     "wof:name":"Pizza Hut",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",

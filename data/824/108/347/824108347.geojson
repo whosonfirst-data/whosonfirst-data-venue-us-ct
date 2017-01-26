@@ -2,6 +2,10 @@
   "id": 824108347,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Flat Rock Pl Unit D103 Westbrook CT 06498",
+    "addr:housenumber":"314;unit d103",
+    "addr:postcode":"06498",
+    "addr:street":"Flat Rock Pl;Westbrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":824108347,
-    "wof:lastmodified":1466423075,
+    "wof:lastmodified":1472613275,
     "wof:name":"Cost Cutters Salon & Products Outlet",
     "wof:parent_id":85847263,
     "wof:placetype":"venue",

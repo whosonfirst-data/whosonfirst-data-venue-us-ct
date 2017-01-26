@@ -2,6 +2,10 @@
   "id": 824094679,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Mechanic St Unit 206M Windsor CT 06095",
+    "addr:housenumber":"33;206m",
+    "addr:postcode":"06095",
+    "addr:street":"Mechanic St Unit;Windsor Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":824094679,
-    "wof:lastmodified":1466422935,
+    "wof:lastmodified":1472613251,
     "wof:name":"Iaba Foundation",
     "wof:parent_id":85824329,
     "wof:placetype":"venue",

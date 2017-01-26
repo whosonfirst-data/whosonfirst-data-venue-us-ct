@@ -2,6 +2,10 @@
   "id": 823849107,
   "type": "Feature",
   "properties": {
+    "addr:full":"2312 Main St Bridgeport CT 06606",
+    "addr:housenumber":"2312",
+    "addr:postcode":"06606",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823849107,
-    "wof:lastmodified":1466425508,
+    "wof:lastmodified":1472613762,
     "wof:name":"Pit Stop Package",
     "wof:parent_id":85876501,
     "wof:placetype":"venue",

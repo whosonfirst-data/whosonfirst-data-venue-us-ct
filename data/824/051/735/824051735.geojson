@@ -2,6 +2,10 @@
   "id": 824051735,
   "type": "Feature",
   "properties": {
+    "addr:full":"149 Westville Ave Exn Danbury CT 06811",
+    "addr:housenumber":"149",
+    "addr:postcode":"06811",
+    "addr:street":"Westville Ave;Danbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":824051735,
-    "wof:lastmodified":1466422092,
+    "wof:lastmodified":1472613254,
     "wof:name":"W & S Cleaning Svc",
     "wof:parent_id":85805179,
     "wof:placetype":"venue",

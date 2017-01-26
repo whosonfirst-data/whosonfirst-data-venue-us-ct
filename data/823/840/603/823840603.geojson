@@ -2,6 +2,10 @@
   "id": 823840603,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Lake Ave Exn Danbury CT 06811",
+    "addr:housenumber":"42",
+    "addr:postcode":"06811",
+    "addr:street":"Lake Ave;Danbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823840603,
-    "wof:lastmodified":1466425464,
+    "wof:lastmodified":1472613819,
     "wof:name":"Danbury Youth Soccer Club Inc",
     "wof:parent_id":85805179,
     "wof:placetype":"venue",

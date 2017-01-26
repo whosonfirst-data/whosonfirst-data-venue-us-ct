@@ -2,6 +2,10 @@
   "id": 824043065,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Hartford Rd East Hartford CT 06111",
+    "addr:housenumber":"111",
+    "addr:postcode":"06111",
+    "addr:street":"W Hartford Rd East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824043065,
-    "wof:lastmodified":1466421897,
+    "wof:lastmodified":1472609989,
     "wof:name":"Consumer Crdt Cnsling Srvc Sne",
     "wof:parent_id":85836819,
     "wof:placetype":"venue",

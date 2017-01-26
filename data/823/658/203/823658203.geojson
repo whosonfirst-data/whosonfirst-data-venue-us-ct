@@ -2,6 +2,10 @@
   "id": 823658203,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Dog Ln Storrs Mansfield CT 06268",
+    "addr:housenumber":"10",
+    "addr:postcode":"06268",
+    "addr:street":"Dog Ln;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823658203,
-    "wof:lastmodified":1466424030,
+    "wof:lastmodified":1472613395,
     "wof:name":"Gentlemens Choice",
     "wof:parent_id":85832175,
     "wof:placetype":"venue",

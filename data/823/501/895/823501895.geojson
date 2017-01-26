@@ -2,6 +2,10 @@
   "id": 823501895,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Broad St New Britain CT 06053",
+    "addr:housenumber":"123",
+    "addr:postcode":"06053",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823501895,
-    "wof:lastmodified":1466421690,
+    "wof:lastmodified":1472613246,
     "wof:name":"Photo Art",
     "wof:parent_id":85867451,
     "wof:placetype":"venue",

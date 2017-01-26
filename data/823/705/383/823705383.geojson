@@ -2,6 +2,10 @@
   "id": 823705383,
   "type": "Feature",
   "properties": {
+    "addr:full":"234 Danbury Rd Wilton CT 06897",
+    "addr:housenumber":"234",
+    "addr:postcode":"06897",
+    "addr:street":"Danbury Rd Wilton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823705383,
-    "wof:lastmodified":1466424303,
+    "wof:lastmodified":1472613691,
     "wof:name":"Emergency Medical 911 Services",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

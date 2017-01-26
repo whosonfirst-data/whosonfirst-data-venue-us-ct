@@ -2,6 +2,10 @@
   "id": 823855219,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Main St Westport CT 06880",
+    "addr:housenumber":"125",
+    "addr:postcode":"06880",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":823855219,
-    "wof:lastmodified":1466425570,
+    "wof:lastmodified":1472613777,
     "wof:name":"Commercial Properties",
     "wof:parent_id":85847197,
     "wof:placetype":"venue",

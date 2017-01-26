@@ -2,6 +2,10 @@
   "id": 823942497,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Main St Seymour CT 06483",
+    "addr:housenumber":"115",
+    "addr:postcode":"06483",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823942497,
-    "wof:lastmodified":1466426407,
+    "wof:lastmodified":1472613929,
     "wof:name":"Fleet",
     "wof:parent_id":85841679,
     "wof:placetype":"venue",

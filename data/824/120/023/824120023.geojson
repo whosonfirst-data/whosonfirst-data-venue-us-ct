@@ -2,6 +2,10 @@
   "id": 824120023,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Valley Rd Apt 204 Stamford CT 06902",
+    "addr:housenumber":"1;204",
+    "addr:postcode":"06902",
+    "addr:street":"Valley Rd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824120023,
-    "wof:lastmodified":1466423310,
+    "wof:lastmodified":1472613313,
     "wof:name":"Elk Treasures Company",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",

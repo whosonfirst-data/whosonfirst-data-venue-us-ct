@@ -2,6 +2,10 @@
   "id": 823550305,
   "type": "Feature",
   "properties": {
+    "addr:full":"75 Van Block Ave Hartford CT 06106",
+    "addr:housenumber":"75",
+    "addr:postcode":"06106",
+    "addr:street":"Van Block Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823550305,
-    "wof:lastmodified":1466422517,
+    "wof:lastmodified":1472613296,
     "wof:name":"Connecticut State Library",
     "wof:parent_id":85867447,
     "wof:placetype":"venue",

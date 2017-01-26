@@ -2,6 +2,10 @@
   "id": 824030237,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Columbus Blvd Hartford CT 06103",
+    "addr:housenumber":"10",
+    "addr:postcode":"06103",
+    "addr:street":"Columbus Blvd;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":824030237,
-    "wof:lastmodified":1466421741,
+    "wof:lastmodified":1472609080,
     "wof:name":"G F S Building Maintenance",
     "wof:parent_id":85867457,
     "wof:placetype":"venue",

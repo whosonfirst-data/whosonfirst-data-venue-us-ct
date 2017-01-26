@@ -2,6 +2,10 @@
   "id": 823486501,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Thomas St East Hartford CT 06108",
+    "addr:housenumber":"42",
+    "addr:postcode":"06108",
+    "addr:street":"Thomas St East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":823486501,
-    "wof:lastmodified":1466421478,
+    "wof:lastmodified":1472609381,
     "wof:name":"Yush Sign Display Co Inc",
     "wof:parent_id":85878031,
     "wof:placetype":"venue",

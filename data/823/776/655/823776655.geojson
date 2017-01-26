@@ -2,6 +2,10 @@
   "id": 823776655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1875 Storrs Rd Storrs Mansfield CT 06268",
+    "addr:housenumber":"1875",
+    "addr:postcode":"06268",
+    "addr:street":"Storrs Rd;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823776655,
-    "wof:lastmodified":1466424956,
+    "wof:lastmodified":1472613822,
     "wof:name":"Filip Assoc",
     "wof:parent_id":85832175,
     "wof:placetype":"venue",

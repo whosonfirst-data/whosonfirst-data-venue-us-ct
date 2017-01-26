@@ -2,6 +2,10 @@
   "id": 823809291,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Corporate Pl Rocky Hill CT 06067",
+    "addr:housenumber":"300",
+    "addr:postcode":"06067",
+    "addr:street":"Corporate Pl;Hill Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823809291,
-    "wof:lastmodified":1466425202,
+    "wof:lastmodified":1472613764,
     "wof:name":"Connectcut Div Crminal Justice",
     "wof:parent_id":85822259,
     "wof:placetype":"venue",

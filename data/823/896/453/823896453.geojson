@@ -2,6 +2,10 @@
   "id": 823896453,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Osprey Dr Gales Ferry CT 06335",
+    "addr:housenumber":"27",
+    "addr:postcode":"06335",
+    "addr:street":"Osprey Dr;Ferry Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823896453,
-    "wof:lastmodified":1466425959,
+    "wof:lastmodified":1472613863,
     "wof:name":"Merchant Services",
     "wof:parent_id":85824103,
     "wof:placetype":"venue",

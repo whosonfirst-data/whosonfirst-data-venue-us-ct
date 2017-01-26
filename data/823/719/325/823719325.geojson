@@ -2,6 +2,10 @@
   "id": 823719325,
   "type": "Feature",
   "properties": {
+    "addr:full":"450 E Post Rd Cos Cob CT 06807",
+    "addr:housenumber":"450",
+    "addr:postcode":"06807",
+    "addr:street":"E Post Rd;Cob Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823719325,
-    "wof:lastmodified":1466424444,
+    "wof:lastmodified":1472613731,
     "wof:name":"Benjamin Rey",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",

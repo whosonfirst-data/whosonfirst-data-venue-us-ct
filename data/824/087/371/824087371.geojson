@@ -2,6 +2,10 @@
   "id": 824087371,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Albany Tpke Rt 44 PO Box 683 Canton CT 06019",
+    "addr:housenumber":"200;box 683",
+    "addr:postcode":"06019",
+    "addr:street":"Albany Tpke Rt 44 Po;Canton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":824087371,
-    "wof:lastmodified":1466422765,
+    "wof:lastmodified":1472612493,
     "wof:name":"BK Designworks LLC",
     "wof:parent_id":85865195,
     "wof:placetype":"venue",

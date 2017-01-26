@@ -2,6 +2,10 @@
   "id": 823855163,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 State St North Haven CT 06473",
+    "addr:housenumber":"445",
+    "addr:postcode":"06473",
+    "addr:street":"State St;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823855163,
-    "wof:lastmodified":1466425566,
+    "wof:lastmodified":1472613764,
     "wof:name":"Shoreline Compressed Gas",
     "wof:parent_id":85834309,
     "wof:placetype":"venue",

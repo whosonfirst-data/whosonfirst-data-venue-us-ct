@@ -2,6 +2,10 @@
   "id": 823492403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2550 Main St Hartford CT 06120",
+    "addr:housenumber":"2550",
+    "addr:postcode":"06120",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823492403,
-    "wof:lastmodified":1466421586,
+    "wof:lastmodified":1472610940,
     "wof:name":"Hartford Cmnty Mental Hlth Ctr",
     "wof:parent_id":85878031,
     "wof:placetype":"venue",

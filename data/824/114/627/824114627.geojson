@@ -2,6 +2,10 @@
   "id": 824114627,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 Federal Rd Ste 1213 Danbury CT 06811",
+    "addr:housenumber":"499;1213",
+    "addr:postcode":"06811",
+    "addr:street":"Federal Rd Ste;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":824114627,
-    "wof:lastmodified":1466423253,
+    "wof:lastmodified":1472613313,
     "wof:name":"Bogart Communications",
     "wof:parent_id":85805151,
     "wof:placetype":"venue",

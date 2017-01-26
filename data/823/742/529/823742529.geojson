@@ -2,6 +2,10 @@
   "id": 823742529,
   "type": "Feature",
   "properties": {
+    "addr:full":"168 Hamburg Rd Old Lyme CT 06371",
+    "addr:housenumber":"168",
+    "addr:postcode":"06371",
+    "addr:street":"Hamburg Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823742529,
-    "wof:lastmodified":1466424633,
+    "wof:lastmodified":1472613719,
     "wof:name":"Sasqua Assoc LLC",
     "wof:parent_id":85823623,
     "wof:placetype":"venue",

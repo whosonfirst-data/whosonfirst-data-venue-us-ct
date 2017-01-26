@@ -2,6 +2,10 @@
   "id": 823532363,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Richards Dr Monroe CT 06468",
+    "addr:housenumber":"42",
+    "addr:postcode":"06468",
+    "addr:street":"Richards Dr Monroe Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823532363,
-    "wof:lastmodified":1466422345,
+    "wof:lastmodified":1472613283,
     "wof:name":"Cooks Office Service",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

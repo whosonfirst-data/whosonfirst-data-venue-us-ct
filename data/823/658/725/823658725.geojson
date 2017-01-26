@@ -2,6 +2,10 @@
   "id": 823658725,
   "type": "Feature",
   "properties": {
+    "addr:full":"9 John St Greenwich CT 06831",
+    "addr:housenumber":"9",
+    "addr:postcode":"06831",
+    "addr:street":"John St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823658725,
-    "wof:lastmodified":1466423946,
+    "wof:lastmodified":1472613426,
     "wof:name":"Event Group",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",

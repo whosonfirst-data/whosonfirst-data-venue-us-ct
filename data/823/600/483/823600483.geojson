@@ -2,6 +2,10 @@
   "id": 823600483,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 School St Cos Cob CT 06807",
+    "addr:housenumber":"5",
+    "addr:postcode":"06807",
+    "addr:street":"School St;Cob Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823600483,
-    "wof:lastmodified":1466423298,
+    "wof:lastmodified":1472613392,
     "wof:name":"Financial Products Group",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",

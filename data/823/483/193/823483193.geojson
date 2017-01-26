@@ -2,6 +2,10 @@
   "id": 823483193,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Main St East Hampton CT 06424",
+    "addr:housenumber":"105",
+    "addr:postcode":"06424",
+    "addr:street":"Main St East Hampton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823483193,
-    "wof:lastmodified":1466421432,
+    "wof:lastmodified":1472607669,
     "wof:name":"East Hampton Public Library",
     "wof:parent_id":85842475,
     "wof:placetype":"venue",

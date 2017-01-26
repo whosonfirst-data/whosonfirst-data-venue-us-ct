@@ -2,6 +2,10 @@
   "id": 824110913,
   "type": "Feature",
   "properties": {
+    "addr:full":"192 5 1/2 Mile Rd Goshen CT 06756",
+    "addr:housenumber":"192;1 / 2",
+    "addr:postcode":"06756",
+    "addr:street":"5;Mile Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":824110913,
-    "wof:lastmodified":1466423155,
+    "wof:lastmodified":1472613308,
     "wof:name":"Newspaper",
     "wof:parent_id":85816203,
     "wof:placetype":"venue",

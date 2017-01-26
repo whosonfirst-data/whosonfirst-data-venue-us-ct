@@ -2,6 +2,10 @@
   "id": 824088369,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 West Rd Ste 16 Ellington CT 06029",
+    "addr:housenumber":"175;16",
+    "addr:postcode":"06029",
+    "addr:street":"West Rd Ste;Ellington Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824088369,
-    "wof:lastmodified":1466422850,
+    "wof:lastmodified":1472613236,
     "wof:name":"Newalliance Bancshares, Inc.",
     "wof:parent_id":85843433,
     "wof:placetype":"venue",

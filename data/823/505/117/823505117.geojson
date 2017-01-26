@@ -2,6 +2,10 @@
   "id": 823505117,
   "type": "Feature",
   "properties": {
+    "addr:full":"40 Parker Rd North Grosvenordale CT 06255",
+    "addr:housenumber":"40",
+    "addr:postcode":"06255",
+    "addr:street":"Parker Rd;Grosvenordale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823505117,
-    "wof:lastmodified":1466421742,
+    "wof:lastmodified":1472611072,
     "wof:name":"Crosspoint Technologies Inc",
     "wof:parent_id":85856497,
     "wof:placetype":"venue",

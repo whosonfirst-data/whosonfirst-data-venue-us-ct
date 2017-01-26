@@ -2,6 +2,10 @@
   "id": 824026405,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Susan Ln Meriden CT 06450",
+    "addr:housenumber":"42",
+    "addr:postcode":"06450",
+    "addr:street":"Susan Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":824026405,
-    "wof:lastmodified":1466421665,
+    "wof:lastmodified":1472609467,
     "wof:name":"Graver Technologies Inc",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",

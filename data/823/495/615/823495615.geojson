@@ -2,6 +2,10 @@
   "id": 823495615,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Obtuse Rd S Brookfield CT 06804",
+    "addr:housenumber":"101",
+    "addr:postcode":"06804",
+    "addr:street":"Obtuse Rd;Brookfield",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823495615,
-    "wof:lastmodified":1466421706,
+    "wof:lastmodified":1472613255,
     "wof:name":"Complete Excavation",
     "wof:parent_id":85839139,
     "wof:placetype":"venue",

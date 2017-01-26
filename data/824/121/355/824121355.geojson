@@ -2,6 +2,10 @@
   "id": 824121355,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Bridgeport Ave 4th Floor Shelton CT 06484",
+    "addr:housenumber":"1000;4th floor",
+    "addr:postcode":"06484",
+    "addr:street":"Bridgeport Ave;Shelton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":824121355,
-    "wof:lastmodified":1466423256,
+    "wof:lastmodified":1472613327,
     "wof:name":"Health Plan One",
     "wof:parent_id":85839801,
     "wof:placetype":"venue",

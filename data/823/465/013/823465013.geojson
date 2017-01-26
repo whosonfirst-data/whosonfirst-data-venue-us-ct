@@ -2,6 +2,10 @@
   "id": 823465013,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 Old Post Rd Old Lyme CT 06371",
+    "addr:housenumber":"17",
+    "addr:postcode":"06371",
+    "addr:street":"Old Post Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823465013,
-    "wof:lastmodified":1466421091,
+    "wof:lastmodified":1472606768,
     "wof:name":"AB Advertising",
     "wof:parent_id":85830045,
     "wof:placetype":"venue",

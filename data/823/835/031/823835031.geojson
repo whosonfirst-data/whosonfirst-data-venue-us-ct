@@ -2,6 +2,10 @@
   "id": 823835031,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Old Brookfield Rd Danbury CT 06811",
+    "addr:housenumber":"123",
+    "addr:postcode":"06811",
+    "addr:street":"Old Brookfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823835031,
-    "wof:lastmodified":1466425416,
+    "wof:lastmodified":1472613755,
     "wof:name":"Basher's Electrical Svc Inc",
     "wof:parent_id":85805151,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823707465,
   "type": "Feature",
   "properties": {
+    "addr:full":"45 Church St Windsor Locks CT 06096",
+    "addr:housenumber":"45",
+    "addr:postcode":"06096",
+    "addr:street":"Church St;Locks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":823707465,
-    "wof:lastmodified":1466424305,
+    "wof:lastmodified":1472613689,
     "wof:name":"Saint Mary Parrish Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

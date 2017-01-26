@@ -2,6 +2,10 @@
   "id": 824122147,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Woodway Lane, Suite 302 Wilton CT 06897",
+    "addr:housenumber":"10",
+    "addr:postcode":"06897",
+    "addr:street":"Woodway Lane Suite 302 Wilton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824122147,
-    "wof:lastmodified":1466423407,
+    "wof:lastmodified":1472613313,
     "wof:name":"HomeESP",
     "wof:parent_id":85850221,
     "wof:placetype":"venue",

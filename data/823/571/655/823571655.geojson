@@ -2,6 +2,10 @@
   "id": 823571655,
   "type": "Feature",
   "properties": {
+    "addr:full":"78 Obtuse Rd S Brookfield CT 06804",
+    "addr:housenumber":"78",
+    "addr:postcode":"06804",
+    "addr:street":"Obtuse Rd;Brookfield",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823571655,
-    "wof:lastmodified":1466422845,
+    "wof:lastmodified":1472613348,
     "wof:name":"Obtuse Woods Homeowners Assn",
     "wof:parent_id":85839139,
     "wof:placetype":"venue",

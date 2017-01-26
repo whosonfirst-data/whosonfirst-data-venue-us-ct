@@ -2,6 +2,10 @@
   "id": 824064583,
   "type": "Feature",
   "properties": {
+    "addr:full":"2775 Main St Hartford CT 06120",
+    "addr:housenumber":"2775",
+    "addr:postcode":"06120",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824064583,
-    "wof:lastmodified":1466422266,
+    "wof:lastmodified":1472613245,
     "wof:name":"Fleet",
     "wof:parent_id":85878031,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 824098355,
   "type": "Feature",
   "properties": {
+    "addr:full":"97 W Main St Apt 61 Niantic CT 06357",
+    "addr:housenumber":"97;61",
+    "addr:postcode":"06357",
+    "addr:street":"W Main St Apt;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":824098355,
-    "wof:lastmodified":1466422727,
+    "wof:lastmodified":1472613209,
     "wof:name":"Gardner Denver, Inc.",
     "wof:parent_id":85812841,
     "wof:placetype":"venue",

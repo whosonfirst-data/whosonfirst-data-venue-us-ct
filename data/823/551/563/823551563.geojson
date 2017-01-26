@@ -2,6 +2,10 @@
   "id": 823551563,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 Main St Norwich CT 06360",
+    "addr:housenumber":"340",
+    "addr:postcode":"06360",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823551563,
-    "wof:lastmodified":1466422553,
+    "wof:lastmodified":1472613345,
     "wof:name":"US Post Office",
     "wof:parent_id":85823081,
     "wof:placetype":"venue",

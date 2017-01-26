@@ -2,6 +2,10 @@
   "id": 823728129,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 W Hartford Rd East Hartford CT 06111",
+    "addr:housenumber":"99",
+    "addr:postcode":"06111",
+    "addr:street":"W Hartford Rd East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823728129,
-    "wof:lastmodified":1466424478,
+    "wof:lastmodified":1472613717,
     "wof:name":"US Post Office",
     "wof:parent_id":85836819,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823880653,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Berkshire Rd Sandy Hook CT 06482",
+    "addr:housenumber":"44",
+    "addr:postcode":"06482",
+    "addr:street":"Berkshire Rd;Hook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823880653,
-    "wof:lastmodified":1466425851,
+    "wof:lastmodified":1472613944,
     "wof:name":"Curtis Corporation",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

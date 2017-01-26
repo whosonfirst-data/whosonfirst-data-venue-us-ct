@@ -2,6 +2,10 @@
   "id": 823515421,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 S Main St Hartford CT 06107",
+    "addr:housenumber":"211",
+    "addr:postcode":"06107",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823515421,
-    "wof:lastmodified":1466422080,
+    "wof:lastmodified":1472613234,
     "wof:name":"Connecticut Emergency Medicine",
     "wof:parent_id":85836819,
     "wof:placetype":"venue",

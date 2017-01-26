@@ -2,6 +2,10 @@
   "id": 824110255,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 National Ave Apt 4 Waterbury CT 06705",
+    "addr:housenumber":"128;4",
+    "addr:postcode":"06705",
+    "addr:street":"National Ave Apt;Waterbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":824110255,
-    "wof:lastmodified":1466423114,
+    "wof:lastmodified":1472613296,
     "wof:name":"Jimmy's Drive-In",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",

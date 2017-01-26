@@ -2,6 +2,10 @@
   "id": 824030967,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Willett Ave Port Chester CT 10573",
+    "addr:housenumber":"500",
+    "addr:postcode":"10573",
+    "addr:street":"Willett Ave;Chester",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":824030967,
-    "wof:lastmodified":1466421756,
+    "wof:lastmodified":1472609906,
     "wof:name":"Fire House",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",

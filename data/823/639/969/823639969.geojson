@@ -2,6 +2,10 @@
   "id": 823639969,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Admiral St West Haven CT 06516",
+    "addr:housenumber":"10",
+    "addr:postcode":"06516",
+    "addr:street":"Admiral St;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823639969,
-    "wof:lastmodified":1466423757,
+    "wof:lastmodified":1472613429,
     "wof:name":"Class A Auto",
     "wof:parent_id":85879183,
     "wof:placetype":"venue",

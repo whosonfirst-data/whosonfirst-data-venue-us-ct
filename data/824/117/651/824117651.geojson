@@ -2,6 +2,10 @@
   "id": 824117651,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Main Ave PMB 118 Norwalk CT 06851",
+    "addr:housenumber":"304;118",
+    "addr:postcode":"06851",
+    "addr:street":"Main Ave;Norwalk Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":824117651,
-    "wof:lastmodified":1466423318,
+    "wof:lastmodified":1472613342,
     "wof:name":"Southern Connecticut Flooring",
     "wof:parent_id":85879321,
     "wof:placetype":"venue",

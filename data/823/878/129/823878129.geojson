@@ -2,6 +2,10 @@
   "id": 823878129,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Cedar St Newington CT 06111",
+    "addr:housenumber":"345",
+    "addr:postcode":"06111",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823878129,
-    "wof:lastmodified":1466425936,
+    "wof:lastmodified":1472613871,
     "wof:name":"Gospel Hall",
     "wof:parent_id":85836819,
     "wof:placetype":"venue",

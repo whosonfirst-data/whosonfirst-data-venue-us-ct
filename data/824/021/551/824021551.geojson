@@ -2,6 +2,10 @@
   "id": 824021551,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 River Rd Canton CT 06085",
+    "addr:housenumber":"123",
+    "addr:postcode":"06085",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":824021551,
-    "wof:lastmodified":1466421562,
+    "wof:lastmodified":1472609144,
     "wof:name":"Lee Council 25",
     "wof:parent_id":85844721,
     "wof:placetype":"venue",

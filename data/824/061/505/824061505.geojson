@@ -2,6 +2,10 @@
   "id": 824061505,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Charter Oak Ave Hartford CT 06106",
+    "addr:housenumber":"111",
+    "addr:postcode":"06106",
+    "addr:street":"Charter Oak Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":824061505,
-    "wof:lastmodified":1466422181,
+    "wof:lastmodified":1472613237,
     "wof:name":"Crec",
     "wof:parent_id":85867447,
     "wof:placetype":"venue",

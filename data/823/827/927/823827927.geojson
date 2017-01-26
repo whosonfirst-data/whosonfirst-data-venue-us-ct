@@ -2,6 +2,10 @@
   "id": 823827927,
   "type": "Feature",
   "properties": {
+    "addr:full":"4 Brush Hill Rd New Fairfield CT 06812",
+    "addr:housenumber":"4",
+    "addr:postcode":"06812",
+    "addr:street":"Brush Hill Rd;Fairfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823827927,
-    "wof:lastmodified":1466425383,
+    "wof:lastmodified":1472613853,
     "wof:name":"New Fairfield Tax Collector",
     "wof:parent_id":85806093,
     "wof:placetype":"venue",

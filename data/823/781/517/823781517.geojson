@@ -2,6 +2,10 @@
   "id": 823781517,
   "type": "Feature",
   "properties": {
+    "addr:full":"37 Martin Rd East Haven CT 06512",
+    "addr:housenumber":"37",
+    "addr:postcode":"06512",
+    "addr:street":"Martin Rd;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823781517,
-    "wof:lastmodified":1466424955,
+    "wof:lastmodified":1472613802,
     "wof:name":"Tail End Workshop",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",

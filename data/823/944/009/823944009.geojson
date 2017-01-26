@@ -2,6 +2,10 @@
   "id": 823944009,
   "type": "Feature",
   "properties": {
+    "addr:full":"67 Bogus Hill Rd New Fairfield CT 06812",
+    "addr:housenumber":"67",
+    "addr:postcode":"06812",
+    "addr:street":"Bogus Hill Rd;Fairfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823944009,
-    "wof:lastmodified":1466426362,
+    "wof:lastmodified":1472613863,
     "wof:name":"N S Engineering Consultants",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

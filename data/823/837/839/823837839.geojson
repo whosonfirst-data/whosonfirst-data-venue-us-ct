@@ -2,6 +2,10 @@
   "id": 823837839,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Ruby Rd West Haven CT 06516",
+    "addr:housenumber":"101",
+    "addr:postcode":"06516",
+    "addr:street":"Ruby Rd;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823837839,
-    "wof:lastmodified":1466425604,
+    "wof:lastmodified":1472613850,
     "wof:name":"Rt Enterprises Inc",
     "wof:parent_id":85856347,
     "wof:placetype":"venue",

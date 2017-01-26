@@ -2,6 +2,10 @@
   "id": 824108239,
   "type": "Feature",
   "properties": {
+    "addr:full":"314 Flat Rock Pl Unit D135 Westbrook CT 06498",
+    "addr:housenumber":"314;unit d135",
+    "addr:postcode":"06498",
+    "addr:street":"Flat Rock Pl;Westbrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":824108239,
-    "wof:lastmodified":1466423007,
+    "wof:lastmodified":1472613275,
     "wof:name":"Factory Brand Shoes",
     "wof:parent_id":85823261,
     "wof:placetype":"venue",

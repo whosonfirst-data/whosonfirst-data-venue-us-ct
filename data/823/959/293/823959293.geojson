@@ -2,6 +2,10 @@
   "id": 823959293,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Brewery St New Haven CT 06511",
+    "addr:housenumber":"50 brewery",
+    "addr:postcode":"06511",
+    "addr:street":"St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823959293,
-    "wof:lastmodified":1466426490,
+    "wof:lastmodified":1472613921,
     "wof:name":"US Post Office",
     "wof:parent_id":85882027,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823508051,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Lafayette Blvd Bridgeport CT 06604",
+    "addr:housenumber":"1000",
+    "addr:postcode":"06604",
+    "addr:street":"Lafayette Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823508051,
-    "wof:lastmodified":1466421755,
+    "wof:lastmodified":1472610424,
     "wof:name":"Lawyer Referral Svc",
     "wof:parent_id":85876483,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823991313,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 Kent Pl Cos Cob CT 06807",
+    "addr:housenumber":"14",
+    "addr:postcode":"06807",
+    "addr:street":"Kent Pl;Cob Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823991313,
-    "wof:lastmodified":1466426835,
+    "wof:lastmodified":1472613971,
     "wof:name":"Spaulding & Assoc",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",

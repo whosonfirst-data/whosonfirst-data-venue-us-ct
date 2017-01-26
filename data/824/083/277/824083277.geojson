@@ -2,6 +2,10 @@
   "id": 824083277,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 W Main St Ste 33 Avon CT 06001",
+    "addr:housenumber":"195;33",
+    "addr:postcode":"06001",
+    "addr:street":"W Main St Ste;Avon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":824083277,
-    "wof:lastmodified":1466422439,
+    "wof:lastmodified":1472613236,
     "wof:name":"Mr Shower Door",
     "wof:parent_id":85855189,
     "wof:placetype":"venue",

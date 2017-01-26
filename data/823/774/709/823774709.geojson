@@ -2,6 +2,10 @@
   "id": 823774709,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Elm St West Haven CT 06516",
+    "addr:housenumber":"300",
+    "addr:postcode":"06516",
+    "addr:street":"Elm St;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823774709,
-    "wof:lastmodified":1466424950,
+    "wof:lastmodified":1472613826,
     "wof:name":"West Haven Public Library",
     "wof:parent_id":85868719,
     "wof:placetype":"venue",

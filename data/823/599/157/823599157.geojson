@@ -2,6 +2,10 @@
   "id": 823599157,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Main St Farmington CT 06032",
+    "addr:housenumber":"222",
+    "addr:postcode":"06032",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823599157,
-    "wof:lastmodified":1466423459,
+    "wof:lastmodified":1472613368,
     "wof:name":"Ticket Stampede",
     "wof:parent_id":85867453,
     "wof:placetype":"venue",

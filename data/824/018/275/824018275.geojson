@@ -2,6 +2,10 @@
   "id": 824018275,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Church Hill Rd Sandy Hook CT 06482",
+    "addr:housenumber":"100",
+    "addr:postcode":"06482",
+    "addr:street":"Church Hill Rd;Hook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":824018275,
-    "wof:lastmodified":1466421687,
+    "wof:lastmodified":1472608031,
     "wof:name":"R-Place Diamond",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

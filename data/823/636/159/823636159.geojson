@@ -2,6 +2,10 @@
   "id": 823636159,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Summit St Manchester CT 06040",
+    "addr:housenumber":"123",
+    "addr:postcode":"06040",
+    "addr:street":"Summit St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823636159,
-    "wof:lastmodified":1466423629,
+    "wof:lastmodified":1472613370,
     "wof:name":"Cazassa Vicente",
     "wof:parent_id":85832071,
     "wof:placetype":"venue",

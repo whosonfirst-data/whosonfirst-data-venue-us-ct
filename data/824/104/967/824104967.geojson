@@ -2,6 +2,10 @@
   "id": 824104967,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Elm St Old Saybrook CT 06475",
+    "addr:housenumber":"123",
+    "addr:postcode":"06475",
+    "addr:street":"Elm St Old Saybrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":824104967,
-    "wof:lastmodified":1466423103,
+    "wof:lastmodified":1472613287,
     "wof:name":"Doherty Terrance A MD",
     "wof:parent_id":85847263,
     "wof:placetype":"venue",

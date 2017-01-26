@@ -2,6 +2,10 @@
   "id": 824109259,
   "type": "Feature",
   "properties": {
+    "addr:full":"855 Main St Fl 7 Bridgeport CT 06604",
+    "addr:housenumber":"855;7",
+    "addr:postcode":"06604",
+    "addr:street":"Main St;Bridgeport Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824109259,
-    "wof:lastmodified":1466423237,
+    "wof:lastmodified":1472613298,
     "wof:name":"Hire Thinking, Inc",
     "wof:parent_id":85876483,
     "wof:placetype":"venue",

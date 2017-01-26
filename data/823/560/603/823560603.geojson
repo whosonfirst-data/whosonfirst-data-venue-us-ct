@@ -2,6 +2,10 @@
   "id": 823560603,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Nelson St East Hartford CT 06108",
+    "addr:housenumber":"42",
+    "addr:postcode":"06108",
+    "addr:street":"Nelson St East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823560603,
-    "wof:lastmodified":1466422751,
+    "wof:lastmodified":1472613358,
     "wof:name":"Joslin Concrete",
     "wof:parent_id":85878031,
     "wof:placetype":"venue",

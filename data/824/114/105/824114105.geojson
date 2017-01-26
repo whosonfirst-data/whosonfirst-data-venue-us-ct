@@ -2,6 +2,10 @@
   "id": 824114105,
   "type": "Feature",
   "properties": {
+    "addr:full":"157 Shelter Rock Rd Ste 40 Danbury CT 06810",
+    "addr:housenumber":"157;40",
+    "addr:postcode":"06810",
+    "addr:street":"Shelter Rock Rd Ste;Danbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":824114105,
-    "wof:lastmodified":1466423237,
+    "wof:lastmodified":1472613312,
     "wof:name":"Maffei's Taxi Service",
     "wof:parent_id":85805151,
     "wof:placetype":"venue",

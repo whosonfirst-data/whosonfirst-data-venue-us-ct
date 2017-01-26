@@ -2,6 +2,10 @@
   "id": 823468371,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Seaside Ave Guilford CT 06437",
+    "addr:housenumber":"123",
+    "addr:postcode":"06437",
+    "addr:street":"Seaside Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823468371,
-    "wof:lastmodified":1466421208,
+    "wof:lastmodified":1472607420,
     "wof:name":"Coastline Services",
     "wof:parent_id":85846559,
     "wof:placetype":"venue",

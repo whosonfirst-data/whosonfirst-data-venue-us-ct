@@ -2,6 +2,10 @@
   "id": 823947303,
   "type": "Feature",
   "properties": {
+    "addr:full":"141 Boston Post Rd Old Lyme CT 06371",
+    "addr:housenumber":"141",
+    "addr:postcode":"06371",
+    "addr:street":"Boston Post Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823947303,
-    "wof:lastmodified":1466426368,
+    "wof:lastmodified":1472613905,
     "wof:name":"Mill River Media LLC",
     "wof:parent_id":85830045,
     "wof:placetype":"venue",

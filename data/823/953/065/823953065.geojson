@@ -2,6 +2,10 @@
   "id": 823953065,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Hartford Rd East Hartford CT 06111",
+    "addr:housenumber":"111",
+    "addr:postcode":"06111",
+    "addr:street":"W Hartford Rd East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823953065,
-    "wof:lastmodified":1466426450,
+    "wof:lastmodified":1472613872,
     "wof:name":"Integrated Physicians Mgt Svcs",
     "wof:parent_id":85836819,
     "wof:placetype":"venue",

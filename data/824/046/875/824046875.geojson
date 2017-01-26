@@ -2,6 +2,10 @@
   "id": 824046875,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 Read St Port Chester CT 10573",
+    "addr:housenumber":"25",
+    "addr:postcode":"10573",
+    "addr:street":"Read St;Chester",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824046875,
-    "wof:lastmodified":1466421974,
+    "wof:lastmodified":1472613242,
     "wof:name":"Port Chester Grinding Svc",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",

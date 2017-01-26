@@ -2,6 +2,10 @@
   "id": 824110165,
   "type": "Feature",
   "properties": {
+    "addr:full":"160 Stonefield Dr Unit 13 Waterbury CT 06705",
+    "addr:housenumber":"160;13",
+    "addr:postcode":"06705",
+    "addr:street":"Stonefield Dr Unit;Waterbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824110165,
-    "wof:lastmodified":1466423234,
+    "wof:lastmodified":1472613293,
     "wof:name":"Quick Couriers",
     "wof:parent_id":85816299,
     "wof:placetype":"venue",

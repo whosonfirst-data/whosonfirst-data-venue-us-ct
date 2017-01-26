@@ -2,6 +2,10 @@
   "id": 823532885,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Commercial Pkwy Branford CT 06405",
+    "addr:housenumber":"120",
+    "addr:postcode":"06405",
+    "addr:street":"Commercial Pkwy;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823532885,
-    "wof:lastmodified":1466422277,
+    "wof:lastmodified":1472613287,
     "wof:name":"Wal-Mart Prtrait Studio 02232",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",

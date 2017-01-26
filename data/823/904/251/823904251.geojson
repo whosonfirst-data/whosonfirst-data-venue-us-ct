@@ -2,6 +2,10 @@
   "id": 823904251,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 W Main St Branford CT 06405",
+    "addr:housenumber":"456",
+    "addr:postcode":"06405",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823904251,
-    "wof:lastmodified":1466426072,
+    "wof:lastmodified":1472613884,
     "wof:name":"Precision Motor Cars",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",

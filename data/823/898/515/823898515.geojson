@@ -2,6 +2,10 @@
   "id": 823898515,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Middletown Ave North Haven CT 06473",
+    "addr:housenumber":"10",
+    "addr:postcode":"06473",
+    "addr:street":"Middletown Ave;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823898515,
-    "wof:lastmodified":1466425995,
+    "wof:lastmodified":1472613925,
     "wof:name":"US Post Office",
     "wof:parent_id":85879181,
     "wof:placetype":"venue",

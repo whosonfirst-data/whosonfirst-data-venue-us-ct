@@ -2,6 +2,10 @@
   "id": 823819123,
   "type": "Feature",
   "properties": {
+    "addr:full":"33 Main Street Anx New Haven CT 06512",
+    "addr:housenumber":"33",
+    "addr:postcode":"06512",
+    "addr:street":"Main Street;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823819123,
-    "wof:lastmodified":1466425248,
+    "wof:lastmodified":1472613754,
     "wof:name":"Fairmount Theatre",
     "wof:parent_id":85882013,
     "wof:placetype":"venue",

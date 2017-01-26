@@ -2,6 +2,10 @@
   "id": 823909947,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Fox Chase Ln Hartford CT 06117",
+    "addr:housenumber":"111",
+    "addr:postcode":"06117",
+    "addr:street":"Fox Chase Ln;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823909947,
-    "wof:lastmodified":1466426149,
+    "wof:lastmodified":1472613962,
     "wof:name":"Jewish Women International",
     "wof:parent_id":85867455,
     "wof:placetype":"venue",

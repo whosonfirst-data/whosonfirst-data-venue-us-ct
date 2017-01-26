@@ -2,6 +2,10 @@
   "id": 823699559,
   "type": "Feature",
   "properties": {
+    "addr:full":"482 Hamburg Rd Old Lyme CT 06371",
+    "addr:housenumber":"482",
+    "addr:postcode":"06371",
+    "addr:street":"Hamburg Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823699559,
-    "wof:lastmodified":1466424252,
+    "wof:lastmodified":1472613696,
     "wof:name":"Lyme Public Library",
     "wof:parent_id":85823623,
     "wof:placetype":"venue",

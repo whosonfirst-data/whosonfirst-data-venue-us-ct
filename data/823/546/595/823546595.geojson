@@ -2,6 +2,10 @@
   "id": 823546595,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Blue Hills Ave Hartford CT 06112",
+    "addr:housenumber":"500",
+    "addr:postcode":"06112",
+    "addr:street":"Blue Hills Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":823546595,
-    "wof:lastmodified":1466422500,
+    "wof:lastmodified":1472613307,
     "wof:name":"Adrc",
     "wof:parent_id":85806499,
     "wof:placetype":"venue",

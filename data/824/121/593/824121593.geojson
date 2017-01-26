@@ -2,6 +2,10 @@
   "id": 824121593,
   "type": "Feature",
   "properties": {
+    "addr:full":"746 Chapel Street  Suite 207 New Haven CT 06510",
+    "addr:housenumber":"746;207",
+    "addr:postcode":"06510",
+    "addr:street":"Chapel Street Suite;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":824121593,
-    "wof:lastmodified":1466423387,
+    "wof:lastmodified":1472613340,
     "wof:name":"SeeClickFix",
     "wof:parent_id":85879165,
     "wof:placetype":"venue",

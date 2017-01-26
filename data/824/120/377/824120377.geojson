@@ -2,6 +2,10 @@
   "id": 824120377,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Stamford Pl Fl 5 Stamford CT 06902",
+    "addr:housenumber":"300;5",
+    "addr:postcode":"06902",
+    "addr:street":"Stamford Pl Fl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":824120377,
-    "wof:lastmodified":1466423342,
+    "wof:lastmodified":1472613328,
     "wof:name":"Aircastle Advisor",
     "wof:parent_id":85848455,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 824105805,
   "type": "Feature",
   "properties": {
+    "addr:full":"367 Main St Unit 15 Old Saybrook CT 06475",
+    "addr:housenumber":"367;15",
+    "addr:postcode":"06475",
+    "addr:street":"Main St Unit;Saybrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":824105805,
-    "wof:lastmodified":1466423097,
+    "wof:lastmodified":1472613278,
     "wof:name":"Physicians Practice Options",
     "wof:parent_id":85847263,
     "wof:placetype":"venue",

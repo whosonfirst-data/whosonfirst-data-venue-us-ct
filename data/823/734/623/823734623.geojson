@@ -2,6 +2,10 @@
   "id": 823734623,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Main St Centerbrook CT 06409",
+    "addr:housenumber":"123",
+    "addr:postcode":"06409",
+    "addr:street":"Main St Centerbrook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823734623,
-    "wof:lastmodified":1466424662,
+    "wof:lastmodified":1472613733,
     "wof:name":"William H Grover",
     "wof:parent_id":85842637,
     "wof:placetype":"venue",

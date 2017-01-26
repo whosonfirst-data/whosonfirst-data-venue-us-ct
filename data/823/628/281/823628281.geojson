@@ -2,6 +2,10 @@
   "id": 823628281,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Quaker Ln S Hartford CT 06119",
+    "addr:housenumber":"311",
+    "addr:postcode":"06119",
+    "addr:street":"Quaker Ln;Hartford",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823628281,
-    "wof:lastmodified":1466423569,
+    "wof:lastmodified":1472613396,
     "wof:name":"Gold Link",
     "wof:parent_id":85868763,
     "wof:placetype":"venue",

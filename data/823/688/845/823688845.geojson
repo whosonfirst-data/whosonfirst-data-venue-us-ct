@@ -2,6 +2,10 @@
   "id": 823688845,
   "type": "Feature",
   "properties": {
+    "addr:full":"507 N Main St Port Chester CT 10573",
+    "addr:housenumber":"507",
+    "addr:postcode":"10573",
+    "addr:street":"N Main St;Chester",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":823688845,
-    "wof:lastmodified":1466424221,
+    "wof:lastmodified":1472613662,
     "wof:name":"Irving Place Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823874459,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 N Main St Manchester CT 06042",
+    "addr:housenumber":"480",
+    "addr:postcode":"06042",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823874459,
-    "wof:lastmodified":1466425774,
+    "wof:lastmodified":1472613905,
     "wof:name":"Manchester Worm Farm",
     "wof:parent_id":85808291,
     "wof:placetype":"venue",

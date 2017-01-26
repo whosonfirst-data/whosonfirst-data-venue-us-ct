@@ -2,6 +2,10 @@
   "id": 823986359,
   "type": "Feature",
   "properties": {
+    "addr:full":"55 Van Dyke Ave Hartford CT 06106",
+    "addr:housenumber":"55",
+    "addr:postcode":"06106",
+    "addr:street":"Van Dyke Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823986359,
-    "wof:lastmodified":1466426688,
+    "wof:lastmodified":1472613913,
     "wof:name":"Track House",
     "wof:parent_id":85878033,
     "wof:placetype":"venue",

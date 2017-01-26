@@ -2,6 +2,10 @@
   "id": 823562113,
   "type": "Feature",
   "properties": {
+    "addr:full":"551 Willett Ave Port Chester CT 10573",
+    "addr:housenumber":"551",
+    "addr:postcode":"10573",
+    "addr:street":"Willett Ave;Chester",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823562113,
-    "wof:lastmodified":1466422961,
+    "wof:lastmodified":1472613322,
     "wof:name":"Custom Heating & Air Cond",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",

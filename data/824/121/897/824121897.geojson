@@ -2,6 +2,10 @@
   "id": 824121897,
   "type": "Feature",
   "properties": {
+    "addr:full":"177 Broad Street 12th Floor Stamford CT 06901",
+    "addr:housenumber":"177;12th",
+    "addr:postcode":"06901",
+    "addr:street":"Broad Street;Floor Stamford Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":824121897,
-    "wof:lastmodified":1466423401,
+    "wof:lastmodified":1472613347,
     "wof:name":"L-1 Identity Solutions",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",

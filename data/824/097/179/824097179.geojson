@@ -2,6 +2,10 @@
   "id": 824097179,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Spring Hill Rd Storrs Mansfield CT 06268",
+    "addr:housenumber":"205",
+    "addr:postcode":"06268",
+    "addr:street":"Spring Hill Rd;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824097179,
-    "wof:lastmodified":1466422904,
+    "wof:lastmodified":1472612461,
     "wof:name":"Mansfield Town of",
     "wof:parent_id":85832171,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 824035801,
   "type": "Feature",
   "properties": {
+    "addr:full":"36 Arcadia Rd Old Greenwich CT 06870",
+    "addr:housenumber":"36",
+    "addr:postcode":"06870",
+    "addr:street":"Arcadia Rd;Greenwich",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":824035801,
-    "wof:lastmodified":1466421840,
+    "wof:lastmodified":1472609587,
     "wof:name":"US Post Office",
     "wof:parent_id":85881173,
     "wof:placetype":"venue",

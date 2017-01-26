@@ -2,6 +2,10 @@
   "id": 824090105,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Main St # 512 New Hartford CT 06057",
+    "addr:housenumber":"220;512",
+    "addr:postcode":"06057",
+    "addr:street":"Main St #;Hartford",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":824090105,
-    "wof:lastmodified":1466422814,
+    "wof:lastmodified":1472612435,
     "wof:name":"Braverman Carlos DMD",
     "wof:parent_id":85843245,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823660923,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Simsbury Rd Avon CT 06001",
+    "addr:housenumber":"111",
+    "addr:postcode":"06001",
+    "addr:street":"Simsbury Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823660923,
-    "wof:lastmodified":1466423957,
+    "wof:lastmodified":1472613505,
     "wof:name":"Chase Manhattan",
     "wof:parent_id":85841787,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823970357,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 Walnut Ridge Rd New Fairfield CT 06812",
+    "addr:housenumber":"5",
+    "addr:postcode":"06812",
+    "addr:street":"Walnut Ridge Rd;Fairfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823970357,
-    "wof:lastmodified":1466426589,
+    "wof:lastmodified":1472613922,
     "wof:name":"Mobile Office Svc",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

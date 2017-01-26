@@ -2,6 +2,10 @@
   "id": 823580495,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Parker Pl East Haven CT 06512",
+    "addr:housenumber":"15",
+    "addr:postcode":"06512",
+    "addr:street":"Parker Pl;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":823580495,
-    "wof:lastmodified":1466422856,
+    "wof:lastmodified":1472613342,
     "wof:name":"A K Electric Inc",
     "wof:parent_id":85882021,
     "wof:placetype":"venue",

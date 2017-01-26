@@ -2,6 +2,10 @@
   "id": 824068447,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Commercial Pkwy Branford CT 06405",
+    "addr:housenumber":"131",
+    "addr:postcode":"06405",
+    "addr:street":"Commercial Pkwy;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":824068447,
-    "wof:lastmodified":1466422318,
+    "wof:lastmodified":1472613249,
     "wof:name":"Quick Link Information",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 824095235,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Asylum Ave Lbby Hartford CT 06105",
+    "addr:housenumber":"1000",
+    "addr:postcode":"06105",
+    "addr:street":"Asylum Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":824095235,
-    "wof:lastmodified":1466423005,
+    "wof:lastmodified":1472612766,
     "wof:name":"Minimally Invasive Surgeon",
     "wof:parent_id":85878017,
     "wof:placetype":"venue",

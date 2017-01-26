@@ -2,6 +2,10 @@
   "id": 824106629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 First St Ste 3 Seymour CT 06483",
+    "addr:housenumber":"1",
+    "addr:postcode":"06483",
+    "addr:street":"First St Ste 3 Seymour Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":824106629,
-    "wof:lastmodified":1466423226,
+    "wof:lastmodified":1472613292,
     "wof:name":"Tax Collector",
     "wof:parent_id":85841679,
     "wof:placetype":"venue",

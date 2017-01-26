@@ -2,6 +2,10 @@
   "id": 824075353,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Dog Ln Storrs Mansfield CT 06268",
+    "addr:housenumber":"13",
+    "addr:postcode":"06268",
+    "addr:street":"Dog Ln;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":824075353,
-    "wof:lastmodified":1466422570,
+    "wof:lastmodified":1472612491,
     "wof:name":"Bangkok Noy Cafe",
     "wof:parent_id":85832175,
     "wof:placetype":"venue",

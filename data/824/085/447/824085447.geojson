@@ -2,6 +2,10 @@
   "id": 824085447,
   "type": "Feature",
   "properties": {
+    "addr:full":"41 Miller Rd Apt 35 Bristol CT 06010",
+    "addr:housenumber":"41;35",
+    "addr:postcode":"06010",
+    "addr:street":"Miller Rd Apt;Bristol Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824085447,
-    "wof:lastmodified":1466422684,
+    "wof:lastmodified":1472613187,
     "wof:name":"Belly Full",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",

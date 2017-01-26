@@ -2,6 +2,10 @@
   "id": 823814529,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Goodwin St East Hartford CT 06108",
+    "addr:housenumber":"101",
+    "addr:postcode":"06108",
+    "addr:street":"Goodwin St East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":823814529,
-    "wof:lastmodified":1466425230,
+    "wof:lastmodified":1472613790,
     "wof:name":"TEC-Serv By The Machine Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

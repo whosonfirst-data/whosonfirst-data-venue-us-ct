@@ -2,6 +2,10 @@
   "id": 824020505,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Main St East Haven CT 06512",
+    "addr:housenumber":"250",
+    "addr:postcode":"06512",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":824020505,
-    "wof:lastmodified":1466421545,
+    "wof:lastmodified":1472609000,
     "wof:name":"East Haven Tax Collector",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",

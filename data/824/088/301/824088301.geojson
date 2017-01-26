@@ -2,6 +2,10 @@
   "id": 824088301,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Albany Turnpike Unit 719 Canton CT 06019",
+    "addr:housenumber":"110;719",
+    "addr:postcode":"06019",
+    "addr:street":"Albany Turnpike Unit;Canton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824088301,
-    "wof:lastmodified":1466422835,
+    "wof:lastmodified":1472613054,
     "wof:name":"Snip-Its",
     "wof:parent_id":85865195,
     "wof:placetype":"venue",

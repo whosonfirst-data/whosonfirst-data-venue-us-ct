@@ -2,6 +2,10 @@
   "id": 823565707,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Pine Ridge Rd Rye Brook CT 10573",
+    "addr:housenumber":"8",
+    "addr:postcode":"10573",
+    "addr:street":"Pine Ridge Rd;Brook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":823565707,
-    "wof:lastmodified":1466422995,
+    "wof:lastmodified":1472613344,
     "wof:name":"Comprehensive Transportation",
     "wof:parent_id":85846517,
     "wof:placetype":"venue",

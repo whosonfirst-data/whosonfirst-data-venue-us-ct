@@ -2,6 +2,10 @@
   "id": 823759671,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Jones Dr Beacon Falls CT 06403",
+    "addr:housenumber":"35",
+    "addr:postcode":"06403",
+    "addr:street":"Jones Dr;Falls Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":823759671,
-    "wof:lastmodified":1466424791,
+    "wof:lastmodified":1472613776,
     "wof:name":"Hadmet Enterprises",
     "wof:parent_id":85841679,
     "wof:placetype":"venue",

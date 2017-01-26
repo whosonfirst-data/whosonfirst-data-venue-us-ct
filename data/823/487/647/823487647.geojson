@@ -2,6 +2,10 @@
   "id": 823487647,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 E Aurora St Waterbury CT 06708",
+    "addr:housenumber":"123",
+    "addr:postcode":"06708",
+    "addr:street":"E Aurora St Waterbury Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823487647,
-    "wof:lastmodified":1466421506,
+    "wof:lastmodified":1472609905,
     "wof:name":"James S Sullivan Cable Co",
     "wof:parent_id":85808427,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823908709,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Lake Dr Madison CT 06443",
+    "addr:housenumber":"42",
+    "addr:postcode":"06443",
+    "addr:street":"Lake Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823908709,
-    "wof:lastmodified":1466426111,
+    "wof:lastmodified":1472613951,
     "wof:name":"Applied Performance Imprvmnt",
     "wof:parent_id":85845487,
     "wof:placetype":"venue",

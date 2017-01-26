@@ -2,6 +2,10 @@
   "id": 823698091,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 Albany Ave Hartford CT 06120",
+    "addr:housenumber":"144",
+    "addr:postcode":"06120",
+    "addr:street":"Albany Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823698091,
-    "wof:lastmodified":1466424221,
+    "wof:lastmodified":1472613670,
     "wof:name":"Car Quest",
     "wof:parent_id":85878021,
     "wof:placetype":"venue",

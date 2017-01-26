@@ -2,6 +2,10 @@
   "id": 303105505,
   "type": "Feature",
   "properties": {
+    "addr:full":"789 New Norwalk Rd New Canaan NY 06840",
+    "addr:housenumber":"789",
+    "addr:postcode":"norwalk;06840",
+    "addr:street":"New;Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":303105505,
-    "wof:lastmodified":1466421115,
+    "wof:lastmodified":1472606607,
     "wof:name":"Ferm Brothers Lndscp",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",

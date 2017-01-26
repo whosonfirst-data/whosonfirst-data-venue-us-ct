@@ -2,6 +2,10 @@
   "id": 824117479,
   "type": "Feature",
   "properties": {
+    "addr:full":"152 Main St. Unit 10 Norwalk CT 06851",
+    "addr:housenumber":"152;10",
+    "addr:postcode":"06851",
+    "addr:street":"Main St. Unit;Norwalk Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824117479,
-    "wof:lastmodified":1466423303,
+    "wof:lastmodified":1472613340,
     "wof:name":"SUNNY HOUSE CONSTRUCTION",
     "wof:parent_id":85879319,
     "wof:placetype":"venue",

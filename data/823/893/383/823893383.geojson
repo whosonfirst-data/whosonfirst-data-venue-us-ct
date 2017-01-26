@@ -2,6 +2,10 @@
   "id": 823893383,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Cedar St New Haven CT 06510",
+    "addr:housenumber":"333",
+    "addr:postcode":"06510",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823893383,
-    "wof:lastmodified":1466425992,
+    "wof:lastmodified":1472613911,
     "wof:name":"Yale Genetic Consultation Svc",
     "wof:parent_id":85879167,
     "wof:placetype":"venue",

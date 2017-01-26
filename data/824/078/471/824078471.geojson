@@ -2,6 +2,10 @@
   "id": 824078471,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 Boston Post Rd West Haven CT 06516",
+    "addr:housenumber":"417",
+    "addr:postcode":"06516",
+    "addr:street":"Boston Post Rd;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":824078471,
-    "wof:lastmodified":1466422583,
+    "wof:lastmodified":1472613235,
     "wof:name":"Subway",
     "wof:parent_id":85879183,
     "wof:placetype":"venue",

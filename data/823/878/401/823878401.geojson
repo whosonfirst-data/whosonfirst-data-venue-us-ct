@@ -2,6 +2,10 @@
   "id": 823878401,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Hazelwood Ln Stamford CT 06905",
+    "addr:housenumber":"42",
+    "addr:postcode":"06905",
+    "addr:street":"Hazelwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823878401,
-    "wof:lastmodified":1466425823,
+    "wof:lastmodified":1472613884,
     "wof:name":"Garfano Plumbing & Heating",
     "wof:parent_id":85831311,
     "wof:placetype":"venue",

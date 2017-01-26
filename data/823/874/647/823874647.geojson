@@ -2,6 +2,10 @@
   "id": 823874647,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 W Main St Stamford CT 06902",
+    "addr:housenumber":"123",
+    "addr:postcode":"06902",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823874647,
-    "wof:lastmodified":1466425789,
+    "wof:lastmodified":1472613906,
     "wof:name":"Superior Barber Shop",
     "wof:parent_id":85881175,
     "wof:placetype":"venue",

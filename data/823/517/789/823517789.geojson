@@ -2,6 +2,10 @@
   "id": 823517789,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Main St Windsor Locks CT 06096",
+    "addr:housenumber":"42",
+    "addr:postcode":"06096",
+    "addr:street":"Main St;Locks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":823517789,
-    "wof:lastmodified":1466421844,
+    "wof:lastmodified":1472613275,
     "wof:name":"Apollo Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

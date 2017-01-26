@@ -2,6 +2,10 @@
   "id": 824005781,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Clover Mill Rd Storrs Mansfield CT 06268",
+    "addr:housenumber":"230",
+    "addr:postcode":"06268",
+    "addr:street":"Clover Mill Rd;Mansfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":824005781,
-    "wof:lastmodified":1466421197,
+    "wof:lastmodified":1472607999,
     "wof:name":"Public Works Garage",
     "wof:parent_id":85815787,
     "wof:placetype":"venue",

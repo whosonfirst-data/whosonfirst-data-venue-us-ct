@@ -2,6 +2,10 @@
   "id": 823528745,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Sebethe Dr Cromwell CT 06416",
+    "addr:housenumber":"100",
+    "addr:postcode":"06416",
+    "addr:street":"Sebethe Dr;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":823528745,
-    "wof:lastmodified":1466422274,
+    "wof:lastmodified":1472613309,
     "wof:name":"Honeywell",
     "wof:parent_id":85856893,
     "wof:placetype":"venue",

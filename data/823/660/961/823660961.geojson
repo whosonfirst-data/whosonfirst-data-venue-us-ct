@@ -2,6 +2,10 @@
   "id": 823660961,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Broad St Middletown CT 06457",
+    "addr:housenumber":"123",
+    "addr:postcode":"06457",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823660961,
-    "wof:lastmodified":1466423962,
+    "wof:lastmodified":1472613463,
     "wof:name":"Russell Library",
     "wof:parent_id":85849655,
     "wof:placetype":"venue",

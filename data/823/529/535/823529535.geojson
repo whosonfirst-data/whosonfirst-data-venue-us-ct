@@ -2,6 +2,10 @@
   "id": 823529535,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 W Hartford Rd East Hartford CT 06111",
+    "addr:housenumber":"111",
+    "addr:postcode":"06111",
+    "addr:street":"W Hartford Rd East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823529535,
-    "wof:lastmodified":1466422265,
+    "wof:lastmodified":1472613284,
     "wof:name":"Duggan Caccavaro & Ciapciak",
     "wof:parent_id":85836819,
     "wof:placetype":"venue",

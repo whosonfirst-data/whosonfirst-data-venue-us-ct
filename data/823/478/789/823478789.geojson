@@ -2,6 +2,10 @@
   "id": 823478789,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 Hamburg Rd Old Lyme CT 06371",
+    "addr:housenumber":"480",
+    "addr:postcode":"06371",
+    "addr:street":"Hamburg Rd;Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823478789,
-    "wof:lastmodified":1466421416,
+    "wof:lastmodified":1472608457,
     "wof:name":"Lyme Town Clerk",
     "wof:parent_id":85823623,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 823525563,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Quaker Ln S Hartford CT 06119",
+    "addr:housenumber":"345",
+    "addr:postcode":"06119",
+    "addr:street":"Quaker Ln;Hartford",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823525563,
-    "wof:lastmodified":1466422218,
+    "wof:lastmodified":1472613283,
     "wof:name":"Fbh Investments LLC",
     "wof:parent_id":85868763,
     "wof:placetype":"venue",

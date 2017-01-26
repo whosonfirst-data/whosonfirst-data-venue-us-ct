@@ -2,6 +2,10 @@
   "id": 824089767,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Slater St Unit 4 Manchester CT 06042",
+    "addr:housenumber":"63;4",
+    "addr:postcode":"06042",
+    "addr:street":"Slater St Unit;Manchester Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":824089767,
-    "wof:lastmodified":1466422897,
+    "wof:lastmodified":1472613273,
     "wof:name":"Advanced Lighting & Sound Solutions",
     "wof:parent_id":85838951,
     "wof:placetype":"venue",

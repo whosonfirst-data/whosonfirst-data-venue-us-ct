@@ -2,6 +2,10 @@
   "id": 823500029,
   "type": "Feature",
   "properties": {
+    "addr:full":"24 Hospital Ave Danbury CT 06810",
+    "addr:housenumber":"24",
+    "addr:postcode":"06810",
+    "addr:street":"Hospital Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823500029,
-    "wof:lastmodified":1466421395,
+    "wof:lastmodified":1472610410,
     "wof:name":"DOPS Pediatric Svc",
     "wof:parent_id":85821411,
     "wof:placetype":"venue",

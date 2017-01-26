@@ -2,6 +2,10 @@
   "id": 824003797,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Clark Rd New Fairfield CT 06812",
+    "addr:housenumber":"11",
+    "addr:postcode":"06812",
+    "addr:street":"Clark Rd;Fairfield Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":824003797,
-    "wof:lastmodified":1466421346,
+    "wof:lastmodified":1472607806,
     "wof:name":"Beach Design",
     "wof:parent_id":85868711,
     "wof:placetype":"venue",

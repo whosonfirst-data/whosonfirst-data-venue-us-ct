@@ -2,6 +2,10 @@
   "id": 823838385,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Scott Rd East Lyme CT 06333",
+    "addr:housenumber":"101",
+    "addr:postcode":"06333",
+    "addr:street":"Scott Rd East Lyme Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":823838385,
-    "wof:lastmodified":1466425435,
+    "wof:lastmodified":1472613814,
     "wof:name":"Point Company Builders Inc",
     "wof:parent_id":85819559,
     "wof:placetype":"venue",

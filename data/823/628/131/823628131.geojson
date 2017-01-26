@@ -2,6 +2,10 @@
   "id": 823628131,
   "type": "Feature",
   "properties": {
+    "addr:full":"389 Pompeo Rd North Grosvenordale CT 06255",
+    "addr:housenumber":"389",
+    "addr:postcode":"06255",
+    "addr:street":"Pompeo Rd;Grosvenordale",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":823628131,
-    "wof:lastmodified":1466423563,
+    "wof:lastmodified":1472613373,
     "wof:name":"Herbert Tree Svc",
     "wof:parent_id":85856497,
     "wof:placetype":"venue",

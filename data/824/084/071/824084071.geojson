@@ -2,6 +2,10 @@
   "id": 824084071,
   "type": "Feature",
   "properties": {
+    "addr:full":"195 W Main St Ste 26 Avon CT 06001",
+    "addr:housenumber":"195;26",
+    "addr:postcode":"06001",
+    "addr:street":"W Main St Ste;Avon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824084071,
-    "wof:lastmodified":1466422519,
+    "wof:lastmodified":1472611326,
     "wof:name":"Rns Builders Inc",
     "wof:parent_id":85855189,
     "wof:placetype":"venue",

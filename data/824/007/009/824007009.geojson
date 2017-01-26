@@ -2,6 +2,10 @@
   "id": 824007009,
   "type": "Feature",
   "properties": {
+    "addr:full":"555 Pool Rd North Haven CT 06473",
+    "addr:housenumber":"555",
+    "addr:postcode":"06473",
+    "addr:street":"Pool Rd;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":824007009,
-    "wof:lastmodified":1466421208,
+    "wof:lastmodified":1472607393,
     "wof:name":"North Haven Housing Authority",
     "wof:parent_id":85843519,
     "wof:placetype":"venue",

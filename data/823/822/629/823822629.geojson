@@ -2,6 +2,10 @@
   "id": 823822629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Stratford Ave Bridgeport CT 06607",
+    "addr:housenumber":"1234",
+    "addr:postcode":"06607",
+    "addr:street":"Stratford Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":823822629,
-    "wof:lastmodified":1466425308,
+    "wof:lastmodified":1472613832,
     "wof:name":"Greater Pryr Tbrncl Ch of Love",
     "wof:parent_id":85836801,
     "wof:placetype":"venue",

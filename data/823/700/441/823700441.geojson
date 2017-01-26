@@ -2,6 +2,10 @@
   "id": 823700441,
   "type": "Feature",
   "properties": {
+    "addr:full":"1111 Hartford Tpke North Haven CT 06473",
+    "addr:housenumber":"1111",
+    "addr:postcode":"06473",
+    "addr:street":"Hartford Tpke;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823700441,
-    "wof:lastmodified":1466424413,
+    "wof:lastmodified":1472613680,
     "wof:name":"A D 2000 Inc",
     "wof:parent_id":85834309,
     "wof:placetype":"venue",

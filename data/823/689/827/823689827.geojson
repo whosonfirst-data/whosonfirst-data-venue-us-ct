@@ -2,6 +2,10 @@
   "id": 823689827,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Main St Wallingford CT 06492",
+    "addr:housenumber":"123",
+    "addr:postcode":"06492",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":823689827,
-    "wof:lastmodified":1466424154,
+    "wof:lastmodified":1472613701,
     "wof:name":"John E Boeing Company Inc",
     "wof:parent_id":85843519,
     "wof:placetype":"venue",

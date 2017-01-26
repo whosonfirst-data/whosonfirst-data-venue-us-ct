@@ -2,6 +2,10 @@
   "id": 824083231,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 E Main St Ste 18 Avon CT 06001",
+    "addr:housenumber":"51;18",
+    "addr:postcode":"06001",
+    "addr:street":"E Main St Ste;Avon Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":824083231,
-    "wof:lastmodified":1466422431,
+    "wof:lastmodified":1472612882,
     "wof:name":"Cahoots Hair Design",
     "wof:parent_id":85841787,
     "wof:placetype":"venue",

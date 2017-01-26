@@ -2,6 +2,10 @@
   "id": 824121579,
   "type": "Feature",
   "properties": {
+    "addr:full":"755 Main Street, Building 7 Monroe CT 06468",
+    "addr:housenumber":"755;7",
+    "addr:postcode":"06468",
+    "addr:street":"Main Street;Monroe Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":824121579,
-    "wof:lastmodified":1466423387,
+    "wof:lastmodified":1472613340,
     "wof:name":"Telenity",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

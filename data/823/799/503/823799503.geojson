@@ -2,6 +2,10 @@
   "id": 823799503,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 New Park Ave Hartford CT 06110",
+    "addr:housenumber":"456",
+    "addr:postcode":"06110",
+    "addr:street":"New Park Ave;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":823799503,
-    "wof:lastmodified":1466425107,
+    "wof:lastmodified":1472613799,
     "wof:name":"Dan Shell",
     "wof:parent_id":85878019,
     "wof:placetype":"venue",
