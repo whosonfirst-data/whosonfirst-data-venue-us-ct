@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.657291,41.107316,-73.657291,41.107316",
     "geom:latitude":41.107316,
     "geom:longitude":-73.657291,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
         85633793,
-        85688629
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"0ad93e4baa5384beb083365b46c9d402",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "localadmin_id":404495949,
             "region_id":85688629,
             "venue_id":353760663
         }
     ],
     "wof:id":353760663,
-    "wof:lastmodified":1472606483,
+    "wof:lastmodified":1492029247,
     "wof:name":"Third Millenium Solution",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

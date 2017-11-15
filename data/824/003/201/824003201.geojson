@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.162061,41.496345,-73.162061,41.496345",
     "geom:latitude":41.496345,
     "geom:longitude":-73.162061,
@@ -28,7 +29,13 @@
     "sg:postcode":"06488",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5llO8mCD8saFuwJPIHCWkm_41.496345_-73.162061@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463452056,
     "wof:geomhash":"b223a1a6b2586cc997bb35aa8d218724",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":824003201
+        }
+    ],
     "wof:id":824003201,
-    "wof:lastmodified":1472607260,
+    "wof:lastmodified":1492027031,
     "wof:name":"Excelsior Amusements",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.525584,41.460779,-73.525584,41.460779",
     "geom:latitude":41.460779,
     "geom:longitude":-73.525584,
@@ -31,7 +32,13 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ZN80QOeAiVCvOjKiTG1ye_41.460779_-73.525584@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463441460,
     "wof:geomhash":"eccc843647fcad732a80a933a6e4e341",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823581577
+        }
+    ],
     "wof:id":823581577,
-    "wof:lastmodified":1472613347,
+    "wof:lastmodified":1492055041,
     "wof:name":"New Fairfield Motel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

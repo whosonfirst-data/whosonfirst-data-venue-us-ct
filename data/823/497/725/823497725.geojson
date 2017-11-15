@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.431231,41.582109,-73.431231,41.582109",
     "geom:latitude":41.582109,
     "geom:longitude":-73.431231,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809229,
-        102085375
+        102191575,
+        404496031,
+        85633793,
+        85931231,
+        102085375,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"c39481664df80f0e4e7918196c576a7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085375,
+            "localadmin_id":404496031,
+            "locality_id":85931231,
             "neighbourhood_id":85809229,
             "region_id":85688629,
             "venue_id":823497725
         }
     ],
     "wof:id":823497725,
-    "wof:lastmodified":1472613234,
+    "wof:lastmodified":1492055012,
     "wof:name":"Gaylordsville Country Sto",
     "wof:parent_id":85809229,
     "wof:placetype":"venue",

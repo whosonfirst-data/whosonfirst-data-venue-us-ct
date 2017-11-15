@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.964858,41.326858,-72.964858,41.326858",
     "geom:latitude":41.326858,
     "geom:longitude":-72.964858,
@@ -29,13 +30,10 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85857187,
-        102191575,
-        404495791,
+        85688629,
         85633793,
-        85931385,
-        102086923,
-        85688629
+        85879157,
+        102086923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,20 +44,17 @@
     "wof:geomhash":"e6579067c0e41ff9de4acc10dd4859c2",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
-            "localadmin_id":404495791,
-            "locality_id":85931385,
-            "neighbourhood_id":85857187,
+            "neighbourhood_id":85879157,
             "region_id":85688629,
             "venue_id":823621969
         }
     ],
     "wof:id":823621969,
-    "wof:lastmodified":1472613427,
+    "wof:lastmodified":1492055081,
     "wof:name":"Richard Candelent",
-    "wof:parent_id":85857187,
+    "wof:parent_id":85879157,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

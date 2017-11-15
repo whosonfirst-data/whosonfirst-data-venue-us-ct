@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.303095,41.301814,-73.303095,41.301814",
     "geom:latitude":41.301814,
     "geom:longitude":-73.303095,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"f2a523ad06c8bd84d10dea430d285771",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823827919
         }
     ],
     "wof:id":823827919,
-    "wof:lastmodified":1472613854,
+    "wof:lastmodified":1492061712,
     "wof:name":"Massage Workscalm LLC",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

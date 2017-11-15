@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.415595,41.15587,-73.415595,41.15587",
     "geom:latitude":41.15587,
     "geom:longitude":-73.415595,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85850221,
-        102084283
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"0130df681aeb26328ee04483ad3fbffe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85850221,
             "region_id":85688629,
             "venue_id":823848801
         }
     ],
     "wof:id":823848801,
-    "wof:lastmodified":1472613837,
+    "wof:lastmodified":1492027161,
     "wof:name":"Grey Associates",
     "wof:parent_id":85850221,
     "wof:placetype":"venue",

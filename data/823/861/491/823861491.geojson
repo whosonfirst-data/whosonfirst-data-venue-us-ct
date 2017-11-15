@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.113097,41.322591,-73.113097,41.322591",
     "geom:latitude":41.322591,
     "geom:longitude":-73.113097,
@@ -33,7 +34,14 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41YFEI3BocyQ169Mgjp348_41.322591_-73.113097@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463448527,
     "wof:geomhash":"60e19c2c7ad7c9e5967cf66168f34dd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823861491
+        }
+    ],
     "wof:id":823861491,
-    "wof:lastmodified":1472613819,
+    "wof:lastmodified":1492027143,
     "wof:name":"Paidos Health Mgmt Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

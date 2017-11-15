@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.550579,41.073078,-73.550579,41.073078",
     "geom:latitude":41.073078,
     "geom:longitude":-73.550579,
@@ -29,7 +30,15 @@
     "sg:province":"CT",
     "sg:website":"http://www.basware.com/US/Pages/default.aspx",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AP2nIbRkens9ZkF8Ypmqb_41.073078_-73.550579@1308186499"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463454798,
     "wof:geomhash":"08a103da876ca2f1ecbe659c4bc1b7b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":824121803
+        }
+    ],
     "wof:id":824121803,
-    "wof:lastmodified":1472613345,
+    "wof:lastmodified":1492068781,
     "wof:name":"Basware",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.464563,41.463307,-73.464563,41.463307",
     "geom:latitude":41.463307,
     "geom:longitude":-73.464563,
@@ -28,7 +29,10 @@
     "sg:postcode":"06812",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GnDhrTNnxnn5WYhAVHl6g_41.463307_-73.464563@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463451284,
     "wof:geomhash":"7b9b2146380f4f671747c86abc1f11ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555455,
+            "venue_id":823971471
+        }
+    ],
     "wof:id":823971471,
-    "wof:lastmodified":1472613919,
+    "wof:lastmodified":1492027116,
     "wof:name":"Olafs Baskets",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

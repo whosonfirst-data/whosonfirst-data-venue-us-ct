@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.180327,41.198247,-73.180327,41.198247",
     "geom:latitude":41.198247,
     "geom:longitude":-73.180327,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555443,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yaWoxouJvxPcAXEfEiM9q_41.198247_-73.180327@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463443453,
     "wof:geomhash":"14674a58cd5926258d908882534e73f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555443,
+            "region_id":85688629,
+            "venue_id":823664897
+        }
+    ],
     "wof:id":823664897,
-    "wof:lastmodified":1472613665,
+    "wof:lastmodified":1492051888,
     "wof:name":"Jackie's Customized Sewing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

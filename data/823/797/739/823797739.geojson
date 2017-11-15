@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.056523,41.226288,-73.056523,41.226288",
     "geom:latitude":41.226288,
     "geom:longitude":-73.056523,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85820241,
+        85819849,
         102191575,
         404495783,
         85633793,
         85930905,
         102086923,
-        85688629
+        85688629,
+        85820241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,25 @@
             "county_id":102086923,
             "localadmin_id":404495783,
             "locality_id":85930905,
+            "neighbourhood_id":85819849,
+            "region_id":85688629,
+            "venue_id":823797739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
             "neighbourhood_id":85820241,
             "region_id":85688629,
             "venue_id":823797739
         }
     ],
     "wof:id":823797739,
-    "wof:lastmodified":1472613829,
+    "wof:lastmodified":1492038162,
     "wof:name":"Milford City Attorney",
-    "wof:parent_id":85820241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

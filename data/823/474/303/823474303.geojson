@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.418968,41.16193,-73.418968,41.16193",
     "geom:latitude":41.16193,
     "geom:longitude":-73.418968,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85850221,
-        102084283
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"c849ba90dd5cad261b43cab94f06c94c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85850221,
             "region_id":85688629,
             "venue_id":823474303
         }
     ],
     "wof:id":823474303,
-    "wof:lastmodified":1472607921,
+    "wof:lastmodified":1492052660,
     "wof:name":"Gateway Center Assoc",
     "wof:parent_id":85850221,
     "wof:placetype":"venue",

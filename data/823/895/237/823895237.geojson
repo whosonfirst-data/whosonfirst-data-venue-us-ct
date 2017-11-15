@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.394447,41.45627,-73.394447,41.45627",
     "geom:latitude":41.45627,
     "geom:longitude":-73.394447,
@@ -36,7 +37,8 @@
         85688629,
         85633793,
         85829875,
-        102084283
+        102084283,
+        420555477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +54,17 @@
             "neighbourhood_id":85829875,
             "region_id":85688629,
             "venue_id":823895237
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823895237
         }
     ],
     "wof:id":823895237,
-    "wof:lastmodified":1472613894,
+    "wof:lastmodified":1492027122,
     "wof:name":"Eastern Precast Co Inc",
-    "wof:parent_id":85829875,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

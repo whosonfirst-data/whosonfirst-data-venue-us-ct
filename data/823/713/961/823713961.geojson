@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.943497,41.34321,-72.943497,41.34321",
     "geom:latitude":41.34321,
     "geom:longitude":-72.943497,
@@ -30,14 +31,14 @@
     "sg:website":"www.cttech.org/whitney",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
-        85885309,
-        102086923,
         85879159,
         102191575,
         404495787,
-        85930897
+        85633793,
+        85930897,
+        102086923,
+        85688629,
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +49,6 @@
     "wof:geomhash":"ee22fa5df92f7596eec01208ffd7a244",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":823713961
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
@@ -63,12 +57,19 @@
             "neighbourhood_id":85879159,
             "region_id":85688629,
             "venue_id":823713961
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823713961
         }
     ],
     "wof:id":823713961,
-    "wof:lastmodified":1472613706,
+    "wof:lastmodified":1491936229,
     "wof:name":"Eli Whitney Tech High School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

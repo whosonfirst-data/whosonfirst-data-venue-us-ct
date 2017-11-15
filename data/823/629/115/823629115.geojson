@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197806,41.246245,-73.197806,41.246245",
     "geom:latitude":41.246245,
     "geom:longitude":-73.197806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Daniels Farm Rd",
     "sg:city":"Trumbull",
     "sg:classifiers":[
@@ -28,19 +30,39 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
+    "wof:brand_id":1125153287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Iq9NIiXLPr1Pt8Yikvor8_41.246245_-73.197806@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463442612,
-    "wof:geomhash":"cea14d29f8467286f09e499bf8eb2ddd",
-    "wof:hierarchy":[],
+    "wof:geomhash":"c38ae2c73e1b11d5e4826423ccd0290d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":823629115
+        }
+    ],
     "wof:id":823629115,
-    "wof:lastmodified":1472613376,
+    "wof:lastmodified":1510697656,
     "wof:name":"Crossroads Community Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

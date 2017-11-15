@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.518799,41.130638,-73.518799,41.130638",
     "geom:latitude":41.130638,
     "geom:longitude":-73.518799,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
         85633793,
-        85688629
+        85842701,
+        102084283,
+        85851779
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,24 @@
     "wof:geomhash":"5f172382bf4c35f675f324d72ae21968",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "neighbourhood_id":85842701,
+            "region_id":85688629,
+            "venue_id":320458649
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":320458649
         }
     ],
     "wof:id":320458649,
-    "wof:lastmodified":1472606428,
+    "wof:lastmodified":1492029176,
     "wof:name":"Brierdesig Net LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

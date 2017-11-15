@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.246081,41.55509,-73.246081,41.55509",
     "geom:latitude":41.55509,
     "geom:longitude":-73.246081,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mJB8CyX2OgYUNWM1vv1hb_41.555090_-73.246081@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463450611,
     "wof:geomhash":"079cb47a3eba63cd52bcdd030d54e707",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823943755
+        }
+    ],
     "wof:id":823943755,
-    "wof:lastmodified":1472613956,
+    "wof:lastmodified":1492055121,
     "wof:name":"Mas Group LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

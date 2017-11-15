@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.30287,41.1383,-73.30287,41.1383",
     "geom:latitude":41.1383,
     "geom:longitude":-73.30287,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"www.deep-purple.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jyTsmSdsRTqR5YdSrWUrT_41.138300_-73.302870@1294084077"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1463445728,
     "wof:geomhash":"576f51be0f4a5a5aeda87748cba3d8bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "region_id":85688629,
+            "venue_id":823765539
+        }
+    ],
     "wof:id":823765539,
-    "wof:lastmodified":1472613785,
+    "wof:lastmodified":1492027150,
     "wof:name":"Thames Talent Ltd",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

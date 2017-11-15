@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.194138,41.18738,-73.194138,41.18738",
     "geom:latitude":41.18738,
     "geom:longitude":-73.194138,
@@ -34,7 +35,15 @@
         "upholstery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cOwUcp9j1fP8kt6utcxo7_41.187380_-73.194138@1294084077"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463445750,
     "wof:geomhash":"e7c9b17033d7177cd103576902dca995",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823766533
+        }
+    ],
     "wof:id":823766533,
-    "wof:lastmodified":1472613811,
+    "wof:lastmodified":1492051889,
     "wof:name":"Dragones Upholstery Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

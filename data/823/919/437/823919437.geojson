@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.122111,41.514065,-73.122111,41.514065",
     "geom:latitude":41.514065,
     "geom:longitude":-73.122111,
@@ -31,7 +32,13 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uUECP2USMox0BxE3iG76J_41.514065_-73.122111@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463449986,
     "wof:geomhash":"3055458335630ee8b1bef071d6f9d5fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823919437
+        }
+    ],
     "wof:id":823919437,
-    "wof:lastmodified":1472613917,
+    "wof:lastmodified":1492027027,
     "wof:name":"Quality Painting & Restoration",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

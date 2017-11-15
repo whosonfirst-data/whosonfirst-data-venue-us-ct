@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.513967,41.0602,-73.513967,41.0602",
     "geom:latitude":41.0602,
     "geom:longitude":-73.513967,
@@ -33,7 +34,15 @@
         "parking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F8SfZZ4GvNDO07ITWqg3I_41.060200_-73.513967@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463440221,
     "wof:geomhash":"4e0492a668f5c299d971af685d6993d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823528315
+        }
+    ],
     "wof:id":823528315,
-    "wof:lastmodified":1472613292,
+    "wof:lastmodified":1492029149,
     "wof:name":"R J Leone Traffic Marking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

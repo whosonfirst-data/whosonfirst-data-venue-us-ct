@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.101042,41.54415,-73.101042,41.54415",
     "geom:latitude":41.54415,
     "geom:longitude":-73.101042,
@@ -32,7 +33,10 @@
         "registry"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IUBlGDjPSAhc3TuqC8AY7_41.544150_-73.101042@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463452149,
     "wof:geomhash":"5c4cbf4f438dca553c623693cd76a4c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824007525
+        }
+    ],
     "wof:id":824007525,
-    "wof:lastmodified":1472608070,
+    "wof:lastmodified":1492027169,
     "wof:name":"M E Kinnie",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

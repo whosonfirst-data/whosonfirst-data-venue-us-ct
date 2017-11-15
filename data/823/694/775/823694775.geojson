@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.564363,41.143692,-73.564363,41.143692",
     "geom:latitude":41.143692,
     "geom:longitude":-73.564363,
@@ -31,7 +32,14 @@
         "nutritionist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3E4qdqILri1CKviK9WDjWc_41.143692_-73.564363@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463444126,
     "wof:geomhash":"8c10cc690d774d0d8d29fbd61d06dcdb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823694775
+        }
+    ],
     "wof:id":823694775,
-    "wof:lastmodified":1472613696,
+    "wof:lastmodified":1492029230,
     "wof:name":"Nutrition Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

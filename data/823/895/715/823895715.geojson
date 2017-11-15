@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.447337,41.737495,-73.447337,41.737495",
     "geom:latitude":41.737495,
     "geom:longitude":-73.447337,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HESCyZZys40via5Gd2rCv_41.737495_-73.447337@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463449344,
     "wof:geomhash":"aa48d6ac2045cb5575df4fc7b9e1097b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555585,
+            "venue_id":823895715
+        }
+    ],
     "wof:id":823895715,
-    "wof:lastmodified":1472613951,
+    "wof:lastmodified":1492054965,
     "wof:name":"Perennial Plantscapes",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

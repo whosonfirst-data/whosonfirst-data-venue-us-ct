@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.151767,41.56484,-73.151767,41.56484",
     "geom:latitude":41.56484,
     "geom:longitude":-73.151767,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TAMNShlE9XQrQVoKwvKTb_41.564840_-73.151767@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463440333,
     "wof:geomhash":"333cd370505d54cfe74ce0138713808f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823533897
+        }
+    ],
     "wof:id":823533897,
-    "wof:lastmodified":1472613337,
+    "wof:lastmodified":1492061631,
     "wof:name":"Blue & Gold Kennels",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

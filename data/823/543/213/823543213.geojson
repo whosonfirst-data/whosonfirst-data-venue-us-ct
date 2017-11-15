@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218369,41.224431,-73.218369,41.224431",
     "geom:latitude":41.224431,
     "geom:longitude":-73.218369,
@@ -31,7 +32,15 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z7Tt8CAZh8OlIW6SRK2vR_41.224431_-73.218369@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463440542,
     "wof:geomhash":"0112a0b0682e112e11156c0b3b1c523e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823543213
+        }
+    ],
     "wof:id":823543213,
-    "wof:lastmodified":1472613289,
+    "wof:lastmodified":1492029124,
     "wof:name":"Andrea Hagan MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

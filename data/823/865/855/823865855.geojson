@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.400305,41.483179,-73.400305,41.483179",
     "geom:latitude":41.483179,
     "geom:longitude":-73.400305,
@@ -28,7 +29,13 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vbBxfD7gUnBtMw9pxshT9_41.483179_-73.400305@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463448643,
     "wof:geomhash":"aa4853469298a7deb7042ad077954ca1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":823865855
+        }
+    ],
     "wof:id":823865855,
-    "wof:lastmodified":1472613852,
+    "wof:lastmodified":1492027122,
     "wof:name":"Magic Circle LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

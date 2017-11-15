@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.3918,41.512717,-73.3918,41.512717",
     "geom:latitude":41.512717,
     "geom:longitude":-73.3918,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.trollplast.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mu9XK6nmOiQIGHOhMzMbx_41.512717_-73.391800@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463452678,
     "wof:geomhash":"ae06d04cdb370d66c6944d58f3149f98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":824030493
+        }
+    ],
     "wof:id":824030493,
-    "wof:lastmodified":1472609321,
+    "wof:lastmodified":1492027125,
     "wof:name":"Trollplast Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.425259,41.601598,-73.425259,41.601598",
     "geom:latitude":41.601598,
     "geom:longitude":-73.425259,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809229,
-        102085375
+        102191575,
+        404496031,
+        85633793,
+        85931231,
+        102085375,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"c6130658de5c4850c922969b98be880d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085375,
+            "localadmin_id":404496031,
+            "locality_id":85931231,
             "neighbourhood_id":85809229,
             "region_id":85688629,
             "venue_id":823683595
         }
     ],
     "wof:id":823683595,
-    "wof:lastmodified":1472613681,
+    "wof:lastmodified":1492055014,
     "wof:name":"Benedicto Design LLC",
     "wof:parent_id":85809229,
     "wof:placetype":"venue",

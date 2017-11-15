@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.666467,40.989085,-73.666467,40.989085",
     "geom:latitude":40.989085,
     "geom:longitude":-73.666467,
@@ -33,7 +34,15 @@
     ],
     "sg:website":"www.dcgny.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530421,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73OzFyf6B2aoDzqkdb6GQL_40.989085_-73.666467@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463444680,
     "wof:geomhash":"6146bc2bf0d9cc1b5067d6eae8161f83",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530421,
+            "region_id":85688543,
+            "venue_id":823721569
+        }
+    ],
     "wof:id":823721569,
-    "wof:lastmodified":1472613721,
+    "wof:lastmodified":1492029267,
     "wof:name":"D C Graphics",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

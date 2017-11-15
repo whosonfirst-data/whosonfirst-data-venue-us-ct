@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.101266,41.297911,-73.101266,41.297911",
     "geom:latitude":41.297911,
     "geom:longitude":-73.101266,
@@ -28,7 +29,14 @@
     "sg:postcode":"06484",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oWH11UduMYVOeK3LoDus9_41.297911_-73.101266@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463440278,
     "wof:geomhash":"71af544f712b051de36b13d706e11421",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823531323
+        }
+    ],
     "wof:id":823531323,
-    "wof:lastmodified":1472613291,
+    "wof:lastmodified":1492029269,
     "wof:name":"Alternative Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

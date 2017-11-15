@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.3654,41.139357,-73.3654,41.139357",
     "geom:latitude":41.139357,
     "geom:longitude":-73.3654,
@@ -35,7 +36,8 @@
         85633793,
         85930969,
         102084283,
-        85688629
+        85688629,
+        85888507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +56,22 @@
             "neighbourhood_id":85847197,
             "region_id":85688629,
             "venue_id":823611841
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85888507,
+            "region_id":85688629,
+            "venue_id":823611841
         }
     ],
     "wof:id":823611841,
-    "wof:lastmodified":1472613422,
+    "wof:lastmodified":1492055018,
     "wof:name":"93 Fawn Ridge LLC",
-    "wof:parent_id":85847197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

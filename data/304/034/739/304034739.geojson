@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.514562,41.119471,-73.514562,41.119471",
     "geom:latitude":41.119471,
     "geom:longitude":-73.514562,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"95053145fe494729b6c83e0fc7893390",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":304034739
         }
     ],
     "wof:id":304034739,
-    "wof:lastmodified":1472606248,
+    "wof:lastmodified":1492029099,
     "wof:name":"G E Access Graphics",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

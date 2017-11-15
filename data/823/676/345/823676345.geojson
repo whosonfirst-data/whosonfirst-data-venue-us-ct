@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.666133,41.003864,-73.666133,41.003864",
     "geom:latitude":41.003864,
     "geom:longitude":-73.666133,
@@ -31,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kM7t1fQTk5biGoz2Z8Scr_41.003864_-73.666133@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463443709,
     "wof:geomhash":"4b56d6892eb68f2535f238a14176e3d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823676345
+        }
+    ],
     "wof:id":823676345,
-    "wof:lastmodified":1472613670,
+    "wof:lastmodified":1492029266,
     "wof:name":"Second Pentecostal Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

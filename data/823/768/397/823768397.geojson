@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.19646,41.192176,-73.19646,41.192176",
     "geom:latitude":41.192176,
     "geom:longitude":-73.19646,
@@ -36,7 +37,15 @@
         "making"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RBMOGH7AnzvTpkmC79YIq_41.192176_-73.196460@1294084077"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1463445789,
     "wof:geomhash":"a5d1928e3df160c166b0e01d60e9cbe6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823768397
+        }
+    ],
     "wof:id":823768397,
-    "wof:lastmodified":1472613775,
+    "wof:lastmodified":1492029070,
     "wof:name":"Bonvini Dental Laboratory Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

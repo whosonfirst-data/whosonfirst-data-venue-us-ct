@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.389844,41.689481,-73.389844,41.689481",
     "geom:latitude":41.689481,
     "geom:longitude":-73.389844,
@@ -29,8 +30,9 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
         85633793,
+        420555551,
+        85688629,
         85931231,
         102085375,
         85824781
@@ -45,6 +47,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420555551,
+            "venue_id":823541191
+        },
+        {
+            "country_id":85633793,
             "county_id":102085375,
             "locality_id":85931231,
             "neighbourhood_id":85824781,
@@ -53,9 +60,9 @@
         }
     ],
     "wof:id":823541191,
-    "wof:lastmodified":1472613293,
+    "wof:lastmodified":1492051705,
     "wof:name":"Fools Day Farm",
-    "wof:parent_id":85824781,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

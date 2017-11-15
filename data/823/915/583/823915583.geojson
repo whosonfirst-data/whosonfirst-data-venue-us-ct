@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.536,41.452802,-73.536,41.452802",
     "geom:latitude":41.452802,
     "geom:longitude":-73.536,
@@ -28,7 +29,13 @@
     "sg:postcode":"06812",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688543,
+        102191575,
+        404521557,
+        85633793,
+        102083007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5U5iIrWf9Fu4fOdQUynp5N_41.452802_-73.536000@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463449892,
     "wof:geomhash":"ff1fa4455484abd628d8b7750a9aeee7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083007,
+            "localadmin_id":404521557,
+            "region_id":85688543,
+            "venue_id":823915583
+        }
+    ],
     "wof:id":823915583,
-    "wof:lastmodified":1472613868,
+    "wof:lastmodified":1492055144,
     "wof:name":"Home Inn Grove",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

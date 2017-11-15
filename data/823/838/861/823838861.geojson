@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.230132,41.556597,-73.230132,41.556597",
     "geom:latitude":41.556597,
     "geom:longitude":-73.230132,
@@ -31,7 +32,10 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C6dkARlrux8VdBNPgfcJ4_41.556597_-73.230132@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463447908,
     "wof:geomhash":"50c16d4bb776b758f6e28aed6877abe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823838861
+        }
+    ],
     "wof:id":823838861,
-    "wof:lastmodified":1472613853,
+    "wof:lastmodified":1492067293,
     "wof:name":"Keating Robert P",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

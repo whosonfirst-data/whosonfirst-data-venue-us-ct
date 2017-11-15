@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.656086,40.999608,-73.656086,40.999608",
     "geom:latitude":40.999608,
     "geom:longitude":-73.656086,
@@ -28,7 +29,14 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hCxVpWwK3QU8U2fFdQaRn_40.999608_-73.656086@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463444912,
     "wof:geomhash":"c55ee2ad5b87f7a52d7a2536eb228b74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823730401
+        }
+    ],
     "wof:id":823730401,
-    "wof:lastmodified":1472613720,
+    "wof:lastmodified":1492029267,
     "wof:name":"Barnes Lawn Svc Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

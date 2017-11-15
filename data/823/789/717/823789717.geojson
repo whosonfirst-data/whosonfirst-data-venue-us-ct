@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.187484,41.198587,-73.187484,41.198587",
     "geom:latitude":41.198587,
     "geom:longitude":-73.187484,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555443,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6D3qmLc4XO7Oo6PmShZG4l_41.198587_-73.187484@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463446417,
     "wof:geomhash":"49802140aff5f1bdc91942ae696fa556",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555443,
+            "region_id":85688629,
+            "venue_id":823789717
+        }
+    ],
     "wof:id":823789717,
-    "wof:lastmodified":1472613840,
+    "wof:lastmodified":1492042609,
     "wof:name":"Unlimited Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

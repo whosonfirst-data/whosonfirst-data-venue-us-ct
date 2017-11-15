@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.42478,41.308465,-73.42478,41.308465",
     "geom:latitude":41.308465,
     "geom:longitude":-73.42478,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85852363,
-        102084283
+        85867441,
+        102084283,
+        85852363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823670743
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
             "neighbourhood_id":85852363,
             "region_id":85688629,
             "venue_id":823670743
         }
     ],
     "wof:id":823670743,
-    "wof:lastmodified":1472613686,
+    "wof:lastmodified":1492046435,
     "wof:name":"Marters",
-    "wof:parent_id":85852363,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

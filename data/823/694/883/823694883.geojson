@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.321939,41.417667,-73.321939,41.417667",
     "geom:latitude":41.417667,
     "geom:longitude":-73.321939,
@@ -32,12 +33,7 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BIVQYQLkdXRG7a7S4Pagg_41.417667_-73.321939@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463444128,
     "wof:geomhash":"a6d760851852f223bc6bbbb262d8be8e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823694883
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823694883,
-    "wof:lastmodified":1472613701,
+    "wof:lastmodified":1492055021,
     "wof:name":"Mortgage Consultants",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

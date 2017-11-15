@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.110313,41.293506,-73.110313,41.293506",
     "geom:latitude":41.293506,
     "geom:longitude":-73.110313,
@@ -33,7 +34,14 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dNYBfxGIcHios5COjSkvW_41.293506_-73.110313@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463442836,
     "wof:geomhash":"25cb6881b0828d9a174ec1f5169bcb97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823639127
+        }
+    ],
     "wof:id":823639127,
-    "wof:lastmodified":1472613374,
+    "wof:lastmodified":1492026984,
     "wof:name":"Crabtree Body Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

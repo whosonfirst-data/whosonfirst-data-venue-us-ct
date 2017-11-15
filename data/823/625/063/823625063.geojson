@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092242,41.313956,-73.092242,41.313956",
     "geom:latitude":41.313956,
     "geom:longitude":-73.092242,
@@ -32,7 +33,14 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vZ3gt4xNpHHkJKfzDNANK_41.313956_-73.092242@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463442516,
     "wof:geomhash":"f658002b945f9069dce2ae8d9f5fcf34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823625063
+        }
+    ],
     "wof:id":823625063,
-    "wof:lastmodified":1472613369,
+    "wof:lastmodified":1492027048,
     "wof:name":"Shelton Senior Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

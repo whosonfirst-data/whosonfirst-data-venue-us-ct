@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.22399,41.402714,-73.22399,41.402714",
     "geom:latitude":41.402714,
     "geom:longitude":-73.22399,
@@ -28,7 +29,13 @@
     "sg:postcode":"06482",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IkWylaxamXzEjNSwStjv2_41.402714_-73.223990@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463439397,
     "wof:geomhash":"0fc5e9e8d15826a8a32ec61de2fed76c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823493963
+        }
+    ],
     "wof:id":823493963,
-    "wof:lastmodified":1472613245,
+    "wof:lastmodified":1492029161,
     "wof:name":"Stargaze of Conneticut LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

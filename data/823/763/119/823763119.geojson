@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.032655,41.215785,-73.032655,41.215785",
     "geom:latitude":41.215785,
     "geom:longitude":-73.032655,
@@ -29,14 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804939,
+        85820241,
         102191575,
         404495783,
         85633793,
         85930905,
         102086923,
         85688629,
-        85820241
+        85804939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +53,7 @@
             "county_id":102086923,
             "localadmin_id":404495783,
             "locality_id":85930905,
-            "neighbourhood_id":85804939,
+            "neighbourhood_id":85820241,
             "region_id":85688629,
             "venue_id":823763119
         },
@@ -62,15 +63,15 @@
             "county_id":102086923,
             "localadmin_id":404495783,
             "locality_id":85930905,
-            "neighbourhood_id":85820241,
+            "neighbourhood_id":85804939,
             "region_id":85688629,
             "venue_id":823763119
         }
     ],
     "wof:id":823763119,
-    "wof:lastmodified":1472613759,
+    "wof:lastmodified":1492064353,
     "wof:name":"Accounting Plus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

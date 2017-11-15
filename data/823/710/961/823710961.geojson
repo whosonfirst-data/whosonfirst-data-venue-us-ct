@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.171177,41.182335,-73.171177,41.182335",
     "geom:latitude":41.182335,
     "geom:longitude":-73.171177,
@@ -33,7 +34,15 @@
         "etched"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555439,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WIjQiYZsy1ai8ZsL2sXmC_41.182335_-73.171177@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463444468,
     "wof:geomhash":"91d726dd5be69b167a7acdfb0094ef9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555439,
+            "region_id":85688629,
+            "venue_id":823710961
+        }
+    ],
     "wof:id":823710961,
-    "wof:lastmodified":1472613705,
+    "wof:lastmodified":1492051888,
     "wof:name":"Printed Circuits Unlimited",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

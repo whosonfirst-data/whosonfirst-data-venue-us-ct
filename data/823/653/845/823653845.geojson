@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.175038,41.43451,-73.175038,41.43451",
     "geom:latitude":41.43451,
     "geom:longitude":-73.175038,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495795,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7U2do35rS28Js536vzNxSQ_41.434510_-73.175038@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463443165,
     "wof:geomhash":"218d7707a5520ddac3252c97b8bbb93e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495795,
+            "region_id":85688629,
+            "venue_id":823653845
+        }
+    ],
     "wof:id":823653845,
-    "wof:lastmodified":1472613429,
+    "wof:lastmodified":1492065015,
     "wof:name":"Holcomb Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.210353,41.198552,-73.210353,41.198552",
     "geom:latitude":41.198552,
     "geom:longitude":-73.210353,
@@ -28,7 +29,15 @@
     "sg:postcode":"06606",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555441,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jZAQdN4jwmtrVMUphx0Re_41.198552_-73.210353@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463444809,
     "wof:geomhash":"7a156297ca931aea1acafd2d711775a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555441,
+            "region_id":85688629,
+            "venue_id":823726245
+        }
+    ],
     "wof:id":823726245,
-    "wof:lastmodified":1472613732,
+    "wof:lastmodified":1492029069,
     "wof:name":"Pam's Variety Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

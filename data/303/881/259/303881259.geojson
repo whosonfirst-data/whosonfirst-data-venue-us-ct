@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.46321,41.148759,-73.46321,41.148759",
     "geom:latitude":41.148759,
     "geom:longitude":-73.46321,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85848785
+        85848785,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"19f0d68bcdbfbb5145641cf180217724",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85848785,
             "region_id":85688629,
             "venue_id":303881259
         }
     ],
     "wof:id":303881259,
-    "wof:lastmodified":1472606619,
+    "wof:lastmodified":1492029277,
     "wof:name":"Aircraft Finance & Marketing",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",

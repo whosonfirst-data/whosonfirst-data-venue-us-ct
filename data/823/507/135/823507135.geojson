@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.572089,41.171086,-73.572089,41.171086",
     "geom:latitude":41.171086,
     "geom:longitude":-73.572089,
@@ -28,7 +29,14 @@
     "sg:postcode":"06903",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SdJuojPStVAnPq7u4Hdfm_41.171086_-73.572089@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463439737,
     "wof:geomhash":"81eff14d51c2a6550b102a9f3b2ecd0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823507135
+        }
+    ],
     "wof:id":823507135,
-    "wof:lastmodified":1472612632,
+    "wof:lastmodified":1492040577,
     "wof:name":"Traditional Homes Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

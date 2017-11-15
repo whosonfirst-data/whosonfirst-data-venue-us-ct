@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.105343,41.538042,-73.105343,41.538042",
     "geom:latitude":41.538042,
     "geom:longitude":-73.105343,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.noahsgifts.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ACsBxCjSyl15tOXjlfJiy_41.538042_-73.105343@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463439081,
     "wof:geomhash":"99f97eaad0fce69a6b6519390b87ca39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823480075
+        }
+    ],
     "wof:id":823480075,
-    "wof:lastmodified":1472607172,
+    "wof:lastmodified":1492055047,
     "wof:name":"Noah's Collectors Gallery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

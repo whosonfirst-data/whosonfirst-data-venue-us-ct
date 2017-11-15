@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.517905,41.317829,-73.517905,41.317829",
     "geom:latitude":41.317829,
     "geom:longitude":-73.517905,
@@ -28,7 +29,13 @@
     "sg:postcode":"06877",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UvQNrTTY3TW7lDTuTVUAu_41.317829_-73.517905@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463449053,
     "wof:geomhash":"4c7af118aac65ffa72f650960439fcac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823883693
+        }
+    ],
     "wof:id":823883693,
-    "wof:lastmodified":1472613933,
+    "wof:lastmodified":1492057969,
     "wof:name":"St Ignatius Retreat House",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

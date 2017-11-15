@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.399183,41.43393,-73.399183,41.43393",
     "geom:latitude":41.43393,
     "geom:longitude":-73.399183,
@@ -29,13 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283,
         85805151,
         102191575,
         404495941,
-        85633793,
-        85930805,
-        102084283,
-        85688629
+        85930805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +47,13 @@
     "wof:created":1463453167,
     "wof:geomhash":"d1348a4769c69111dda4b8a4a1e9db73",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824050083
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":824050083,
-    "wof:lastmodified":1472611065,
+    "wof:lastmodified":1492054358,
     "wof:name":"G-III Leather Fashions Inc",
-    "wof:parent_id":85805151,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

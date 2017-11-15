@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.176133,41.498317,-73.176133,41.498317",
     "geom:latitude":41.498317,
     "geom:longitude":-73.176133,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VMaNmQ0cRvd5vWo5ae3uz_41.498317_-73.176133@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463450957,
     "wof:geomhash":"70cb9991e444f75bed30efeef9f91505",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823957667
+        }
+    ],
     "wof:id":823957667,
-    "wof:lastmodified":1472613953,
+    "wof:lastmodified":1492027029,
     "wof:name":"Carroll Lawn Maintencence",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

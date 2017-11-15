@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.384815,41.174554,-73.384815,41.174554",
     "geom:latitude":41.174554,
     "geom:longitude":-73.384815,
@@ -29,10 +30,16 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629,
+        85850221,
+        404495959,
+        85930795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +50,30 @@
     "wof:geomhash":"a11c2517820eba080605f16521082f5e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
+            "region_id":85688629,
+            "venue_id":823775507
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85850221,
             "region_id":85688629,
             "venue_id":823775507
         }
     ],
     "wof:id":823775507,
-    "wof:lastmodified":1472613776,
+    "wof:lastmodified":1492065963,
     "wof:name":"Capital Growth Partners",
-    "wof:parent_id":85809271,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

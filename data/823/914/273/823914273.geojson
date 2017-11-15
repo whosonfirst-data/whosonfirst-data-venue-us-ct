@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108583,41.537766,-73.108583,41.537766",
     "geom:latitude":41.537766,
     "geom:longitude":-73.108583,
@@ -31,7 +32,10 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bPO0uezsF5BV0FH1onXSJ_41.537766_-73.108583@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463449861,
     "wof:geomhash":"8f671fa76237a7e22186cecdf21bf72a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823914273
+        }
+    ],
     "wof:id":823914273,
-    "wof:lastmodified":1472613894,
+    "wof:lastmodified":1492026882,
     "wof:name":"Dinova's Four Corners Store",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

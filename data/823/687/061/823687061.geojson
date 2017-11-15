@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.442025,41.127151,-73.442025,41.127151",
     "geom:latitude":41.127151,
     "geom:longitude":-73.442025,
@@ -40,13 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879307,
+        420558739,
         102191575,
         404495959,
         85633793,
         85930795,
         102084283,
-        85688629
+        85688629,
+        85879307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,15 +64,25 @@
             "county_id":102084283,
             "localadmin_id":404495959,
             "locality_id":85930795,
+            "neighbourhood_id":420558739,
+            "region_id":85688629,
+            "venue_id":823687061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85879307,
             "region_id":85688629,
             "venue_id":823687061
         }
     ],
     "wof:id":823687061,
-    "wof:lastmodified":1472613666,
+    "wof:lastmodified":1492027104,
     "wof:name":"Real Time Applications of CT",
-    "wof:parent_id":85879307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

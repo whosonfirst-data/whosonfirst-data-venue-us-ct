@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092976,41.317896,-73.092976,41.317896",
     "geom:latitude":41.317896,
     "geom:longitude":-73.092976,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.newenglandstair.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vnXFpU7bOzLa3LFqAWPiW_41.317896_-73.092976@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463446671,
     "wof:geomhash":"dd6a07af7ba0c7876f212b04ebb6ff0a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823798393
+        }
+    ],
     "wof:id":823798393,
-    "wof:lastmodified":1472613800,
+    "wof:lastmodified":1492027052,
     "wof:name":"New England Stair Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

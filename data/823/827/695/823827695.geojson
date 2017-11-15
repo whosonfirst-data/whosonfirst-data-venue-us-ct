@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.216041,41.219256,-73.216041,41.219256",
     "geom:latitude":41.219256,
     "geom:longitude":-73.216041,
@@ -37,7 +38,15 @@
         "brake"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26aqMX0a2hoH9A54MPCbYq_41.219256_-73.216041@1294084077"
@@ -45,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1463447544,
     "wof:geomhash":"b4fc6eed41ccfbc2ed8cce5b33b1801a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823827695
+        }
+    ],
     "wof:id":823827695,
-    "wof:lastmodified":1472613839,
+    "wof:lastmodified":1492029132,
     "wof:name":"Brake Centers Of America/Tire",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

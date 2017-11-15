@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.416998,41.461679,-73.416998,41.461679",
     "geom:latitude":41.461679,
     "geom:longitude":-73.416998,
@@ -32,7 +33,10 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OJFihVbUQ7RBje4net5nU_41.461679_-73.416998@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463443708,
     "wof:geomhash":"517f86fc82f3a74c55709857344b0442",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823676263
+        }
+    ],
     "wof:id":823676263,
-    "wof:lastmodified":1472613672,
+    "wof:lastmodified":1492070033,
     "wof:name":"Joseph P Smith Tile Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

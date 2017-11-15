@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.657891,41.00723,-73.657891,41.00723",
     "geom:latitude":41.00723,
     "geom:longitude":-73.657891,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85808713,
+        102191575,
+        404523389,
         85633793,
-        102084283,
-        85808713
+        85978705,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"b322f552e49b3c5a883f98da37595b26",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
             "neighbourhood_id":85808713,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":320015227
         }
     ],
     "wof:id":320015227,
-    "wof:lastmodified":1472606312,
+    "wof:lastmodified":1492029246,
     "wof:name":"D M C Auto Body",
     "wof:parent_id":85808713,
     "wof:placetype":"venue",

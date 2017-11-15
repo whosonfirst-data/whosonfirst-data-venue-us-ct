@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.337517,41.163238,-73.337517,41.163238",
     "geom:latitude":41.163238,
     "geom:longitude":-73.337517,
@@ -28,7 +29,15 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lqJzJeH103onVb0DqZIab_41.163238_-73.337517@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463445191,
     "wof:geomhash":"495be9bd969bc8f774618c70f55829e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823741735
+        }
+    ],
     "wof:id":823741735,
-    "wof:lastmodified":1472613724,
+    "wof:lastmodified":1492027063,
     "wof:name":"Niche Market Enterprises LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

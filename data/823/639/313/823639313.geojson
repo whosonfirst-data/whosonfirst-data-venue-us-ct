@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108114,41.537802,-73.108114,41.537802",
     "geom:latitude":41.537802,
     "geom:longitude":-73.108114,
@@ -34,7 +35,10 @@
         "tape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kKEGVt2Mn8IEvPdXeRdPO_41.537802_-73.108114@1294084077"
@@ -42,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1463442839,
     "wof:geomhash":"0d39887fe97ed561d5d0978111797ad2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823639313
+        }
+    ],
     "wof:id":823639313,
-    "wof:lastmodified":1472613386,
+    "wof:lastmodified":1492029670,
     "wof:name":"Flicks Family Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

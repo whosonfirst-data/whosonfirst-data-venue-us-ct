@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.405921,41.459266,-73.405921,41.459266",
     "geom:latitude":41.459266,
     "geom:longitude":-73.405921,
@@ -31,7 +32,10 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yyzb8f6V0QV3uuXpwNfPh_41.459118_-73.405845@1293134755"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463453572,
     "wof:geomhash":"1deeaf7ddd3cbd5cfe72fce76af3a15a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824068315
+        }
+    ],
     "wof:id":824068315,
-    "wof:lastmodified":1472612548,
+    "wof:lastmodified":1492027125,
     "wof:name":"Mark Williams Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

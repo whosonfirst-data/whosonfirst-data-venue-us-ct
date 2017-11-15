@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.518095,41.058241,-73.518095,41.058241",
     "geom:latitude":41.058241,
     "geom:longitude":-73.518095,
@@ -31,7 +32,15 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77glOJoABks9Dn1hHnfs9a_41.058241_-73.518095@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463451720,
     "wof:geomhash":"2ca09e7e208a1fd472fba50d466ab831",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823990247
+        }
+    ],
     "wof:id":823990247,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1492054953,
     "wof:name":"G K International Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

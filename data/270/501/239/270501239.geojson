@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.468031,41.128201,-73.468031,41.128201",
     "geom:latitude":41.128201,
     "geom:longitude":-73.468031,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"3314e0ff145bf33ed6d02f9e65e29f67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":270501239
         }
     ],
     "wof:id":270501239,
-    "wof:lastmodified":1472606393,
+    "wof:lastmodified":1492029098,
     "wof:name":"Filatov Design Co",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

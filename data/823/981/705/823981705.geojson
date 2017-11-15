@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.482068,41.528499,-73.482068,41.528499",
     "geom:latitude":41.528499,
     "geom:longitude":-73.482068,
@@ -32,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_031ScTV5WtyckXqnaZslUx_41.528499_-73.482068@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463451523,
     "wof:geomhash":"c1ca8e1992333ca231c25e8877cf4dda",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":823981705
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823981705,
-    "wof:lastmodified":1472613964,
+    "wof:lastmodified":1492026869,
     "wof:name":"Dirt Works Excavation",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.55293,41.137142,-73.55293,41.137142",
     "geom:latitude":41.137142,
     "geom:longitude":-73.55293,
@@ -28,7 +29,14 @@
     "sg:postcode":"06903",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1faLiKVGMWTLDz3g0x558J_41.137142_-73.552930@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463451643,
     "wof:geomhash":"7837f75fca4aeb51e4d54ae062e7fd13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823986511
+        }
+    ],
     "wof:id":823986511,
-    "wof:lastmodified":1472613915,
+    "wof:lastmodified":1492026931,
     "wof:name":"Ehrlich Financial Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

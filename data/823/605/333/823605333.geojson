@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.921024,41.356313,-72.921024,41.356313",
     "geom:latitude":41.356313,
     "geom:longitude":-72.921024,
@@ -31,9 +32,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85885309,
+        85850561,
         102086923,
-        85850561
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,22 +47,22 @@
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85885309,
+            "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":823605333
         },
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85850561,
+            "neighbourhood_id":85885309,
             "region_id":85688629,
             "venue_id":823605333
         }
     ],
     "wof:id":823605333,
-    "wof:lastmodified":1472613367,
+    "wof:lastmodified":1491890326,
     "wof:name":"Touch Of Life Massage",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

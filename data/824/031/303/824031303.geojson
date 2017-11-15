@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197496,41.267264,-73.197496,41.267264",
     "geom:latitude":41.267264,
     "geom:longitude":-73.197496,
@@ -31,7 +32,15 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SLVJ9Lp5ixVA2ySSXjAIW_41.267264_-73.197496@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463452701,
     "wof:geomhash":"c5c8e44ca34df7e8ae6b63fbd4a3600d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":824031303
+        }
+    ],
     "wof:id":824031303,
-    "wof:lastmodified":1472609130,
+    "wof:lastmodified":1492027133,
     "wof:name":"Zamary's Catering Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

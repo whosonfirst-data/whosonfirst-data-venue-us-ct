@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.104877,41.590205,-73.104877,41.590205",
     "geom:latitude":41.590205,
     "geom:longitude":-73.104877,
@@ -28,7 +29,15 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_42BBwqUTR3BR0UTgje2Ixq_41.590205_-73.104877@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463441736,
     "wof:geomhash":"a4d643dfb8ac13fd3cc37d790d566a70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823593691
+        }
+    ],
     "wof:id":823593691,
-    "wof:lastmodified":1472613397,
+    "wof:lastmodified":1492061633,
     "wof:name":"John Charbonneau & Assoc LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

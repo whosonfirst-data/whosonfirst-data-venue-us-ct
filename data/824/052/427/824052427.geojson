@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.931561,41.350869,-72.931561,41.350869",
     "geom:latitude":41.350869,
     "geom:longitude":-72.931561,
@@ -37,9 +38,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85885309,
+        85850561,
         102086923,
-        85850561
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,22 +53,22 @@
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85885309,
+            "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":824052427
         },
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85850561,
+            "neighbourhood_id":85885309,
             "region_id":85688629,
             "venue_id":824052427
         }
     ],
     "wof:id":824052427,
-    "wof:lastmodified":1472613231,
+    "wof:lastmodified":1491890299,
     "wof:name":"Smoker's Discount World",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

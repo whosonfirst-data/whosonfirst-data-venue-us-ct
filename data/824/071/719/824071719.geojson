@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.255231,41.30563,-73.255231,41.30563",
     "geom:latitude":41.30563,
     "geom:longitude":-73.255231,
@@ -26,10 +27,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,15 +44,18 @@
     "wof:geomhash":"d710fb014ad6b0d02c9aca798c5d726e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":824071719
         }
     ],
     "wof:id":824071719,
-    "wof:lastmodified":1472613251,
+    "wof:lastmodified":1492065041,
     "wof:name":"Sippin Brothers Oil Co",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.374894,41.387371,-73.374894,41.387371",
     "geom:latitude":41.387371,
     "geom:longitude":-73.374894,
@@ -33,12 +34,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28HMIpVUrj5laVS8ufavaj_41.387371_-73.374894@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463449225,
     "wof:geomhash":"f7e52e62850a0db833b53c3ec63c9867",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823890615
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823890615,
-    "wof:lastmodified":1472613940,
+    "wof:lastmodified":1492027105,
     "wof:name":"Home Dimensions Inc",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

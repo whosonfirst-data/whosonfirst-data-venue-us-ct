@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.500156,41.572284,-73.500156,41.572284",
     "geom:latitude":41.572284,
     "geom:longitude":-73.500156,
@@ -33,7 +34,13 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yijsrcCiz7y5dsnANBqS8_41.572284_-73.500156@1294084077"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1463443024,
     "wof:geomhash":"304f49278b713127d88857fa9da43638",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":823647293
+        }
+    ],
     "wof:id":823647293,
-    "wof:lastmodified":1472613404,
+    "wof:lastmodified":1492026968,
     "wof:name":"Sherman Committee On Aging",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.219307,41.217252,-73.219307,41.217252",
     "geom:latitude":41.217252,
     "geom:longitude":-73.219307,
@@ -31,7 +32,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zLGJkHKd81EU6t9vrByh6_41.217252_-73.219307@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463445619,
     "wof:geomhash":"f1ee584a18f580502bff2981f3570f64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823760119
+        }
+    ],
     "wof:id":823760119,
-    "wof:lastmodified":1472613750,
+    "wof:lastmodified":1492029130,
     "wof:name":"Family Oil Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

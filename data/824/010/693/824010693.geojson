@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.960669,41.327708,-72.960669,41.327708",
     "geom:latitude":41.327708,
     "geom:longitude":-72.960669,
@@ -39,7 +40,8 @@
         85633793,
         85930897,
         102086923,
-        85688629
+        85688629,
+        85879157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +60,19 @@
             "neighbourhood_id":85879159,
             "region_id":85688629,
             "venue_id":824010693
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85879157,
+            "region_id":85688629,
+            "venue_id":824010693
         }
     ],
     "wof:id":824010693,
-    "wof:lastmodified":1472607773,
+    "wof:lastmodified":1492077910,
     "wof:name":"Mirabelle",
-    "wof:parent_id":85879159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

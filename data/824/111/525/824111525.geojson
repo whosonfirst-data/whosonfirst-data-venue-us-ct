@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.520752,41.55444,-73.520752,41.55444",
     "geom:latitude":41.55444,
     "geom:longitude":-73.520752,
@@ -31,7 +32,13 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mJQwPCIu4tKvtaNckNZNn_41.554440_-73.520752@1303262246"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463454580,
     "wof:geomhash":"7cc086f470d1b2719b57fd27ee47d171",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":824111525
+        }
+    ],
     "wof:id":824111525,
-    "wof:lastmodified":1472613304,
+    "wof:lastmodified":1492062400,
     "wof:name":"Barnes Hill Funding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.459026,41.134176,-73.459026,41.134176",
     "geom:latitude":41.134176,
     "geom:longitude":-73.459026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"290 New Canaan Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -33,33 +35,24 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879307,
+        85856029,
         102191575,
         404495959,
         85633793,
         85930795,
         102084283,
         85688629,
-        85856029
+        85879307
     ],
+    "wof:brand_id":1125153633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jSb6UUlnLwS9i6BI3gcxZ_41.134176_-73.459026@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443457,
-    "wof:geomhash":"db3731b8caec36cbbc4ffc7890ad0e68",
+    "wof:geomhash":"844cbe24ceb12d07def11f40c4f3399e",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084283,
-            "localadmin_id":404495959,
-            "locality_id":85930795,
-            "neighbourhood_id":85879307,
-            "region_id":85688629,
-            "venue_id":823665149
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -69,12 +62,22 @@
             "neighbourhood_id":85856029,
             "region_id":85688629,
             "venue_id":823665149
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85879307,
+            "region_id":85688629,
+            "venue_id":823665149
         }
     ],
     "wof:id":823665149,
-    "wof:lastmodified":1472613660,
+    "wof:lastmodified":1510695777,
     "wof:name":"National Guard Recruiter",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

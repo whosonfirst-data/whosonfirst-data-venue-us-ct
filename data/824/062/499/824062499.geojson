@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.146089,41.257171,-73.146089,41.257171",
     "geom:latitude":41.257171,
     "geom:longitude":-73.146089,
@@ -32,7 +33,15 @@
         "trading"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555503,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lfk2zTQv6jxYvGPaRGwcP_41.257171_-73.146089@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463453441,
     "wof:geomhash":"dc45aa7d18a3cd4327d22d6a880ab757",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":824062499
+        }
+    ],
     "wof:id":824062499,
-    "wof:lastmodified":1472613234,
+    "wof:lastmodified":1492027140,
     "wof:name":"Trading Support Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

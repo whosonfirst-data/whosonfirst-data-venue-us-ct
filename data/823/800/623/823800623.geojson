@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.363776,41.138942,-73.363776,41.138942",
     "geom:latitude":41.138942,
     "geom:longitude":-73.363776,
@@ -40,7 +41,8 @@
         85633793,
         85930969,
         102084283,
-        85688629
+        85688629,
+        85888507
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,12 +61,22 @@
             "neighbourhood_id":85847197,
             "region_id":85688629,
             "venue_id":823800623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85888507,
+            "region_id":85688629,
+            "venue_id":823800623
         }
     ],
     "wof:id":823800623,
-    "wof:lastmodified":1472613818,
+    "wof:lastmodified":1492027150,
     "wof:name":"King's Service Ctr",
-    "wof:parent_id":85847197,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

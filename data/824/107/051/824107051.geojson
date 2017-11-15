@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.162041,41.496349,-73.162041,41.496349",
     "geom:latitude":41.496349,
     "geom:longitude":-73.162041,
@@ -49,7 +50,13 @@
     ],
     "sg:website":"http://www.crowneplaza.com/southbury",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JXKw3pPpb1j3VsnCxaKfb_41.496349_-73.162041@1303262246"
@@ -57,9 +64,18 @@
     "wof:country":"US",
     "wof:created":1463454487,
     "wof:geomhash":"1dd7de15037c6f8db2f89ca661d27460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":824107051
+        }
+    ],
     "wof:id":824107051,
-    "wof:lastmodified":1472613275,
+    "wof:lastmodified":1492062400,
     "wof:name":"Crowne Plaza Southbury Hotel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

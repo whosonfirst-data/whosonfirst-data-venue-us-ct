@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.121706,41.247624,-73.121706,41.247624",
     "geom:latitude":41.247624,
     "geom:longitude":-73.121706,
@@ -26,7 +27,14 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SXwihwulcaB6QVOf64grh_41.247624_-73.121706@1294084077"
@@ -34,9 +42,19 @@
     "wof:country":"US",
     "wof:created":1463453653,
     "wof:geomhash":"6d0286305d13fa8e0086269450063bc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":824071481
+        }
+    ],
     "wof:id":824071481,
-    "wof:lastmodified":1472613087,
+    "wof:lastmodified":1492065041,
     "wof:name":"Peter Fedorko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

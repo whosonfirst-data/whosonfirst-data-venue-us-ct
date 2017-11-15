@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108987,41.562073,-73.108987,41.562073",
     "geom:latitude":41.562073,
     "geom:longitude":-73.108987,
@@ -33,7 +34,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tnaTC9a5VgANKSLCiVQmP_41.562073_-73.108987@1294084077"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1463450244,
     "wof:geomhash":"4f8b47423b20b765fb223fe41bd0a227",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823930157
+        }
+    ],
     "wof:id":823930157,
-    "wof:lastmodified":1472613883,
+    "wof:lastmodified":1492026882,
     "wof:name":"Harris Security Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

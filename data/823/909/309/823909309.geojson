@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.887437,41.305919,-72.887437,41.305919",
     "geom:latitude":41.305919,
     "geom:longitude":-72.887437,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555641,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_746gbFu8TdtiHkZT5n4b9l_41.305919_-72.887437@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463449726,
     "wof:geomhash":"d94c1838917b9cf62783b55671ceadb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":420555641,
+            "region_id":85688629,
+            "venue_id":823909309
+        }
+    ],
     "wof:id":823909309,
-    "wof:lastmodified":1472613905,
+    "wof:lastmodified":1492054926,
     "wof:name":"Alfresco Landscape & Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

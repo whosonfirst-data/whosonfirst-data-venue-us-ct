@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.372455,41.36775,-73.372455,41.36775",
     "geom:latitude":41.36775,
     "geom:longitude":-73.372455,
@@ -31,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wNYbmZsaN8Am5sKheByhB_41.367750_-73.372455@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463450122,
     "wof:geomhash":"d3c9d66dd38c60a1222c87fea313e18e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823924783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823924783,
-    "wof:lastmodified":1472613926,
+    "wof:lastmodified":1492027100,
     "wof:name":"Horizon Elearning",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

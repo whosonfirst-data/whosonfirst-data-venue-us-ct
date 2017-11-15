@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.488507,41.133034,-73.488507,41.133034",
     "geom:latitude":41.133034,
     "geom:longitude":-73.488507,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"9ebcbb493c0224065248f0e46304af1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":286490717
         }
     ],
     "wof:id":286490717,
-    "wof:lastmodified":1472606460,
+    "wof:lastmodified":1492055060,
     "wof:name":"Keyman Mobile Locksmith Svc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

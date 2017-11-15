@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.275572,41.432175,-73.275572,41.432175",
     "geom:latitude":41.432175,
     "geom:longitude":-73.275572,
@@ -32,12 +33,7 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iICCRc9Zefy58fmuU72V1_41.432175_-73.275572@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463445040,
     "wof:geomhash":"01ee98635a9b75cb69d3407eb1007bde",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823734761
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823734761,
-    "wof:lastmodified":1472613738,
+    "wof:lastmodified":1492027073,
     "wof:name":"CSW Assoc Inc",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.33753,41.513487,-73.33753,41.513487",
     "geom:latitude":41.513487,
     "geom:longitude":-73.33753,
@@ -31,7 +32,13 @@
         "lawn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496015,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74xGReefR7JI29uCJk12jB_41.513487_-73.337530@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463453223,
     "wof:geomhash":"4027efe7cc3489bcdcacd63594d1e406",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496015,
+            "region_id":85688629,
+            "venue_id":824052661
+        }
+    ],
     "wof:id":824052661,
-    "wof:lastmodified":1472613244,
+    "wof:lastmodified":1492054358,
     "wof:name":"Campbell Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

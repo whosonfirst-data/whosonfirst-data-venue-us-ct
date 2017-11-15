@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.48637,41.575357,-73.48637,41.575357",
     "geom:latitude":41.575357,
     "geom:longitude":-73.48637,
@@ -28,7 +29,13 @@
     "sg:postcode":"06784",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tO44pawj6Td6nVQkmgvLu_41.575357_-73.486370@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463443622,
     "wof:geomhash":"504ca4ef4d1e6e2ea2e4ed748009b19a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":823672227
+        }
+    ],
     "wof:id":823672227,
-    "wof:lastmodified":1472613669,
+    "wof:lastmodified":1492055014,
     "wof:name":"R S Wey Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

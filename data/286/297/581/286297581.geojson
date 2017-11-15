@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.508326,41.130251,-73.508326,41.130251",
     "geom:latitude":41.130251,
     "geom:longitude":-73.508326,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"ad1130f45536b053f5838c8e52f8abd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":286297581
         }
     ],
     "wof:id":286297581,
-    "wof:lastmodified":1472606494,
+    "wof:lastmodified":1492029099,
     "wof:name":"Jacob T Chachkes MD PC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

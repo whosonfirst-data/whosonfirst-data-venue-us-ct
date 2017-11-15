@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.235269,41.38856,-73.235269,41.38856",
     "geom:latitude":41.38856,
     "geom:longitude":-73.235269,
@@ -35,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629,
+        85826573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +54,27 @@
     "wof:geomhash":"9c066c0544c69c3f42429a103752687f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
+            "region_id":85688629,
+            "venue_id":823701647
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85826573,
             "region_id":85688629,
             "venue_id":823701647
         }
     ],
     "wof:id":823701647,
-    "wof:lastmodified":1472613694,
+    "wof:lastmodified":1492029168,
     "wof:name":"Helix Precision Systems LLC",
-    "wof:parent_id":85845381,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.09353,41.532859,-73.09353,41.532859",
     "geom:latitude":41.532859,
     "geom:longitude":-73.09353,
@@ -28,7 +29,13 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NC74c81ZsZ2TxAEfn1gFf_41.532859_-73.093530@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463444117,
     "wof:geomhash":"2dee74927ff1092cf46a125b4df60f70",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823694359
+        }
+    ],
     "wof:id":823694359,
-    "wof:lastmodified":1472613676,
+    "wof:lastmodified":1492026880,
     "wof:name":"Middlebury Chiropractic Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.171906,41.50563,-73.171906,41.50563",
     "geom:latitude":41.50563,
     "geom:longitude":-73.171906,
@@ -32,7 +33,13 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rrSlISueBjg9vaF2onjaP_41.505630_-73.171906@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463446701,
     "wof:geomhash":"62d8b7beb01103c3c7c3591417fda8c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823799489
+        }
+    ],
     "wof:id":823799489,
-    "wof:lastmodified":1472613799,
+    "wof:lastmodified":1492029205,
     "wof:name":"SMB Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

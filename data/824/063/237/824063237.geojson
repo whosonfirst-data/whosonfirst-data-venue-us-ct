@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.08315,41.308885,-73.08315,41.308885",
     "geom:latitude":41.308885,
     "geom:longitude":-73.08315,
@@ -33,7 +34,14 @@
         "video"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cI4lmwCQxonU4Htuh06pA_41.308885_-73.083150@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463453456,
     "wof:geomhash":"bff4951a644fdfbea4c88baa24924803",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":824063237
+        }
+    ],
     "wof:id":824063237,
-    "wof:lastmodified":1472612936,
+    "wof:lastmodified":1492055138,
     "wof:name":"Sight and Sound Entrmt LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

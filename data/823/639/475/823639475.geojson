@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.661092,41.003341,-73.661092,41.003341",
     "geom:latitude":41.003341,
     "geom:longitude":-73.661092,
@@ -32,7 +33,15 @@
         "referral"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4npk3AGd46SaIxbKbJG1nb_41.003341_-73.661092@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463442843,
     "wof:geomhash":"358d538d2baa51438b9b6e55ae0e8bc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823639475
+        }
+    ],
     "wof:id":823639475,
-    "wof:lastmodified":1472613398,
+    "wof:lastmodified":1492062330,
     "wof:name":"Jeffrey D Melagrano CPA PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

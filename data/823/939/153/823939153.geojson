@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.479711,41.635273,-73.479711,41.635273",
     "geom:latitude":41.635273,
     "geom:longitude":-73.479711,
@@ -32,7 +33,13 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496031,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vBwFYgLCjTTF3ETwB51TZ_41.635273_-73.479711@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463450498,
     "wof:geomhash":"8f809625efb919d157719c421b87968f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496031,
+            "region_id":85688629,
+            "venue_id":823939153
+        }
+    ],
     "wof:id":823939153,
-    "wof:lastmodified":1472613889,
+    "wof:lastmodified":1492062398,
     "wof:name":"Genesys Dtp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

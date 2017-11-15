@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.523007,41.056058,-73.523007,41.056058",
     "geom:latitude":41.056058,
     "geom:longitude":-73.523007,
@@ -38,7 +39,15 @@
     ],
     "sg:website":"www.jcbdistributors.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UEJso3zLekhDkoMqubxz1_41.056058_-73.523007@1294084077"
@@ -46,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1463449391,
     "wof:geomhash":"9e323e7885f5c4a2b181a8af4e507f50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823898017
+        }
+    ],
     "wof:id":823898017,
-    "wof:lastmodified":1472613871,
+    "wof:lastmodified":1492054951,
     "wof:name":"JCB Furniture & Carpet",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

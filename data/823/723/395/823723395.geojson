@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.288812,41.389996,-73.288812,41.389996",
     "geom:latitude":41.389996,
     "geom:longitude":-73.288812,
@@ -32,12 +33,7 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1b20jTAthX4EaOoJrTLV1C_41.389996_-73.288812@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463444735,
     "wof:geomhash":"bf020ac91300c3f017689981fed73301",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823723395
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823723395,
-    "wof:lastmodified":1472613710,
+    "wof:lastmodified":1492062284,
     "wof:name":"Clock Shop",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

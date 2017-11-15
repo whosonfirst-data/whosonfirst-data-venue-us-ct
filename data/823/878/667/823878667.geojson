@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.39474,41.459173,-73.39474,41.459173",
     "geom:latitude":41.459173,
     "geom:longitude":-73.39474,
@@ -32,7 +33,10 @@
         "arrangement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16BfSt6ft39WTFTgFV4peW_41.459173_-73.394740@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463448943,
     "wof:geomhash":"e167aa98a9956cc73590eaa4ea50f46a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823878667
+        }
+    ],
     "wof:id":823878667,
-    "wof:lastmodified":1472613909,
+    "wof:lastmodified":1492027122,
     "wof:name":"UPS",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

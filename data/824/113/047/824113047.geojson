@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.410873,41.478458,-73.410873,41.478458",
     "geom:latitude":41.478458,
     "geom:longitude":-73.410873,
@@ -41,7 +42,10 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ny2OrkN9QQDrHPDanIVA5_41.478458_-73.410873@1303262247"
@@ -49,11 +53,17 @@
     "wof:country":"US",
     "wof:created":1463454619,
     "wof:geomhash":"13165513234ec7c15b3fa0c7fd37814d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824113047
+        }
+    ],
     "wof:id":824113047,
-    "wof:lastmodified":1472613314,
+    "wof:lastmodified":1492054359,
     "wof:name":"American Lawn Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

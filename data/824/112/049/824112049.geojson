@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.318558,41.64045,-73.318558,41.64045",
     "geom:latitude":41.64045,
     "geom:longitude":-73.318558,
@@ -29,7 +30,10 @@
     "sg:province":"CT",
     "sg:website":"http://www.ifp-center.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YqtEdlx9ohuKrcVJCAzlM_41.640450_-73.318558@1303262246"
@@ -37,11 +41,17 @@
     "wof:country":"US",
     "wof:created":1463454595,
     "wof:geomhash":"96f24e313fdcbf6a5a7112138a3eaef9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":824112049
+        }
+    ],
     "wof:id":824112049,
-    "wof:lastmodified":1472613317,
+    "wof:lastmodified":1492062355,
     "wof:name":"Royal Alliance Associates, Inc.",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

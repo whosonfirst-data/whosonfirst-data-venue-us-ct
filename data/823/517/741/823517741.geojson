@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.184387,41.230925,-73.184387,41.230925",
     "geom:latitude":41.230925,
     "geom:longitude":-73.184387,
@@ -32,7 +33,15 @@
         "crime"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555505,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rELUzPYwBGvE7SbEEvjZM_41.230925_-73.184387@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463439974,
     "wof:geomhash":"bc97840151217c5a71c03c2607d9f702",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555505,
+            "region_id":85688629,
+            "venue_id":823517741
+        }
+    ],
     "wof:id":823517741,
-    "wof:lastmodified":1472613265,
+    "wof:lastmodified":1492029123,
     "wof:name":"Bridgeport Pal",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

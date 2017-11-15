@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.219551,41.26341,-73.219551,41.26341",
     "geom:latitude":41.26341,
     "geom:longitude":-73.219551,
@@ -31,7 +32,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555511,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GWs1H4GhvNlx6oiIgr5ek_41.263410_-73.219551@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463440751,
     "wof:geomhash":"63b7e421a1f642816f010eef55584d21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555511,
+            "region_id":85688629,
+            "venue_id":823551917
+        }
+    ],
     "wof:id":823551917,
-    "wof:lastmodified":1472613358,
+    "wof:lastmodified":1492061703,
     "wof:name":"Jeffrey Sternberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

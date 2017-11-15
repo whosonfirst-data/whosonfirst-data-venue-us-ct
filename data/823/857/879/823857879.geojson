@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.105343,41.538042,-73.105343,41.538042",
     "geom:latitude":41.538042,
     "geom:longitude":-73.105343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"530 Middlebury Rd",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -33,19 +35,29 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
+    "wof:brand_id":1125150235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R8BiPSX1emugnI0t0l6Wz_41.538042_-73.105343@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463448445,
-    "wof:geomhash":"99f97eaad0fce69a6b6519390b87ca39",
-    "wof:hierarchy":[],
+    "wof:geomhash":"47cbbb490436908279e8b8cde04156c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823857879
+        }
+    ],
     "wof:id":823857879,
-    "wof:lastmodified":1472613850,
+    "wof:lastmodified":1510696765,
     "wof:name":"GMAC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

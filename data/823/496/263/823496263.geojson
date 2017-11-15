@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.665751,40.995728,-73.665751,40.995728",
     "geom:latitude":40.995728,
     "geom:longitude":-73.665751,
@@ -32,7 +33,15 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JQoVEvO8IxXWksq5qtbfr_40.995728_-73.665751@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463439463,
     "wof:geomhash":"b4e3a75d0a3fea168f3e2412d181721c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823496263
+        }
+    ],
     "wof:id":823496263,
-    "wof:lastmodified":1472610990,
+    "wof:lastmodified":1492029263,
     "wof:name":"CCM Auto Repairs Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

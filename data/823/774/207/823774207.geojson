@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.124772,41.179236,-73.124772,41.179236",
     "geom:latitude":41.179236,
     "geom:longitude":-73.124772,
@@ -31,7 +32,14 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LpttIryKjAG4HslXHEKX8_41.179236_-73.124772@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463445934,
     "wof:geomhash":"37133ea2b716f5e62d10a1bd062b0bf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823774207
+        }
+    ],
     "wof:id":823774207,
-    "wof:lastmodified":1472613778,
+    "wof:lastmodified":1492029183,
     "wof:name":"R F Weston Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

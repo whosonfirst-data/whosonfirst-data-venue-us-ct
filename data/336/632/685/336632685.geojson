@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.503418,41.134635,-73.503418,41.134635",
     "geom:latitude":41.134635,
     "geom:longitude":-73.503418,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"11d704af211c23ed0ebd2b9ea7809648",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":336632685
         }
     ],
     "wof:id":336632685,
-    "wof:lastmodified":1472606489,
+    "wof:lastmodified":1492029098,
     "wof:name":"Ash Tree Group LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

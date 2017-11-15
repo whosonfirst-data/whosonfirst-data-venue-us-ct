@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.405093,41.458093,-73.405093,41.458093",
     "geom:latitude":41.458093,
     "geom:longitude":-73.405093,
@@ -32,7 +33,10 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2o1kZYIVTibuMlnxj6ldwX_41.458093_-73.405093@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463453540,
     "wof:geomhash":"040ff0c6408f57a51547bb9edf0bc82b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824066763
+        }
+    ],
     "wof:id":824066763,
-    "wof:lastmodified":1472613247,
+    "wof:lastmodified":1492027125,
     "wof:name":"Angels Visiting Assistance Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

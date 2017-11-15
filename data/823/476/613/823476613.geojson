@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.510881,41.058244,-73.510881,41.058244",
     "geom:latitude":41.058244,
     "geom:longitude":-73.510881,
@@ -31,7 +32,15 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZZ1bSxcJToINF8fwEbFnV_41.058244_-73.510881@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463438993,
     "wof:geomhash":"ccb8c1d0d2e40e15aa03bd9cf97236e2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823476613
+        }
+    ],
     "wof:id":823476613,
-    "wof:lastmodified":1472607921,
+    "wof:lastmodified":1492055003,
     "wof:name":"Faith Lighthouse Church/Cons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

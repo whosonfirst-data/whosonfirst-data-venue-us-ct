@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.358969,41.299896,-73.358969,41.299896",
     "geom:latitude":41.299896,
     "geom:longitude":-73.358969,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85847097,
-        102084283
+        85867441,
+        102084283,
+        85847097
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823484659
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
             "neighbourhood_id":85847097,
             "region_id":85688629,
             "venue_id":823484659
         }
     ],
     "wof:id":823484659,
-    "wof:lastmodified":1472608469,
+    "wof:lastmodified":1492055015,
     "wof:name":"Jean Tompkins Interiors",
-    "wof:parent_id":85847097,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

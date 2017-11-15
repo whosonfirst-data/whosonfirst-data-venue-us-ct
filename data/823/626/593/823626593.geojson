@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.216909,41.237412,-73.216909,41.237412",
     "geom:latitude":41.237412,
     "geom:longitude":-73.216909,
@@ -32,7 +33,15 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6G4G9m3vfHxMnjh9mM3v4O_41.237412_-73.216909@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463442544,
     "wof:geomhash":"8cc2c5f7af6eb1852558dc24f7a262e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555499,
+            "region_id":85688629,
+            "venue_id":823626593
+        }
+    ],
     "wof:id":823626593,
-    "wof:lastmodified":1472613402,
+    "wof:lastmodified":1492029076,
     "wof:name":"Creative Promotions LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

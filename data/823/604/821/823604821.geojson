@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.398594,41.485143,-73.398594,41.485143",
     "geom:latitude":41.485143,
     "geom:longitude":-73.398594,
@@ -28,7 +29,13 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F4w9AIiXoAH8nCiG7w9vo_41.485143_-73.398594@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463442018,
     "wof:geomhash":"df86d8818e41d274037da75fef82cf1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":823604821
+        }
+    ],
     "wof:id":823604821,
-    "wof:lastmodified":1472613408,
+    "wof:lastmodified":1492027119,
     "wof:name":"Handy Dandy Handyman Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

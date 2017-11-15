@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.69292,41.105242,-73.69292,41.105242",
     "geom:latitude":41.105242,
     "geom:longitude":-73.69292,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85837667
+        85837667,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"a1683f71dd2bb6eb77c14f699b70760f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85837667,
             "region_id":85688629,
             "venue_id":354113625
         }
     ],
     "wof:id":354113625,
-    "wof:lastmodified":1472606343,
+    "wof:lastmodified":1492029248,
     "wof:name":"Audubon Ecology Workshop",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",

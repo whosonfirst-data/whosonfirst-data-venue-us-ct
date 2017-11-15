@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.671076,40.989367,-73.671076,40.989367",
     "geom:latitude":40.989367,
     "geom:longitude":-73.671076,
@@ -32,7 +33,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530421,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BuwB9V8cUROa6mIsV92Ft_40.989367_-73.671076@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463450225,
     "wof:geomhash":"90231a0e03d597a6634c6b93dde9da6f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530421,
+            "region_id":85688543,
+            "venue_id":823929137
+        }
+    ],
     "wof:id":823929137,
-    "wof:lastmodified":1472613881,
+    "wof:lastmodified":1492026900,
     "wof:name":"Midland Truck & Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

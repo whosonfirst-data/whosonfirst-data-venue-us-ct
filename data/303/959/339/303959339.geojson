@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.492749,41.148081,-73.492749,41.148081",
     "geom:latitude":41.148081,
     "geom:longitude":-73.492749,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"1e8d31cdedc1759e87ef2d1fb7976bd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":303959339
         }
     ],
     "wof:id":303959339,
-    "wof:lastmodified":1472606637,
+    "wof:lastmodified":1492054350,
     "wof:name":"Douglas Keith",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

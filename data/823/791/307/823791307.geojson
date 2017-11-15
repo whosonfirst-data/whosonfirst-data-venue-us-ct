@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.196894,41.190646,-73.196894,41.190646",
     "geom:latitude":41.190646,
     "geom:longitude":-73.196894,
@@ -32,7 +33,15 @@
         "paper"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kLNmuC2sH4rYJ7eCm2ggI_41.190646_-73.196894@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463446461,
     "wof:geomhash":"8871742d57c7011f58a7087281d66456",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823791307
+        }
+    ],
     "wof:id":823791307,
-    "wof:lastmodified":1472613774,
+    "wof:lastmodified":1492029070,
     "wof:name":"Housatonic Paper & Supply Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

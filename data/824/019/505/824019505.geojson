@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.287116,41.391974,-73.287116,41.391974",
     "geom:latitude":41.391974,
     "geom:longitude":-73.287116,
@@ -32,12 +33,7 @@
         "washing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qUH3H2wHit3HJElgI3k61_41.391974_-73.287116@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463452412,
     "wof:geomhash":"5acf06daf6ffefe794d0e5efb38328b2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":824019505
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824019505,
-    "wof:lastmodified":1472607875,
+    "wof:lastmodified":1492062287,
     "wof:name":"Newtown Car Wash",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.441656,41.746855,-73.441656,41.746855",
     "geom:latitude":41.746855,
     "geom:longitude":-73.441656,
@@ -32,7 +33,10 @@
         "garbage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JI5YAkTgd3JcyWzEWf3wV_41.746855_-73.441656@1303262246"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463454571,
     "wof:geomhash":"aa72b1108065eccab3fd948fd6e18856",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555585,
+            "venue_id":824111043
+        }
+    ],
     "wof:id":824111043,
-    "wof:lastmodified":1472613290,
+    "wof:lastmodified":1492051704,
     "wof:name":"Five Star Carting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

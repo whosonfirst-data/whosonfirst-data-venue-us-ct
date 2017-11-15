@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.195426,41.244247,-73.195426,41.244247",
     "geom:latitude":41.244247,
     "geom:longitude":-73.195426,
@@ -41,7 +42,15 @@
         "salad"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v3jt4BuyVdfi6Ka5ej2Bl_41.244247_-73.195426@1299784598"
@@ -49,11 +58,22 @@
     "wof:country":"US",
     "wof:created":1463453827,
     "wof:geomhash":"f3d15fdf5071b58e9207d57da31d9ca4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":824078795
+        }
+    ],
     "wof:id":824078795,
-    "wof:lastmodified":1472613256,
+    "wof:lastmodified":1492055139,
     "wof:name":"Bruegger's Bagel Bakery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

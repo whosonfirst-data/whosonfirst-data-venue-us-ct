@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.330029,41.431727,-73.330029,41.431727",
     "geom:latitude":41.431727,
     "geom:longitude":-73.330029,
@@ -32,12 +33,7 @@
         "electrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rFgzKEsEnJeFJ1oTHX0i9_41.431727_-73.330029@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463439572,
     "wof:geomhash":"32ad42f78a5d3a481a3f3928e7bd0677",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823499947
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823499947,
-    "wof:lastmodified":1472613264,
+    "wof:lastmodified":1492055148,
     "wof:name":"R Squared Systems LLC",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

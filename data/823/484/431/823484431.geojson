@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.941423,41.339496,-72.941423,41.339496",
     "geom:latitude":41.339496,
     "geom:longitude":-72.941423,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
-        85885309,
-        102086923,
         85879159,
         102191575,
         404495787,
-        85930897
+        85633793,
+        85930897,
+        102086923,
+        85688629,
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +51,6 @@
     "wof:geomhash":"b978e5a00e410964b3c1b5b20e963af6",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":823484431
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
@@ -65,12 +59,19 @@
             "neighbourhood_id":85879159,
             "region_id":85688629,
             "venue_id":823484431
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823484431
         }
     ],
     "wof:id":823484431,
-    "wof:lastmodified":1472608236,
+    "wof:lastmodified":1491936226,
     "wof:name":"Marios Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

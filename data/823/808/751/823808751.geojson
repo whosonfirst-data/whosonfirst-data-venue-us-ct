@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.02976,41.225159,-73.02976,41.225159",
     "geom:latitude":41.225159,
     "geom:longitude":-73.02976,
@@ -39,7 +40,8 @@
         85930905,
         102086923,
         85688629,
-        85819849
+        85819849,
+        85834207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,12 +70,22 @@
             "neighbourhood_id":85819849,
             "region_id":85688629,
             "venue_id":823808751
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":85834207,
+            "region_id":85688629,
+            "venue_id":823808751
         }
     ],
     "wof:id":823808751,
-    "wof:lastmodified":1472613831,
+    "wof:lastmodified":1492029191,
     "wof:name":"Pop's Donuts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

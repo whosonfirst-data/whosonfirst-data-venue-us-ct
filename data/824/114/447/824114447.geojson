@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.430224,41.450682,-73.430224,41.450682",
     "geom:latitude":41.450682,
     "geom:longitude":-73.430224,
@@ -38,7 +39,15 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555453,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19RUNk15M7jE0xKoNdzTXA_41.450682_-73.430224@1303262247"
@@ -46,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1463454647,
     "wof:geomhash":"914d750c5d65df669da5bc8302a888b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555453,
+            "region_id":85688629,
+            "venue_id":824114447
+        }
+    ],
     "wof:id":824114447,
-    "wof:lastmodified":1472613313,
+    "wof:lastmodified":1492054596,
     "wof:name":"Candlewood Park Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.279267,41.276713,-73.279267,41.276713",
     "geom:latitude":41.276713,
     "geom:longitude":-73.279267,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"ca41064ec413d3421ea8c9e7af4efaa4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":824036873
         }
     ],
     "wof:id":824036873,
-    "wof:lastmodified":1472609909,
+    "wof:lastmodified":1492068788,
     "wof:name":"Streetime Technologies LLC",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

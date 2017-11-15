@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.519782,41.119851,-73.519782,41.119851",
     "geom:latitude":41.119851,
     "geom:longitude":-73.519782,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85842701
+        85842701,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"e2f05c1983e1f9eede1e04811d7ac625",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85842701,
             "region_id":85688629,
             "venue_id":353489185
         }
     ],
     "wof:id":353489185,
-    "wof:lastmodified":1472606410,
+    "wof:lastmodified":1492029042,
     "wof:name":"Castle Hill Designs",
     "wof:parent_id":85842701,
     "wof:placetype":"venue",

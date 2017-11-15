@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.504139,41.144697,-73.504139,41.144697",
     "geom:latitude":41.144697,
     "geom:longitude":-73.504139,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"15e9b7461eef3e375e04f8583689839e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":253531091
         }
     ],
     "wof:id":253531091,
-    "wof:lastmodified":1472606242,
+    "wof:lastmodified":1492055062,
     "wof:name":"Brotherhood Kielland Sherri",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

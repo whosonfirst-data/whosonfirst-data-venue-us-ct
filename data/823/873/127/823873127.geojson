@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.260419,41.219725,-73.260419,41.219725",
     "geom:latitude":41.219725,
     "geom:longitude":-73.260419,
@@ -31,12 +32,7 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xeML1A0diBJuUWZKgHpwa_41.219725_-73.260419@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463448808,
     "wof:geomhash":"522b91370edd4ad3737a8418e9aa6954",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823873127
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823873127,
-    "wof:lastmodified":1472613888,
+    "wof:lastmodified":1492068776,
     "wof:name":"Easton Carpentry",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

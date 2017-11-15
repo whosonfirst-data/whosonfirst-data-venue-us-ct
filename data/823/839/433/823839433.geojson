@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.949253,41.280395,-72.949253,41.280395",
     "geom:latitude":41.280395,
     "geom:longitude":-72.949253,
@@ -32,7 +33,11 @@
         85688629,
         85633793,
         85811091,
-        102086923
+        102086923,
+        85882017,
+        102191575,
+        404495805,
+        85930885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +53,22 @@
             "neighbourhood_id":85811091,
             "region_id":85688629,
             "venue_id":823839433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85882017,
+            "region_id":85688629,
+            "venue_id":823839433
         }
     ],
     "wof:id":823839433,
-    "wof:lastmodified":1472613800,
+    "wof:lastmodified":1491885142,
     "wof:name":"Summit Seafood LLC",
-    "wof:parent_id":85811091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.550579,41.073078,-73.550579,41.073078",
     "geom:latitude":41.073078,
     "geom:longitude":-73.550579,
@@ -35,7 +36,15 @@
     ],
     "sg:website":"www.intelisearch-inc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eJKG4dHygfTw5tkn3ch62_41.073078_-73.550579@1294084077"
@@ -43,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1463443043,
     "wof:geomhash":"08a103da876ca2f1ecbe659c4bc1b7b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":823648169
+        }
+    ],
     "wof:id":823648169,
-    "wof:lastmodified":1472613385,
+    "wof:lastmodified":1492027082,
     "wof:name":"Intelisearch Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

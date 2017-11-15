@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.634064,41.070164,-73.634064,41.070164",
     "geom:latitude":41.070164,
     "geom:longitude":-73.634064,
@@ -31,7 +32,13 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AyPYElHNsf4zWT9hah7Rg_41.070164_-73.634064@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463441074,
     "wof:geomhash":"1d57ee74b3e4c691d9e78ac363962596",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823565633
+        }
+    ],
     "wof:id":823565633,
-    "wof:lastmodified":1472613342,
+    "wof:lastmodified":1492055006,
     "wof:name":"Anastase Couyoumjan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.122569,41.527666,-73.122569,41.527666",
     "geom:latitude":41.527666,
     "geom:longitude":-73.122569,
@@ -31,7 +32,10 @@
         "city"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Cji8yuPs2zCEeVvzI34bT_41.527666_-73.122569@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463453478,
     "wof:geomhash":"118fc6cadfae627175bfec1eda0e18ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824064173
+        }
+    ],
     "wof:id":824064173,
-    "wof:lastmodified":1472611643,
+    "wof:lastmodified":1492062355,
     "wof:name":"Middlebury Town Clerk",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

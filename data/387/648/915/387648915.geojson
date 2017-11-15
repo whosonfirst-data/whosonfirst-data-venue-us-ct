@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.485388,41.150842,-73.485388,41.150842",
     "geom:latitude":41.150842,
     "geom:longitude":-73.485388,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"389bc233a3e7499e1acb3e94b23d1916",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":387648915
         }
     ],
     "wof:id":387648915,
-    "wof:lastmodified":1472606609,
+    "wof:lastmodified":1492055062,
     "wof:name":"Ollarg LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

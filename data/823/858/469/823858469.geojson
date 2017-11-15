@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.405502,41.482796,-73.405502,41.482796",
     "geom:latitude":41.482796,
     "geom:longitude":-73.405502,
@@ -28,7 +29,10 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fW7e8oaObFrCzPnMwg8Pi_41.482796_-73.405502@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463448465,
     "wof:geomhash":"62f4cbc23579c97047f6adc85835afb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823858469
+        }
+    ],
     "wof:id":823858469,
-    "wof:lastmodified":1472613809,
+    "wof:lastmodified":1492070035,
     "wof:name":"Cresci Variety",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

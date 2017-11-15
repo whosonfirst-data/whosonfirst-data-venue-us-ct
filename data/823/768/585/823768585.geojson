@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.225745,41.238693,-73.225745,41.238693",
     "geom:latitude":41.238693,
     "geom:longitude":-73.225745,
@@ -31,7 +32,15 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555493,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13fa5L1LtLQ8kMyttPhiok_41.238693_-73.225745@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463445791,
     "wof:geomhash":"46ca4462fd3064b2f5c45b5957456228",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555493,
+            "region_id":85688629,
+            "venue_id":823768585
+        }
+    ],
     "wof:id":823768585,
-    "wof:lastmodified":1472613791,
+    "wof:lastmodified":1492064956,
     "wof:name":"St Theresa Pastoral Ministry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

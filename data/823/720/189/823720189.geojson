@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.411634,41.226604,-73.411634,41.226604",
     "geom:latitude":41.226604,
     "geom:longitude":-73.411634,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"d922c7eb783a1e3101cc8d0e55656445",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":823720189
         }
     ],
     "wof:id":823720189,
-    "wof:lastmodified":1472613719,
+    "wof:lastmodified":1492027098,
     "wof:name":"Soft Rock Investment",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

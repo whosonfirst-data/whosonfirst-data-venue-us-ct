@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.473114,41.11894,-73.473114,41.11894",
     "geom:latitude":41.11894,
     "geom:longitude":-73.473114,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e76a918ec620c99cfe93fecb53c3fa8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":253036631
         }
     ],
     "wof:id":253036631,
-    "wof:lastmodified":1472606238,
+    "wof:lastmodified":1492029100,
     "wof:name":"Spindel Family LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

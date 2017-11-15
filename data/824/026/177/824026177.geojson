@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.153047,41.504432,-73.153047,41.504432",
     "geom:latitude":41.504432,
     "geom:longitude":-73.153047,
@@ -29,7 +30,13 @@
     "sg:province":"CT",
     "sg:website":"www.benjamininternational.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ND2oh4X6QSabeHug2KXSB_41.504432_-73.153047@1294084077"
@@ -37,9 +44,18 @@
     "wof:country":"US",
     "wof:created":1463452567,
     "wof:geomhash":"fe2a898af5f9eff7f9c4da3776afb9ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":824026177
+        }
+    ],
     "wof:id":824026177,
-    "wof:lastmodified":1472608834,
+    "wof:lastmodified":1492062399,
     "wof:name":"Benjamin International Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

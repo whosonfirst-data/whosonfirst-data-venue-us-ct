@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.417695,41.666422,-73.417695,41.666422",
     "geom:latitude":41.666422,
     "geom:longitude":-73.417695,
@@ -31,7 +32,13 @@
         "motion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496031,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04QigEryClluHKV0HrRGJO_41.666422_-73.417695@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463450386,
     "wof:geomhash":"b8f244ca0089f8bf09c4ed4a375986df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496031,
+            "region_id":85688629,
+            "venue_id":823934837
+        }
+    ],
     "wof:id":823934837,
-    "wof:lastmodified":1472613964,
+    "wof:lastmodified":1492054966,
     "wof:name":"Raw Zeal Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

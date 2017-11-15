@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.234732,41.250965,-73.234732,41.250965",
     "geom:latitude":41.250965,
     "geom:longitude":-73.234732,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555487,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lWW1nOIPDtBIeSl9yTICc_41.250965_-73.234732@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463447324,
     "wof:geomhash":"4b539d87246016bda4a2a9641ce11793",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555487,
+            "region_id":85688629,
+            "venue_id":823821081
+        }
+    ],
     "wof:id":823821081,
-    "wof:lastmodified":1472613754,
+    "wof:lastmodified":1492061712,
     "wof:name":"Schaffer Son Elctrical Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

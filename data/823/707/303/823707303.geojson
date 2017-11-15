@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.248386,41.267174,-73.248386,41.267174",
     "geom:latitude":41.267174,
     "geom:longitude":-73.248386,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"caf24a9810b9015a33da14bf590f1719",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823707303
         }
     ],
     "wof:id":823707303,
-    "wof:lastmodified":1472613682,
+    "wof:lastmodified":1492068785,
     "wof:name":"Martins Drywall Corp",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

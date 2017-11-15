@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.62104,41.071377,-73.62104,41.071377",
     "geom:latitude":41.071377,
     "geom:longitude":-73.62104,
@@ -31,7 +32,13 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2e1I2N63Vd8flu6qTcNtPd_41.071377_-73.621040@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444291,
     "wof:geomhash":"95c1a52121b5ee080111692b36d62b0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823702485
+        }
+    ],
     "wof:id":823702485,
-    "wof:lastmodified":1472613698,
+    "wof:lastmodified":1492026968,
     "wof:name":"American Mfr Sales Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.142455,41.538551,-73.142455,41.538551",
     "geom:latitude":41.538551,
     "geom:longitude":-73.142455,
@@ -31,7 +32,10 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JF2KiZ5fsQ7V1SzBEFRLQ_41.538551_-73.142455@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463452325,
     "wof:geomhash":"e1951a6636ddb1ff1062f7a5219dc9c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824015415
+        }
+    ],
     "wof:id":824015415,
-    "wof:lastmodified":1472607650,
+    "wof:lastmodified":1492026999,
     "wof:name":"Lockade",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

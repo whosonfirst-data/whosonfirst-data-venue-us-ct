@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.185689,41.300511,-73.185689,41.300511",
     "geom:latitude":41.300511,
     "geom:longitude":-73.185689,
@@ -35,10 +36,13 @@
     "sg:website":"www.midlanddevelopment.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +53,18 @@
     "wof:geomhash":"cf2178b3da1c69700910a905c12af107",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":824062429
         }
     ],
     "wof:id":824062429,
-    "wof:lastmodified":1472613189,
+    "wof:lastmodified":1492042614,
     "wof:name":"Midland Development Co",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

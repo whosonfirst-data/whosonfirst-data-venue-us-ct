@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.942184,41.368734,-72.942184,41.368734",
     "geom:latitude":41.368734,
     "geom:longitude":-72.942184,
@@ -37,7 +38,8 @@
         85688629,
         85633793,
         85850561,
-        102086923
+        102086923,
+        85867463
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,12 +55,19 @@
             "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":824008901
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85867463,
+            "region_id":85688629,
+            "venue_id":824008901
         }
     ],
     "wof:id":824008901,
-    "wof:lastmodified":1472607915,
+    "wof:lastmodified":1491890336,
     "wof:name":"Paradise Nurseries",
-    "wof:parent_id":85850561,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.187495,41.194737,-73.187495,41.194737",
     "geom:latitude":41.194737,
     "geom:longitude":-73.187495,
@@ -33,7 +34,15 @@
     ],
     "sg:website":"www.ersct.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BqCI7XqoQMw6FwzZovNV8_41.194737_-73.187495@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463443677,
     "wof:geomhash":"4b3b56920ae4beec6e62c2ebfd730c9b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823674675
+        }
+    ],
     "wof:id":823674675,
-    "wof:lastmodified":1472613661,
+    "wof:lastmodified":1492042609,
     "wof:name":"Environmental Remediation Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

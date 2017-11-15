@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.49405,41.158758,-73.49405,41.158758",
     "geom:latitude":41.158758,
     "geom:longitude":-73.49405,
@@ -29,8 +30,10 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
         85633793,
-        85688629
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +43,17 @@
     "wof:geomhash":"8f1a761c64b07a53b699786a3697d9d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":404117063
         }
     ],
     "wof:id":404117063,
-    "wof:lastmodified":1472606547,
+    "wof:lastmodified":1492055061,
     "wof:name":"Thomas V Vitti Lawn",
-    "wof:parent_id":-1,
+    "wof:parent_id":85851779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

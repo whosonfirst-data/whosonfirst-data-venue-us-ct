@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.141178,41.487015,-73.141178,41.487015",
     "geom:latitude":41.487015,
     "geom:longitude":-73.141178,
@@ -32,7 +33,13 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495795,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GoalimsZPiN1GsWWAbAdu_41.487015_-73.141178@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463447022,
     "wof:geomhash":"1fb5a88d9a9198aa75d384dd59776682",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495795,
+            "region_id":85688629,
+            "venue_id":823810407
+        }
+    ],
     "wof:id":823810407,
-    "wof:lastmodified":1472613798,
+    "wof:lastmodified":1492027025,
     "wof:name":"J M Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

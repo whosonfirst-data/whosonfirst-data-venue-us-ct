@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218436,41.22606,-73.218436,41.22606",
     "geom:latitude":41.22606,
     "geom:longitude":-73.218436,
@@ -32,7 +33,15 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UQb4pFAvcNLm1ob3aVdms_41.226060_-73.218436@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463450967,
     "wof:geomhash":"684304cfe26eb113bbc336e0f69f363f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823957971
+        }
+    ],
     "wof:id":823957971,
-    "wof:lastmodified":1472613967,
+    "wof:lastmodified":1492027132,
     "wof:name":"Connecticut Pain Care PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.101935,41.588927,-73.101935,41.588927",
     "geom:latitude":41.588927,
     "geom:longitude":-73.101935,
@@ -28,7 +29,15 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Luzfp3ogZJsEfITiFTqFY_41.588927_-73.101935@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463441487,
     "wof:geomhash":"f6377ade429e6dcdf6e5e08efc139d5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823582957
+        }
+    ],
     "wof:id":823582957,
-    "wof:lastmodified":1472613355,
+    "wof:lastmodified":1492061632,
     "wof:name":"Therapy Touch LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

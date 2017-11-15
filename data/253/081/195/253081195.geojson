@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.498653,41.145893,-73.498653,41.145893",
     "geom:latitude":41.145893,
     "geom:longitude":-73.498653,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"5f3ab96b67b8f24ad7fe2a60bc62d4f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":253081195
         }
     ],
     "wof:id":253081195,
-    "wof:lastmodified":1472606233,
+    "wof:lastmodified":1492040576,
     "wof:name":"Dunbar Educational Consultants",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

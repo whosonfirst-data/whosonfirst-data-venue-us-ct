@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.694289,41.053542,-73.694289,41.053542",
     "geom:latitude":41.053542,
     "geom:longitude":-73.694289,
@@ -29,10 +30,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85845073,
+        102191575,
+        404523361,
         85633793,
-        102084283,
-        85845073
+        85978735,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"2dcd8b4270e9fa80facbb7deca283fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85845073,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":303243475
         }
     ],
     "wof:id":303243475,
-    "wof:lastmodified":1472606630,
+    "wof:lastmodified":1492029245,
     "wof:name":"Platinum Financial Services",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",

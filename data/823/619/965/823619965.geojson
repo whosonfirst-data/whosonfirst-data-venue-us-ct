@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.402599,41.488794,-73.402599,41.488794",
     "geom:latitude":41.488794,
     "geom:longitude":-73.402599,
@@ -28,7 +29,13 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qTGDlGeRtM5RuQ33b9heY_41.488794_-73.402599@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463442401,
     "wof:geomhash":"a4e6eac8787b9cff929ff0a8ac17ea24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":823619965
+        }
+    ],
     "wof:id":823619965,
-    "wof:lastmodified":1472613432,
+    "wof:lastmodified":1492070033,
     "wof:name":"Ledgewood LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

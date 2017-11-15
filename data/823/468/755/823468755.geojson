@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.409523,41.482423,-73.409523,41.482423",
     "geom:latitude":41.482423,
     "geom:longitude":-73.409523,
@@ -32,7 +33,10 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43KwhpPNZ8dnxjO2Sux8JO_41.482423_-73.409523@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463438811,
     "wof:geomhash":"cfd204697e808e906ddb4dbadd34e58d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823468755
+        }
+    ],
     "wof:id":823468755,
-    "wof:lastmodified":1472608144,
+    "wof:lastmodified":1492055075,
     "wof:name":"Encore Consignment Boutique II",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.157097,41.430945,-73.157097,41.430945",
     "geom:latitude":41.430945,
     "geom:longitude":-73.157097,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85850263,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oL0Z5RQ73en9LdKKgvgwc_41.430945_-73.157097@1294084077"
@@ -39,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1463448982,
     "wof:geomhash":"fb58216cdb3b473af4325fdf5f7752d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850263,
+            "region_id":85688629,
+            "venue_id":823880609
+        }
+    ],
     "wof:id":823880609,
-    "wof:lastmodified":1472613938,
+    "wof:lastmodified":1492027026,
     "wof:name":"Casini Masonry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85850263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

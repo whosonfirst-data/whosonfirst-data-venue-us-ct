@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.518388,41.058827,-73.518388,41.058827",
     "geom:latitude":41.058827,
     "geom:longitude":-73.518388,
@@ -31,7 +32,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hcFzw7yJovgwCGWJ4G3Kt_41.058827_-73.518388@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463443758,
     "wof:geomhash":"49bb00579ef5d53014fdfe5d1ca5c2bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823678691
+        }
+    ],
     "wof:id":823678691,
-    "wof:lastmodified":1472613693,
+    "wof:lastmodified":1492055010,
     "wof:name":"Willie Chillie Heating & A/C",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

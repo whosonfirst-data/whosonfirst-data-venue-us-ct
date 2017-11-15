@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.091321,41.315082,-73.091321,41.315082",
     "geom:latitude":41.315082,
     "geom:longitude":-73.091321,
@@ -31,7 +32,14 @@
         "coin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IOaSNfldwLAf3vEZwyhyO_41.315082_-73.091321@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463449387,
     "wof:geomhash":"780bc2bf2dc8f7e357b3685a3dfad7b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823897891
+        }
+    ],
     "wof:id":823897891,
-    "wof:lastmodified":1472613943,
+    "wof:lastmodified":1492027056,
     "wof:name":"Shelton Laundromat",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

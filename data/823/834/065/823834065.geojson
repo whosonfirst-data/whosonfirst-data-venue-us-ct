@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.666587,41.002182,-73.666587,41.002182",
     "geom:latitude":41.002182,
     "geom:longitude":-73.666587,
@@ -31,7 +32,15 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tTSLBhA9Gi5kgFC5FXQZk_41.002182_-73.666587@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463447716,
     "wof:geomhash":"f0618109b442a1c6491a6ec1a2b59771",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823834065
+        }
+    ],
     "wof:id":823834065,
-    "wof:lastmodified":1472613752,
+    "wof:lastmodified":1492026898,
     "wof:name":"L Cabral Insurance Agency",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

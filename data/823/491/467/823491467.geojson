@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.304209,41.658718,-73.304209,41.658718",
     "geom:latitude":41.658718,
     "geom:longitude":-73.304209,
@@ -28,7 +29,10 @@
     "sg:postcode":"06794",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vX9GBmfhPniH5Wl4QdgWp_41.658718_-73.304209@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463439342,
     "wof:geomhash":"a5bb7d1503b5d29eb5428bf75e831f8a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":823491467
+        }
+    ],
     "wof:id":823491467,
-    "wof:lastmodified":1472609176,
+    "wof:lastmodified":1492051705,
     "wof:name":"Catalyst Associates Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

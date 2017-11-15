@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.667936,40.99375,-73.667936,40.99375",
     "geom:latitude":40.99375,
     "geom:longitude":-73.667936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Midland Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -32,19 +34,39 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530421,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
+    "wof:brand_id":1125157939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k0Jee4TktS7vZ3El1dCHW_40.993750_-73.667936@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451064,
-    "wof:geomhash":"358d89de22d05176971d93fdb0dd888a",
-    "wof:hierarchy":[],
+    "wof:geomhash":"a81be4488b87ff3b98c34334be0f7685",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530421,
+            "region_id":85688543,
+            "venue_id":823961679
+        }
+    ],
     "wof:id":823961679,
-    "wof:lastmodified":1472613936,
+    "wof:lastmodified":1510697458,
     "wof:name":"Petland Discounts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

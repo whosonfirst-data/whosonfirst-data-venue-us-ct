@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.475252,41.203041,-73.475252,41.203041",
     "geom:latitude":41.203041,
     "geom:longitude":-73.475252,
@@ -28,7 +29,13 @@
     "sg:postcode":"06897",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495863,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nYx1ulpyMtW8X5bslLoUj_41.203041_-73.475252@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463445896,
     "wof:geomhash":"e81e67896e86d80a000b661a6d5944b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "region_id":85688629,
+            "venue_id":823773053
+        }
+    ],
     "wof:id":823773053,
-    "wof:lastmodified":1472613749,
+    "wof:lastmodified":1492027160,
     "wof:name":"Simply By Others LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

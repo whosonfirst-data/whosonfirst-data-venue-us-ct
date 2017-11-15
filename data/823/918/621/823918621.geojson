@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.089097,41.589081,-73.089097,41.589081",
     "geom:latitude":41.589081,
     "geom:longitude":-73.089097,
@@ -34,7 +35,15 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FKJgCbxPh2UTTYYhOoXPE_41.589081_-73.089097@1294084077"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463449968,
     "wof:geomhash":"c741702874ded0c47f672daa10add1b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823918621
+        }
+    ],
     "wof:id":823918621,
-    "wof:lastmodified":1472613948,
+    "wof:lastmodified":1492027168,
     "wof:name":"Mikes Camera Shop Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

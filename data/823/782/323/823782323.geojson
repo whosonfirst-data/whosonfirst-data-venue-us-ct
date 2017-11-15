@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.423085,41.110236,-73.423085,41.110236",
     "geom:latitude":41.110236,
     "geom:longitude":-73.423085,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"49 Stevens St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -33,23 +35,35 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879311,
+        420558743,
         102191575,
         404495959,
         85633793,
         85930795,
         102084283,
         85688629,
+        85879311,
         85849909
     ],
+    "wof:brand_id":1125158545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vLBcFquc7H47f6TmIxKGA_41.110236_-73.423085@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463446147,
-    "wof:geomhash":"edfc29cdfe2eb06083da44ad664d61fb",
+    "wof:geomhash":"4bbf58e8c999137d003bafddb9e2b10d",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420558743,
+            "region_id":85688629,
+            "venue_id":823782323
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -72,9 +86,9 @@
         }
     ],
     "wof:id":823782323,
-    "wof:lastmodified":1472613792,
+    "wof:lastmodified":1510699701,
     "wof:name":"Hair Today",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

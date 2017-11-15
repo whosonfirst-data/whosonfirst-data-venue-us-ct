@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.217651,41.556869,-73.217651,41.556869",
     "geom:latitude":41.556869,
     "geom:longitude":-73.217651,
@@ -31,7 +32,10 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FuAUZIqeHELVLQRFJA24V_41.556869_-73.217651@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463444543,
     "wof:geomhash":"5cc942c4e106e14be5881dbcf643530b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823714817
+        }
+    ],
     "wof:id":823714817,
-    "wof:lastmodified":1472613713,
+    "wof:lastmodified":1492062539,
     "wof:name":"Est Maintenance Services LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

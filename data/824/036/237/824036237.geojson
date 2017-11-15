@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.426767,41.472037,-73.426767,41.472037",
     "geom:latitude":41.472037,
     "geom:longitude":-73.426767,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85809225,
-        102084283
+        85809219,
+        102084283,
+        85809225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102084283,
+            "neighbourhood_id":85809219,
+            "region_id":85688629,
+            "venue_id":824036237
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
             "neighbourhood_id":85809225,
             "region_id":85688629,
             "venue_id":824036237
         }
     ],
     "wof:id":824036237,
-    "wof:lastmodified":1472609160,
+    "wof:lastmodified":1492070040,
     "wof:name":"Armed & Ready Alarm Systems",
-    "wof:parent_id":85809225,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

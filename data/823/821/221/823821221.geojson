@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.110023,41.255424,-73.110023,41.255424",
     "geom:latitude":41.255424,
     "geom:longitude":-73.110023,
@@ -28,7 +29,15 @@
     "sg:postcode":"06614",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555481,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dpREYoYhuWFG9GLT3X3pX_41.255424_-73.110023@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463447327,
     "wof:geomhash":"05e5acc80ed11306009b3e13b64def54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":420555481,
+            "region_id":85688629,
+            "venue_id":823821221
+        }
+    ],
     "wof:id":823821221,
-    "wof:lastmodified":1472613787,
+    "wof:lastmodified":1492029082,
     "wof:name":"Carol A Farrell",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

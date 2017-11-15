@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.412785,41.471217,-73.412785,41.471217",
     "geom:latitude":41.471217,
     "geom:longitude":-73.412785,
@@ -31,7 +32,10 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Z4QwnJbnsOZFuz2IpwWjC_41.471217_-73.412785@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463449733,
     "wof:geomhash":"419becb0921b07ce3695d9183ef49781",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823909539
+        }
+    ],
     "wof:id":823909539,
-    "wof:lastmodified":1472613925,
+    "wof:lastmodified":1492044241,
     "wof:name":"Richard's Garage Doors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

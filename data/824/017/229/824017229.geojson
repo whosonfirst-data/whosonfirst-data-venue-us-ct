@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.405845,41.459118,-73.405845,41.459118",
     "geom:latitude":41.459118,
     "geom:longitude":-73.405845,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.collectiblemadness.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pzo3ZLfEtC2z57gG7IErC_41.459118_-73.405845@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463452363,
     "wof:geomhash":"19f507ec5d906301a98b3cf7beb151a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824017229
+        }
+    ],
     "wof:id":824017229,
-    "wof:lastmodified":1472607859,
+    "wof:lastmodified":1492027124,
     "wof:name":"Collectible Madness",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

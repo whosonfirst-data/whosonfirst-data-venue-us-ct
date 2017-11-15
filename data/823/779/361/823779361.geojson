@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.405099,41.457812,-73.405099,41.457812",
     "geom:latitude":41.457812,
     "geom:longitude":-73.405099,
@@ -28,7 +29,10 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RlbrCt7PRC9BD3JfxBasq_41.457812_-73.405099@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463446071,
     "wof:geomhash":"716cc906376ca0224bcb54ffbcd9a620",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823779361
+        }
+    ],
     "wof:id":823779361,
-    "wof:lastmodified":1472613780,
+    "wof:lastmodified":1492055150,
     "wof:name":"Re/Max New Horizons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

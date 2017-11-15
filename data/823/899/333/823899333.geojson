@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.203499,41.583076,-73.203499,41.583076",
     "geom:latitude":41.583076,
     "geom:longitude":-73.203499,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hNKAHuA9UhqeAPqJZOMLJ_41.583076_-73.203499@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463449441,
     "wof:geomhash":"c48a613307177cb65ceefc63259e262f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823899333
+        }
+    ],
     "wof:id":823899333,
-    "wof:lastmodified":1472613891,
+    "wof:lastmodified":1492040585,
     "wof:name":"Breakell Jean Pub Accountant",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

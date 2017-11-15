@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.086651,41.554534,-73.086651,41.554534",
     "geom:latitude":41.554534,
     "geom:longitude":-73.086651,
@@ -23,7 +24,14 @@
     "sg:province":"CT",
     "sg:website":"http://www.thehillsrestaurant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CVCvqvim6VCEdZswWZ7wL_41.554534_-73.086651@1303262246"
@@ -31,9 +39,19 @@
     "wof:country":"US",
     "wof:created":1463454563,
     "wof:geomhash":"555a948635e9edcc9634108b1ae02d6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "region_id":85688629,
+            "venue_id":824110523
+        }
+    ],
     "wof:id":824110523,
-    "wof:lastmodified":1472613302,
+    "wof:lastmodified":1492054687,
     "wof:name":"Hills The",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

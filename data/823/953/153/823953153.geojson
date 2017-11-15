@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.162921,41.571457,-73.162921,41.571457",
     "geom:latitude":41.571457,
     "geom:longitude":-73.162921,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JgWo1CziwabfXSp6rTEkn_41.571457_-73.162921@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463450847,
     "wof:geomhash":"e514415afa428b15e1cab5be52a7694b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823953153
+        }
+    ],
     "wof:id":823953153,
-    "wof:lastmodified":1472613885,
+    "wof:lastmodified":1492027005,
     "wof:name":"Centurion Home Inspection",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

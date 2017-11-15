@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408617,41.478536,-73.408617,41.478536",
     "geom:latitude":41.478536,
     "geom:longitude":-73.408617,
@@ -32,7 +33,10 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F6y0F3CZoe0tDKrEyxi6P_41.478536_-73.408617@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463449779,
     "wof:geomhash":"fbf8a4ab7686dfdb71b8f7ea0b1b79d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823911353
+        }
+    ],
     "wof:id":823911353,
-    "wof:lastmodified":1472613917,
+    "wof:lastmodified":1492070037,
     "wof:name":"Loneeagle Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

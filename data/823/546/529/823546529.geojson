@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114476,41.540221,-73.114476,41.540221",
     "geom:latitude":41.540221,
     "geom:longitude":-73.114476,
@@ -31,7 +32,10 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iUmThFFCVIjYUqec5TvYg_41.540221_-73.114476@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463440618,
     "wof:geomhash":"bbc23b9696f0130f81c0f00ab9154a03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823546529
+        }
+    ],
     "wof:id":823546529,
-    "wof:lastmodified":1472613303,
+    "wof:lastmodified":1492061632,
     "wof:name":"Paolino Public Affairs Cons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

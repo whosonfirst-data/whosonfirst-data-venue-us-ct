@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092304,41.193607,-73.092304,41.193607",
     "geom:latitude":41.193607,
     "geom:longitude":-73.092304,
@@ -32,7 +33,15 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555633,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MRJsblquYjgqFvNMR8uJP_41.193607_-73.092304@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463446302,
     "wof:geomhash":"13431173a4393a7372e77c7d9c1c7b79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":420555633,
+            "region_id":85688629,
+            "venue_id":823786449
+        }
+    ],
     "wof:id":823786449,
-    "wof:lastmodified":1472613785,
+    "wof:lastmodified":1492061389,
     "wof:name":"General Home Repair & Maintnce",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

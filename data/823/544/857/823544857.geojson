@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.153468,41.501877,-73.153468,41.501877",
     "geom:latitude":41.501877,
     "geom:longitude":-73.153468,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"984 Southford Rd",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -32,17 +34,33 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
+    "wof:brand_id":1125154649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fTSCQhJizxgVHQ5G3XA9X_41.501877_-73.153468@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463440579,
-    "wof:geomhash":"9d68453d683f159f18ed5a092d8ca901",
-    "wof:hierarchy":[],
+    "wof:geomhash":"19cd00634299b91eb2d582b1be746916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823544857
+        }
+    ],
     "wof:id":823544857,
-    "wof:lastmodified":1472613307,
+    "wof:lastmodified":1510699364,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

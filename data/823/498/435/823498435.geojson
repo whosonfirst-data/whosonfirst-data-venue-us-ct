@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.658528,41.002061,-73.658528,41.002061",
     "geom:latitude":41.002061,
     "geom:longitude":-73.658528,
@@ -31,7 +32,14 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CQXw3Uu97YEt1pz5v1ILQ_41.002061_-73.658528@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463439543,
     "wof:geomhash":"226f41681f13402bc9d7e5a3d5a350c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823498435
+        }
+    ],
     "wof:id":823498435,
-    "wof:lastmodified":1472611558,
+    "wof:lastmodified":1492062328,
     "wof:name":"Star Limousine Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

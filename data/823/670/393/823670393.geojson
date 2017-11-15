@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.301243,41.434338,-73.301243,41.434338",
     "geom:latitude":41.434338,
     "geom:longitude":-73.301243,
@@ -33,12 +34,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6K9p5tLU0AzdmB9uCCaTrK_41.434338_-73.301243@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463443580,
     "wof:geomhash":"498b1516dbf199bd3eeb447c14b28d5a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823670393
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823670393,
-    "wof:lastmodified":1472613675,
+    "wof:lastmodified":1492044236,
     "wof:name":"Silonex",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.297707,41.637619,-73.297707,41.637619",
     "geom:latitude":41.637619,
     "geom:longitude":-73.297707,
@@ -31,7 +32,10 @@
         "course"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57zd2B7nbypPAEmiRQSQHN_41.637619_-73.297707@1303262246"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463454594,
     "wof:geomhash":"56c8149dffbbeaad21580a5198be367c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":824112025
+        }
+    ],
     "wof:id":824112025,
-    "wof:lastmodified":1472613316,
+    "wof:lastmodified":1492055123,
     "wof:name":"Washington Golf Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

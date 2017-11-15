@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.570786,41.152825,-73.570786,41.152825",
     "geom:latitude":41.152825,
     "geom:longitude":-73.570786,
@@ -28,7 +29,14 @@
     "sg:postcode":"06903",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P2N36BCXAxEw38teJ2csh_41.152825_-73.570786@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463439775,
     "wof:geomhash":"7c5b23a78cd9a33ce2510beb4c497fac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823508925
+        }
+    ],
     "wof:id":823508925,
-    "wof:lastmodified":1472613262,
+    "wof:lastmodified":1492029226,
     "wof:name":"One Creative Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.286286,41.38825,-73.286286,41.38825",
     "geom:latitude":41.38825,
     "geom:longitude":-73.286286,
@@ -34,12 +35,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0u4pkeeGMMOANlGPIMyGpQ_41.388250_-73.286286@1294084077"
@@ -47,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1463450320,
     "wof:geomhash":"534a6e8536b0894f52825d29ee48374b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823932501
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823932501,
-    "wof:lastmodified":1472613912,
+    "wof:lastmodified":1492027075,
     "wof:name":"Newtown Pools",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

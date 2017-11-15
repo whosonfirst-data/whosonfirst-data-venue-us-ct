@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.25657,41.232977,-73.25657,41.232977",
     "geom:latitude":41.232977,
     "geom:longitude":-73.25657,
@@ -32,12 +33,7 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2egMSdOnb0Lmb4RzIrKl5t_41.232977_-73.256570@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463445391,
     "wof:geomhash":"adbe5409aa1cb103dc8189a62073641d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823750343
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823750343,
-    "wof:lastmodified":1472613760,
+    "wof:lastmodified":1492029129,
     "wof:name":"Woodworking",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

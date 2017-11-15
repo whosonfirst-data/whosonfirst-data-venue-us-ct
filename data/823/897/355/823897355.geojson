@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.463349,41.525735,-73.463349,41.525735",
     "geom:latitude":41.525735,
     "geom:longitude":-73.463349,
@@ -32,12 +33,7 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mJ4fthyIBY05FWBPc3z1P_41.525735_-73.463349@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463449377,
     "wof:geomhash":"2ff91bf95e6bd4a7d1c2175fa3dbc580",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":823897355
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823897355,
-    "wof:lastmodified":1472613885,
+    "wof:lastmodified":1492027093,
     "wof:name":"Metropolitan Capital Corp",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.409565,41.083337,-73.409565,41.083337",
     "geom:latitude":41.083337,
     "geom:longitude":-73.409565,
@@ -28,7 +29,15 @@
     "sg:postcode":"06854",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555463,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1byCotIEDpmRExZTsuZ4t7_41.083337_-73.409565@1303262247"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463454719,
     "wof:geomhash":"9d82f0a3fd755c39e0082171aabd73da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420555463,
+            "region_id":85688629,
+            "venue_id":824117709
+        }
+    ],
     "wof:id":824117709,
-    "wof:lastmodified":1472613348,
+    "wof:lastmodified":1492068632,
     "wof:name":"Clark Marisel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

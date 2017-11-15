@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.183883,41.600673,-73.183883,41.600673",
     "geom:latitude":41.600673,
     "geom:longitude":-73.183883,
@@ -33,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bpzLHRY90litrzJUJ9kTD_41.600673_-73.183883@1294084077"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1463443332,
     "wof:geomhash":"fe0f68c105b6eb6298e57b2195e0c962",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823659859
+        }
+    ],
     "wof:id":823659859,
-    "wof:lastmodified":1472613429,
+    "wof:lastmodified":1492051706,
     "wof:name":"Carriage Homes Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

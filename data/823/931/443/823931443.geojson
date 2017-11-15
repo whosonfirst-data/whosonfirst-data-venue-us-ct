@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.151367,41.573107,-73.151367,41.573107",
     "geom:latitude":41.573107,
     "geom:longitude":-73.151367,
@@ -31,7 +32,10 @@
         "group"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lR751dFuBWXSVsISiN20Z_41.573107_-73.151367@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463450283,
     "wof:geomhash":"11820beaba2a7cdfd91591c3eb40a26e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823931443
+        }
+    ],
     "wof:id":823931443,
-    "wof:lastmodified":1472613926,
+    "wof:lastmodified":1492027028,
     "wof:name":"Julies Piano Workshop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

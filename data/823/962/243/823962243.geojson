@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.144823,41.311304,-73.144823,41.311304",
     "geom:latitude":41.311304,
     "geom:longitude":-73.144823,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"b86079c44a7136039c85adb52b4c47ea",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823962243
         }
     ],
     "wof:id":823962243,
-    "wof:lastmodified":1472613864,
+    "wof:lastmodified":1492051774,
     "wof:name":"Dental Language",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

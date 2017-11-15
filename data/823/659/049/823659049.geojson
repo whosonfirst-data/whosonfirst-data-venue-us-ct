@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.932108,41.349514,-72.932108,41.349514",
     "geom:latitude":41.349514,
     "geom:longitude":-72.932108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1329 Dixwell Ave",
     "sg:city":"Hamden",
     "sg:classifiers":[
@@ -36,37 +38,38 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85885309,
+        85850561,
         102086923,
-        85850561
+        85885309
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Zwy2w2vHaRoHlDxV2TLp4_41.349514_-72.932108@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443302,
-    "wof:geomhash":"6cbb6d1133007423ac7ddf43abaf261e",
+    "wof:geomhash":"d8c2580aa8563480b7ef54c15d9aac9a",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":823659049
-        },
         {
             "country_id":85633793,
             "county_id":102086923,
             "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":823659049
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823659049
         }
     ],
     "wof:id":823659049,
-    "wof:lastmodified":1472613379,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

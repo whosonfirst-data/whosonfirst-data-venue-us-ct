@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.297009,41.137071,-73.297009,41.137071",
     "geom:latitude":41.137071,
     "geom:longitude":-73.297009,
@@ -28,7 +29,16 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495947,
+        85633793,
+        85930959,
+        102084283,
+        404495861,
+        85930969
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gGLSRF0An13Ri5INZZHH7_41.137071_-73.297009@1294084077"
@@ -36,9 +46,28 @@
     "wof:country":"US",
     "wof:created":1463445256,
     "wof:geomhash":"ed067058417375e56491497925e4e9ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495947,
+            "locality_id":85930959,
+            "region_id":85688629,
+            "venue_id":823744577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "region_id":85688629,
+            "venue_id":823744577
+        }
+    ],
     "wof:id":823744577,
-    "wof:lastmodified":1472613710,
+    "wof:lastmodified":1492029292,
     "wof:name":"Ack Advisors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

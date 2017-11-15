@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218372,41.224461,-73.218372,41.224461",
     "geom:latitude":41.224461,
     "geom:longitude":-73.218372,
@@ -32,7 +33,15 @@
         "clinical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DAzSemFfUTpC6Z5HZ1cHO_41.224461_-73.218372@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463439904,
     "wof:geomhash":"bb50dd87b4289f6369c3ce43fe238e73",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823514853
+        }
+    ],
     "wof:id":823514853,
-    "wof:lastmodified":1472613261,
+    "wof:lastmodified":1492055085,
     "wof:name":"Hedy Augenbraun PHD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

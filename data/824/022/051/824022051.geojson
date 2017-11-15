@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.105947,41.320569,-73.105947,41.320569",
     "geom:latitude":41.320569,
     "geom:longitude":-73.105947,
@@ -31,7 +32,14 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iMQpArb7qSeOl2Y2otGc1_41.320569_-73.105947@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463452471,
     "wof:geomhash":"f7c44bc3f73a5c54dd89b9c349f6f711",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":824022051
+        }
+    ],
     "wof:id":824022051,
-    "wof:lastmodified":1472608731,
+    "wof:lastmodified":1492051656,
     "wof:name":"JB Park Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.313896,41.411059,-73.313896,41.411059",
     "geom:latitude":41.411059,
     "geom:longitude":-73.313896,
@@ -32,12 +33,7 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X1TLu14yxXidw88he0sOI_41.411059_-73.313896@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463440842,
     "wof:geomhash":"356efb6fff9d65afe5d857f5e8d7a3dd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823556047
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823556047,
-    "wof:lastmodified":1472613322,
+    "wof:lastmodified":1492054593,
     "wof:name":"West Street Group Home",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

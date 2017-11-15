@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.118158,41.203908,-73.118158,41.203908",
     "geom:latitude":41.203908,
     "geom:longitude":-73.118158,
@@ -38,7 +39,8 @@
         85633793,
         85930997,
         102084283,
-        85688629
+        85688629,
+        85841107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +59,22 @@
             "neighbourhood_id":85888495,
             "region_id":85688629,
             "venue_id":823592887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":85841107,
+            "region_id":85688629,
+            "venue_id":823592887
         }
     ],
     "wof:id":823592887,
-    "wof:lastmodified":1472613425,
+    "wof:lastmodified":1492068732,
     "wof:name":"Dockside Cleaners",
-    "wof:parent_id":85888495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

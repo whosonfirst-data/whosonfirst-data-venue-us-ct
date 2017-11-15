@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408633,41.478957,-73.408633,41.478957",
     "geom:latitude":41.478957,
     "geom:longitude":-73.408633,
@@ -31,7 +32,10 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A3r0xIPuaVoVOWohgfFbW_41.478957_-73.408633@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463443486,
     "wof:geomhash":"8139bd2ef17b44a1f87207f27a41e7e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823666323
+        }
+    ],
     "wof:id":823666323,
-    "wof:lastmodified":1472613678,
+    "wof:lastmodified":1492070033,
     "wof:name":"Axis Board Sports",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

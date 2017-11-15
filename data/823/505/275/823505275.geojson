@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.598893,41.14764,-73.598893,41.14764",
     "geom:latitude":41.14764,
     "geom:longitude":-73.598893,
@@ -31,7 +32,14 @@
         "banking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lMaQDLJn708edNHURbLdH_41.147640_-73.598893@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463439689,
     "wof:geomhash":"f116d928547fa742b5e2197c82659777",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823505275
+        }
+    ],
     "wof:id":823505275,
-    "wof:lastmodified":1472612647,
+    "wof:lastmodified":1492055032,
     "wof:name":"Coby Capital Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

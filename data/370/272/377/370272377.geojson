@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.453831,41.155247,-73.453831,41.155247",
     "geom:latitude":41.155247,
     "geom:longitude":-73.453831,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85848785
+        85848785,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"97b2d453400c4e882d5abf82789c05ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85848785,
             "region_id":85688629,
             "venue_id":370272377
         }
     ],
     "wof:id":370272377,
-    "wof:lastmodified":1472606537,
+    "wof:lastmodified":1492055061,
     "wof:name":"938 Sivermine LLC",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.622488,41.029209,-73.622488,41.029209",
     "geom:latitude":41.029209,
     "geom:longitude":-73.622488,
@@ -34,7 +35,15 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VWSbMrREfMUk0Q5LLPlQ5_41.029209_-73.622488@1294084077"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463444801,
     "wof:geomhash":"3feab83dff7baca7cac5618682e0c6be",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823725799
+        }
+    ],
     "wof:id":823725799,
-    "wof:lastmodified":1472613754,
+    "wof:lastmodified":1492047092,
     "wof:name":"Elaine Mandell Commercial Dsgn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

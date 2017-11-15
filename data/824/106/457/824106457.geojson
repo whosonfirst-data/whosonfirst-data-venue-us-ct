@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.147976,41.416339,-73.147976,41.416339",
     "geom:latitude":41.416339,
     "geom:longitude":-73.147976,
@@ -40,7 +41,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555611
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E1adeXUZ7WYCBGu8kHL65_41.416339_-73.147976@1303262246"
@@ -48,11 +52,17 @@
     "wof:country":"US",
     "wof:created":1463454476,
     "wof:geomhash":"fec8d25c7bd87df36e94b78c91b18176",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555611,
+            "venue_id":824106457
+        }
+    ],
     "wof:id":824106457,
-    "wof:lastmodified":1472613287,
+    "wof:lastmodified":1492062547,
     "wof:name":"Studio 370",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

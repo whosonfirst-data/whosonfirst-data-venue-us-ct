@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.111687,41.607756,-73.111687,41.607756",
     "geom:latitude":41.607756,
     "geom:longitude":-73.111687,
@@ -33,7 +34,15 @@
         "works"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w2sAdOCyPsIrdTJmo5IuN_41.607756_-73.111687@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463451001,
     "wof:geomhash":"10572b95c8690e43f3b52254f4407b92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823959107
+        }
+    ],
     "wof:id":823959107,
-    "wof:lastmodified":1472613892,
+    "wof:lastmodified":1492027132,
     "wof:name":"Advance Tool & Die",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

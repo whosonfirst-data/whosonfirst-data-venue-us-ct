@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.493313,41.146679,-73.493313,41.146679",
     "geom:latitude":41.146679,
     "geom:longitude":-73.493313,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"94a6c50264c7a95c37c41a6e2e20c837",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":287140721
         }
     ],
     "wof:id":287140721,
-    "wof:lastmodified":1472606315,
+    "wof:lastmodified":1492055105,
     "wof:name":"Shoes N More",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

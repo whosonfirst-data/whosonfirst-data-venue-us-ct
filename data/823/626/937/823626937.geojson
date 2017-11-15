@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.55809,41.066651,-73.55809,41.066651",
     "geom:latitude":41.066651,
     "geom:longitude":-73.55809,
@@ -31,7 +32,15 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gQu5cUUzVobL8v9z13pXR_41.066651_-73.558090@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463442551,
     "wof:geomhash":"257840db610f19025950cd0e5ffbf9cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":823626937
+        }
+    ],
     "wof:id":823626937,
-    "wof:lastmodified":1472613428,
+    "wof:lastmodified":1492064964,
     "wof:name":"David A Scalzi Law Offices",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

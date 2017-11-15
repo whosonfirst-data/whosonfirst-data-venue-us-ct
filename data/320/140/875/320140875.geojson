@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.656091,41.010117,-73.656091,41.010117",
     "geom:latitude":41.010117,
     "geom:longitude":-73.656091,
@@ -33,12 +34,18 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
-        102084283,
         85808713,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543,
+        85885307,
+        404495949,
         85930941,
-        85885307
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,18 +55,20 @@
     "wof:geomhash":"68d003945e344287688d38cc1b06540d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
             "neighbourhood_id":85808713,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":320140875
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930941,
             "neighbourhood_id":85885307,
             "region_id":85688629,
@@ -67,9 +76,9 @@
         }
     ],
     "wof:id":320140875,
-    "wof:lastmodified":1472606406,
+    "wof:lastmodified":1492055094,
     "wof:name":"Lu-Car Motors Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

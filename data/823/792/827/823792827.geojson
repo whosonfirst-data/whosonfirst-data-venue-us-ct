@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.313267,41.382367,-73.313267,41.382367",
     "geom:latitude":41.382367,
     "geom:longitude":-73.313267,
@@ -28,7 +29,10 @@
     "sg:postcode":"06470",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zbEFdmpsvIvbfwOfeyBgb_41.382367_-73.313267@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463446509,
     "wof:geomhash":"cc6cb839a290a08fea14245d89093ede",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":823792827
+        }
+    ],
     "wof:id":823792827,
-    "wof:lastmodified":1472613836,
+    "wof:lastmodified":1492055142,
     "wof:name":"Head O Meadow Elementry School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

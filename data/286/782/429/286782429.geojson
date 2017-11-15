@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.6355,41.143347,-73.6355,41.143347",
     "geom:latitude":41.143347,
     "geom:longitude":-73.6355,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85850923
+        85850923,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"74e4f3623d86b70ec234d39d9eefcd23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85850923,
             "region_id":85688629,
             "venue_id":286782429
         }
     ],
     "wof:id":286782429,
-    "wof:lastmodified":1472606492,
+    "wof:lastmodified":1492029246,
     "wof:name":"Andiron Management",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",

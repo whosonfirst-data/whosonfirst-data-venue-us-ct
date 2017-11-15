@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.666249,41.000999,-73.666249,41.000999",
     "geom:latitude":41.000999,
     "geom:longitude":-73.666249,
@@ -41,7 +42,15 @@
         "retail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FPBjBdsTWw1cLfzCgqGBb_41.000999_-73.666249@1294084077"
@@ -49,11 +58,22 @@
     "wof:country":"US",
     "wof:created":1463443888,
     "wof:geomhash":"84fcc67fb7568be524067840af049b2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823684819
+        }
+    ],
     "wof:id":823684819,
-    "wof:lastmodified":1472613691,
+    "wof:lastmodified":1492029266,
     "wof:name":"Neri's Bakery Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

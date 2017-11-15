@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.173592,41.500587,-73.173592,41.500587",
     "geom:latitude":41.500587,
     "geom:longitude":-73.173592,
@@ -32,7 +33,13 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_349lOnNcbgkiAAM8Ba5Gbe_41.500587_-73.173592@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463446647,
     "wof:geomhash":"982d395ef687aaa7411fbb1c7b5688ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823797625
+        }
+    ],
     "wof:id":823797625,
-    "wof:lastmodified":1472613825,
+    "wof:lastmodified":1492029205,
     "wof:name":"G & L Gollenberg Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

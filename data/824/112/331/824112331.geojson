@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218163,41.538609,-73.218163,41.538609",
     "geom:latitude":41.538609,
     "geom:longitude":-73.218163,
@@ -32,7 +33,10 @@
         "nursery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hOGkRANAFWnFvhJEwj8ob_41.538609_-73.218163@1303262246"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463454601,
     "wof:geomhash":"f4e25ac2fbe3a0cd94190067751d9ebc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":824112331
+        }
+    ],
     "wof:id":824112331,
-    "wof:lastmodified":1472613323,
+    "wof:lastmodified":1492054735,
     "wof:name":"Early Learning Center Of Woodbury",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

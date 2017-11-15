@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.25999,41.653181,-73.25999,41.653181",
     "geom:latitude":41.653181,
     "geom:longitude":-73.25999,
@@ -28,7 +29,15 @@
     "sg:postcode":"06751",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555561,
+        85688629,
+        85859063,
+        102085375,
+        85847045,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61ueYWyA9KDCx8J2JQqpS0_41.653181_-73.259990@1294084077"
@@ -36,11 +45,36 @@
     "wof:country":"US",
     "wof:created":1463443329,
     "wof:geomhash":"7dba20fb5962ca6420e05b4e01270df8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":823659789
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85859063,
+            "region_id":85688629,
+            "venue_id":823659789
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":823659789
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":823659789
+        }
+    ],
     "wof:id":823659789,
-    "wof:lastmodified":1472613420,
+    "wof:lastmodified":1492054989,
     "wof:name":"West Hill Woods Condo Assn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

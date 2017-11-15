@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.171995,41.63577,-73.171995,41.63577",
     "geom:latitude":41.63577,
     "geom:longitude":-73.171995,
@@ -32,7 +33,12 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816587,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SIwlF7J74JGQzOUJEBQRh_41.635770_-73.171995@1294084077"
@@ -40,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1463446645,
     "wof:geomhash":"064508082a374933116bdfd3a2cbd3fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816587,
+            "region_id":85688629,
+            "venue_id":823797547
+        }
+    ],
     "wof:id":823797547,
-    "wof:lastmodified":1472613819,
+    "wof:lastmodified":1492054965,
     "wof:name":"Joe South Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

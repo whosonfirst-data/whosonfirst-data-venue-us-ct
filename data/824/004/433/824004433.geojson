@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.553565,41.161983,-73.553565,41.161983",
     "geom:latitude":41.161983,
     "geom:longitude":-73.553565,
@@ -31,7 +32,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oT3G0yEmPGuXZa7ENVVot_41.161983_-73.553565@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463452089,
     "wof:geomhash":"ed6a321e66268e5956fcb02bae2bb993",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":824004433
+        }
+    ],
     "wof:id":824004433,
-    "wof:lastmodified":1472607362,
+    "wof:lastmodified":1492026932,
     "wof:name":"Dytel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

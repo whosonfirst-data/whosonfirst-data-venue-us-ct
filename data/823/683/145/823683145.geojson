@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.470822,41.452794,-73.470822,41.452794",
     "geom:latitude":41.452794,
     "geom:longitude":-73.470822,
@@ -31,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555479,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y7Vu4EQ9qxSQ4eYo9810L_41.452794_-73.470822@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463443854,
     "wof:geomhash":"a7ea4252b0c865dccc2315a2fcf76369",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555479,
+            "region_id":85688629,
+            "venue_id":823683145
+        }
+    ],
     "wof:id":823683145,
-    "wof:lastmodified":1472613670,
+    "wof:lastmodified":1492055046,
     "wof:name":"Advanced Technologies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

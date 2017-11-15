@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.483795,41.146545,-73.483795,41.146545",
     "geom:latitude":41.146545,
     "geom:longitude":-73.483795,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"fefe7995a0889dae387c8ffb2c0c2c9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":287081661
         }
     ],
     "wof:id":287081661,
-    "wof:lastmodified":1472606292,
+    "wof:lastmodified":1492029277,
     "wof:name":"New Canaan Housing Authority",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

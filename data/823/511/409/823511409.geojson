@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.29103,41.383127,-73.29103,41.383127",
     "geom:latitude":41.383127,
     "geom:longitude":-73.29103,
@@ -33,12 +34,7 @@
         "source"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dwPgjVprIb5RtCpQvZ6zC_41.383127_-73.291030@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463439820,
     "wof:geomhash":"d0a714ccf67823c7bd14577a2488c521",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823511409
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823511409,
-    "wof:lastmodified":1472612624,
+    "wof:lastmodified":1492055016,
     "wof:name":"Partners Intl Foundation Inc",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

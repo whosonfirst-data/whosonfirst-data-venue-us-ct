@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.410072,41.468402,-73.410072,41.468402",
     "geom:latitude":41.468402,
     "geom:longitude":-73.410072,
@@ -38,7 +39,10 @@
     ],
     "sg:website":"www.kidsteachingkids.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09n1kRNHe2rD9GMUPJ3bjN_41.468402_-73.410072@1294084077"
@@ -46,11 +50,17 @@
     "wof:country":"US",
     "wof:created":1463445345,
     "wof:geomhash":"4c07f17989751264a38ab2c9aba289ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823748717
+        }
+    ],
     "wof:id":823748717,
-    "wof:lastmodified":1472613734,
+    "wof:lastmodified":1492061792,
     "wof:name":"Covenant Technology LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

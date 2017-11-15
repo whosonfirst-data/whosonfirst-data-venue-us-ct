@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.133947,41.609214,-73.133947,41.609214",
     "geom:latitude":41.609214,
     "geom:longitude":-73.133947,
@@ -28,7 +29,10 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Ga7A1W7hRnNWplkyJvlvD_41.609214_-73.133947@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463450114,
     "wof:geomhash":"49da81874a4a4184178a318773e64f53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555553,
+            "venue_id":823924365
+        }
+    ],
     "wof:id":823924365,
-    "wof:lastmodified":1472613897,
+    "wof:lastmodified":1492027028,
     "wof:name":"Design Concepts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

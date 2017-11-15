@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.181971,41.177961,-73.181971,41.177961",
     "geom:latitude":41.177961,
     "geom:longitude":-73.181971,
@@ -31,7 +32,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555449,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3U8DKh1uvHcSsHQp36nCKw_41.177961_-73.181971@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463442798,
     "wof:geomhash":"15436c86890ca013978b0b4d7b52b0fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555449,
+            "region_id":85688629,
+            "venue_id":823637531
+        }
+    ],
     "wof:id":823637531,
-    "wof:lastmodified":1472613403,
+    "wof:lastmodified":1492029259,
     "wof:name":"Jeans Garage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

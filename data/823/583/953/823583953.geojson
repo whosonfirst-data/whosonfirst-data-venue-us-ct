@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.493394,41.228676,-73.493394,41.228676",
     "geom:latitude":41.228676,
     "geom:longitude":-73.493394,
@@ -32,7 +33,13 @@
         "transporting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495863,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NmB8pGvQcrnyIqigqdjQu_41.228676_-73.493394@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463441514,
     "wof:geomhash":"5fd270f204c5934e478660bbb30b95c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "region_id":85688629,
+            "venue_id":823583953
+        }
+    ],
     "wof:id":823583953,
-    "wof:lastmodified":1472613346,
+    "wof:lastmodified":1492029113,
     "wof:name":"Nyconn Horse Transport",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

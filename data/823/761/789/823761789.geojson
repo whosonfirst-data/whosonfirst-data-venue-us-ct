@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.101831,41.537255,-73.101831,41.537255",
     "geom:latitude":41.537255,
     "geom:longitude":-73.101831,
@@ -28,7 +29,10 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qxjTYsv4ZV7fJXfZO2qSq_41.537255_-73.101831@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463445651,
     "wof:geomhash":"dd2758d2130ab443c2a6cc3465a942b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823761789
+        }
+    ],
     "wof:id":823761789,
-    "wof:lastmodified":1472613835,
+    "wof:lastmodified":1492027167,
     "wof:name":"Walter M Phillips PHD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

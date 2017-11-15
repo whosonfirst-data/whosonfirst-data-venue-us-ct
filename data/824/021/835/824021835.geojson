@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.205882,41.549498,-73.205882,41.549498",
     "geom:latitude":41.549498,
     "geom:longitude":-73.205882,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5slQgUY9kOhAVY6B3QLAHW_41.549498_-73.205882@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463452467,
     "wof:geomhash":"5ed2f8e221cc90ed54201e1a15a7afa9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":824021835
+        }
+    ],
     "wof:id":824021835,
-    "wof:lastmodified":1472609790,
+    "wof:lastmodified":1492040585,
     "wof:name":"James S Bauer DMD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.213285,41.179847,-73.213285,41.179847",
     "geom:latitude":41.179847,
     "geom:longitude":-73.213285,
@@ -31,7 +32,15 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555433,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GF1qNoU7j0AwqkI5kgbD3_41.179847_-73.213285@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463449190,
     "wof:geomhash":"909c671c2ecd78a1f3c95be8c7623000",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555433,
+            "region_id":85688629,
+            "venue_id":823889521
+        }
+    ],
     "wof:id":823889521,
-    "wof:lastmodified":1472613926,
+    "wof:lastmodified":1492054611,
     "wof:name":"Michael Cappiello MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

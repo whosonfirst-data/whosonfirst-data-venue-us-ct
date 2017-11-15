@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.430885,41.192807,-73.430885,41.192807",
     "geom:latitude":41.192807,
     "geom:longitude":-73.430885,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"7f517a0ce21de52007a3d24b04b36907",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":823503289
         }
     ],
     "wof:id":823503289,
-    "wof:lastmodified":1472611918,
+    "wof:lastmodified":1492051885,
     "wof:name":"Masada Group Technologies Co",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

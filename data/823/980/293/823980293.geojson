@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.523734,41.31498,-73.523734,41.31498",
     "geom:latitude":41.31498,
     "geom:longitude":-73.523734,
@@ -28,7 +29,13 @@
     "sg:postcode":"06877",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ePLwDMOCfJdPtS8i4xOfx_41.314980_-73.523734@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463451493,
     "wof:geomhash":"01bc370b3a871f4777785dc2e12df50c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823980293
+        }
+    ],
     "wof:id":823980293,
-    "wof:lastmodified":1472613894,
+    "wof:lastmodified":1492027095,
     "wof:name":"Lisa Scroggins",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

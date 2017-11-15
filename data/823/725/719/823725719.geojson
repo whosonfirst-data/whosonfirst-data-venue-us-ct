@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.637459,41.030586,-73.637459,41.030586",
     "geom:latitude":41.030586,
     "geom:longitude":-73.637459,
@@ -32,7 +33,15 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XproR9IniyEkdW2VAJIWm_41.030586_-73.637459@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463444800,
     "wof:geomhash":"6919275a589dceeb4432c5f237e433e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823725719
+        }
+    ],
     "wof:id":823725719,
-    "wof:lastmodified":1472613745,
+    "wof:lastmodified":1492029253,
     "wof:name":"Conference Advisors Inc (del)",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

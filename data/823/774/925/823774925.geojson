@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408685,41.478582,-73.408685,41.478582",
     "geom:latitude":41.478582,
     "geom:longitude":-73.408685,
@@ -32,7 +33,10 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YeOLCMqLk8lpRilmbNuw5_41.478582_-73.408685@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463445956,
     "wof:geomhash":"ccf1ff36476af0d8f4eb3949d8a4e731",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823774925
+        }
+    ],
     "wof:id":823774925,
-    "wof:lastmodified":1472613847,
+    "wof:lastmodified":1492054354,
     "wof:name":"M G Cleaners & Tailors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

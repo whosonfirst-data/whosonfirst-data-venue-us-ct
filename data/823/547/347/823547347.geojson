@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.662431,41.037765,-73.662431,41.037765",
     "geom:latitude":41.037765,
     "geom:longitude":-73.662431,
@@ -31,7 +32,15 @@
         "psychotherapist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ApsY4pjsCDESb4YBjBuy7_41.037765_-73.662431@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463440638,
     "wof:geomhash":"7a4c135ad4e83a0746205616e1ca7bf1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823547347
+        }
+    ],
     "wof:id":823547347,
-    "wof:lastmodified":1472613299,
+    "wof:lastmodified":1492068752,
     "wof:name":"Gerald J Gargiulo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

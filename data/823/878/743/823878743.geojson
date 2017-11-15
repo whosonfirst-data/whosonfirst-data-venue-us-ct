@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408931,41.474623,-73.408931,41.474623",
     "geom:latitude":41.474623,
     "geom:longitude":-73.408931,
@@ -31,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HqIFfeOdyPrhedGsyw8Aw_41.474623_-73.408931@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463448945,
     "wof:geomhash":"192d7fbce2bd9fbe1f50bf1f0c90ee98",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823878743
+        }
+    ],
     "wof:id":823878743,
-    "wof:lastmodified":1472613921,
+    "wof:lastmodified":1492052929,
     "wof:name":"Slotnick Laurie MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

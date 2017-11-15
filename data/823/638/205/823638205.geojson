@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.656175,41.002911,-73.656175,41.002911",
     "geom:latitude":41.002911,
     "geom:longitude":-73.656175,
@@ -34,7 +35,14 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b972JmBurgOlsQn7sbe08_41.002911_-73.656175@1294084077"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1463442813,
     "wof:geomhash":"f498627a9d6ace9d3989419fb3894707",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823638205
+        }
+    ],
     "wof:id":823638205,
-    "wof:lastmodified":1472613391,
+    "wof:lastmodified":1492029265,
     "wof:name":"Marrano Glass & Mirrors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.553159,41.064505,-73.553159,41.064505",
     "geom:latitude":41.064505,
     "geom:longitude":-73.553159,
@@ -28,7 +29,15 @@
     "sg:postcode":"06905",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kwxHP3pYA7jNPRsui6sPj_41.064505_-73.553159@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463448261,
     "wof:geomhash":"0a844b13fcf7ee504251525afd913c22",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":823851537
+        }
+    ],
     "wof:id":823851537,
-    "wof:lastmodified":1472613822,
+    "wof:lastmodified":1492027083,
     "wof:name":"Daniel Lombardi",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

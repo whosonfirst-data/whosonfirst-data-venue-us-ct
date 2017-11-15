@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.932285,41.349293,-72.932285,41.349293",
     "geom:latitude":41.349293,
     "geom:longitude":-72.932285,
@@ -36,9 +37,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85885309,
+        85850561,
         102086923,
-        85850561
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,22 +52,22 @@
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85885309,
+            "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":824078345
         },
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85850561,
+            "neighbourhood_id":85885309,
             "region_id":85688629,
             "venue_id":824078345
         }
     ],
     "wof:id":824078345,
-    "wof:lastmodified":1472612320,
+    "wof:lastmodified":1491890336,
     "wof:name":"Subway",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

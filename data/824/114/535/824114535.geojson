@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.431417,41.426689,-73.431417,41.426689",
     "geom:latitude":41.426689,
     "geom:longitude":-73.431417,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555459,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5F6sHnmyKB6QmUK5N8AJwx_41.426689_-73.431417@1303262247"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463454649,
     "wof:geomhash":"5be74f167140456006893696b5363b4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555459,
+            "region_id":85688629,
+            "venue_id":824114535
+        }
+    ],
     "wof:id":824114535,
-    "wof:lastmodified":1472613313,
+    "wof:lastmodified":1492040681,
     "wof:name":"Dacon Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

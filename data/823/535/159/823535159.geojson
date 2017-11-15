@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.085298,41.312899,-73.085298,41.312899",
     "geom:latitude":41.312899,
     "geom:longitude":-73.085298,
@@ -32,7 +33,14 @@
         "gravel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5L6SsPfXXLoyygYWVnAzFb_41.312899_-73.085298@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463440358,
     "wof:geomhash":"d6a2efbfc645b3123a448d90932415ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823535159
+        }
+    ],
     "wof:id":823535159,
-    "wof:lastmodified":1472613280,
+    "wof:lastmodified":1492027173,
     "wof:name":"John J Brennan Construction Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.38799,41.74176,-73.38799,41.74176",
     "geom:latitude":41.74176,
     "geom:longitude":-73.38799,
@@ -32,7 +33,10 @@
         "other"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555551
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sI1sBvht2ldG6SOEOlPPx_41.741760_-73.387990@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463451706,
     "wof:geomhash":"50b79a95d74d24163128bfa03c647adb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555551,
+            "venue_id":823989577
+        }
+    ],
     "wof:id":823989577,
-    "wof:lastmodified":1472613951,
+    "wof:lastmodified":1492027116,
     "wof:name":"Cornwall Millwork Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

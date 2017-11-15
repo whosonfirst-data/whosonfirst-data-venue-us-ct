@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218222,41.223185,-73.218222,41.223185",
     "geom:latitude":41.223185,
     "geom:longitude":-73.218222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4531 Main St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -31,19 +33,39 @@
         "mattress"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
+    "wof:brand_id":1125153995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Qs4OVUp905EukM9xVBOoG_41.223185_-73.218222@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463447171,
-    "wof:geomhash":"42e48d395500b748d3b3f887536b2af7",
-    "wof:hierarchy":[],
+    "wof:geomhash":"5e48601e87511fc6b50da21e97c64299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823815721
+        }
+    ],
     "wof:id":823815721,
-    "wof:lastmodified":1472613815,
+    "wof:lastmodified":1510697401,
     "wof:name":"Sleepy's",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

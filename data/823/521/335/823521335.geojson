@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.436047,41.536353,-73.436047,41.536353",
     "geom:latitude":41.536353,
     "geom:longitude":-73.436047,
@@ -34,12 +35,7 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85809223,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3A5MfRqz0zBHdr71uMG4Pz_41.536353_-73.436047@1294084077"
@@ -47,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1463440056,
     "wof:geomhash":"ebe37b64a923dc84ac65494e00f7fdd8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85809223,
-            "region_id":85688629,
-            "venue_id":823521335
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823521335,
-    "wof:lastmodified":1472613283,
+    "wof:lastmodified":1492062394,
     "wof:name":"Fairfax Data Systems",
     "wof:parent_id":85809223,
     "wof:placetype":"venue",

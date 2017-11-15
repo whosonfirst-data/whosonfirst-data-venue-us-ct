@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.385857,41.254315,-73.385857,41.254315",
     "geom:latitude":41.254315,
     "geom:longitude":-73.385857,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"6964c09766357b3eb3c9d731efb006e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":823550153
         }
     ],
     "wof:id":823550153,
-    "wof:lastmodified":1472613296,
+    "wof:lastmodified":1492026959,
     "wof:name":"Trade Area Marketing Group",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

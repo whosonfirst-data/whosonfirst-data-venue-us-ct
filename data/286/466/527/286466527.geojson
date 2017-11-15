@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.500158,41.141908,-73.500158,41.141908",
     "geom:latitude":41.141908,
     "geom:longitude":-73.500158,
@@ -39,8 +40,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +51,15 @@
     "wof:geomhash":"96192f8aa3016326da8a1acbf593e032",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":286466527
         }
     ],
     "wof:id":286466527,
-    "wof:lastmodified":1472606533,
+    "wof:lastmodified":1492040575,
     "wof:name":"TELETERIA.COM",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

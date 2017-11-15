@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.284589,41.282961,-73.284589,41.282961",
     "geom:latitude":41.282961,
     "geom:longitude":-73.284589,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"16c2b7933e79f44d8a0c8be573b616f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823835391
         }
     ],
     "wof:id":823835391,
-    "wof:lastmodified":1472613790,
+    "wof:lastmodified":1492061712,
     "wof:name":"Colony Builders Supply Inc",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

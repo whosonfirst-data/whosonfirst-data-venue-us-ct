@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.572367,41.133558,-73.572367,41.133558",
     "geom:latitude":41.133558,
     "geom:longitude":-73.572367,
@@ -31,7 +32,14 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QN7lnSC39B0BWco3Umlfy_41.133558_-73.572367@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463446556,
     "wof:geomhash":"2452298374cc97fed33b274518b8e99a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823794455
+        }
+    ],
     "wof:id":823794455,
-    "wof:lastmodified":1472613808,
+    "wof:lastmodified":1492029233,
     "wof:name":"Telementor Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

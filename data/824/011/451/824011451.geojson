@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.33155,41.185182,-73.33155,41.185182",
     "geom:latitude":41.185182,
     "geom:longitude":-73.33155,
@@ -34,7 +35,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gc7vMs1RAguWy8NnyCsdb_41.185182_-73.331550@1294084077"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463452227,
     "wof:geomhash":"afc94f0eb7160d586be1990fd55f9e88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":824011451
+        }
+    ],
     "wof:id":824011451,
-    "wof:lastmodified":1472607195,
+    "wof:lastmodified":1492027110,
     "wof:name":"Walker Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

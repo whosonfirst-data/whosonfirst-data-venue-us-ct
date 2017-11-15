@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.146455,41.193121,-73.146455,41.193121",
     "geom:latitude":41.193121,
     "geom:longitude":-73.146455,
@@ -34,13 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85888495,
+        85834249,
         102191575,
-        404495857,
+        404495939,
         85633793,
-        85930997,
+        85930811,
         102084283,
-        85688629
+        85688629,
+        85888495,
+        404495857,
+        85930997
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,6 +58,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85834249,
+            "region_id":85688629,
+            "venue_id":823469217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
             "localadmin_id":404495857,
             "locality_id":85930997,
             "neighbourhood_id":85888495,
@@ -62,9 +76,9 @@
         }
     ],
     "wof:id":823469217,
-    "wof:lastmodified":1472606856,
+    "wof:lastmodified":1492038162,
     "wof:name":"Advanced Security Technologies",
-    "wof:parent_id":85888495,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

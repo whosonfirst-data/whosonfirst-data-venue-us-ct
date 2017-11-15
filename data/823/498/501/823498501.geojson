@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.59438,41.125632,-73.59438,41.125632",
     "geom:latitude":41.125632,
     "geom:longitude":-73.59438,
@@ -28,7 +29,14 @@
     "sg:postcode":"06903",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35Yn78FFLeYgcyZp52cEGt_41.125632_-73.594380@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463439544,
     "wof:geomhash":"043aca12d88b964fc3394c9a181331b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823498501
+        }
+    ],
     "wof:id":823498501,
-    "wof:lastmodified":1472611075,
+    "wof:lastmodified":1492029035,
     "wof:name":"Legacy Financial Advisors LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

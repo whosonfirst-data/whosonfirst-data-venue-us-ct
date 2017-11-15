@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197131,41.245326,-73.197131,41.245326",
     "geom:latitude":41.245326,
     "geom:longitude":-73.197131,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2O6tyVGY2cKH5Sg8U52Lif_41.245326_-73.197131@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463443157,
     "wof:geomhash":"427519bac02ea71ebd2c6ca6ca4cd443",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":823653507
+        }
+    ],
     "wof:id":823653507,
-    "wof:lastmodified":1472613411,
+    "wof:lastmodified":1492068783,
     "wof:name":"Marie's Sandwich Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

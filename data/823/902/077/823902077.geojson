@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.102919,41.537463,-73.102919,41.537463",
     "geom:latitude":41.537463,
     "geom:longitude":-73.102919,
@@ -31,7 +32,10 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4jIZsw6n61z4WgP0NHnJHb_41.537463_-73.102919@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463449518,
     "wof:geomhash":"6b207886e05a8a661b5d140e9b45755f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823902077
+        }
+    ],
     "wof:id":823902077,
-    "wof:lastmodified":1472613873,
+    "wof:lastmodified":1492027168,
     "wof:name":"Smith & D'Angelo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

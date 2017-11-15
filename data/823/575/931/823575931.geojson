@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.100262,41.313174,-73.100262,41.313174",
     "geom:latitude":41.313174,
     "geom:longitude":-73.100262,
@@ -32,7 +33,14 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Y6a7w4CRLQD6UEwxt0XHq_41.313174_-73.100262@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463441322,
     "wof:geomhash":"e51bb74f66ef01e32410dadafbcaba2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823575931
+        }
+    ],
     "wof:id":823575931,
-    "wof:lastmodified":1472613357,
+    "wof:lastmodified":1492054977,
     "wof:name":"Margiano's Travel Lube",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

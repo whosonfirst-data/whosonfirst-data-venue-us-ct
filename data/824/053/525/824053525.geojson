@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.370188,41.213885,-73.370188,41.213885",
     "geom:latitude":41.213885,
     "geom:longitude":-73.370188,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"43b3072677a3c368b45be023971c2cc4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":824053525
         }
     ],
     "wof:id":824053525,
-    "wof:lastmodified":1472612900,
+    "wof:lastmodified":1492026267,
     "wof:name":"Bon Soiree",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

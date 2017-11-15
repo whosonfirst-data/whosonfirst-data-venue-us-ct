@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.244631,41.260225,-73.244631,41.260225",
     "geom:latitude":41.260225,
     "geom:longitude":-73.244631,
@@ -31,7 +32,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555487,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hcZk8xoWehE3lUSfW95BY_41.260225_-73.244631@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463444030,
     "wof:geomhash":"1cc95c75e002b60e50909731271f6e46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555487,
+            "region_id":85688629,
+            "venue_id":823690655
+        }
+    ],
     "wof:id":823690655,
-    "wof:lastmodified":1472613696,
+    "wof:lastmodified":1492054996,
     "wof:name":"Jaron Consulting LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

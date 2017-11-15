@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.353887,41.160669,-73.353887,41.160669",
     "geom:latitude":41.160669,
     "geom:longitude":-73.353887,
@@ -28,7 +29,15 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BiwdAWiLYtNytbgLWYMXU_41.160669_-73.353887@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463445172,
     "wof:geomhash":"fb733d1aaa834d50c520844eb3b747b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823740809
+        }
+    ],
     "wof:id":823740809,
-    "wof:lastmodified":1472613735,
+    "wof:lastmodified":1492027149,
     "wof:name":"Gary M & Margaret Reiner",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

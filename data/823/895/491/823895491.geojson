@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.176611,41.38083,-73.176611,41.38083",
     "geom:latitude":41.38083,
     "geom:longitude":-73.176611,
@@ -31,7 +32,13 @@
         "delicatessen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LuP6x5W1CZ8mnmoPVRllL_41.380830_-73.176611@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463449337,
     "wof:geomhash":"d1700840179d22bfa1db038d7f0b0ef4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":823895491
+        }
+    ],
     "wof:id":823895491,
-    "wof:lastmodified":1472613917,
+    "wof:lastmodified":1492027130,
     "wof:name":"Gabby's Deli LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

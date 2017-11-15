@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.282094,41.42019,-73.282094,41.42019",
     "geom:latitude":41.42019,
     "geom:longitude":-73.282094,
@@ -31,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oVx07kJgxbTQCGeAW9Cce_41.420190_-73.282094@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463442104,
     "wof:geomhash":"23478b37adcfd7c261b527a14680cf90",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823608741
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823608741,
-    "wof:lastmodified":1472613400,
+    "wof:lastmodified":1492027073,
     "wof:name":"J B Productions",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

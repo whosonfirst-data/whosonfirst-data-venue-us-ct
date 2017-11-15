@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.375879,41.115842,-73.375879,41.115842",
     "geom:latitude":41.115842,
     "geom:longitude":-73.375879,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879315,
+        420555513,
         102191575,
-        404495959,
+        404495861,
         85633793,
-        85930795,
+        85930969,
         102084283,
-        85688629
+        85688629,
+        85879315,
+        404495959,
+        85930795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +57,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555513,
+            "region_id":85688629,
+            "venue_id":823572977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
             "localadmin_id":404495959,
             "locality_id":85930795,
             "neighbourhood_id":85879315,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":823572977,
-    "wof:lastmodified":1472613357,
+    "wof:lastmodified":1491891990,
     "wof:name":"Braemax Holdings",
-    "wof:parent_id":85879315,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

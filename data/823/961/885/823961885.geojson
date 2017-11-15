@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.073343,41.299063,-73.073343,41.299063",
     "geom:latitude":41.299063,
     "geom:longitude":-73.073343,
@@ -33,7 +34,14 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BKF6BAh009qh1wzudUlXh_41.299063_-73.073343@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463451068,
     "wof:geomhash":"14b892fb5de6436fb37a361ac10e9211",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823961885
+        }
+    ],
     "wof:id":823961885,
-    "wof:lastmodified":1472613958,
+    "wof:lastmodified":1492062544,
     "wof:name":"Custom Surfacing & Cabinetry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

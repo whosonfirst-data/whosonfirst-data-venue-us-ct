@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.332484,41.168259,-73.332484,41.168259",
     "geom:latitude":41.168259,
     "geom:longitude":-73.332484,
@@ -31,7 +32,15 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qwIus24k634ufb3hYg2u4_41.168259_-73.332484@1303262247"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463454748,
     "wof:geomhash":"8d2d5eeab918e82431bf5014c315ddc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":824119015
+        }
+    ],
     "wof:id":824119015,
-    "wof:lastmodified":1472613319,
+    "wof:lastmodified":1492027110,
     "wof:name":"Gloria Ginter Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

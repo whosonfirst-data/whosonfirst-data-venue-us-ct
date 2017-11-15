@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.481691,41.436471,-73.481691,41.436471",
     "geom:latitude":41.436471,
     "geom:longitude":-73.481691,
@@ -33,7 +34,15 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555479,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eMN9PQ0UzhG8kF5kzDV5o_41.436471_-73.481691@1303262247"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463454650,
     "wof:geomhash":"4f57767a24bcb588f907d106316af147",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555479,
+            "region_id":85688629,
+            "venue_id":824114609
+        }
+    ],
     "wof:id":824114609,
-    "wof:lastmodified":1472613313,
+    "wof:lastmodified":1492055118,
     "wof:name":"Ac Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

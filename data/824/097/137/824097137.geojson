@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.174388,39.949497,-75.174388,39.949497",
     "geom:latitude":39.949497,
     "geom:longitude":-75.174388,
@@ -32,6 +33,7 @@
     "wof:belongsto":[
         85844705,
         102191575,
+        1108721797,
         404483701,
         85633793,
         101718083,
@@ -52,13 +54,14 @@
             "county_id":102081353,
             "localadmin_id":404483701,
             "locality_id":101718083,
+            "macrohood_id":1108721797,
             "neighbourhood_id":85844705,
             "region_id":85688481,
             "venue_id":824097137
         }
     ],
     "wof:id":824097137,
-    "wof:lastmodified":1472611703,
+    "wof:lastmodified":1489031176,
     "wof:name":"Mrs. Bridges Pantry",
     "wof:parent_id":85844705,
     "wof:placetype":"venue",

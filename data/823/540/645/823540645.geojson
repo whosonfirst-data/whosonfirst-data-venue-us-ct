@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.140279,41.515583,-73.140279,41.515583",
     "geom:latitude":41.515583,
     "geom:longitude":-73.140279,
@@ -31,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KtmDW28D5MocHbqi6OohJ_41.515583_-73.140279@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463440482,
     "wof:geomhash":"3c4858b31b2a2a838691bca0f74d780d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823540645
+        }
+    ],
     "wof:id":823540645,
-    "wof:lastmodified":1472613309,
+    "wof:lastmodified":1492061632,
     "wof:name":"ML Project Management Consulti",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

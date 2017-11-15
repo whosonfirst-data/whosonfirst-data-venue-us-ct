@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.716644,41.060685,-73.716644,41.060685",
     "geom:latitude":41.060685,
     "geom:longitude":-73.716644,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85845073,
+        102191575,
+        404523361,
         85633793,
-        102084283,
-        85845073
+        85978735,
+        102082373,
+        85688543
     ],
     "wof:brand_id":420574157,
     "wof:breaches":[],
@@ -47,17 +51,18 @@
     "wof:geomhash":"44adbc51cfa03ccf73f4e9620441303a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85845073,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":354200477
         }
     ],
     "wof:id":354200477,
-    "wof:lastmodified":1472606320,
+    "wof:lastmodified":1492055055,
     "wof:name":"Enterprise Rent A Car",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",

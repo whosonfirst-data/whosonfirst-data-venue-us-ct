@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.153442,41.50608,-73.153442,41.50608",
     "geom:latitude":41.50608,
     "geom:longitude":-73.153442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"65 N Benson Rd",
     "sg:city":"Middlebury",
     "sg:classifiers":[
@@ -31,17 +33,33 @@
         "rental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
+    "wof:brand_id":1125152345,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vu816YOps67c7lf1tjsI1_41.506080_-73.153442@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463444367,
-    "wof:geomhash":"527a0749afd378b9535476fb47642d64",
-    "wof:hierarchy":[],
+    "wof:geomhash":"9333b5e5e460f7d88d57496f6b05fb52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823706393
+        }
+    ],
     "wof:id":823706393,
-    "wof:lastmodified":1472613687,
+    "wof:lastmodified":1510613372,
     "wof:name":"First Student Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

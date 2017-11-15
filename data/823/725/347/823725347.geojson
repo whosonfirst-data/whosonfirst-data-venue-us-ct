@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.193998,41.186956,-73.193998,41.186956",
     "geom:latitude":41.186956,
     "geom:longitude":-73.193998,
@@ -36,7 +37,15 @@
         "parlor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gEM4pAHCViHMrJuWTjmt4_41.186956_-73.193998@1294084077"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1463444793,
     "wof:geomhash":"2d333c7e1da86d70ba4f17cf6518400f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823725347
+        }
+    ],
     "wof:id":823725347,
-    "wof:lastmodified":1472613724,
+    "wof:lastmodified":1492029223,
     "wof:name":"Hana-Yoru Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

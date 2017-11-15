@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.48214,41.698197,-73.48214,41.698197",
     "geom:latitude":41.698197,
     "geom:longitude":-73.48214,
@@ -31,7 +32,13 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496023,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x1naF4FQAU7CU8fFeD3am_41.698197_-73.482140@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463441607,
     "wof:geomhash":"fe7dab12cfc24180fcad5f87189ac819",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496023,
+            "region_id":85688629,
+            "venue_id":823588221
+        }
+    ],
     "wof:id":823588221,
-    "wof:lastmodified":1472613362,
+    "wof:lastmodified":1492054686,
     "wof:name":"Robert Couturier Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

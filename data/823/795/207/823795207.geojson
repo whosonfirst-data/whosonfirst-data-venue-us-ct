@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.586882,41.152032,-73.586882,41.152032",
     "geom:latitude":41.152032,
     "geom:longitude":-73.586882,
@@ -31,7 +32,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EbTocKUULZN8mydpUfNKG_41.152032_-73.586882@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463446580,
     "wof:geomhash":"893734d8c8edc1934806f0d5f7531ece",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823795207
+        }
+    ],
     "wof:id":823795207,
-    "wof:lastmodified":1472613758,
+    "wof:lastmodified":1492029041,
     "wof:name":"Sparacino Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

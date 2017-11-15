@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.44939,41.391735,-73.44939,41.391735",
     "geom:latitude":41.391735,
     "geom:longitude":-73.44939,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805179,
+        85821411,
         102191575,
         404495941,
         85633793,
         85930805,
         102084283,
-        85688629
+        85688629,
+        85805179
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,25 @@
             "county_id":102084283,
             "localadmin_id":404495941,
             "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823498655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
             "neighbourhood_id":85805179,
             "region_id":85688629,
             "venue_id":823498655
         }
     ],
     "wof:id":823498655,
-    "wof:lastmodified":1472612753,
+    "wof:lastmodified":1492055022,
     "wof:name":"Tikhomirova Svetlana MD",
-    "wof:parent_id":85805179,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

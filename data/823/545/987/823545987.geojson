@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.305085,41.246167,-73.305085,41.246167",
     "geom:latitude":41.246167,
     "geom:longitude":-73.305085,
@@ -31,12 +32,7 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85803807,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2st1qZdsm1IsheXO3wkTIf_41.246167_-73.305085@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463440605,
     "wof:geomhash":"6fc3e1eac8f5807232210214fda5f442",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85803807,
-            "region_id":85688629,
-            "venue_id":823545987
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823545987,
-    "wof:lastmodified":1472613310,
+    "wof:lastmodified":1492061703,
     "wof:name":"Supranos Group Inc",
     "wof:parent_id":85803807,
     "wof:placetype":"venue",

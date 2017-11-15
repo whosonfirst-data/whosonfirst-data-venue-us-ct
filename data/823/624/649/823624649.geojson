@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.94779,41.346275,-72.94779,41.346275",
     "geom:latitude":41.346275,
     "geom:longitude":-72.94779,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
-        85885309,
-        102086923,
         85879159,
         102191575,
         404495787,
-        85930897
+        85633793,
+        85930897,
+        102086923,
+        85688629,
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +52,6 @@
     "wof:geomhash":"3d018795556e94f785ef503c57a4c270",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":823624649
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
@@ -66,12 +60,19 @@
             "neighbourhood_id":85879159,
             "region_id":85688629,
             "venue_id":823624649
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823624649
         }
     ],
     "wof:id":823624649,
-    "wof:lastmodified":1472613406,
+    "wof:lastmodified":1491936222,
     "wof:name":"Zoot Studios Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

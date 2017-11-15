@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.493889,41.149065,-73.493889,41.149065",
     "geom:latitude":41.149065,
     "geom:longitude":-73.493889,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"d097984cddff3d3a0f1e139a90e35fe8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":253296095
         }
     ],
     "wof:id":253296095,
-    "wof:lastmodified":1472606256,
+    "wof:lastmodified":1492055062,
     "wof:name":"Ad Concepts",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

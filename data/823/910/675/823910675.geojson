@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.242241,41.293286,-73.242241,41.293286",
     "geom:latitude":41.293286,
     "geom:longitude":-73.242241,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.baronengraving.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555497,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OEDYq7ywbKVXZYBefwiJ7_41.293286_-73.242241@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463449762,
     "wof:geomhash":"2c587970003341fbab2d6487780bdb71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555497,
+            "region_id":85688629,
+            "venue_id":823910675
+        }
+    ],
     "wof:id":823910675,
-    "wof:lastmodified":1472613935,
+    "wof:lastmodified":1492054909,
     "wof:name":"Baron Technology Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555497,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.468103,41.50468,-73.468103,41.50468",
     "geom:latitude":41.50468,
     "geom:longitude":-73.468103,
@@ -32,12 +33,7 @@
         "component"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BxIvgOeGA64UIUTI37rPI_41.504680_-73.468103@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463443340,
     "wof:geomhash":"3dca5edd39c6b5e46343fdb0f3f1de3c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":823660203
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823660203,
-    "wof:lastmodified":1472613389,
+    "wof:lastmodified":1492054594,
     "wof:name":"Ic Electronics LLC",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

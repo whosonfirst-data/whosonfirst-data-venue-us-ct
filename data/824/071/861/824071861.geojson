@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.157741,41.628284,-73.157741,41.628284",
     "geom:latitude":41.628284,
     "geom:longitude":-73.157741,
@@ -25,7 +26,12 @@
         "farm"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816587,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iCpBo1b8D1dYSlb0Xjp4k_41.628284_-73.157741@1294084077"
@@ -33,11 +39,19 @@
     "wof:country":"US",
     "wof:created":1463453663,
     "wof:geomhash":"d9f3d2d0c799b6bd94d1f8294f6a0c0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816587,
+            "region_id":85688629,
+            "venue_id":824071861
+        }
+    ],
     "wof:id":824071861,
-    "wof:lastmodified":1472613255,
+    "wof:lastmodified":1492054687,
     "wof:name":"Curtis Snow Plows & Spreaders",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

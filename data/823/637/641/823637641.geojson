@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.255784,41.239547,-73.255784,41.239547",
     "geom:latitude":41.239547,
     "geom:longitude":-73.255784,
@@ -31,12 +32,7 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_768J7PztBcLrRVd8aKTwbX_41.239547_-73.255784@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463442800,
     "wof:geomhash":"75ff0c7b4b53e244ae6e7d3ff8b5d0fc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823637641
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823637641,
-    "wof:lastmodified":1472613410,
+    "wof:lastmodified":1492061706,
     "wof:name":"Fabrizio Construction",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

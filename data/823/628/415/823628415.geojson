@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.556099,41.151953,-73.556099,41.151953",
     "geom:latitude":41.151953,
     "geom:longitude":-73.556099,
@@ -32,7 +33,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BGeY7vKpQTajaagp4VZpg_41.151953_-73.556099@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463442597,
     "wof:geomhash":"a09613cb46d268c614e00274600b6b62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823628415
+        }
+    ],
     "wof:id":823628415,
-    "wof:lastmodified":1472613418,
+    "wof:lastmodified":1492040578,
     "wof:name":"Ridgefield Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

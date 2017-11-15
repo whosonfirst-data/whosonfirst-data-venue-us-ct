@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.135097,41.522788,-73.135097,41.522788",
     "geom:latitude":41.522788,
     "geom:longitude":-73.135097,
@@ -32,7 +33,10 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_430DzM8FDO5p6wWBUJqypu_41.522788_-73.135097@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463445150,
     "wof:geomhash":"e0c332f2c3cd6cb4720f24b5f73d2478",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823739593
+        }
+    ],
     "wof:id":823739593,
-    "wof:lastmodified":1472613729,
+    "wof:lastmodified":1492062395,
     "wof:name":"High Lonesome",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

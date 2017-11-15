@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.295888,41.6256,-73.295888,41.6256",
     "geom:latitude":41.6256,
     "geom:longitude":-73.295888,
@@ -28,7 +29,10 @@
     "sg:postcode":"06793",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LVWFkVThW8C1t87YtNXWR_41.625600_-73.295888@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463447923,
     "wof:geomhash":"52aeabe4458b1adfcef6836a3a8e4497",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":823839445
+        }
+    ],
     "wof:id":823839445,
-    "wof:lastmodified":1472613791,
+    "wof:lastmodified":1492026979,
     "wof:name":"Litchfield Intermediate School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

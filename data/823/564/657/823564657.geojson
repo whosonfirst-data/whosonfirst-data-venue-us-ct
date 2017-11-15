@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.525426,41.055669,-73.525426,41.055669",
     "geom:latitude":41.055669,
     "geom:longitude":-73.525426,
@@ -31,7 +32,15 @@
         "yard"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HOcP8ru9Kk8rLrTvO6YKK_41.055669_-73.525426@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463441056,
     "wof:geomhash":"4f4a1cd8499a1b27ec6778a15b592850",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823564657
+        }
+    ],
     "wof:id":823564657,
-    "wof:lastmodified":1472613334,
+    "wof:lastmodified":1492029150,
     "wof:name":"Rent-A-Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

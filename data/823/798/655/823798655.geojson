@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.343798,41.489447,-73.343798,41.489447",
     "geom:latitude":41.489447,
     "geom:longitude":-73.343798,
@@ -28,7 +29,13 @@
     "sg:postcode":"06752",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496015,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pEeoKJaPaSgIpCnUOG3Nw_41.489447_-73.343798@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463446676,
     "wof:geomhash":"3b894ccd4229680a6672503a4bff7d52",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496015,
+            "region_id":85688629,
+            "venue_id":823798655
+        }
+    ],
     "wof:id":823798655,
-    "wof:lastmodified":1472613823,
+    "wof:lastmodified":1492062285,
     "wof:name":"133 Bridgewater Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

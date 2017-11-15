@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092088,41.553431,-73.092088,41.553431",
     "geom:latitude":41.553431,
     "geom:longitude":-73.092088,
@@ -28,7 +29,10 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Rdv2UfM2c54sYP69gDkKu_41.553431_-73.092088@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463452994,
     "wof:geomhash":"c4bc5d19495514cda57561bc9e38a3bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824042679
+        }
+    ],
     "wof:id":824042679,
-    "wof:lastmodified":1472610120,
+    "wof:lastmodified":1492051778,
     "wof:name":"Ezpharm Pharmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

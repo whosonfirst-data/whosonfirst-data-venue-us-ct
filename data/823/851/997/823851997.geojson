@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.093152,41.317661,-73.093152,41.317661",
     "geom:latitude":41.317661,
     "geom:longitude":-73.093152,
@@ -33,7 +34,14 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Th5MwGTuJAfjFsfY5HHJt_41.317661_-73.093152@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463448274,
     "wof:geomhash":"6d866b3d68d9b08e418723d0d2961a5e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823851997
+        }
+    ],
     "wof:id":823851997,
-    "wof:lastmodified":1472613852,
+    "wof:lastmodified":1492027054,
     "wof:name":"Bob Boroski School Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

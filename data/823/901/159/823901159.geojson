@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.096316,41.563869,-73.096316,41.563869",
     "geom:latitude":41.563869,
     "geom:longitude":-73.096316,
@@ -31,7 +32,10 @@
         "amusement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3at6ko4rRQm8DU59qrnUu6_41.563869_-73.096316@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463449488,
     "wof:geomhash":"c72e9d911d538f632cb2d09ebe6819e3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823901159
+        }
+    ],
     "wof:id":823901159,
-    "wof:lastmodified":1472613882,
+    "wof:lastmodified":1492027167,
     "wof:name":"Juxtaposed LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

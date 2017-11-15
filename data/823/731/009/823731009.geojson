@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.49429,41.430371,-73.49429,41.430371",
     "geom:latitude":41.430371,
     "geom:longitude":-73.49429,
@@ -31,7 +32,14 @@
         "janitor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uiyHfmXrtg2108rGSc0nb_41.430371_-73.494290@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463444930,
     "wof:geomhash":"961e4d0f8af68806c6a4bbabaa8da7e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823731009
+        }
+    ],
     "wof:id":823731009,
-    "wof:lastmodified":1472613715,
+    "wof:lastmodified":1492040676,
     "wof:name":"Ace Cleaning Svc-Connecticut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.112494,41.311654,-73.112494,41.311654",
     "geom:latitude":41.311654,
     "geom:longitude":-73.112494,
@@ -31,7 +32,14 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vag1hsWAflO1tD6pgWqvu_41.311654_-73.112494@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463452739,
     "wof:geomhash":"bdf7898ac7d304c63dfddec60588c86f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":824033173
+        }
+    ],
     "wof:id":824033173,
-    "wof:lastmodified":1472609010,
+    "wof:lastmodified":1492040690,
     "wof:name":"Windsor Limousine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

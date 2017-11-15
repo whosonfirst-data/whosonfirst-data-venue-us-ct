@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.462369,41.557116,-73.462369,41.557116",
     "geom:latitude":41.557116,
     "geom:longitude":-73.462369,
@@ -32,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85806159,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RMs9Nfh0DK927I46ttfEq_41.557116_-73.462369@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463449698,
     "wof:geomhash":"1ae20d259b13d09e940de6bc6041f94c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85806159,
-            "region_id":85688629,
-            "venue_id":823908727
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823908727,
-    "wof:lastmodified":1472613952,
+    "wof:lastmodified":1492027093,
     "wof:name":"Audette Electrical Services",
     "wof:parent_id":85806159,
     "wof:placetype":"venue",

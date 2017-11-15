@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.277213,41.653524,-73.277213,41.653524",
     "geom:latitude":41.653524,
     "geom:longitude":-73.277213,
@@ -27,7 +28,10 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qaPswa5GMUY7qiVFpocXQ_41.653524_-73.277213@1294084077"
@@ -35,11 +39,17 @@
     "wof:country":"US",
     "wof:created":1463453630,
     "wof:geomhash":"8da89d52459bc26fb68fd39384ac259f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":824070669
+        }
+    ],
     "wof:id":824070669,
-    "wof:lastmodified":1472613261,
+    "wof:lastmodified":1492046434,
     "wof:name":"Roger Ranieri",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555583,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

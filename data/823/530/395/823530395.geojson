@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.094803,41.571641,-73.094803,41.571641",
     "geom:latitude":41.571641,
     "geom:longitude":-73.094803,
@@ -28,7 +29,15 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fzZHoRV6IeZHA9G4QjEgw_41.571641_-73.094803@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463440260,
     "wof:geomhash":"285391e31b54249490475cae711f4da9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823530395
+        }
+    ],
     "wof:id":823530395,
-    "wof:lastmodified":1472613279,
+    "wof:lastmodified":1492055049,
     "wof:name":"Zappone Debra J",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

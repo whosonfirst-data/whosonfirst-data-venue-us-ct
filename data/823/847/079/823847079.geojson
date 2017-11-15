@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.379558,41.494667,-73.379558,41.494667",
     "geom:latitude":41.494667,
     "geom:longitude":-73.379558,
@@ -28,7 +29,13 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I2jCABrEuRIqzyGXPRY4M_41.494667_-73.379558@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463448137,
     "wof:geomhash":"56ec7f344640ff9a9e982377ff4cdce0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":823847079
+        }
+    ],
     "wof:id":823847079,
-    "wof:lastmodified":1472613748,
+    "wof:lastmodified":1492027121,
     "wof:name":"Premier Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

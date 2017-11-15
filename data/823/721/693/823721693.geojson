@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.528613,41.461812,-73.528613,41.461812",
     "geom:latitude":41.461812,
     "geom:longitude":-73.528613,
@@ -31,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Evm7IobkU0obD5C2a4IhN_41.461812_-73.528613@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444682,
     "wof:geomhash":"7ed09d52a7bfbafeab5ce9afad83de77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823721693
+        }
+    ],
     "wof:id":823721693,
-    "wof:lastmodified":1472613728,
+    "wof:lastmodified":1492055141,
     "wof:name":"Nicholas Fucci",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

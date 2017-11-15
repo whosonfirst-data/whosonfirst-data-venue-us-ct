@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.689903,41.049675,-73.689903,41.049675",
     "geom:latitude":41.049675,
     "geom:longitude":-73.689903,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85845073,
+        102191575,
+        404523361,
         85633793,
-        102084283,
-        85845073
+        85978735,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"e23b462c2afc58d5e8887ddcedae45fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85845073,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":253195329
         }
     ],
     "wof:id":253195329,
-    "wof:lastmodified":1472606241,
+    "wof:lastmodified":1492061633,
     "wof:name":"Gbh LLC",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",

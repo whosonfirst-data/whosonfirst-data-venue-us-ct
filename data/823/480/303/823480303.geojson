@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.236282,41.263025,-73.236282,41.263025",
     "geom:latitude":41.263025,
     "geom:longitude":-73.236282,
@@ -31,7 +32,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555487,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UMXkf8x0FNRWpzAQc90sO_41.263025_-73.236282@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463439085,
     "wof:geomhash":"f1a95fe717de73c97d0cddea2b43b224",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555487,
+            "region_id":85688629,
+            "venue_id":823480303
+        }
+    ],
     "wof:id":823480303,
-    "wof:lastmodified":1472607555,
+    "wof:lastmodified":1492068781,
     "wof:name":"Child Proofers Network Of CT",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

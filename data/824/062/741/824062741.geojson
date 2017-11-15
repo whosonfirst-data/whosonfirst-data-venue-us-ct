@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.56463,41.153431,-73.56463,41.153431",
     "geom:latitude":41.153431,
     "geom:longitude":-73.56463,
@@ -31,7 +32,14 @@
         "patent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_602BnA3KhnWDS5Fl7t6uai_41.153431_-73.564630@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463453445,
     "wof:geomhash":"9453d839938319ea14eab91436a387e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":824062741
+        }
+    ],
     "wof:id":824062741,
-    "wof:lastmodified":1472613246,
+    "wof:lastmodified":1492040582,
     "wof:name":"V Board Technology Corporation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

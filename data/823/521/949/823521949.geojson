@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.105369,41.525107,-73.105369,41.525107",
     "geom:latitude":41.525107,
     "geom:longitude":-73.105369,
@@ -28,7 +29,13 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mPFgHfq6yHgKvhsb1YkgM_41.525107_-73.105369@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463440067,
     "wof:geomhash":"9858bf63c97369c07c63ad988dbf7fc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823521949
+        }
+    ],
     "wof:id":823521949,
-    "wof:lastmodified":1472613298,
+    "wof:lastmodified":1492027165,
     "wof:name":"C D T V",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

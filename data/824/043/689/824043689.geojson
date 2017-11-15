@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.097258,41.294639,-73.097258,41.294639",
     "geom:latitude":41.294639,
     "geom:longitude":-73.097258,
@@ -35,7 +36,14 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_793vNsm3chiPE0UZMUlCss_41.294639_-73.097258@1294084077"
@@ -43,9 +51,19 @@
     "wof:country":"US",
     "wof:created":1463453016,
     "wof:geomhash":"49bdbb2c425f1001d38d782ba4153de4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":824043689
+        }
+    ],
     "wof:id":824043689,
-    "wof:lastmodified":1472610313,
+    "wof:lastmodified":1492040691,
     "wof:name":"Sambrook Dedicated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

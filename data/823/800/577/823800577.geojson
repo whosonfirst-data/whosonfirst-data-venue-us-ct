@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.21813,41.222484,-73.21813,41.222484",
     "geom:latitude":41.222484,
     "geom:longitude":-73.21813,
@@ -28,7 +29,15 @@
     "sg:postcode":"06606",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0viinT5LEKlyz85wAkRBFr_41.222484_-73.218130@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463446724,
     "wof:geomhash":"7ff4fd19bd0f2f3c419d9ece6cf726ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823800577
+        }
+    ],
     "wof:id":823800577,
-    "wof:lastmodified":1472613814,
+    "wof:lastmodified":1492027129,
     "wof:name":"Bank Of America",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

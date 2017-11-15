@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.319628,41.381804,-73.319628,41.381804",
     "geom:latitude":41.381804,
     "geom:longitude":-73.319628,
@@ -32,7 +33,10 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60Pdpw1xmw6OyAHuVIgk93_41.381804_-73.319628@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463447802,
     "wof:geomhash":"30e3e16d1e48b92453003e85df082c2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":823836137
+        }
+    ],
     "wof:id":823836137,
-    "wof:lastmodified":1472613761,
+    "wof:lastmodified":1492062285,
     "wof:name":"Robert Louis Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

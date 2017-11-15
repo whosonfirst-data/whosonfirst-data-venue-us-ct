@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.099885,41.548302,-73.099885,41.548302",
     "geom:latitude":41.548302,
     "geom:longitude":-73.099885,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nYRPzEcShRn0azywEDQxG_41.548302_-73.099885@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463441541,
     "wof:geomhash":"db159662a38cb2bc4dbe969f5b6693b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823585279
+        }
+    ],
     "wof:id":823585279,
-    "wof:lastmodified":1472613332,
+    "wof:lastmodified":1492027165,
     "wof:name":"Advanced Electrical Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

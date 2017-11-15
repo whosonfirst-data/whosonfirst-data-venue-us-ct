@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.892103,41.300439,-72.892103,41.300439",
     "geom:latitude":41.300439,
     "geom:longitude":-72.892103,
@@ -28,7 +29,15 @@
     "sg:postcode":"06513",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555641,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N8ra2Rfy0nYpiOCjDmS05_41.300439_-72.892103@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463441930,
     "wof:geomhash":"55acc412161a8dc8fdd23fda0e5e0f62",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":420555641,
+            "region_id":85688629,
+            "venue_id":823601267
+        }
+    ],
     "wof:id":823601267,
-    "wof:lastmodified":1472613369,
+    "wof:lastmodified":1492055080,
     "wof:name":"Allison Heit Tirozzi Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

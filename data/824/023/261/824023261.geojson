@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.47475,41.516198,-73.47475,41.516198",
     "geom:latitude":41.516198,
     "geom:longitude":-73.47475,
@@ -41,12 +42,7 @@
         "install"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sIhJOGCdLNZr10uNr8UKx_41.516198_-73.474750@1294084077"
@@ -54,17 +50,9 @@
     "wof:country":"US",
     "wof:created":1463452501,
     "wof:geomhash":"043eb8b9216226c61d521b91a8e60600",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":824023261
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824023261,
-    "wof:lastmodified":1472608933,
+    "wof:lastmodified":1492068801,
     "wof:name":"Spectra Luma Performance Light",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

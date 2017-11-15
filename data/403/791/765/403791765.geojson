@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.509249,41.116761,-73.509249,41.116761",
     "geom:latitude":41.116761,
     "geom:longitude":-73.509249,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"195ae5d4e8b8a5d948be7b2e3dd132ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":403791765
         }
     ],
     "wof:id":403791765,
-    "wof:lastmodified":1472606542,
+    "wof:lastmodified":1492029099,
     "wof:name":"Jeffrey Begoon",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

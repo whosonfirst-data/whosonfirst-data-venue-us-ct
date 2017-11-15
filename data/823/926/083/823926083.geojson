@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.446378,41.741432,-73.446378,41.741432",
     "geom:latitude":41.741432,
     "geom:longitude":-73.446378,
@@ -31,7 +32,10 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555585
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PsaDJhJh612h12lyqRyuj_41.741432_-73.446378@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463450147,
     "wof:geomhash":"22bb183df6693049d80fec70fc9b7818",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555585,
+            "venue_id":823926083
+        }
+    ],
     "wof:id":823926083,
-    "wof:lastmodified":1472613872,
+    "wof:lastmodified":1492054966,
     "wof:name":"Tree Mobile LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555585,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

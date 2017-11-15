@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.119326,41.529481,-73.119326,41.529481",
     "geom:latitude":41.529481,
     "geom:longitude":-73.119326,
@@ -28,7 +29,10 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MP59Lcr154YURJlSXQtVl_41.529481_-73.119326@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463448044,
     "wof:geomhash":"2a2cfec5330299386e549e9f8983cfc3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823843659
+        }
+    ],
     "wof:id":823843659,
-    "wof:lastmodified":1472613822,
+    "wof:lastmodified":1492027025,
     "wof:name":"Middlebury Public Library",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

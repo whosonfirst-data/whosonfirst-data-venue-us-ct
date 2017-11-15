@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.406069,41.459659,-73.406069,41.459659",
     "geom:latitude":41.459659,
     "geom:longitude":-73.406069,
@@ -34,7 +35,10 @@
         "computer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VG4YRdKTxpANIGYshJRpb_41.459659_-73.406069@1294084077"
@@ -42,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1463439998,
     "wof:geomhash":"e73e7f95dc4854de74d032b2cbfdbe65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823518863
+        }
+    ],
     "wof:id":823518863,
-    "wof:lastmodified":1472613306,
+    "wof:lastmodified":1492054351,
     "wof:name":"Computer Talk",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.915517,41.376646,-72.915517,41.376646",
     "geom:latitude":41.376646,
     "geom:longitude":-72.915517,
@@ -34,8 +35,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85850561,
-        102086923
+        85810171,
+        102086923,
+        85850561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823518501
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
             "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":823518501
         }
     ],
     "wof:id":823518501,
-    "wof:lastmodified":1472613298,
+    "wof:lastmodified":1491890312,
     "wof:name":"Town Fair Tire",
-    "wof:parent_id":85850561,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

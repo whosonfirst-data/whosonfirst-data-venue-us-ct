@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.214762,41.162701,-73.214762,41.162701",
     "geom:latitude":41.162701,
     "geom:longitude":-73.214762,
@@ -37,10 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85876505,
+        102191575,
+        404495939,
         85633793,
         85930811,
         102084283,
+        85688629,
         85806293
     ],
     "wof:breaches":[],
@@ -52,6 +56,16 @@
     "wof:geomhash":"894c431f79e502018261f8e16b0941ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":85876505,
+            "region_id":85688629,
+            "venue_id":824054183
+        },
+        {
             "country_id":85633793,
             "county_id":102084283,
             "locality_id":85930811,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":824054183,
-    "wof:lastmodified":1472612684,
+    "wof:lastmodified":1492042613,
     "wof:name":"Southwest Community Health Ctr",
-    "wof:parent_id":85806293,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

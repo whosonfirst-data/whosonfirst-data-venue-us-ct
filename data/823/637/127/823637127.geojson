@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.644465,41.019071,-73.644465,41.019071",
     "geom:latitude":41.019071,
     "geom:longitude":-73.644465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"480 W Putnam Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
         85633793,
         85930941,
         102084283,
-        85688629
+        85688629,
+        420555529
     ],
+    "wof:brand_id":1125154965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15h2RrDgE2wGv2rypkuCy2_41.019071_-73.644465@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463442785,
-    "wof:geomhash":"0955d0e5ac25dbbf627348a473c837d8",
+    "wof:geomhash":"3bd33c09026f2e562360f8a4e2156a87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,12 +58,22 @@
             "neighbourhood_id":85885307,
             "region_id":85688629,
             "venue_id":823637127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823637127
         }
     ],
     "wof:id":823637127,
-    "wof:lastmodified":1472613379,
+    "wof:lastmodified":1510695240,
     "wof:name":"Anthropologie",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

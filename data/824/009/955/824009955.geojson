@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.319227,41.365763,-73.319227,41.365763",
     "geom:latitude":41.365763,
     "geom:longitude":-73.319227,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2v5XHJtFBxiEyIwjxgcRK2_41.365763_-73.319227@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463452196,
     "wof:geomhash":"35a6b0dbde3e5c24146f1fd1dab21b39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":824009955
+        }
+    ],
     "wof:id":824009955,
-    "wof:lastmodified":1472608502,
+    "wof:lastmodified":1492054922,
     "wof:name":"Father & Son Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

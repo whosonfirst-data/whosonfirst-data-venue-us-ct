@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.086105,41.38539,-73.086105,41.38539",
     "geom:latitude":41.38539,
     "geom:longitude":-73.086105,
@@ -33,7 +34,12 @@
         "hanging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85841679,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07Tz2cuxwCp42lTB75goie_41.385390_-73.086105@1294084077"
@@ -41,11 +47,19 @@
     "wof:country":"US",
     "wof:created":1463448887,
     "wof:geomhash":"7c743d8911457995bd8bf6535f356f3d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85841679,
+            "region_id":85688629,
+            "venue_id":823876467
+        }
+    ],
     "wof:id":823876467,
-    "wof:lastmodified":1472613902,
+    "wof:lastmodified":1492042609,
     "wof:name":"Jga Painting & Powerwashing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85841679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

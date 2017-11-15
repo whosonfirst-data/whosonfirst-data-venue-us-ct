@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.49206,41.14776,-73.49206,41.14776",
     "geom:latitude":41.14776,
     "geom:longitude":-73.49206,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"9d113947766451e60cbf3909cc0d2286",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":303382187
         }
     ],
     "wof:id":303382187,
-    "wof:lastmodified":1472606633,
+    "wof:lastmodified":1492055059,
     "wof:name":"Dudley Locksmith Svc Co",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

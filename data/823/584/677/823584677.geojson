@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.662386,40.995924,-73.662386,40.995924",
     "geom:latitude":40.995924,
     "geom:longitude":-73.662386,
@@ -39,7 +40,15 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530421,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03bq3UfCivkXGz2E5WZ9l2_40.995924_-73.662386@1294084077"
@@ -47,11 +56,22 @@
     "wof:country":"US",
     "wof:created":1463441531,
     "wof:geomhash":"6288bcf9eadda52f939c578d448a2c58",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530421,
+            "region_id":85688543,
+            "venue_id":823584677
+        }
+    ],
     "wof:id":823584677,
-    "wof:lastmodified":1472613333,
+    "wof:lastmodified":1492055102,
     "wof:name":"Port Chester Woodworking Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.375934,41.09792,-73.375934,41.09792",
     "geom:latitude":41.09792,
     "geom:longitude":-73.375934,
@@ -31,7 +32,15 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555513,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KQsRXUY5GXkQClqs9A98L_41.097920_-73.375934@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463443512,
     "wof:geomhash":"ada0313c36b7eb3ceef94ea4d2bd6d57",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555513,
+            "region_id":85688629,
+            "venue_id":823667485
+        }
+    ],
     "wof:id":823667485,
-    "wof:lastmodified":1472613689,
+    "wof:lastmodified":1492041644,
     "wof:name":"Coastal Investments LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

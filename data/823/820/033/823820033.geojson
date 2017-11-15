@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.510697,41.09903,-73.510697,41.09903",
     "geom:latitude":41.09903,
     "geom:longitude":-73.510697,
@@ -33,13 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85850675,
-        102191575,
-        404495943,
+        85688629,
         85633793,
-        85930989,
-        102084283,
-        85688629
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,20 +48,17 @@
     "wof:geomhash":"91275122322aa0548aad5b3305a6cad2",
     "wof:hierarchy":[
         {
-            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
-            "localadmin_id":404495943,
-            "locality_id":85930989,
-            "neighbourhood_id":85850675,
+            "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":823820033
         }
     ],
     "wof:id":823820033,
-    "wof:lastmodified":1472613746,
+    "wof:lastmodified":1492029106,
     "wof:name":"Middlesex Farm Food Products",
-    "wof:parent_id":85850675,
+    "wof:parent_id":85851779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

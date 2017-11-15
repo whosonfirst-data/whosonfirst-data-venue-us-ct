@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.378314,41.37732,-73.378314,41.37732",
     "geom:latitude":41.37732,
     "geom:longitude":-73.378314,
@@ -31,12 +32,7 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MOdb40aT6e9vqfhlXDcwa_41.377320_-73.378314@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463447877,
     "wof:geomhash":"3275c9e644a05a55a58b50df4d4895d2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823838209
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823838209,
-    "wof:lastmodified":1472613789,
+    "wof:lastmodified":1492054917,
     "wof:name":"Country Angels",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

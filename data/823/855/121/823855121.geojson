@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.223324,41.222054,-73.223324,41.222054",
     "geom:latitude":41.222054,
     "geom:longitude":-73.223324,
@@ -28,7 +29,15 @@
     "sg:postcode":"06606",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x349Qf9Dzcrf4laj08bNB_41.222054_-73.223324@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463448362,
     "wof:geomhash":"e9fda71b7cd94600f8023d6b60c962ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823855121
+        }
+    ],
     "wof:id":823855121,
-    "wof:lastmodified":1472613759,
+    "wof:lastmodified":1492051890,
     "wof:name":"Dinan Glass Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

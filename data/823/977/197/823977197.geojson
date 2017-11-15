@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.347747,41.176709,-73.347747,41.176709",
     "geom:latitude":41.176709,
     "geom:longitude":-73.347747,
@@ -28,7 +29,15 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jgN96qIx44oSjy3aFQaUM_41.176709_-73.347747@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463451403,
     "wof:geomhash":"554f536b9aa04fbad980997cc9d894f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823977197
+        }
+    ],
     "wof:id":823977197,
-    "wof:lastmodified":1472613891,
+    "wof:lastmodified":1492027109,
     "wof:name":"Poko Partners LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

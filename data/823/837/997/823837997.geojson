@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.533469,41.471229,-73.533469,41.471229",
     "geom:latitude":41.471229,
     "geom:longitude":-73.533469,
@@ -28,7 +29,13 @@
     "sg:postcode":"06812",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DzEZZu4tpXxaXwUdmIVS9_41.471229_-73.533469@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463447867,
     "wof:geomhash":"f8c76656de78e605437e6c7d485d4d51",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823837997
+        }
+    ],
     "wof:id":823837997,
-    "wof:lastmodified":1472613855,
+    "wof:lastmodified":1492055114,
     "wof:name":"Computer Peripheral",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

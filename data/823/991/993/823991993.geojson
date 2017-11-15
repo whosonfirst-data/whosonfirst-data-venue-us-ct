@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.50614,41.684872,-73.50614,41.684872",
     "geom:latitude":41.684872,
     "geom:longitude":-73.50614,
@@ -31,7 +32,13 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496023,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ig4HMygBgxYRpc1p55tdA_41.684872_-73.506140@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463451766,
     "wof:geomhash":"34fce1c00adb24c3a0fed1dab051f0a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496023,
+            "region_id":85688629,
+            "venue_id":823991993
+        }
+    ],
     "wof:id":823991993,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1492054967,
     "wof:name":"Lawrence S Dumoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

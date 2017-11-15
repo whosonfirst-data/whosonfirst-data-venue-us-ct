@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.526704,41.45861,-73.526704,41.45861",
     "geom:latitude":41.45861,
     "geom:longitude":-73.526704,
@@ -31,7 +32,13 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RYYYXXd5BFYIYBFG593VR_41.458610_-73.526704@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463445713,
     "wof:geomhash":"c6956fb8b4c342eae5159e7b8307c056",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823764761
+        }
+    ],
     "wof:id":823764761,
-    "wof:lastmodified":1472613820,
+    "wof:lastmodified":1492021909,
     "wof:name":"Columbus Brass Ensemble L",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

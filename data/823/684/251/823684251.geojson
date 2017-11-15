@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.32412,41.356552,-73.32412,41.356552",
     "geom:latitude":41.356552,
     "geom:longitude":-73.32412,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"efdd12a966e19e399e4e2fb2b5c50162",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823684251
         }
     ],
     "wof:id":823684251,
-    "wof:lastmodified":1472613667,
+    "wof:lastmodified":1492055029,
     "wof:name":"Bussey Crol Remax Right Choice",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

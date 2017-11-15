@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.131233,41.545494,-73.131233,41.545494",
     "geom:latitude":41.545494,
     "geom:longitude":-73.131233,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BSPVCM5SzBX8noNFOXnXj_41.545494_-73.131233@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463444040,
     "wof:geomhash":"d2de3ce8572cfa6516f6a7ea95462d17",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823691059
+        }
+    ],
     "wof:id":823691059,
-    "wof:lastmodified":1472613664,
+    "wof:lastmodified":1492027023,
     "wof:name":"Ferrara Developement Custom",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

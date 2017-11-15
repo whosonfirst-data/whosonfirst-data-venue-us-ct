@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.337239,41.38994,-73.337239,41.38994",
     "geom:latitude":41.38994,
     "geom:longitude":-73.337239,
@@ -32,12 +33,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OqiMZrVxAcreW5oKOgiRf_41.389940_-73.337239@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463444277,
     "wof:geomhash":"59deff99d362eb3df08e103e536063a2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823701841
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823701841,
-    "wof:lastmodified":1472613692,
+    "wof:lastmodified":1492040676,
     "wof:name":"Quality Scanning Solution",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.415882,41.460237,-73.415882,41.460237",
     "geom:latitude":41.460237,
     "geom:longitude":-73.415882,
@@ -32,7 +33,10 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kjDrRyqaPkx4VfLBRDalk_41.460237_-73.415882@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463442848,
     "wof:geomhash":"5da73b1552c8c712200062e1be34a93e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823639729
+        }
+    ],
     "wof:id":823639729,
-    "wof:lastmodified":1472613415,
+    "wof:lastmodified":1492051710,
     "wof:name":"Ram Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

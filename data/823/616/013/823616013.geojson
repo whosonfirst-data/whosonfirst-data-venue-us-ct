@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.209261,41.276822,-73.209261,41.276822",
     "geom:latitude":41.276822,
     "geom:longitude":-73.209261,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555511,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Q00d7n9ijFSicwh3XHMOz_41.276822_-73.209261@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463442298,
     "wof:geomhash":"17ed79303f08b492a36e2825f7863808",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555511,
+            "region_id":85688629,
+            "venue_id":823616013
+        }
+    ],
     "wof:id":823616013,
-    "wof:lastmodified":1472613365,
+    "wof:lastmodified":1492029076,
     "wof:name":"Colicci Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

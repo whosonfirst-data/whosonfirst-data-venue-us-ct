@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.491718,41.570147,-73.491718,41.570147",
     "geom:latitude":41.570147,
     "geom:longitude":-73.491718,
@@ -31,7 +32,13 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wYGHbTav0ky4sB22zje8K_41.570147_-73.491718@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463441905,
     "wof:geomhash":"4c4cf53bfaf3c9187cd9ea2b1503133a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":823600289
+        }
+    ],
     "wof:id":823600289,
-    "wof:lastmodified":1472613370,
+    "wof:lastmodified":1492026967,
     "wof:name":"Candlewood Lake Authority",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

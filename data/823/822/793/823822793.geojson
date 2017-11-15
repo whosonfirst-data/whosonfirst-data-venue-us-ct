@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.533985,41.453085,-73.533985,41.453085",
     "geom:latitude":41.453085,
     "geom:longitude":-73.533985,
@@ -31,7 +32,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i1EdSthFnZYuyv44CzijB_41.453085_-73.533985@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463447377,
     "wof:geomhash":"d8ab405a1c06f1adb54237bc75e3166a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823822793
+        }
+    ],
     "wof:id":823822793,
-    "wof:lastmodified":1472613837,
+    "wof:lastmodified":1492055142,
     "wof:name":"Blue Gold Consulting Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

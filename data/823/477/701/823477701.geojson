@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.356141,41.379193,-73.356141,41.379193",
     "geom:latitude":41.379193,
     "geom:longitude":-73.356141,
@@ -33,12 +34,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dy1tOovyfRlQjoD9lhady_41.379193_-73.356141@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463439029,
     "wof:geomhash":"1bf25b90df4818c6151a275b3262488e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823477701
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823477701,
-    "wof:lastmodified":1472608249,
+    "wof:lastmodified":1492026976,
     "wof:name":"Smart Productions",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

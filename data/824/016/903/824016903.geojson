@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.279603,41.43918,-73.279603,41.43918",
     "geom:latitude":41.43918,
     "geom:longitude":-73.279603,
@@ -31,12 +32,7 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YSY8jdA6duMwypTx5sq9S_41.439180_-73.279603@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463452357,
     "wof:geomhash":"b705d6da07851713992abbc23fae6bbe",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":824016903
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824016903,
-    "wof:lastmodified":1472608348,
+    "wof:lastmodified":1492062287,
     "wof:name":"C & S Septic Svc",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

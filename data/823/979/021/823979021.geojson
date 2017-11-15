@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.270373,41.230931,-73.270373,41.230931",
     "geom:latitude":41.230931,
     "geom:longitude":-73.270373,
@@ -31,12 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LBCFGjLhYFXb32ch7Hbdk_41.230931_-73.270373@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463451455,
     "wof:geomhash":"362bd114970e514e8e8c7c66e76f0d8d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823979021
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823979021,
-    "wof:lastmodified":1472613866,
+    "wof:lastmodified":1492068777,
     "wof:name":"Brooklyn Bronx Trattoria",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

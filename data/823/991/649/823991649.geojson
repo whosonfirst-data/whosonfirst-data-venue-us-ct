@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4279,41.485738,-73.4279,41.485738",
     "geom:latitude":41.485738,
     "geom:longitude":-73.4279,
@@ -35,7 +36,9 @@
         85688629,
         85633793,
         85809225,
-        102084283
+        102084283,
+        85809215,
+        102085375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +54,19 @@
             "neighbourhood_id":85809225,
             "region_id":85688629,
             "venue_id":823991649
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85809215,
+            "region_id":85688629,
+            "venue_id":823991649
         }
     ],
     "wof:id":823991649,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1492063955,
     "wof:name":"Scandesign Homes Inc",
-    "wof:parent_id":85809225,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

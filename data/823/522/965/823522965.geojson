@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.481239,41.527899,-73.481239,41.527899",
     "geom:latitude":41.527899,
     "geom:longitude":-73.481239,
@@ -34,12 +35,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f72QOjCDO1DKEhd0aloBE_41.527899_-73.481239@1294084077"
@@ -47,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1463440091,
     "wof:geomhash":"467ef76934a630c279270ad55771d7be",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":823522965
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823522965,
-    "wof:lastmodified":1472613303,
+    "wof:lastmodified":1492055077,
     "wof:name":"Peter P Pannizzo",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

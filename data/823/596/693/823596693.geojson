@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114656,41.25538,-73.114656,41.25538",
     "geom:latitude":41.25538,
     "geom:longitude":-73.114656,
@@ -32,7 +33,15 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555481,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LwIG8t5qhRHkeVYt1MXNg_41.255380_-73.114656@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463441806,
     "wof:geomhash":"e5b2599f44cb7384c42085585a3ed980",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":420555481,
+            "region_id":85688629,
+            "venue_id":823596693
+        }
+    ],
     "wof:id":823596693,
-    "wof:lastmodified":1472613403,
+    "wof:lastmodified":1492051718,
     "wof:name":"Anthony P Kulishek Family Tr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

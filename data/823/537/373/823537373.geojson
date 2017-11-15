@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.15208,41.254034,-73.15208,41.254034",
     "geom:latitude":41.254034,
     "geom:longitude":-73.15208,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555503,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1OXN1buGAINVrLfqV1YWKz_41.254034_-73.152080@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463440410,
     "wof:geomhash":"e8748db28750424d2dd1e9637e0dc306",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":823537373
+        }
+    ],
     "wof:id":823537373,
-    "wof:lastmodified":1472613292,
+    "wof:lastmodified":1492027134,
     "wof:name":"Trumball Consulting Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.40294,41.453491,-73.40294,41.453491",
     "geom:latitude":41.453491,
     "geom:longitude":-73.40294,
@@ -34,7 +35,10 @@
         "fitness"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aEMF8WZ7eMfqg85njokti_41.453491_-73.402940@1294084077"
@@ -42,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1463452209,
     "wof:geomhash":"7a99fa08fc2f378dee864ecd1394ecd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824010573
+        }
+    ],
     "wof:id":824010573,
-    "wof:lastmodified":1472607608,
+    "wof:lastmodified":1492027124,
     "wof:name":"Childbirth Family Edu & Ftnss",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

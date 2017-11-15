@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.110153,41.251757,-73.110153,41.251757",
     "geom:latitude":41.251757,
     "geom:longitude":-73.110153,
@@ -31,7 +32,15 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555481,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yp8KDs3ZdrmCohQslbYCg_41.251757_-73.110153@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463442551,
     "wof:geomhash":"531e92834bf07c5627a2896ffc05e953",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":420555481,
+            "region_id":85688629,
+            "venue_id":823626921
+        }
+    ],
     "wof:id":823626921,
-    "wof:lastmodified":1472613428,
+    "wof:lastmodified":1492055053,
     "wof:name":"Larson Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

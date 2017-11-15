@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.097147,41.195448,-73.097147,41.195448",
     "geom:latitude":41.195448,
     "geom:longitude":-73.097147,
@@ -35,7 +36,15 @@
     ],
     "sg:website":"www.cntllc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555633,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hpB2n2emLKTjY9TRodUmp_41.195448_-73.097147@1294084077"
@@ -43,11 +52,22 @@
     "wof:country":"US",
     "wof:created":1463444011,
     "wof:geomhash":"8e73617e0ce52a40f98240036ebc34ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":420555633,
+            "region_id":85688629,
+            "venue_id":823689943
+        }
+    ],
     "wof:id":823689943,
-    "wof:lastmodified":1472613704,
+    "wof:lastmodified":1492054984,
     "wof:name":"Corporate Network Technology",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

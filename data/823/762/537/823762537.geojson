@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.599029,41.137092,-73.599029,41.137092",
     "geom:latitude":41.137092,
     "geom:longitude":-73.599029,
@@ -32,7 +33,14 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WOZ3v6CUzMvvHeg7jpRfy_41.137092_-73.599029@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463445669,
     "wof:geomhash":"3663b5dd8ae4d85e7216004e1d24a972",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823762537
+        }
+    ],
     "wof:id":823762537,
-    "wof:lastmodified":1472613760,
+    "wof:lastmodified":1492029217,
     "wof:name":"Telco Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

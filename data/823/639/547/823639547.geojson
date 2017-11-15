@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.207103,41.538813,-73.207103,41.538813",
     "geom:latitude":41.538813,
     "geom:longitude":-73.207103,
@@ -32,7 +33,10 @@
         "plant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Yrr33k3Jye1T26iy9O21i_41.538813_-73.207103@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463442844,
     "wof:geomhash":"9c512c7c931b9543801c9e4165a1eff0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823639547
+        }
+    ],
     "wof:id":823639547,
-    "wof:lastmodified":1472613407,
+    "wof:lastmodified":1492055093,
     "wof:name":"Quilty Service Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

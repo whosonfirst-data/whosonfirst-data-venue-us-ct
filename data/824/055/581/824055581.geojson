@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.939081,41.270896,-72.939081,41.270896",
     "geom:latitude":41.270896,
     "geom:longitude":-72.939081,
@@ -38,7 +39,8 @@
         85633793,
         85930885,
         102086923,
-        85688629
+        85688629,
+        85811091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +59,19 @@
             "neighbourhood_id":85868719,
             "region_id":85688629,
             "venue_id":824055581
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
+            "region_id":85688629,
+            "venue_id":824055581
         }
     ],
     "wof:id":824055581,
-    "wof:lastmodified":1472612778,
+    "wof:lastmodified":1491885144,
     "wof:name":"Imran Ahmed Appraisals LLC",
-    "wof:parent_id":85868719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

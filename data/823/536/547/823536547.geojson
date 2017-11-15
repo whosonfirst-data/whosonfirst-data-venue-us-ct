@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.241963,41.232759,-73.241963,41.232759",
     "geom:latitude":41.232759,
     "geom:longitude":-73.241963,
@@ -31,7 +32,15 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555493,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bWWpup8dZ7g7OhyPj48Bm_41.232759_-73.241963@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463440394,
     "wof:geomhash":"2d012ab463bc1a26c7854d3851ecf03a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555493,
+            "region_id":85688629,
+            "venue_id":823536547
+        }
+    ],
     "wof:id":823536547,
-    "wof:lastmodified":1472613288,
+    "wof:lastmodified":1492064956,
     "wof:name":"Complete Maintenance LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

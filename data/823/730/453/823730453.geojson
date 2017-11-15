@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.20894,41.236577,-73.20894,41.236577",
     "geom:latitude":41.236577,
     "geom:longitude":-73.20894,
@@ -33,7 +34,16 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629,
+        85888501
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cx7hFNmSMjSG34dPQDbks_41.236577_-73.208940@1294084077"
@@ -41,11 +51,32 @@
     "wof:country":"US",
     "wof:created":1463444914,
     "wof:geomhash":"27749da4171a9e8f7b73d475181693f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555499,
+            "region_id":85688629,
+            "venue_id":823730453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":85888501,
+            "region_id":85688629,
+            "venue_id":823730453
+        }
+    ],
     "wof:id":823730453,
-    "wof:lastmodified":1472613722,
+    "wof:lastmodified":1492029079,
     "wof:name":"Jeffrey C Cahill",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

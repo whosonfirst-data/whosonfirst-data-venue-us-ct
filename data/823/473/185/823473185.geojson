@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.231858,41.224952,-73.231858,41.224952",
     "geom:latitude":41.224952,
     "geom:longitude":-73.231858,
@@ -28,7 +29,15 @@
     "sg:postcode":"06606",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555493,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aw1BVf30Q0YShJj6IaCBZ_41.224952_-73.231858@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463438905,
     "wof:geomhash":"3240c816a18b6fbb850a0be1978daedc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555493,
+            "region_id":85688629,
+            "venue_id":823473185
+        }
+    ],
     "wof:id":823473185,
-    "wof:lastmodified":1472607247,
+    "wof:lastmodified":1492061797,
     "wof:name":"O & B Sales LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

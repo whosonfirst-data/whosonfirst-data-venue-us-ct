@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.389488,41.16895,-73.389488,41.16895",
     "geom:latitude":41.16895,
     "geom:longitude":-73.389488,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85850221,
-        102084283
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"fcb150538f13d4234196e91b20694130",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85850221,
             "region_id":85688629,
             "venue_id":823671265
         }
     ],
     "wof:id":823671265,
-    "wof:lastmodified":1472613672,
+    "wof:lastmodified":1492055001,
     "wof:name":"Linen Fields Ltd",
     "wof:parent_id":85850221,
     "wof:placetype":"venue",

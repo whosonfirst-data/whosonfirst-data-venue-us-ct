@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.113543,41.230073,-73.113543,41.230073",
     "geom:latitude":41.230073,
     "geom:longitude":-73.113543,
@@ -32,7 +33,14 @@
         "planning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l4Qgv260IwVdTmCpVhOxL_41.230073_-73.113543@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463444634,
     "wof:geomhash":"413eb7763b747809cbc427402861ebde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823719481
+        }
+    ],
     "wof:id":823719481,
-    "wof:lastmodified":1472613738,
+    "wof:lastmodified":1492029055,
     "wof:name":"Party Animalz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

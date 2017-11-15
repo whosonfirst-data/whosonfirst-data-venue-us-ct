@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.660398,41.010231,-73.660398,41.010231",
     "geom:latitude":41.010231,
     "geom:longitude":-73.660398,
@@ -40,7 +41,12 @@
         85633793,
         85930941,
         102084283,
-        85688629
+        85688629,
+        420530431,
+        404523389,
+        85978705,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,12 +65,22 @@
             "neighbourhood_id":85885307,
             "region_id":85688629,
             "venue_id":823939769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823939769
         }
     ],
     "wof:id":823939769,
-    "wof:lastmodified":1472613955,
+    "wof:lastmodified":1492070639,
     "wof:name":"Double R Home Improvement Corp",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

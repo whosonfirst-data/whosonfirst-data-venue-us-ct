@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.125705,41.611591,-73.125705,41.611591",
     "geom:latitude":41.611591,
     "geom:longitude":-73.125705,
@@ -28,7 +29,15 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T9DiW0tcnPqwAbcTnmLOq_41.611591_-73.125705@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463446721,
     "wof:geomhash":"aaf258ea1f77880384b809564466953e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823800391
+        }
+    ],
     "wof:id":823800391,
-    "wof:lastmodified":1472613783,
+    "wof:lastmodified":1492027025,
     "wof:name":"Terence D Mariani",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

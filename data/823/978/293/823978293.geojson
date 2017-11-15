@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.47464,41.466722,-73.47464,41.466722",
     "geom:latitude":41.466722,
     "geom:longitude":-73.47464,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555479,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IIYV8wsKZca3O8HALm4fN_41.466722_-73.474640@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463451435,
     "wof:geomhash":"2dd64778380a3d8cd89d08d8170e056a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555479,
+            "region_id":85688629,
+            "venue_id":823978293
+        }
+    ],
     "wof:id":823978293,
-    "wof:lastmodified":1472613908,
+    "wof:lastmodified":1492027116,
     "wof:name":"Richard T Johnson Contractor",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

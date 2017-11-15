@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.093031,41.315341,-73.093031,41.315341",
     "geom:latitude":41.315341,
     "geom:longitude":-73.093031,
@@ -31,7 +32,14 @@
         "theatrical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LHO58bGvjeZ8qnAJrJJTC_41.315341_-73.093031@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463445583,
     "wof:geomhash":"99f2bc5d94363edcb9acd4b50712508b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823758289
+        }
+    ],
     "wof:id":823758289,
-    "wof:lastmodified":1472613757,
+    "wof:lastmodified":1492027051,
     "wof:name":"Francesca Scarpa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211507,41.29195,-73.211507,41.29195",
     "geom:latitude":41.29195,
     "geom:longitude":-73.211507,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mYkBsU6EXmm1JVtC9ARX3_41.291950_-73.211507@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463446887,
     "wof:geomhash":"b4ec6f6087840a4d234230542ea4e383",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":823806517
+        }
+    ],
     "wof:id":823806517,
-    "wof:lastmodified":1472613820,
+    "wof:lastmodified":1492061711,
     "wof:name":"Visnicky Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

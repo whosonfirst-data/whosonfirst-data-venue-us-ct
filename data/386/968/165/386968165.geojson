@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.658254,41.00685,-73.658254,41.00685",
     "geom:latitude":41.00685,
     "geom:longitude":-73.658254,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85808713,
+        102191575,
+        404523389,
         85633793,
-        102084283,
-        85808713
+        85978705,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,18 @@
     "wof:geomhash":"7121f83aa8caa71338e9f3ecd12bfd57",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
             "neighbourhood_id":85808713,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":386968165
         }
     ],
     "wof:id":386968165,
-    "wof:lastmodified":1472606318,
+    "wof:lastmodified":1492022079,
     "wof:name":"Westys Self-Storage Campus",
     "wof:parent_id":85808713,
     "wof:placetype":"venue",

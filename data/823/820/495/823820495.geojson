@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.438774,41.221668,-73.438774,41.221668",
     "geom:latitude":41.221668,
     "geom:longitude":-73.438774,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"296a0ac48b4bdc7c842ad7b727bc3e33",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":823820495
         }
     ],
     "wof:id":823820495,
-    "wof:lastmodified":1472613801,
+    "wof:lastmodified":1492027018,
     "wof:name":"Sant Trolochan Univ Of Sikhisn",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

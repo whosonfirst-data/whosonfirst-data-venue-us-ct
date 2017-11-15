@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.646701,41.085089,-73.646701,41.085089",
     "geom:latitude":41.085089,
     "geom:longitude":-73.646701,
@@ -31,7 +32,13 @@
         "landscape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TAtuVTFDRNvzVVXfT5jbh_41.085089_-73.646701@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463448827,
     "wof:geomhash":"3aafe144e061b6f7bac03e29a7ad6318",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823874095
+        }
+    ],
     "wof:id":823874095,
-    "wof:lastmodified":1472613860,
+    "wof:lastmodified":1492046285,
     "wof:name":"Barry Matthew Landscape Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

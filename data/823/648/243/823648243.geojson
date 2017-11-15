@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.281014,41.420787,-73.281014,41.420787",
     "geom:latitude":41.420787,
     "geom:longitude":-73.281014,
@@ -32,12 +33,7 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6McVeun41vlA2j6r9tA6nD_41.420787_-73.281014@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463443045,
     "wof:geomhash":"84c41a79e31c169af3eff2298cdf2cbd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823648243
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823648243,
-    "wof:lastmodified":1472613394,
+    "wof:lastmodified":1492046431,
     "wof:name":"Newtown Town Senior Ctr",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.230428,41.539272,-73.230428,41.539272",
     "geom:latitude":41.539272,
     "geom:longitude":-73.230428,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DRNO9a2Tjl2GWIUtrO4Gk_41.539272_-73.230428@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463443445,
     "wof:geomhash":"64cf7a08afd08e5b4da8cf48a987a9c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823664419
+        }
+    ],
     "wof:id":823664419,
-    "wof:lastmodified":1472613568,
+    "wof:lastmodified":1492027063,
     "wof:name":"Tim Roosa Electric LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

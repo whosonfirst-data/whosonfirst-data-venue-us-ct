@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115833,41.53939,-73.115833,41.53939",
     "geom:latitude":41.53939,
     "geom:longitude":-73.115833,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oKE4Wh2fQ7rsmGAJGyBB7_41.539390_-73.115833@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463448245,
     "wof:geomhash":"039b96e5ef2195f766e8a5b11596a958",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823850903
+        }
+    ],
     "wof:id":823850903,
-    "wof:lastmodified":1472613837,
+    "wof:lastmodified":1492027025,
     "wof:name":"Lyons Plumbing & Heating",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

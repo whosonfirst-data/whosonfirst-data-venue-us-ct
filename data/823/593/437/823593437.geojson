@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.202452,41.288496,-73.202452,41.288496",
     "geom:latitude":41.288496,
     "geom:longitude":-73.202452,
@@ -31,7 +32,15 @@
         "con"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LKv91KLWRphRR8hN329Bz_41.288496_-73.202452@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463441732,
     "wof:geomhash":"e34aea005ee6f0ae7d00e6e1b7fd8045",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":823593437
+        }
+    ],
     "wof:id":823593437,
-    "wof:lastmodified":1472613365,
+    "wof:lastmodified":1492029075,
     "wof:name":"Scully GL Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

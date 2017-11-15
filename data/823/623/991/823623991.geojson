@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.088812,41.367697,-73.088812,41.367697",
     "geom:latitude":41.367697,
     "geom:longitude":-73.088812,
@@ -31,7 +32,13 @@
         "absorbent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495797,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eWjgWfYTNXuEbS517w8Pd_41.367697_-73.088812@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463442492,
     "wof:geomhash":"8821a749e445770f2a46c23e210aa0fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495797,
+            "region_id":85688629,
+            "venue_id":823623991
+        }
+    ],
     "wof:id":823623991,
-    "wof:lastmodified":1472613418,
+    "wof:lastmodified":1492026984,
     "wof:name":"Atlantic Environmental Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

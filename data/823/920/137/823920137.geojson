@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114924,41.529121,-73.114924,41.529121",
     "geom:latitude":41.529121,
     "geom:longitude":-73.114924,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.stjohnofthecrosschurch.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1klC6NA5ISmuEpy965I6NG_41.529121_-73.114924@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463449999,
     "wof:geomhash":"338dd7dd846deb8ac4ef063e439f2f6d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823920137
+        }
+    ],
     "wof:id":823920137,
-    "wof:lastmodified":1472613879,
+    "wof:lastmodified":1492051779,
     "wof:name":"St John Of The Cross Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

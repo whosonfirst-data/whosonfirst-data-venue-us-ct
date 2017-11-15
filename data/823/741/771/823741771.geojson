@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.51487,41.057832,-73.51487,41.057832",
     "geom:latitude":41.057832,
     "geom:longitude":-73.51487,
@@ -32,7 +33,15 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g8nPJVCqg9PG2R2laQsTM_41.057832_-73.514870@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463445192,
     "wof:geomhash":"f558e077b07531131ff1fa4bfaaa7fd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823741771
+        }
+    ],
     "wof:id":823741771,
-    "wof:lastmodified":1472613718,
+    "wof:lastmodified":1492040203,
     "wof:name":"BSC Securities LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.313507,41.417358,-73.313507,41.417358",
     "geom:latitude":41.417358,
     "geom:longitude":-73.313507,
@@ -31,12 +32,7 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xYlVrTvg5HaDJjivb0PWb_41.417358_-73.313507@1303262245"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463454425,
     "wof:geomhash":"156836e42d5448cf5dc43ba9ccb7efba",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":824104195
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824104195,
-    "wof:lastmodified":1472613277,
+    "wof:lastmodified":1492044244,
     "wof:name":"Newtown Volunteer Ambulance Association",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

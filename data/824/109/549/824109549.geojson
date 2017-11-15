@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.199895,41.284981,-73.199895,41.284981",
     "geom:latitude":41.284981,
     "geom:longitude":-73.199895,
@@ -32,7 +33,15 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KmjDTe68eT8p4zR3KdzSH_41.284981_-73.199895@1303262246"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463454546,
     "wof:geomhash":"554337c8b21fd1e22db8065389878c9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":824109549
+        }
+    ],
     "wof:id":824109549,
-    "wof:lastmodified":1472613305,
+    "wof:lastmodified":1492027134,
     "wof:name":"Ileen Ianniello",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

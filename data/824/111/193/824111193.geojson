@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.116386,41.554692,-73.116386,41.554692",
     "geom:latitude":41.554692,
     "geom:longitude":-73.116386,
@@ -37,7 +38,10 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48OVCdY3xdlNhI44yiNACa_41.554692_-73.116386@1303262246"
@@ -45,11 +49,17 @@
     "wof:country":"US",
     "wof:created":1463454574,
     "wof:geomhash":"47ede6a5c1baed9765a2958cd2ccbdfc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824111193
+        }
+    ],
     "wof:id":824111193,
-    "wof:lastmodified":1472613294,
+    "wof:lastmodified":1492040586,
     "wof:name":"A Better Heating And Air",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

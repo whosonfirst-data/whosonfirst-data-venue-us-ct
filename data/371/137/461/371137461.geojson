@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.49405,41.132179,-73.49405,41.132179",
     "geom:latitude":41.132179,
     "geom:longitude":-73.49405,
@@ -37,8 +38,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +49,15 @@
     "wof:geomhash":"cadd2b6108599ed75ded43e63fe36f28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":371137461
         }
     ],
     "wof:id":371137461,
-    "wof:lastmodified":1472606354,
+    "wof:lastmodified":1492029099,
     "wof:name":"NES Co",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.179091,41.560715,-73.179091,41.560715",
     "geom:latitude":41.560715,
     "geom:longitude":-73.179091,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V9L0L0M4Sa2B0fqfRrYyi_41.560715_-73.179091@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463449857,
     "wof:geomhash":"2c4fa0837433453fe10be9a36d0d6f69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823914101
+        }
+    ],
     "wof:id":823914101,
-    "wof:lastmodified":1472613879,
+    "wof:lastmodified":1492051778,
     "wof:name":"Real Deal Carpet Cleaning Comp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

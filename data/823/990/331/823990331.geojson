@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.25999,41.653181,-73.25999,41.653181",
     "geom:latitude":41.653181,
     "geom:longitude":-73.25999,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555561,
+        85688629,
+        85859063,
+        102085375,
+        85847045,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ntjPblYWZbSZ3s1wa02mA_41.653181_-73.259990@1294084077"
@@ -40,11 +49,36 @@
     "wof:country":"US",
     "wof:created":1463451721,
     "wof:geomhash":"7dba20fb5962ca6420e05b4e01270df8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":823990331
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85859063,
+            "region_id":85688629,
+            "venue_id":823990331
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85847045,
+            "region_id":85688629,
+            "venue_id":823990331
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":823990331
+        }
+    ],
     "wof:id":823990331,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1492054966,
     "wof:name":"Aa Home Inspection",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

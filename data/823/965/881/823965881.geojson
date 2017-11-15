@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.231924,41.225257,-73.231924,41.225257",
     "geom:latitude":41.225257,
     "geom:longitude":-73.231924,
@@ -32,7 +33,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555493,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F6ZFL5vp3Qm8pXokjqOML_41.225257_-73.231924@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463451158,
     "wof:geomhash":"4672167699961574646ec32f6b22ce72",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555493,
+            "region_id":85688629,
+            "venue_id":823965881
+        }
+    ],
     "wof:id":823965881,
-    "wof:lastmodified":1472613918,
+    "wof:lastmodified":1492057972,
     "wof:name":"Coreno Marble & Tile",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

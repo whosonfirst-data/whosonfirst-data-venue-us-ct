@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.431911,41.517149,-73.431911,41.517149",
     "geom:latitude":41.517149,
     "geom:longitude":-73.431911,
@@ -31,12 +32,7 @@
         "tire"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85809223,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z3MjwFrEkHSrVI4Ep5uum_41.517149_-73.431911@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463446347,
     "wof:geomhash":"606e00f9921d40a0d2a0db43a29f48b6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85809223,
-            "region_id":85688629,
-            "venue_id":823787843
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823787843,
-    "wof:lastmodified":1472613820,
+    "wof:lastmodified":1492027112,
     "wof:name":"Gary Murphy",
     "wof:parent_id":85809223,
     "wof:placetype":"venue",

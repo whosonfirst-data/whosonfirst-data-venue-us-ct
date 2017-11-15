@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.122343,41.23334,-73.122343,41.23334",
     "geom:latitude":41.23334,
     "geom:longitude":-73.122343,
@@ -34,7 +35,14 @@
         "improvement"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0f2HuUzYrFClyB9c04GU1j_41.233340_-73.122343@1294084077"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1463442797,
     "wof:geomhash":"11e57f0df804ee0700ea82a9e4b00ea9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823637487
+        }
+    ],
     "wof:id":823637487,
-    "wof:lastmodified":1472613399,
+    "wof:lastmodified":1492054981,
     "wof:name":"J C Exterior Home Improvement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

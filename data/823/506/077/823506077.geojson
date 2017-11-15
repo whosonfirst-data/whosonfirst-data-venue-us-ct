@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.523395,41.055855,-73.523395,41.055855",
     "geom:latitude":41.055855,
     "geom:longitude":-73.523395,
@@ -28,7 +29,15 @@
     "sg:postcode":"06902",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3dTE8gs3bk2i8TBlCBcd9C_41.055855_-73.523395@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463439715,
     "wof:geomhash":"180ef665e26aa5a3c1cca074c7e13457",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823506077
+        }
+    ],
     "wof:id":823506077,
-    "wof:lastmodified":1472612736,
+    "wof:lastmodified":1492029149,
     "wof:name":"Unlimited Visions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

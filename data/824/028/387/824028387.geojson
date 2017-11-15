@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.502333,41.573071,-73.502333,41.573071",
     "geom:latitude":41.573071,
     "geom:longitude":-73.502333,
@@ -31,7 +32,13 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TLCs0MiEHXEZwQEf735Tn_41.573071_-73.502333@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463452625,
     "wof:geomhash":"64c10467af753d26fdf1eda740989f75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":824028387
+        }
+    ],
     "wof:id":824028387,
-    "wof:lastmodified":1472609050,
+    "wof:lastmodified":1492062399,
     "wof:name":"Sherman Wine & Spirits",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

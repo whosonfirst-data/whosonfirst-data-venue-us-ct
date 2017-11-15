@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.393898,41.144085,-73.393898,41.144085",
     "geom:latitude":41.144085,
     "geom:longitude":-73.393898,
@@ -28,7 +29,15 @@
     "sg:postcode":"06851",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555521,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZFBo8MWlPWxM6O9FaCGo2_41.144085_-73.393898@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463451099,
     "wof:geomhash":"a8365a682b5df9a2fed23b61ea23c20c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420555521,
+            "region_id":85688629,
+            "venue_id":823963409
+        }
+    ],
     "wof:id":823963409,
-    "wof:lastmodified":1472613899,
+    "wof:lastmodified":1492027163,
     "wof:name":"Diane Green Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

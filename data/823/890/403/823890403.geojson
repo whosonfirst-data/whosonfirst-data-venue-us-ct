@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.293935,41.416937,-73.293935,41.416937",
     "geom:latitude":41.416937,
     "geom:longitude":-73.293935,
@@ -33,12 +34,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78V0vOlrwLvl2kTnZrVoOc_41.416937_-73.293935@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463449220,
     "wof:geomhash":"212541168606e48711192d5902ff60c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823890403
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823890403,
-    "wof:lastmodified":1472613920,
+    "wof:lastmodified":1492062285,
     "wof:name":"Ifs",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197479,41.188583,-73.197479,41.188583",
     "geom:latitude":41.188583,
     "geom:longitude":-73.197479,
@@ -33,7 +34,15 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RaIbL6Hmlm1D001XGsZUQ_41.188583_-73.197479@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463453486,
     "wof:geomhash":"54ced232429c8eebf254e79f7d501b14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":824064491
+        }
+    ],
     "wof:id":824064491,
-    "wof:lastmodified":1472613236,
+    "wof:lastmodified":1492027169,
     "wof:name":"Torino's Auto Body & Sales Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

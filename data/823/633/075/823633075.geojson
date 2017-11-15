@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.554385,41.068743,-73.554385,41.068743",
     "geom:latitude":41.068743,
     "geom:longitude":-73.554385,
@@ -31,7 +32,15 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2rMhzKH4Rn6hJYMZ8uD1TV_41.068743_-73.554385@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463442697,
     "wof:geomhash":"19e2b18bc62c83a33b72e4d63d68d01c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":823633075
+        }
+    ],
     "wof:id":823633075,
-    "wof:lastmodified":1472613368,
+    "wof:lastmodified":1492027082,
     "wof:name":"Putnam Limousine Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

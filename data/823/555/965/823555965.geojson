@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.62872,41.061972,-73.62872,41.061972",
     "geom:latitude":41.061972,
     "geom:longitude":-73.62872,
@@ -32,7 +33,15 @@
         "builder"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kPurHhUnJv41KGmrv9jxz_41.061972_-73.628720@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463440839,
     "wof:geomhash":"b17455ea3cbe4a06d4d3e7bf5b68760a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823555965
+        }
+    ],
     "wof:id":823555965,
-    "wof:lastmodified":1472613355,
+    "wof:lastmodified":1492061628,
     "wof:name":"Nathaniel Witherell Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.509433,41.060032,-73.509433,41.060032",
     "geom:latitude":41.060032,
     "geom:longitude":-73.509433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1266 E Main St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -34,19 +36,39 @@
     ],
     "sg:website":"www.danka.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
+    "wof:brand_id":1125156947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Xg2SChpXkIzG2iSLlHpmz_41.060032_-73.509433@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463452630,
-    "wof:geomhash":"fe3de7a94368146c219a0524ef039e74",
-    "wof:hierarchy":[],
+    "wof:geomhash":"eae95501ef58499779bd20104dec50c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":824028617
+        }
+    ],
     "wof:id":824028617,
-    "wof:lastmodified":1472609481,
+    "wof:lastmodified":1510613428,
     "wof:name":"Danka",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

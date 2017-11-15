@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.516118,41.115152,-73.516118,41.115152",
     "geom:latitude":41.115152,
     "geom:longitude":-73.516118,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"0eb31c030901ccb092e8bb86b4cc184e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":303421283
         }
     ],
     "wof:id":303421283,
-    "wof:lastmodified":1472606615,
+    "wof:lastmodified":1492029098,
     "wof:name":"Aje Realty LLC",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

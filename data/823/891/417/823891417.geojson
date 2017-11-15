@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115137,41.448688,-73.115137,41.448688",
     "geom:latitude":41.448688,
     "geom:longitude":-73.115137,
@@ -31,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495795,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_402DrcVVtgZCf4K6Bs8L1k_41.448688_-73.115137@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463449240,
     "wof:geomhash":"8467718dd80e24f8bf5f665300f258fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495795,
+            "region_id":85688629,
+            "venue_id":823891417
+        }
+    ],
     "wof:id":823891417,
-    "wof:lastmodified":1472613907,
+    "wof:lastmodified":1492055153,
     "wof:name":"Michaelson Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

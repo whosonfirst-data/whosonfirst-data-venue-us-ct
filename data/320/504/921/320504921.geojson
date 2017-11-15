@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.492441,41.147428,-73.492441,41.147428",
     "geom:latitude":41.147428,
     "geom:longitude":-73.492441,
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"16a953362892d3957dd941074f44e332",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":320504921
         }
     ],
     "wof:id":320504921,
-    "wof:lastmodified":1472606400,
+    "wof:lastmodified":1492040574,
     "wof:name":"Peoples Bank 41",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.943136,41.339328,-72.943136,41.339328",
     "geom:latitude":41.339328,
     "geom:longitude":-72.943136,
@@ -38,14 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
-        85885309,
-        102086923,
         85879159,
         102191575,
         404495787,
-        85930897
+        85633793,
+        85930897,
+        102086923,
+        85688629,
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,13 +57,6 @@
     "wof:geomhash":"08fa71acf5dce19eb7b4d9f6d0b2c719",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":824078309
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
@@ -71,12 +65,19 @@
             "neighbourhood_id":85879159,
             "region_id":85688629,
             "venue_id":824078309
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824078309
         }
     ],
     "wof:id":824078309,
-    "wof:lastmodified":1472612563,
+    "wof:lastmodified":1491936229,
     "wof:name":"Latin Fire & Spice",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

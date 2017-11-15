@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.094877,41.292763,-73.094877,41.292763",
     "geom:latitude":41.292763,
     "geom:longitude":-73.094877,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CJHcc6iYuI1bba2fNEYOh_41.292763_-73.094877@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463442470,
     "wof:geomhash":"93d4355f5121385442a9dfa8a1277798",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823623019
+        }
+    ],
     "wof:id":823623019,
-    "wof:lastmodified":1472613365,
+    "wof:lastmodified":1492054979,
     "wof:name":"Michel Anthony Sons Msnry Cnst",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

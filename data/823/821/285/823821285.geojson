@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.340674,41.663689,-73.340674,41.663689",
     "geom:latitude":41.663689,
     "geom:longitude":-73.340674,
@@ -34,8 +35,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
         85633793,
+        420555583,
+        85688629,
         85931231,
         102085375,
         85824781
@@ -50,6 +52,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":823821285
+        },
+        {
+            "country_id":85633793,
             "county_id":102085375,
             "locality_id":85931231,
             "neighbourhood_id":85824781,
@@ -58,9 +65,9 @@
         }
     ],
     "wof:id":823821285,
-    "wof:lastmodified":1472613791,
+    "wof:lastmodified":1492054965,
     "wof:name":"Averill Farm",
-    "wof:parent_id":85824781,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

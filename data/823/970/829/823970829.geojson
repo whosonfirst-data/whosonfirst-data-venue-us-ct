@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.586549,41.134695,-73.586549,41.134695",
     "geom:latitude":41.134695,
     "geom:longitude":-73.586549,
@@ -34,7 +35,14 @@
     ],
     "sg:website":"www.thegoodtax.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67QqLFPCqd4TbJ9Gv5CBcz_41.134695_-73.586549@1294084077"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1463451272,
     "wof:geomhash":"9b0bd99a27c1b13bdd802135128e7c99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823970829
+        }
+    ],
     "wof:id":823970829,
-    "wof:lastmodified":1472613962,
+    "wof:lastmodified":1492026922,
     "wof:name":"Achenbaum Capital Partners LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

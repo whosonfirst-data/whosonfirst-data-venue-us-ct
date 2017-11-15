@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.089322,41.5864,-73.089322,41.5864",
     "geom:latitude":41.5864,
     "geom:longitude":-73.089322,
@@ -32,7 +33,15 @@
         "membership"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5siuvAKVImWMaNfbFjwQM5_41.586400_-73.089322@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463438867,
     "wof:geomhash":"c2716790fd0540b55d173e21186fa48d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823471693
+        }
+    ],
     "wof:id":823471693,
-    "wof:lastmodified":1472608165,
+    "wof:lastmodified":1492061621,
     "wof:name":"Watertown Little League",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211158,41.391581,-73.211158,41.391581",
     "geom:latitude":41.391581,
     "geom:longitude":-73.211158,
@@ -32,7 +33,13 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BWrRSetiEx6nuRwZvG4gy_41.391581_-73.211158@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463441522,
     "wof:geomhash":"846c55c74d40eb5e7d1a783544057540",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823584283
+        }
+    ],
     "wof:id":823584283,
-    "wof:lastmodified":1472613322,
+    "wof:lastmodified":1492029164,
     "wof:name":"Duct Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

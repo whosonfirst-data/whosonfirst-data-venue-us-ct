@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.563432,41.16917,-73.563432,41.16917",
     "geom:latitude":41.16917,
     "geom:longitude":-73.563432,
@@ -31,7 +32,14 @@
         "resin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WmxxFj0usW41bCKZkS63i_41.169170_-73.563432@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463438792,
     "wof:geomhash":"48795368ed4c9d22501eb275c0b575ab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823468055
+        }
+    ],
     "wof:id":823468055,
-    "wof:lastmodified":1472606823,
+    "wof:lastmodified":1492027087,
     "wof:name":"Resinall Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.29786,41.138396,-73.29786,41.138396",
     "geom:latitude":41.138396,
     "geom:longitude":-73.29786,
@@ -31,7 +32,14 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72aLceouLOTw9CCsVHLOix_41.138396_-73.297860@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463441433,
     "wof:geomhash":"11e4c80c096e0ec0badfd555a8648e78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "region_id":85688629,
+            "venue_id":823580557
+        }
+    ],
     "wof:id":823580557,
-    "wof:lastmodified":1472613345,
+    "wof:lastmodified":1492027148,
     "wof:name":"Score! Educational Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

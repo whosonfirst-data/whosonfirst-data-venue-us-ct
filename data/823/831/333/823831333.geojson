@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.099786,41.297434,-73.099786,41.297434",
     "geom:latitude":41.297434,
     "geom:longitude":-73.099786,
@@ -32,7 +33,14 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_529724IPQzSnKRl8txdvuw_41.297434_-73.099786@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463447641,
     "wof:geomhash":"183e2635760e4b7060b2f9b81e8e9959",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823831333
+        }
+    ],
     "wof:id":823831333,
-    "wof:lastmodified":1472613784,
+    "wof:lastmodified":1492062541,
     "wof:name":"New Generation Party Sales",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

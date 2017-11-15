@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.389395,41.384711,-73.389395,41.384711",
     "geom:latitude":41.384711,
     "geom:longitude":-73.389395,
@@ -31,12 +32,7 @@
         "drinking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZkM8aJqTaDpJJ9sTiW4rj_41.384711_-73.389395@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463446870,
     "wof:geomhash":"277d18282098d1892e0c2b30d1598fda",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823805921
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823805921,
-    "wof:lastmodified":1472613830,
+    "wof:lastmodified":1492054898,
     "wof:name":"American Tap Services",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

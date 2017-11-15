@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.406868,41.461109,-73.406868,41.461109",
     "geom:latitude":41.461109,
     "geom:longitude":-73.406868,
@@ -36,7 +37,10 @@
     ],
     "sg:website":"http://www.brookfieldcoin/intuitwebsites.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZAeKIqYxXutXRwLh1Gvey_41.461109_-73.406868@1303262247"
@@ -44,11 +48,17 @@
     "wof:country":"US",
     "wof:created":1463454618,
     "wof:geomhash":"9ceb1b0cb51508f2a895f39ee3db5aeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824112985
+        }
+    ],
     "wof:id":824112985,
-    "wof:lastmodified":1472613349,
+    "wof:lastmodified":1492044244,
     "wof:name":"Brookfield Coin & Card LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

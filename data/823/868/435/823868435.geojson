@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.155918,41.268083,-73.155918,41.268083",
     "geom:latitude":41.268083,
     "geom:longitude":-73.155918,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555503,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71oETcygMGAyX5csE6nMFD_41.268083_-73.155918@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463448700,
     "wof:geomhash":"4eda36e42b027a03fdba76e43d6e6fbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":823868435
+        }
+    ],
     "wof:id":823868435,
-    "wof:lastmodified":1472613854,
+    "wof:lastmodified":1492055132,
     "wof:name":"Roland's Home Improvement Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

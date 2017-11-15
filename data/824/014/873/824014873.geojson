@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.143435,41.427208,-73.143435,41.427208",
     "geom:latitude":41.427208,
     "geom:longitude":-73.143435,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.oxfordpublicworks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555611
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ifJkwLmmxY0viePYvy8Lf_41.427208_-73.143435@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463452315,
     "wof:geomhash":"61ba12f12aea87f0463bc89a87a32bfb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555611,
+            "venue_id":824014873
+        }
+    ],
     "wof:id":824014873,
-    "wof:lastmodified":1472607833,
+    "wof:lastmodified":1492027031,
     "wof:name":"Oxford Town Garage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

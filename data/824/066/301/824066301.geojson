@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.44451,41.142681,-73.44451,41.142681",
     "geom:latitude":41.142681,
     "geom:longitude":-73.44451,
@@ -29,14 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        85633793,
+        85848785,
+        102084283,
         85879307,
         102191575,
         404495959,
-        85633793,
-        85930795,
-        102084283,
-        85688629,
-        85848785
+        85930795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +48,13 @@
     "wof:geomhash":"6a0c1d5129bae8c011a114e6aeebc5a1",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85848785,
+            "region_id":85688629,
+            "venue_id":824066301
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
@@ -55,19 +63,12 @@
             "neighbourhood_id":85879307,
             "region_id":85688629,
             "venue_id":824066301
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85848785,
-            "region_id":85688629,
-            "venue_id":824066301
         }
     ],
     "wof:id":824066301,
-    "wof:lastmodified":1472611510,
+    "wof:lastmodified":1492040582,
     "wof:name":"Community Ambassador-Greetings",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

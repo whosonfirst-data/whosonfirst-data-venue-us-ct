@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.139499,41.540991,-73.139499,41.540991",
     "geom:latitude":41.540991,
     "geom:longitude":-73.139499,
@@ -31,7 +32,10 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fXK9WP3ZsK1Ze5NB06uGB_41.540991_-73.139499@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463441167,
     "wof:geomhash":"4a946ca9d9d510fe11c6d2fb120ed7e4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823569071
+        }
+    ],
     "wof:id":823569071,
-    "wof:lastmodified":1472613329,
+    "wof:lastmodified":1492040583,
     "wof:name":"Montessori Academy LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

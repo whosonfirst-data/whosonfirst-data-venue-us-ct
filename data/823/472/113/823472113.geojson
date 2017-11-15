@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.093163,41.316845,-73.093163,41.316845",
     "geom:latitude":41.316845,
     "geom:longitude":-73.093163,
@@ -31,7 +32,14 @@
         "automotive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Sdbnfpq41Wf5RPz8XHmkz_41.316845_-73.093163@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463438879,
     "wof:geomhash":"692a25704aeaf43f9dff696dc0216a89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823472113
+        }
+    ],
     "wof:id":823472113,
-    "wof:lastmodified":1472606983,
+    "wof:lastmodified":1492062548,
     "wof:name":"Longbrook Automotive",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

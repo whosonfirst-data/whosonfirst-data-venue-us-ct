@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.443565,41.444257,-73.443565,41.444257",
     "geom:latitude":41.444257,
     "geom:longitude":-73.443565,
@@ -28,7 +29,15 @@
     "sg:postcode":"06811",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555453,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iILceOGNV093qDWkbg5BQ_41.444257_-73.443565@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463448703,
     "wof:geomhash":"d5fb047daf1b4458f7268df32bd70dc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555453,
+            "region_id":85688629,
+            "venue_id":823868569
+        }
+    ],
     "wof:id":823868569,
-    "wof:lastmodified":1472613856,
+    "wof:lastmodified":1492051882,
     "wof:name":"L Haber Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

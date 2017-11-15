@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.432468,41.127168,-73.432468,41.127168",
     "geom:latitude":41.127168,
     "geom:longitude":-73.432468,
@@ -33,7 +34,15 @@
         "cabinet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558739,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z73dCQYz26WvLsdCvQFwu_41.127168_-73.432468@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463439934,
     "wof:geomhash":"3cb22a4b24685bd3c2f43ba47a7c8d96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420558739,
+            "region_id":85688629,
+            "venue_id":823516405
+        }
+    ],
     "wof:id":823516405,
-    "wof:lastmodified":1472613247,
+    "wof:lastmodified":1492029088,
     "wof:name":"Front Row Kitchens Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

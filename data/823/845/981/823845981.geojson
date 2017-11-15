@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.552099,41.075559,-73.552099,41.075559",
     "geom:latitude":41.075559,
     "geom:longitude":-73.552099,
@@ -31,7 +32,15 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HisU4Hwew5Tzjtm4AX7D4_41.075559_-73.552099@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463448099,
     "wof:geomhash":"0ee0f2b9f26eb6f1b0cbb0a1f8a6529b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":823845981
+        }
+    ],
     "wof:id":823845981,
-    "wof:lastmodified":1472613851,
+    "wof:lastmodified":1492027083,
     "wof:name":"Hunt Foreign Investment Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.370976,41.414711,-73.370976,41.414711",
     "geom:latitude":41.414711,
     "geom:longitude":-73.370976,
@@ -32,12 +33,7 @@
         "custom"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dl6exQqW1ON3WvfxH35eK_41.414711_-73.370976@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463442277,
     "wof:geomhash":"1a0941fd83063bc81b87a18559270033",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823615073
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823615073,
-    "wof:lastmodified":1472613377,
+    "wof:lastmodified":1492062283,
     "wof:name":"Mercury Computer Systems",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

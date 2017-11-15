@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.436871,41.450983,-73.436871,41.450983",
     "geom:latitude":41.450983,
     "geom:longitude":-73.436871,
@@ -28,7 +29,15 @@
     "sg:postcode":"06811",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555453,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AmHsD6kbDu979FeNaxh39_41.450983_-73.436871@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463452434,
     "wof:geomhash":"9efb47f6f6e03bec2d8ecc15571b2c6b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555453,
+            "region_id":85688629,
+            "venue_id":824020473
+        }
+    ],
     "wof:id":824020473,
-    "wof:lastmodified":1472608928,
+    "wof:lastmodified":1492027117,
     "wof:name":"Newtown Tree Service Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

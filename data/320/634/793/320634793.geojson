@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.650444,41.016654,-73.650444,41.016654",
     "geom:latitude":41.016654,
     "geom:longitude":-73.650444,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        420555461,
+        102191575,
+        404495949,
         85633793,
-        85930941,
+        85930937,
         102084283,
-        85885307
+        85688629,
+        85885307,
+        85930941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,9 +51,20 @@
     "wof:geomhash":"ef67ffa8c1be32d26df0f4692203f0ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930937,
+            "neighbourhood_id":420555461,
+            "region_id":85688629,
+            "venue_id":320634793
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930941,
             "neighbourhood_id":85885307,
             "region_id":85688629,
@@ -56,9 +72,9 @@
         }
     ],
     "wof:id":320634793,
-    "wof:lastmodified":1472606398,
+    "wof:lastmodified":1492029246,
     "wof:name":"Coaching For Success",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

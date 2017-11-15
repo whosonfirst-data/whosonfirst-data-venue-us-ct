@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.694658,41.111926,-73.694658,41.111926",
     "geom:latitude":41.111926,
     "geom:longitude":-73.694658,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85837667
+        85837667,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"9c6f466a12ddfc16cae287fdb0a293fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85837667,
             "region_id":85688629,
             "venue_id":286863301
         }
     ],
     "wof:id":286863301,
-    "wof:lastmodified":1472606491,
+    "wof:lastmodified":1492027085,
     "wof:name":"Flag of Honor",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",

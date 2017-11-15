@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.448145,41.559777,-73.448145,41.559777",
     "geom:latitude":41.559777,
     "geom:longitude":-73.448145,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809229,
-        102085375
+        102191575,
+        404496031,
+        85633793,
+        85931231,
+        102085375,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"0836dcd8dc8f7fc2ff98cb029f2e79cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085375,
+            "localadmin_id":404496031,
+            "locality_id":85931231,
             "neighbourhood_id":85809229,
             "region_id":85688629,
             "venue_id":824014887
         }
     ],
     "wof:id":824014887,
-    "wof:lastmodified":1472608031,
+    "wof:lastmodified":1492027116,
     "wof:name":"Martin MB Electric LLC",
     "wof:parent_id":85809229,
     "wof:placetype":"venue",

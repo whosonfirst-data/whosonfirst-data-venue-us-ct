@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.292779,41.312366,-73.292779,41.312366",
     "geom:latitude":41.312366,
     "geom:longitude":-73.292779,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"10299e7831a6f4a99a0a3a672f82e40d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823977347
         }
     ],
     "wof:id":823977347,
-    "wof:lastmodified":1472613917,
+    "wof:lastmodified":1492054912,
     "wof:name":"Thinktodo LLC",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

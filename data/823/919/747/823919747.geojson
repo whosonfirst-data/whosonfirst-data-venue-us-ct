@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.395485,41.102022,-73.395485,41.102022",
     "geom:latitude":41.102022,
     "geom:longitude":-73.395485,
@@ -34,13 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85848585,
+        85879315,
         102191575,
         404495959,
         85633793,
         85930795,
         102084283,
-        85688629
+        85688629,
+        85816631,
+        85848585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +59,35 @@
             "county_id":102084283,
             "localadmin_id":404495959,
             "locality_id":85930795,
+            "neighbourhood_id":85879315,
+            "region_id":85688629,
+            "venue_id":823919747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":85816631,
+            "region_id":85688629,
+            "venue_id":823919747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85848585,
             "region_id":85688629,
             "venue_id":823919747
         }
     ],
     "wof:id":823919747,
-    "wof:lastmodified":1472613945,
+    "wof:lastmodified":1492032092,
     "wof:name":"Clearview Satellite",
-    "wof:parent_id":85848585,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197365,41.272924,-73.197365,41.272924",
     "geom:latitude":41.272924,
     "geom:longitude":-73.197365,
@@ -31,7 +32,15 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jfgaAZ0vh4KX3w4vCaWF4_41.272924_-73.197365@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463445074,
     "wof:geomhash":"6ca71da4efe166301c32ae54547eb432",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":823736447
+        }
+    ],
     "wof:id":823736447,
-    "wof:lastmodified":1472613723,
+    "wof:lastmodified":1492027128,
     "wof:name":"Lobdell Consultants",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

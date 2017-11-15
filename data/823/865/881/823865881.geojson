@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.161624,41.5469,-73.161624,41.5469",
     "geom:latitude":41.5469,
     "geom:longitude":-73.161624,
@@ -32,7 +33,10 @@
         "private"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Q3CZ4dLfDDzHhMhIzcgbn_41.546900_-73.161624@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463448643,
     "wof:geomhash":"4c2f91ad61d6c63dedc5ca7a819228db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823865881
+        }
+    ],
     "wof:id":823865881,
-    "wof:lastmodified":1472613851,
+    "wof:lastmodified":1492054733,
     "wof:name":"Highfield Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

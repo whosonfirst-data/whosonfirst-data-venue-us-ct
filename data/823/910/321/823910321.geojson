@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.64712,41.085141,-73.64712,41.085141",
     "geom:latitude":41.085141,
     "geom:longitude":-73.64712,
@@ -28,7 +29,13 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V8kmSFHum9yFTBP63Bisr_41.085141_-73.647120@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463449755,
     "wof:geomhash":"e5adc184305794fa9f7f315768749e3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823910321
+        }
+    ],
     "wof:id":823910321,
-    "wof:lastmodified":1472613905,
+    "wof:lastmodified":1492026900,
     "wof:name":"Milton Oliver Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

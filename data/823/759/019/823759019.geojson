@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.241722,41.411465,-73.241722,41.411465",
     "geom:latitude":41.411465,
     "geom:longitude":-73.241722,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"d7e6162e616b1c4ffefe14633f102481",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823759019
         }
     ],
     "wof:id":823759019,
-    "wof:lastmodified":1472613744,
+    "wof:lastmodified":1492044238,
     "wof:name":"Fairfield Auction LLC",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

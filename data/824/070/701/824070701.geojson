@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.494149,41.593265,-73.494149,41.593265",
     "geom:latitude":41.593265,
     "geom:longitude":-73.494149,
@@ -25,7 +26,13 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sKiYF6wMz1PNHhnTZZsoV_41.593265_-73.494149@1294084077"
@@ -33,9 +40,18 @@
     "wof:country":"US",
     "wof:created":1463453631,
     "wof:geomhash":"e32f54518e1af48dbc94b85265e9faee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":824070701
+        }
+    ],
     "wof:id":824070701,
-    "wof:lastmodified":1472613262,
+    "wof:lastmodified":1492026975,
     "wof:name":"Silk Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.107458,41.53782,-73.107458,41.53782",
     "geom:latitude":41.53782,
     "geom:longitude":-73.107458,
@@ -32,7 +33,10 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39ERWDC3EsjKUNRWhDKSTM_41.537820_-73.107458@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463440105,
     "wof:geomhash":"f44626eedcc8205007eaa3d74458d462",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823523605
+        }
+    ],
     "wof:id":823523605,
-    "wof:lastmodified":1472613301,
+    "wof:lastmodified":1492055048,
     "wof:name":"Horseman's Exchange",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

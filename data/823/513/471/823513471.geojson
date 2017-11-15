@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.665639,41.006039,-73.665639,41.006039",
     "geom:latitude":41.006039,
     "geom:longitude":-73.665639,
@@ -28,7 +29,15 @@
     "sg:postcode":"10573",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xBHlTVDt291UuYwJG3hrR_41.006039_-73.665639@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463439875,
     "wof:geomhash":"bb90db20624bf9a3ef14faa97408dcae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823513471
+        }
+    ],
     "wof:id":823513471,
-    "wof:lastmodified":1472613250,
+    "wof:lastmodified":1492029264,
     "wof:name":"A S Cacsire",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

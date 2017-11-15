@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.447869,41.134631,-73.447869,41.134631",
     "geom:latitude":41.134631,
     "geom:longitude":-73.447869,
@@ -33,14 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        85633793,
+        85848785,
+        102084283,
         85879307,
         102191575,
         404495959,
-        85633793,
-        85930795,
-        102084283,
-        85688629,
-        85848785
+        85930795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +52,13 @@
     "wof:geomhash":"a521fbe22cfd13af23ec5c52b78c7cd6",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85848785,
+            "region_id":85688629,
+            "venue_id":824059127
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
@@ -59,19 +67,12 @@
             "neighbourhood_id":85879307,
             "region_id":85688629,
             "venue_id":824059127
-        },
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85848785,
-            "region_id":85688629,
-            "venue_id":824059127
         }
     ],
     "wof:id":824059127,
-    "wof:lastmodified":1472612132,
+    "wof:lastmodified":1492027106,
     "wof:name":"Michael Sabato Carpet",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

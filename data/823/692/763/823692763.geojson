@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.297639,41.13278,-73.297639,41.13278",
     "geom:latitude":41.13278,
     "geom:longitude":-73.297639,
@@ -31,7 +32,14 @@
         "architectural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44RehW7tzwZLnlkcfbrCbE_41.132780_-73.297639@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463444079,
     "wof:geomhash":"b00c47375cc48fcd5b4208bef738bbc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "region_id":85688629,
+            "venue_id":823692763
+        }
+    ],
     "wof:id":823692763,
-    "wof:lastmodified":1472613696,
+    "wof:lastmodified":1492055094,
     "wof:name":"Gerald M Kagan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

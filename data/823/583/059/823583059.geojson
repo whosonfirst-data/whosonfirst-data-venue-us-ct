@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.191685,41.201094,-73.191685,41.201094",
     "geom:latitude":41.201094,
     "geom:longitude":-73.191685,
@@ -32,7 +33,15 @@
         "power"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555443,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m0vZsPsrCuFj1Su6Zm5vv_41.201094_-73.191685@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463441489,
     "wof:geomhash":"35a0ab0843f8f5f1df63c00d80f45177",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555443,
+            "region_id":85688629,
+            "venue_id":823583059
+        }
+    ],
     "wof:id":823583059,
-    "wof:lastmodified":1472613322,
+    "wof:lastmodified":1492042524,
     "wof:name":"Fermont",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

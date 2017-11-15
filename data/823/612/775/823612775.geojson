@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.113815,41.24743,-73.113815,41.24743",
     "geom:latitude":41.24743,
     "geom:longitude":-73.113815,
@@ -28,7 +29,14 @@
     "sg:postcode":"06614",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AEnsDFg5mDxhVPvxBXDQb_41.247430_-73.113815@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463442219,
     "wof:geomhash":"6c0c4f4d567d3e5b690346979128f878",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823612775
+        }
+    ],
     "wof:id":823612775,
-    "wof:lastmodified":1472613418,
+    "wof:lastmodified":1492029049,
     "wof:name":"Georgetown Marketing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

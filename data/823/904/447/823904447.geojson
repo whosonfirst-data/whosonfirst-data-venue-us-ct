@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.50523,41.508926,-73.50523,41.508926",
     "geom:latitude":41.508926,
     "geom:longitude":-73.50523,
@@ -31,12 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dOZ3k9FZyWdRmYSudJoOG_41.508926_-73.505230@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463449582,
     "wof:geomhash":"f1a035dcda9f3e568303b01affa609d7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":823904447
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823904447,
-    "wof:lastmodified":1472613902,
+    "wof:lastmodified":1492026971,
     "wof:name":"New England Tile",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.465958,41.145367,-73.465958,41.145367",
     "geom:latitude":41.145367,
     "geom:longitude":-73.465958,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85848785
+        85848785,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"abb9e49437200946858a3eac56560b67",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85848785,
             "region_id":85688629,
             "venue_id":253624685
         }
     ],
     "wof:id":253624685,
-    "wof:lastmodified":1472606272,
+    "wof:lastmodified":1492029278,
     "wof:name":"Henry M Rowett",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",

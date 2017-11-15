@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.309442,41.154873,-73.309442,41.154873",
     "geom:latitude":41.154873,
     "geom:longitude":-73.309442,
@@ -31,12 +32,7 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85823009,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l9GDQj00IiaH7OJgTBufi_41.154873_-73.309442@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463452225,
     "wof:geomhash":"dc690a3a870f998edfaa7b2b92547a79",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85823009,
-            "region_id":85688629,
-            "venue_id":824011359
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824011359,
-    "wof:lastmodified":1472607178,
+    "wof:lastmodified":1492027110,
     "wof:name":"O C R Design",
     "wof:parent_id":85823009,
     "wof:placetype":"venue",

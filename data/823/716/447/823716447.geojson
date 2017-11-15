@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.16926,41.498525,-73.16926,41.498525",
     "geom:latitude":41.498525,
     "geom:longitude":-73.16926,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lsMiQXFBFOPBB8r01ycjS_41.498525_-73.169260@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444575,
     "wof:geomhash":"5efa328deb8f0ede54f3e1bdc9599e87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823716447
+        }
+    ],
     "wof:id":823716447,
-    "wof:lastmodified":1472613721,
+    "wof:lastmodified":1492054733,
     "wof:name":"Nicom Construction Group Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.703158,41.076004,-73.703158,41.076004",
     "geom:latitude":41.076004,
     "geom:longitude":-73.703158,
@@ -35,7 +36,13 @@
         "venture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SAwun79p5kOyFex4q16G5_41.076004_-73.703158@1294084077"
@@ -43,9 +50,18 @@
     "wof:country":"US",
     "wof:created":1463451962,
     "wof:geomhash":"eb3c610ca410543f025b244947c244b8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823999011
+        }
+    ],
     "wof:id":823999011,
-    "wof:lastmodified":1472613969,
+    "wof:lastmodified":1492046285,
     "wof:name":"Tudor Global Trading Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.671739,41.034014,-73.671739,41.034014",
     "geom:latitude":41.034014,
     "geom:longitude":-73.671739,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        420555461,
+        102191575,
+        404495949,
         85633793,
         85930937,
-        102084283
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"08620a16d00fb9791ebde4a95d77227d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930937,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420555461,
             "region_id":85688629,
             "venue_id":387144889
         }
     ],
     "wof:id":387144889,
-    "wof:lastmodified":1472606454,
+    "wof:lastmodified":1492055095,
     "wof:name":"Bria Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

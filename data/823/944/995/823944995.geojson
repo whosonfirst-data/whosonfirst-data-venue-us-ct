@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.539958,41.059207,-73.539958,41.059207",
     "geom:latitude":41.059207,
     "geom:longitude":-73.539958,
@@ -29,13 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881169,
+        85844555,
         102191575,
         404495855,
         85633793,
         85930787,
         102084283,
-        85688629
+        85688629,
+        85881169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,25 @@
             "county_id":102084283,
             "localadmin_id":404495855,
             "locality_id":85930787,
+            "neighbourhood_id":85844555,
+            "region_id":85688629,
+            "venue_id":823944995
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
             "neighbourhood_id":85881169,
             "region_id":85688629,
             "venue_id":823944995
         }
     ],
     "wof:id":823944995,
-    "wof:lastmodified":1472613956,
+    "wof:lastmodified":1492054952,
     "wof:name":"21st Century Products Inc",
-    "wof:parent_id":85881169,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

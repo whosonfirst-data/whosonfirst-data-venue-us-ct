@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114891,41.355618,-73.114891,41.355618",
     "geom:latitude":41.355618,
     "geom:longitude":-73.114891,
@@ -28,7 +29,13 @@
     "sg:postcode":"06483",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495797,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tLW7OMhysl4PUzoAXUnvJ_41.355618_-73.114891@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463443092,
     "wof:geomhash":"3119e25884b06c8241c0a662757a0c90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495797,
+            "region_id":85688629,
+            "venue_id":823650657
+        }
+    ],
     "wof:id":823650657,
-    "wof:lastmodified":1472613416,
+    "wof:lastmodified":1492027141,
     "wof:name":"Engineering Services & Conslt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

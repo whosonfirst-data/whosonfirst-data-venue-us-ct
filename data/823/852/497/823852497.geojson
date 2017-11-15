@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.116939,41.603831,-73.116939,41.603831",
     "geom:latitude":41.603831,
     "geom:longitude":-73.116939,
@@ -28,7 +29,15 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fNwemhz8BYLq9ZdctGzLR_41.603831_-73.116939@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463448291,
     "wof:geomhash":"fa28382da4c4c948131c4dfcbf2c2a0f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823852497
+        }
+    ],
     "wof:id":823852497,
-    "wof:lastmodified":1472613806,
+    "wof:lastmodified":1492070743,
     "wof:name":"Dynamic Training Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

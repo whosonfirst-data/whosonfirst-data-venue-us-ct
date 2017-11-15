@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.290729,41.413512,-73.290729,41.413512",
     "geom:latitude":41.413512,
     "geom:longitude":-73.290729,
@@ -49,12 +50,7 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jB5UEMUpIsdk0SSSXyEvl_41.413512_-73.290729@1303262245"
@@ -62,17 +58,9 @@
     "wof:country":"US",
     "wof:created":1463454427,
     "wof:geomhash":"8e841347e1e3e3110b23dd251d523be4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":824104241
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824104241,
-    "wof:lastmodified":1472613277,
+    "wof:lastmodified":1492062287,
     "wof:name":"Sekai Electronics Inc",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

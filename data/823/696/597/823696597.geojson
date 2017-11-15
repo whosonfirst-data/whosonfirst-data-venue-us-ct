@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.471836,41.524928,-73.471836,41.524928",
     "geom:latitude":41.524928,
     "geom:longitude":-73.471836,
@@ -31,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85828691,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ieBmocHO2xbuk1WSe2k4T_41.524928_-73.471836@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463444166,
     "wof:geomhash":"5ae0a5bdc765ebe76b6266f93c4854ef",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85828691,
-            "region_id":85688629,
-            "venue_id":823696597
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823696597,
-    "wof:lastmodified":1472613685,
+    "wof:lastmodified":1492054814,
     "wof:name":"Joe Sparaco Consultant",
     "wof:parent_id":85828691,
     "wof:placetype":"venue",

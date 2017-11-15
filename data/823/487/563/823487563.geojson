@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.319515,41.288719,-73.319515,41.288719",
     "geom:latitude":41.288719,
     "geom:longitude":-73.319515,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"d89a8af76de1133141b9426c452b9b69",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823487563
         }
     ],
     "wof:id":823487563,
-    "wof:lastmodified":1472609752,
+    "wof:lastmodified":1492061702,
     "wof:name":"Gfp Holding Corporation Inc",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

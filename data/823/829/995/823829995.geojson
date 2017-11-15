@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.531855,41.320947,-73.531855,41.320947",
     "geom:latitude":41.320947,
     "geom:longitude":-73.531855,
@@ -34,7 +35,13 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JL80lFI6JuXVxw6SvvYG3_41.320947_-73.531855@1294084077"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1463447608,
     "wof:geomhash":"23dc5ef3ca344dc8077130c8c61232f9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823829995
+        }
+    ],
     "wof:id":823829995,
-    "wof:lastmodified":1472613847,
+    "wof:lastmodified":1492061759,
     "wof:name":"Goodenough Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.412799,41.282578,-73.412799,41.282578",
     "geom:latitude":41.282578,
     "geom:longitude":-73.412799,
@@ -29,13 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        85633793,
+        85867441,
+        102084283,
         85807091,
         102191575,
         404495863,
-        85633793,
-        85930985,
-        102084283,
-        85688629
+        85930985
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +47,13 @@
     "wof:created":1463438996,
     "wof:geomhash":"f680209317edef648e3171fc5eb24975",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85867441,
+            "region_id":85688629,
+            "venue_id":823476755
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":823476755,
-    "wof:lastmodified":1472608081,
+    "wof:lastmodified":1492068771,
     "wof:name":"Marketing Consultant",
-    "wof:parent_id":85807091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

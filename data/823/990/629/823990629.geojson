@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.172038,41.256146,-73.172038,41.256146",
     "geom:latitude":41.256146,
     "geom:longitude":-73.172038,
@@ -33,7 +34,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555503,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IS3wPrTBIv3TC4La1I0J7_41.256146_-73.172038@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463451727,
     "wof:geomhash":"e58e9f6916c4c789edb5ae938933cce3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":823990629
+        }
+    ],
     "wof:id":823990629,
-    "wof:lastmodified":1472613973,
+    "wof:lastmodified":1492055135,
     "wof:name":"Gerald Co LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

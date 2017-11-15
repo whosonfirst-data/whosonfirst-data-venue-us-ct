@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.650482,41.016522,-73.650482,41.016522",
     "geom:latitude":41.016522,
     "geom:longitude":-73.650482,
@@ -29,11 +30,15 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85885307,
+        102191575,
+        404495949,
         85633793,
         85930941,
         102084283,
-        85885307
+        85688629,
+        420555461,
+        85930937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,30 @@
     "wof:geomhash":"4d02d89b345c4776e2a8e71326f8a8c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930941,
             "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":370695129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930937,
+            "neighbourhood_id":420555461,
             "region_id":85688629,
             "venue_id":370695129
         }
     ],
     "wof:id":370695129,
-    "wof:lastmodified":1472606563,
+    "wof:lastmodified":1492085294,
     "wof:name":"Lws Co Inc",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

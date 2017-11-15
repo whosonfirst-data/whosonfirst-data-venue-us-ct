@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197202,41.617063,-73.197202,41.617063",
     "geom:latitude":41.617063,
     "geom:longitude":-73.197202,
@@ -28,7 +29,12 @@
     "sg:postcode":"06751",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816587,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jszM4spNsZyX8Qb7PUVgA_41.617063_-73.197202@1294084077"
@@ -36,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1463442186,
     "wof:geomhash":"369a6dce5780cc03677b60622eefda47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816587,
+            "region_id":85688629,
+            "venue_id":823611547
+        }
+    ],
     "wof:id":823611547,
-    "wof:lastmodified":1472613405,
+    "wof:lastmodified":1492051705,
     "wof:name":"Pondview Farm LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

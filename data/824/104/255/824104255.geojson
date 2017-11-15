@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.295654,41.41725,-73.295654,41.41725",
     "geom:latitude":41.41725,
     "geom:longitude":-73.295654,
@@ -40,12 +41,7 @@
     ],
     "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fnpTbDbYPv1SThs3YVbLF_41.417250_-73.295654@1303262245"
@@ -53,17 +49,9 @@
     "wof:country":"US",
     "wof:created":1463454427,
     "wof:geomhash":"7a4f07b9a2e85c92bd3b5b73324c4312",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":824104255
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824104255,
-    "wof:lastmodified":1472613276,
+    "wof:lastmodified":1492062287,
     "wof:name":"Wachovia Bank",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

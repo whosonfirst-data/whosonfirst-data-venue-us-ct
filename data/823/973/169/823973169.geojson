@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408106,41.462306,-73.408106,41.462306",
     "geom:latitude":41.462306,
     "geom:longitude":-73.408106,
@@ -28,7 +29,10 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6N16x2h6VMPD0X1L3I1Q91_41.462306_-73.408106@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463451319,
     "wof:geomhash":"a77d157ce7a4e03e603ec7ee078941b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823973169
+        }
+    ],
     "wof:id":823973169,
-    "wof:lastmodified":1472613864,
+    "wof:lastmodified":1492027123,
     "wof:name":"Continental General Insurance",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.418737,41.603776,-73.418737,41.603776",
     "geom:latitude":41.603776,
     "geom:longitude":-73.418737,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85809229,
-        102085375
+        85931231,
+        102085375,
+        85824781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,16 @@
         {
             "country_id":85633793,
             "county_id":102085375,
-            "neighbourhood_id":85809229,
+            "locality_id":85931231,
+            "neighbourhood_id":85824781,
             "region_id":85688629,
             "venue_id":823885349
         }
     ],
     "wof:id":823885349,
-    "wof:lastmodified":1472613861,
+    "wof:lastmodified":1492027113,
     "wof:name":"Walter Kidd Productions",
-    "wof:parent_id":85809229,
+    "wof:parent_id":85824781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

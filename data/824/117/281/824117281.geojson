@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.431836,41.125095,-73.431836,41.125095",
     "geom:latitude":41.125095,
     "geom:longitude":-73.431836,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420558739,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52laAExEEQcIQLBAtLJ0Np_41.125095_-73.431836@1303262247"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463454709,
     "wof:geomhash":"1878195514076cb6288cb5a55218e5c3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420558739,
+            "region_id":85688629,
+            "venue_id":824117281
+        }
+    ],
     "wof:id":824117281,
-    "wof:lastmodified":1472613326,
+    "wof:lastmodified":1492027102,
     "wof:name":"C Gessner Painting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420558739,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

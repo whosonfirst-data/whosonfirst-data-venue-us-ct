@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.632854,41.147227,-73.632854,41.147227",
     "geom:latitude":41.147227,
     "geom:longitude":-73.632854,
@@ -29,11 +30,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85838073,
+        102191575,
+        404495855,
         85633793,
         85930787,
         102084283,
-        85838073
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,9 +46,10 @@
     "wof:geomhash":"e9883f1034ecddc49d552d6a88644a03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495855,
             "locality_id":85930787,
             "neighbourhood_id":85838073,
             "region_id":85688629,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":303656657,
-    "wof:lastmodified":1472606645,
+    "wof:lastmodified":1492029245,
     "wof:name":"Jbm Realty Capital",
     "wof:parent_id":85838073,
     "wof:placetype":"venue",

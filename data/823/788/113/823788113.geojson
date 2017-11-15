@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197541,41.288973,-73.197541,41.288973",
     "geom:latitude":41.288973,
     "geom:longitude":-73.197541,
@@ -33,7 +34,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mhYSOkQbkLtALLLNJe6Zx_41.288973_-73.197541@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463446356,
     "wof:geomhash":"5f349983e335392630e285d3665253c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":823788113
+        }
+    ],
     "wof:id":823788113,
-    "wof:lastmodified":1472613759,
+    "wof:lastmodified":1492061802,
     "wof:name":"Bomnie-Lynn LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

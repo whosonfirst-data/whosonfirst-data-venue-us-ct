@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.032528,41.21556,-73.032528,41.21556",
     "geom:latitude":41.21556,
     "geom:longitude":-73.032528,
@@ -34,14 +35,14 @@
     "sg:website":"www.russellbuilding.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85804939,
+        85820241,
         102191575,
         404495783,
         85633793,
         85930905,
         102086923,
         85688629,
-        85820241
+        85804939
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,7 +58,7 @@
             "county_id":102086923,
             "localadmin_id":404495783,
             "locality_id":85930905,
-            "neighbourhood_id":85804939,
+            "neighbourhood_id":85820241,
             "region_id":85688629,
             "venue_id":823536003
         },
@@ -67,15 +68,15 @@
             "county_id":102086923,
             "localadmin_id":404495783,
             "locality_id":85930905,
-            "neighbourhood_id":85820241,
+            "neighbourhood_id":85804939,
             "region_id":85688629,
             "venue_id":823536003
         }
     ],
     "wof:id":823536003,
-    "wof:lastmodified":1472613277,
+    "wof:lastmodified":1492064354,
     "wof:name":"Russell Building & Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

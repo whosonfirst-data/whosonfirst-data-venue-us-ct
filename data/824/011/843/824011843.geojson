@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.941593,41.340087,-72.941593,41.340087",
     "geom:latitude":41.340087,
     "geom:longitude":-72.941593,
@@ -29,14 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
-        85885309,
-        102086923,
         85879159,
         102191575,
         404495787,
-        85930897
+        85633793,
+        85930897,
+        102086923,
+        85688629,
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,13 +48,6 @@
     "wof:geomhash":"61f07fcaaa37e38a46591cc9559f5ede",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":824011843
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85879159,
             "region_id":85688629,
             "venue_id":824011843
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":824011843
         }
     ],
     "wof:id":824011843,
-    "wof:lastmodified":1472607534,
+    "wof:lastmodified":1491936232,
     "wof:name":"Shree Ganesh & Bhavani 605",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

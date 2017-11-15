@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.208062,41.195594,-73.208062,41.195594",
     "geom:latitude":41.195594,
     "geom:longitude":-73.208062,
@@ -31,7 +32,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555441,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ABuRcNs5U7xlp6kadkXt5_41.195594_-73.208062@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463443922,
     "wof:geomhash":"e66b6dc29d2494b2c9f669c2a7c05ed6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555441,
+            "region_id":85688629,
+            "venue_id":823686041
+        }
+    ],
     "wof:id":823686041,
-    "wof:lastmodified":1472613660,
+    "wof:lastmodified":1492055129,
     "wof:name":"Hien T Ngyen",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

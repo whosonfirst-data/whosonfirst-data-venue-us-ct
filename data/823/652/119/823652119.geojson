@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.430684,41.399449,-73.430684,41.399449",
     "geom:latitude":41.399449,
     "geom:longitude":-73.430684,
@@ -33,13 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805151,
+        85821411,
         102191575,
         404495941,
         85633793,
         85930805,
         102084283,
-        85688629
+        85688629,
+        85805151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,25 @@
             "county_id":102084283,
             "localadmin_id":404495941,
             "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823652119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
             "neighbourhood_id":85805151,
             "region_id":85688629,
             "venue_id":823652119
         }
     ],
     "wof:id":823652119,
-    "wof:lastmodified":1472613393,
+    "wof:lastmodified":1492061791,
     "wof:name":"New Po'Mans Paradise",
-    "wof:parent_id":85805151,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

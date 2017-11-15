@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.436972,41.082618,-73.436972,41.082618",
     "geom:latitude":41.082618,
     "geom:longitude":-73.436972,
@@ -32,7 +33,14 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1T38xzPSLksadQgRKoX6sy_41.082618_-73.436972@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463447987,
     "wof:geomhash":"892ac28d9bc383d672471fffcb03cb78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "region_id":85688629,
+            "venue_id":823841925
+        }
+    ],
     "wof:id":823841925,
-    "wof:lastmodified":1472613838,
+    "wof:lastmodified":1492026980,
     "wof:name":"Ajs Power Washing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

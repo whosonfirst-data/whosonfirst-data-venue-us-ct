@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.501155,41.428154,-73.501155,41.428154",
     "geom:latitude":41.428154,
     "geom:longitude":-73.501155,
@@ -32,7 +33,14 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HOzKlfMZqXQdZDRSy9qC0_41.428154_-73.501155@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463445735,
     "wof:geomhash":"0f8c7dc6d26c12fef41af5aaab1f5ac6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823765837
+        }
+    ],
     "wof:id":823765837,
-    "wof:lastmodified":1472613832,
+    "wof:lastmodified":1492057975,
     "wof:name":"Domination Domino Applications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

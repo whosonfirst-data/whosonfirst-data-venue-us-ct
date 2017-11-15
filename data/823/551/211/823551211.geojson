@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.206603,41.535204,-73.206603,41.535204",
     "geom:latitude":41.535204,
     "geom:longitude":-73.206603,
@@ -29,8 +30,9 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
         85633793,
+        420555547,
+        85688629,
         85842595,
         102085375
     ],
@@ -44,6 +46,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823551211
+        },
+        {
+            "country_id":85633793,
             "county_id":102085375,
             "neighbourhood_id":85842595,
             "region_id":85688629,
@@ -51,9 +58,9 @@
         }
     ],
     "wof:id":823551211,
-    "wof:lastmodified":1472613334,
+    "wof:lastmodified":1492061632,
     "wof:name":"Nancy Huebners Antq Interiors",
-    "wof:parent_id":85842595,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

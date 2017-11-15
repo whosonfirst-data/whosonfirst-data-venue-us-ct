@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.52128,41.466559,-73.52128,41.466559",
     "geom:latitude":41.466559,
     "geom:longitude":-73.52128,
@@ -31,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ilHokgD76GscqWpOteegp_41.466559_-73.521280@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463450929,
     "wof:geomhash":"7b957ca1ad8586d17e1b683be50d7f13",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823956919
+        }
+    ],
     "wof:id":823956919,
-    "wof:lastmodified":1472613960,
+    "wof:lastmodified":1492055115,
     "wof:name":"A K Mitchell Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

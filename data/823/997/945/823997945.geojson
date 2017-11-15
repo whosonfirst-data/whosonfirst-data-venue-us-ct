@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.274509,41.659051,-73.274509,41.659051",
     "geom:latitude":41.659051,
     "geom:longitude":-73.274509,
@@ -28,7 +29,13 @@
     "sg:postcode":"06793",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85859063,
+        102085375,
+        420555583
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NCDXefFObwY6iEH4wLFU3_41.659051_-73.274509@1294084077"
@@ -36,11 +43,24 @@
     "wof:country":"US",
     "wof:created":1463451940,
     "wof:geomhash":"e3831c9f14b10975a34cf8be9f110efb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85859063,
+            "region_id":85688629,
+            "venue_id":823997945
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555583,
+            "venue_id":823997945
+        }
+    ],
     "wof:id":823997945,
-    "wof:lastmodified":1472613974,
+    "wof:lastmodified":1492054967,
     "wof:name":"John Potter",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

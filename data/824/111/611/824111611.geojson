@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.500084,41.572235,-73.500084,41.572235",
     "geom:latitude":41.572235,
     "geom:longitude":-73.500084,
@@ -42,7 +43,13 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yt13jqgxmmn7HA5J288nL_41.572235_-73.500084@1303262246"
@@ -50,9 +57,18 @@
     "wof:country":"US",
     "wof:created":1463454582,
     "wof:geomhash":"83452fc4403d04cde9402f096dc8be54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":824111611
+        }
+    ],
     "wof:id":824111611,
-    "wof:lastmodified":1472613305,
+    "wof:lastmodified":1492068635,
     "wof:name":"American Pie Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

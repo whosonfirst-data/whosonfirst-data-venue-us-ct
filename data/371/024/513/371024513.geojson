@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.659471,41.016608,-73.659471,41.016608",
     "geom:latitude":41.016608,
     "geom:longitude":-73.659471,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85885307,
+        102191575,
+        404495949,
         85633793,
         85930941,
         102084283,
-        85885307
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,9 +50,10 @@
     "wof:geomhash":"fe2ead995027380e6687e3202d870c2b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930941,
             "neighbourhood_id":85885307,
             "region_id":85688629,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":371024513,
-    "wof:lastmodified":1472606328,
+    "wof:lastmodified":1492062327,
     "wof:name":"James E Kelley & Co",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",

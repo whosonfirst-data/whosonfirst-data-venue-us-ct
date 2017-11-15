@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.562983,41.040393,-73.562983,41.040393",
     "geom:latitude":41.040393,
     "geom:longitude":-73.562983,
@@ -33,13 +34,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85881173,
+        85881175,
         102191575,
-        404495949,
+        404495855,
         85633793,
-        85930945,
+        85930787,
         102084283,
-        85688629
+        85688629,
+        85881173,
+        404495949,
+        85930945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +57,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":85881175,
+            "region_id":85688629,
+            "venue_id":823821029
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
             "localadmin_id":404495949,
             "locality_id":85930945,
             "neighbourhood_id":85881173,
@@ -61,9 +75,9 @@
         }
     ],
     "wof:id":823821029,
-    "wof:lastmodified":1472613747,
+    "wof:lastmodified":1492067219,
     "wof:name":"Westchester Squash",
-    "wof:parent_id":85881173,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

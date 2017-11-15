@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114818,41.199937,-73.114818,41.199937",
     "geom:latitude":41.199937,
     "geom:longitude":-73.114818,
@@ -28,7 +29,14 @@
     "sg:postcode":"06614",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S917rQcaMWr0X6hxNjfMs_41.199937_-73.114818@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463446797,
     "wof:geomhash":"87bc3d50ea52e09c26dcd72ed425ebc2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823803343
+        }
+    ],
     "wof:id":823803343,
-    "wof:lastmodified":1472613795,
+    "wof:lastmodified":1492068786,
     "wof:name":"Harborside Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

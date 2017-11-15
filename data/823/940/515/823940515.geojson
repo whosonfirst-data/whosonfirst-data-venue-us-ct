@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.132988,41.524383,-73.132988,41.524383",
     "geom:latitude":41.524383,
     "geom:longitude":-73.132988,
@@ -32,7 +33,10 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Z5MpU8c7TplN2mej7VO2i_41.524383_-73.132988@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463450536,
     "wof:geomhash":"a84c00edbcf10d9ea7f43c5b90344847",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823940515
+        }
+    ],
     "wof:id":823940515,
-    "wof:lastmodified":1472613926,
+    "wof:lastmodified":1492055121,
     "wof:name":"Alliance Medical Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

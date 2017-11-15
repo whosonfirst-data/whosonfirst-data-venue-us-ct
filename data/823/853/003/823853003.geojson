@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4386,41.083096,-73.4386,41.083096",
     "geom:latitude":41.083096,
     "geom:longitude":-73.4386,
@@ -32,7 +33,15 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85879309,
+        102191575,
+        404495943,
+        85633793,
+        85930989,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bZsi78Uls7CnZErOrtfFA_41.083096_-73.438600@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463448302,
     "wof:geomhash":"bd7f7ae8495769b72db0fcf4a8ce42ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495943,
+            "locality_id":85930989,
+            "neighbourhood_id":85879309,
+            "region_id":85688629,
+            "venue_id":823853003
+        }
+    ],
     "wof:id":823853003,
-    "wof:lastmodified":1472613754,
+    "wof:lastmodified":1491897176,
     "wof:name":"Dimensions In Marketing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85879309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

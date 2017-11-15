@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.262069,41.396355,-73.262069,41.396355",
     "geom:latitude":41.396355,
     "geom:longitude":-73.262069,
@@ -31,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O4i0Sa26uVKPM0WI5a95a_41.396355_-73.262069@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463439933,
     "wof:geomhash":"2fdaa65b66c3530e8db8137433347de9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823516365
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823516365,
-    "wof:lastmodified":1472613241,
+    "wof:lastmodified":1492046430,
     "wof:name":"Critical Review Business Ofc",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

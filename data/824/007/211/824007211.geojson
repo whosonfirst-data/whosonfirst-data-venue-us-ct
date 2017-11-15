@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.555085,41.070844,-73.555085,41.070844",
     "geom:latitude":41.070844,
     "geom:longitude":-73.555085,
@@ -31,7 +32,15 @@
         "limousine"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lw7IWlBWXipiE2OrM8G2u_41.070844_-73.555085@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463452143,
     "wof:geomhash":"4af9eead3f99535049fd9cf0dba335ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":824007211
+        }
+    ],
     "wof:id":824007211,
-    "wof:lastmodified":1472607721,
+    "wof:lastmodified":1492055104,
     "wof:name":"Broadway Limousine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

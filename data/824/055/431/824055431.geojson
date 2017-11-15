@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.248943,41.429432,-73.248943,41.429432",
     "geom:latitude":41.429432,
     "geom:longitude":-73.248943,
@@ -28,7 +29,13 @@
     "sg:postcode":"06482",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2udTzwAUseiU4AedRG8mQL_41.429432_-73.248943@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463453296,
     "wof:geomhash":"735ff3adfc5e13ec774b80df320a3c45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":824055431
+        }
+    ],
     "wof:id":824055431,
-    "wof:lastmodified":1472612518,
+    "wof:lastmodified":1492068802,
     "wof:name":"Jay & Di Realty LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

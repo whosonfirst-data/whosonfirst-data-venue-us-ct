@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.508607,41.639611,-73.508607,41.639611",
     "geom:latitude":41.639611,
     "geom:longitude":-73.508607,
@@ -32,12 +33,7 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85833885,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kofnMKRziHYpCcfunb39K_41.639611_-73.508607@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463443301,
     "wof:geomhash":"0668391878158f365286cc9716ed1ddd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85833885,
-            "region_id":85688629,
-            "venue_id":823659005
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823659005,
-    "wof:lastmodified":1472613369,
+    "wof:lastmodified":1492055013,
     "wof:name":"Purdy & Sons LLC",
     "wof:parent_id":85833885,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.382287,41.389276,-73.382287,41.389276",
     "geom:latitude":41.389276,
     "geom:longitude":-73.382287,
@@ -36,12 +37,7 @@
         "plumbing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JOY3hRzTndTi4TDYk0Bv1_41.389276_-73.382287@1294084077"
@@ -49,17 +45,9 @@
     "wof:country":"US",
     "wof:created":1463444701,
     "wof:geomhash":"827ec1a001d4cf243e0e6e0c711ed110",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823722181
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823722181,
-    "wof:lastmodified":1472613710,
+    "wof:lastmodified":1492057975,
     "wof:name":"Panatech Engineering Company",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

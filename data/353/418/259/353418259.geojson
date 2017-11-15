@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.526157,41.13774,-73.526157,41.13774",
     "geom:latitude":41.13774,
     "geom:longitude":-73.526157,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85842701
+        85842701,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"e62a94808522b95760160570e98a3f6d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85842701,
             "region_id":85688629,
             "venue_id":353418259
         }
     ],
     "wof:id":353418259,
-    "wof:lastmodified":1472606248,
+    "wof:lastmodified":1492055031,
     "wof:name":"Marea Dumbauld",
     "wof:parent_id":85842701,
     "wof:placetype":"venue",

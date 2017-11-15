@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.086497,41.546501,-73.086497,41.546501",
     "geom:latitude":41.546501,
     "geom:longitude":-73.086497,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.madmarc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495803,
+        85633793,
+        85930889,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RaNxeW0c1MKmLDYHhaWUN_41.546501_-73.086497@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463441234,
     "wof:geomhash":"74f6b6c4916e9b0384aba65234895965",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "region_id":85688629,
+            "venue_id":823572121
+        }
+    ],
     "wof:id":823572121,
-    "wof:lastmodified":1472613316,
+    "wof:lastmodified":1492027022,
     "wof:name":"Madmarc Designs Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.241934,41.605025,-73.241934,41.605025",
     "geom:latitude":41.605025,
     "geom:longitude":-73.241934,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_433kU5GbHaZg1Tllrs9B4o_41.605025_-73.241934@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463441981,
     "wof:geomhash":"6d4bc5737c773859fb293ca6fd143d12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823603111
+        }
+    ],
     "wof:id":823603111,
-    "wof:lastmodified":1472613375,
+    "wof:lastmodified":1492068877,
     "wof:name":"George E Medillo",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

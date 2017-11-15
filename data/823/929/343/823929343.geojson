@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.219622,41.229464,-73.219622,41.229464",
     "geom:latitude":41.229464,
     "geom:longitude":-73.219622,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qiejKYIt1VoFmPh8adXBI_41.229464_-73.219622@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463450229,
     "wof:geomhash":"83b1b02e67cbc65247c1acd56ffb1326",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555499,
+            "region_id":85688629,
+            "venue_id":823929343
+        }
+    ],
     "wof:id":823929343,
-    "wof:lastmodified":1472613904,
+    "wof:lastmodified":1492057971,
     "wof:name":"Auntie Annes",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

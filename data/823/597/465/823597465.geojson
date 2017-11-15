@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.423414,41.530969,-73.423414,41.530969",
     "geom:latitude":41.530969,
     "geom:longitude":-73.423414,
@@ -31,12 +32,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85809223,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KKV7M6ffkRO871QYk5UgW_41.530969_-73.423414@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463441824,
     "wof:geomhash":"b996172147fc01f75ef784edd98b9c22",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85809223,
-            "region_id":85688629,
-            "venue_id":823597465
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823597465,
-    "wof:lastmodified":1472613383,
+    "wof:lastmodified":1492055080,
     "wof:name":"Carlos Auto Service Inc",
     "wof:parent_id":85809223,
     "wof:placetype":"venue",

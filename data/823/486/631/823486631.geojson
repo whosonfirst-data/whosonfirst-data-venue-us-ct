@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197512,41.24564,-73.197512,41.24564",
     "geom:latitude":41.24564,
     "geom:longitude":-73.197512,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dVHqGyq0hbIwBxYtuEuNN_41.245640_-73.197512@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463439222,
     "wof:geomhash":"77507b72253cf555b7786da56f07ef87",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":823486631
+        }
+    ],
     "wof:id":823486631,
-    "wof:lastmodified":1472609900,
+    "wof:lastmodified":1492068781,
     "wof:name":"Porricelli Food Mart-Trumbull",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

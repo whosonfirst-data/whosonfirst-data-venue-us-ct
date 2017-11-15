@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.290798,41.391864,-73.290798,41.391864",
     "geom:latitude":41.391864,
     "geom:longitude":-73.290798,
@@ -32,12 +33,7 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05hIaNL3jyOoYW0oTmyOFq_41.391864_-73.290798@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463450621,
     "wof:geomhash":"3795687566652e6cca08cf2899a6b97c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823944239
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823944239,
-    "wof:lastmodified":1472613888,
+    "wof:lastmodified":1492062286,
     "wof:name":"Physical Therapy Svcs Newtown",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

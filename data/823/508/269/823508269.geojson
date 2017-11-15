@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.477206,41.262437,-73.477206,41.262437",
     "geom:latitude":41.262437,
     "geom:longitude":-73.477206,
@@ -32,13 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85852297,
+        85807091,
         102191575,
-        404495963,
+        404495863,
         85633793,
-        85930977,
+        85930985,
         102084283,
-        85688629
+        85688629,
+        85852297,
+        404495963,
+        85930977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,6 +56,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930985,
+            "neighbourhood_id":85807091,
+            "region_id":85688629,
+            "venue_id":823508269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
             "localadmin_id":404495963,
             "locality_id":85930977,
             "neighbourhood_id":85852297,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":823508269,
-    "wof:lastmodified":1472611042,
+    "wof:lastmodified":1492029111,
     "wof:name":"Brugnatelli & Partners Inc",
-    "wof:parent_id":85852297,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

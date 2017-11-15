@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.635144,41.090892,-73.635144,41.090892",
     "geom:latitude":41.090892,
     "geom:longitude":-73.635144,
@@ -33,7 +34,13 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oaD7oAoGRhWm0d8ZhzRe8_41.090892_-73.635144@1294084077"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1463443796,
     "wof:geomhash":"09600a6860ca96d18ff81afca7f228f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823680467
+        }
+    ],
     "wof:id":823680467,
-    "wof:lastmodified":1472613664,
+    "wof:lastmodified":1492055010,
     "wof:name":"Heron Family Foundation Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

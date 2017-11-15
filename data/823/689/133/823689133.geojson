@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.180317,41.194573,-73.180317,41.194573",
     "geom:latitude":41.194573,
     "geom:longitude":-73.180317,
@@ -28,7 +29,15 @@
     "sg:postcode":"06608",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555451,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iqLsLmUCLZvbPNyeMpWaL_41.194573_-73.180317@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463443994,
     "wof:geomhash":"e78a493d88efa97598f3e87c7ca34734",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555451,
+            "region_id":85688629,
+            "venue_id":823689133
+        }
+    ],
     "wof:id":823689133,
-    "wof:lastmodified":1472613667,
+    "wof:lastmodified":1492029222,
     "wof:name":"Vaz Laundromat",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

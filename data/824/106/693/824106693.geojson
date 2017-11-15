@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.144466,41.257877,-73.144466,41.257877",
     "geom:latitude":41.257877,
     "geom:longitude":-73.144466,
@@ -52,7 +53,15 @@
     ],
     "sg:website":"http://www.langankesflorist.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555503,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GlM3e0GtRHxp2OJmb00Kl_41.257877_-73.144466@1303262246"
@@ -60,11 +69,22 @@
     "wof:country":"US",
     "wof:created":1463454480,
     "wof:geomhash":"4599ba44bf9fe032c1933a114c5315e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":824106693
+        }
+    ],
     "wof:id":824106693,
-    "wof:lastmodified":1472613296,
+    "wof:lastmodified":1492027140,
     "wof:name":"Langanke's Florist Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.303548,41.41417,-73.303548,41.41417",
     "geom:latitude":41.41417,
     "geom:longitude":-73.303548,
@@ -32,12 +33,7 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iEsMpycXtC5jKFMkbdcU1_41.414170_-73.303548@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463439050,
     "wof:geomhash":"eedb9833e3a8b697a3c9c6f3ec54bda8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823478613
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823478613,
-    "wof:lastmodified":1472608338,
+    "wof:lastmodified":1492055037,
     "wof:name":"Newtown Monroe Pediatrics",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

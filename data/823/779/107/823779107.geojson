@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.591633,41.127807,-73.591633,41.127807",
     "geom:latitude":41.127807,
     "geom:longitude":-73.591633,
@@ -28,7 +29,14 @@
     "sg:postcode":"06903",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59hl9H4ntLP6MkNJk1cwvO_41.127807_-73.591633@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463446065,
     "wof:geomhash":"ad1a58e3ab50d56d269a542143ed4b50",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823779107
+        }
+    ],
     "wof:id":823779107,
-    "wof:lastmodified":1472613757,
+    "wof:lastmodified":1492029041,
     "wof:name":"Careerstop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

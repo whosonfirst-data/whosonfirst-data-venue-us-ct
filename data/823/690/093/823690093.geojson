@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.407343,41.493357,-73.407343,41.493357",
     "geom:latitude":41.493357,
     "geom:longitude":-73.407343,
@@ -31,7 +32,13 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nKUQyLnZAASPNKLwewYsu_41.493357_-73.407343@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444016,
     "wof:geomhash":"c99ca8465a4cea08d9f2adaf00b25d5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":823690093
+        }
+    ],
     "wof:id":823690093,
-    "wof:lastmodified":1472613666,
+    "wof:lastmodified":1492070034,
     "wof:name":"Interstate Battery System Wstn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.610548,41.065038,-73.610548,41.065038",
     "geom:latitude":41.065038,
     "geom:longitude":-73.610548,
@@ -31,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PCtEKZOmpVmJxMLXbarUb_41.065038_-73.610548@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463442356,
     "wof:geomhash":"6ad6c2b9044a68cd144dd214fbccdda0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823618605
+        }
+    ],
     "wof:id":823618605,
-    "wof:lastmodified":1472613399,
+    "wof:lastmodified":1492029038,
     "wof:name":"Third Waive Global",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.274168,41.555577,-73.274168,41.555577",
     "geom:latitude":41.555577,
     "geom:longitude":-73.274168,
@@ -28,7 +29,10 @@
     "sg:postcode":"06783",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52zN9g1mb11mVJQyJZslS8_41.555577_-73.274168@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463444405,
     "wof:geomhash":"5103df122858e45cc72e30c6c5f01c9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":823708065
+        }
+    ],
     "wof:id":823708065,
-    "wof:lastmodified":1472613680,
+    "wof:lastmodified":1492062395,
     "wof:name":"New England Miniature Hrse Soc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

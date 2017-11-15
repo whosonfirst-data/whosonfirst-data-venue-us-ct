@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.948397,41.277015,-72.948397,41.277015",
     "geom:latitude":41.277015,
     "geom:longitude":-72.948397,
@@ -29,13 +30,15 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868719,
+        85882017,
         102191575,
         404495805,
         85633793,
         85930885,
         102086923,
-        85688629
+        85688629,
+        85868719,
+        85811091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +54,32 @@
             "county_id":102086923,
             "localadmin_id":404495805,
             "locality_id":85930885,
+            "neighbourhood_id":85882017,
+            "region_id":85688629,
+            "venue_id":823740695
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
             "neighbourhood_id":85868719,
+            "region_id":85688629,
+            "venue_id":823740695
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85811091,
             "region_id":85688629,
             "venue_id":823740695
         }
     ],
     "wof:id":823740695,
-    "wof:lastmodified":1472613731,
+    "wof:lastmodified":1492063949,
     "wof:name":"Lucidbello's Restaurant",
-    "wof:parent_id":85868719,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

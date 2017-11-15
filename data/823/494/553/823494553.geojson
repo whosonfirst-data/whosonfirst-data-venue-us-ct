@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.101457,41.544144,-73.101457,41.544144",
     "geom:latitude":41.544144,
     "geom:longitude":-73.101457,
@@ -31,7 +32,10 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mR51ruIB5jrGsfbjFGrqZ_41.544144_-73.101457@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463439415,
     "wof:geomhash":"4636a2d6a4fc05efe2304c25fbc88197",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823494553
+        }
+    ],
     "wof:id":823494553,
-    "wof:lastmodified":1472610885,
+    "wof:lastmodified":1492040582,
     "wof:name":"Pool Engineers LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

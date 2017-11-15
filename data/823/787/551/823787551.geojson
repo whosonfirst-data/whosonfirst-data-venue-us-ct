@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.563864,41.172346,-73.563864,41.172346",
     "geom:latitude":41.172346,
     "geom:longitude":-73.563864,
@@ -32,7 +33,14 @@
         "music"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mBHvB9fUfETO5IQzG2tl7_41.172346_-73.563864@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463446336,
     "wof:geomhash":"6a5be37c121a13d0a3dfd35d1fce3571",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823787551
+        }
+    ],
     "wof:id":823787551,
-    "wof:lastmodified":1472613789,
+    "wof:lastmodified":1492029233,
     "wof:name":"Guitar Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

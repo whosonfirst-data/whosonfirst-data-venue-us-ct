@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.21433,41.362514,-73.21433,41.362514",
     "geom:latitude":41.362514,
     "geom:longitude":-73.21433,
@@ -34,7 +35,13 @@
         "car"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JsGZby1b6Mhrwt5fMfjX1_41.362514_-73.214330@1294084077"
@@ -42,9 +49,18 @@
     "wof:country":"US",
     "wof:created":1463449726,
     "wof:geomhash":"251f8ecb73d01c61289bd1e5a5c1bf6e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":823909321
+        }
+    ],
     "wof:id":823909321,
-    "wof:lastmodified":1472613906,
+    "wof:lastmodified":1492027004,
     "wof:name":"Five Star Motors Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

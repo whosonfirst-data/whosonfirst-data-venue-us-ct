@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.47551,41.45348,-73.47551,41.45348",
     "geom:latitude":41.45348,
     "geom:longitude":-73.47551,
@@ -38,7 +39,15 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555479,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LzcS4JC6fXORSBAX4CwKp_41.453480_-73.475510@1303262247"
@@ -46,11 +55,22 @@
     "wof:country":"US",
     "wof:created":1463454648,
     "wof:geomhash":"dc08eb81559880f7ab920fc34599d083",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555479,
+            "region_id":85688629,
+            "venue_id":824114525
+        }
+    ],
     "wof:id":824114525,
-    "wof:lastmodified":1472613312,
+    "wof:lastmodified":1492054359,
     "wof:name":"Frank J. Reilly Trucking",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

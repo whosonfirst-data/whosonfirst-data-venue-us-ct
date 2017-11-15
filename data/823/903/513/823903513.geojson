@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.410024,41.465922,-73.410024,41.465922",
     "geom:latitude":41.465922,
     "geom:longitude":-73.410024,
@@ -32,7 +33,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wmYtg7m0YeZdADMfMm7pH_41.465922_-73.410024@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463449559,
     "wof:geomhash":"a6573c59a85990a6f67722288903c487",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823903513
+        }
+    ],
     "wof:id":823903513,
-    "wof:lastmodified":1472613913,
+    "wof:lastmodified":1492044241,
     "wof:name":"SEBCO",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

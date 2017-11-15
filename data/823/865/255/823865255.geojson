@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.3036,41.414157,-73.3036,41.414157",
     "geom:latitude":41.414157,
     "geom:longitude":-73.3036,
@@ -31,12 +32,7 @@
         "executive"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WqSGvlN74Qvl0r4z1xCci_41.414157_-73.303600@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463448629,
     "wof:geomhash":"eae01907073bddba44c92fdec00824e7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823865255
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823865255,
-    "wof:lastmodified":1472613793,
+    "wof:lastmodified":1492039576,
     "wof:name":"Hawley Elementary School",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

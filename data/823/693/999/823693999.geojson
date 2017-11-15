@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.184895,41.262435,-73.184895,41.262435",
     "geom:latitude":41.262435,
     "geom:longitude":-73.184895,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555495,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B5ehCDwdBeYcnEhOulcbf_41.262435_-73.184895@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463444107,
     "wof:geomhash":"33350e7873ee3aac5604f2a979226866",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555495,
+            "region_id":85688629,
+            "venue_id":823693999
+        }
+    ],
     "wof:id":823693999,
-    "wof:lastmodified":1472613706,
+    "wof:lastmodified":1492029078,
     "wof:name":"Kres Electric LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

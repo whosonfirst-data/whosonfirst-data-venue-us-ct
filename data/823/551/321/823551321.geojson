@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.303247,41.413154,-73.303247,41.413154",
     "geom:latitude":41.413154,
     "geom:longitude":-73.303247,
@@ -31,12 +32,7 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N74FkU5yQMzSFJGUpGchX_41.413154_-73.303247@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463440730,
     "wof:geomhash":"f0236995b06a7443e86ebc90a1ffd2fb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823551321
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823551321,
-    "wof:lastmodified":1472613340,
+    "wof:lastmodified":1492055040,
     "wof:name":"Queen Street Cleaners",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

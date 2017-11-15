@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108891,41.519853,-73.108891,41.519853",
     "geom:latitude":41.519853,
     "geom:longitude":-73.108891,
@@ -28,7 +29,13 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CXvARaZ1Qu4e5W4zNQCL1_41.519853_-73.108891@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463441845,
     "wof:geomhash":"9f4387a57fd7cbbe1f521e948d209068",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823598273
+        }
+    ],
     "wof:id":823598273,
-    "wof:lastmodified":1472613363,
+    "wof:lastmodified":1492040583,
     "wof:name":"James Redway Furniture Makers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.180623,41.231408,-73.180623,41.231408",
     "geom:latitude":41.231408,
     "geom:longitude":-73.180623,
@@ -32,7 +33,15 @@
         "jockey"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555505,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Akg4UWoWUftEZ5JQRSGMK_41.231408_-73.180623@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463448150,
     "wof:geomhash":"98be2e6c8f01b3d49c636b6588cec666",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555505,
+            "region_id":85688629,
+            "venue_id":823847433
+        }
+    ],
     "wof:id":823847433,
-    "wof:lastmodified":1472613797,
+    "wof:lastmodified":1492061803,
     "wof:name":"Mobile Music Machine",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

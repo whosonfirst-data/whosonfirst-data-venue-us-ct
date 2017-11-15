@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.334803,41.204291,-73.334803,41.204291",
     "geom:latitude":41.204291,
     "geom:longitude":-73.334803,
@@ -32,12 +33,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85803807,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78r5G88tT54WMmHiYopaUw_41.204291_-73.334803@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463450871,
     "wof:geomhash":"f419da17e441363791949ba7c1d3fc86",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85803807,
-            "region_id":85688629,
-            "venue_id":823954407
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823954407,
-    "wof:lastmodified":1472613918,
+    "wof:lastmodified":1492027076,
     "wof:name":"Gwartz Consulting",
     "wof:parent_id":85803807,
     "wof:placetype":"venue",

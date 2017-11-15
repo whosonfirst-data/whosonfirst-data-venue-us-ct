@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.10368,41.537707,-73.10368,41.537707",
     "geom:latitude":41.537707,
     "geom:longitude":-73.10368,
@@ -31,7 +32,10 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JqbY5sFAMxrtpRYJEQN2V_41.537707_-73.103680@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463450379,
     "wof:geomhash":"15c347fcd4c111620fbafb9ce0b67898",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823934685
+        }
+    ],
     "wof:id":823934685,
-    "wof:lastmodified":1472613954,
+    "wof:lastmodified":1492054687,
     "wof:name":"Kathleen Jewelers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

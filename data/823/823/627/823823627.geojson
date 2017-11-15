@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.233172,41.213917,-73.233172,41.213917",
     "geom:latitude":41.213917,
     "geom:longitude":-73.233172,
@@ -31,12 +32,7 @@
         "caterer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14LM4g65hgRjkwroQL2mYS_41.213917_-73.233172@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463447400,
     "wof:geomhash":"d10b67ec1b2e62f70dc876d029d55858",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823823627
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823823627,
-    "wof:lastmodified":1472613836,
+    "wof:lastmodified":1492029132,
     "wof:name":"Chai Caterers & Cafe",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

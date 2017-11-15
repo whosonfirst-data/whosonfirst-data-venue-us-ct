@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.110946,41.588069,-73.110946,41.588069",
     "geom:latitude":41.588069,
     "geom:longitude":-73.110946,
@@ -32,7 +33,15 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hdbp1rhs7Bh4cNqJViQja_41.588069_-73.110946@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463440392,
     "wof:geomhash":"5b62838be5f5215bbef4987895a62ced",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823536463
+        }
+    ],
     "wof:id":823536463,
-    "wof:lastmodified":1472613285,
+    "wof:lastmodified":1492054989,
     "wof:name":"Kayjul Worldwide Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.406532,41.495909,-73.406532,41.495909",
     "geom:latitude":41.495909,
     "geom:longitude":-73.406532,
@@ -28,7 +29,13 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495815,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6veHf7XnGl67z3WagPwjhb_41.495909_-73.406532@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463438919,
     "wof:geomhash":"1593c6f39a119a0c5993569c16ce4d40",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495815,
+            "region_id":85688629,
+            "venue_id":823473627
+        }
+    ],
     "wof:id":823473627,
-    "wof:lastmodified":1472608225,
+    "wof:lastmodified":1492055076,
     "wof:name":"Fox Run Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

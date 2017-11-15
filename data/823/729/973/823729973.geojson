@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.566876,41.039536,-73.566876,41.039536",
     "geom:latitude":41.039536,
     "geom:longitude":-73.566876,
@@ -39,7 +40,10 @@
         85633793,
         85930787,
         102084283,
-        85688629
+        85688629,
+        85881173,
+        404495949,
+        85930945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +62,22 @@
             "neighbourhood_id":85881175,
             "region_id":85688629,
             "venue_id":823729973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930945,
+            "neighbourhood_id":85881173,
+            "region_id":85688629,
+            "venue_id":823729973
         }
     ],
     "wof:id":823729973,
-    "wof:lastmodified":1472613738,
+    "wof:lastmodified":1492072629,
     "wof:name":"David Eichinger",
-    "wof:parent_id":85881175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

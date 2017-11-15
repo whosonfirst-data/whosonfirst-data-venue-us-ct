@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.091837,41.315802,-73.091837,41.315802",
     "geom:latitude":41.315802,
     "geom:longitude":-73.091837,
@@ -31,7 +32,14 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wKLARUtfWrYkAV3sRtdV2_41.315802_-73.091837@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463441464,
     "wof:geomhash":"91c23545161976c7e25c899981435f63",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823581861
+        }
+    ],
     "wof:id":823581861,
-    "wof:lastmodified":1472613351,
+    "wof:lastmodified":1492040684,
     "wof:name":"Tee Jay Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

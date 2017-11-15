@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.222673,41.267132,-73.222673,41.267132",
     "geom:latitude":41.267132,
     "geom:longitude":-73.222673,
@@ -32,7 +33,15 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555511,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4V9b5lqeV2x6GjAAcUJvNq_41.267132_-73.222673@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463439863,
     "wof:geomhash":"bd4f56c9f13603eae64d18472029e72c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555511,
+            "region_id":85688629,
+            "venue_id":823512983
+        }
+    ],
     "wof:id":823512983,
-    "wof:lastmodified":1472613273,
+    "wof:lastmodified":1492061703,
     "wof:name":"Sum Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

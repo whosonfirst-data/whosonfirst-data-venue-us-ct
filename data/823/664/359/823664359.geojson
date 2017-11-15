@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.409921,41.468995,-73.409921,41.468995",
     "geom:latitude":41.468995,
     "geom:longitude":-73.409921,
@@ -28,7 +29,10 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HhOo3Rnyyk6jVrmkcGdIM_41.468995_-73.409921@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463443443,
     "wof:geomhash":"61f3db9060f04cffb779af3fb0c9a12e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823664359
+        }
+    ],
     "wof:id":823664359,
-    "wof:lastmodified":1472613584,
+    "wof:lastmodified":1492061791,
     "wof:name":"Wild Iris Hair Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

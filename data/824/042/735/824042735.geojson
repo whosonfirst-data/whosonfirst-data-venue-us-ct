@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.185259,41.346494,-73.185259,41.346494",
     "geom:latitude":41.346494,
     "geom:longitude":-73.185259,
@@ -31,7 +32,13 @@
         "alcoholic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hunsdCCsPuSkcELYkHfIP_41.346494_-73.185259@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463452995,
     "wof:geomhash":"dc1d25b542ed3647e6d416e610299a29",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":824042735
+        }
+    ],
     "wof:id":824042735,
-    "wof:lastmodified":1472610111,
+    "wof:lastmodified":1492027133,
     "wof:name":"Biffs Package Store LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

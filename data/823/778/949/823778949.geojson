@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.447684,41.109273,-73.447684,41.109273",
     "geom:latitude":41.109273,
     "geom:longitude":-73.447684,
@@ -32,7 +33,15 @@
         "studio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555515,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bynfs70J8yN5t6iNQWA9f_41.109273_-73.447684@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463446062,
     "wof:geomhash":"95c10d7c05ab94cddf24ab3da0b9c5af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420555515,
+            "region_id":85688629,
+            "venue_id":823778949
+        }
+    ],
     "wof:id":823778949,
-    "wof:lastmodified":1472613843,
+    "wof:lastmodified":1492029283,
     "wof:name":"Walt Graham Productions Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

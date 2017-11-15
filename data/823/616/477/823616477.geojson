@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.192245,41.373662,-73.192245,41.373662",
     "geom:latitude":41.373662,
     "geom:longitude":-73.192245,
@@ -32,7 +33,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2i2ISrlxMKM3QCXerZoeGx_41.373662_-73.192245@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463442308,
     "wof:geomhash":"6811f183525edfcb389c80cdfe11e219",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":823616477
+        }
+    ],
     "wof:id":823616477,
-    "wof:lastmodified":1472613370,
+    "wof:lastmodified":1492055088,
     "wof:name":"Jz Toll & Mfg Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

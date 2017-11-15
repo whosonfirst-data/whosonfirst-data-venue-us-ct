@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.207441,41.547358,-73.207441,41.547358",
     "geom:latitude":41.547358,
     "geom:longitude":-73.207441,
@@ -31,7 +32,10 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ct5DyLLMEfqJyvgUO7poo_41.547358_-73.207441@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463452375,
     "wof:geomhash":"eb944e1944a281429e9cc71c9c468258",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":824017807
+        }
+    ],
     "wof:id":824017807,
-    "wof:lastmodified":1472608423,
+    "wof:lastmodified":1492039577,
     "wof:name":"Rosenhein Brian Do",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

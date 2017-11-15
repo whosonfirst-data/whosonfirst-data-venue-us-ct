@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.137744,41.599139,-73.137744,41.599139",
     "geom:latitude":41.599139,
     "geom:longitude":-73.137744,
@@ -31,7 +32,10 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HFtUyiRLRCIC8XGlSC1pR_41.599139_-73.137744@1303262246"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463454597,
     "wof:geomhash":"836871be3925eec5ae46540356599ea1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555553,
+            "venue_id":824112121
+        }
+    ],
     "wof:id":824112121,
-    "wof:lastmodified":1472613316,
+    "wof:lastmodified":1492027000,
     "wof:name":"Missionary Society of Connecticut",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

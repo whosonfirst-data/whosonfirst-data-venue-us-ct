@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.143759,41.427955,-73.143759,41.427955",
     "geom:latitude":41.427955,
     "geom:longitude":-73.143759,
@@ -32,7 +33,10 @@
     ],
     "sg:website":"www.oxfordpublicschools.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555611
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bHfu3uRbkNLGdstOA8Lws_41.427955_-73.143759@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463444805,
     "wof:geomhash":"7fc6be57c3bad3a422c09d712c62f597",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555611,
+            "venue_id":823726043
+        }
+    ],
     "wof:id":823726043,
-    "wof:lastmodified":1472613713,
+    "wof:lastmodified":1492027024,
     "wof:name":"Great Oak Middle School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

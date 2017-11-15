@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.200668,41.380486,-73.200668,41.380486",
     "geom:latitude":41.380486,
     "geom:longitude":-73.200668,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MEb54yLK7fafDr30BIloK_41.380486_-73.200668@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463445333,
     "wof:geomhash":"b037057230633300df5f2e9699161313",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":823748253
+        }
+    ],
     "wof:id":823748253,
-    "wof:lastmodified":1472613725,
+    "wof:lastmodified":1492027002,
     "wof:name":"Zenko Building Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

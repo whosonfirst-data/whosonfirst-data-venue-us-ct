@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.571946,41.138433,-73.571946,41.138433",
     "geom:latitude":41.138433,
     "geom:longitude":-73.571946,
@@ -31,7 +32,14 @@
         "inventor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kRZe3DHursAvcmBvHK4ra_41.138433_-73.571946@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463446412,
     "wof:geomhash":"a38f35f11fd2d1a3f91cafe7ddcd2b3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823789495
+        }
+    ],
     "wof:id":823789495,
-    "wof:lastmodified":1472613818,
+    "wof:lastmodified":1492029233,
     "wof:name":"Kid Genius Design LTD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

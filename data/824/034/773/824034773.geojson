@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108652,41.536978,-73.108652,41.536978",
     "geom:latitude":41.536978,
     "geom:longitude":-73.108652,
@@ -32,7 +33,10 @@
         "volunteer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4p6bjhxUKTvQVESHrAXwAU_41.536978_-73.108652@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463452779,
     "wof:geomhash":"b8fd1bed4796cf6892e740bcd9dfcdcd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824034773
+        }
+    ],
     "wof:id":824034773,
-    "wof:lastmodified":1472609115,
+    "wof:lastmodified":1492055122,
     "wof:name":"Middlebury Volunteer Fire Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.21798,41.236526,-73.21798,41.236526",
     "geom:latitude":41.236526,
     "geom:longitude":-73.21798,
@@ -32,7 +33,15 @@
         "telephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555499,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D4OqfqSk1Ds6iS97ZaWIY_41.236526_-73.217980@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463443586,
     "wof:geomhash":"23d56073be11c354a4e610ecd432fa6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555499,
+            "region_id":85688629,
+            "venue_id":823670727
+        }
+    ],
     "wof:id":823670727,
-    "wof:lastmodified":1472613686,
+    "wof:lastmodified":1492029077,
     "wof:name":"La Guia",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

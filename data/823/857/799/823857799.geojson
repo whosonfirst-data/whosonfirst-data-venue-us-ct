@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.329893,41.366499,-73.329893,41.366499",
     "geom:latitude":41.366499,
     "geom:longitude":-73.329893,
@@ -33,7 +34,10 @@
         "tract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Eqpsxt9wZsOoXTi5D3DlW_41.366499_-73.329893@1294084077"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1463448441,
     "wof:geomhash":"01c79ec79875aa60e3d8f0dc8979b55b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":823857799
+        }
+    ],
     "wof:id":823857799,
-    "wof:lastmodified":1472613846,
+    "wof:lastmodified":1492057976,
     "wof:name":"Four Corners Farm",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

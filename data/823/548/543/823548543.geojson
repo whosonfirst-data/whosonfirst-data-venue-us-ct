@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.421443,41.15767,-73.421443,41.15767",
     "geom:latitude":41.15767,
     "geom:longitude":-73.421443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"607 Main Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -32,29 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85850221,
-        102084283
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
     ],
+    "wof:brand_id":1125156867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e50COq5epj2Ztu1lBiGXt_41.157670_-73.421443@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463440664,
-    "wof:geomhash":"c6574c7bc74e72bd5a36fde28956c5ad",
+    "wof:geomhash":"55aba9d56c41fc723e3b0195688b2161",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85850221,
             "region_id":85688629,
             "venue_id":823548543
         }
     ],
     "wof:id":823548543,
-    "wof:lastmodified":1472613309,
+    "wof:lastmodified":1510613351,
     "wof:name":"Tutoring Club",
     "wof:parent_id":85850221,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.251579,41.305223,-73.251579,41.305223",
     "geom:latitude":41.305223,
     "geom:longitude":-73.251579,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"bdef84315a72cb7aa1afa42eff501a98",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823490599
         }
     ],
     "wof:id":823490599,
-    "wof:lastmodified":1472609479,
+    "wof:lastmodified":1492068635,
     "wof:name":"Connecticopy",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

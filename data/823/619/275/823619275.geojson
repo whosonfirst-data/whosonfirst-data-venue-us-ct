@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.207534,41.267163,-73.207534,41.267163",
     "geom:latitude":41.267163,
     "geom:longitude":-73.207534,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555511,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dzQo7Xfmbhnl7ChHwCb6y_41.267163_-73.207534@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463442376,
     "wof:geomhash":"e94895ea5d509c59316d547e36acac84",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555511,
+            "region_id":85688629,
+            "venue_id":823619275
+        }
+    ],
     "wof:id":823619275,
-    "wof:lastmodified":1472613376,
+    "wof:lastmodified":1492028973,
     "wof:name":"TRP Interior Painting Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.234464,41.390646,-73.234464,41.390646",
     "geom:latitude":41.390646,
     "geom:longitude":-73.234464,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,18 @@
     "wof:geomhash":"5bab370bb39c1a40ce62a3e54d5702b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823583941
         }
     ],
     "wof:id":823583941,
-    "wof:lastmodified":1472613347,
+    "wof:lastmodified":1492029164,
     "wof:name":"Ne Technical Svc",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

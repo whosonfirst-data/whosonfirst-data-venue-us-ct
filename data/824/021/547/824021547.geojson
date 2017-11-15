@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.202675,41.28807,-73.202675,41.28807",
     "geom:latitude":41.28807,
     "geom:longitude":-73.202675,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32TF9JFr0geXrLcbpHuS7i_41.288070_-73.202675@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463452456,
     "wof:geomhash":"3f353301114adf4a74762f60d43a9420",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":824021547
+        }
+    ],
     "wof:id":824021547,
-    "wof:lastmodified":1472609158,
+    "wof:lastmodified":1492051721,
     "wof:name":"J Mat Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

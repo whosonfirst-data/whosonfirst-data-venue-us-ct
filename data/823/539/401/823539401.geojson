@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.362219,41.223697,-73.362219,41.223697",
     "geom:latitude":41.223697,
     "geom:longitude":-73.362219,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"c4a150a03f63e987da8688ef478c76bf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":823539401
         }
     ],
     "wof:id":823539401,
-    "wof:lastmodified":1472613290,
+    "wof:lastmodified":1492055016,
     "wof:name":"Richard P Manero",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.524963,41.435276,-73.524963,41.435276",
     "geom:latitude":41.435276,
     "geom:longitude":-73.524963,
@@ -28,7 +29,14 @@
     "sg:postcode":"06811",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q5KESe2OO0klTBXnw4rxz_41.435276_-73.524963@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463450610,
     "wof:geomhash":"3f65cf9679052034c5e73d0883d82af9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823943737
+        }
+    ],
     "wof:id":823943737,
-    "wof:lastmodified":1472613955,
+    "wof:lastmodified":1492055145,
     "wof:name":"Paul A Long Co Ind",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

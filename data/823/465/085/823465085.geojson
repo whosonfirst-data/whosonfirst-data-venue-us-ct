@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.375611,41.383273,-73.375611,41.383273",
     "geom:latitude":41.383273,
     "geom:longitude":-73.375611,
@@ -31,12 +32,7 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kgEDlDjm2sFX4VGkZ89Aq_41.383273_-73.375611@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463438718,
     "wof:geomhash":"dd78b267b7e78dcd2ce466d321420bf9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823465085
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823465085,
-    "wof:lastmodified":1472607332,
+    "wof:lastmodified":1492027103,
     "wof:name":"Just Like Home",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.514055,41.103912,-73.514055,41.103912",
     "geom:latitude":41.103912,
     "geom:longitude":-73.514055,
@@ -29,13 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        85633793,
+        85851779,
+        102084283,
         85850675,
         102191575,
         404495943,
-        85633793,
-        85930989,
-        102084283,
-        85688629
+        85930989
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +47,13 @@
     "wof:created":1463446781,
     "wof:geomhash":"b94d8e3ffb1de0abc69c2c245662e50b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85851779,
+            "region_id":85688629,
+            "venue_id":823802891
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":823802891,
-    "wof:lastmodified":1472613847,
+    "wof:lastmodified":1492029105,
     "wof:name":"Slfed",
-    "wof:parent_id":85850675,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

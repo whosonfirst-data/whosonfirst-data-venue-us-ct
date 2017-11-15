@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.302055,41.414438,-73.302055,41.414438",
     "geom:latitude":41.414438,
     "geom:longitude":-73.302055,
@@ -31,12 +32,7 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xV6uxY3wqnYiol85gCDaS_41.414438_-73.302055@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463442623,
     "wof:geomhash":"bd313cf34439ded1da3b8c99611a4c5a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823629623
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823629623,
-    "wof:lastmodified":1472613422,
+    "wof:lastmodified":1492054594,
     "wof:name":"Edward J Kelleher Law Office",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

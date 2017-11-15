@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.479845,41.802715,-73.479845,41.802715",
     "geom:latitude":41.802715,
     "geom:longitude":-73.479845,
@@ -28,7 +29,13 @@
     "sg:postcode":"06069",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496041,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JEdob8G9H1kikm1APwuS6_41.802715_-73.479845@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463442170,
     "wof:geomhash":"284225b55bbe828fec786a50ef2fd282",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496041,
+            "region_id":85688629,
+            "venue_id":823611129
+        }
+    ],
     "wof:id":823611129,
-    "wof:lastmodified":1472613375,
+    "wof:lastmodified":1492051703,
     "wof:name":"Mv Ranch Jeannine T Vila",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

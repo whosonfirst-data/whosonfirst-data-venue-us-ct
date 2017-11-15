@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.169812,41.428894,-73.169812,41.428894",
     "geom:latitude":41.428894,
     "geom:longitude":-73.169812,
@@ -34,7 +35,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555611
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35PsxHKSfHRxX5qAMqsZc2_41.428894_-73.169812@1294084077"
@@ -42,11 +46,17 @@
     "wof:country":"US",
     "wof:created":1463441928,
     "wof:geomhash":"035cfae2e5d4c55d7a18aff13c6f1bb3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555611,
+            "venue_id":823601137
+        }
+    ],
     "wof:id":823601137,
-    "wof:lastmodified":1472613366,
+    "wof:lastmodified":1492058000,
     "wof:name":"Aqua Plumbing LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555611,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

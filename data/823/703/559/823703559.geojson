@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.098731,41.308776,-73.098731,41.308776",
     "geom:latitude":41.308776,
     "geom:longitude":-73.098731,
@@ -32,7 +33,14 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1IYh7T2NTWrbD0I36sf9X3_41.308776_-73.098731@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463444312,
     "wof:geomhash":"5412f9b1349c2646c3fbdd76e8b52844",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823703559
+        }
+    ],
     "wof:id":823703559,
-    "wof:lastmodified":1472613699,
+    "wof:lastmodified":1492053307,
     "wof:name":"Kidstop Developmntl Chld Cr CT",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.329646,41.173052,-73.329646,41.173052",
     "geom:latitude":41.173052,
     "geom:longitude":-73.329646,
@@ -28,7 +29,15 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CL40yCKLaA2vZBXJvg2xv_41.173052_-73.329646@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463438955,
     "wof:geomhash":"1307e4e05083df537e12d1a84463b54a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823475139
+        }
+    ],
     "wof:id":823475139,
-    "wof:lastmodified":1472607547,
+    "wof:lastmodified":1492029256,
     "wof:name":"Genesis Global Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

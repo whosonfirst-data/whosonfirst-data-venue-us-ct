@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.306416,41.620338,-73.306416,41.620338",
     "geom:latitude":41.620338,
     "geom:longitude":-73.306416,
@@ -28,7 +29,10 @@
     "sg:postcode":"06793",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6v7V4ZHbgH7Dr22V56FhVJ_41.620338_-73.306416@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463452729,
     "wof:geomhash":"d6a31a461030ec17873f6fd0c7aee229",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":824032561
+        }
+    ],
     "wof:id":824032561,
-    "wof:lastmodified":1472609170,
+    "wof:lastmodified":1492027102,
     "wof:name":"Connecticut Business Sales LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

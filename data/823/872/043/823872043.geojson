@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.352182,41.198622,-73.352182,41.198622",
     "geom:latitude":41.198622,
     "geom:longitude":-73.352182,
@@ -32,7 +33,15 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40QIDTs5y1sZPY6qEHKtbK_41.198622_-73.352182@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463448787,
     "wof:geomhash":"abdb9e645741c96b414de87c844fff68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823872043
+        }
+    ],
     "wof:id":823872043,
-    "wof:lastmodified":1472613850,
+    "wof:lastmodified":1492027109,
     "wof:name":"Rolfing Of Westport",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

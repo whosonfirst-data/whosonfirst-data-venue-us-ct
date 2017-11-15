@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.169252,41.502366,-73.169252,41.502366",
     "geom:latitude":41.502366,
     "geom:longitude":-73.169252,
@@ -28,7 +29,13 @@
     "sg:postcode":"06488",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XYiMYrl4Oewc6NiczfsqF_41.502366_-73.169252@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463445739,
     "wof:geomhash":"1fcd9851d52b7b26c055dac48dabcd03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823765993
+        }
+    ],
     "wof:id":823765993,
-    "wof:lastmodified":1472613850,
+    "wof:lastmodified":1492029204,
     "wof:name":"Watertown Oil Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

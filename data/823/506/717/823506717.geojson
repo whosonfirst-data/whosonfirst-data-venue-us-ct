@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.222426,41.201629,-73.222426,41.201629",
     "geom:latitude":41.201629,
     "geom:longitude":-73.222426,
@@ -32,7 +33,10 @@
         "peace"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12H3mKatJEtENf967xKW7b_41.201629_-73.222426@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463439728,
     "wof:geomhash":"500d9a44b26a37525056fff12741906a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555457,
+            "venue_id":823506717
+        }
+    ],
     "wof:id":823506717,
-    "wof:lastmodified":1472613275,
+    "wof:lastmodified":1492055085,
     "wof:name":"Sara Carson",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

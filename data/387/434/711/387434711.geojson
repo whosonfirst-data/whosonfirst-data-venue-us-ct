@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.694016,41.056123,-73.694016,41.056123",
     "geom:latitude":41.056123,
     "geom:longitude":-73.694016,
@@ -29,10 +30,13 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85845073,
+        102191575,
+        404523361,
         85633793,
-        102084283,
-        85845073
+        85978735,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,18 @@
     "wof:geomhash":"9013d45c63d9ea6ea62dd5c3905e722c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "county_id":102084283,
-            "locality_id":-1,
+            "county_id":102082373,
+            "localadmin_id":404523361,
+            "locality_id":85978735,
             "neighbourhood_id":85845073,
-            "region_id":85688629,
+            "region_id":85688543,
             "venue_id":387434711
         }
     ],
     "wof:id":387434711,
-    "wof:lastmodified":1472606583,
+    "wof:lastmodified":1492027085,
     "wof:name":"Dimension Initiative Group",
     "wof:parent_id":85845073,
     "wof:placetype":"venue",

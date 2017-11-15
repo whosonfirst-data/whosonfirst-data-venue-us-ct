@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.149291,41.420893,-73.149291,41.420893",
     "geom:latitude":41.420893,
     "geom:longitude":-73.149291,
@@ -33,7 +34,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495795,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11xJ3bDkS9Nry89KNWvrDQ_41.420893_-73.149291@1294084077"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1463439834,
     "wof:geomhash":"d14083ee8c5dfb1bd47729c04b8aa269",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495795,
+            "region_id":85688629,
+            "venue_id":823512229
+        }
+    ],
     "wof:id":823512229,
-    "wof:lastmodified":1472612468,
+    "wof:lastmodified":1492061631,
     "wof:name":"H B Remodeling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

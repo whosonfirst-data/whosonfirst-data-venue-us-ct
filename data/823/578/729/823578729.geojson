@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.351923,41.123069,-73.351923,41.123069",
     "geom:latitude":41.123069,
     "geom:longitude":-73.351923,
@@ -40,7 +41,8 @@
         85633793,
         85930969,
         102084283,
-        85688629
+        85688629,
+        85847197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,12 +61,22 @@
             "neighbourhood_id":85823521,
             "region_id":85688629,
             "venue_id":823578729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":85847197,
+            "region_id":85688629,
+            "venue_id":823578729
         }
     ],
     "wof:id":823578729,
-    "wof:lastmodified":1472613356,
+    "wof:lastmodified":1492060221,
     "wof:name":"New England Consulting Group",
-    "wof:parent_id":85823521,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

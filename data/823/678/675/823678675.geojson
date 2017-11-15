@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.087336,41.310809,-73.087336,41.310809",
     "geom:latitude":41.310809,
     "geom:longitude":-73.087336,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"www.precisecircuit.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YALT49nXtFuNLZaUzGxpA_41.310809_-73.087336@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463443758,
     "wof:geomhash":"a60618b81c0389424efee064c297c06c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823678675
+        }
+    ],
     "wof:id":823678675,
-    "wof:lastmodified":1472613693,
+    "wof:lastmodified":1492051770,
     "wof:name":"Precise Circuit Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

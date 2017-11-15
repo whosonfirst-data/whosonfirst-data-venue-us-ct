@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.446005,41.442539,-73.446005,41.442539",
     "geom:latitude":41.442539,
     "geom:longitude":-73.446005,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        420555453,
+        102191575,
+        404495941,
         85633793,
-        85829875,
-        102084283
+        85930805,
+        102084283,
+        85688629,
+        85829875
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,6 +51,16 @@
     "wof:geomhash":"3c03479ff7b369b4e8c10cc559bab711",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555453,
+            "region_id":85688629,
+            "venue_id":823501333
+        },
+        {
             "country_id":85633793,
             "county_id":102084283,
             "neighbourhood_id":85829875,
@@ -54,9 +69,9 @@
         }
     ],
     "wof:id":823501333,
-    "wof:lastmodified":1472611656,
+    "wof:lastmodified":1492055112,
     "wof:name":"Robertson Contracting",
-    "wof:parent_id":85829875,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

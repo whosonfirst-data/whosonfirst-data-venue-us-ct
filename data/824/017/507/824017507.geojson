@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.100897,41.539028,-73.100897,41.539028",
     "geom:latitude":41.539028,
     "geom:longitude":-73.100897,
@@ -37,7 +38,10 @@
         "cracker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MUdKJWwxCXHZO1ShP1c9S_41.539028_-73.100897@1294084077"
@@ -45,11 +49,17 @@
     "wof:country":"US",
     "wof:created":1463452369,
     "wof:geomhash":"b6fcdf734f928f7a1083158bd21ac291",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":824017507
+        }
+    ],
     "wof:id":824017507,
-    "wof:lastmodified":1472608098,
+    "wof:lastmodified":1492027031,
     "wof:name":"Gary's Long Stem Cookies",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

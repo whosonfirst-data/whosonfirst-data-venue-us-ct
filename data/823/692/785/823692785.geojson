@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.11603,41.2416,-73.11603,41.2416",
     "geom:latitude":41.2416,
     "geom:longitude":-73.11603,
@@ -31,7 +32,15 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555635,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Uza2e1O6w0yvQNPMswkr2_41.241600_-73.116030@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463444080,
     "wof:geomhash":"d75d9aa0f93f48ca2bbfeac30db5230d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "neighbourhood_id":420555635,
+            "region_id":85688629,
+            "venue_id":823692785
+        }
+    ],
     "wof:id":823692785,
-    "wof:lastmodified":1472613696,
+    "wof:lastmodified":1492029078,
     "wof:name":"Strategic Organizational",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

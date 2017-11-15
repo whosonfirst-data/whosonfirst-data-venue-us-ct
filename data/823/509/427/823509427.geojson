@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.523592,41.514751,-73.523592,41.514751",
     "geom:latitude":41.514751,
     "geom:longitude":-73.523592,
@@ -32,7 +33,13 @@
         "strategy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OYzsOtgoL2BKwjodgaBTy_41.514751_-73.523592@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463439784,
     "wof:geomhash":"711a1fd4836ead38d7a7a4bb544fd1cc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823509427
+        }
+    ],
     "wof:id":823509427,
-    "wof:lastmodified":1472613239,
+    "wof:lastmodified":1492054814,
     "wof:name":"Jk Strategy Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

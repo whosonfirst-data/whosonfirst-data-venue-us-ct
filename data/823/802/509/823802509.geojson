@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.175916,41.347928,-73.175916,41.347928",
     "geom:latitude":41.347928,
     "geom:longitude":-73.175916,
@@ -31,7 +32,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LYRiXoO1P16S3APgG2ERa_41.347928_-73.175916@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463446769,
     "wof:geomhash":"211c8eb45b4b72329204c2acc36fd41d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":823802509
+        }
+    ],
     "wof:id":823802509,
-    "wof:lastmodified":1472613792,
+    "wof:lastmodified":1492027129,
     "wof:name":"Nick Zepko",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

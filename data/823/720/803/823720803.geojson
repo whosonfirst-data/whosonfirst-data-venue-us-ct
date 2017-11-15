@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.53598,41.441338,-73.53598,41.441338",
     "geom:latitude":41.441338,
     "geom:longitude":-73.53598,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OVifKJnYGmOAmZIgGgkrn_41.441338_-73.535980@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463444667,
     "wof:geomhash":"828083c3330635e4692c2b156caa7fc4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823720803
+        }
+    ],
     "wof:id":823720803,
-    "wof:lastmodified":1472613734,
+    "wof:lastmodified":1492040676,
     "wof:name":"Todd Palmer Septic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

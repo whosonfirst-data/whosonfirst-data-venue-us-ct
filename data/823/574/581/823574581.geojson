@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.314935,41.446391,-73.314935,41.446391",
     "geom:latitude":41.446391,
     "geom:longitude":-73.314935,
@@ -28,7 +29,13 @@
     "sg:postcode":"06470",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66VuGKzGEUpSdGbX3THBaM_41.446391_-73.314935@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463441287,
     "wof:geomhash":"03d031ce3285df22608bd9eb7fe5eb9f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823574581
+        }
+    ],
     "wof:id":823574581,
-    "wof:lastmodified":1472613340,
+    "wof:lastmodified":1492055079,
     "wof:name":"Health Connection Massage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

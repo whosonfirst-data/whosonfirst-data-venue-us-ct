@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.625495,41.024806,-73.625495,41.024806",
     "geom:latitude":41.024806,
     "geom:longitude":-73.625495,
@@ -29,13 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885307,
+        420555529,
         102191575,
         404495949,
         85633793,
         85930941,
         102084283,
-        85688629
+        85688629,
+        85885307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,25 @@
             "county_id":102084283,
             "localadmin_id":404495949,
             "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823962091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
             "neighbourhood_id":85885307,
             "region_id":85688629,
             "venue_id":823962091
         }
     ],
     "wof:id":823962091,
-    "wof:lastmodified":1472613864,
+    "wof:lastmodified":1492083236,
     "wof:name":"Colony Florist",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

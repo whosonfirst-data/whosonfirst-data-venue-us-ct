@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.415184,41.597523,-73.415184,41.597523",
     "geom:latitude":41.597523,
     "geom:longitude":-73.415184,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809229,
-        102085375
+        102191575,
+        404496031,
+        85633793,
+        85931231,
+        102085375,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"1e3fe9422b4dd07eab25116743b75d7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085375,
+            "localadmin_id":404496031,
+            "locality_id":85931231,
             "neighbourhood_id":85809229,
             "region_id":85688629,
             "venue_id":823987265
         }
     ],
     "wof:id":823987265,
-    "wof:lastmodified":1472613900,
+    "wof:lastmodified":1492062398,
     "wof:name":"Wells Valley Farm",
     "wof:parent_id":85809229,
     "wof:placetype":"venue",

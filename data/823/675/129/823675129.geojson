@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.148216,41.618557,-73.148216,41.618557",
     "geom:latitude":41.618557,
     "geom:longitude":-73.148216,
@@ -31,7 +32,10 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555553
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01F66n0FwyJI0C8Y7LF3bY_41.618557_-73.148216@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463443685,
     "wof:geomhash":"a58b4e636e16a8ba9f771d728edcd31f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555553,
+            "venue_id":823675129
+        }
+    ],
     "wof:id":823675129,
-    "wof:lastmodified":1472613661,
+    "wof:lastmodified":1492027023,
     "wof:name":"Mt Olivet Cemetery",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

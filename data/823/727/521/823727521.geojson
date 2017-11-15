@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.26876,41.425495,-73.26876,41.425495",
     "geom:latitude":41.425495,
     "geom:longitude":-73.26876,
@@ -32,7 +33,13 @@
         "septic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05KZbgDSOubEcm9jEKN17u_41.425495_-73.268760@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463444837,
     "wof:geomhash":"7862e0e8cdb9bbe20d7d2965b18aafdd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823727521
+        }
+    ],
     "wof:id":823727521,
-    "wof:lastmodified":1472613738,
+    "wof:lastmodified":1492062284,
     "wof:name":"Shortt's Farm & Garden Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

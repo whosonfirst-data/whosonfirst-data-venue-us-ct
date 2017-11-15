@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.213494,41.393842,-73.213494,41.393842",
     "geom:latitude":41.393842,
     "geom:longitude":-73.213494,
@@ -31,7 +32,13 @@
         "musician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zBN3mWx57d3VspCKew1bb_41.393842_-73.213494@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463449072,
     "wof:geomhash":"3114e79210706a73b3d4feb2c7554e38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823884627
+        }
+    ],
     "wof:id":823884627,
-    "wof:lastmodified":1472613860,
+    "wof:lastmodified":1492027004,
     "wof:name":"American Mortar Rock Band",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.374913,41.413657,-73.374913,41.413657",
     "geom:latitude":41.413657,
     "geom:longitude":-73.374913,
@@ -31,12 +32,7 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65EIOXL3ZrFg3pmmuTDwQb_41.413657_-73.374913@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463450866,
     "wof:geomhash":"9c527fc38ba0717d9959292e8b74c8ac",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823954155
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823954155,
-    "wof:lastmodified":1472613881,
+    "wof:lastmodified":1492054357,
     "wof:name":"Newtown Family Practice",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

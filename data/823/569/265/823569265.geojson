@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.62816,41.029737,-73.62816,41.029737",
     "geom:latitude":41.029737,
     "geom:longitude":-73.62816,
@@ -28,7 +29,15 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xoFFonq191do7nzcc3Ebx_41.029737_-73.628160@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463441171,
     "wof:geomhash":"ae985cda5da65e1c7f1577fe80936396",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823569265
+        }
+    ],
     "wof:id":823569265,
-    "wof:lastmodified":1472613338,
+    "wof:lastmodified":1492029212,
     "wof:name":"Paul Shainberg",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

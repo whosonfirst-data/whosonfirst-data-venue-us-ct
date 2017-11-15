@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.503065,41.132229,-73.503065,41.132229",
     "geom:latitude":41.132229,
     "geom:longitude":-73.503065,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"1e5f2bdfdec0664357935f2cfc0bdcbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":387123853
         }
     ],
     "wof:id":387123853,
-    "wof:lastmodified":1472606468,
+    "wof:lastmodified":1492029100,
     "wof:name":"Benenson Serena Assoc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.19621,41.244599,-73.19621,41.244599",
     "geom:latitude":41.244599,
     "geom:longitude":-73.19621,
@@ -36,7 +37,15 @@
         "hall"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iabVFK34hxXMSDQonOrOH_41.244599_-73.196210@1294084077"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1463447156,
     "wof:geomhash":"b7f34709c41d778af5b69b2f7caee287",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":823815329
+        }
+    ],
     "wof:id":823815329,
-    "wof:lastmodified":1472613778,
+    "wof:lastmodified":1492029081,
     "wof:name":"Astaire Fred Dance Studio",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

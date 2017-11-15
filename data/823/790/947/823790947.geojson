@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.237811,41.570153,-73.237811,41.570153",
     "geom:latitude":41.570153,
     "geom:longitude":-73.237811,
@@ -31,7 +32,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qnMUQkryPl2KXSsPsygjT_41.570153_-73.237811@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463446450,
     "wof:geomhash":"a82bcad90b170affa5c6ba19fc289b32",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823790947
+        }
+    ],
     "wof:id":823790947,
-    "wof:lastmodified":1472613836,
+    "wof:lastmodified":1492027074,
     "wof:name":"Paparazzo Sheetmetal LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

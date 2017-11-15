@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.126565,41.318372,-73.126565,41.318372",
     "geom:latitude":41.318372,
     "geom:longitude":-73.126565,
@@ -31,7 +32,14 @@
         "company"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dhRmPMposf9Y2cJN9A6Wl_41.318372_-73.126565@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463451123,
     "wof:geomhash":"9b3f036455d34ad487701de6335ba6c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823964449
+        }
+    ],
     "wof:id":823964449,
-    "wof:lastmodified":1472613908,
+    "wof:lastmodified":1492054921,
     "wof:name":"Smith Construction Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

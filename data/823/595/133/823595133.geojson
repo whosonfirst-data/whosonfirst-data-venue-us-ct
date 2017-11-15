@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.19619,41.238726,-73.19619,41.238726",
     "geom:latitude":41.238726,
     "geom:longitude":-73.19619,
@@ -29,7 +30,15 @@
     "sg:province":"CT",
     "sg:website":"www.rampag.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gmMenXno4ljrEFY7QdX5r_41.238726_-73.196190@1294084077"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463441767,
     "wof:geomhash":"69a9cdd2606283a361885e12eec8417c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":823595133
+        }
+    ],
     "wof:id":823595133,
-    "wof:lastmodified":1472613380,
+    "wof:lastmodified":1492068783,
     "wof:name":"Rampage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.210445,41.305684,-73.210445,41.305684",
     "geom:latitude":41.305684,
     "geom:longitude":-73.210445,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"2918c2c7fa39476bf8dae5b3ce5fdf0c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823648825
         }
     ],
     "wof:id":823648825,
-    "wof:lastmodified":1472613429,
+    "wof:lastmodified":1492068638,
     "wof:name":"Tri Star Consultants",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

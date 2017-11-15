@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.519718,41.324729,-73.519718,41.324729",
     "geom:latitude":41.324729,
     "geom:longitude":-73.519718,
@@ -31,7 +32,13 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66peptNWigbPI3FZPhPcu2_41.324729_-73.519718@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463451761,
     "wof:geomhash":"8f11e653989e49392b766da30f2fd50d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823991839
+        }
+    ],
     "wof:id":823991839,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1492064957,
     "wof:name":"Artist Flowers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

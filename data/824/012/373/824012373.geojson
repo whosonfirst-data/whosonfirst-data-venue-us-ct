@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.313923,41.419055,-73.313923,41.419055",
     "geom:latitude":41.419055,
     "geom:longitude":-73.313923,
@@ -31,12 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ltNHYUuDK93qUfg1Tk4p3_41.419055_-73.313923@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463452245,
     "wof:geomhash":"26cfe01bc9fc002ee3f34baee096c0dc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":824012373
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824012373,
-    "wof:lastmodified":1472607058,
+    "wof:lastmodified":1492044243,
     "wof:name":"Dream Builders Inc",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

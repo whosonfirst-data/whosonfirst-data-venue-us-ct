@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.102168,41.379142,-73.102168,41.379142",
     "geom:latitude":41.379142,
     "geom:longitude":-73.102168,
@@ -28,7 +29,13 @@
     "sg:postcode":"06483",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495797,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dq281H9bcCWNdAvzrnTEN_41.379142_-73.102168@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463446742,
     "wof:geomhash":"c614c049fc769f852d3b3f482f1820cf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495797,
+            "region_id":85688629,
+            "venue_id":823801375
+        }
+    ],
     "wof:id":823801375,
-    "wof:lastmodified":1472613786,
+    "wof:lastmodified":1492068800,
     "wof:name":"Glidden Hardwood Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.577783,41.136612,-73.577783,41.136612",
     "geom:latitude":41.136612,
     "geom:longitude":-73.577783,
@@ -28,7 +29,14 @@
     "sg:postcode":"06903",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3L3RvvS4K2qTt439jZOp98_41.136612_-73.577783@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463441818,
     "wof:geomhash":"a30db7d8e2f93612411092596860d3e5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823597141
+        }
+    ],
     "wof:id":823597141,
-    "wof:lastmodified":1472613362,
+    "wof:lastmodified":1492029227,
     "wof:name":"Access Zahnermartin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

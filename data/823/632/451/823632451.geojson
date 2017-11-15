@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.20209,41.269268,-73.20209,41.269268",
     "geom:latitude":41.269268,
     "geom:longitude":-73.20209,
@@ -28,7 +29,15 @@
     "sg:postcode":"06611",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555491,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EYWkSfrY64DaGVhUP9nj0_41.269268_-73.202090@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463442681,
     "wof:geomhash":"041808fcc506d073cc41e872020dba1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555491,
+            "region_id":85688629,
+            "venue_id":823632451
+        }
+    ],
     "wof:id":823632451,
-    "wof:lastmodified":1472613415,
+    "wof:lastmodified":1492029076,
     "wof:name":"Premier Pools",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

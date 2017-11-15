@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.889344,41.359021,-72.889344,41.359021",
     "geom:latitude":41.359021,
     "geom:longitude":-72.889344,
@@ -38,7 +39,8 @@
         85633793,
         85931389,
         102086923,
-        85688629
+        85688629,
+        85850561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +59,19 @@
             "neighbourhood_id":85834309,
             "region_id":85688629,
             "venue_id":823675237
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85850561,
+            "region_id":85688629,
+            "venue_id":823675237
         }
     ],
     "wof:id":823675237,
-    "wof:lastmodified":1472613661,
+    "wof:lastmodified":1491890326,
     "wof:name":"Milo Fabrications LLC",
-    "wof:parent_id":85834309,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

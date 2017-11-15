@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.25889,41.647228,-73.25889,41.647228",
     "geom:latitude":41.647228,
     "geom:longitude":-73.25889,
@@ -31,7 +32,10 @@
         "organization"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555561
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XZWnUIo4ACwsvS6FGtgLp_41.647228_-73.258890@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463443178,
     "wof:geomhash":"75d2f1a9b6fd55b4dcde727e7e4a846e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":823654277
+        }
+    ],
     "wof:id":823654277,
-    "wof:lastmodified":1472613384,
+    "wof:lastmodified":1492051706,
     "wof:name":"Woods Edge Resources Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

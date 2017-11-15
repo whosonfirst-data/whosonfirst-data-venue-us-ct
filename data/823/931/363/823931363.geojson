@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092946,41.31688,-73.092946,41.31688",
     "geom:latitude":41.31688,
     "geom:longitude":-73.092946,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ki8AzvK7xGg6yPFOzuQyL_41.316880_-73.092946@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463450281,
     "wof:geomhash":"6f7240860efc4f61fd03708b41a32bdc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823931363
+        }
+    ],
     "wof:id":823931363,
-    "wof:lastmodified":1472613908,
+    "wof:lastmodified":1492027057,
     "wof:name":"ABC Floor Covering & Window",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

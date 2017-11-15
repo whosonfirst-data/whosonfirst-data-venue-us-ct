@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.44276,41.450771,-73.44276,41.450771",
     "geom:latitude":41.450771,
     "geom:longitude":-73.44276,
@@ -31,7 +32,15 @@
         "handyman"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555453,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oAHXY1DW8RUqrbwO4Bq4k_41.450771_-73.442760@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463450609,
     "wof:geomhash":"c47ea11a5aa1fec149769b1cc4ac0d53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":420555453,
+            "region_id":85688629,
+            "venue_id":823943683
+        }
+    ],
     "wof:id":823943683,
-    "wof:lastmodified":1472613954,
+    "wof:lastmodified":1492055155,
     "wof:name":"Greenfield Property Mntnc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

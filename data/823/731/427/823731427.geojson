@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.532769,41.309072,-73.532769,41.309072",
     "geom:latitude":41.309072,
     "geom:longitude":-73.532769,
@@ -31,7 +32,13 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41ATs4sY0z63vGElpeek8Y_41.309072_-73.532769@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444944,
     "wof:geomhash":"66334a4ede78763a10da78b597b52533",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823731427
+        }
+    ],
     "wof:id":823731427,
-    "wof:lastmodified":1472613726,
+    "wof:lastmodified":1492061758,
     "wof:name":"Allen Technologies",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

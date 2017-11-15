@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.51091,41.594249,-73.51091,41.594249",
     "geom:latitude":41.594249,
     "geom:longitude":-73.51091,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495819,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zk8NJu7j8VmyIHXNxTYiI_41.594249_-73.510910@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463438939,
     "wof:geomhash":"98faaacd0de02602774f5f0fa0432f0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495819,
+            "region_id":85688629,
+            "venue_id":823474343
+        }
+    ],
     "wof:id":823474343,
-    "wof:lastmodified":1472607965,
+    "wof:lastmodified":1492055011,
     "wof:name":"Gene Fredlund Jr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

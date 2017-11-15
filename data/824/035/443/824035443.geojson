@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.274948,41.433754,-73.274948,41.433754",
     "geom:latitude":41.433754,
     "geom:longitude":-73.274948,
@@ -31,12 +32,7 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04VJhODlsqKqXSrBgLGvL0_41.433754_-73.274948@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463452797,
     "wof:geomhash":"8adbcaf7a2b604adbe6138c2d7bbb95c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":824035443
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824035443,
-    "wof:lastmodified":1472608973,
+    "wof:lastmodified":1492026871,
     "wof:name":"Glen Road Auto Body",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

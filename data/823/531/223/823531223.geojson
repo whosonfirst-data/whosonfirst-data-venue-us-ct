@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.551756,41.064323,-73.551756,41.064323",
     "geom:latitude":41.064323,
     "geom:longitude":-73.551756,
@@ -31,7 +32,15 @@
         "clergy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555469,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jPbV87inYm2L5Q5bmYBJ2_41.064323_-73.551756@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463440276,
     "wof:geomhash":"cd3d4fd3139b0aa50f8402ea6aca4720",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555469,
+            "region_id":85688629,
+            "venue_id":823531223
+        }
+    ],
     "wof:id":823531223,
-    "wof:lastmodified":1472613286,
+    "wof:lastmodified":1492064964,
     "wof:name":"Robert E Gahler",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

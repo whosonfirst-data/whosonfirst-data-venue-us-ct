@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.514251,41.427615,-73.514251,41.427615",
     "geom:latitude":41.427615,
     "geom:longitude":-73.514251,
@@ -33,7 +34,14 @@
     ],
     "sg:website":"www.desousalawnservice.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f6S0yw2gns0xVnjAfPUqN_41.427615_-73.514251@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463443207,
     "wof:geomhash":"3110f056731b55fcc5196ecca12ba618",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823655443
+        }
+    ],
     "wof:id":823655443,
-    "wof:lastmodified":1472613387,
+    "wof:lastmodified":1492051710,
     "wof:name":"De Sousa Lawn Service LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

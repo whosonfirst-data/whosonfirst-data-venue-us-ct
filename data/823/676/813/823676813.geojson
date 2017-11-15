@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.645542,41.090568,-73.645542,41.090568",
     "geom:latitude":41.090568,
     "geom:longitude":-73.645542,
@@ -31,7 +32,13 @@
         "statistical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sYI8wb871nNeKVG87ObDg_41.090568_-73.645542@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463443718,
     "wof:geomhash":"162dbb7a8502fa360bc38f6f6be4c834",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823676813
+        }
+    ],
     "wof:id":823676813,
-    "wof:lastmodified":1472613692,
+    "wof:lastmodified":1492029252,
     "wof:name":"Synergex Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

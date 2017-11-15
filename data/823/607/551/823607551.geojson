@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.315899,41.421869,-73.315899,41.421869",
     "geom:latitude":41.421869,
     "geom:longitude":-73.315899,
@@ -31,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85845579,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KFppYWg7MWyjb8x3DeRng_41.421869_-73.315899@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463442078,
     "wof:geomhash":"ec8f6b13c905dc329fa2ec1c3accc94d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85845579,
-            "region_id":85688629,
-            "venue_id":823607551
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823607551,
-    "wof:lastmodified":1472613400,
+    "wof:lastmodified":1492055018,
     "wof:name":"Len's",
     "wof:parent_id":85845579,
     "wof:placetype":"venue",

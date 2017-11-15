@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.387866,41.440734,-73.387866,41.440734",
     "geom:latitude":41.440734,
     "geom:longitude":-73.387866,
@@ -36,7 +37,8 @@
         85688629,
         85633793,
         85829875,
-        102084283
+        102084283,
+        85839139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +54,19 @@
             "neighbourhood_id":85829875,
             "region_id":85688629,
             "venue_id":823876177
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85839139,
+            "region_id":85688629,
+            "venue_id":823876177
         }
     ],
     "wof:id":823876177,
-    "wof:lastmodified":1472613876,
+    "wof:lastmodified":1492055152,
     "wof:name":"Denley John J Plumbing & Htg",
-    "wof:parent_id":85829875,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

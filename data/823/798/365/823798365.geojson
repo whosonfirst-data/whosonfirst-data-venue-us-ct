@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.331943,41.180981,-73.331943,41.180981",
     "geom:latitude":41.180981,
     "geom:longitude":-73.331943,
@@ -28,7 +29,15 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DmTtvB8aOQmM7tADH1KF6_41.180981_-73.331943@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463446669,
     "wof:geomhash":"7aa24ca3ffd8719def0d44ddb7290f43",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823798365
+        }
+    ],
     "wof:id":823798365,
-    "wof:lastmodified":1472613786,
+    "wof:lastmodified":1492027108,
     "wof:name":"Once Upon A Pillow",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

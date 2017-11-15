@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.402905,41.187529,-73.402905,41.187529",
     "geom:latitude":41.187529,
     "geom:longitude":-73.402905,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85850221,
-        102084283
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"27ac9b48321caeb201d17da2d0149ce3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85850221,
             "region_id":85688629,
             "venue_id":823479865
         }
     ],
     "wof:id":823479865,
-    "wof:lastmodified":1472608507,
+    "wof:lastmodified":1492055068,
     "wof:name":"Case Haviland Ltd",
     "wof:parent_id":85850221,
     "wof:placetype":"venue",

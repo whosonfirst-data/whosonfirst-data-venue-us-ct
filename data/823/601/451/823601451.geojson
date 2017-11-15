@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.161774,41.276392,-73.161774,41.276392",
     "geom:latitude":41.276392,
     "geom:longitude":-73.161774,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"e2072d57b91bddb5494ae2df2e669cc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823601451
         }
     ],
     "wof:id":823601451,
-    "wof:lastmodified":1472613394,
+    "wof:lastmodified":1492068637,
     "wof:name":"Kathleen Ballas MD",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

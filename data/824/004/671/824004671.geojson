@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.295446,41.611154,-73.295446,41.611154",
     "geom:latitude":41.611154,
     "geom:longitude":-73.295446,
@@ -32,8 +33,9 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
         85633793,
+        420555561,
+        85688629,
         85846297,
         102085375
     ],
@@ -47,6 +49,11 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "neighbourhood_id":420555561,
+            "venue_id":824004671
+        },
+        {
+            "country_id":85633793,
             "county_id":102085375,
             "neighbourhood_id":85846297,
             "region_id":85688629,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":824004671,
-    "wof:lastmodified":1472607825,
+    "wof:lastmodified":1492046685,
     "wof:name":"Painter Ridge Farm",
-    "wof:parent_id":85846297,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

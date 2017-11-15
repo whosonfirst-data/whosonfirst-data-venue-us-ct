@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.098131,41.309867,-73.098131,41.309867",
     "geom:latitude":41.309867,
     "geom:longitude":-73.098131,
@@ -32,7 +33,14 @@
         "derrick"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hTETOA8bt2weC4uEutjzc_41.309867_-73.098131@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463443107,
     "wof:geomhash":"da208f89ecbc1667d7d29572b0a5c46a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823651339
+        }
+    ],
     "wof:id":823651339,
-    "wof:lastmodified":1472613393,
+    "wof:lastmodified":1492027049,
     "wof:name":"A Quick Pick Crane Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

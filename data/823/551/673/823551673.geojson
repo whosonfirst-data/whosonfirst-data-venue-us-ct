@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.529411,41.498196,-73.529411,41.498196",
     "geom:latitude":41.498196,
     "geom:longitude":-73.529411,
@@ -31,7 +32,13 @@
         "shelter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kd2YPTKCkxee7hIynq0Rj_41.498196_-73.529411@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463440744,
     "wof:geomhash":"f22d71a9f9e4db29dee246e86b672021",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":823551673
+        }
+    ],
     "wof:id":823551673,
-    "wof:lastmodified":1472613353,
+    "wof:lastmodified":1492054593,
     "wof:name":"New Fairfield-Sherman Animal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

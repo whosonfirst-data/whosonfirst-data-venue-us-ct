@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.52174,41.322809,-73.52174,41.322809",
     "geom:latitude":41.322809,
     "geom:longitude":-73.52174,
@@ -31,7 +32,13 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DdhOvEwm0UuVpNRLUKlGN_41.322645_-73.521587@1293134755"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463453603,
     "wof:geomhash":"5dd6368bc6b851e46d5fb5c85af9371a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":824069755
+        }
+    ],
     "wof:id":824069755,
-    "wof:lastmodified":1472613258,
+    "wof:lastmodified":1492055117,
     "wof:name":"Thompson Appraisals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

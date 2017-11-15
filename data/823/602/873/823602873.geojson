@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.110399,41.603067,-73.110399,41.603067",
     "geom:latitude":41.603067,
     "geom:longitude":-73.110399,
@@ -33,7 +34,15 @@
         "facility"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3HkI7w0mAyv5VFML4Th9dv_41.603067_-73.110399@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463441975,
     "wof:geomhash":"c39241dd6de70ff530fb656c250d5a75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823602873
+        }
+    ],
     "wof:id":823602873,
-    "wof:lastmodified":1472613411,
+    "wof:lastmodified":1492027127,
     "wof:name":"J Neff Fitness",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

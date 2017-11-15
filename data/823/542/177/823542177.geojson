@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.236533,41.225014,-73.236533,41.225014",
     "geom:latitude":41.225014,
     "geom:longitude":-73.236533,
@@ -31,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43N8Zb2NvNJyaUZInEopEJ_41.225014_-73.236533@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463440513,
     "wof:geomhash":"594ad2ee0db30fa44db2fbbf3529aef7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823542177
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823542177,
-    "wof:lastmodified":1472613292,
+    "wof:lastmodified":1492061798,
     "wof:name":"Vincenzi Inc",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

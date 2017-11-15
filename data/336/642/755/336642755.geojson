@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.476055,41.185382,-73.476055,41.185382",
     "geom:latitude":41.185382,
     "geom:longitude":-73.476055,
@@ -35,8 +36,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        102191575,
+        404495817,
         85633793,
-        85688629
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +50,16 @@
     "wof:geomhash":"2bef25c07f9fa396de81c6a294833e76",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "localadmin_id":404495817,
             "region_id":85688629,
             "venue_id":336642755
         }
     ],
     "wof:id":336642755,
-    "wof:lastmodified":1472606408,
+    "wof:lastmodified":1492029108,
     "wof:name":"Verrtav Fine Silks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

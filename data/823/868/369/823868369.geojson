@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.374689,41.381072,-73.374689,41.381072",
     "geom:latitude":41.381072,
     "geom:longitude":-73.374689,
@@ -31,12 +32,7 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62rCRagrqZUcozLwvKwIKs_41.381072_-73.374689@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463448699,
     "wof:geomhash":"64291c7fbc02673e4dd7be7807e2aebd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823868369
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823868369,
-    "wof:lastmodified":1472613855,
+    "wof:lastmodified":1492040678,
     "wof:name":"Saints Peter & Paul Eastern",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

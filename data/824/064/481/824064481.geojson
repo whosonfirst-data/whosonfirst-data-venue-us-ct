@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.079151,41.296445,-73.079151,41.296445",
     "geom:latitude":41.296445,
     "geom:longitude":-73.079151,
@@ -33,7 +34,14 @@
         "judging"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30xSbpZqDdj7k2ATrTZW6o_41.296445_-73.079151@1294084077"
@@ -41,9 +49,19 @@
     "wof:country":"US",
     "wof:created":1463453486,
     "wof:geomhash":"f3576b79645eedeb196aebe7336e94f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":824064481
+        }
+    ],
     "wof:id":824064481,
-    "wof:lastmodified":1472613242,
+    "wof:lastmodified":1492062547,
     "wof:name":"Couto Pageant Productions Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.406432,41.460341,-73.406432,41.460341",
     "geom:latitude":41.460341,
     "geom:longitude":-73.406432,
@@ -28,7 +29,10 @@
     "sg:postcode":"06804",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XfFiLeMMNYN1qaU47Wlka_41.460341_-73.406432@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463451490,
     "wof:geomhash":"f9fcb520df11dbf376077cbb9d695805",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823980165
+        }
+    ],
     "wof:id":823980165,
-    "wof:lastmodified":1472613879,
+    "wof:lastmodified":1492027123,
     "wof:name":"Halvorsen Motorsports LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

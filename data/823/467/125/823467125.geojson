@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.115872,41.603694,-73.115872,41.603694",
     "geom:latitude":41.603694,
     "geom:longitude":-73.115872,
@@ -31,7 +32,15 @@
         "laboratory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29eyv0AbkM4A5qudcXl9if_41.603694_-73.115872@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463438769,
     "wof:geomhash":"99a2dc60f64aaafc4502a5544e9d33d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":823467125
+        }
+    ],
     "wof:id":823467125,
-    "wof:lastmodified":1472606912,
+    "wof:lastmodified":1492061630,
     "wof:name":"Phoenix Internal Med Assoc LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

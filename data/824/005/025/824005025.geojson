@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.287119,41.391881,-73.287119,41.391881",
     "geom:latitude":41.391881,
     "geom:longitude":-73.287119,
@@ -32,12 +33,7 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fAqOO8euwqsyzohZlj18b_41.391881_-73.287119@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463452100,
     "wof:geomhash":"2c75aa1e56ffde2503c67c11694fad81",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":824005025
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824005025,
-    "wof:lastmodified":1472607385,
+    "wof:lastmodified":1492062286,
     "wof:name":"Primo Crust Co",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

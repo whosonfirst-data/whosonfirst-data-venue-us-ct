@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.66181,41.001159,-73.66181,41.001159",
     "geom:latitude":41.001159,
     "geom:longitude":-73.66181,
@@ -32,7 +33,15 @@
     ],
     "sg:website":"www.empiretools.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RB8uu0me73XYnna11vkt6_41.001159_-73.661810@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463445178,
     "wof:geomhash":"164b98b37e92785486f8a68e8d1e2eea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823741131
+        }
+    ],
     "wof:id":823741131,
-    "wof:lastmodified":1472613714,
+    "wof:lastmodified":1492029267,
     "wof:name":"Empire Tools",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.936641,41.355569,-72.936641,41.355569",
     "geom:latitude":41.355569,
     "geom:longitude":-72.936641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"321 Circular Ave",
     "sg:city":"Hamden",
     "sg:classifiers":[
@@ -34,37 +36,38 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85885309,
+        85850561,
         102086923,
-        85850561
+        85885309
     ],
+    "wof:brand_id":1125158243,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_594GKLFpRqa9sMrU7WuHWn_41.355569_-72.936641@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443153,
-    "wof:geomhash":"972ebfca1c98a65c154f0f31cbff9da8",
+    "wof:geomhash":"16d6da2a8615d2c207941a4b5780f190",
     "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086923,
-            "neighbourhood_id":85885309,
-            "region_id":85688629,
-            "venue_id":823653329
-        },
         {
             "country_id":85633793,
             "county_id":102086923,
             "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":823653329
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
+            "neighbourhood_id":85885309,
+            "region_id":85688629,
+            "venue_id":823653329
         }
     ],
     "wof:id":823653329,
-    "wof:lastmodified":1472613404,
+    "wof:lastmodified":1510697793,
     "wof:name":"Blessed Sacrament Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

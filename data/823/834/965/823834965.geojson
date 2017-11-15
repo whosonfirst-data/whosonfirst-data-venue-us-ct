@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.201175,41.215475,-73.201175,41.215475",
     "geom:latitude":41.215475,
     "geom:longitude":-73.201175,
@@ -32,7 +33,15 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555445,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Isd9ICBerRylPdQG9IooQ_41.215475_-73.201175@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463447759,
     "wof:geomhash":"a6f8b375c5bfa0ed51b9172a397300a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555445,
+            "region_id":85688629,
+            "venue_id":823834965
+        }
+    ],
     "wof:id":823834965,
-    "wof:lastmodified":1472613850,
+    "wof:lastmodified":1492029132,
     "wof:name":"Ford Agency Income Tax Prep",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

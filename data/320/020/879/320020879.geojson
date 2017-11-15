@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.698575,41.11284,-73.698575,41.11284",
     "geom:latitude":41.11284,
     "geom:longitude":-73.698575,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85837667
+        85837667,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"dce4d881354db68d50a442b26710db88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85837667,
             "region_id":85688629,
             "venue_id":320020879
         }
     ],
     "wof:id":320020879,
-    "wof:lastmodified":1472606442,
+    "wof:lastmodified":1492055002,
     "wof:name":"Corporate Securities Group",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",

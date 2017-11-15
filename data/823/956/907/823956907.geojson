@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.294734,41.381871,-73.294734,41.381871",
     "geom:latitude":41.381871,
     "geom:longitude":-73.294734,
@@ -32,7 +33,10 @@
         "radio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RUaFsFvKptNuTF0Atmu0A_41.381871_-73.294734@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463450929,
     "wof:geomhash":"0528c2b89139b29a9b0663ff0f0c7f99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":823956907
+        }
+    ],
     "wof:id":823956907,
-    "wof:lastmodified":1472613953,
+    "wof:lastmodified":1492040679,
     "wof:name":"Kenneth Feher",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.629358,41.107101,-73.629358,41.107101",
     "geom:latitude":41.107101,
     "geom:longitude":-73.629358,
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85850923
+        85850923,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"3da4a773f0ad4a799cb1b59d7ac20cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85850923,
             "region_id":85688629,
             "venue_id":270421099
         }
     ],
     "wof:id":270421099,
-    "wof:lastmodified":1472606356,
+    "wof:lastmodified":1492068736,
     "wof:name":"Ettlinger Robert CPA PC Inc",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",

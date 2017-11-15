@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.266727,41.327571,-73.266727,41.327571",
     "geom:latitude":41.327571,
     "geom:longitude":-73.266727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"517 Main St",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -32,29 +34,36 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
+    "wof:brand_id":1125157727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dV9Rjh46J7KLMRhsIPVep_41.327571_-73.266727@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451754,
-    "wof:geomhash":"8e54a746a97bbad228b7c71a24cc56ea",
+    "wof:geomhash":"c2709c6b568895560e5cd34675752c29",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823991475
         }
     ],
     "wof:id":823991475,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1510699452,
     "wof:name":"Taylor Rental Ctr",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

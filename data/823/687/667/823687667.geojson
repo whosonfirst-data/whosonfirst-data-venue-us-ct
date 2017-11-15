@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.251997,41.55546,-73.251997,41.55546",
     "geom:latitude":41.55546,
     "geom:longitude":-73.251997,
@@ -33,7 +34,10 @@
         "reseller"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Hs49b08gEOZR26Pcagwzj_41.555460_-73.251997@1294084077"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1463443964,
     "wof:geomhash":"1e16f3f632854ec6b5d58eb21cdedc45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823687667
+        }
+    ],
     "wof:id":823687667,
-    "wof:lastmodified":1472613675,
+    "wof:lastmodified":1492055020,
     "wof:name":"Big Chip Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

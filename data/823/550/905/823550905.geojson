@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.457379,41.131542,-73.457379,41.131542",
     "geom:latitude":41.131542,
     "geom:longitude":-73.457379,
@@ -35,14 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879307,
+        85856029,
         102191575,
         404495959,
         85633793,
         85930795,
         102084283,
         85688629,
-        85856029
+        85879307
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +59,7 @@
             "county_id":102084283,
             "localadmin_id":404495959,
             "locality_id":85930795,
-            "neighbourhood_id":85879307,
+            "neighbourhood_id":85856029,
             "region_id":85688629,
             "venue_id":823550905
         },
@@ -68,15 +69,15 @@
             "county_id":102084283,
             "localadmin_id":404495959,
             "locality_id":85930795,
-            "neighbourhood_id":85856029,
+            "neighbourhood_id":85879307,
             "region_id":85688629,
             "venue_id":823550905
         }
     ],
     "wof:id":823550905,
-    "wof:lastmodified":1472613307,
+    "wof:lastmodified":1492029102,
     "wof:name":"Rotunno Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

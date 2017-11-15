@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.256105,41.424025,-73.256105,41.424025",
     "geom:latitude":41.424025,
     "geom:longitude":-73.256105,
@@ -31,12 +32,7 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KwTokY8lUwQr4bFgQUX8h_41.424025_-73.256105@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463445259,
     "wof:geomhash":"8c2a9007569bd5bac49a78520ae4d1ce",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823744695
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823744695,
-    "wof:lastmodified":1472613710,
+    "wof:lastmodified":1492062285,
     "wof:name":"Lee J Saltzman",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

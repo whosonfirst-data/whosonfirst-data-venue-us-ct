@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.628043,41.02996,-73.628043,41.02996",
     "geom:latitude":41.02996,
     "geom:longitude":-73.628043,
@@ -32,7 +33,15 @@
         "consignment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5t79x9ZiRx8xe9TqHWMNp0_41.029960_-73.628043@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463443685,
     "wof:geomhash":"2ea94b160e818fa7eda21fe616442e8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823675091
+        }
+    ],
     "wof:id":823675091,
-    "wof:lastmodified":1472613660,
+    "wof:lastmodified":1492029214,
     "wof:name":"Roundabout Designer Closeouts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

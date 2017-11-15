@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197337,41.245497,-73.197337,41.245497",
     "geom:latitude":41.245497,
     "geom:longitude":-73.197337,
@@ -32,7 +33,15 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555489,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hpA2uPPxiuzJNEiDRaEba_41.245497_-73.197337@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463441613,
     "wof:geomhash":"9b5414e94b2810869c2471f358316aa7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555489,
+            "region_id":85688629,
+            "venue_id":823588455
+        }
+    ],
     "wof:id":823588455,
-    "wof:lastmodified":1472613382,
+    "wof:lastmodified":1492029075,
     "wof:name":"Trumbull Pets & Aquarium",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.185799,41.201522,-73.185799,41.201522",
     "geom:latitude":41.201522,
     "geom:longitude":-73.185799,
@@ -32,7 +33,15 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555443,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3keHQ56zC8YqO1tc2qQlxO_41.201522_-73.185799@1303262246"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463454545,
     "wof:geomhash":"c6c91bb2834725dc9bc9d03a3fecb82c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555443,
+            "region_id":85688629,
+            "venue_id":824109497
+        }
+    ],
     "wof:id":824109497,
-    "wof:lastmodified":1472613303,
+    "wof:lastmodified":1492068779,
     "wof:name":"Waterbury Restaurant Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

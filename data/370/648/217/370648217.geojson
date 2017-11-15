@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.522464,41.187079,-73.522464,41.187079",
     "geom:latitude":41.187079,
     "geom:longitude":-73.522464,
@@ -29,8 +30,11 @@
     "sg:province":"NY",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        102191575,
+        404495817,
         85633793,
-        85688629
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,16 +44,16 @@
     "wof:geomhash":"22ba444409ac967ccc81ee1effa6b57a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "localadmin_id":404495817,
             "region_id":85688629,
             "venue_id":370648217
         }
     ],
     "wof:id":370648217,
-    "wof:lastmodified":1472606499,
+    "wof:lastmodified":1492055060,
     "wof:name":"Canaan Realty Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

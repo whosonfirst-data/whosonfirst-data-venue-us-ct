@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.432251,41.441012,-73.432251,41.441012",
     "geom:latitude":41.441012,
     "geom:longitude":-73.432251,
@@ -31,7 +32,12 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00Sd8SWDe23C6pj6xwZQDo_41.441012_-73.432251@1294084077"
@@ -39,11 +45,19 @@
     "wof:country":"US",
     "wof:created":1463447292,
     "wof:geomhash":"a1a9b9d566a2df6e8342d7f4752b8d3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":823819967
+        }
+    ],
     "wof:id":823819967,
-    "wof:lastmodified":1472613849,
+    "wof:lastmodified":1492070035,
     "wof:name":"Serge Roofing & Siding LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

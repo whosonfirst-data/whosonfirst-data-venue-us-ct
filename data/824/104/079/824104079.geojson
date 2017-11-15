@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.197582,41.311653,-73.197582,41.311653",
     "geom:latitude":41.311653,
     "geom:longitude":-73.197582,
@@ -24,10 +25,13 @@
     "sg:website":"http://www.apconceptsllc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -38,15 +42,18 @@
     "wof:geomhash":"000db2e72e5b2d1a89e3c3e99bc252bb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":824104079
         }
     ],
     "wof:id":824104079,
-    "wof:lastmodified":1472613276,
+    "wof:lastmodified":1492027000,
     "wof:name":"APC LLC. Group Benefits Monroe, CT Health, Dental, LIfe Insurance",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

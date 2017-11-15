@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.969308,41.30758,-72.969308,41.30758",
     "geom:latitude":41.30758,
     "geom:longitude":-72.969308,
@@ -29,13 +30,16 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85879183,
+        85857187,
         102191575,
-        404495805,
+        404495791,
         85633793,
-        85930885,
+        85931385,
         102086923,
-        85688629
+        85688629,
+        85879183,
+        404495805,
+        85930885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +53,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086923,
+            "localadmin_id":404495791,
+            "locality_id":85931385,
+            "neighbourhood_id":85857187,
+            "region_id":85688629,
+            "venue_id":823821845
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
             "localadmin_id":404495805,
             "locality_id":85930885,
             "neighbourhood_id":85879183,
@@ -57,9 +71,9 @@
         }
     ],
     "wof:id":823821845,
-    "wof:lastmodified":1472613848,
+    "wof:lastmodified":1492062551,
     "wof:name":"Mut's Warehouse Liquor",
-    "wof:parent_id":85879183,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

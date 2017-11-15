@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.47132,41.148903,-73.47132,41.148903",
     "geom:latitude":41.148903,
     "geom:longitude":-73.47132,
@@ -35,8 +36,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85848785
+        85848785,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +47,15 @@
     "wof:geomhash":"f0129f4ac9626938e375683c46978bd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85848785,
             "region_id":85688629,
             "venue_id":336846557
         }
     ],
     "wof:id":336846557,
-    "wof:lastmodified":1472606611,
+    "wof:lastmodified":1492029276,
     "wof:name":"Andronaco Barn",
     "wof:parent_id":85848785,
     "wof:placetype":"venue",

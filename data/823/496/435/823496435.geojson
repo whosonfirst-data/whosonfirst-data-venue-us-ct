@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.263433,41.217796,-73.263433,41.217796",
     "geom:latitude":41.217796,
     "geom:longitude":-73.263433,
@@ -32,12 +33,7 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NoaESu9aUsquf9O3uvP3t_41.217796_-73.263433@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463439472,
     "wof:geomhash":"544d564a1f28a4b60b250788fb20222b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823496435
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823496435,
-    "wof:lastmodified":1472611258,
+    "wof:lastmodified":1492068772,
     "wof:name":"Strategic Solutions LLC",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

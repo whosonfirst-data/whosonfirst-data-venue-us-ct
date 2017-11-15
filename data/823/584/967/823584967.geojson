@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.291326,41.390423,-73.291326,41.390423",
     "geom:latitude":41.390423,
     "geom:longitude":-73.291326,
@@ -28,7 +29,10 @@
     "sg:postcode":"06470",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bbhSTg9EPgAYV2V3wre4o_41.390423_-73.291326@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463441536,
     "wof:geomhash":"e1c39ba6c545293fa9815e3231aa0c27",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":823584967
+        }
+    ],
     "wof:id":823584967,
-    "wof:lastmodified":1472613342,
+    "wof:lastmodified":1492055042,
     "wof:name":"G M S",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

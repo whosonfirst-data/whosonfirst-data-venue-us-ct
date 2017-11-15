@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.337262,41.390032,-73.337262,41.390032",
     "geom:latitude":41.390032,
     "geom:longitude":-73.337262,
@@ -31,12 +32,7 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VkonkwL2M3jBA271XO6Ka_41.390032_-73.337262@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463450102,
     "wof:geomhash":"fae06589a3679aae6584f54d09e96641",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823924039
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823924039,
-    "wof:lastmodified":1472613870,
+    "wof:lastmodified":1492055145,
     "wof:name":"Our Town Tree Svc",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

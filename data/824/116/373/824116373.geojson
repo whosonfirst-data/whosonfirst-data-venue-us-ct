@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.628478,41.033047,-73.628478,41.033047",
     "geom:latitude":41.033047,
     "geom:longitude":-73.628478,
@@ -37,7 +38,15 @@
         "churches-presbyterian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40mhfBT9kQQ4JxpS0NzNLt_41.033047_-73.628478@1303262247"
@@ -45,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1463454687,
     "wof:geomhash":"f00dd38235e252d52da6e30f1a26d505",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":824116373
+        }
+    ],
     "wof:id":824116373,
-    "wof:lastmodified":1472613314,
+    "wof:lastmodified":1492055128,
     "wof:name":"First Presbyterian",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.663861,41.000296,-73.663861,41.000296",
     "geom:latitude":41.000296,
     "geom:longitude":-73.663861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 Westchester Ave",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -31,19 +33,39 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530431,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
+    "wof:brand_id":1125159857,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cje1LXWqjeBEm4OY8bgDZ_41.000296_-73.663861@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443050,
-    "wof:geomhash":"07cb75c219e9f30e4dd0bc8763c44e20",
-    "wof:hierarchy":[],
+    "wof:geomhash":"d28130fa32e17c9e4296fab4b9e80e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":823648453
+        }
+    ],
     "wof:id":823648453,
-    "wof:lastmodified":1472613411,
+    "wof:lastmodified":1510696722,
     "wof:name":"Family Dental Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

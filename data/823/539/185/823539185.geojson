@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.162485,41.569428,-73.162485,41.569428",
     "geom:latitude":41.569428,
     "geom:longitude":-73.162485,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Eqrv6fNHHVTGVZuk85ToP_41.569428_-73.162485@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463440453,
     "wof:geomhash":"61f8664b51445b37338238332843620e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823539185
+        }
+    ],
     "wof:id":823539185,
-    "wof:lastmodified":1472613284,
+    "wof:lastmodified":1492061632,
     "wof:name":"Designed By Carol",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

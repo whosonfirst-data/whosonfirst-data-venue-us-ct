@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408715,41.478702,-73.408715,41.478702",
     "geom:latitude":41.478702,
     "geom:longitude":-73.408715,
@@ -37,7 +38,10 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ffI3NSGzh1ZzIcK6cRMfn_41.478702_-73.408715@1294084077"
@@ -45,11 +49,17 @@
     "wof:country":"US",
     "wof:created":1463443572,
     "wof:geomhash":"c043af99adf1b4310428e9d019e8e318",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823669931
+        }
+    ],
     "wof:id":823669931,
-    "wof:lastmodified":1472613704,
+    "wof:lastmodified":1492055082,
     "wof:name":"Kyoto Sauna",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

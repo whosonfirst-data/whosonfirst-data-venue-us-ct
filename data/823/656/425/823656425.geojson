@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.188431,41.194045,-73.188431,41.194045",
     "geom:latitude":41.194045,
     "geom:longitude":-73.188431,
@@ -32,7 +33,15 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x5FBHZBfiyrooXgljiGh6_41.194045_-73.188431@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463443227,
     "wof:geomhash":"d82a64bbc7d139ed62aa4f121ef46f35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823656425
+        }
+    ],
     "wof:id":823656425,
-    "wof:lastmodified":1472613406,
+    "wof:lastmodified":1492054981,
     "wof:name":"Zwally Hauling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

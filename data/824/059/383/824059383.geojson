@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.528318,41.4609,-73.528318,41.4609",
     "geom:latitude":41.4609,
     "geom:longitude":-73.528318,
@@ -28,7 +29,13 @@
     "sg:postcode":"06812",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495953,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mrHdHdeqBzvwLgCbAD564_41.460900_-73.528318@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463453379,
     "wof:geomhash":"d92562cfa706f3889cc8dae3daf7070d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495953,
+            "region_id":85688629,
+            "venue_id":824059383
+        }
+    ],
     "wof:id":824059383,
-    "wof:lastmodified":1472612560,
+    "wof:lastmodified":1492040680,
     "wof:name":"Elmech Design LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

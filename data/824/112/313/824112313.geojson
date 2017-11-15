@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.2489,41.540723,-73.2489,41.540723",
     "geom:latitude":41.540723,
     "geom:longitude":-73.2489,
@@ -42,7 +43,10 @@
         "refrigerator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YlWEjoFpPGfz0lGPJwj0O_41.540723_-73.248900@1303262246"
@@ -50,11 +54,17 @@
     "wof:country":"US",
     "wof:created":1463454600,
     "wof:geomhash":"ab49a48bee23a332b97bdbf87e6f38c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":824112313
+        }
+    ],
     "wof:id":824112313,
-    "wof:lastmodified":1472613322,
+    "wof:lastmodified":1492022106,
     "wof:name":"Reliable Temperature System",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

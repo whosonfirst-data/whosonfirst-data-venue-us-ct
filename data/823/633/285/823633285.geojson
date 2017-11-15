@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.211351,41.391747,-73.211351,41.391747",
     "geom:latitude":41.391747,
     "geom:longitude":-73.211351,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_677aAuu1Mx4w1CqHGeCbmU_41.391747_-73.211351@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463442700,
     "wof:geomhash":"8d0a0dd5265eb87228fafd72a9b49b2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823633285
+        }
+    ],
     "wof:id":823633285,
-    "wof:lastmodified":1472613381,
+    "wof:lastmodified":1492029166,
     "wof:name":"Marblelife of Conneticut",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

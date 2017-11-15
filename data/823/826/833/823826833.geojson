@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.887841,41.305459,-72.887841,41.305459",
     "geom:latitude":41.305459,
     "geom:longitude":-72.887841,
@@ -28,7 +29,15 @@
     "sg:postcode":"06513",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555641,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pWLUXsFFIxd5FeKqjKFm2_41.305459_-72.887841@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463447512,
     "wof:geomhash":"021ce56e688a85f2a9c29e56891530dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":420555641,
+            "region_id":85688629,
+            "venue_id":823826833
+        }
+    ],
     "wof:id":823826833,
-    "wof:lastmodified":1472613836,
+    "wof:lastmodified":1492054817,
     "wof:name":"Missy 2 LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

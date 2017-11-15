@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.397183,41.737466,-73.397183,41.737466",
     "geom:latitude":41.737466,
     "geom:longitude":-73.397183,
@@ -32,7 +33,10 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555551
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bCtl0XbeyDV0FeziF0zkf_41.737466_-73.397183@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463439553,
     "wof:geomhash":"d3558050a184182983c094c6f8e7ddee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555551,
+            "venue_id":823498957
+        }
+    ],
     "wof:id":823498957,
-    "wof:lastmodified":1472613249,
+    "wof:lastmodified":1492027110,
     "wof:name":"Kugeman Village",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.642756,41.024587,-73.642756,41.024587",
     "geom:latitude":41.024587,
     "geom:longitude":-73.642756,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85885307,
+        102191575,
+        404495949,
         85633793,
         85930941,
         102084283,
-        85885307
+        85688629,
+        420555529
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,30 @@
     "wof:geomhash":"5fa3fe2295c841e00191c5af3cde24ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930941,
             "neighbourhood_id":85885307,
+            "region_id":85688629,
+            "venue_id":403719099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
             "region_id":85688629,
             "venue_id":403719099
         }
     ],
     "wof:id":403719099,
-    "wof:lastmodified":1472606509,
+    "wof:lastmodified":1492062327,
     "wof:name":"Xhema Remodeling Inc",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

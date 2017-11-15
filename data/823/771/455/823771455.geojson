@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.520129,41.056334,-73.520129,41.056334",
     "geom:latitude":41.056334,
     "geom:longitude":-73.520129,
@@ -31,7 +32,15 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oW6Mfr200g8UWXjmKAv4X_41.056334_-73.520129@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463445858,
     "wof:geomhash":"3baf333df67f7efdbb9f9442120f4658",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823771455
+        }
+    ],
     "wof:id":823771455,
-    "wof:lastmodified":1472613790,
+    "wof:lastmodified":1492029153,
     "wof:name":"Robert J Allen MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

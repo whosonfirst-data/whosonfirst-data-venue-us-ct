@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.185632,41.194848,-73.185632,41.194848",
     "geom:latitude":41.194848,
     "geom:longitude":-73.185632,
@@ -32,7 +33,15 @@
         "welfare"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6siBoLxHw386JBRjVZHdfI_41.194848_-73.185632@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463442849,
     "wof:geomhash":"f80ad57df3a27e9ed058a2b7a3675594",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823639813
+        }
+    ],
     "wof:id":823639813,
-    "wof:lastmodified":1472613416,
+    "wof:lastmodified":1492029221,
     "wof:name":"Regional Network Of Programs",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

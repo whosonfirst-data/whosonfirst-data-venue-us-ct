@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.558281,41.129985,-73.558281,41.129985",
     "geom:latitude":41.129985,
     "geom:longitude":-73.558281,
@@ -32,7 +33,15 @@
         "religious"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555525,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KAVu0yr2aeUmuBon7sumw_41.129985_-73.558281@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463446725,
     "wof:geomhash":"51f21e0cded948e03ebbb90c6f2fd119",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555525,
+            "region_id":85688629,
+            "venue_id":823800605
+        }
+    ],
     "wof:id":823800605,
-    "wof:lastmodified":1472613806,
+    "wof:lastmodified":1492029159,
     "wof:name":"Holy Spirit School",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

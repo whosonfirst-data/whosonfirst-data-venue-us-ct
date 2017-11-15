@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.656371,41.071096,-73.656371,41.071096",
     "geom:latitude":41.071096,
     "geom:longitude":-73.656371,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
         85633793,
-        85688629
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +47,16 @@
     "wof:geomhash":"e687aba99c467569e35a67ceb9b38eb9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "localadmin_id":404495949,
             "region_id":85688629,
             "venue_id":354147359
         }
     ],
     "wof:id":354147359,
-    "wof:lastmodified":1472606313,
+    "wof:lastmodified":1492029248,
     "wof:name":"Paul S Marchese & Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

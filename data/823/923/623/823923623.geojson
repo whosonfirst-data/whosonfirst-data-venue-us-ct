@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.13841,41.261008,-73.13841,41.261008",
     "geom:latitude":41.261008,
     "geom:longitude":-73.13841,
@@ -38,13 +39,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85839801,
+        420555503,
         102191575,
         404495965,
         85633793,
         85930791,
         102084283,
-        85688629
+        85688629,
+        85839801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +62,25 @@
             "county_id":102084283,
             "localadmin_id":404495965,
             "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":823923623
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
             "neighbourhood_id":85839801,
             "region_id":85688629,
             "venue_id":823923623
         }
     ],
     "wof:id":823923623,
-    "wof:lastmodified":1472613935,
+    "wof:lastmodified":1492069964,
     "wof:name":"Paxton Corporation",
-    "wof:parent_id":85839801,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

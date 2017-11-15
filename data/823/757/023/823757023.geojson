@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.343624,41.154452,-73.343624,41.154452",
     "geom:latitude":41.154452,
     "geom:longitude":-73.343624,
@@ -31,7 +32,15 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7eHUAlcs0GjJZOVrdhWOMw_41.154452_-73.343624@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463445560,
     "wof:geomhash":"05a70eca085d12f95ed904fb11390fb8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823757023
+        }
+    ],
     "wof:id":823757023,
-    "wof:lastmodified":1472613747,
+    "wof:lastmodified":1492029063,
     "wof:name":"Chldrens Athletic Training",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

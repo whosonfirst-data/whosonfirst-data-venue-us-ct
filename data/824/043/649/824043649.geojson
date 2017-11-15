@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.190497,41.199278,-73.190497,41.199278",
     "geom:latitude":41.199278,
     "geom:longitude":-73.190497,
@@ -28,7 +29,15 @@
     "sg:postcode":"06606",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AjQV1uLlaYVuEFHmf1nkj_41.199278_-73.190497@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463453015,
     "wof:geomhash":"edfcebd4d0e7ad72c3c5f03b4996611f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":824043649
+        }
+    ],
     "wof:id":824043649,
-    "wof:lastmodified":1472610261,
+    "wof:lastmodified":1492026885,
     "wof:name":"American Molded Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

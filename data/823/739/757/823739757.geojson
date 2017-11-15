@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.095662,41.370589,-73.095662,41.370589",
     "geom:latitude":41.370589,
     "geom:longitude":-73.095662,
@@ -31,7 +32,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495797,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5T0Je4JLPVbV4OV4KBxbcu_41.370589_-73.095662@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463445153,
     "wof:geomhash":"0fbe5c40ea1d423bbb758d82a5b78cc9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495797,
+            "region_id":85688629,
+            "venue_id":823739757
+        }
+    ],
     "wof:id":823739757,
-    "wof:lastmodified":1472613730,
+    "wof:lastmodified":1492027179,
     "wof:name":"Giordano Builders",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

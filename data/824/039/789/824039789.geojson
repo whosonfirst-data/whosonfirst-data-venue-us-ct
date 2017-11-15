@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.185532,41.201493,-73.185532,41.201493",
     "geom:latitude":41.201493,
     "geom:longitude":-73.185532,
@@ -29,7 +30,15 @@
     "sg:province":"CT",
     "sg:website":"www.famvision.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555443,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lhld6qU5elMkLk93dkp1q_41.201493_-73.185532@1294084077"
@@ -37,11 +46,22 @@
     "wof:country":"US",
     "wof:created":1463452927,
     "wof:geomhash":"fb1118f2a76594e4a05bc8d1d6453d18",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555443,
+            "region_id":85688629,
+            "venue_id":824039789
+        }
+    ],
     "wof:id":824039789,
-    "wof:lastmodified":1472612017,
+    "wof:lastmodified":1492068777,
     "wof:name":"Family Vision Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

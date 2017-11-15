@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.258856,41.410841,-73.258856,41.410841",
     "geom:latitude":41.410841,
     "geom:longitude":-73.258856,
@@ -32,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85805863,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JDq6rjhCF36Ym0hHGES1J_41.410841_-73.258856@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463445895,
     "wof:geomhash":"04784040a740799e2d9018aa22834aaa",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85805863,
-            "region_id":85688629,
-            "venue_id":823773003
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823773003,
-    "wof:lastmodified":1472613749,
+    "wof:lastmodified":1492044239,
     "wof:name":"Perfect Windows & Home Imprvs",
     "wof:parent_id":85805863,
     "wof:placetype":"venue",

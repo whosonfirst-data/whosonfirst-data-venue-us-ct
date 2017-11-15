@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.429465,41.581438,-73.429465,41.581438",
     "geom:latitude":41.581438,
     "geom:longitude":-73.429465,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809229,
-        102085375
+        102191575,
+        404496031,
+        85633793,
+        85931231,
+        102085375,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"f43f6a2affecbd092e88156c6c58b04a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085375,
+            "localadmin_id":404496031,
+            "locality_id":85931231,
             "neighbourhood_id":85809229,
             "region_id":85688629,
             "venue_id":823977323
         }
     ],
     "wof:id":823977323,
-    "wof:lastmodified":1472613912,
+    "wof:lastmodified":1492051883,
     "wof:name":"Alfred E Mitchell MD",
     "wof:parent_id":85809229,
     "wof:placetype":"venue",

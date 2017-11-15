@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.945703,41.343063,-72.945703,41.343063",
     "geom:latitude":41.343063,
     "geom:longitude":-72.945703,
@@ -34,9 +35,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85885309,
+        85879185,
         102086923,
-        85879185
+        85885309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,22 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85885309,
+            "neighbourhood_id":85879185,
             "region_id":85688629,
             "venue_id":823776529
         },
         {
             "country_id":85633793,
             "county_id":102086923,
-            "neighbourhood_id":85879185,
+            "neighbourhood_id":85885309,
             "region_id":85688629,
             "venue_id":823776529
         }
     ],
     "wof:id":823776529,
-    "wof:lastmodified":1472613812,
+    "wof:lastmodified":1492029200,
     "wof:name":"Regency Hills Condo Assoc Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

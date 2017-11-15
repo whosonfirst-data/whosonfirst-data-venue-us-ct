@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.093929,41.314767,-73.093929,41.314767",
     "geom:latitude":41.314767,
     "geom:longitude":-73.093929,
@@ -31,7 +32,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fNL0xzWjtaC6OoqCIjqQc_41.314767_-73.093929@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463439083,
     "wof:geomhash":"a858b841f095f7f9cb2deda1651c142f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823480207
+        }
+    ],
     "wof:id":823480207,
-    "wof:lastmodified":1472607444,
+    "wof:lastmodified":1492040682,
     "wof:name":"Cyr Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

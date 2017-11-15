@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.312629,41.236401,-73.312629,41.236401",
     "geom:latitude":41.236401,
     "geom:longitude":-73.312629,
@@ -28,12 +29,7 @@
     "sg:postcode":"06612",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85803807,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XL8MMHLvl5A5i1ire4JBa_41.236401_-73.312629@1294084077"
@@ -41,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1463451654,
     "wof:geomhash":"ad1365515c56d1af430f122db9bf6a4d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85803807,
-            "region_id":85688629,
-            "venue_id":823987101
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823987101,
-    "wof:lastmodified":1472613886,
+    "wof:lastmodified":1492027065,
     "wof:name":"Appraisers Assoc Conn & NY",
     "wof:parent_id":85803807,
     "wof:placetype":"venue",

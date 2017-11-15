@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.628614,41.136802,-73.628614,41.136802",
     "geom:latitude":41.136802,
     "geom:longitude":-73.628614,
@@ -32,8 +33,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85850923
+        85850923,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +44,15 @@
     "wof:geomhash":"09c539052ecf19efccb325f0588d8dbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85850923,
             "region_id":85688629,
             "venue_id":387223035
         }
     ],
     "wof:id":387223035,
-    "wof:lastmodified":1472606468,
+    "wof:lastmodified":1492040576,
     "wof:name":"Gould Supt",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",

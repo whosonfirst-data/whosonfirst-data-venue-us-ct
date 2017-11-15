@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.915517,41.376646,-72.915517,41.376646",
     "geom:latitude":41.376646,
     "geom:longitude":-72.915517,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        85850561,
-        102086923
+        85810171,
+        102086923,
+        85850561
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,22 @@
         {
             "country_id":85633793,
             "county_id":102086923,
+            "neighbourhood_id":85810171,
+            "region_id":85688629,
+            "venue_id":823875771
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086923,
             "neighbourhood_id":85850561,
             "region_id":85688629,
             "venue_id":823875771
         }
     ],
     "wof:id":823875771,
-    "wof:lastmodified":1472613956,
+    "wof:lastmodified":1492066331,
     "wof:name":"Goodwill Industries",
-    "wof:parent_id":85850561,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

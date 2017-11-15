@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.216032,41.194187,-73.216032,41.194187",
     "geom:latitude":41.194187,
     "geom:longitude":-73.216032,
@@ -32,7 +33,15 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555441,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CrOMlCQJuPaUuQi0K3i48_41.194187_-73.216032@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463446099,
     "wof:geomhash":"7dff5aae5adb60ed9cf881d6590f93e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555441,
+            "region_id":85688629,
+            "venue_id":823780375
+        }
+    ],
     "wof:id":823780375,
-    "wof:lastmodified":1472613788,
+    "wof:lastmodified":1492029070,
     "wof:name":"Elite Music Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.212475,41.566024,-73.212475,41.566024",
     "geom:latitude":41.566024,
     "geom:longitude":-73.212475,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xsG6sjvkWGfuYuxOBBucP_41.566024_-73.212475@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463443172,
     "wof:geomhash":"f0b845bfbcad80d951b46eb03cc629c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823653931
+        }
+    ],
     "wof:id":823653931,
-    "wof:lastmodified":1472613429,
+    "wof:lastmodified":1492040584,
     "wof:name":"Chris Clarks Custom Golf LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

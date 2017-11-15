@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.146319,41.256981,-73.146319,41.256981",
     "geom:latitude":41.256981,
     "geom:longitude":-73.146319,
@@ -31,7 +32,15 @@
         "operation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555503,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IK0TF5xSz7h7t3PMcsN3S_41.256981_-73.146319@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463440703,
     "wof:geomhash":"f6f83501bd92fd950b2ff7761a8874b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "neighbourhood_id":420555503,
+            "region_id":85688629,
+            "venue_id":823550107
+        }
+    ],
     "wof:id":823550107,
-    "wof:lastmodified":1472613294,
+    "wof:lastmodified":1492029074,
     "wof:name":"Homestead Vlg Guest Studios",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555503,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

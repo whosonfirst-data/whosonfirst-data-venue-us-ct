@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.214136,41.217351,-73.214136,41.217351",
     "geom:latitude":41.217351,
     "geom:longitude":-73.214136,
@@ -31,7 +32,15 @@
         "coin"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jt3ovQ0mEesYogLAr6qsO_41.217351_-73.214136@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463452547,
     "wof:geomhash":"44bad17bd280523ee9747d1ca7f2b1b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":824025327
+        }
+    ],
     "wof:id":824025327,
-    "wof:lastmodified":1472608997,
+    "wof:lastmodified":1492027133,
     "wof:name":"Main Street Coin Laundry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

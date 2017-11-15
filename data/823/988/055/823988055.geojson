@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218347,41.195623,-73.218347,41.195623",
     "geom:latitude":41.195623,
     "geom:longitude":-73.218347,
@@ -36,7 +37,15 @@
         "mover"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555441,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6myPKyQKst9enflYbxO9MO_41.195623_-73.218347@1294084077"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1463451675,
     "wof:geomhash":"7319f2bdce91b19436528aa4d4928eec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555441,
+            "region_id":85688629,
+            "venue_id":823988055
+        }
+    ],
     "wof:id":823988055,
-    "wof:lastmodified":1472613881,
+    "wof:lastmodified":1492027132,
     "wof:name":"J K Furniture Movers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

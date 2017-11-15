@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.626939,41.030389,-73.626939,41.030389",
     "geom:latitude":41.030389,
     "geom:longitude":-73.626939,
@@ -32,7 +33,15 @@
         "radiotelephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UoUMTwNoOKzFCngljBm7K_41.030389_-73.626939@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463445130,
     "wof:geomhash":"c81ada80cfaf4321f069613419efa020",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823738849
+        }
+    ],
     "wof:id":823738849,
-    "wof:lastmodified":1472613723,
+    "wof:lastmodified":1492029216,
     "wof:name":"CNK Wireless",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

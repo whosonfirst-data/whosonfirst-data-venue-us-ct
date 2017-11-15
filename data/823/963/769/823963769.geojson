@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.394384,41.379335,-73.394384,41.379335",
     "geom:latitude":41.379335,
     "geom:longitude":-73.394384,
@@ -30,10 +31,13 @@
     "sg:website":"www.bethel.k12.ct.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85821411,
+        102191575,
+        404495941,
         85633793,
-        85814701,
-        102084283
+        85930805,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,17 +48,20 @@
     "wof:geomhash":"04b2d08777c37d88199652d0369e338e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
-            "neighbourhood_id":85814701,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
             "region_id":85688629,
             "venue_id":823963769
         }
     ],
     "wof:id":823963769,
-    "wof:lastmodified":1472613945,
+    "wof:lastmodified":1492057962,
     "wof:name":"Ralph M T Johnson School",
-    "wof:parent_id":85814701,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

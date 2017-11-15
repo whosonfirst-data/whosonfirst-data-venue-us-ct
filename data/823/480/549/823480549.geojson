@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.121459,41.543688,-73.121459,41.543688",
     "geom:latitude":41.543688,
     "geom:longitude":-73.121459,
@@ -33,7 +34,10 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ekprB9Xk9BfS3UL6pNK5Q_41.543688_-73.121459@1294084077"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1463439089,
     "wof:geomhash":"924c754b48a5b168a7b0757465e3ed9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823480549
+        }
+    ],
     "wof:id":823480549,
-    "wof:lastmodified":1472608155,
+    "wof:lastmodified":1492019263,
     "wof:name":"Master Security Systems Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

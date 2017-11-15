@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.54861,41.132506,-73.54861,41.132506",
     "geom:latitude":41.132506,
     "geom:longitude":-73.54861,
@@ -34,7 +35,14 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eh8ef9aJX7VnVsvmKQiqk_41.132506_-73.548610@1294084077"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1463453128,
     "wof:geomhash":"c2f5ca924308d367e00ec02a91f1c4b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":824048285
+        }
+    ],
     "wof:id":824048285,
-    "wof:lastmodified":1472612778,
+    "wof:lastmodified":1492026924,
     "wof:name":"Brookdale Nursery School LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

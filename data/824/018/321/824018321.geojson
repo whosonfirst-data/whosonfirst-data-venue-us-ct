@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.15217,41.283249,-73.15217,41.283249",
     "geom:latitude":41.283249,
     "geom:longitude":-73.15217,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"ea664fae1eac59542675b23b62bd4e76",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":824018321
         }
     ],
     "wof:id":824018321,
-    "wof:lastmodified":1472608104,
+    "wof:lastmodified":1492054914,
     "wof:name":"Cutting Edge Communications",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218283,41.224328,-73.218283,41.224328",
     "geom:latitude":41.224328,
     "geom:longitude":-73.218283,
@@ -43,7 +44,15 @@
     ],
     "sg:website":"http://WWW.SHELBYMEDICALASSOC.COM",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57vRKU71xjgXS85GgA7eWB_41.224328_-73.218283@1303262246"
@@ -51,11 +60,22 @@
     "wof:country":"US",
     "wof:created":1463454542,
     "wof:geomhash":"01c892aef119bf13dc0aeb958bb599fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":824109357
+        }
+    ],
     "wof:id":824109357,
-    "wof:lastmodified":1472613299,
+    "wof:lastmodified":1492064958,
     "wof:name":"Alliance For Womens Health",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

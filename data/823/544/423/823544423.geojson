@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.421604,41.217104,-73.421604,41.217104",
     "geom:latitude":41.217104,
     "geom:longitude":-73.421604,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"93b01830da918ab00d000e1e6cf6c872",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":823544423
         }
     ],
     "wof:id":823544423,
-    "wof:lastmodified":1472613298,
+    "wof:lastmodified":1492055070,
     "wof:name":"Anne Fitzpatrick",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

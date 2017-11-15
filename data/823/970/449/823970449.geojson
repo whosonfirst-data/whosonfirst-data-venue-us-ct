@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.361709,41.16976,-73.361709,41.16976",
     "geom:latitude":41.16976,
     "geom:longitude":-73.361709,
@@ -28,7 +29,15 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QZf8oHLAbn0PcRlFNcFD9_41.169760_-73.361709@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463451266,
     "wof:geomhash":"4d89a738bfa5def3e651b5c46901de4a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823970449
+        }
+    ],
     "wof:id":823970449,
-    "wof:lastmodified":1472613932,
+    "wof:lastmodified":1492027109,
     "wof:name":"Grushkin Management Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

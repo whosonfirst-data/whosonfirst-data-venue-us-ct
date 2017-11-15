@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.495062,41.620658,-73.495062,41.620658",
     "geom:latitude":41.620658,
     "geom:longitude":-73.495062,
@@ -33,12 +34,7 @@
         "operates"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85833885,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JdpMAuRjvFYEbaymORu4D_41.620658_-73.495062@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463443897,
     "wof:geomhash":"b2a3dc9d9c560b5a044384ed1e968aa7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85833885,
-            "region_id":85688629,
-            "venue_id":823684969
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823684969,
-    "wof:lastmodified":1472613696,
+    "wof:lastmodified":1492055014,
     "wof:name":"N I S C O",
     "wof:parent_id":85833885,
     "wof:placetype":"venue",

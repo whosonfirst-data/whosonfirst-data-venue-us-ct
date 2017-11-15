@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.408616,41.478774,-73.408616,41.478774",
     "geom:latitude":41.478774,
     "geom:longitude":-73.408616,
@@ -38,7 +39,10 @@
     ],
     "sg:website":"http://www.robertlloydinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58M5e4lHYTtZLgpdKsHgkR_41.478774_-73.408616@1303262247"
@@ -46,11 +50,17 @@
     "wof:country":"US",
     "wof:created":1463454615,
     "wof:geomhash":"430c8a4df2f2112a24949860d86b56b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824112829
+        }
+    ],
     "wof:id":824112829,
-    "wof:lastmodified":1472613346,
+    "wof:lastmodified":1492070041,
     "wof:name":"Robert Lloyd Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

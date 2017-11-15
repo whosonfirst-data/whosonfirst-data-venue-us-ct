@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.168911,41.621098,-73.168911,41.621098",
     "geom:latitude":41.621098,
     "geom:longitude":-73.168911,
@@ -32,7 +33,12 @@
         "rewinding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816587,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mdeDeNpipQZhKb289AD20_41.621098_-73.168911@1294084077"
@@ -40,11 +46,19 @@
     "wof:country":"US",
     "wof:created":1463441356,
     "wof:geomhash":"764170e69e550fb7082155e05b9ccd3b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816587,
+            "region_id":85688629,
+            "venue_id":823577259
+        }
+    ],
     "wof:id":823577259,
-    "wof:lastmodified":1472613328,
+    "wof:lastmodified":1492061632,
     "wof:name":"Canfield Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

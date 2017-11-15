@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.187468,41.194711,-73.187468,41.194711",
     "geom:latitude":41.194711,
     "geom:longitude":-73.187468,
@@ -31,7 +32,15 @@
         "television"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555435,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BZKFmXgPW53hqiPusoVij_41.194711_-73.187468@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463446447,
     "wof:geomhash":"c2e5cfad605e4b027c087c5184b1c079",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555435,
+            "region_id":85688629,
+            "venue_id":823790883
+        }
+    ],
     "wof:id":823790883,
-    "wof:lastmodified":1472613838,
+    "wof:lastmodified":1492029224,
     "wof:name":"Cablevision Of Southern Ct",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

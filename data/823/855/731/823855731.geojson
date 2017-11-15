@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.496388,41.435365,-73.496388,41.435365",
     "geom:latitude":41.435365,
     "geom:longitude":-73.496388,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.stannmelkite.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fjEl4PNDoHkQCFmjoYMci_41.435365_-73.496388@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463448376,
     "wof:geomhash":"ac786a543324140c9523c157e5b29f66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823855731
+        }
+    ],
     "wof:id":823855731,
-    "wof:lastmodified":1472613824,
+    "wof:lastmodified":1492055143,
     "wof:name":"St Ann's Melkite Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

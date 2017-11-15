@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.055996,41.545812,-73.055996,41.545812",
     "geom:latitude":41.545812,
     "geom:longitude":-73.055996,
@@ -39,7 +40,8 @@
         85633793,
         85930889,
         102086923,
-        85688629
+        85688629,
+        85856379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,12 +60,22 @@
             "neighbourhood_id":85852453,
             "region_id":85688629,
             "venue_id":823797937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495803,
+            "locality_id":85930889,
+            "neighbourhood_id":85856379,
+            "region_id":85688629,
+            "venue_id":823797937
         }
     ],
     "wof:id":823797937,
-    "wof:lastmodified":1472613850,
+    "wof:lastmodified":1492068877,
     "wof:name":"Jet A Way Charters",
-    "wof:parent_id":85852453,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

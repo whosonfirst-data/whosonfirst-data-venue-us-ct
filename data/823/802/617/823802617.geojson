@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.2183,41.224499,-73.2183,41.224499",
     "geom:latitude":41.224499,
     "geom:longitude":-73.2183,
@@ -31,7 +32,15 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EYbOZ5z2HjPcTcr1PInX1_41.224499_-73.218300@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463446771,
     "wof:geomhash":"3cf06eb80130a072c294a3f122621031",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823802617
+        }
+    ],
     "wof:id":823802617,
-    "wof:lastmodified":1472613806,
+    "wof:lastmodified":1492029131,
     "wof:name":"Oronoque Painting & Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

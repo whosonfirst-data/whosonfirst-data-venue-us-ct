@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.114941,41.170774,-73.114941,41.170774",
     "geom:latitude":41.170774,
     "geom:longitude":-73.114941,
@@ -31,7 +32,14 @@
         "accountant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5txwxFnYowAMrH3BumhwtG_41.170774_-73.114941@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463445561,
     "wof:geomhash":"e508eb34a4f4ca8d281b79d8c0edf3b2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823757073
+        }
+    ],
     "wof:id":823757073,
-    "wof:lastmodified":1472613749,
+    "wof:lastmodified":1492029183,
     "wof:name":"Victor B Lozinak CPA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.430176,41.097523,-73.430176,41.097523",
     "geom:latitude":41.097523,
     "geom:longitude":-73.430176,
@@ -36,7 +37,15 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555515,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F2WuSOfEGw09RBgTozKsA_41.097523_-73.430176@1294084077"
@@ -44,11 +53,22 @@
     "wof:country":"US",
     "wof:created":1463439132,
     "wof:geomhash":"30e2c033b73947c5edd61b1841881cc6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420555515,
+            "region_id":85688629,
+            "venue_id":823482227
+        }
+    ],
     "wof:id":823482227,
-    "wof:lastmodified":1472608154,
+    "wof:lastmodified":1492055068,
     "wof:name":"Williams Expert Tree Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

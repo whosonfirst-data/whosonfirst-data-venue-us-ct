@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.385979,41.39508,-73.385979,41.39508",
     "geom:latitude":41.39508,
     "geom:longitude":-73.385979,
@@ -31,12 +32,7 @@
         "carpenter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fekL5eAUnKnKKBYfeMVB6_41.395080_-73.385979@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463453522,
     "wof:geomhash":"fdb1e6c1db22af6a2a8d81300cabeab7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":824066171
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":824066171,
-    "wof:lastmodified":1472611788,
+    "wof:lastmodified":1492051657,
     "wof:name":"Pride Carpentry",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

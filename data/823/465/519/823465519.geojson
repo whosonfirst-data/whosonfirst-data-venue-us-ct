@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.658092,41.003997,-73.658092,41.003997",
     "geom:latitude":41.003997,
     "geom:longitude":-73.658092,
@@ -28,7 +29,14 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60Obc01TpJYB8VTQzxZnx6_41.003997_-73.658092@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463438734,
     "wof:geomhash":"01373d8f785f987f4915868cb06db259",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823465519
+        }
+    ],
     "wof:id":823465519,
-    "wof:lastmodified":1472608504,
+    "wof:lastmodified":1492055095,
     "wof:name":"Roly Poly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

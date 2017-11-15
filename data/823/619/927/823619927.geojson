@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.381976,41.376556,-73.381976,41.376556",
     "geom:latitude":41.376556,
     "geom:longitude":-73.381976,
@@ -32,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FSzBJ6f0J1sycvdymbrsl_41.376556_-73.381976@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463442400,
     "wof:geomhash":"d5e251c04bd67c6bb75118a20229891f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823619927
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823619927,
-    "wof:lastmodified":1472613440,
+    "wof:lastmodified":1492027103,
     "wof:name":"Bruce Pierce Construction",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.409282,41.481337,-73.409282,41.481337",
     "geom:latitude":41.481337,
     "geom:longitude":-73.409282,
@@ -60,7 +61,10 @@
         "patio"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HKrgLKSiyHHaZiamULbVq_41.481337_-73.409282@1303262247"
@@ -68,11 +72,17 @@
     "wof:country":"US",
     "wof:created":1463454618,
     "wof:geomhash":"50883ae9b5db68607ce6c0665eb9d40f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824112951
+        }
+    ],
     "wof:id":824112951,
-    "wof:lastmodified":1472613347,
+    "wof:lastmodified":1492070041,
     "wof:name":"Gotta Guy Management",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

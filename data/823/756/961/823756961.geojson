@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.328208,41.219237,-73.328208,41.219237",
     "geom:latitude":41.219237,
     "geom:longitude":-73.328208,
@@ -32,12 +33,7 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85803807,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69CnO2ezH5wsjdEHDaFyoY_41.219237_-73.328208@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463445554,
     "wof:geomhash":"3f09720d0f07b86c64456b98567b5566",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85803807,
-            "region_id":85688629,
-            "venue_id":823756961
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823756961,
-    "wof:lastmodified":1472613743,
+    "wof:lastmodified":1492027073,
     "wof:name":"Tax Doctor Inc",
     "wof:parent_id":85803807,
     "wof:placetype":"venue",

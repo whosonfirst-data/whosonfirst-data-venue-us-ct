@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.173199,41.499172,-73.173199,41.499172",
     "geom:latitude":41.499172,
     "geom:longitude":-73.173199,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Mqg5FWt6BppOHRvHUoJXD_41.499172_-73.173199@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463442086,
     "wof:geomhash":"ebee98e7037536298a65c582ea07f540",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823607941
+        }
+    ],
     "wof:id":823607941,
-    "wof:lastmodified":1472613420,
+    "wof:lastmodified":1492027001,
     "wof:name":"Hirsch Landworks LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.201233,41.174464,-73.201233,41.174464",
     "geom:latitude":41.174464,
     "geom:longitude":-73.201233,
@@ -32,13 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85876491,
+        85876483,
         102191575,
         404495939,
         85633793,
         85930811,
         102084283,
-        85688629
+        85688629,
+        85876491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +56,25 @@
             "county_id":102084283,
             "localadmin_id":404495939,
             "locality_id":85930811,
+            "neighbourhood_id":85876483,
+            "region_id":85688629,
+            "venue_id":823829127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
             "neighbourhood_id":85876491,
             "region_id":85688629,
             "venue_id":823829127
         }
     ],
     "wof:id":823829127,
-    "wof:lastmodified":1472613754,
+    "wof:lastmodified":1492032093,
     "wof:name":"Temple Bathleham Of Shem Msn",
-    "wof:parent_id":85876491,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

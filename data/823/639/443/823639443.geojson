@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.122061,41.226463,-73.122061,41.226463",
     "geom:latitude":41.226463,
     "geom:longitude":-73.122061,
@@ -31,7 +32,14 @@
         "copier"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495857,
+        85633793,
+        85930997,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XhJmNDrlI1nEYujow55Ws_41.226463_-73.122061@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463442842,
     "wof:geomhash":"110cd6c63a41f1aed3ac3887b01b81b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495857,
+            "locality_id":85930997,
+            "region_id":85688629,
+            "venue_id":823639443
+        }
+    ],
     "wof:id":823639443,
-    "wof:lastmodified":1472613404,
+    "wof:lastmodified":1492054993,
     "wof:name":"Brk Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

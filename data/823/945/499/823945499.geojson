@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.10902,41.546929,-73.10902,41.546929",
     "geom:latitude":41.546929,
     "geom:longitude":-73.10902,
@@ -28,7 +29,10 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MVZsObpXyw0LnzOvoPytV_41.546929_-73.109020@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463450666,
     "wof:geomhash":"a7332d5a9b6f97717302fd454bc2a7d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823945499
+        }
+    ],
     "wof:id":823945499,
-    "wof:lastmodified":1472613917,
+    "wof:lastmodified":1492027028,
     "wof:name":"Skabardonis Development LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

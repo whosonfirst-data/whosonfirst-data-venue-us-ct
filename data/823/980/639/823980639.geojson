@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.513962,41.429962,-73.513962,41.429962",
     "geom:latitude":41.429962,
     "geom:longitude":-73.513962,
@@ -28,7 +29,14 @@
     "sg:postcode":"06811",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4amrZQO3EpJsKUkuY9kbT5_41.429962_-73.513962@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463451499,
     "wof:geomhash":"134c4f21268c1bbbd5cea0adce2aceec",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823980639
+        }
+    ],
     "wof:id":823980639,
-    "wof:lastmodified":1472613938,
+    "wof:lastmodified":1492055146,
     "wof:name":"Lars A Wallin Coml Real Estate",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

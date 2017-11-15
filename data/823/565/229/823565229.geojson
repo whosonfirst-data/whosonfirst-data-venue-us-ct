@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.370015,41.09652,-73.370015,41.09652",
     "geom:latitude":41.09652,
     "geom:longitude":-73.370015,
@@ -31,7 +32,15 @@
         "dietitian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555513,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eIBcrFrSV9hsa51ckcHtv_41.096520_-73.370015@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463441067,
     "wof:geomhash":"8a732478dc1abba53c57271fca25cb69",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555513,
+            "region_id":85688629,
+            "venue_id":823565229
+        }
+    ],
     "wof:id":823565229,
-    "wof:lastmodified":1472613324,
+    "wof:lastmodified":1492029120,
     "wof:name":"Nancy Ferriello",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

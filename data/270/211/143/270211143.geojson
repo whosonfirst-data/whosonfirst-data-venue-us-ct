@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.484637,41.147334,-73.484637,41.147334",
     "geom:latitude":41.147334,
     "geom:longitude":-73.484637,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"cb8d5e134508399939c29f2b9ec33ba4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":270211143
         }
     ],
     "wof:id":270211143,
-    "wof:lastmodified":1472606296,
+    "wof:lastmodified":1492055060,
     "wof:name":"Harrison J Pierce MD",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

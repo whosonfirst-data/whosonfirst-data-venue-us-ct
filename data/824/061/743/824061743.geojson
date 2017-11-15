@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.431057,41.440649,-73.431057,41.440649",
     "geom:latitude":41.440649,
     "geom:longitude":-73.431057,
@@ -42,13 +43,14 @@
     "sg:website":"www.testarefrigeration.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        85633793,
+        85829875,
+        102084283,
         85805151,
         102191575,
         404495941,
-        85633793,
-        85930805,
-        102084283,
-        85688629
+        85930805
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,6 +60,13 @@
     "wof:created":1463453427,
     "wof:geomhash":"8ab9816a644f130418abed36d54c8704",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084283,
+            "neighbourhood_id":85829875,
+            "region_id":85688629,
+            "venue_id":824061743
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,9 +79,9 @@
         }
     ],
     "wof:id":824061743,
-    "wof:lastmodified":1472613251,
+    "wof:lastmodified":1492070040,
     "wof:name":"Testa Refrigeration LLC",
-    "wof:parent_id":85805151,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

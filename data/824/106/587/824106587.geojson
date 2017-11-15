@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092149,41.363825,-73.092149,41.363825",
     "geom:latitude":41.363825,
     "geom:longitude":-73.092149,
@@ -38,7 +39,13 @@
     ],
     "sg:website":"http://www.carsonlocation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495797,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32nfsGzS2hXpabCBtzN38f_41.363825_-73.092149@1303262246"
@@ -46,9 +53,18 @@
     "wof:country":"US",
     "wof:created":1463454478,
     "wof:geomhash":"95c2f4c67b2d3530e48fe9dc540fec06",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495797,
+            "region_id":85688629,
+            "venue_id":824106587
+        }
+    ],
     "wof:id":824106587,
-    "wof:lastmodified":1472613285,
+    "wof:lastmodified":1492046405,
     "wof:name":"Cars On Location",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

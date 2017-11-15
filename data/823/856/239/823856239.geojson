@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.305045,41.246524,-73.305045,41.246524",
     "geom:latitude":41.246524,
     "geom:longitude":-73.305045,
@@ -31,12 +32,7 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85803807,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pfm0V72VZYsTb31yUIROb_41.246524_-73.305045@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463448388,
     "wof:geomhash":"06a1a422e9bde9c6e645e3d8b5677f29",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85803807,
-            "region_id":85688629,
-            "venue_id":823856239
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823856239,
-    "wof:lastmodified":1472613779,
+    "wof:lastmodified":1492057968,
     "wof:name":"Old Academy Nursery School",
     "wof:parent_id":85803807,
     "wof:placetype":"venue",

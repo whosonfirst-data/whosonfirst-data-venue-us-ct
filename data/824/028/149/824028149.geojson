@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.102732,41.602644,-73.102732,41.602644",
     "geom:latitude":41.602644,
     "geom:longitude":-73.102732,
@@ -31,7 +32,15 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555637,
+        102191575,
+        404496051,
+        85633793,
+        85931179,
+        102085375,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VSHbT3bd5dqK26pdh91Qx_41.602644_-73.102732@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463452621,
     "wof:geomhash":"bd31a386205254c473461cafcc5311af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496051,
+            "locality_id":85931179,
+            "neighbourhood_id":420555637,
+            "region_id":85688629,
+            "venue_id":824028149
+        }
+    ],
     "wof:id":824028149,
-    "wof:lastmodified":1472608830,
+    "wof:lastmodified":1492027031,
     "wof:name":"Perfect Touch Catering LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

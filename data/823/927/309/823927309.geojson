@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.108127,41.525616,-73.108127,41.525616",
     "geom:latitude":41.525616,
     "geom:longitude":-73.108127,
@@ -32,7 +33,13 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Zn6G7JPON49Bi5JKYg5Ky_41.525616_-73.108127@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463450184,
     "wof:geomhash":"6788a8c056a1e31cf24d383b60570564",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823927309
+        }
+    ],
     "wof:id":823927309,
-    "wof:lastmodified":1472613900,
+    "wof:lastmodified":1492027168,
     "wof:name":"Unimin Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

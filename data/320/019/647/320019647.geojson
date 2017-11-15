@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.49221,41.147042,-73.49221,41.147042",
     "geom:latitude":41.147042,
     "geom:longitude":-73.49221,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"db2e3eefbbef7fa673517115ac47d4fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":320019647
         }
     ],
     "wof:id":320019647,
-    "wof:lastmodified":1472606404,
+    "wof:lastmodified":1492055060,
     "wof:name":"Getabout Inc",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.520799,41.438203,-73.520799,41.438203",
     "geom:latitude":41.438203,
     "geom:longitude":-73.520799,
@@ -28,7 +29,14 @@
     "sg:postcode":"06811",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495941,
+        85633793,
+        85930805,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JK0ky0tlIlmAnqbQCgHWU_41.438203_-73.520799@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463451020,
     "wof:geomhash":"e96754a2e338c3371abdca739335c3e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "region_id":85688629,
+            "venue_id":823959545
+        }
+    ],
     "wof:id":823959545,
-    "wof:lastmodified":1472613953,
+    "wof:lastmodified":1492055146,
     "wof:name":"Happy Party To You",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

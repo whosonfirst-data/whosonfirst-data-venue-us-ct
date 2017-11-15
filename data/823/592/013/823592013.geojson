@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.26181,41.507006,-73.26181,41.507006",
     "geom:latitude":41.507006,
     "geom:longitude":-73.26181,
@@ -32,7 +33,13 @@
     ],
     "sg:website":"www.fltplan.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UT5767UtKvKRQ3zETxDT7_41.507006_-73.261810@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463441692,
     "wof:geomhash":"375bee5f6bac5d1299fef5d573be9f2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823592013
+        }
+    ],
     "wof:id":823592013,
-    "wof:lastmodified":1472613365,
+    "wof:lastmodified":1492029201,
     "wof:name":"Flt Plan",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

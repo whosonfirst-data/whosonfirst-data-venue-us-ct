@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.432583,41.533751,-73.432583,41.533751",
     "geom:latitude":41.533751,
     "geom:longitude":-73.432583,
@@ -33,12 +34,7 @@
         "care"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85809223,
-        102085375
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iC51NZ7idOojOAfsph2Z6_41.533751_-73.432583@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463441391,
     "wof:geomhash":"293826746c1866d932624e60043d7cc2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085375,
-            "neighbourhood_id":85809223,
-            "region_id":85688629,
-            "venue_id":823578681
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823578681,
-    "wof:lastmodified":1472613353,
+    "wof:lastmodified":1492051878,
     "wof:name":"Hill and Plain Elementary Schl",
     "wof:parent_id":85809223,
     "wof:placetype":"venue",

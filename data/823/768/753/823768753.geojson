@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.658803,40.995275,-73.658803,40.995275",
     "geom:latitude":40.995275,
     "geom:longitude":-73.658803,
@@ -28,7 +29,14 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ocA3cMOcd8vfXkZdC1qTw_40.995275_-73.658803@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463445794,
     "wof:geomhash":"ff9158d6403b06984a365907e811d18a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823768753
+        }
+    ],
     "wof:id":823768753,
-    "wof:lastmodified":1472613820,
+    "wof:lastmodified":1492062331,
     "wof:name":"Varadys Boatyard LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

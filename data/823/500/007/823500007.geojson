@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.092122,41.192794,-73.092122,41.192794",
     "geom:latitude":41.192794,
     "geom:longitude":-73.092122,
@@ -28,7 +29,15 @@
     "sg:postcode":"06460",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555633,
+        102191575,
+        404495783,
+        85633793,
+        85930905,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22jImSZWlIVG1E79ruOH5u_41.192794_-73.092122@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463439574,
     "wof:geomhash":"46034909cfebe598091882233706f07a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495783,
+            "locality_id":85930905,
+            "neighbourhood_id":420555633,
+            "region_id":85688629,
+            "venue_id":823500007
+        }
+    ],
     "wof:id":823500007,
-    "wof:lastmodified":1472610390,
+    "wof:lastmodified":1492054968,
     "wof:name":"Marks Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

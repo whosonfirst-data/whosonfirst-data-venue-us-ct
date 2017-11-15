@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.14938,41.645522,-73.14938,41.645522",
     "geom:latitude":41.645522,
     "geom:longitude":-73.14938,
@@ -28,7 +29,12 @@
     "sg:postcode":"06795",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85816587,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TE07Zh9t3vXgkeMy6oxz3_41.645522_-73.149380@1294084077"
@@ -36,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1463440731,
     "wof:geomhash":"60bdb0c08c94245ab995951c9a2a97ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85816587,
+            "region_id":85688629,
+            "venue_id":823551343
+        }
+    ],
     "wof:id":823551343,
-    "wof:lastmodified":1472613342,
+    "wof:lastmodified":1492055086,
     "wof:name":"Todd E Hinman Restoration",
-    "wof:parent_id":-1,
+    "wof:parent_id":85816587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

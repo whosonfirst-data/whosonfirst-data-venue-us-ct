@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.310359,41.130792,-73.310359,41.130792",
     "geom:latitude":41.130792,
     "geom:longitude":-73.310359,
@@ -28,7 +29,14 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4CVeAek4iHOrgi2GzpmSb8_41.130792_-73.310359@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463451237,
     "wof:geomhash":"2ff6868743d97a018e062151f2078a64",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "region_id":85688629,
+            "venue_id":823969099
+        }
+    ],
     "wof:id":823969099,
-    "wof:lastmodified":1472613866,
+    "wof:lastmodified":1492027154,
     "wof:name":"Anthony Casabianca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.231655,41.235924,-73.231655,41.235924",
     "geom:latitude":41.235924,
     "geom:longitude":-73.231655,
@@ -31,7 +32,15 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555493,
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rBaG3PwFsl85rYdaD2XcW_41.235924_-73.231655@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463445586,
     "wof:geomhash":"01a1811c78c62117104d9cb4dd598c88",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
+            "neighbourhood_id":420555493,
+            "region_id":85688629,
+            "venue_id":823758467
+        }
+    ],
     "wof:id":823758467,
-    "wof:lastmodified":1472613768,
+    "wof:lastmodified":1492061801,
     "wof:name":"Zyg Computer Consulting",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

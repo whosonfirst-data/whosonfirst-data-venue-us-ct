@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.218222,41.223185,-73.218222,41.223185",
     "geom:latitude":41.223185,
     "geom:longitude":-73.218222,
@@ -31,7 +32,15 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555437,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Gg5rqWbDdYnrxYKYCmSIo_41.223185_-73.218222@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463451003,
     "wof:geomhash":"42e48d395500b748d3b3f887536b2af7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555437,
+            "region_id":85688629,
+            "venue_id":823959127
+        }
+    ],
     "wof:id":823959127,
-    "wof:lastmodified":1472613899,
+    "wof:lastmodified":1492066777,
     "wof:name":"Stop Shop 670",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

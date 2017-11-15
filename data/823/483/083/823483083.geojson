@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.561844,41.065531,-73.561844,41.065531",
     "geom:latitude":41.065531,
     "geom:longitude":-73.561844,
@@ -31,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555527,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AR4ebXXaQ7pSzP4HDUzJ9_41.065531_-73.561844@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463439147,
     "wof:geomhash":"7c43de5a63132f5d2675a97a3267ef80",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555527,
+            "region_id":85688629,
+            "venue_id":823483083
+        }
+    ],
     "wof:id":823483083,
-    "wof:lastmodified":1472607437,
+    "wof:lastmodified":1492029133,
     "wof:name":"Remoundos Associates",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

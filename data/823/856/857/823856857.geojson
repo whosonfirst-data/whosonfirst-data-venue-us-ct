@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.349813,41.426539,-73.349813,41.426539",
     "geom:latitude":41.426539,
     "geom:longitude":-73.349813,
@@ -32,12 +33,7 @@
         "collection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Wbz7KKm92tbJ6xDjd3WuA_41.426539_-73.349813@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463448411,
     "wof:geomhash":"48ab333441d06495dda894a6b9215e80",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823856857
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823856857,
-    "wof:lastmodified":1472613840,
+    "wof:lastmodified":1492026980,
     "wof:name":"P & G Sanitation",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

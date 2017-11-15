@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.627504,41.03188,-73.627504,41.03188",
     "geom:latitude":41.03188,
     "geom:longitude":-73.627504,
@@ -34,7 +35,15 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MCQyYZDl8XkQIpRnqDIOo_41.031880_-73.627504@1294084077"
@@ -42,11 +51,22 @@
     "wof:country":"US",
     "wof:created":1463443959,
     "wof:geomhash":"3bb18076f50f75dfde7b1db2f40d83df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823687361
+        }
+    ],
     "wof:id":823687361,
-    "wof:lastmodified":1472613676,
+    "wof:lastmodified":1492029215,
     "wof:name":"Comer Group Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

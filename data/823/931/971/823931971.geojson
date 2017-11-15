@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.379603,41.377567,-73.379603,41.377567",
     "geom:latitude":41.377567,
     "geom:longitude":-73.379603,
@@ -38,12 +39,7 @@
         "butler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O2yETiDlh5ey9vgwQxTIa_41.377567_-73.379603@1294084077"
@@ -51,17 +47,9 @@
     "wof:country":"US",
     "wof:created":1463450306,
     "wof:geomhash":"92dafbbada4c51ca76346e9aef03d997",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823931971
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823931971,
-    "wof:lastmodified":1472613953,
+    "wof:lastmodified":1492057978,
     "wof:name":"Spotless Cleaning Service",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

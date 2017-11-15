@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.655181,41.06852,-73.655181,41.06852",
     "geom:latitude":41.06852,
     "geom:longitude":-73.655181,
@@ -31,7 +32,13 @@
         "investor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Jcnv7Ce5AKcb9NcwL9VMN_41.068520_-73.655181@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463449941,
     "wof:geomhash":"ff5b208bb6ccf6a5bae6831ea04d961f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823917475
+        }
+    ],
     "wof:id":823917475,
-    "wof:lastmodified":1472613940,
+    "wof:lastmodified":1492055127,
     "wof:name":"Renaissance Investors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

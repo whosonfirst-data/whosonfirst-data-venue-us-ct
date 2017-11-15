@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.357917,41.183242,-73.357917,41.183242",
     "geom:latitude":41.183242,
     "geom:longitude":-73.357917,
@@ -32,7 +33,15 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555509,
+        102191575,
+        404495861,
+        85633793,
+        85930969,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qbTpBk97Cf1BncH0pW1Gw_41.183242_-73.357917@1294084077"
@@ -40,11 +49,22 @@
     "wof:country":"US",
     "wof:created":1463447956,
     "wof:geomhash":"e6eb64b294d832b6c653e49092f13fd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495861,
+            "locality_id":85930969,
+            "neighbourhood_id":420555509,
+            "region_id":85688629,
+            "venue_id":823840723
+        }
+    ],
     "wof:id":823840723,
-    "wof:lastmodified":1472613819,
+    "wof:lastmodified":1492051890,
     "wof:name":"Financial Mkts Cnsulting Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555509,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

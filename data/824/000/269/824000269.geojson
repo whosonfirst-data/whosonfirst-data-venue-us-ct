@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.204671,41.313939,-73.204671,41.313939",
     "geom:latitude":41.313939,
     "geom:longitude":-73.204671,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"376 Moose Hill Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -29,29 +31,36 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
+    "wof:brand_id":1125159737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10Eb2ln74LKAYENyk6csyW_41.313939_-73.204671@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451992,
-    "wof:geomhash":"35f145f9ad8b47a2609ce118aa38aedc",
+    "wof:geomhash":"1a4096a1421f33c5bf287989cd66e00f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":824000269
         }
     ],
     "wof:id":824000269,
-    "wof:lastmodified":1472606663,
+    "wof:lastmodified":1510698012,
     "wof:name":"United States Power Squad",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.656464,41.001571,-73.656464,41.001571",
     "geom:latitude":41.001571,
     "geom:longitude":-73.656464,
@@ -31,7 +32,14 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YW8GjjSnSj1Ktb0ErGSOP_41.001571_-73.656464@1294084077"
@@ -39,9 +47,19 @@
     "wof:country":"US",
     "wof:created":1463451220,
     "wof:geomhash":"761d9f5b8e4c1b29978e6050ed151eb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823968373
+        }
+    ],
     "wof:id":823968373,
-    "wof:lastmodified":1472613910,
+    "wof:lastmodified":1492081945,
     "wof:name":"Benford Barber Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

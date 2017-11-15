@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.194154,41.220932,-73.194154,41.220932",
     "geom:latitude":41.220932,
     "geom:longitude":-73.194154,
@@ -31,7 +32,15 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555445,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LZBbvHrUBSQIY4DjRyWNi_41.220932_-73.194154@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463439178,
     "wof:geomhash":"f9a48b53621f43c37a251cf7d0932c53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555445,
+            "region_id":85688629,
+            "venue_id":823484527
+        }
+    ],
     "wof:id":823484527,
-    "wof:lastmodified":1472608447,
+    "wof:lastmodified":1492068781,
     "wof:name":"Project Learn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

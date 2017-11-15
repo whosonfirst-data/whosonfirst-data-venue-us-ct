@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.475781,41.206548,-73.475781,41.206548",
     "geom:latitude":41.206548,
     "geom:longitude":-73.475781,
@@ -31,7 +32,13 @@
         "container"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495863,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ii49Jv5Oe4GlggQeUSuyR_41.206548_-73.475781@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463441455,
     "wof:geomhash":"83a2d91f4b6988d2c816f8b2c6bd76b3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495863,
+            "region_id":85688629,
+            "venue_id":823581451
+        }
+    ],
     "wof:id":823581451,
-    "wof:lastmodified":1472613343,
+    "wof:lastmodified":1492029113,
     "wof:name":"J C Refuse Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

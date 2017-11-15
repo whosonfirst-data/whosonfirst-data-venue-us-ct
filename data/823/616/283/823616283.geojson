@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.596951,41.114629,-73.596951,41.114629",
     "geom:latitude":41.114629,
     "geom:longitude":-73.596951,
@@ -32,7 +33,14 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HobgPvBE8RZ69omJchBx2_41.114629_-73.596951@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463442305,
     "wof:geomhash":"3b635f03b84ed35f4185773ebeeedfe5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "region_id":85688629,
+            "venue_id":823616283
+        }
+    ],
     "wof:id":823616283,
-    "wof:lastmodified":1472613366,
+    "wof:lastmodified":1492029037,
     "wof:name":"Colorcast Video",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

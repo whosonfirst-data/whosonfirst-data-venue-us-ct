@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.40722,41.461445,-73.40722,41.461445",
     "geom:latitude":41.461445,
     "geom:longitude":-73.40722,
@@ -32,7 +33,10 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6XmyXHI20gZB9z7lL96Ej7_41.461445_-73.407220@1294084077"
@@ -40,11 +44,17 @@
     "wof:country":"US",
     "wof:created":1463448523,
     "wof:geomhash":"d19ed03ae271ccb2a30554352384c221",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823861219
+        }
+    ],
     "wof:id":823861219,
-    "wof:lastmodified":1472613776,
+    "wof:lastmodified":1492051714,
     "wof:name":"Wesley A Elwood",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

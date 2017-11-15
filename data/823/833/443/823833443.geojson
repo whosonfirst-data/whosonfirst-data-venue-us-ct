@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.352022,41.378858,-73.352022,41.378858",
     "geom:latitude":41.378858,
     "geom:longitude":-73.352022,
@@ -32,12 +33,7 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85814701,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nkX66jYPoimC31FgxqlUy_41.378858_-73.352022@1294084077"
@@ -45,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1463447695,
     "wof:geomhash":"55524a6e6d4e73e6a1d4a4f8962ee61e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85814701,
-            "region_id":85688629,
-            "venue_id":823833443
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823833443,
-    "wof:lastmodified":1472613804,
+    "wof:lastmodified":1492057976,
     "wof:name":"College Recruiting Inc",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",

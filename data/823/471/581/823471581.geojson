@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.403768,41.512567,-73.403768,41.512567",
     "geom:latitude":41.512567,
     "geom:longitude":-73.403768,
@@ -28,7 +29,12 @@
     "sg:postcode":"06776",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        85633793,
+        85829729,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p1fdupnngTFflJMiJVmFu_41.512567_-73.403768@1294084077"
@@ -36,11 +42,19 @@
     "wof:country":"US",
     "wof:created":1463438865,
     "wof:geomhash":"82fa5a0c0e4520e3ddcaa245e8a55ffb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085375,
+            "neighbourhood_id":85829729,
+            "region_id":85688629,
+            "venue_id":823471581
+        }
+    ],
     "wof:id":823471581,
-    "wof:lastmodified":1472608010,
+    "wof:lastmodified":1492070032,
     "wof:name":"Housatonic Home Inspection",
-    "wof:parent_id":-1,
+    "wof:parent_id":85829729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

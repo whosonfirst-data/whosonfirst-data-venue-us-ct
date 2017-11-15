@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.318404,41.229197,-73.318404,41.229197",
     "geom:latitude":41.229197,
     "geom:longitude":-73.318404,
@@ -33,12 +34,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85803807,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Jg1uWqaosxiQnqcWsRfN2_41.229197_-73.318404@1294084077"
@@ -46,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1463443067,
     "wof:geomhash":"84a43294d99986845a1548eb16464ffd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85803807,
-            "region_id":85688629,
-            "venue_id":823649263
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823649263,
-    "wof:lastmodified":1472613405,
+    "wof:lastmodified":1492029127,
     "wof:name":"Old Blue Bird Garage Inc",
     "wof:parent_id":85803807,
     "wof:placetype":"venue",

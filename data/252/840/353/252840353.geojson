@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.46744,41.120975,-73.46744,41.120975",
     "geom:latitude":41.120975,
     "geom:longitude":-73.46744,
@@ -39,11 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85856029,
+        102191575,
+        404495959,
         85633793,
         85930795,
         102084283,
-        85856029
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,9 +56,10 @@
     "wof:geomhash":"7178f2e979617dcf0296c20af6e7ec8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495959,
             "locality_id":85930795,
             "neighbourhood_id":85856029,
             "region_id":85688629,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":252840353,
-    "wof:lastmodified":1472606240,
+    "wof:lastmodified":1492029098,
     "wof:name":"Aqua Pro Pools",
     "wof:parent_id":85856029,
     "wof:placetype":"venue",

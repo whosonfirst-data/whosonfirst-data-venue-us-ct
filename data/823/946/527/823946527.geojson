@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.123789,41.532293,-73.123789,41.532293",
     "geom:latitude":41.532293,
     "geom:longitude":-73.123789,
@@ -33,7 +34,10 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555615
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71dbkQMBrXNiDUpa0qn1l6_41.532293_-73.123789@1294084077"
@@ -41,11 +45,17 @@
     "wof:country":"US",
     "wof:created":1463450702,
     "wof:geomhash":"ad1ad154651377e153aabc1ced4c1ef3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555615,
+            "venue_id":823946527
+        }
+    ],
     "wof:id":823946527,
-    "wof:lastmodified":1472613935,
+    "wof:lastmodified":1492027028,
     "wof:name":"Connecticut Hardwood Floors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

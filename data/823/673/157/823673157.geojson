@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.419907,41.507393,-73.419907,41.507393",
     "geom:latitude":41.507393,
     "geom:longitude":-73.419907,
@@ -31,7 +32,13 @@
         "carwash"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496031,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xdtAvKSOuIemxou3u0vG0_41.507393_-73.419907@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463443646,
     "wof:geomhash":"da9cae34a8a258edd143b77d7edd242e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496031,
+            "region_id":85688629,
+            "venue_id":823673157
+        }
+    ],
     "wof:id":823673157,
-    "wof:lastmodified":1472613665,
+    "wof:lastmodified":1492055083,
     "wof:name":"Modern Auto Detailing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

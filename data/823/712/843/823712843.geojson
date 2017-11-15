@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.626419,41.029022,-73.626419,41.029022",
     "geom:latitude":41.029022,
     "geom:longitude":-73.626419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"82 Greenwich Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -32,22 +34,34 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85885307,
+        420555529,
         102191575,
         404495949,
         85633793,
         85930941,
         102084283,
-        85688629
+        85688629,
+        85885307
     ],
+    "wof:brand_id":420575375,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a1UgJX8wS99I5uFLTHwZi_41.029022_-73.626419@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463444506,
-    "wof:geomhash":"65b46365fba522562375724f1f2c48c4",
+    "wof:geomhash":"970890ddac2fae9f028cc9d8f498a038",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823712843
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -60,9 +74,9 @@
         }
     ],
     "wof:id":823712843,
-    "wof:lastmodified":1472613695,
+    "wof:lastmodified":1510614709,
     "wof:name":"Ritz Camera Ctr",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.125698,41.318681,-73.125698,41.318681",
     "geom:latitude":41.318681,
     "geom:longitude":-73.125698,
@@ -28,7 +29,14 @@
     "sg:postcode":"06484",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51KkrHtFbcjY8zzmfPYnc3_41.318681_-73.125698@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463444059,
     "wof:geomhash":"ed310f3bb7300c3f2e3dd84e745820f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823691779
+        }
+    ],
     "wof:id":823691779,
-    "wof:lastmodified":1472613670,
+    "wof:lastmodified":1492055047,
     "wof:name":"101 Independence Drive LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

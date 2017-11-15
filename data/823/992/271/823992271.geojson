@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.429497,41.09265,-73.429497,41.09265",
     "geom:latitude":41.09265,
     "geom:longitude":-73.429497,
@@ -33,7 +34,15 @@
         "softening"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555515,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LjhFqJ0MSaY0uFgAFTVzR_41.092650_-73.429497@1294084077"
@@ -41,11 +50,22 @@
     "wof:country":"US",
     "wof:created":1463451771,
     "wof:geomhash":"e5291bf40a02038efb6515988b06a3d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420555515,
+            "region_id":85688629,
+            "venue_id":823992271
+        }
+    ],
     "wof:id":823992271,
-    "wof:lastmodified":1472613977,
+    "wof:lastmodified":1492054745,
     "wof:name":"Alternative Concepts Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

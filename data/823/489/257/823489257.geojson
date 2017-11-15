@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.657556,41.00362,-73.657556,41.00362",
     "geom:latitude":41.00362,
     "geom:longitude":-73.657556,
@@ -40,7 +41,14 @@
         "buying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16JnCt4n5XykhFzuWASOYM_41.003620_-73.657556@1294084077"
@@ -48,9 +56,19 @@
     "wof:country":"US",
     "wof:created":1463439295,
     "wof:geomhash":"2fd1d8bc643166439b610208d706ffe3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823489257
+        }
+    ],
     "wof:id":823489257,
-    "wof:lastmodified":1472608844,
+    "wof:lastmodified":1492029263,
     "wof:name":"Media Dynamics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

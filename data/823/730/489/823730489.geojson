@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.527953,41.305065,-73.527953,41.305065",
     "geom:latitude":41.305065,
     "geom:longitude":-73.527953,
@@ -31,7 +32,13 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pkq7uGc7Yj1BkCCumrcdj_41.305065_-73.527953@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444915,
     "wof:geomhash":"be884006a49c48b7ed10b2facd0aa4c7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823730489
+        }
+    ],
     "wof:id":823730489,
-    "wof:lastmodified":1472613723,
+    "wof:lastmodified":1492027090,
     "wof:name":"Ungar Rbrt A Atty At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

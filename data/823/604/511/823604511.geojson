@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.516459,41.059688,-73.516459,41.059688",
     "geom:latitude":41.059688,
     "geom:longitude":-73.516459,
@@ -28,7 +29,15 @@
     "sg:postcode":"06902",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53ion7DwwrwPxSkgjxv7jo_41.059688_-73.516459@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463442013,
     "wof:geomhash":"5288220e1ec589d895801c512ba70a7e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823604511
+        }
+    ],
     "wof:id":823604511,
-    "wof:lastmodified":1472613384,
+    "wof:lastmodified":1492029150,
     "wof:name":"Timber Wolf Tree Service",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

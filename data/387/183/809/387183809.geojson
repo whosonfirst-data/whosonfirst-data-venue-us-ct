@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.513872,41.140467,-73.513872,41.140467",
     "geom:latitude":41.140467,
     "geom:longitude":-73.513872,
@@ -36,8 +37,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85842701
+        85842701,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +48,15 @@
     "wof:geomhash":"37759f3f964937ac0a4a75b9cd50a36c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85842701,
             "region_id":85688629,
             "venue_id":387183809
         }
     ],
     "wof:id":387183809,
-    "wof:lastmodified":1472606484,
+    "wof:lastmodified":1492029042,
     "wof:name":"Helicopter Flight Svc",
     "wof:parent_id":85842701,
     "wof:placetype":"venue",

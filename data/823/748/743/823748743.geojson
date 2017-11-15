@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.89266,41.297678,-72.89266,41.297678",
     "geom:latitude":41.297678,
     "geom:longitude":-72.89266,
@@ -28,7 +29,15 @@
     "sg:postcode":"06513",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555641,
+        102191575,
+        404495787,
+        85633793,
+        85930897,
+        102086923,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30u4NZ092mGzntrICc9Fmx_41.297678_-72.892660@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463445346,
     "wof:geomhash":"692eb1b1a5611cf70e9bd29261d8c127",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495787,
+            "locality_id":85930897,
+            "neighbourhood_id":420555641,
+            "region_id":85688629,
+            "venue_id":823748743
+        }
+    ],
     "wof:id":823748743,
-    "wof:lastmodified":1472613734,
+    "wof:lastmodified":1492029271,
     "wof:name":"Arquin LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555641,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

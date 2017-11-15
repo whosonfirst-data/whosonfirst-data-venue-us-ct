@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.207477,41.19641,-73.207477,41.19641",
     "geom:latitude":41.19641,
     "geom:longitude":-73.207477,
@@ -37,7 +38,15 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555441,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iWM7f5mDriUS78k0dI9b8_41.196410_-73.207477@1294084077"
@@ -45,11 +54,22 @@
     "wof:country":"US",
     "wof:created":1463448944,
     "wof:geomhash":"aa0ae3b398eb2d2dc19a9842bdc2eeb2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555441,
+            "region_id":85688629,
+            "venue_id":823878703
+        }
+    ],
     "wof:id":823878703,
-    "wof:lastmodified":1472613915,
+    "wof:lastmodified":1492055132,
     "wof:name":"Mortgage Consulting Svcs LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

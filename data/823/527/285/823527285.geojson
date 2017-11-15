@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.170232,41.361647,-73.170232,41.361647",
     "geom:latitude":41.361647,
     "geom:longitude":-73.170232,
@@ -33,7 +34,13 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495951,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d9fYk4qFvX5ig2n9ppyxh_41.361647_-73.170232@1294084077"
@@ -41,9 +48,18 @@
     "wof:country":"US",
     "wof:created":1463440199,
     "wof:geomhash":"b72540f16093677ddfa3dc9a4ca39495",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495951,
+            "region_id":85688629,
+            "venue_id":823527285
+        }
+    ],
     "wof:id":823527285,
-    "wof:lastmodified":1472613284,
+    "wof:lastmodified":1492055085,
     "wof:name":"American Mfg & Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

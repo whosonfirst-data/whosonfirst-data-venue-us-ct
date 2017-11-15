@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.208884,41.547354,-73.208884,41.547354",
     "geom:latitude":41.547354,
     "geom:longitude":-73.208884,
@@ -28,7 +29,10 @@
     "sg:postcode":"06798",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lYRzQAejsNpVaaKGIJlbi_41.547354_-73.208884@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463439852,
     "wof:geomhash":"c913a405726b45b433f2d4d75e88c1b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":823512687
+        }
+    ],
     "wof:id":823512687,
-    "wof:lastmodified":1472613252,
+    "wof:lastmodified":1492055091,
     "wof:name":"Woodbury Saw & Lawnmower",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

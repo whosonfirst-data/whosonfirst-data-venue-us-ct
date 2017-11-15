@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.208826,41.199534,-73.208826,41.199534",
     "geom:latitude":41.199534,
     "geom:longitude":-73.208826,
@@ -28,7 +29,15 @@
     "sg:postcode":"06606",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555441,
+        102191575,
+        404495939,
+        85633793,
+        85930811,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dpx2bEXUfhNc8n45nScCg_41.199534_-73.208826@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463445891,
     "wof:geomhash":"5b8c0ed0529049064ed32211b777cd8e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495939,
+            "locality_id":85930811,
+            "neighbourhood_id":420555441,
+            "region_id":85688629,
+            "venue_id":823772859
+        }
+    ],
     "wof:id":823772859,
-    "wof:lastmodified":1472613834,
+    "wof:lastmodified":1492029070,
     "wof:name":"Rafael & Julios Co LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

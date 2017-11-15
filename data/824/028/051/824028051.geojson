@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.141181,41.399233,-73.141181,41.399233",
     "geom:latitude":41.399233,
     "geom:longitude":-73.141181,
@@ -28,7 +29,13 @@
     "sg:postcode":"06478",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495795,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vEwbnpPT9dseMosGTtyKm_41.399233_-73.141181@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463452620,
     "wof:geomhash":"6cd15e8e8638eadc2e900d9babbf7d10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495795,
+            "region_id":85688629,
+            "venue_id":824028051
+        }
+    ],
     "wof:id":824028051,
-    "wof:lastmodified":1472608731,
+    "wof:lastmodified":1492077000,
     "wof:name":"Quaker Farms Kennels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

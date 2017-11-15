@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.409565,41.464041,-73.409565,41.464041",
     "geom:latitude":41.464041,
     "geom:longitude":-73.409565,
@@ -45,7 +46,10 @@
         "ac"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vUwYI1Ty0R7RDQ8lc58MI_41.464348_-73.409756@1293134755"
@@ -53,11 +57,17 @@
     "wof:country":"US",
     "wof:created":1463453571,
     "wof:geomhash":"39999b00d2af800b1baf2cc4917f19f3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":824068257
+        }
+    ],
     "wof:id":824068257,
-    "wof:lastmodified":1472612328,
+    "wof:lastmodified":1492054596,
     "wof:name":"Danbury Winair Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

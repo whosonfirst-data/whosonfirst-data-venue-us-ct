@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.319236,41.168205,-73.319236,41.168205",
     "geom:latitude":41.168205,
     "geom:longitude":-73.319236,
@@ -28,12 +29,7 @@
     "sg:postcode":"06880",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85823009,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64DbOWgbjIWsqOeLhdeN46_41.168205_-73.319236@1294084077"
@@ -41,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1463441487,
     "wof:geomhash":"26ba303a8c93088ee8aad94bb801d80d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85823009,
-            "region_id":85688629,
-            "venue_id":823582941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823582941,
-    "wof:lastmodified":1472613355,
+    "wof:lastmodified":1492054999,
     "wof:name":"Lone Star Technologies",
     "wof:parent_id":85823009,
     "wof:placetype":"venue",

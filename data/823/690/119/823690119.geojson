@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.186022,41.488627,-73.186022,41.488627",
     "geom:latitude":41.488627,
     "geom:longitude":-73.186022,
@@ -31,7 +32,13 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495799,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZrpdzwUuezifo77abwJIQ_41.488627_-73.186022@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463444017,
     "wof:geomhash":"d683fc14091961171b72a419acf724bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495799,
+            "region_id":85688629,
+            "venue_id":823690119
+        }
+    ],
     "wof:id":823690119,
-    "wof:lastmodified":1472613664,
+    "wof:lastmodified":1492029203,
     "wof:name":"Cruises By On Your Way",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

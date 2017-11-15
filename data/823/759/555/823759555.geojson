@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.095963,41.302645,-73.095963,41.302645",
     "geom:latitude":41.302645,
     "geom:longitude":-73.095963,
@@ -28,7 +29,14 @@
     "sg:postcode":"06484",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WxJz4j6VT4wlXQAgVL7CN_41.302645_-73.095963@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463445606,
     "wof:geomhash":"4ea07ea232c2d3f680a227b9a68d191c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823759555
+        }
+    ],
     "wof:id":823759555,
-    "wof:lastmodified":1472613772,
+    "wof:lastmodified":1492027051,
     "wof:name":"Perry Lawn & Landscaping",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

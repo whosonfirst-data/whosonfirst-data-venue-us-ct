@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.245356,41.230573,-73.245356,41.230573",
     "geom:latitude":41.230573,
     "geom:longitude":-73.245356,
@@ -31,12 +32,7 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688629,
-        85633793,
-        85842185,
-        102084283
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i3k0wfG14WtA431teTshv_41.230573_-73.245356@1294084077"
@@ -44,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1463440888,
     "wof:geomhash":"6c87512ae7f809cdeff0fdadcd3fe9b3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084283,
-            "neighbourhood_id":85842185,
-            "region_id":85688629,
-            "venue_id":823557941
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823557941,
-    "wof:lastmodified":1472613337,
+    "wof:lastmodified":1492029124,
     "wof:name":"Center For Creative Mechanisms",
     "wof:parent_id":85842185,
     "wof:placetype":"venue",

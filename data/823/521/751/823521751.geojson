@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.397703,41.139507,-73.397703,41.139507",
     "geom:latitude":41.139507,
     "geom:longitude":-73.397703,
@@ -28,7 +29,15 @@
     "sg:postcode":"06851",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555521,
+        102191575,
+        404495959,
+        85633793,
+        85930795,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0axsBa0FdU3otxMAk9uGrr_41.139507_-73.397703@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463440064,
     "wof:geomhash":"a00741249a28c7a77803d2ea2d1d1638",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
+            "neighbourhood_id":420555521,
+            "region_id":85688629,
+            "venue_id":823521751
+        }
+    ],
     "wof:id":823521751,
-    "wof:lastmodified":1472613291,
+    "wof:lastmodified":1492029028,
     "wof:name":"Fairfield Insurance Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

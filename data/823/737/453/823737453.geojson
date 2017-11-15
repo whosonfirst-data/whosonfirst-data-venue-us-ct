@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.658105,41.101863,-73.658105,41.101863",
     "geom:latitude":41.101863,
     "geom:longitude":-73.658105,
@@ -32,7 +33,13 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zP2aPVQiyj4ixibv0qwFl_41.101863_-73.658105@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463445097,
     "wof:geomhash":"af2a57df5696a1d094e203bd2c461dfa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823737453
+        }
+    ],
     "wof:id":823737453,
-    "wof:lastmodified":1472613727,
+    "wof:lastmodified":1492068780,
     "wof:name":"Maryann Keller & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

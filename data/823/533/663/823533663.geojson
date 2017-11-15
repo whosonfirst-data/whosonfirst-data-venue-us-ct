@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.075215,41.289758,-73.075215,41.289758",
     "geom:latitude":41.289758,
     "geom:longitude":-73.075215,
@@ -34,7 +35,14 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57m1bY8rUrLOmJtJpBYLtt_41.289758_-73.075215@1294084077"
@@ -42,9 +50,19 @@
     "wof:country":"US",
     "wof:created":1463440329,
     "wof:geomhash":"4747f9dda881f3e3c5f6cc5219fbf3b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823533663
+        }
+    ],
     "wof:id":823533663,
-    "wof:lastmodified":1472613326,
+    "wof:lastmodified":1492026905,
     "wof:name":"Hetz Sheetmetal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

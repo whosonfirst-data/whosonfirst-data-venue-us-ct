@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.507388,41.058897,-73.507388,41.058897",
     "geom:latitude":41.058897,
     "geom:longitude":-73.507388,
@@ -28,7 +29,15 @@
     "sg:postcode":"06902",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555467,
+        102191575,
+        404495855,
+        85633793,
+        85930787,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1rtpF4M3FSmpiXqOh5o7bM_41.058897_-73.507388@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463438727,
     "wof:geomhash":"5d76e24e3dc7da2a654364d0df6b6213",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495855,
+            "locality_id":85930787,
+            "neighbourhood_id":420555467,
+            "region_id":85688629,
+            "venue_id":823465329
+        }
+    ],
     "wof:id":823465329,
-    "wof:lastmodified":1472608188,
+    "wof:lastmodified":1492027007,
     "wof:name":"Ocxguru",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.655781,40.993175,-73.655781,40.993175",
     "geom:latitude":40.993175,
     "geom:longitude":-73.655781,
@@ -28,7 +29,14 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        85930963,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dVuHz1AviYowM975zcHDr_40.993175_-73.655781@1294084077"
@@ -36,9 +44,19 @@
     "wof:country":"US",
     "wof:created":1463446353,
     "wof:geomhash":"30b652142e5a5d82ce29b4a7f7ab92c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930963,
+            "region_id":85688629,
+            "venue_id":823788033
+        }
+    ],
     "wof:id":823788033,
-    "wof:lastmodified":1472613746,
+    "wof:lastmodified":1492029268,
     "wof:name":"Day Hospital Enterprises Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

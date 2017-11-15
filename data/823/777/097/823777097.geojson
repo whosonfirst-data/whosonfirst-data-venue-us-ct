@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.21419,41.369916,-73.21419,41.369916",
     "geom:latitude":41.369916,
     "geom:longitude":-73.21419,
@@ -32,7 +33,13 @@
         "gunsmith"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495957,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bunQlJsJAZwAtRAutkgU3_41.369916_-73.214190@1294084077"
@@ -40,9 +47,18 @@
     "wof:country":"US",
     "wof:created":1463446010,
     "wof:geomhash":"e5e8b33d7f0559065a42edab9e8890dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495957,
+            "region_id":85688629,
+            "venue_id":823777097
+        }
+    ],
     "wof:id":823777097,
-    "wof:lastmodified":1472613750,
+    "wof:lastmodified":1492062359,
     "wof:name":"Heads Up Design",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

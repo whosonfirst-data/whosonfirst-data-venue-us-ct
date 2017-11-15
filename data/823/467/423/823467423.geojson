@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.532773,41.311452,-73.532773,41.311452",
     "geom:latitude":41.311452,
     "geom:longitude":-73.532773,
@@ -31,7 +32,13 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495963,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HHC6yxyLuVyRWercwOu5O_41.311452_-73.532773@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463438774,
     "wof:geomhash":"fa0e03b5bb7eb68dd5fd4b1307d6c4c4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495963,
+            "region_id":85688629,
+            "venue_id":823467423
+        }
+    ],
     "wof:id":823467423,
-    "wof:lastmodified":1472607132,
+    "wof:lastmodified":1492051767,
     "wof:name":"D M Smith Associates Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

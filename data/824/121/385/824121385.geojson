@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.439165,41.209695,-73.439165,41.209695",
     "geom:latitude":41.209695,
     "geom:longitude":-73.439165,
@@ -37,10 +38,13 @@
     "sg:website":"http://www.flowww.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85809271,
-        102084283
+        102191575,
+        404495863,
+        85633793,
+        85930931,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"12ccdf56afe7a67f2f09cbeae0265d49",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495863,
+            "locality_id":85930931,
             "neighbourhood_id":85809271,
             "region_id":85688629,
             "venue_id":824121385
         }
     ],
     "wof:id":824121385,
-    "wof:lastmodified":1472613333,
+    "wof:lastmodified":1492027022,
     "wof:name":"Flowww",
     "wof:parent_id":85809271,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.625545,41.032315,-73.625545,41.032315",
     "geom:latitude":41.032315,
     "geom:longitude":-73.625545,
@@ -28,7 +29,15 @@
     "sg:postcode":"06830",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z2dkCTAibpHyi9m3vAol3_41.032315_-73.625545@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463439783,
     "wof:geomhash":"fcb2a961e2bac692c046403f40b8b91b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823509377
+        }
+    ],
     "wof:id":823509377,
-    "wof:lastmodified":1472613242,
+    "wof:lastmodified":1492029211,
     "wof:name":"Donohoe Associates Architects",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

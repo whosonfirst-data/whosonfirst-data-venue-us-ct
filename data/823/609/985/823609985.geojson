@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.410074,41.363009,-73.410074,41.363009",
     "geom:latitude":41.363009,
     "geom:longitude":-73.410074,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85821411,
+        102191575,
+        404495941,
         85633793,
-        85867441,
-        102084283
+        85930805,
+        102084283,
+        85688629,
+        85867441
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,6 +52,16 @@
     "wof:geomhash":"dd2e91c0931a6a7c15d6339c744133c6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495941,
+            "locality_id":85930805,
+            "neighbourhood_id":85821411,
+            "region_id":85688629,
+            "venue_id":823609985
+        },
+        {
             "country_id":85633793,
             "county_id":102084283,
             "neighbourhood_id":85867441,
@@ -55,9 +70,9 @@
         }
     ],
     "wof:id":823609985,
-    "wof:lastmodified":1472613476,
+    "wof:lastmodified":1492027016,
     "wof:name":"Solar Sheet Metal & Roofing",
-    "wof:parent_id":85867441,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.692727,41.10506,-73.692727,41.10506",
     "geom:latitude":41.10506,
     "geom:longitude":-73.692727,
@@ -31,8 +32,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85837667
+        85837667,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +43,15 @@
     "wof:geomhash":"6a174d8c8976d2f4e8ce35a87437a5e5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85837667,
             "region_id":85688629,
             "venue_id":403795843
         }
     ],
     "wof:id":403795843,
-    "wof:lastmodified":1472606612,
+    "wof:lastmodified":1492029247,
     "wof:name":"Baptist Thomas",
     "wof:parent_id":85837667,
     "wof:placetype":"venue",

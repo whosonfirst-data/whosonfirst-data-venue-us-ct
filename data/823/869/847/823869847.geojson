@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.098628,41.31579,-73.098628,41.31579",
     "geom:latitude":41.31579,
     "geom:longitude":-73.098628,
@@ -32,7 +33,14 @@
     ],
     "sg:website":"www.capitalcomputer.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495965,
+        85633793,
+        85930791,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rSUDZMxaTHP4bgU6wVQ15_41.315790_-73.098628@1294084077"
@@ -40,9 +48,19 @@
     "wof:country":"US",
     "wof:created":1463448735,
     "wof:geomhash":"27a96562b4573081567082e4fa5366a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495965,
+            "locality_id":85930791,
+            "region_id":85688629,
+            "venue_id":823869847
+        }
+    ],
     "wof:id":823869847,
-    "wof:lastmodified":1472613857,
+    "wof:lastmodified":1492054907,
     "wof:name":"Capital Computer LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

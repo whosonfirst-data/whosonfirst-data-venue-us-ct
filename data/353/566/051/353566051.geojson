@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.533771,41.183788,-73.533771,41.183788",
     "geom:latitude":41.183788,
     "geom:longitude":-73.533771,
@@ -34,8 +35,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688629,
+        102191575,
+        404495817,
         85633793,
-        85688629
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,16 +49,16 @@
     "wof:geomhash":"5e741f2e48c4a9366039b86d5aba3162",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084283,
+            "localadmin_id":404495817,
             "region_id":85688629,
             "venue_id":353566051
         }
     ],
     "wof:id":353566051,
-    "wof:lastmodified":1472606410,
+    "wof:lastmodified":1492040575,
     "wof:name":"Spring Lake Consulting LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

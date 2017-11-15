@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.675668,40.993228,-73.675668,40.993228",
     "geom:latitude":40.993228,
     "geom:longitude":-73.675668,
@@ -31,7 +32,15 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420530421,
+        102191575,
+        404523389,
+        85633793,
+        85978705,
+        102082373,
+        85688543
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2I3S2FhrRi3taDI2HyljBM_40.993228_-73.675668@1294084077"
@@ -39,11 +48,22 @@
     "wof:country":"US",
     "wof:created":1463452406,
     "wof:geomhash":"5b1c903f60812414a7f4c0c7cf90ca2b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530421,
+            "region_id":85688543,
+            "venue_id":824019253
+        }
+    ],
     "wof:id":824019253,
-    "wof:lastmodified":1472607648,
+    "wof:lastmodified":1492026903,
     "wof:name":"Triple J Jewelry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420530421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

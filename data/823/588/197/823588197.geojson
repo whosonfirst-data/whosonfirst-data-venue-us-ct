@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.424959,41.104112,-73.424959,41.104112",
     "geom:latitude":41.104112,
     "geom:longitude":-73.424959,
@@ -29,13 +30,14 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85849909,
+        420558743,
         102191575,
         404495959,
         85633793,
         85930795,
         102084283,
-        85688629
+        85688629,
+        85849909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,25 @@
             "county_id":102084283,
             "localadmin_id":404495959,
             "locality_id":85930795,
+            "neighbourhood_id":420558743,
+            "region_id":85688629,
+            "venue_id":823588197
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495959,
+            "locality_id":85930795,
             "neighbourhood_id":85849909,
             "region_id":85688629,
             "venue_id":823588197
         }
     ],
     "wof:id":823588197,
-    "wof:lastmodified":1472613361,
+    "wof:lastmodified":1491918388,
     "wof:name":"Rodrigio Velasquez Landscaping",
-    "wof:parent_id":85849909,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

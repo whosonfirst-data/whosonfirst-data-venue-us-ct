@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.633012,41.096078,-73.633012,41.096078",
     "geom:latitude":41.096078,
     "geom:longitude":-73.633012,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85850923
+        85850923,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"b5279f644532009652693d6ae82652c3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85850923,
             "region_id":85688629,
             "venue_id":371182079
         }
     ],
     "wof:id":371182079,
-    "wof:lastmodified":1472606326,
+    "wof:lastmodified":1492068779,
     "wof:name":"Greenwich Fire Dept",
     "wof:parent_id":85850923,
     "wof:placetype":"venue",

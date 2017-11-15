@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.655873,41.113222,-73.655873,41.113222",
     "geom:latitude":41.113222,
     "geom:longitude":-73.655873,
@@ -28,7 +29,13 @@
     "sg:postcode":"06831",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495949,
+        85633793,
+        102084283
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KYxo4mZeAGTE1vsKh1M9S_41.113222_-73.655873@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463441261,
     "wof:geomhash":"06b6b3d3768c9b4d6313e269f2a060ac",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "region_id":85688629,
+            "venue_id":823573375
+        }
+    ],
     "wof:id":823573375,
-    "wof:lastmodified":1472613337,
+    "wof:lastmodified":1492029250,
     "wof:name":"Scheuer Assoc Foundation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

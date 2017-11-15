@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.295967,41.384569,-73.295967,41.384569",
     "geom:latitude":41.384569,
     "geom:longitude":-73.295967,
@@ -31,7 +32,10 @@
         "investigator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555475
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eUjM2rcEwd82gvY451lSN_41.384569_-73.295967@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463441730,
     "wof:geomhash":"662a72cc1138e1e69ae48c9c55f16263",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555475,
+            "venue_id":823593343
+        }
+    ],
     "wof:id":823593343,
-    "wof:lastmodified":1472613362,
+    "wof:lastmodified":1492055043,
     "wof:name":"Allan D Flynn Private Invstgtn",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

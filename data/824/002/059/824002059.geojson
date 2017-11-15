@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.210932,41.608247,-73.210932,41.608247",
     "geom:latitude":41.608247,
     "geom:longitude":-73.210932,
@@ -28,7 +29,10 @@
     "sg:postcode":"06751",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EhBadUZkchABjxW6qBAbK_41.608247_-73.210932@1294084077"
@@ -36,11 +40,17 @@
     "wof:country":"US",
     "wof:created":1463452031,
     "wof:geomhash":"78fce5ffc5bef5472879cc3124651aba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555547,
+            "venue_id":824002059
+        }
+    ],
     "wof:id":824002059,
-    "wof:lastmodified":1472607334,
+    "wof:lastmodified":1492027066,
     "wof:name":"Spodnicks K-9 Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

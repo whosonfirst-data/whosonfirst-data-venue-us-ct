@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.358107,41.513189,-73.358107,41.513189",
     "geom:latitude":41.513189,
     "geom:longitude":-73.358107,
@@ -31,7 +32,13 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404496015,
+        85633793,
+        102085375
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xSc1Oc0mdh3SXQEzL1VHL_41.513189_-73.358107@1294084077"
@@ -39,9 +46,18 @@
     "wof:country":"US",
     "wof:created":1463442052,
     "wof:geomhash":"882f3f6dc3a02ae098e3abe8dd24a89d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085375,
+            "localadmin_id":404496015,
+            "region_id":85688629,
+            "venue_id":823606355
+        }
+    ],
     "wof:id":823606355,
-    "wof:lastmodified":1472613386,
+    "wof:lastmodified":1492055072,
     "wof:name":"Design Tech LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

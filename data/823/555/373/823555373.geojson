@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.089507,41.546056,-73.089507,41.546056",
     "geom:latitude":41.546056,
     "geom:longitude":-73.089507,
@@ -28,7 +29,13 @@
     "sg:postcode":"06762",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688629,
+        102191575,
+        404495781,
+        85633793,
+        102086923
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TWVwSfRxlRnA1hXyiIlqw_41.546056_-73.089507@1294084077"
@@ -36,9 +43,18 @@
     "wof:country":"US",
     "wof:created":1463440827,
     "wof:geomhash":"9ba7d86049b9ab647f7962c68b54f240",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495781,
+            "region_id":85688629,
+            "venue_id":823555373
+        }
+    ],
     "wof:id":823555373,
-    "wof:lastmodified":1472613337,
+    "wof:lastmodified":1492061624,
     "wof:name":"Order of Eastern Star Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.636921,41.026362,-73.636921,41.026362",
     "geom:latitude":41.026362,
     "geom:longitude":-73.636921,
@@ -28,7 +29,15 @@
     "sg:postcode":"06831",
     "sg:province":"CT",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555529,
+        102191575,
+        404495949,
+        85633793,
+        85930941,
+        102084283,
+        85688629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Uq0WUId77RaYaAsWtuJhm_41.026362_-73.636921@1294084077"
@@ -36,11 +45,22 @@
     "wof:country":"US",
     "wof:created":1463443230,
     "wof:geomhash":"b735ee4cbf3d151c3bb6b779f8fbfc3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084283,
+            "localadmin_id":404495949,
+            "locality_id":85930941,
+            "neighbourhood_id":420555529,
+            "region_id":85688629,
+            "venue_id":823656557
+        }
+    ],
     "wof:id":823656557,
-    "wof:lastmodified":1472613413,
+    "wof:lastmodified":1492044130,
     "wof:name":"Vision Development Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

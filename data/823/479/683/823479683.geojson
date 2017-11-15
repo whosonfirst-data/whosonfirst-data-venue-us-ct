@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.223154,41.384438,-73.223154,41.384438",
     "geom:latitude":41.384438,
     "geom:longitude":-73.223154,
@@ -29,10 +30,13 @@
     "sg:province":"CT",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
-        85633793,
         85845381,
-        102084283
+        102191575,
+        404495859,
+        85633793,
+        85930973,
+        102084283,
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"5438b179d147d48b5785d66642ea4506",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495859,
+            "locality_id":85930973,
             "neighbourhood_id":85845381,
             "region_id":85688629,
             "venue_id":823479683
         }
     ],
     "wof:id":823479683,
-    "wof:lastmodified":1472608192,
+    "wof:lastmodified":1492029161,
     "wof:name":"Southern Conneticut Volleyball",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",

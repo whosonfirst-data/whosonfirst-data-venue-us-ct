@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.39746,41.473153,-73.39746,41.473153",
     "geom:latitude":41.473153,
     "geom:longitude":-73.39746,
@@ -31,7 +32,10 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420555477
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0agrB0LnHaKTs1GUi3Q6uS_41.473153_-73.397460@1294084077"
@@ -39,11 +43,17 @@
     "wof:country":"US",
     "wof:created":1463439883,
     "wof:geomhash":"ca2475e1d10f079932fa16a40a72e9cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420555477,
+            "venue_id":823513909
+        }
+    ],
     "wof:id":823513909,
-    "wof:lastmodified":1472613275,
+    "wof:lastmodified":1492027118,
     "wof:name":"Mass Media",
-    "wof:parent_id":-1,
+    "wof:parent_id":420555477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

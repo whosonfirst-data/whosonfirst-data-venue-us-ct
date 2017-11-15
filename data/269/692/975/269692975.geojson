@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.659795,41.012619,-73.659795,41.012619",
     "geom:latitude":41.012619,
     "geom:longitude":-73.659795,
@@ -33,11 +34,18 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688629,
+        85885307,
+        102191575,
+        404495949,
         85633793,
         85930941,
         102084283,
-        85885307
+        85688629,
+        420530431,
+        404523389,
+        85978705,
+        102082373,
+        85688543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +55,30 @@
     "wof:geomhash":"c99bbc78a2326f0c006c13e6cc03887a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084283,
+            "localadmin_id":404495949,
             "locality_id":85930941,
             "neighbourhood_id":85885307,
             "region_id":85688629,
             "venue_id":269692975
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082373,
+            "localadmin_id":404523389,
+            "locality_id":85978705,
+            "neighbourhood_id":420530431,
+            "region_id":85688543,
+            "venue_id":269692975
         }
     ],
     "wof:id":269692975,
-    "wof:lastmodified":1472606424,
+    "wof:lastmodified":1492062327,
     "wof:name":"Seaboard Weatherproofing Co",
-    "wof:parent_id":85885307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],

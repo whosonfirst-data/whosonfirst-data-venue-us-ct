@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.483788,41.144808,-73.483788,41.144808",
     "geom:latitude":41.144808,
     "geom:longitude":-73.483788,
@@ -34,8 +35,8 @@
     "wof:belongsto":[
         85688629,
         85633793,
-        102084283,
-        85851779
+        85851779,
+        102084283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +46,15 @@
     "wof:geomhash":"a74c5112a1282373c11e97d20c704a03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102084283,
-            "locality_id":-1,
             "neighbourhood_id":85851779,
             "region_id":85688629,
             "venue_id":336936797
         }
     ],
     "wof:id":336936797,
-    "wof:lastmodified":1472606413,
+    "wof:lastmodified":1492029276,
     "wof:name":"Nyary Contracting",
     "wof:parent_id":85851779,
     "wof:placetype":"venue",

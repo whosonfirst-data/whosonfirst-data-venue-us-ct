@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.999636,41.250703,-72.999636,41.250703",
     "geom:latitude":41.250703,
     "geom:longitude":-72.999636,
@@ -38,7 +39,10 @@
         85633793,
         85930905,
         102086923,
-        85688629
+        85688629,
+        85856347,
+        404495805,
+        85930885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +61,22 @@
             "neighbourhood_id":85834207,
             "region_id":85688629,
             "venue_id":823518741
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086923,
+            "localadmin_id":404495805,
+            "locality_id":85930885,
+            "neighbourhood_id":85856347,
+            "region_id":85688629,
+            "venue_id":823518741
         }
     ],
     "wof:id":823518741,
-    "wof:lastmodified":1472613303,
+    "wof:lastmodified":1492029047,
     "wof:name":"Will Billboards Travel LLC",
-    "wof:parent_id":85834207,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
