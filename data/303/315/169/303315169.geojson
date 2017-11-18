@@ -7,6 +7,7 @@
     "addr:postcode":"06831",
     "addr:street":"Valley Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.645073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15 Valley Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
         "sg:id":"SG_5kpkmVBlk5ZVrEkq0MjCoW_41.022413_-73.645073@1294177022"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d6b533fd8481284645c971d2f107ce8",
+    "wof:geomhash":"dbdaed5645520738b1ff182259614cf9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,12 +73,14 @@
         }
     ],
     "wof:id":303315169,
-    "wof:lastmodified":1492073697,
+    "wof:lastmodified":1510942819,
     "wof:name":"Walter J Mc Keever & Co",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824044879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.375852,41.289657,-72.375852,41.289657",
     "geom:latitude":41.289657,
     "geom:longitude":-72.375852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"292 Main St",
     "sg:city":"Old Saybrook",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451761,
-    "wof:geomhash":"acddea3b541bdfe20b66dd2fe3e3f40b",
+    "wof:geomhash":"f88ce3748f3a62cdb99bbcf9a85f5fda",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":823991857,
-    "wof:lastmodified":1472613971,
+    "wof:lastmodified":1510943495,
     "wof:name":"Estys",
     "wof:parent_id":85847263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824106253
+    ],
     "wof:tags":[
         "lamp",
         "supply",

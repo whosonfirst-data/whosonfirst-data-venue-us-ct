@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.809065,41.290357,-72.809065,41.290357",
     "geom:latitude":41.290357,
     "geom:longitude":-72.809065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 N Main St",
     "sg:city":"Branford",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444653,
-    "wof:geomhash":"a2317077b7b53eed93a3254db133fe2e",
+    "wof:geomhash":"ddf9bc509d9507cec21ef4732ab70575",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":823720057,
-    "wof:lastmodified":1472613718,
+    "wof:lastmodified":1510941337,
     "wof:name":"Autocraft Corp",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823515019
+    ],
     "wof:tags":[
         "body",
         "automobile",

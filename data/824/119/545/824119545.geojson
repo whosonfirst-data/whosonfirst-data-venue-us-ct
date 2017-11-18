@@ -7,13 +7,16 @@
     "addr:postcode":"06901",
     "addr:street":"Atlantic St Ste 210",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.539543,41.050789,-73.539543,41.050789",
     "geom:latitude":41.050789,
     "geom:longitude":-73.539543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"300 Atlantic St Ste 210",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454757,
-    "wof:geomhash":"34b452e73161735f828956c07e3a0e07",
+    "wof:geomhash":"5dfc10101e1dbff953f18aca21438470",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":824119545,
-    "wof:lastmodified":1472613325,
+    "wof:lastmodified":1510942595,
     "wof:name":"Aimco",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823786463
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"

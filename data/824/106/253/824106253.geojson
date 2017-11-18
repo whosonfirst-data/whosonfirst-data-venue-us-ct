@@ -7,13 +7,16 @@
     "addr:postcode":"06475",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.376297,41.290901,-72.376297,41.290901",
     "geom:latitude":41.290901,
     "geom:longitude":-72.376297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"292 Main St",
     "sg:city":"Old Saybrook",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454471,
-    "wof:geomhash":"33607b05a7f0c10f6e8dc40bf1ed5aee",
+    "wof:geomhash":"e1b60fd6474af6a2be6801b0f803e418",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":824106253,
-    "wof:lastmodified":1472613284,
+    "wof:lastmodified":1510943495,
     "wof:name":"Esty's",
     "wof:parent_id":85847263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823991857
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "photography",

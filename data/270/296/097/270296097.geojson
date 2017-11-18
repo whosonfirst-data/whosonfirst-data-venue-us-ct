@@ -7,13 +7,16 @@
     "addr:postcode":"06831",
     "addr:street":"Valley Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.645073,41.022413,-73.645073,41.022413",
     "geom:latitude":41.022413,
     "geom:longitude":-73.645073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"15 Valley Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
         "sg:id":"SG_521811N9oMwYNjYZfAeu2h_41.022413_-73.645073@1294177022"
     },
     "wof:country":"US",
-    "wof:geomhash":"7d6b533fd8481284645c971d2f107ce8",
+    "wof:geomhash":"dbdaed5645520738b1ff182259614cf9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":270296097,
-    "wof:lastmodified":1472606376,
+    "wof:lastmodified":1510943060,
     "wof:name":"J S Karlton Co",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823486623
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

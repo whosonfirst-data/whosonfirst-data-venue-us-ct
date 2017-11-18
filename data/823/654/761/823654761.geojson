@@ -7,13 +7,16 @@
     "addr:postcode":"06854",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.418824,41.099011,-73.418824,41.099011",
     "geom:latitude":41.099011,
     "geom:longitude":-73.418824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"50 Washington St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443189,
-    "wof:geomhash":"6d47b695883ba3e5be1492b2e01c8b1e",
+    "wof:geomhash":"6bd6a146c1c222df00afe4711e3c68e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +64,17 @@
         }
     ],
     "wof:id":823654761,
-    "wof:lastmodified":1472613413,
+    "wof:lastmodified":1510943366,
     "wof:name":"Edgar Online Inc",
     "wof:parent_id":85849909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823751813
+    ],
+    "wof:supersedes":[
+        824117925
+    ],
     "wof:tags":[
         "supplier",
         "internet"

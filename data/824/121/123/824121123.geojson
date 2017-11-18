@@ -7,13 +7,16 @@
     "addr:postcode":"06906",
     "addr:street":"Research Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.518632,41.076803,-73.518632,41.076803",
     "geom:latitude":41.076803,
     "geom:longitude":-73.518632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"95 Research Dr",
     "sg:city":"Stamford",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454786,
-    "wof:geomhash":"a64e14ce780c476de135a0bb0746e929",
+    "wof:geomhash":"f559c08ae66e234a71572013f975324a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":824121123,
-    "wof:lastmodified":1472613323,
+    "wof:lastmodified":1510944033,
     "wof:name":"Camp Auto Body",
     "wof:parent_id":85850675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823837385
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

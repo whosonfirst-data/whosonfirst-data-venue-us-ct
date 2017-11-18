@@ -7,6 +7,7 @@
     "addr:postcode":"06514",
     "addr:street":"Dixwell Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-72.919866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2100 Dixwell Ave",
     "sg:city":"Hamden",
     "sg:classifiers":[],
@@ -49,12 +50,14 @@
         }
     ],
     "wof:id":824108915,
-    "wof:lastmodified":1510604199,
+    "wof:lastmodified":1510941947,
     "wof:name":"PETCO",
     "wof:parent_id":85850561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823510315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

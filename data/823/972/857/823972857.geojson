@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.526828,41.069305,-73.526828,41.069305",
     "geom:latitude":41.069305,
     "geom:longitude":-73.526828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 Hope St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451311,
-    "wof:geomhash":"f7340f11e6034d1e6c61dc086848e865",
+    "wof:geomhash":"d277fc9a7c33cdb7132fb98268a61f68",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":823972857,
-    "wof:lastmodified":1472613947,
+    "wof:lastmodified":1510944151,
     "wof:name":"Hope Pizza Restaurant",
     "wof:parent_id":85821787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824121069
+    ],
     "wof:tags":[]
 },
   "bbox": [

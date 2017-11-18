@@ -7,13 +7,16 @@
     "addr:postcode":"06830",
     "addr:street":"Sound Shore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.602661,41.028698,-73.602661,41.028698",
     "geom:latitude":41.028698,
     "geom:longitude":-73.602661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8 Sound Shore Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444180,
-    "wof:geomhash":"360c4844871a4c205eebd7ed8de8adf2",
+    "wof:geomhash":"1a2bd52b237cfa2c50314bb9a7e28d56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":823697133,
-    "wof:lastmodified":1472613662,
+    "wof:lastmodified":1510943844,
     "wof:name":"Haebler Company",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823794661
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "personal",

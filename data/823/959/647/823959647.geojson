@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.418824,41.099011,-73.418824,41.099011",
     "geom:latitude":41.099011,
     "geom:longitude":-73.418824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Washington St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451024,
-    "wof:geomhash":"6d47b695883ba3e5be1492b2e01c8b1e",
+    "wof:geomhash":"6bd6a146c1c222df00afe4711e3c68e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":823959647,
-    "wof:lastmodified":1472613966,
+    "wof:lastmodified":1510943662,
     "wof:name":"Cadema Corp",
     "wof:parent_id":85849909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823692091
+    ],
     "wof:tags":[
         "establishment"
     ]

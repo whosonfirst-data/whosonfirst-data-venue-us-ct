@@ -7,6 +7,7 @@
     "addr:postcode":"06902",
     "addr:street":"Station Pl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.539349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Station Pl",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441266,
-    "wof:geomhash":"924f03fe62efdef37931e081938aab44",
+    "wof:geomhash":"23d33f6af337a4a42005d757b048e918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":823573643,
-    "wof:lastmodified":1492029044,
+    "wof:lastmodified":1510942998,
     "wof:name":"Media Networks Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823930643
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"

@@ -7,13 +7,16 @@
     "addr:postcode":"06106",
     "addr:street":"Seymour St Ste 318;Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.680826,41.753513,-72.680826,41.753513",
     "geom:latitude":41.753513,
     "geom:longitude":-72.680826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"85 Seymour St Ste 318",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454229,
-    "wof:geomhash":"276a74fea8a9a01942974667d648785e",
+    "wof:geomhash":"3ff8742da89d72f34d7b2918b590c622",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,12 +70,14 @@
         }
     ],
     "wof:id":824095315,
-    "wof:lastmodified":1472612516,
+    "wof:lastmodified":1510942166,
     "wof:name":"R W Robertsen Md Pc",
     "wof:parent_id":85878035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823806961
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

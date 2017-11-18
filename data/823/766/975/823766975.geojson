@@ -7,6 +7,7 @@
     "addr:postcode":"10573",
     "addr:street":"N Main St;Chester",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.662489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463445758,
-    "wof:geomhash":"b13dd5af6abd2dbef5472b7f6da9a7f7",
+    "wof:geomhash":"b2bdef9fbcc8bd21694b369bde48e8c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":823766975,
-    "wof:lastmodified":1492062331,
+    "wof:lastmodified":1510942416,
     "wof:name":"Livewire Media Inc",
     "wof:parent_id":420530431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        336640701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ticket"

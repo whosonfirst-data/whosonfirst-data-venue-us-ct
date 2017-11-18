@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.665171,41.025933,-73.665171,41.025933",
     "geom:latitude":41.025933,
     "geom:longitude":-73.665171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Greenwich Hills Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
         "sg:id":"SG_40soDXUdSmfJTJGrPJBps5_41.025933_-73.665171@1294177022"
     },
     "wof:country":"US",
-    "wof:geomhash":"3037bfe5f4e3cf532126087080325f34",
+    "wof:geomhash":"6662c019392404ec8caf7c0b59399960",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":336900455,
-    "wof:lastmodified":1472606488,
+    "wof:lastmodified":1510942389,
     "wof:name":"Broadford & Maloney Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824000983
+    ],
     "wof:tags":[
         "marketing",
         "public",

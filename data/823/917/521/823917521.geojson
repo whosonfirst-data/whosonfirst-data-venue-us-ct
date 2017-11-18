@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.046428,41.542733,-73.046428,41.542733",
     "geom:latitude":41.542733,
     "geom:longitude":-73.046428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"971 Bank St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449942,
-    "wof:geomhash":"1f42bf7e91f3c60ef9bbf36f3450c7a1",
+    "wof:geomhash":"1957a35be77d8ad2c88244b59a405e82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":823917521,
-    "wof:lastmodified":1472613950,
+    "wof:lastmodified":1510942368,
     "wof:name":"Rena's",
     "wof:parent_id":85852453,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823900317
+    ],
     "wof:tags":[]
 },
   "bbox": [

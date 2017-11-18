@@ -7,13 +7,16 @@
     "addr:postcode":"10573",
     "addr:street":"S Ridge St Port Chester Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.682038,41.004167,-73.682038,41.004167",
     "geom:latitude":41.004167,
     "geom:longitude":-73.682038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"90 S Ridge St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463450868,
-    "wof:geomhash":"bdf5cd10dbcb59c91da3389a742dda1b",
+    "wof:geomhash":"010c769d5b570a2d555e06e1372cbb17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823954269,
-    "wof:lastmodified":1472613896,
+    "wof:lastmodified":1510942455,
     "wof:name":"Open Door Family Medical Ctr",
     "wof:parent_id":85846517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        353507767
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "care",

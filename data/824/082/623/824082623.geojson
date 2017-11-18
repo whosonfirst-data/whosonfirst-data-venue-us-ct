@@ -7,13 +7,16 @@
     "addr:postcode":"06001",
     "addr:street":"E Main St Ste;Avon Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.823898,41.807201,-72.823898,41.807201",
     "geom:latitude":41.807201,
     "geom:longitude":-72.823898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"51 E Main St Ste 18",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453908,
-    "wof:geomhash":"bbbf00126f01fd9a167ac2a2aa9e50ae",
+    "wof:geomhash":"3c35a5a5f3761b7be80582c7a7cf47b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":824082623,
-    "wof:lastmodified":1472613256,
+    "wof:lastmodified":1510943423,
     "wof:name":"River Park Optical",
     "wof:parent_id":85855189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823891259
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eyewear"

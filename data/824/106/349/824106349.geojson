@@ -7,13 +7,16 @@
     "addr:postcode":"06477",
     "addr:street":"Orange Center Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.026009,41.278728,-73.026009,41.278728",
     "geom:latitude":41.278728,
     "geom:longitude":-73.026009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"617 Orange Center Rd",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -61,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454473,
-    "wof:geomhash":"1c7488595e834092e96b763a059c6d4f",
+    "wof:geomhash":"bc0b4d4322323b660aca2a1842a8b86a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,12 +78,14 @@
         }
     ],
     "wof:id":824106349,
-    "wof:lastmodified":1472613285,
+    "wof:lastmodified":1510941941,
     "wof:name":"Town Of Orange",
     "wof:parent_id":85819849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823683787
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "town",

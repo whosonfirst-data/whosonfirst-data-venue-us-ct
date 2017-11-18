@@ -7,13 +7,16 @@
     "addr:postcode":"06851",
     "addr:street":"Cross St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.417229,41.11937,-73.417229,41.11937",
     "geom:latitude":41.11937,
     "geom:longitude":-73.417229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"40 Cross St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -53,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454718,
-    "wof:geomhash":"9327257175449dbf755d31103e984d6e",
+    "wof:geomhash":"c13d07a119cf7cce4b4e5e9b3776c983",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,12 +80,14 @@
         }
     ],
     "wof:id":824117641,
-    "wof:lastmodified":1472613346,
+    "wof:lastmodified":1510941395,
     "wof:name":"Roberta Rose Md",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823680761
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

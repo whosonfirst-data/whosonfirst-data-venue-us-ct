@@ -7,13 +7,16 @@
     "addr:postcode":"06488",
     "addr:street":"Main St N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.213331,41.479401,-73.213331,41.479401",
     "geom:latitude":41.479401,
     "geom:longitude":-73.213331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Main St N",
     "sg:city":"Southbury",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453794,
-    "wof:geomhash":"aaa87b50df0fcc5f6007e63645ece85f",
+    "wof:geomhash":"aa6559921e37c0bd90808cb87e068248",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":824077371,
-    "wof:lastmodified":1472612573,
+    "wof:lastmodified":1510944070,
     "wof:name":"Little Caesar's Pizza",
     "wof:parent_id":85810009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823760665
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

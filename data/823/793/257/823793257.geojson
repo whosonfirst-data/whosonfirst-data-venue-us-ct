@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.459604,41.392271,-73.459604,41.392271",
     "geom:latitude":41.392271,
     "geom:longitude":-73.459604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"93 West St",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463446520,
-    "wof:geomhash":"b88007668b107b79725f787b37efd4f8",
+    "wof:geomhash":"67866aca8ec3c26985fd9482a6e22178",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":823793257,
-    "wof:lastmodified":1472613765,
+    "wof:lastmodified":1510942732,
     "wof:name":"Marks Jay M",
     "wof:parent_id":85805179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824114143
+    ],
     "wof:tags":[]
 },
   "bbox": [

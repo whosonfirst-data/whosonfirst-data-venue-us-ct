@@ -7,6 +7,7 @@
     "addr:postcode":"10573",
     "addr:street":"Boston Post Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.669302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"320 Boston Post Rd",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442068,
-    "wof:geomhash":"14935f2b79e02e745571f748bf88b840",
+    "wof:geomhash":"e33a6adb2f0f38675693841088a319ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":823607023,
-    "wof:lastmodified":1492077484,
+    "wof:lastmodified":1510944083,
     "wof:name":"Anges Auto Body",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823677693
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

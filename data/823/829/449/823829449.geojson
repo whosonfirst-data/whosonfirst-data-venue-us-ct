@@ -7,6 +7,7 @@
     "addr:postcode":"06831",
     "addr:street":"Greenwich Hills Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.665046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5 Greenwich Hills Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463447590,
-    "wof:geomhash":"fa7b41d2233e8cff019550dac1f83c22",
+    "wof:geomhash":"f1ed6e337b8c91154c07e305238c8197",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":823829449,
-    "wof:lastmodified":1492026898,
+    "wof:lastmodified":1510941936,
     "wof:name":"ARC",
     "wof:parent_id":420555461,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        571511631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

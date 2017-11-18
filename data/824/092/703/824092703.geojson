@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.575758,41.989629,-72.575758,41.989629",
     "geom:latitude":41.989629,
     "geom:longitude":-72.575758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"54 Hazard Ave",
     "sg:city":"Enfield",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454143,
-    "wof:geomhash":"45626d28dd3a0ce27510658200122044",
+    "wof:geomhash":"c7cfbd5311dc03873f15a4fde067a24c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":824092703,
-    "wof:lastmodified":1472613250,
+    "wof:lastmodified":1510942817,
     "wof:name":"Domino's Pizza",
     "wof:parent_id":85865189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824074001
+    ],
     "wof:tags":[]
 },
   "bbox": [

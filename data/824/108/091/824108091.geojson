@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.809647,41.49617,-72.809647,41.49617",
     "geom:latitude":41.49617,
     "geom:longitude":-72.809647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1088 N Colony Rd",
     "sg:city":"Wallingford",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454511,
-    "wof:geomhash":"6eef927ed2a0f5e163c8fa500fa6dfa1",
+    "wof:geomhash":"2e3393b6e96ae7abbc266316331bbf2a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":824108091,
-    "wof:lastmodified":1472613275,
+    "wof:lastmodified":1510943738,
     "wof:name":"Applebee's",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824077535
+    ],
     "wof:tags":[]
 },
   "bbox": [

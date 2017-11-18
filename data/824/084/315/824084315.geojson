@@ -7,13 +7,16 @@
     "addr:postcode":"06001",
     "addr:street":"Country Club Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.86113,41.790138,-72.86113,41.790138",
     "geom:latitude":41.790138,
     "geom:longitude":-72.86113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"281 Country Club Rd",
     "sg:city":"Avon",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453950,
-    "wof:geomhash":"0c6eb95a458b8fab8442bf1ed27a6fec",
+    "wof:geomhash":"bb15471ca2e773572de042aa65ac658c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,12 +49,14 @@
         }
     ],
     "wof:id":824084315,
-    "wof:lastmodified":1472612938,
+    "wof:lastmodified":1510942606,
     "wof:name":"Avon Free Public Library",
     "wof:parent_id":85855189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824084513
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

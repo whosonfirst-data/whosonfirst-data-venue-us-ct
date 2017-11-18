@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.026311,41.546187,-73.026311,41.546187",
     "geom:latitude":41.546187,
     "geom:longitude":-73.026311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"495 Union St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451118,
-    "wof:geomhash":"7720333b920c6c734b64d02181cd4f9f",
+    "wof:geomhash":"36d38da087c92d90d908fde750ed1db6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":823964181,
-    "wof:lastmodified":1472613880,
+    "wof:lastmodified":1510942468,
     "wof:name":"Arby's",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824079071
+    ],
     "wof:tags":[]
 },
   "bbox": [

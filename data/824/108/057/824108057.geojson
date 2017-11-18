@@ -7,13 +7,16 @@
     "addr:postcode":"06492",
     "addr:street":"N Turnpike Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.830832,41.473495,-72.830832,41.473495",
     "geom:latitude":41.473495,
     "geom:longitude":-72.830832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"83 N Turnpike Rd",
     "sg:city":"Wallingford",
     "sg:classifiers":[],
@@ -38,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454510,
-    "wof:geomhash":"40183c7934d0206f899ebaff8bd70ef6",
+    "wof:geomhash":"dc2e84b0241ecd998240217b13a01706",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +55,14 @@
         }
     ],
     "wof:id":824108057,
-    "wof:lastmodified":1472613276,
+    "wof:lastmodified":1510944124,
     "wof:name":"Amore Apizza",
     "wof:parent_id":85843519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823529985
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

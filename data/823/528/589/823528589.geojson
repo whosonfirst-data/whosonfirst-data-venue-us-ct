@@ -7,13 +7,16 @@
     "addr:postcode":"10573",
     "addr:street":"N Main St;Chester",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.662489,41.001704,-73.662489,41.001704",
     "geom:latitude":41.001704,
     "geom:longitude":-73.662489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 N Main St",
     "sg:city":"Port Chester",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1463440225,
-    "wof:geomhash":"b13dd5af6abd2dbef5472b7f6da9a7f7",
+    "wof:geomhash":"b2bdef9fbcc8bd21694b369bde48e8c1",
     "wof:hierarchy":[],
     "wof:id":823528589,
-    "wof:lastmodified":1472613304,
+    "wof:lastmodified":1510941932,
     "wof:name":"European Horizons Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        286348195
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher"

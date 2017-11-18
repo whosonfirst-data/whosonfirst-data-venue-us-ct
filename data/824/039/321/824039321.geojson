@@ -7,13 +7,16 @@
     "addr:postcode":"06831",
     "addr:street":"Greenwich Hills Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.665046,41.02611,-73.665046,41.02611",
     "geom:latitude":41.02611,
     "geom:longitude":-73.665046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5 Greenwich Hills Dr",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -39,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1463452915,
-    "wof:geomhash":"fa7b41d2233e8cff019550dac1f83c22",
+    "wof:geomhash":"f1ed6e337b8c91154c07e305238c8197",
     "wof:hierarchy":[],
     "wof:id":824039321,
-    "wof:lastmodified":1472610409,
+    "wof:lastmodified":1510941991,
     "wof:name":"United Rentals Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        555500685
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "yard"

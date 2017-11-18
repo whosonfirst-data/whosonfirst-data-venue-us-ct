@@ -7,13 +7,16 @@
     "addr:postcode":"06450",
     "addr:street":"Beth Anne Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.786652,41.506772,-72.786652,41.506772",
     "geom:latitude":41.506772,
     "geom:longitude":-72.786652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"86 Beth Anne Cir",
     "sg:city":"Meriden",
     "sg:classifiers":[
@@ -40,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444811,
-    "wof:geomhash":"ae2c474fcd4ebac95c215aaa23192517",
+    "wof:geomhash":"77faef39d71860bbbf1d59720143fdce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823726369,
-    "wof:lastmodified":1472613735,
+    "wof:lastmodified":1510941699,
     "wof:name":"Richards Healthcare",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823844977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

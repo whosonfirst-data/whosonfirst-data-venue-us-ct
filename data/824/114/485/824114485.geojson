@@ -7,13 +7,16 @@
     "addr:postcode":"06811",
     "addr:street":"Padanaram Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.456512,41.412109,-73.456512,41.412109",
     "geom:latitude":41.412109,
     "geom:longitude":-73.456512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Padanaram Rd",
     "sg:city":"Danbury",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454648,
-    "wof:geomhash":"639a683dfb26b8cb6436d6ff32cd97df",
+    "wof:geomhash":"e55101ccf9e7845681a4cc144e001e28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":824114485,
-    "wof:lastmodified":1472613313,
+    "wof:lastmodified":1510943612,
     "wof:name":"Angel Tips Nail Spa",
     "wof:parent_id":85824355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823994795
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

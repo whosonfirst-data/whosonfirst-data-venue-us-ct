@@ -7,13 +7,16 @@
     "addr:postcode":"06468",
     "addr:street":"Hiram Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.266276,41.30617,-73.266276,41.30617",
     "geom:latitude":41.30617,
     "geom:longitude":-73.266276,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"64 Hiram Hill Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463447117,
-    "wof:geomhash":"66a70c198b48077401af94f707f0440f",
+    "wof:geomhash":"d3c283ebfaa01b1a11e0171c8ef4995e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":823813923,
-    "wof:lastmodified":1472613834,
+    "wof:lastmodified":1510943845,
     "wof:name":"Bard's Chem-Dry",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823975883
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners",

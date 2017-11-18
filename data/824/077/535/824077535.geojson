@@ -7,13 +7,16 @@
     "addr:postcode":"06492",
     "addr:street":"N Colony Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.809613,41.49609,-72.809613,41.49609",
     "geom:latitude":41.49609,
     "geom:longitude":-72.809613,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1088 N Colony Rd",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453797,
-    "wof:geomhash":"6c4d7d335811f7f7a07251baa1b566da",
+    "wof:geomhash":"227143364845c769d184eae1324f52c7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":824077535,
-    "wof:lastmodified":1472613236,
+    "wof:lastmodified":1510943738,
     "wof:name":"Applebee's",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824108091
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.158493,41.18887,-73.158493,41.18887",
     "geom:latitude":41.18887,
     "geom:longitude":-73.158493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1715 Barnum Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441931,
-    "wof:geomhash":"e63240a9f4abc8da488e7b9c874ccc01",
+    "wof:geomhash":"d37bacaf7d6cc992f418c00999b176c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +59,15 @@
         }
     ],
     "wof:id":823601293,
-    "wof:lastmodified":1472613370,
+    "wof:lastmodified":1510943379,
     "wof:name":"Soko's Hair Stylist",
     "wof:parent_id":85834249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824024129
+    ],
     "wof:tags":[]
 },
   "bbox": [

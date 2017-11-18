@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.4842,41.06588,-73.4842,41.06588",
     "geom:latitude":41.06588,
     "geom:longitude":-73.4842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Renshaw Rd Ste 117",
     "sg:city":"Darien",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454664,
-    "wof:geomhash":"00c219fe02823a9bdaa6bd30dad3cb76",
+    "wof:geomhash":"620bee2739656c09cdd26750349e756c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":824115377,
-    "wof:lastmodified":1472613317,
+    "wof:lastmodified":1510943503,
     "wof:name":"Fire Marshal",
     "wof:parent_id":85821787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824062911
+    ],
     "wof:tags":[
         "department"
     ]

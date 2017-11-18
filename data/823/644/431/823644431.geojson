@@ -7,13 +7,16 @@
     "addr:postcode":"06820",
     "addr:street":"Old Kings Hwy N Darien Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.465174,41.079563,-73.465174,41.079563",
     "geom:latitude":41.079563,
     "geom:longitude":-73.465174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"49 Old Kings Hwy N",
     "sg:city":"Darien",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442955,
-    "wof:geomhash":"4cbabdc46a7cfdf2f3d47082994b94e8",
+    "wof:geomhash":"d0fa3e0b0961ca421a21ee12033ec172",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":823644431,
-    "wof:lastmodified":1472613384,
+    "wof:lastmodified":1510943622,
     "wof:name":"Y W C A",
     "wof:parent_id":85879309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823881327
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

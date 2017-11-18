@@ -7,13 +7,16 @@
     "addr:postcode":"10573",
     "addr:street":"Rye Ridge Plz;Brook Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.681701,41.002984,-73.681701,41.002984",
     "geom:latitude":41.002984,
     "geom:longitude":-73.681701,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18 Rye Ridge Plz",
     "sg:city":"Rye Brook",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443265,
-    "wof:geomhash":"434cd5a2ac6529cfb5cd1413d8e58b99",
+    "wof:geomhash":"b7452392cfed5e69a0f63d6720e7afd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823657989,
-    "wof:lastmodified":1472613420,
+    "wof:lastmodified":1510943752,
     "wof:name":"Westchester Medical Group",
     "wof:parent_id":85846517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        554943651
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

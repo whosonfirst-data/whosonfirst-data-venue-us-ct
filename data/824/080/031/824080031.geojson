@@ -7,13 +7,16 @@
     "addr:postcode":"06825",
     "addr:street":"Black Rock Tpke",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.252523,41.181942,-73.252523,41.181942",
     "geom:latitude":41.181942,
     "geom:longitude":-73.252523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2171 Black Rock Tpke",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453853,
-    "wof:geomhash":"e2ebac86533a6d68c66c3f6ac5f0b29d",
+    "wof:geomhash":"4c8b296251a659452e7e2aa53391f0b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":824080031,
-    "wof:lastmodified":1472610922,
+    "wof:lastmodified":1510944026,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":85852811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824115709
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

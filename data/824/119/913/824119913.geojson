@@ -7,13 +7,16 @@
     "addr:postcode":"06902",
     "addr:street":"Richmond Hill Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.551143,41.047825,-73.551143,41.047825",
     "geom:latitude":41.047825,
     "geom:longitude":-73.551143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"206 Richmond Hill Ave",
     "sg:city":"Stamford",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454763,
-    "wof:geomhash":"7ce35cbbc1846a7f4665d5f735e2eaac",
+    "wof:geomhash":"59c5a86d730cb408751343ba528b8e38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":824119913,
-    "wof:lastmodified":1472613334,
+    "wof:lastmodified":1510943712,
     "wof:name":"Beamers",
     "wof:parent_id":85881175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823805783
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

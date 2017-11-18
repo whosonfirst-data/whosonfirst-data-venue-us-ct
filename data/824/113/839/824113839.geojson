@@ -7,13 +7,16 @@
     "addr:postcode":"06810",
     "addr:street":"White St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.43214,41.399309,-73.43214,41.399309",
     "geom:latitude":41.399309,
     "geom:longitude":-73.43214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"307 White St",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454636,
-    "wof:geomhash":"2dd4196a9216a14287def4bd2c0a6546",
+    "wof:geomhash":"e4c87112cd32eac9875360c1e12aa165",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":824113839,
-    "wof:lastmodified":1472613331,
+    "wof:lastmodified":1510943335,
     "wof:name":"Southbury Waste Disposal Inc",
     "wof:parent_id":85821411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823633127
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "container",

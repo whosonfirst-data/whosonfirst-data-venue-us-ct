@@ -7,13 +7,16 @@
     "addr:postcode":"06422",
     "addr:street":"Middlefield Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-72.685301,41.486392,-72.685301,41.486392",
     "geom:latitude":41.486392,
     "geom:longitude":-72.685301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"18 Middlefield Rd",
     "sg:city":"Durham",
     "sg:classifiers":[
@@ -54,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454378,
-    "wof:geomhash":"282edcc99b7a8ce782b6f5fbef8ca22a",
+    "wof:geomhash":"f5732ed77b3a48667afaddcee02ad35a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":824101813,
-    "wof:lastmodified":1472613258,
+    "wof:lastmodified":1510943094,
     "wof:name":"Dean Autoworks",
     "wof:parent_id":85815623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823775653
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

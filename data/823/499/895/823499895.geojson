@@ -7,13 +7,16 @@
     "addr:postcode":"06902",
     "addr:street":"Ludlow St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-73.531487,41.04239,-73.531487,41.04239",
     "geom:latitude":41.04239,
     "geom:longitude":-73.531487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"333 Ludlow St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463439570,
-    "wof:geomhash":"86010898b3fa70026402ccfd91d540ac",
+    "wof:geomhash":"1ac65beb1af9650005eacc1f769a0918",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823499895,
-    "wof:lastmodified":1472613260,
+    "wof:lastmodified":1510941464,
     "wof:name":"NYFIX Inc",
     "wof:parent_id":85849635,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823985249
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "technology",
