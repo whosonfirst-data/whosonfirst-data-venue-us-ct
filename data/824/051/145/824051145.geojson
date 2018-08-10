@@ -7,6 +7,7 @@
     "addr:postcode":"06830",
     "addr:street":"Field Point Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.630084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"66 Field Point Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453193,
-    "wof:geomhash":"309b8eeafea5816b30af00b8ccac05b8",
+    "wof:geomhash":"a496e17455def30cf0eb06e20a9e0d19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,12 +79,14 @@
         }
     ],
     "wof:id":824051145,
-    "wof:lastmodified":1492075472,
+    "wof:lastmodified":1533933049,
     "wof:name":"US Data Capture Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823739001
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

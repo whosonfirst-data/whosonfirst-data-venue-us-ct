@@ -2,18 +2,24 @@
   "id": 824000881,
   "type": "Feature",
   "properties": {
-    "addr:full":"25 Avery Pl Westport CT 06880",
+    "addr:city":"Westport",
+    "addr:full":"25 Avery Place Westport, Ct 06880-3215",
+    "addr:house_number":"25",
     "addr:housenumber":"25",
-    "addr:postcode":"06880",
+    "addr:phone":"+1 203-222-1424",
+    "addr:postcode":"06880-3215",
+    "addr:road":"Avery Place",
+    "addr:state":"CT",
     "addr:street":"Avery Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.361763,41.144037,-73.361763,41.144037",
-    "geom:latitude":41.144037,
-    "geom:longitude":-73.361763,
+    "geom:bbox":"-73.36167,41.14415,-73.36167,41.14415",
+    "geom:latitude":41.14415,
+    "geom:longitude":-73.36167,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"25 Avery Pl",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "society"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534123
+    ],
     "wof:belongsto":[
         85847197,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900456,
         "sg:id":"SG_3G0pRFm9GTnuAHXwEgQOcc_41.144037_-73.361763@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463452008,
-    "wof:geomhash":"1f5f4edc2665268168c3243304d76677",
+    "wof:geomhash":"d827b2cc95cacedad22f3b672e623abf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":824000881,
-    "wof:lastmodified":1472606770,
+    "wof:lastmodified":1533933042,
     "wof:name":"Westport Historical Society",
     "wof:parent_id":85847197,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -73.361763,
-    41.144037,
-    -73.361763,
-    41.144037
+    -73.36167,
+    41.14415,
+    -73.36167,
+    41.14415
 ],
-  "geometry": {"coordinates":[-73.361763,41.144037],"type":"Point"}
+  "geometry": {"coordinates":[-73.36167,41.14415],"type":"Point"}
 }

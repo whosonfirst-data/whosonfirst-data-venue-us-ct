@@ -15,6 +15,7 @@
     "geom:longitude":-73.539958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"733 Summer St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1463445382,
-    "wof:geomhash":"35d8017ed06fa519c829e48cd575fc40",
+    "wof:geomhash":"4677da125ca4e776a3df50b0ba3fc417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":823749853,
-    "wof:lastmodified":1492054949,
+    "wof:lastmodified":1533933049,
     "wof:name":"Muhlbaum Joel D",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823622417
+    ],
     "wof:tags":[]
 },
   "bbox": [

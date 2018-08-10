@@ -14,6 +14,7 @@
     "geom:longitude":-73.00515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"339 Boston Post Rd",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444007,
-    "wof:geomhash":"7317fe07d7af33b8f541efb62419b136",
+    "wof:geomhash":"ff5d74b5f82801d336d1fc7790d2068a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823689755,
-    "wof:lastmodified":1472613694,
+    "wof:lastmodified":1533933047,
     "wof:name":"Milford Physicians Svc",
     "wof:parent_id":85819849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823876663
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

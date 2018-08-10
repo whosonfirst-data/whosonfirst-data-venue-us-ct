@@ -7,6 +7,7 @@
     "addr:postcode":"06902",
     "addr:street":"Shippan Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.524784,41.029603,-73.524784,41.029603",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.524784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1639 Shippan Ave",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441088,
-    "wof:geomhash":"3d94885cd7b503df75e9c960754d6069",
+    "wof:geomhash":"f4b4f1f61a3d353838f62850e4f8e4c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823566319,
-    "wof:lastmodified":1472613332,
+    "wof:lastmodified":1533933048,
     "wof:name":"M E K Inc",
     "wof:parent_id":85848455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823968345
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "computer",

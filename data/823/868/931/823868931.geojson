@@ -7,6 +7,7 @@
     "addr:postcode":"06058",
     "addr:street":"Greenwoods Rd E Norfolk Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.147153,41.976639,-73.147153,41.976639",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.147153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"473 Greenwoods Rd E",
     "sg:city":"Norfolk",
     "sg:classifiers":[
@@ -38,15 +40,17 @@
     },
     "wof:country":"US",
     "wof:created":1463448714,
-    "wof:geomhash":"71ef74e619e6f4c85cefe9a985fd494f",
+    "wof:geomhash":"2ef4a8f219081bf8dd1291fe00514d22",
     "wof:hierarchy":[],
     "wof:id":823868931,
-    "wof:lastmodified":1472613855,
+    "wof:lastmodified":1533933043,
     "wof:name":"Bascettas Bricks Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824090215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "contractor"

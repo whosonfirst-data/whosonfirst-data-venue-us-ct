@@ -7,6 +7,7 @@
     "addr:postcode":"06001",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.823097,41.806999,-72.823097,41.806999",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.823097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"56 E Main St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453945,
-    "wof:geomhash":"65db1c7a633f3e970083a7648000a1f1",
+    "wof:geomhash":"71993ea845ecbbcbf9dac1b6211d6ff5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":824084111,
-    "wof:lastmodified":1472612257,
+    "wof:lastmodified":1533933044,
     "wof:name":"Meyers Linda B Atty",
     "wof:parent_id":85841787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824084475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

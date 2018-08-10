@@ -14,6 +14,7 @@
     "geom:longitude":-73.058734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 W River St",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451432,
-    "wof:geomhash":"8fce82161a8716cfe7936c527c53a335",
+    "wof:geomhash":"d44543476243b24186ac465a50a29bd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823978167,
-    "wof:lastmodified":1472613884,
+    "wof:lastmodified":1533933050,
     "wof:name":"Milford City & Town Clerks",
     "wof:parent_id":85820241,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823817211
+    ],
     "wof:tags":[
         "city"
     ]

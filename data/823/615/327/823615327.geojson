@@ -14,6 +14,7 @@
     "geom:longitude":-73.225061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Main St S",
     "sg:city":"Southbury",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442282,
-    "wof:geomhash":"4efdac12eb5b7d641261ea6108edb6b7",
+    "wof:geomhash":"20f1aec83426c78953769a0cde5c868d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823615327,
-    "wof:lastmodified":1472613403,
+    "wof:lastmodified":1533933046,
     "wof:name":"Town of Southbury",
     "wof:parent_id":85810009,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823540427
+    ],
     "wof:tags":[
         "town"
     ]

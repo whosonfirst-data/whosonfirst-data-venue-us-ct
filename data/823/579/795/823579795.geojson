@@ -14,6 +14,7 @@
     "geom:longitude":-72.808341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"546 S Broad St",
     "sg:city":"Meriden",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441417,
-    "wof:geomhash":"cd6a0fb0b90c275ef12136e0ca613599",
+    "wof:geomhash":"1bd8663418105f50d7e4456874e6720b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":823579795,
-    "wof:lastmodified":1472613347,
+    "wof:lastmodified":1533933044,
     "wof:name":"Allen Richard S MD",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824055545
+    ],
     "wof:tags":[
         "medical"
     ]

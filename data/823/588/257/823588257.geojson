@@ -14,6 +14,7 @@
     "geom:longitude":-73.547544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"62 Southfield Ave",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441608,
-    "wof:geomhash":"12d112d41120968c4e0ddd9d973d7f2f",
+    "wof:geomhash":"bc223d97474482c67c0eb1475c56a622",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":823588257,
-    "wof:lastmodified":1472613368,
+    "wof:lastmodified":1533933045,
     "wof:name":"Taylor Rodgers & Assoc Inc",
     "wof:parent_id":85881173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823940639
+    ],
     "wof:tags":[
         "consultant",
         "search",

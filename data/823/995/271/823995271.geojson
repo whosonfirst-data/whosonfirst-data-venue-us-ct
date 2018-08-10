@@ -14,6 +14,7 @@
     "geom:longitude":-73.04135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Boston Post Rd",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451869,
-    "wof:geomhash":"79ec4511c0a32d44b9aa258bcf52350a",
+    "wof:geomhash":"a676c00e647e0c10b6255ee2f7852842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823995271,
-    "wof:lastmodified":1472613972,
+    "wof:lastmodified":1533933049,
     "wof:name":"People's Choice",
     "wof:parent_id":85819849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823534131
+    ],
     "wof:tags":[
         "market",
         "analysis"

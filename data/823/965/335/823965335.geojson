@@ -14,6 +14,7 @@
     "geom:longitude":-73.131986,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2725 Main St",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451141,
-    "wof:geomhash":"1ff638c73e074332c08e4d46897f4c30",
+    "wof:geomhash":"e9082447ad725c1a430708c3606c208a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823965335,
-    "wof:lastmodified":1472613867,
+    "wof:lastmodified":1533933047,
     "wof:name":"Fairfield County-Stratford Tow",
     "wof:parent_id":85888495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823658291
+    ],
     "wof:tags":[
         "executive"
     ]

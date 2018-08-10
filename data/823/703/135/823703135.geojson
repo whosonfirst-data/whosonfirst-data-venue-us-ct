@@ -14,6 +14,7 @@
     "geom:longitude":-73.337745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"830 Post Rd E",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444304,
-    "wof:geomhash":"ef88134da4240e5b885e2e740c071a09",
+    "wof:geomhash":"99173dd3a207f279bb4d1c033d303139",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":823703135,
-    "wof:lastmodified":1472613678,
+    "wof:lastmodified":1533933048,
     "wof:name":"Constitution Capitol Corp",
     "wof:parent_id":85823521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823830955
+    ],
     "wof:tags":[
         "consultant",
         "planning",

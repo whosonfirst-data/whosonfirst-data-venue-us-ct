@@ -2,18 +2,24 @@
   "id": 824087509,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 Cherry Brook Rd Canton CT 06019",
+    "addr:city":"Canton",
+    "addr:full":"150 Cherry Brook Rd Canton, Ct 06019",
+    "addr:house_number":"150",
     "addr:housenumber":"150",
+    "addr:phone":"+1 860-693-1000",
     "addr:postcode":"06019",
+    "addr:road":"Cherry Brook Rd",
+    "addr:state":"CT",
     "addr:street":"Cherry Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.9216,41.848301,-72.9216,41.848301",
-    "geom:latitude":41.848301,
-    "geom:longitude":-72.9216,
+    "geom:bbox":"-72.92114,41.84914,-72.92114,41.84914",
+    "geom:latitude":41.84914,
+    "geom:longitude":-72.92114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"150 Cherry Brook Rd",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -33,7 +39,8 @@
     "sg:postcode":"06019",
     "sg:province":"CT",
     "sg:website":"www.cantonclayworks.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85865195,
         102191575,
@@ -45,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900096,
         "sg:id":"SG_38Btk5vbhs3KLEyESUVkWt_41.848301_-72.921600@1303262243"
     },
     "wof:country":"US",
     "wof:created":1463454032,
-    "wof:geomhash":"5f3bf4b4accf3026a0544383c0303a5f",
+    "wof:geomhash":"eb84a02507918f9785ba8b73a2cca4ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +71,8 @@
         }
     ],
     "wof:id":824087509,
-    "wof:lastmodified":1472612703,
-    "wof:name":"Canton Clay Works Llc the",
+    "wof:lastmodified":1533933043,
+    "wof:name":"Canton Clay Works",
     "wof:parent_id":85865195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -73,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.9216,
-    41.848301,
-    -72.9216,
-    41.848301
+    -72.92114,
+    41.84914,
+    -72.92114,
+    41.84914
 ],
-  "geometry": {"coordinates":[-72.9216,41.848301],"type":"Point"}
+  "geometry": {"coordinates":[-72.92113999999999,41.84914],"type":"Point"}
 }

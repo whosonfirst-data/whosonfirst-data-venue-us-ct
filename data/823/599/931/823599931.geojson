@@ -14,6 +14,7 @@
     "geom:longitude":-73.549323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2777 Summer St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441895,
-    "wof:geomhash":"9527e36d27785f980c9b77876fb5aac8",
+    "wof:geomhash":"4d58d92346b8780568424c2680ed7f27",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823599931,
-    "wof:lastmodified":1472613431,
+    "wof:lastmodified":1533933045,
     "wof:name":"Richard H Stein",
     "wof:parent_id":85844555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823934049
+    ],
     "wof:tags":[
         "attorney"
     ]

@@ -2,19 +2,25 @@
   "id": 823834885,
   "type": "Feature",
   "properties": {
-    "addr:full":"31 Great Ring Rd Monroe CT 06468",
+    "addr:city":"Monroe",
+    "addr:full":"31 Great Ring Rd Monroe, Ct 06468",
+    "addr:house_number":"31",
     "addr:housenumber":"31",
+    "addr:phone":"+1 203-261-5287",
     "addr:postcode":"06468",
+    "addr:road":"Great Ring Rd",
+    "addr:state":"CT",
     "addr:street":"Great Ring Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.212233,41.362682,-73.212233,41.362682",
-    "geom:latitude":41.362682,
-    "geom:longitude":-73.212233,
+    "geom:bbox":"-73.21289,41.36496,-73.21289,41.36496",
+    "geom:latitude":41.36496,
+    "geom:longitude":-73.21289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"31 Great Ring Rd",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -28,7 +34,10 @@
     "sg:phone":"+1 203 261 5287",
     "sg:postcode":"06468",
     "sg:province":"CT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534123
+    ],
     "wof:belongsto":[
         85688629,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900053,
         "sg:id":"SG_5AmDXUVPxkQhV2RlEQzihS_41.362682_-73.212233@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463447757,
-    "wof:geomhash":"bad363178d521b1d02980b8ba4b5b039",
+    "wof:geomhash":"f8fb986bf773f280c3e586a8908ae6c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":823834885,
-    "wof:lastmodified":1492027003,
-    "wof:name":"Monroe Historic Society",
+    "wof:lastmodified":1533933051,
+    "wof:name":"Monroe Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.212233,
-    41.362682,
-    -73.212233,
-    41.362682
+    -73.21289,
+    41.36496,
+    -73.21289,
+    41.36496
 ],
-  "geometry": {"coordinates":[-73.212233,41.362682],"type":"Point"}
+  "geometry": {"coordinates":[-73.21289,41.36496],"type":"Point"}
 }

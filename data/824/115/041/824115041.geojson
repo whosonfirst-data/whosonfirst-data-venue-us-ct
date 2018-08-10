@@ -15,6 +15,7 @@
     "geom:longitude":-73.489973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4 Powder Horn Rdg",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454657,
-    "wof:geomhash":"11a9a956dba192765ba00e3e0ac9c4e5",
+    "wof:geomhash":"9e0ece9e51c7a10acfd96f09055ba025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,13 +70,15 @@
         }
     ],
     "wof:id":824115041,
-    "wof:lastmodified":1492027096,
+    "wof:lastmodified":1533933044,
     "wof:name":"P&M Cleaning Services",
     "wof:parent_id":420555479,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823764025
+    ],
     "wof:tags":[
         "cleaner",
         "contractor",

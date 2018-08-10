@@ -14,6 +14,7 @@
     "geom:longitude":-73.123756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Enterprise Dr",
     "sg:city":"Shelton",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451323,
-    "wof:geomhash":"9a0d9be2ddaeb625a9bb2a59c7e4f121",
+    "wof:geomhash":"7f627249248e2251d66b472822b85b28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823973433,
-    "wof:lastmodified":1472613902,
+    "wof:lastmodified":1533933048,
     "wof:name":"Flexi International Software",
     "wof:parent_id":85839801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824039259
+    ],
     "wof:tags":[
         "software"
     ]

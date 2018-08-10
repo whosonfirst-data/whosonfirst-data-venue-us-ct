@@ -14,6 +14,7 @@
     "geom:longitude":-73.414081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 School St",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442281,
-    "wof:geomhash":"e0157ec16385f4f93e2fd641e449df8c",
+    "wof:geomhash":"4d5733cb71cbebc2c6d30a6944f9786a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823615293,
-    "wof:lastmodified":1472613395,
+    "wof:lastmodified":1533933045,
     "wof:name":"Bethel Visiting Nurse Assn",
     "wof:parent_id":85821411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824055805
+    ],
     "wof:tags":[
         "village"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"06010",
     "addr:street":"Stafford Ave Bristol Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.910301,41.700699,-72.910301,41.700699",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.910301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"914 Stafford Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453981,
-    "wof:geomhash":"6131c52fa3f0c5e9449e29acce18be77",
+    "wof:geomhash":"471b73a5422f26643df0759748a2e031",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":824085313,
-    "wof:lastmodified":1472613232,
+    "wof:lastmodified":1533933044,
     "wof:name":"Cindy's Nail Salon",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823556981
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

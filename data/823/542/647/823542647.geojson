@@ -2,18 +2,24 @@
   "id": 823542647,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 Washington St Middletown CT 06457",
+    "addr:city":"Middletown",
+    "addr:full":"119 Washington Street Middletown, Ct 06457",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
+    "addr:phone":"+1 860-347-0495",
     "addr:postcode":"06457",
+    "addr:road":"Washington Street",
+    "addr:state":"CT",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.652602,41.56166,-72.652602,41.56166",
-    "geom:latitude":41.56166,
-    "geom:longitude":-72.652602,
+    "geom:bbox":"-72.65294,41.56153,-72.65294,41.56153",
+    "geom:latitude":41.56153,
+    "geom:longitude":-72.65294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 Washington St",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85849655,
         102191575,
@@ -42,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400965,
         "sg:id":"SG_6hde3lJQZCGX1uqO0KI1HD_41.561660_-72.652602@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463440526,
-    "wof:geomhash":"850fd8fd910b00eeb16a0cbf5fc944da",
+    "wof:geomhash":"6d65eb04d89f6072261ad3fc5701ca40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":823542647,
-    "wof:lastmodified":1472613313,
-    "wof:name":"Kidcity Childrens Museum",
+    "wof:lastmodified":1533933043,
+    "wof:name":"Kidcity Children'S Museum",
     "wof:parent_id":85849655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -72.652602,
-    41.56166,
-    -72.652602,
-    41.56166
+    -72.65294,
+    41.56153,
+    -72.65294,
+    41.56153
 ],
-  "geometry": {"coordinates":[-72.652602,41.56166],"type":"Point"}
+  "geometry": {"coordinates":[-72.65294,41.56153],"type":"Point"}
 }

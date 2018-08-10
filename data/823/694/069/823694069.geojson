@@ -14,6 +14,7 @@
     "geom:longitude":-73.635127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"55 Old Field Point Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444109,
-    "wof:geomhash":"7f4514e8193fb0cd9678be6fb0b60dd8",
+    "wof:geomhash":"a27d3fadcfce3c204fe1e3bba4262472",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823694069,
-    "wof:lastmodified":1472613669,
+    "wof:lastmodified":1533933048,
     "wof:name":"Anderson & Co",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823818259
+    ],
     "wof:tags":[
         "accountant"
     ]

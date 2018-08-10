@@ -2,18 +2,24 @@
   "id": 823721591,
   "type": "Feature",
   "properties": {
-    "addr:full":"4 Sunset Ln Ridgefield CT 06877",
+    "addr:city":"Ridgefield",
+    "addr:full":"4 Sunset Ln Ridgefield, Ct 06877-4643",
+    "addr:house_number":"4",
     "addr:housenumber":"4",
-    "addr:postcode":"06877",
+    "addr:phone":"+1 203-438-5821",
+    "addr:postcode":"06877-4643",
+    "addr:road":"Sunset Ln",
+    "addr:state":"CT",
     "addr:street":"Sunset Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.492289,41.285149,-73.492289,41.285149",
-    "geom:latitude":41.285149,
-    "geom:longitude":-73.492289,
+    "geom:bbox":"-73.49491,41.28551,-73.49491,41.28551",
+    "geom:latitude":41.28551,
+    "geom:longitude":-73.49491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"4 Sunset Ln",
     "sg:city":"Ridgefield",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525713
+    ],
     "wof:belongsto":[
         85852297,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900531,
         "sg:id":"SG_0j5sZI4WIsNZZsNZVw1qeJ_41.285149_-73.492289@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463444680,
-    "wof:geomhash":"2a4a7eb6f6bed8ff5ec1832563af8a22",
+    "wof:geomhash":"1b43e9475c7be86b05e5d71663d3aca7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":823721591,
-    "wof:lastmodified":1472613721,
+    "wof:lastmodified":1533933048,
     "wof:name":"Ridgefield Historical Society",
     "wof:parent_id":85852297,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -73.492289,
-    41.285149,
-    -73.492289,
-    41.285149
+    -73.49491,
+    41.28551,
+    -73.49491,
+    41.28551
 ],
-  "geometry": {"coordinates":[-73.492289,41.285149],"type":"Point"}
+  "geometry": {"coordinates":[-73.49491,41.28551],"type":"Point"}
 }

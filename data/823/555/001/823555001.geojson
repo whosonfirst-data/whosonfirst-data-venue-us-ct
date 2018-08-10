@@ -14,6 +14,7 @@
     "geom:longitude":-73.000127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2457 E Main St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463440820,
-    "wof:geomhash":"bf573afd0458f8f0ea7c0e97b380088c",
+    "wof:geomhash":"bc271d15fca42730d109bf1c837f1545",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823555001,
-    "wof:lastmodified":1472613317,
+    "wof:lastmodified":1533933044,
     "wof:name":"Marie's Jewelry",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823945525
+    ],
     "wof:tags":[
         "diamond"
     ]

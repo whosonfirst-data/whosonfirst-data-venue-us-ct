@@ -7,6 +7,7 @@
     "addr:postcode":"06405",
     "addr:street":"Matthew Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.841496,41.276252,-72.841496,41.276252",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.841496,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"46 Matthew Rd",
     "sg:city":"Branford",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448322,
-    "wof:geomhash":"260fdb5cb7907a5af9c915f344aebe5b",
+    "wof:geomhash":"7be12ce77d0260d0533f92585f485f50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":823853603,
-    "wof:lastmodified":1472613825,
+    "wof:lastmodified":1533933047,
     "wof:name":"Dirt Buster Cleaning Services",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823683927
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

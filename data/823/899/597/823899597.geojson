@@ -7,6 +7,7 @@
     "addr:postcode":"06877",
     "addr:street":"E Ridge St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.493951,41.281026,-73.493951,41.281026",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.493951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"90 E Ridge St",
     "sg:city":"Ridgefield",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449447,
-    "wof:geomhash":"c11dda88ffdb246489016ecd582c0dbb",
+    "wof:geomhash":"8f78f8cf2f31721209222580165eecdf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":823899597,
-    "wof:lastmodified":1472613923,
+    "wof:lastmodified":1533933042,
     "wof:name":"MCCA",
     "wof:parent_id":85852297,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823483117
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

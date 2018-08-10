@@ -14,6 +14,7 @@
     "geom:longitude":-73.446109,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 Hospital Ave",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442077,
-    "wof:geomhash":"cb0bf41d5f12e9df492b60e512b3220a",
+    "wof:geomhash":"d50584fab9e3e558c2d03211b223df5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823607515,
-    "wof:lastmodified":1472613395,
+    "wof:lastmodified":1533933045,
     "wof:name":"Danbury Radiation Oncology",
     "wof:parent_id":85821411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823510255
+    ],
     "wof:tags":[
         "medical"
     ]

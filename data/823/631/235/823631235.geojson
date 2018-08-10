@@ -14,6 +14,7 @@
     "geom:longitude":-73.453984,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 West St",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442653,
-    "wof:geomhash":"20c89e0627ea54af1ba6de43d6ef93b2",
+    "wof:geomhash":"b553e7f51ba514d3706d58d241bed9e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823631235,
-    "wof:lastmodified":1472613390,
+    "wof:lastmodified":1533933045,
     "wof:name":"Greatr Dnbry Chmbr Cmmrce",
     "wof:parent_id":85805179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823803305
+    ],
     "wof:tags":[
         "business"
     ]

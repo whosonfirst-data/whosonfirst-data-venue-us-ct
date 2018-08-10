@@ -14,6 +14,7 @@
     "geom:longitude":-72.328499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"96 Shore Rd",
     "sg:city":"Old Lyme",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454315,
-    "wof:geomhash":"96d86adc9ea7600ad0fa3274e83d6d8d",
+    "wof:geomhash":"bb8f2f6dd820e37648bd5a5406aee2d3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":824098767,
-    "wof:lastmodified":1472613264,
+    "wof:lastmodified":1533933044,
     "wof:name":"Ritter Farms",
     "wof:parent_id":85831737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823770439
+    ],
     "wof:tags":[
         "veggie"
     ]

@@ -2,17 +2,22 @@
   "id": 823731677,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 Wall St New Haven CT 06511",
+    "addr:city":"New Haven",
+    "addr:full":"22 Wall St New Haven, Ct 06511-6528",
+    "addr:house_number":"22",
     "addr:housenumber":"22",
-    "addr:postcode":"06511",
+    "addr:phone":"+1 203-562-5437",
+    "addr:postcode":"06511-6528",
+    "addr:road":"Wall St",
+    "addr:state":"CT",
     "addr:street":"Wall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-72.921082,41.308462,-72.921082,41.308462",
-    "geom:latitude":41.308462,
-    "geom:longitude":-72.921082,
+    "geom:bbox":"-72.9211,41.30845,-72.9211,41.30845",
+    "geom:latitude":41.30845,
+    "geom:longitude":-72.9211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -32,7 +37,11 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527877,
+        102534123
+    ],
     "wof:belongsto":[
         85879175,
         102191575,
@@ -44,12 +53,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900450,
         "osm:way":216999485,
         "sg:id":"SG_6Gzv7BZTntvWfyVCRHBnYC_41.308462_-72.921082@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463444951,
-    "wof:geomhash":"837e99c60064b6ddb8c2a8453717605d",
+    "wof:geomhash":"98c407abba955362f15d08286d6195ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,8 +73,8 @@
         }
     ],
     "wof:id":823731677,
-    "wof:lastmodified":1510941317,
-    "wof:name":"Connecticut Childrens Museum",
+    "wof:lastmodified":1533933049,
+    "wof:name":"Connecticut Children'S Museum",
     "wof:parent_id":85879175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -75,10 +85,10 @@
     ]
 },
   "bbox": [
-    -72.921082,
-    41.308462,
-    -72.921082,
-    41.308462
+    -72.9211,
+    41.30845,
+    -72.9211,
+    41.30845
 ],
-  "geometry": {"coordinates":[-72.921082,41.308462],"type":"Point"}
+  "geometry": {"coordinates":[-72.9211,41.30845],"type":"Point"}
 }

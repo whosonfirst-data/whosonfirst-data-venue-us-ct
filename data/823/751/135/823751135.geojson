@@ -14,6 +14,7 @@
     "geom:longitude":-72.909788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Collins Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463445411,
-    "wof:geomhash":"b827d6580ff3ec78215f9752f77e0cc6",
+    "wof:geomhash":"4247bd2a87b9e02ecc4b3aaf04f00082",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823751135,
-    "wof:lastmodified":1472613776,
+    "wof:lastmodified":1533933049,
     "wof:name":"Bristol Urological Associates",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824085377
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -14,6 +14,7 @@
     "geom:longitude":-72.852988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"326 Old Maple Ave",
     "sg:city":"North Haven",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463439853,
-    "wof:geomhash":"f069377dae8bc8e14050ed8ecb6e1d39",
+    "wof:geomhash":"027617691d44a41e6e1bf101650f6c79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823512719,
-    "wof:lastmodified":1472613258,
+    "wof:lastmodified":1533933042,
     "wof:name":"New England Barrel Co",
     "wof:parent_id":85835039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823917281
+    ],
     "wof:tags":[
         "barrels",
         "drum"

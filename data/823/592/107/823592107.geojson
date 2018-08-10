@@ -14,6 +14,7 @@
     "geom:longitude":-73.001424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"491 Meriden Rd",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441695,
-    "wof:geomhash":"647d2e71b25bea0c1b03dc8ce79b411b",
+    "wof:geomhash":"834d2b0f931f951eef1e67c54e669f0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823592107,
-    "wof:lastmodified":1472613381,
+    "wof:lastmodified":1533933045,
     "wof:name":"Perillos Bowlodrome Inc",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823961229
+    ],
     "wof:tags":[
         "center"
     ]

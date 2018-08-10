@@ -7,6 +7,7 @@
     "addr:postcode":"06902",
     "addr:street":"Dock St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.535926,41.04775,-73.535926,41.04775",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.535926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Dock St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449273,
-    "wof:geomhash":"7e539bc77e3e5596799e2fc64531a767",
+    "wof:geomhash":"cba859fcc7d479a1c70d7f83b9aab016",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823893015,
-    "wof:lastmodified":1472613861,
+    "wof:lastmodified":1533933041,
     "wof:name":"Aviator Voice",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824002609
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

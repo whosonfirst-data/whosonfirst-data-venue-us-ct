@@ -14,6 +14,7 @@
     "geom:longitude":-72.870898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"157 Main St",
     "sg:city":"East Haven",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451556,
-    "wof:geomhash":"5dbb2f0f9179c3dd1c1ff13a3859f374",
+    "wof:geomhash":"37f1c65e1c7e82a6fc742f07e5fc9a05",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +52,15 @@
         }
     ],
     "wof:id":823982695,
-    "wof:lastmodified":1472613928,
+    "wof:lastmodified":1533933048,
     "wof:name":"Annex Used Cars Inc",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823509059
+    ],
     "wof:tags":[]
 },
   "bbox": [

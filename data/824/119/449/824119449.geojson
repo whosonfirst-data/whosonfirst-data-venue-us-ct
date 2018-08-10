@@ -14,6 +14,7 @@
     "geom:longitude":-73.54,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"733 Summer St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454755,
-    "wof:geomhash":"9e54de9be09673e2c7fe92e73acac939",
+    "wof:geomhash":"cce33ec383a34f4bd57ba1865cb4a0de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +69,15 @@
         }
     ],
     "wof:id":824119449,
-    "wof:lastmodified":1472613324,
+    "wof:lastmodified":1533933045,
     "wof:name":"The Law Offices of Danielle M. Mangini, LLC",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823823265
+    ],
     "wof:tags":[
         "attorney",
         "injury",

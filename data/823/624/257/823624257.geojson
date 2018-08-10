@@ -14,6 +14,7 @@
     "geom:longitude":-73.358866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"64 Taunton Hill Rd",
     "sg:city":"Newtown",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442497,
-    "wof:geomhash":"e061806d9439cd77815396a88a1f4ce5",
+    "wof:geomhash":"2098d80fd69fdbe851b1edec64e05fa9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":823624257,
-    "wof:lastmodified":1472613380,
+    "wof:lastmodified":1533933046,
     "wof:name":"Creative Systems Design Inc",
     "wof:parent_id":85814701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823763083
+    ],
     "wof:tags":[
         "consultant",
         "designer"

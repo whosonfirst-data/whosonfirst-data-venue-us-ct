@@ -14,6 +14,7 @@
     "geom:longitude":-72.643768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30 Dekoven Dr",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -63,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454414,
-    "wof:geomhash":"5b1e1fd5bc270cb0167dc1b5e40e068d",
+    "wof:geomhash":"9a1e1b0aec174066d35622f39aac89c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,13 +78,15 @@
         }
     ],
     "wof:id":824103591,
-    "wof:lastmodified":1472613242,
+    "wof:lastmodified":1533933044,
     "wof:name":"Ct Rental Center",
     "wof:parent_id":85849655,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823766005
+    ],
     "wof:tags":[
         "yard",
         "tents-rental",

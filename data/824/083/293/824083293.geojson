@@ -7,6 +7,7 @@
     "addr:postcode":"06001",
     "addr:street":"W Avon Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.867302,41.816002,-72.867302,41.816002",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.867302,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"30 W Avon Rd",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453925,
-    "wof:geomhash":"fa484458a791f0780d1783dda61e3dc2",
+    "wof:geomhash":"ccce3805e2afa382713871db0eb5b6d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":824083293,
-    "wof:lastmodified":1472613246,
+    "wof:lastmodified":1533933044,
     "wof:name":"Bass David M MD PC",
     "wof:parent_id":85865195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824084765
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon",

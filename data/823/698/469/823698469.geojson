@@ -14,6 +14,7 @@
     "geom:longitude":-72.70331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"33 Plumb Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444208,
-    "wof:geomhash":"f622e63463ef36e66300e2294894561b",
+    "wof:geomhash":"a0f24536ee374caa8980383ec80d37e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823698469,
-    "wof:lastmodified":1472613682,
+    "wof:lastmodified":1533933048,
     "wof:name":"John H Turner Roofing & Siding",
     "wof:parent_id":85856893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824103535
+    ],
     "wof:tags":[
         "contractor"
     ]

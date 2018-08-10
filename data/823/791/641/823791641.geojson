@@ -7,6 +7,7 @@
     "addr:postcode":"06443",
     "addr:street":"Hull Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.575859,41.286046,-72.575859,41.286046",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.575859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"26 Hull Rd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463446471,
-    "wof:geomhash":"87878a4b3dfbee194aa2e7ff38403354",
+    "wof:geomhash":"debed1895f752cb6fe45e33e6dc59d6c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":823791641,
-    "wof:lastmodified":1472613819,
+    "wof:lastmodified":1533933046,
     "wof:name":"Mc Goey Investigative Svc",
     "wof:parent_id":85847627,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823611763
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "investigator"

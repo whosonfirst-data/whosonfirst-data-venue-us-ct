@@ -7,6 +7,7 @@
     "addr:postcode":"06611",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-73.219873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5065 Main St",
     "sg:city":"Trumbull",
     "sg:classifiers":[
@@ -53,12 +54,14 @@
     "wof:geomhash":"9c769fcabcc7a03521891a9c24159ccd",
     "wof:hierarchy":[],
     "wof:id":824109581,
-    "wof:lastmodified":1511317927,
+    "wof:lastmodified":1533933045,
     "wof:name":"Brookstone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823582099
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop",

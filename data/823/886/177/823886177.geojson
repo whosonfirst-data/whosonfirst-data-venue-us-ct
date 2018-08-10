@@ -2,18 +2,24 @@
   "id": 823886177,
   "type": "Feature",
   "properties": {
-    "addr:full":"915 Whitney Ave Hamden CT 06517",
+    "addr:city":"Hamden",
+    "addr:full":"915 Whitney Ave Hamden, Ct 06517-4036",
+    "addr:house_number":"915",
     "addr:housenumber":"915",
-    "addr:postcode":"06517",
+    "addr:phone":"+1 203-777-1833",
+    "addr:postcode":"06517-4036",
+    "addr:road":"Whitney Ave",
+    "addr:state":"CT",
     "addr:street":"Whitney Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.911572,41.334939,-72.911572,41.334939",
-    "geom:latitude":41.334939,
-    "geom:longitude":-72.911572,
+    "geom:bbox":"-72.91159,41.33498,-72.91159,41.33498",
+    "geom:latitude":41.33498,
+    "geom:longitude":-72.91159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"915 Whitney Ave",
     "sg:city":"Hamden",
     "sg:classifiers":[
@@ -30,20 +36,24 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527877
+    ],
     "wof:belongsto":[
-        85688629,
+        102086923,
         85633793,
-        85879177,
-        102086923
+        85688629,
+        85879177
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900161,
         "sg:id":"SG_4bD1eWPjAM23pJTWu0IxxP_41.334939_-72.911572@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463449107,
-    "wof:geomhash":"da2ab2a0fe2874858460cbe25ccc4467",
+    "wof:geomhash":"3f44e1939f0ea4d5fbb0750bd5e3693d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":823886177,
-    "wof:lastmodified":1472613861,
+    "wof:lastmodified":1533933050,
     "wof:name":"Eli Whitney Museum",
     "wof:parent_id":85879177,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     ]
 },
   "bbox": [
-    -72.911572,
-    41.334939,
-    -72.911572,
-    41.334939
+    -72.91159,
+    41.33498,
+    -72.91159,
+    41.33498
 ],
-  "geometry": {"coordinates":[-72.91157200000001,41.334939],"type":"Point"}
+  "geometry": {"coordinates":[-72.91159,41.33498],"type":"Point"}
 }

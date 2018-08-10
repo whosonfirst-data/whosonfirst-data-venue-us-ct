@@ -7,6 +7,7 @@
     "addr:postcode":"06830",
     "addr:street":"Perryridge Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-73.629267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sg:address":"5 Perryridge Rd",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"1f8a45824785da6e16f94c49461edd2d",
     "wof:hierarchy":[],
     "wof:id":823644737,
-    "wof:lastmodified":1510944017,
+    "wof:lastmodified":1533933048,
     "wof:name":"Greenwich Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823724899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

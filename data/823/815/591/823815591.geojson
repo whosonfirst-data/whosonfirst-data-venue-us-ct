@@ -7,6 +7,7 @@
     "addr:postcode":"06830",
     "addr:street":"W Putnam Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.630088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"124 W Putnam Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463447162,
-    "wof:geomhash":"43f571c8946457e9219d8be58f9b2221",
+    "wof:geomhash":"bf3f2b71a6081c38270f1e19f57d80bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,12 +76,14 @@
         }
     ],
     "wof:id":823815591,
-    "wof:lastmodified":1492067223,
+    "wof:lastmodified":1533933048,
     "wof:name":"Matte & Company Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823725543
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "executive",

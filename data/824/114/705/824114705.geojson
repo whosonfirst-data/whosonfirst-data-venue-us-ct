@@ -14,6 +14,7 @@
     "geom:longitude":-73.418822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 Federal Rd",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -73,7 +74,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454652,
-    "wof:geomhash":"67d1cb86f1880377d785bcfe72cb2b2f",
+    "wof:geomhash":"7795113f2cbae1807edfdb94384fc419",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -87,13 +88,15 @@
         }
     ],
     "wof:id":824114705,
-    "wof:lastmodified":1472613313,
+    "wof:lastmodified":1533933044,
     "wof:name":"Pack N Ship",
     "wof:parent_id":85805151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823812893
+    ],
     "wof:tags":[
         "delivery",
         "shipping",

@@ -7,6 +7,7 @@
     "addr:postcode":"06606",
     "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.204477,41.192278,-73.204477,41.192278",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.204477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"754 Madison Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448985,
-    "wof:geomhash":"ebac88a8def3e9ff13ef65e59c1c40f5",
+    "wof:geomhash":"5893dd59e4ecd8bbf5c33bb39fb2f583",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823880761,
-    "wof:lastmodified":1472613959,
+    "wof:lastmodified":1533933050,
     "wof:name":"T C Svc",
     "wof:parent_id":85876491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823995769
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "return",

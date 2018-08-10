@@ -14,6 +14,7 @@
     "geom:longitude":-73.196002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"655 Park Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443005,
-    "wof:geomhash":"3c3dbced261081cdc459fc6532374c5c",
+    "wof:geomhash":"098a402bb9b5ff0ca56d8425804d28e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823646559,
-    "wof:lastmodified":1472613411,
+    "wof:lastmodified":1533933045,
     "wof:name":"ABRI",
     "wof:parent_id":85876483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823582709
+    ],
     "wof:tags":[
         "rehabilitation"
     ]

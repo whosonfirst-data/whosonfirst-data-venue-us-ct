@@ -2,18 +2,24 @@
   "id": 824120663,
   "type": "Feature",
   "properties": {
-    "addr:full":"39 Scofieldtown Rd Stamford CT 06903",
+    "addr:city":"Stamford",
+    "addr:full":"39 Scofieldtown Rd Stamford, Ct 06905",
+    "addr:house_number":"39",
     "addr:housenumber":"39",
-    "addr:postcode":"06903",
+    "addr:phone":"+1 203-977-6545",
+    "addr:postcode":"06905",
+    "addr:road":"Scofieldtown Rd",
+    "addr:state":"CT",
     "addr:street":"Scofieldtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.545723,41.123661,-73.545723,41.123661",
-    "geom:latitude":41.123661,
-    "geom:longitude":-73.545723,
+    "geom:bbox":"-73.54539,41.12361,-73.54539,41.12361",
+    "geom:latitude":41.12361,
+    "geom:longitude":-73.54539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"39 Scofieldtown Rd",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -38,7 +44,10 @@
         "village"
     ],
     "sg:website":"http://www.stamfordmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532091
+    ],
     "wof:belongsto":[
         85852825,
         102191575,
@@ -50,11 +59,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900550,
         "sg:id":"SG_2sTqSLMpdL9YI4joytHG9K_41.123661_-73.545723@1303262248"
     },
     "wof:country":"US",
     "wof:created":1463454777,
-    "wof:geomhash":"d7348098d4ff69efb04ca769962ba10d",
+    "wof:geomhash":"93832fb936bed83c9c3d9164a51034b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +78,8 @@
         }
     ],
     "wof:id":824120663,
-    "wof:lastmodified":1472613334,
-    "wof:name":"Stamford Museum & Nature Center, The Inc",
+    "wof:lastmodified":1533933045,
+    "wof:name":"Stamford Museum & Nature Center",
     "wof:parent_id":85852825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -82,10 +92,10 @@
     ]
 },
   "bbox": [
-    -73.545723,
-    41.123661,
-    -73.545723,
-    41.123661
+    -73.54539,
+    41.12361,
+    -73.54539,
+    41.12361
 ],
-  "geometry": {"coordinates":[-73.545723,41.123661],"type":"Point"}
+  "geometry": {"coordinates":[-73.54539,41.12361],"type":"Point"}
 }

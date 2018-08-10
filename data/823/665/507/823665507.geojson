@@ -7,6 +7,7 @@
     "addr:postcode":"06850",
     "addr:street":"Glover Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.427889,41.14338,-73.427889,41.14338",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.427889,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"63 Glover Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443464,
-    "wof:geomhash":"201cb492a80457f16eab025b2c943254",
+    "wof:geomhash":"67e9f77b1980861e2525f05e09cf664b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823665507,
-    "wof:lastmodified":1472613662,
+    "wof:lastmodified":1533933049,
     "wof:name":"Mc Intyre Group",
     "wof:parent_id":85879321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823742157
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "opportunity"

@@ -7,6 +7,7 @@
     "addr:postcode":"06902",
     "addr:street":"Strawberry Hill Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.533104,41.061328,-73.533104,41.061328",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.533104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"31 Strawberry Hill Ave",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448894,
-    "wof:geomhash":"079d5c096d1d38be5a352196a513f062",
+    "wof:geomhash":"da5e7a05752f510c512cdb7ccdca49ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823876707,
-    "wof:lastmodified":1472613946,
+    "wof:lastmodified":1533933049,
     "wof:name":"Bollyky Associates Inc",
     "wof:parent_id":85821787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823746629
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

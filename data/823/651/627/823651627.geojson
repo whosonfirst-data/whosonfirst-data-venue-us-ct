@@ -2,18 +2,24 @@
   "id": 823651627,
   "type": "Feature",
   "properties": {
-    "addr:full":"409 Main St Niantic CT 06357",
+    "addr:city":"Niantic",
+    "addr:full":"409 Main St Niantic, Ct 06357-3103",
+    "addr:house_number":"409",
     "addr:housenumber":"409",
-    "addr:postcode":"06357",
+    "addr:phone":"+1 860-691-1111",
+    "addr:postcode":"06357-3103",
+    "addr:road":"Main St",
+    "addr:state":"CT",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.198751,41.322464,-72.198751,41.322464",
-    "geom:latitude":41.322464,
-    "geom:longitude":-72.198751,
+    "geom:bbox":"-72.20041,41.32219,-72.20041,41.32219",
+    "geom:latitude":41.32219,
+    "geom:longitude":-72.20041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"409 Main St",
     "sg:city":"Niantic",
     "sg:classifiers":[
@@ -30,21 +36,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529885
+    ],
     "wof:belongsto":[
-        85688629,
+        85812841,
         85633793,
         85931369,
         102084295,
-        85812841
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900363,
         "sg:id":"SG_72tLAkqBzLL5jhowfPMrI3_41.322464_-72.198751@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443112,
-    "wof:geomhash":"8869c8dd488677ff4f1e304ba1231229",
+    "wof:geomhash":"f08d5a5ae6de0630c311ddcb1b1fdd49",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":823651627,
-    "wof:lastmodified":1472613411,
-    "wof:name":"Childrns Museum Southestrn CN",
+    "wof:lastmodified":1533933046,
+    "wof:name":"Children'S Museum Of Southeastern Connecticut",
     "wof:parent_id":85812841,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -72.198751,
-    41.322464,
-    -72.198751,
-    41.322464
+    -72.20041,
+    41.32219,
+    -72.20041,
+    41.32219
 ],
-  "geometry": {"coordinates":[-72.198751,41.322464],"type":"Point"}
+  "geometry": {"coordinates":[-72.20041000000001,41.32219],"type":"Point"}
 }

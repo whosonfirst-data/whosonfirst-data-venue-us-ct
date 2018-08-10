@@ -14,6 +14,7 @@
     "geom:longitude":-73.433824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"67 Sand Pit Rd",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463450060,
-    "wof:geomhash":"5968945bd0d38f0857686d193e2ea015",
+    "wof:geomhash":"1089d4a06ef3d57ece55f4153377204b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823922221,
-    "wof:lastmodified":1472613871,
+    "wof:lastmodified":1533933050,
     "wof:name":"Housatonic Valley Radiological",
     "wof:parent_id":85821411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823873233
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

@@ -14,6 +14,7 @@
     "geom:longitude":-72.816925,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"59 N Plains Industrial Rd",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443142,
-    "wof:geomhash":"eca324ab6534fb0df6a790c3824f276c",
+    "wof:geomhash":"f878fad264311cd93a4a4bdcb50bdb0e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":823652843,
-    "wof:lastmodified":1472613424,
+    "wof:lastmodified":1533933046,
     "wof:name":"Environmental Monitoring Lab",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823795157
+    ],
     "wof:tags":[
         "laboratory"
     ]

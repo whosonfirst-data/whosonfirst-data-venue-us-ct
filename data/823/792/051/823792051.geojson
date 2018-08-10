@@ -7,6 +7,7 @@
     "addr:postcode":"06804",
     "addr:street":"Old New Milford Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.402754,41.452304,-73.402754,41.452304",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.402754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 Old New Milford Rd",
     "sg:city":"Brookfield",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1463446485,
-    "wof:geomhash":"5b8aa860ebe8d7ceb06db062651299d5",
+    "wof:geomhash":"23c3cfafca090531404e032d162bc507",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,15 @@
         }
     ],
     "wof:id":823792051,
-    "wof:lastmodified":1472613758,
+    "wof:lastmodified":1533933050,
     "wof:name":"Counsling Assoc Grater Danbury",
     "wof:parent_id":85829875,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823571535,
+        823909175
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

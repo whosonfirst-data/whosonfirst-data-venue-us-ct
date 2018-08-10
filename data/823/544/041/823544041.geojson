@@ -14,6 +14,7 @@
     "geom:longitude":-72.935799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Howard Ave",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463440560,
-    "wof:geomhash":"aa5735941e27443ed4bcff9b341ad632",
+    "wof:geomhash":"8f2c835e423784f66489dbc3e596400c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823544041,
-    "wof:lastmodified":1472613289,
+    "wof:lastmodified":1533933043,
     "wof:name":"Patel Tushar MD",
     "wof:parent_id":85882017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823520571
+    ],
     "wof:tags":[
         "medical"
     ]

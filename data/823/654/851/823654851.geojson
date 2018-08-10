@@ -7,6 +7,7 @@
     "addr:postcode":"06901",
     "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.539958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"777 Summer St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443190,
-    "wof:geomhash":"35d8017ed06fa519c829e48cd575fc40",
+    "wof:geomhash":"4677da125ca4e776a3df50b0ba3fc417",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,12 +76,14 @@
         }
     ],
     "wof:id":823654851,
-    "wof:lastmodified":1492051879,
+    "wof:lastmodified":1533933048,
     "wof:name":"Federal Mortgage Company Conn",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823730825
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

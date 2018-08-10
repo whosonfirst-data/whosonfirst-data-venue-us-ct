@@ -2,18 +2,24 @@
   "id": 823658759,
   "type": "Feature",
   "properties": {
-    "addr:full":"17 River St East Haven CT 06512",
+    "addr:city":"East Haven",
+    "addr:full":"17 River Street East Haven, Ct 06512",
+    "addr:house_number":"17",
     "addr:housenumber":"17",
+    "addr:phone":"+1 203-467-6927",
     "addr:postcode":"06512",
+    "addr:road":"River Street",
+    "addr:state":"CT",
     "addr:street":"River St;Haven",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.863256,41.274249,-72.863256,41.274249",
-    "geom:latitude":41.274249,
-    "geom:longitude":-72.863256,
+    "geom:bbox":"-72.86336,41.27427,-72.86336,41.27427",
+    "geom:latitude":41.27427,
+    "geom:longitude":-72.86336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"17 River St",
     "sg:city":"East Haven",
     "sg:classifiers":[
@@ -31,20 +37,24 @@
         "gallery"
     ],
     "sg:website":"www.bera.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527877
+    ],
     "wof:belongsto":[
-        85688629,
+        102086923,
         85633793,
-        85868741,
-        102086923
+        85688629,
+        85868741
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900010,
         "sg:id":"SG_39pKwE82TtOfbDhIuUPrYl_41.274249_-72.863256@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443295,
-    "wof:geomhash":"1d2995a03faef35f7f10ca065002aed1",
+    "wof:geomhash":"c3369d34638b9fc17aaa16c613f5c1e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":823658759,
-    "wof:lastmodified":1472613427,
+    "wof:lastmodified":1533933047,
     "wof:name":"Shore Line Trolley Museum",
     "wof:parent_id":85868741,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     ]
 },
   "bbox": [
-    -72.863256,
-    41.274249,
-    -72.863256,
-    41.274249
+    -72.86336,
+    41.27427,
+    -72.86336,
+    41.27427
 ],
-  "geometry": {"coordinates":[-72.86325600000001,41.274249],"type":"Point"}
+  "geometry": {"coordinates":[-72.86336,41.27427],"type":"Point"}
 }

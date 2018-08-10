@@ -2,18 +2,24 @@
   "id": 824050051,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 Deforest St Watertown CT 06795",
+    "addr:city":"Watertown",
+    "addr:full":"22 Deforest St Watertown, Ct 06795-2116",
+    "addr:house_number":"22",
     "addr:housenumber":"22",
-    "addr:postcode":"06795",
+    "addr:phone":"+1 860-274-1050",
+    "addr:postcode":"06795-2116",
+    "addr:road":"Deforest St",
+    "addr:state":"CT",
     "addr:street":"Deforest St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.118732,41.605941,-73.118732,41.605941",
-    "geom:latitude":41.605941,
-    "geom:longitude":-73.118732,
+    "geom:bbox":"-73.11959,41.60473,-73.11959,41.60473",
+    "geom:latitude":41.60473,
+    "geom:longitude":-73.11959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"22 Deforest St",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900140,
         "sg:id":"SG_4dyhM7OVfzUyShbp5gohi0_41.605941_-73.118732@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463453162,
-    "wof:geomhash":"5565fd500d7a8077939d4c8504832f70",
+    "wof:geomhash":"320f026f9da2e4bffc8f26779b3afcc1",
     "wof:hierarchy":[],
     "wof:id":824050051,
-    "wof:lastmodified":1472610453,
-    "wof:name":"Watertown Historical Society",
+    "wof:lastmodified":1533933043,
+    "wof:name":"Historical Society Inc Watertown",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -73.118732,
-    41.605941,
-    -73.118732,
-    41.605941
+    -73.11959,
+    41.60473,
+    -73.11959,
+    41.60473
 ],
-  "geometry": {"coordinates":[-73.11873199999999,41.605941],"type":"Point"}
+  "geometry": {"coordinates":[-73.11959,41.60473],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-73.190832,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1087 Broad St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444075,
-    "wof:geomhash":"907cdfad4bb11a13509392abc9a0536a",
+    "wof:geomhash":"f60d7651caddd4c24ed4c15650a03606",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823692503,
-    "wof:lastmodified":1472613690,
+    "wof:lastmodified":1533933050,
     "wof:name":"Broadcannon Associates",
     "wof:parent_id":85876483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823818687
+    ],
     "wof:tags":[
         "establishment"
     ]

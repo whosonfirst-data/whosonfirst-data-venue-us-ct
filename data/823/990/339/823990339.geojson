@@ -14,6 +14,7 @@
     "geom:longitude":-73.05519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"229 Church St",
     "sg:city":"Naugatuck",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451721,
-    "wof:geomhash":"6ee133248bfa8d4adeea4bfb47ebf2fa",
+    "wof:geomhash":"415591398e68c140cda388d6fbaa5431",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823990339,
-    "wof:lastmodified":1472613973,
+    "wof:lastmodified":1533933049,
     "wof:name":"Probate Court",
     "wof:parent_id":85834457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824001347
+    ],
     "wof:tags":[]
 },
   "bbox": [

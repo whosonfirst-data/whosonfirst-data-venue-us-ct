@@ -2,18 +2,24 @@
   "id": 823737131,
   "type": "Feature",
   "properties": {
-    "addr:full":"90 Battle St Bristol CT 06010",
+    "addr:city":"Bristol",
+    "addr:full":"90 Battle St Bristol, Ct 06010",
+    "addr:house_number":"90",
     "addr:housenumber":"90",
+    "addr:phone":"+1 860-583-8306",
     "addr:postcode":"06010",
+    "addr:road":"Battle St",
+    "addr:state":"CT",
     "addr:street":"Battle St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.971024,41.697713,-72.971024,41.697713",
-    "geom:latitude":41.697713,
-    "geom:longitude":-72.971024,
+    "geom:bbox":"-72.96923,41.69711,-72.96923,41.69711",
+    "geom:latitude":41.69711,
+    "geom:longitude":-72.96923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"90 Battle St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -27,19 +33,21 @@
     "sg:phone":"+1   ",
     "sg:postcode":"06010",
     "sg:province":"CT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900001,
         "sg:id":"SG_6scpNCZJnV1I8MhPMgOBuu_41.697713_-72.971024@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463445088,
-    "wof:geomhash":"995784cc0635e349dac71d89e7d03a5c",
+    "wof:geomhash":"b2a1bcc46cbcf37d1d9607d0e50d4613",
     "wof:hierarchy":[],
     "wof:id":823737131,
-    "wof:lastmodified":1472613716,
-    "wof:name":"Witchs Dungeon Inc",
+    "wof:lastmodified":1533933049,
+    "wof:name":"Witch'S Dungeon Classic Movie Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.971024,
-    41.697713,
-    -72.971024,
-    41.697713
+    -72.96923,
+    41.69711,
+    -72.96923,
+    41.69711
 ],
-  "geometry": {"coordinates":[-72.971024,41.697713],"type":"Point"}
+  "geometry": {"coordinates":[-72.96923,41.69711],"type":"Point"}
 }

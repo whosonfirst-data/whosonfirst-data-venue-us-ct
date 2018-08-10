@@ -2,19 +2,25 @@
   "id": 823646991,
   "type": "Feature",
   "properties": {
-    "addr:full":"303 West Ave Norwalk CT 06850",
+    "addr:city":"Norwalk",
+    "addr:full":"303 West Ave Norwalk, Ct 06850-4002",
+    "addr:house_number":"303",
     "addr:housenumber":"303",
-    "addr:postcode":"06850",
+    "addr:phone":"+1 203-899-0606",
+    "addr:postcode":"06850-4002",
+    "addr:road":"West Ave",
+    "addr:state":"CT",
     "addr:street":"West Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.418,41.109829,-73.418,41.109829",
-    "geom:latitude":41.109829,
-    "geom:longitude":-73.418,
+    "geom:bbox":"-73.41816,41.10954,-73.41816,41.10954",
+    "geom:latitude":41.10954,
+    "geom:longitude":-73.41816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"303 West Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -33,7 +39,8 @@
         "nonprofit",
         "educational"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85879311,
         102191575,
@@ -46,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900407,
         "sg:id":"SG_07rAe9PHdPfBfF94Ktpqa2_41.109829_-73.418000@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443016,
-    "wof:geomhash":"af8cd53a36ef50a96fb4e6dad744d928",
+    "wof:geomhash":"c3a1f10efffc93cde0dca5756542acaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,8 +82,8 @@
         }
     ],
     "wof:id":823646991,
-    "wof:lastmodified":1491918376,
-    "wof:name":"Stepping Stnes Museum Children",
+    "wof:lastmodified":1533933046,
+    "wof:name":"Stepping Stones Museum For Children",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -88,10 +96,10 @@
     ]
 },
   "bbox": [
-    -73.418,
-    41.109829,
-    -73.418,
-    41.109829
+    -73.41816,
+    41.10954,
+    -73.41816,
+    41.10954
 ],
-  "geometry": {"coordinates":[-73.41800000000001,41.109829],"type":"Point"}
+  "geometry": {"coordinates":[-73.41816,41.10954],"type":"Point"}
 }

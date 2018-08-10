@@ -14,6 +14,7 @@
     "geom:longitude":-73.191506,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"915 Lafayette Blvd",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463438932,
-    "wof:geomhash":"7be4b29c02ea030303db8e1ba0ecdc47",
+    "wof:geomhash":"e3da579af3bdb214dafa52c71d5bc31d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823474091,
-    "wof:lastmodified":1472607663,
+    "wof:lastmodified":1533933041,
     "wof:name":"US General Services Admi",
     "wof:parent_id":85876483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823863995
+    ],
     "wof:tags":[]
 },
   "bbox": [

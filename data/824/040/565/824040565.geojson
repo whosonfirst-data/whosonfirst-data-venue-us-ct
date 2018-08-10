@@ -7,6 +7,7 @@
     "addr:postcode":"06615",
     "addr:street":"Honeyspot Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.146424,41.176614,-73.146424,41.176614",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.146424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"627 Honeyspot Rd",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463452941,
-    "wof:geomhash":"30962a7892565e2b472194141b039ad4",
+    "wof:geomhash":"86bf5ecc10c1e985d0eaca0a2acfd846",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":824040565,
-    "wof:lastmodified":1472610389,
+    "wof:lastmodified":1533933047,
     "wof:name":"Com-Tronics Inc",
     "wof:parent_id":85876487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823664229
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communication",

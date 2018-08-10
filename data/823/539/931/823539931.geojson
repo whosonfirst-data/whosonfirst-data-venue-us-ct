@@ -15,6 +15,7 @@
     "geom:longitude":-72.999251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"236 Boston Post Rd",
     "sg:city":"Orange",
     "sg:classifiers":[
@@ -32,23 +33,27 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420555613
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yG6adcoxKH6AHBrfQ05Th_41.268524_-72.999251@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463440467,
-    "wof:geomhash":"68a6c5492d881bf2d1a0ae18b5e233d5",
+    "wof:geomhash":"565a40e3aa931f4b0ceb723de40ca7c7",
     "wof:hierarchy":[],
     "wof:id":823539931,
-    "wof:lastmodified":1492029236,
+    "wof:lastmodified":1533933043,
     "wof:name":"Harpers of Orange",
     "wof:parent_id":420555613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823781193
+    ],
     "wof:tags":[
         "clothing"
     ]

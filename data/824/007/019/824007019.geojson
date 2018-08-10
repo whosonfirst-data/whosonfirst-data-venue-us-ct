@@ -14,6 +14,7 @@
     "geom:longitude":-73.536822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Prospect St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463452137,
-    "wof:geomhash":"e69107d595b8a6ef880ad51473174783",
+    "wof:geomhash":"e9b24a2760041615a2682a01405bfaec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":824007019,
-    "wof:lastmodified":1472607441,
+    "wof:lastmodified":1533933042,
     "wof:name":"Kevin F Collins Law Office",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824047361
+    ],
     "wof:tags":[
         "attorney"
     ]

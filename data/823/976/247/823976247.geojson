@@ -7,6 +7,7 @@
     "addr:postcode":"06450",
     "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.808341,41.509279,-72.808341,41.509279",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.808341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"546 S Broad St",
     "sg:city":"Meriden",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451382,
-    "wof:geomhash":"cd6a0fb0b90c275ef12136e0ca613599",
+    "wof:geomhash":"1bd8663418105f50d7e4456874e6720b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":823976247,
-    "wof:lastmodified":1472613902,
+    "wof:lastmodified":1533933043,
     "wof:name":"Francescon Sergion D MD",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823533193
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

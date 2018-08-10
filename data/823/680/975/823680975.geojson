@@ -14,6 +14,7 @@
     "geom:longitude":-73.493284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"41 Kenosia Ave",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443807,
-    "wof:geomhash":"0a0ee329b463b0dd6ee2af990f7a613d",
+    "wof:geomhash":"1e5667548d46389163792dff11b21bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":823680975,
-    "wof:lastmodified":1472613686,
+    "wof:lastmodified":1533933047,
     "wof:name":"JMS Environmental Services",
     "wof:parent_id":85834619,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824026889
+    ],
     "wof:tags":[
         "sanitary",
         "testing",

@@ -2,18 +2,24 @@
   "id": 823677697,
   "type": "Feature",
   "properties": {
-    "addr:full":"22 Prospect St Essex CT 06426",
+    "addr:city":"Essex",
+    "addr:full":"22 Prospect St Essex, Ct 06426",
+    "addr:house_number":"22",
     "addr:housenumber":"22",
+    "addr:phone":"+1 860-767-0681",
     "addr:postcode":"06426",
+    "addr:road":"Prospect St",
+    "addr:state":"CT",
     "addr:street":"Prospect St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.393115,41.353212,-72.393115,41.353212",
-    "geom:latitude":41.353212,
-    "geom:longitude":-72.393115,
+    "geom:bbox":"-72.39673,41.3524,-72.39673,41.3524",
+    "geom:latitude":41.3524,
+    "geom:longitude":-72.39673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"22 Prospect St",
     "sg:city":"Essex",
     "sg:classifiers":[
@@ -27,31 +33,37 @@
     "sg:phone":"+1   ",
     "sg:postcode":"06426",
     "sg:province":"CT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529425
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900085,
         "sg:id":"SG_5f2dEVoTex1wFIdMivALCd_41.353212_-72.393115@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443739,
-    "wof:geomhash":"c83173ec554d59d705e121d607f64e74",
+    "wof:geomhash":"76334b3b414375d8d75bf30348705051",
     "wof:hierarchy":[],
     "wof:id":823677697,
-    "wof:lastmodified":1472613664,
-    "wof:name":"Essex Hstrcal Scty-Hlls Acdemy",
+    "wof:lastmodified":1533933047,
+    "wof:name":"Essex Historical Society Hills Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824101887
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    -72.393115,
-    41.353212,
-    -72.393115,
-    41.353212
+    -72.39673,
+    41.3524,
+    -72.39673,
+    41.3524
 ],
-  "geometry": {"coordinates":[-72.39311499999999,41.353212],"type":"Point"}
+  "geometry": {"coordinates":[-72.39673000000001,41.3524],"type":"Point"}
 }

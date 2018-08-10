@@ -2,18 +2,24 @@
   "id": 823995893,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Maple St Bristol CT 06010",
+    "addr:city":"Bristol",
+    "addr:full":"100 Maple St Bristol, Ct 06010-5034",
+    "addr:house_number":"100",
     "addr:housenumber":"100",
-    "addr:postcode":"06010",
+    "addr:phone":"+1 860-583-6070",
+    "addr:postcode":"06010-5034",
+    "addr:road":"Maple St",
+    "addr:state":"CT",
     "addr:street":"Maple St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.941178,41.679692,-72.941178,41.679692",
-    "geom:latitude":41.679692,
-    "geom:longitude":-72.941178,
+    "geom:bbox":"-72.94103,41.67925,-72.94103,41.67925",
+    "geom:latitude":41.67925,
+    "geom:longitude":-72.94103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"100 Maple St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85816055,
         102191575,
@@ -42,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900297,
         "sg:id":"SG_16VVSSObvXE5cZMRxAkzzz_41.679692_-72.941178@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451886,
-    "wof:geomhash":"19cf8b5546aab4d02e5a58ae9dd405b1",
+    "wof:geomhash":"1b61898a6391be259514850b6791708b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +68,7 @@
         }
     ],
     "wof:id":823995893,
-    "wof:lastmodified":1472613974,
+    "wof:lastmodified":1533933050,
     "wof:name":"American Clock & Watch Museum",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -72.941178,
-    41.679692,
-    -72.941178,
-    41.679692
+    -72.94103,
+    41.67925,
+    -72.94103,
+    41.67925
 ],
-  "geometry": {"coordinates":[-72.94117799999999,41.679692],"type":"Point"}
+  "geometry": {"coordinates":[-72.94103,41.67925],"type":"Point"}
 }

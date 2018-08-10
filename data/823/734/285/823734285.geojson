@@ -14,6 +14,7 @@
     "geom:longitude":-72.933861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"192 Dixwell Ave",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463445029,
-    "wof:geomhash":"d2585707b880aad0d1d4bb14a056478a",
+    "wof:geomhash":"7ae60ab29389ea707ee318413c708877",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":823734285,
-    "wof:lastmodified":1472613721,
+    "wof:lastmodified":1533933049,
     "wof:name":"National Assc Advnc Clrd Ppl",
     "wof:parent_id":85879163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823592029
+    ],
     "wof:tags":[
         "civic",
         "or",

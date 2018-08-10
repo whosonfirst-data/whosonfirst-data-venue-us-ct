@@ -7,6 +7,7 @@
     "addr:postcode":"06708",
     "addr:street":"Robbins St Waterbury Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.062004,41.557721,-73.062004,41.557721",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.062004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"160 Robbins St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463452065,
-    "wof:geomhash":"8818fd980e23c464999fb4394fe32407",
+    "wof:geomhash":"1531ca7333da3dd84a25c33523922366",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":824003413,
-    "wof:lastmodified":1472607636,
+    "wof:lastmodified":1533933049,
     "wof:name":"Rehabhealth PC",
     "wof:parent_id":85856379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823990501
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

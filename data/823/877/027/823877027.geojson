@@ -7,6 +7,7 @@
     "addr:postcode":"06807",
     "addr:street":"E Putnam Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.601567,41.036791,-73.601567,41.036791",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.601567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"59 E Putnam Ave",
     "sg:city":"Cos Cob",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448901,
-    "wof:geomhash":"90bf6ba8e8e411b33a4e9c175ec196bb",
+    "wof:geomhash":"a9a194c901c09b190b8467368eeb0ed2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":823877027,
-    "wof:lastmodified":1472613862,
+    "wof:lastmodified":1533933050,
     "wof:name":"Mari-Nails",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823903789
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

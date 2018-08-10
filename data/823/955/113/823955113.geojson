@@ -14,6 +14,7 @@
     "geom:longitude":-73.468437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"65 Tokeneke Rd",
     "sg:city":"Darien",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463450883,
-    "wof:geomhash":"ace62ef0a5c7f4433ade468c5c605a1e",
+    "wof:geomhash":"f47a126b2f82a4769dded5f0112c9941",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823955113,
-    "wof:lastmodified":1472613880,
+    "wof:lastmodified":1533933050,
     "wof:name":"Nlcf",
     "wof:parent_id":85879309,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823948513
+    ],
     "wof:tags":[
         "church"
     ]

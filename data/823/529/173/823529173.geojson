@@ -14,6 +14,7 @@
     "geom:longitude":-72.75052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1501 E Main St",
     "sg:city":"Meriden",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463440236,
-    "wof:geomhash":"4944737904a1b9e9ddeec2caeb4b84d6",
+    "wof:geomhash":"2dceb501b08a8b0ebaf265e1134ab54e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823529173,
-    "wof:lastmodified":1472613277,
+    "wof:lastmodified":1533933043,
     "wof:name":"Cowles & Connell of Conn",
     "wof:parent_id":85805899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823939701
+    ],
     "wof:tags":[]
 },
   "bbox": [

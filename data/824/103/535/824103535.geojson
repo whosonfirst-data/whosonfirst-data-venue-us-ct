@@ -7,6 +7,7 @@
     "addr:postcode":"06457",
     "addr:street":"Plumb Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.703716,41.571549,-72.703716,41.571549",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.703716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"33 Plumb Rd",
     "sg:city":"Middletown",
     "sg:classifiers":[],
@@ -38,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454413,
-    "wof:geomhash":"7619666805d33f7034ddc817d2b8e87f",
+    "wof:geomhash":"1a1ee44c9e9e78d881933b0a7854976e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,12 +54,14 @@
         }
     ],
     "wof:id":824103535,
-    "wof:lastmodified":1472613237,
+    "wof:lastmodified":1533933048,
     "wof:name":"Turner & Sons Roofing and Siding LLC",
     "wof:parent_id":85856893,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823698469
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

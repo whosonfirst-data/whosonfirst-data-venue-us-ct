@@ -14,6 +14,7 @@
     "geom:longitude":-72.889503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"60 Lovely St",
     "sg:city":"Canton",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454037,
-    "wof:geomhash":"0d160c611797f7e748431d5182a0e276",
+    "wof:geomhash":"8ed83a062e60c33e65a8a5e2aab3ed1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":824087797,
-    "wof:lastmodified":1472613244,
+    "wof:lastmodified":1533933044,
     "wof:name":"Roaring Brook Pet Lodge & Grooming Center",
     "wof:parent_id":85865195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824087713
+    ],
     "wof:tags":[
         "boarding/pet",
         "sitting"

@@ -15,6 +15,7 @@
     "geom:longitude":-73.420111,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"24 Stevens St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451661,
-    "wof:geomhash":"046c77cb9b95a3d57b3b97f12a2a7754",
+    "wof:geomhash":"27b16a66e0cfa24321fdbddec361fd4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -75,13 +76,15 @@
         }
     ],
     "wof:id":823987509,
-    "wof:lastmodified":1491918411,
+    "wof:lastmodified":1533933049,
     "wof:name":"Audiology Services At Norwalk",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823611665
+    ],
     "wof:tags":[
         "hearing",
         "equipment",

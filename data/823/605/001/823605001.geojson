@@ -14,6 +14,7 @@
     "geom:longitude":-72.922995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Orange St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442021,
-    "wof:geomhash":"5371f0b40c2dcd8f87796225e67d49e7",
+    "wof:geomhash":"f5df1f38a86602c91aba210d0dafcd7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823605001,
-    "wof:lastmodified":1472613363,
+    "wof:lastmodified":1533933046,
     "wof:name":"Pension Office",
     "wof:parent_id":85879165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823883441
+    ],
     "wof:tags":[]
 },
   "bbox": [

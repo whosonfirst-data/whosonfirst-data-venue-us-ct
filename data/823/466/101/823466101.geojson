@@ -7,6 +7,7 @@
     "addr:postcode":"06830",
     "addr:street":"E Putnam Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.605381,41.036724,-73.605381,41.036724",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.605381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"533 E Putnam Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463438745,
-    "wof:geomhash":"a9b42b7cd5e76f52bd131770bf82901f",
+    "wof:geomhash":"2209d019487122f7dbbb6a96593d7f32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":823466101,
-    "wof:lastmodified":1472606741,
+    "wof:lastmodified":1533933042,
     "wof:name":"Pest Management Inc",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824009719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

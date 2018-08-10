@@ -7,6 +7,7 @@
     "addr:postcode":"06705",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.014394,41.546121,-73.014394,41.546121",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.014394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1663 E Main St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463447855,
-    "wof:geomhash":"c87d428ad4038fc1d0e08882fbdbdab5",
+    "wof:geomhash":"f9c127db11e166d8dd74a1ee4802f495",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823837739,
-    "wof:lastmodified":1472613837,
+    "wof:lastmodified":1533933045,
     "wof:name":"Ladis Automotive",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823607373
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

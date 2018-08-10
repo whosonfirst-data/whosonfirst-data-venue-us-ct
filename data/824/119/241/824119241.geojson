@@ -14,6 +14,7 @@
     "geom:longitude":-73.434099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"713 Danbury Rd",
     "sg:city":"Wilton",
     "sg:classifiers":[
@@ -51,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454751,
-    "wof:geomhash":"cac895a55ee459feb2788b94f5b09263",
+    "wof:geomhash":"fc969cd3e35e437b1e8fd55158f14f22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":824119241,
-    "wof:lastmodified":1472613322,
+    "wof:lastmodified":1533933045,
     "wof:name":"Marvin Gardens",
     "wof:parent_id":85807091,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823513793
+    ],
     "wof:tags":[
         "bamboo"
     ]

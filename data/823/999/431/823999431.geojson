@@ -7,6 +7,7 @@
     "addr:postcode":"06902",
     "addr:street":"Elm Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.527598,41.052025,-73.527598,41.052025",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.527598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9 Elm Ct",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451977,
-    "wof:geomhash":"85fa9adb5c7db7e35c6b105f1a157dfb",
+    "wof:geomhash":"5541db80dc0ae5034d5eca8fda500a10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823999431,
-    "wof:lastmodified":1472613975,
+    "wof:lastmodified":1533933050,
     "wof:name":"Diego's Mechanics",
     "wof:parent_id":85881171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823963451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

@@ -14,6 +14,7 @@
     "geom:longitude":-73.132034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2505 Main St",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451609,
-    "wof:geomhash":"0d627e3e4ff49aec16b2ecf88183c8a0",
+    "wof:geomhash":"a05355815a08fb0efdae5456ec2eae7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823985183,
-    "wof:lastmodified":1472613901,
+    "wof:lastmodified":1533933048,
     "wof:name":"Riccio Title Services LLC",
     "wof:parent_id":85888495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823669451
+    ],
     "wof:tags":[
         "abstract",
         "title"

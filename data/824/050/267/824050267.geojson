@@ -2,18 +2,24 @@
   "id": 824050267,
   "type": "Feature",
   "properties": {
-    "addr:full":"14 Pawnee Rd East Hartford CT 06118",
+    "addr:city":"East Hartford",
+    "addr:full":"14 Pawnee Rd East Hartford, Ct 06118-2543",
+    "addr:house_number":"14",
     "addr:housenumber":"14",
-    "addr:postcode":"06118",
+    "addr:phone":"+1 860-568-4845",
+    "addr:postcode":"06118-2543",
+    "addr:road":"Pawnee Rd",
+    "addr:state":"CT",
     "addr:street":"Pawnee Rd East;Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.635458,41.734029,-72.635458,41.734029",
-    "geom:latitude":41.734029,
-    "geom:longitude":-72.635458,
+    "geom:bbox":"-72.63486,41.73411,-72.63486,41.73411",
+    "geom:latitude":41.73411,
+    "geom:longitude":-72.63486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"14 Pawnee Rd",
     "sg:city":"East Hartford",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532701
+    ],
     "wof:belongsto":[
         85825825,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900399,
         "sg:id":"SG_6W6PfMD3cFb2UO2svFQCXW_41.734029_-72.635458@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463453171,
-    "wof:geomhash":"03bbab2d926fc3632f55399844704265",
+    "wof:geomhash":"1171174674de9619a3fc9c91e0c30a88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":824050267,
-    "wof:lastmodified":1472611782,
+    "wof:lastmodified":1533933043,
     "wof:name":"Greater Hartford Twilight",
     "wof:parent_id":85825825,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -72.635458,
-    41.734029,
-    -72.635458,
-    41.734029
+    -72.63486,
+    41.73411,
+    -72.63486,
+    41.73411
 ],
-  "geometry": {"coordinates":[-72.635458,41.734029],"type":"Point"}
+  "geometry": {"coordinates":[-72.63486,41.73411],"type":"Point"}
 }

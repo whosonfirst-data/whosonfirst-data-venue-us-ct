@@ -7,6 +7,7 @@
     "addr:postcode":"06612",
     "addr:street":"Old Orchard Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.269388,41.239883,-73.269388,41.239883",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.269388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"19 Old Orchard Rd",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463439166,
-    "wof:geomhash":"67a187a4bf3f5181317f3110c35b9614",
+    "wof:geomhash":"486b862bd14057b1a56b972fa1f96650",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":823484031,
-    "wof:lastmodified":1472607461,
+    "wof:lastmodified":1533933041,
     "wof:name":"Tms Business Consulting LLC",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823474925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "business"

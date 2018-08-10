@@ -14,6 +14,7 @@
     "geom:longitude":-73.16784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"555 Connecticut Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443274,
-    "wof:geomhash":"0298cc43e021fe6cf54512a27d373c2e",
+    "wof:geomhash":"7ef05414cbcbf75ac001dcaaeab698f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823658125,
-    "wof:lastmodified":1472613386,
+    "wof:lastmodified":1533933047,
     "wof:name":"Russel Tmpl Chrstn Mthdst Epsc",
     "wof:parent_id":85836801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823597373
+    ],
     "wof:tags":[]
 },
   "bbox": [

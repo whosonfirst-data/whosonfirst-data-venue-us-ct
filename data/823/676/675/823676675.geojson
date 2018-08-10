@@ -14,6 +14,7 @@
     "geom:longitude":-73.41629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 W Main St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443715,
-    "wof:geomhash":"e92e47f25f35165866ccc80e88cdd618",
+    "wof:geomhash":"f77e7b3b732af42cc3a3c4ac312ef175",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823676675,
-    "wof:lastmodified":1472613687,
+    "wof:lastmodified":1533933047,
     "wof:name":"Eula Anthony",
     "wof:parent_id":85879319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824046419
+    ],
     "wof:tags":[
         "architectural"
     ]

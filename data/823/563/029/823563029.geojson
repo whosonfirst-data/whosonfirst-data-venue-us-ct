@@ -7,6 +7,7 @@
     "addr:postcode":"06901",
     "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.540106,41.05833,-73.540106,41.05833",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.540106,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Summer St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441016,
-    "wof:geomhash":"457b43ddfac703de8a1612d9cebef854",
+    "wof:geomhash":"40572dca14c6947ba36c54e731904c26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823563029,
-    "wof:lastmodified":1472613319,
+    "wof:lastmodified":1533933046,
     "wof:name":"Safeguard Mortgage LLC",
     "wof:parent_id":85881169,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823624441
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "loan",

@@ -14,6 +14,7 @@
     "geom:longitude":-72.760399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1249 E Main St",
     "sg:city":"Meriden",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463451597,
-    "wof:geomhash":"019bc556ea43b93078d33cf3add0cd10",
+    "wof:geomhash":"c4da881483aaa0823e0d18a8a9ed841c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823984549,
-    "wof:lastmodified":1472613935,
+    "wof:lastmodified":1533933048,
     "wof:name":"Page Pro",
     "wof:parent_id":85805899,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823980945
+    ],
     "wof:tags":[
         "t"
     ]

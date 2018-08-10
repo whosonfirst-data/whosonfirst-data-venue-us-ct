@@ -14,6 +14,7 @@
     "geom:longitude":-73.421058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"34 Maple St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448999,
-    "wof:geomhash":"df106e33b509320a88876c736ea7a7c2",
+    "wof:geomhash":"058dc5390e3280d71f19a9b649d37505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823881215,
-    "wof:lastmodified":1472613889,
+    "wof:lastmodified":1533933050,
     "wof:name":"Behavioral Health & Addiction",
     "wof:parent_id":85879311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823821153
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

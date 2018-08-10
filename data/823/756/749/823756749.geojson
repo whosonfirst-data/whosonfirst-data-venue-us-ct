@@ -14,6 +14,7 @@
     "geom:longitude":-73.122768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"279 Ferry Blvd",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463445553,
-    "wof:geomhash":"5b17113b573acdfdea5328d8575713f6",
+    "wof:geomhash":"6495aeb899db4842f848e388bb90e591",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823756749,
-    "wof:lastmodified":1472613743,
+    "wof:lastmodified":1533933049,
     "wof:name":"Connecticut Dance Conservatory",
     "wof:parent_id":85844831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823981731
+    ],
     "wof:tags":[
         "instruction",
         "dancing"

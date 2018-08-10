@@ -7,6 +7,7 @@
     "addr:postcode":"06702",
     "addr:street":"Grand St Waterbury Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.043676,41.55454,-73.043676,41.55454",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.043676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"236 Grand St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1463448813,
-    "wof:geomhash":"8e857c5f1cd7d465a1a4928fac23a24e",
+    "wof:geomhash":"0e7c75993f1de16cfa3dc77a2f2d9e1f",
     "wof:hierarchy":[],
     "wof:id":823873407,
-    "wof:lastmodified":1472613909,
+    "wof:lastmodified":1533933050,
     "wof:name":"Workers Comp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823938229
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

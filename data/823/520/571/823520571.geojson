@@ -7,6 +7,7 @@
     "addr:postcode":"06519",
     "addr:street":"Howard Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.935799,41.301824,-72.935799,41.301824",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.935799,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Howard Ave",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463440040,
-    "wof:geomhash":"aa5735941e27443ed4bcff9b341ad632",
+    "wof:geomhash":"8f2c835e423784f66489dbc3e596400c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823520571,
-    "wof:lastmodified":1472613281,
+    "wof:lastmodified":1533933043,
     "wof:name":"Tushar Patel MD",
     "wof:parent_id":85882017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823544041
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

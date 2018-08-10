@@ -7,6 +7,7 @@
     "addr:postcode":"06610",
     "addr:street":"Barnum Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.162053,41.187616,-73.162053,41.187616",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.162053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1551 Barnum Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441435,
-    "wof:geomhash":"d6540661af128e74c4864d90dbb0e93f",
+    "wof:geomhash":"fb13abfb86bbb2400f1dca6b7c0748fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823580603,
-    "wof:lastmodified":1472613350,
+    "wof:lastmodified":1533933045,
     "wof:name":"Automtive McHining Specialists",
     "wof:parent_id":85834249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823603497
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automotive"

@@ -14,6 +14,7 @@
     "geom:longitude":-72.698201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1000 Asylum Ave",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444871,
-    "wof:geomhash":"6d2b8505cda05ffbd5f36241dff36303",
+    "wof:geomhash":"9ae78629d72b4bc2cc3379b739979022",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823729027,
-    "wof:lastmodified":1472613716,
+    "wof:lastmodified":1533933048,
     "wof:name":"Connecticut Gastroenterology",
     "wof:parent_id":85878017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823693565
+    ],
     "wof:tags":[
         "physician"
     ]

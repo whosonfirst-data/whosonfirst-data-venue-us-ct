@@ -2,18 +2,24 @@
   "id": 823963619,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Bostwick Ave Bridgeport CT 06605",
+    "addr:city":"Bridgeport",
+    "addr:full":"1 Bostwick Ave Bridgeport, Ct 06605-2435",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"06605",
+    "addr:phone":"+1 203-335-0932",
+    "addr:postcode":"06605-2435",
+    "addr:road":"Bostwick Ave",
+    "addr:state":"CT",
     "addr:street":"Bostwick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.212142,41.161238,-73.212142,41.161238",
-    "geom:latitude":41.161238,
-    "geom:longitude":-73.212142,
+    "geom:bbox":"-73.21213,41.16055,-73.21213,41.16055",
+    "geom:latitude":41.16055,
+    "geom:longitude":-73.21213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 Bostwick Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -32,21 +38,25 @@
         "philanthropic"
     ],
     "sg:website":"www.forgottenfrontiers.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534123
+    ],
     "wof:belongsto":[
-        85688629,
+        85806293,
         85633793,
         85930811,
         102084283,
-        85806293
+        85688629
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900396,
         "sg:id":"SG_4jqZ88FeeYaJjCv8251sYD_41.161238_-73.212142@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451105,
-    "wof:geomhash":"c8dfd26a29aaa990c6fc582fa598716b",
+    "wof:geomhash":"c9d40b1ea9949c3142cb88288876a854",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":823963619,
-    "wof:lastmodified":1472613922,
-    "wof:name":"HMS Rose Foundation Inc",
+    "wof:lastmodified":1533933051,
+    "wof:name":"H M S Rose Foundation",
     "wof:parent_id":85806293,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -73.212142,
-    41.161238,
-    -73.212142,
-    41.161238
+    -73.21213,
+    41.16055,
+    -73.21213,
+    41.16055
 ],
-  "geometry": {"coordinates":[-73.212142,41.161238],"type":"Point"}
+  "geometry": {"coordinates":[-73.21213,41.16055],"type":"Point"}
 }

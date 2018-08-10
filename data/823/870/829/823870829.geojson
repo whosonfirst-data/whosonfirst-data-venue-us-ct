@@ -14,6 +14,7 @@
     "geom:longitude":-73.641907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"411 W Putnam Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448757,
-    "wof:geomhash":"1131fa0c2f4e1bc10d2f0e2344fadcd4",
+    "wof:geomhash":"59009bd0fac21159d3d91e3a72bf5b41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823870829,
-    "wof:lastmodified":1472613858,
+    "wof:lastmodified":1533933050,
     "wof:name":"Solon Mack Capital",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823779143
+    ],
     "wof:tags":[
         "advisory",
         "financial"

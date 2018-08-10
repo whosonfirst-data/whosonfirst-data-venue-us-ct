@@ -14,6 +14,7 @@
     "geom:longitude":-73.140886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"288 Christian St",
     "sg:city":"Oxford",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444916,
-    "wof:geomhash":"f73fcf0757e44cfaa7993d1384e975f7",
+    "wof:geomhash":"7c402fec83259de47fabd35e31f2f7ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +52,15 @@
         }
     ],
     "wof:id":823730533,
-    "wof:lastmodified":1472613727,
+    "wof:lastmodified":1533933048,
     "wof:name":"J P Associates",
     "wof:parent_id":85850263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823625389
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -14,6 +14,7 @@
     "geom:longitude":-72.996124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 New Hartford Rd",
     "sg:city":"Barkhamsted",
     "sg:classifiers":[],
@@ -34,7 +35,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454097,
-    "wof:geomhash":"3bd71bcab3894c0b06fa37cd7a386ebe",
+    "wof:geomhash":"6fce081b55b0699b90b20d58c9216a2d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,13 +46,15 @@
         }
     ],
     "wof:id":824090537,
-    "wof:lastmodified":1472613242,
+    "wof:lastmodified":1533933043,
     "wof:name":"Log House Restaurant",
     "wof:parent_id":85804511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824090497
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,6 +7,7 @@
     "addr:postcode":"06880",
     "addr:street":"Surf Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.376338,41.097501,-73.376338,41.097501",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.376338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4 Surf Rd",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -44,15 +46,17 @@
     },
     "wof:country":"US",
     "wof:created":1463454747,
-    "wof:geomhash":"cb274a0ed724094bdc19d35ea047f29c",
+    "wof:geomhash":"5d3bd515e3d55ad5e666449dff3274bc",
     "wof:hierarchy":[],
     "wof:id":824118991,
-    "wof:lastmodified":1472613348,
+    "wof:lastmodified":1533933049,
     "wof:name":"The Resale Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823757003
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "assistant",

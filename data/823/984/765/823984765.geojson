@@ -2,18 +2,23 @@
   "id": 823984765,
   "type": "Feature",
   "properties": {
-    "addr:full":"139 N Main St Hartford CT 06107",
+    "addr:city":"West Hartford",
+    "addr:full":"139 N. Main St. West Hartford, Ct 06107",
+    "addr:house_number":"139",
     "addr:housenumber":"139",
     "addr:postcode":"06107",
+    "addr:road":"N. Main St.",
+    "addr:state":"CT",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.743404,41.77033,-72.743404,41.77033",
-    "geom:latitude":41.77033,
-    "geom:longitude":-72.743404,
+    "geom:bbox":"-72.74408,41.77133,-72.74408,41.77133",
+    "geom:latitude":41.77133,
+    "geom:longitude":-72.74408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"139 N Main St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -32,7 +37,10 @@
         "for",
         "child"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532701
+    ],
     "wof:belongsto":[
         85867455,
         102191575,
@@ -44,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400044,
         "sg:id":"SG_0rc9AFNW9IuqbDjggBy92n_41.770330_-72.743404@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451601,
-    "wof:geomhash":"c3368a8e751bb643caa5cc29fbae0bb7",
+    "wof:geomhash":"1fd815484b70757f9b9225dab67907f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +71,8 @@
         }
     ],
     "wof:id":823984765,
-    "wof:lastmodified":1472613960,
-    "wof:name":"American School For Deaf",
+    "wof:lastmodified":1533933048,
+    "wof:name":"American School For The Deaf Museum & Archives",
     "wof:parent_id":85867455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -76,10 +85,10 @@
     ]
 },
   "bbox": [
-    -72.743404,
-    41.77033,
-    -72.743404,
-    41.77033
+    -72.74408,
+    41.77133,
+    -72.74408,
+    41.77133
 ],
-  "geometry": {"coordinates":[-72.743404,41.77033],"type":"Point"}
+  "geometry": {"coordinates":[-72.74408,41.77133],"type":"Point"}
 }

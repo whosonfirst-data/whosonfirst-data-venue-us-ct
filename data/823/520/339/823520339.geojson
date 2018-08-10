@@ -15,6 +15,7 @@
     "geom:longitude":-73.640539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Melrose Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1463440036,
-    "wof:geomhash":"46fd0050c62d4e992a52fd8994daa727",
+    "wof:geomhash":"ce9a728c9a6dc22d037e18629b3327a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -79,13 +80,15 @@
         }
     ],
     "wof:id":823520339,
-    "wof:lastmodified":1492067224,
+    "wof:lastmodified":1533933042,
     "wof:name":"Lan & PC Services Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823952233
+    ],
     "wof:tags":[
         "communications",
         "design",

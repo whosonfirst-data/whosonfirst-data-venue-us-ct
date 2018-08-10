@@ -14,6 +14,7 @@
     "geom:longitude":-73.560041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"76 Progress Dr",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443086,
-    "wof:geomhash":"ff0600334c8c54fdaa50fc682f5a56cd",
+    "wof:geomhash":"a0cce277584c8c14c786bf4509bde313",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823650353,
-    "wof:lastmodified":1472613402,
+    "wof:lastmodified":1533933047,
     "wof:name":"Arr Services Inc",
     "wof:parent_id":85881175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823796969
+    ],
     "wof:tags":[]
 },
   "bbox": [

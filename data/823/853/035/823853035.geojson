@@ -7,6 +7,7 @@
     "addr:postcode":"06878",
     "addr:street":"Split Timber Pl Riverside Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.578779,41.055445,-73.578779,41.055445",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.578779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"23 Split Timber Pl",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448303,
-    "wof:geomhash":"bd61e45961a16749685440e3dd5fdbf6",
+    "wof:geomhash":"73eabfcb1d0a992d2c44f54329b0e1a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823853035,
-    "wof:lastmodified":1472613746,
+    "wof:lastmodified":1533933050,
     "wof:name":"Lookmedia",
     "wof:parent_id":85837819,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823865327
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "communications"

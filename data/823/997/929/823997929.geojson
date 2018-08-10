@@ -2,18 +2,24 @@
   "id": 823997929,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Elizabeth St Hartford CT 06105",
+    "addr:city":"Hartford",
+    "addr:full":"1 Elizabeth St Hartford, Ct 06105-2213",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
-    "addr:postcode":"06105",
+    "addr:phone":"+1 860-236-5621",
+    "addr:postcode":"06105-2213",
+    "addr:road":"Elizabeth St",
+    "addr:state":"CT",
     "addr:street":"Elizabeth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.708827,41.773324,-72.708827,41.773324",
-    "geom:latitude":41.773324,
-    "geom:longitude":-72.708827,
+    "geom:bbox":"-72.7049,41.77357,-72.7049,41.77357",
+    "geom:latitude":41.77357,
+    "geom:longitude":-72.7049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 Elizabeth St",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "historical",
         "association"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532701
+    ],
     "wof:belongsto":[
         85878017,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900298,
         "sg:id":"SG_79FH7ClqQiO6gYtu5Pf57X_41.773324_-72.708827@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463451939,
-    "wof:geomhash":"6f043a8b3ad45f11b9734248535df1a2",
+    "wof:geomhash":"1669f7f895fcf26733a271909decb429",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":823997929,
-    "wof:lastmodified":1472613973,
+    "wof:lastmodified":1533933050,
     "wof:name":"Connecticut Historical Society",
     "wof:parent_id":85878017,
     "wof:placetype":"venue",
@@ -74,10 +84,10 @@
     ]
 },
   "bbox": [
-    -72.708827,
-    41.773324,
-    -72.708827,
-    41.773324
+    -72.7049,
+    41.77357,
+    -72.7049,
+    41.77357
 ],
-  "geometry": {"coordinates":[-72.708827,41.773324],"type":"Point"}
+  "geometry": {"coordinates":[-72.70489999999999,41.77357],"type":"Point"}
 }

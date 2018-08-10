@@ -14,6 +14,7 @@
     "geom:longitude":-72.8489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 W Main St",
     "sg:city":"Avon",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453942,
-    "wof:geomhash":"42cc5f9c819162a57d461074f16c2dfb",
+    "wof:geomhash":"4c24354d666aa00ce9363dfe65b628d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":824083939,
-    "wof:lastmodified":1472613271,
+    "wof:lastmodified":1533933044,
     "wof:name":"Maidpro",
     "wof:parent_id":85855189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823798345
+    ],
     "wof:tags":[
         "home"
     ]

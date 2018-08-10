@@ -7,6 +7,7 @@
     "addr:postcode":"06460",
     "addr:street":"Boston Post Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.04135,41.234572,-73.04135,41.234572",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.04135,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1201 Boston Post Rd",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453513,
-    "wof:geomhash":"79ec4511c0a32d44b9aa258bcf52350a",
+    "wof:geomhash":"a676c00e647e0c10b6255ee2f7852842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":824065703,
-    "wof:lastmodified":1472613246,
+    "wof:lastmodified":1533933049,
     "wof:name":"Harrigan Insurance & Fincl Svc",
     "wof:parent_id":85819849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823992715
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting",

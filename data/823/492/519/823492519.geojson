@@ -7,6 +7,7 @@
     "addr:postcode":"06615",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-73.132034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2505 Main St",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":823492519,
-    "wof:lastmodified":1511322877,
+    "wof:lastmodified":1533933042,
     "wof:name":"Primerica Financial Svc",
     "wof:parent_id":85888495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824048237
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

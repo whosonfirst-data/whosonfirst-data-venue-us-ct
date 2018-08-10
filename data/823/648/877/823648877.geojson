@@ -15,6 +15,7 @@
     "geom:longitude":-73.407546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 East Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443058,
-    "wof:geomhash":"443b1b52e975a309bbb096bfb7e4be58",
+    "wof:geomhash":"ac6c2b9f789e75ad97024f0b4f1b1f1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,13 +73,15 @@
         }
     ],
     "wof:id":823648877,
-    "wof:lastmodified":1491922083,
+    "wof:lastmodified":1533933046,
     "wof:name":"Norwalk Youth Svc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823781659
+    ],
     "wof:tags":[
         "government"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"06604",
     "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-73.190319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"999 Broad St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -65,12 +66,14 @@
         }
     ],
     "wof:id":823951439,
-    "wof:lastmodified":1511319546,
+    "wof:lastmodified":1533933042,
     "wof:name":"Economic Development",
     "wof:parent_id":85876483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823508043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "city",

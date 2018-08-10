@@ -2,18 +2,24 @@
   "id": 823673937,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Main St Wethersfield CT 06109",
+    "addr:city":"Wethersfield",
+    "addr:full":"200 Main St Wethersfield, Ct 06109",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 860-529-7161",
     "addr:postcode":"06109",
+    "addr:road":"Main St",
+    "addr:state":"CT",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.653113,41.711155,-72.653113,41.711155",
-    "geom:latitude":41.711155,
-    "geom:longitude":-72.653113,
+    "geom:bbox":"-72.65378,41.7105,-72.65378,41.7105",
+    "geom:latitude":41.7105,
+    "geom:longitude":-72.65378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 Main St",
     "sg:city":"Wethersfield",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532701
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900068,
         "sg:id":"SG_3A2pUmZQxY95Vncig80deL_41.711155_-72.653113@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443664,
-    "wof:geomhash":"e2f42939d0e6a24a64ba6e44dc5080fd",
+    "wof:geomhash":"3ff168398a00136eda3a784f03c0faf0",
     "wof:hierarchy":[],
     "wof:id":823673937,
-    "wof:lastmodified":1472613686,
+    "wof:lastmodified":1533933046,
     "wof:name":"Keeney Memorial Culture Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -72.653113,
-    41.711155,
-    -72.653113,
-    41.711155
+    -72.65378,
+    41.7105,
+    -72.65378,
+    41.7105
 ],
-  "geometry": {"coordinates":[-72.653113,41.711155],"type":"Point"}
+  "geometry": {"coordinates":[-72.65378,41.7105],"type":"Point"}
 }

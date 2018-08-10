@@ -7,6 +7,7 @@
     "addr:postcode":"06878",
     "addr:street":"E Putnam Ave Riverside Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.580078,41.041517,-73.580078,41.041517",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.580078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1191 E Putnam Ave",
     "sg:city":"Riverside",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453864,
-    "wof:geomhash":"a67d128c86469899c5b63399858ada14",
+    "wof:geomhash":"8fdfb2a060a1454b09b904206f7d8d4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":824080609,
-    "wof:lastmodified":1472613254,
+    "wof:lastmodified":1533933045,
     "wof:name":"Baang",
     "wof:parent_id":85833939,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824118745
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "asian",

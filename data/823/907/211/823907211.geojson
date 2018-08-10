@@ -14,6 +14,7 @@
     "geom:longitude":-72.924345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"165 Church St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449651,
-    "wof:geomhash":"7a51709b6de3476170362e7a9e508a3d",
+    "wof:geomhash":"7e7c2311a429f32a20ba0a63e90cdd56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823907211,
-    "wof:lastmodified":1472613893,
+    "wof:lastmodified":1533933050,
     "wof:name":"Livable City Committee",
     "wof:parent_id":85879165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823810079
+    ],
     "wof:tags":[
         "conservation"
     ]

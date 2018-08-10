@@ -7,6 +7,7 @@
     "addr:postcode":"06109",
     "addr:street":"Wolcott Hill Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.668244,41.697786,-72.668244,41.697786",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.668244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"689 Wolcott Hill Rd",
     "sg:city":"Wethersfield",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453201,
-    "wof:geomhash":"d3ec06d31fa9dc591c862f64050a109f",
+    "wof:geomhash":"80e8f6d0530b7834164fd04773bfe647",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":824051609,
-    "wof:lastmodified":1472613247,
+    "wof:lastmodified":1533933044,
     "wof:name":"Leos Pizza House Inc",
     "wof:parent_id":85823233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824095559
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

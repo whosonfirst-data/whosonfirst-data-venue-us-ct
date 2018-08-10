@@ -7,6 +7,7 @@
     "addr:postcode":"06705",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.000127,41.541989,-73.000127,41.541989",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.000127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2457 E Main St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443975,
-    "wof:geomhash":"bf573afd0458f8f0ea7c0e97b380088c",
+    "wof:geomhash":"bc271d15fca42730d109bf1c837f1545",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":823688179,
-    "wof:lastmodified":1472613662,
+    "wof:lastmodified":1533933047,
     "wof:name":"Amis Crispy Bagels LLC",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823688929
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

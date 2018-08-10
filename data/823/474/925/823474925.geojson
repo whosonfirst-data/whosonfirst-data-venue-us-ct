@@ -15,6 +15,7 @@
     "geom:longitude":-73.269388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19 Old Orchard Rd",
     "sg:city":"Easton",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463438950,
-    "wof:geomhash":"67a187a4bf3f5181317f3110c35b9614",
+    "wof:geomhash":"486b862bd14057b1a56b972fa1f96650",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823474925,
-    "wof:lastmodified":1492068731,
+    "wof:lastmodified":1533933041,
     "wof:name":"Thomas M Sheehan & Assoc",
     "wof:parent_id":85845381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823484031
+    ],
     "wof:tags":[
         "attorney"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"06830",
     "addr:street":"W Putnam Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.630088,41.027456,-73.630088,41.027456",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.630088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"124 W Putnam Ave",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463448862,
-    "wof:geomhash":"43f571c8946457e9219d8be58f9b2221",
+    "wof:geomhash":"bf3f2b71a6081c38270f1e19f57d80bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":823875599,
-    "wof:lastmodified":1472613932,
+    "wof:lastmodified":1533933044,
     "wof:name":"US Ferrous Trading",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823553961
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "scrap",

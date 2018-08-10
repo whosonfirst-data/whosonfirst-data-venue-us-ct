@@ -7,6 +7,7 @@
     "addr:postcode":"06811",
     "addr:street":"Federal Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.418839,41.426603,-73.418839,41.426603",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.418839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"128 Federal Rd",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -59,7 +61,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454654,
-    "wof:geomhash":"ef513d4b87917aa6ea4011bfd9ebfe73",
+    "wof:geomhash":"8f0015dd14e8e934c5223ce0413d4083",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,12 +75,14 @@
         }
     ],
     "wof:id":824114847,
-    "wof:lastmodified":1472613313,
+    "wof:lastmodified":1533933049,
     "wof:name":"Sounds Incredible Mobile",
     "wof:parent_id":85805151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823994539
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "stereo",

@@ -7,6 +7,7 @@
     "addr:postcode":"06830",
     "addr:street":"Mason St Greenwich Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.624118,41.026152,-73.624118,41.026152",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.624118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"170 Mason St",
     "sg:city":"Greenwich",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463438739,
-    "wof:geomhash":"66a33600f9525310c635e06305777e42",
+    "wof:geomhash":"25d79321a96d84ed5da843a13b7fe89f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823465691,
-    "wof:lastmodified":1472608609,
+    "wof:lastmodified":1533933045,
     "wof:name":"Asset Managmnt Group",
     "wof:parent_id":85885307,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823599089
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "planner",

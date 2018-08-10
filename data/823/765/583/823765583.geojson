@@ -7,6 +7,7 @@
     "addr:postcode":"06880",
     "addr:street":"Post Rd E Westport Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.321254,41.138933,-73.321254,41.138933",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.321254,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1175 Post Rd E",
     "sg:city":"Westport",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463445729,
-    "wof:geomhash":"e4d604761530a40f886adea85dc32408",
+    "wof:geomhash":"ee4a74e1d93adf91539c487ac849e842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":823765583,
-    "wof:lastmodified":1472613808,
+    "wof:lastmodified":1533933046,
     "wof:name":"Nassau Group Inc",
     "wof:parent_id":85823521,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823637613
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

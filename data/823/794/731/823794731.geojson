@@ -7,6 +7,7 @@
     "addr:postcode":"06606",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.218369,41.224431,-73.218369,41.224431",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.218369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4699 Main St",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -35,15 +37,17 @@
     },
     "wof:country":"US",
     "wof:created":1463446563,
-    "wof:geomhash":"0112a0b0682e112e11156c0b3b1c523e",
+    "wof:geomhash":"aa7be4e11cad92ee00b628fe8c0609db",
     "wof:hierarchy":[],
     "wof:id":823794731,
-    "wof:lastmodified":1472613837,
+    "wof:lastmodified":1533933045,
     "wof:name":"Medical Specialists",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823590059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

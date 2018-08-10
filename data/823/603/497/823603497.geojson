@@ -14,6 +14,7 @@
     "geom:longitude":-73.162053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1551 Barnum Ave",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441990,
-    "wof:geomhash":"d6540661af128e74c4864d90dbb0e93f",
+    "wof:geomhash":"fb13abfb86bbb2400f1dca6b7c0748fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +63,15 @@
         }
     ],
     "wof:id":823603497,
-    "wof:lastmodified":1472613405,
+    "wof:lastmodified":1533933045,
     "wof:name":"Automotive Machining Spec",
     "wof:parent_id":85834249,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823580603
+    ],
     "wof:tags":[
         "machine",
         "automobile",

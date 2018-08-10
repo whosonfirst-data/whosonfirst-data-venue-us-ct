@@ -7,6 +7,7 @@
     "addr:postcode":"06854",
     "addr:street":"Connecticut Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.442472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"535 Connecticut Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1463440293,
-    "wof:geomhash":"e8ce85b1d6ee39c0a768a67232a25be8",
+    "wof:geomhash":"5aab69d402b17d8baa171bb662272e09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,12 +78,14 @@
         }
     ],
     "wof:id":823532141,
-    "wof:lastmodified":1492025800,
+    "wof:lastmodified":1533933048,
     "wof:name":"IDS Financial Svc Inc",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823696415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

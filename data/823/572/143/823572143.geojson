@@ -14,6 +14,7 @@
     "geom:longitude":-73.518117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"652 Glenbrook Rd",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463441234,
-    "wof:geomhash":"d8bb39e0b2dac66a259f974b3490ed73",
+    "wof:geomhash":"aaeb0e0e2567749a56dc19fb0ddd6b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823572143,
-    "wof:lastmodified":1472613325,
+    "wof:lastmodified":1533933045,
     "wof:name":"Frameshop Art Svc Inc",
     "wof:parent_id":85850675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823789879
+    ],
     "wof:tags":[
         "picture",
         "frame"

@@ -14,6 +14,7 @@
     "geom:longitude":-73.547566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Southfield Ave",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463450155,
-    "wof:geomhash":"a295251a8c085dc3a9b915184b4e4e95",
+    "wof:geomhash":"e98c655ecaadf29fd2fdc269511bcf9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823926263,
-    "wof:lastmodified":1472613890,
+    "wof:lastmodified":1533933050,
     "wof:name":"Bywater Inc",
     "wof:parent_id":85881173,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823880447
+    ],
     "wof:tags":[]
 },
   "bbox": [

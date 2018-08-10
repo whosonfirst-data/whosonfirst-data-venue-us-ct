@@ -7,6 +7,7 @@
     "addr:postcode":"06851",
     "addr:street":"East Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-73.407546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"125 East Ave",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463452944,
-    "wof:geomhash":"443b1b52e975a309bbb096bfb7e4be58",
+    "wof:geomhash":"ac6c2b9f789e75ad97024f0b4f1b1f1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +74,14 @@
         }
     ],
     "wof:id":824040731,
-    "wof:lastmodified":1491922135,
+    "wof:lastmodified":1533933044,
     "wof:name":"Norwalk Corp Counsel",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823565363
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "village"

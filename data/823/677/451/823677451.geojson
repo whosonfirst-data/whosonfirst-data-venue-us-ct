@@ -14,6 +14,7 @@
     "geom:longitude":-72.917576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"251 Edwards St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443734,
-    "wof:geomhash":"e38110c28630788296fca767a6d49791",
+    "wof:geomhash":"9afb180b11c266765fc34b0160cc6ed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823677451,
-    "wof:lastmodified":1472613659,
+    "wof:lastmodified":1533933047,
     "wof:name":"Nancy Olson",
     "wof:parent_id":85888493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823650335
+    ],
     "wof:tags":[
         "medical"
     ]

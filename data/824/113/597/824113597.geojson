@@ -2,18 +2,23 @@
   "id": 824113597,
   "type": "Feature",
   "properties": {
-    "addr:full":"125 Park Ave Danbury CT 06810",
+    "addr:city":"Danbury",
+    "addr:full":"125 Park Ave Danbury, Ct 06810-7504",
+    "addr:house_number":"125",
     "addr:housenumber":"125",
-    "addr:postcode":"06810",
+    "addr:postcode":"06810-7504",
+    "addr:road":"Park Ave",
+    "addr:state":"CT",
     "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.465746,41.382248,-73.465746,41.382248",
-    "geom:latitude":41.382248,
-    "geom:longitude":-73.465746,
+    "geom:bbox":"-73.46875,41.38063,-73.46875,41.38063",
+    "geom:latitude":41.38063,
+    "geom:longitude":-73.46875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"125 Park Ave",
     "sg:city":"Danbury",
     "sg:classifiers":[
@@ -27,7 +32,10 @@
     "sg:phone":"+1 203 790 9277",
     "sg:postcode":"06810",
     "sg:province":"CT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525713
+    ],
     "wof:belongsto":[
         85805179,
         102191575,
@@ -39,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900199,
         "sg:id":"SG_7WoagXcGy4bLw34DLJSpj4_41.382248_-73.465746@1303262247"
     },
     "wof:country":"US",
     "wof:created":1463454632,
-    "wof:geomhash":"8c3fe04db4ea2a57410de0b0887e051c",
+    "wof:geomhash":"c0092f0550192713daff8bb4d9bed6ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":824113597,
-    "wof:lastmodified":1472613325,
+    "wof:lastmodified":1533933044,
     "wof:name":"Military Museum Of Southern New England",
     "wof:parent_id":85805179,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.465746,
-    41.382248,
-    -73.465746,
-    41.382248
+    -73.46875,
+    41.38063,
+    -73.46875,
+    41.38063
 ],
-  "geometry": {"coordinates":[-73.465746,41.382248],"type":"Point"}
+  "geometry": {"coordinates":[-73.46875,41.38063],"type":"Point"}
 }

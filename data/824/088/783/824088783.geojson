@@ -7,6 +7,7 @@
     "addr:postcode":"06032",
     "addr:street":"Scott Swamp Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.888298,41.701801,-72.888298,41.701801",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.888298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"353 Scott Swamp Rd",
     "sg:city":"Farmington",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454063,
-    "wof:geomhash":"1c143d30055da910ab21b8c32f2a8dd3",
+    "wof:geomhash":"11be0454781747db1a8502ed7fb2f197",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":824088783,
-    "wof:lastmodified":1472613261,
+    "wof:lastmodified":1533933047,
     "wof:name":"Maraj Baliram DMD",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823683725
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"

@@ -2,18 +2,24 @@
   "id": 823868587,
   "type": "Feature",
   "properties": {
-    "addr:full":"15 Hillhouse Ave New Haven CT 06511",
+    "addr:city":"New Haven",
+    "addr:full":"15 Hillhouse Ave New Haven, Ct 06511",
+    "addr:house_number":"15",
     "addr:housenumber":"15",
+    "addr:phone":"+1 203-432-0822",
     "addr:postcode":"06511",
+    "addr:road":"Hillhouse Ave",
+    "addr:state":"CT",
     "addr:street":"Hillhouse Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.924286,41.311548,-72.924286,41.311548",
-    "geom:latitude":41.311548,
-    "geom:longitude":-72.924286,
+    "geom:bbox":"-72.92383,41.31267,-72.92383,41.31267",
+    "geom:latitude":41.31267,
+    "geom:longitude":-72.92383,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"15 Hillhouse Ave",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 203 432 0822",
     "sg:postcode":"06511",
     "sg:province":"CT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527877,
+        102534123
+    ],
     "wof:belongsto":[
         85879165,
         102191575,
@@ -39,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900002,
         "sg:id":"SG_4vqgGMmTd6iRxyd9iSdHkP_41.311548_-72.924286@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463448703,
-    "wof:geomhash":"54fe2cc7eaebee5a533e5b0c343cf04c",
+    "wof:geomhash":"411c63bb057db01c8bce9a0795b9fcd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":823868587,
-    "wof:lastmodified":1472613855,
+    "wof:lastmodified":1533933050,
     "wof:name":"Yale Collection Of Musical",
     "wof:parent_id":85879165,
     "wof:placetype":"venue",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -72.924286,
-    41.311548,
-    -72.924286,
-    41.311548
+    -72.92383,
+    41.31267,
+    -72.92383,
+    41.31267
 ],
-  "geometry": {"coordinates":[-72.924286,41.311548],"type":"Point"}
+  "geometry": {"coordinates":[-72.92383,41.31267],"type":"Point"}
 }

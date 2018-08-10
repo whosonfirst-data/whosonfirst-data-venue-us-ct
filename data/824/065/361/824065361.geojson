@@ -14,6 +14,7 @@
     "geom:longitude":-73.410191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Greenwood Ave",
     "sg:city":"Bethel",
     "sg:classifiers":[
@@ -49,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463453507,
-    "wof:geomhash":"22f76c1492c4b6369f1cdd7dc960f891",
+    "wof:geomhash":"aa26cf3503872a4e83d9665548169be7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +64,15 @@
         }
     ],
     "wof:id":824065361,
-    "wof:lastmodified":1472612632,
+    "wof:lastmodified":1533933043,
     "wof:name":"BMC",
     "wof:parent_id":85821411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823843157
+    ],
     "wof:tags":[
         "lesson",
         "music",

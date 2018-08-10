@@ -7,6 +7,7 @@
     "addr:postcode":"06906",
     "addr:street":"Glenbrook Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.518117,41.073249,-73.518117,41.073249",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.518117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"652 Glenbrook Rd",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449405,
-    "wof:geomhash":"d8bb39e0b2dac66a259f974b3490ed73",
+    "wof:geomhash":"aaeb0e0e2567749a56dc19fb0ddd6b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":823898455,
-    "wof:lastmodified":1472613922,
+    "wof:lastmodified":1533933045,
     "wof:name":"Finesse Auto Body Works Inc",
     "wof:parent_id":85850675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824121039
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

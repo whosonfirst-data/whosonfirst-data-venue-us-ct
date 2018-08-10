@@ -2,18 +2,24 @@
   "id": 823663687,
   "type": "Feature",
   "properties": {
-    "addr:full":"305 Broadway Norwich CT 06360",
+    "addr:city":"Norwich",
+    "addr:full":"305 Broadway Norwich, Ct 06360-5336",
+    "addr:house_number":"305",
     "addr:housenumber":"305",
-    "addr:postcode":"06360",
+    "addr:phone":"+1 860-425-5560",
+    "addr:postcode":"06360-5336",
+    "addr:road":"Broadway",
+    "addr:state":"CT",
     "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.083362,41.537076,-72.083362,41.537076",
-    "geom:latitude":41.537076,
-    "geom:longitude":-72.083362,
+    "geom:bbox":"-72.08324,41.53699,-72.08324,41.53699",
+    "geom:latitude":41.53699,
+    "geom:longitude":-72.08324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"305 Broadway",
     "sg:city":"Norwich",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "business"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529885
+    ],
     "wof:belongsto":[
         85823081,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900398,
         "sg:id":"SG_3ipzwxfT3RzEwdqxi8gTvs_41.537076_-72.083362@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443423,
-    "wof:geomhash":"831c9f2cd1adc148260fb3e372bd7054",
+    "wof:geomhash":"5fd90ae40805f12fb08f6f1630fe2ee4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":823663687,
-    "wof:lastmodified":1472613432,
-    "wof:name":"Nfa Foundation Inc",
+    "wof:lastmodified":1533933047,
+    "wof:name":"Norwich Free Academy Foundation",
     "wof:parent_id":85823081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -72.083362,
-    41.537076,
-    -72.083362,
-    41.537076
+    -72.08324,
+    41.53699,
+    -72.08324,
+    41.53699
 ],
-  "geometry": {"coordinates":[-72.08336199999999,41.537076],"type":"Point"}
+  "geometry": {"coordinates":[-72.08324,41.53699],"type":"Point"}
 }

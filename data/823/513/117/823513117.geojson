@@ -14,6 +14,7 @@
     "geom:longitude":-73.170035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 Margaret Morton Ln",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463439866,
-    "wof:geomhash":"1718b8374161b75197c272c336b0a259",
+    "wof:geomhash":"7f2b1333209c04f0a9919098876e5bba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823513117,
-    "wof:lastmodified":1472611503,
+    "wof:lastmodified":1533933042,
     "wof:name":"Morton's Mortuary",
     "wof:parent_id":85876487,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823855301
+    ],
     "wof:tags":[
         "director"
     ]

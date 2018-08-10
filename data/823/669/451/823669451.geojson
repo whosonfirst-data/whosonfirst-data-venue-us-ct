@@ -7,6 +7,7 @@
     "addr:postcode":"06615",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.132034,41.195741,-73.132034,41.195741",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.132034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2505 Main St",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443560,
-    "wof:geomhash":"0d627e3e4ff49aec16b2ecf88183c8a0",
+    "wof:geomhash":"a05355815a08fb0efdae5456ec2eae7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823669451,
-    "wof:lastmodified":1472613691,
+    "wof:lastmodified":1533933048,
     "wof:name":"Riccio Title Svc LLC",
     "wof:parent_id":85888495,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823985183
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "company",

@@ -7,6 +7,7 @@
     "addr:postcode":"06063",
     "addr:street":"New Hartford Rd Barkhamsted Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-72.999802,41.907398,-72.999802,41.907398",
@@ -14,6 +15,7 @@
     "geom:longitude":-72.999802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"110 New Hartford Rd",
     "sg:city":"Barkhamsted",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1463454097,
-    "wof:geomhash":"2d2e3c2ad100f41c2d9ed9c404c70e6a",
+    "wof:geomhash":"0b799de86b7e7113ef4e24fc3544e63f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":824090497,
-    "wof:lastmodified":1472613239,
+    "wof:lastmodified":1533933043,
     "wof:name":"Log House Restaurant",
     "wof:parent_id":85804511,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        824090537
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich"

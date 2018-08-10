@@ -14,6 +14,7 @@
     "geom:longitude":-73.014394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1663 E Main St",
     "sg:city":"Waterbury",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442074,
-    "wof:geomhash":"c87d428ad4038fc1d0e08882fbdbdab5",
+    "wof:geomhash":"f9c127db11e166d8dd74a1ee4802f495",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823607373,
-    "wof:lastmodified":1472613379,
+    "wof:lastmodified":1533933045,
     "wof:name":"Ladi's Auto Sales LLC",
     "wof:parent_id":85818431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823837739
+    ],
     "wof:tags":[
         "car",
         "dealer"

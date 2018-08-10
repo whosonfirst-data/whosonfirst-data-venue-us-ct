@@ -2,18 +2,24 @@
   "id": 824047077,
   "type": "Feature",
   "properties": {
-    "addr:full":"1 Pleasant St Bristol CT 06010",
+    "addr:city":"Bristol",
+    "addr:full":"1 Pleasant St Bristol, Ct 06010",
+    "addr:house_number":"1",
     "addr:housenumber":"1",
+    "addr:phone":"+1 860-314-1400",
     "addr:postcode":"06010",
+    "addr:road":"Pleasant St",
+    "addr:state":"CT",
     "addr:street":"Pleasant St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.948574,41.66979,-72.948574,41.66979",
-    "geom:latitude":41.66979,
-    "geom:longitude":-72.948574,
+    "geom:bbox":"-72.94661,41.66994,-72.94661,41.66994",
+    "geom:latitude":41.66994,
+    "geom:longitude":-72.94661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1 Pleasant St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -30,7 +36,8 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85816055,
         102191575,
@@ -42,11 +49,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900066,
         "sg:id":"SG_5oZszgdNUQUxhhkjcZmkbw_41.669790_-72.948574@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463453081,
-    "wof:geomhash":"15b34ecd5968eda2622d8e8b49b35280",
+    "wof:geomhash":"1cd8b55e1190530dc33cdea6ec721eb2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +68,8 @@
         }
     ],
     "wof:id":824047077,
-    "wof:lastmodified":1472611080,
-    "wof:name":"Imagine Nation Childrens Muse",
+    "wof:lastmodified":1533933043,
+    "wof:name":"Imagine Nation Children'S Museum",
     "wof:parent_id":85816055,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -72.948574,
-    41.66979,
-    -72.948574,
-    41.66979
+    -72.94661,
+    41.66994,
+    -72.94661,
+    41.66994
 ],
-  "geometry": {"coordinates":[-72.94857399999999,41.66979],"type":"Point"}
+  "geometry": {"coordinates":[-72.94661000000001,41.66994],"type":"Point"}
 }

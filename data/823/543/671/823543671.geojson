@@ -2,18 +2,24 @@
   "id": 823543671,
   "type": "Feature",
   "properties": {
-    "addr:full":"119 Flagg Rd Hartford CT 06117",
+    "addr:city":"West Hartford",
+    "addr:full":"119 Flagg Road West Hartford, Ct 06117",
+    "addr:house_number":"119",
     "addr:housenumber":"119",
+    "addr:phone":"+1 860-561-8260",
     "addr:postcode":"06117",
+    "addr:road":"Flagg Road",
+    "addr:state":"CT",
     "addr:street":"Flagg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-72.75988,41.783781,-72.75988,41.783781",
-    "geom:latitude":41.783781,
-    "geom:longitude":-72.75988,
+    "geom:bbox":"-72.7632,41.78332,-72.7632,41.78332",
+    "geom:latitude":41.78332,
+    "geom:longitude":-72.7632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"119 Flagg Rd",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "conservation"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532701
+    ],
     "wof:belongsto":[
         85867455,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900551,
         "sg:id":"SG_7IiKnoS2RFPCGASfvHgAY3_41.783781_-72.759880@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463440554,
-    "wof:geomhash":"a2a1a4b3f70328f03e6f3466cf7b7916",
+    "wof:geomhash":"ada433be64f1fd496c2c0a08a9290064",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":823543671,
-    "wof:lastmodified":1472613309,
+    "wof:lastmodified":1533933043,
     "wof:name":"Westmoor Park",
     "wof:parent_id":85867455,
     "wof:placetype":"venue",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -72.75988,
-    41.783781,
-    -72.75988,
-    41.783781
+    -72.7632,
+    41.78332,
+    -72.7632,
+    41.78332
 ],
-  "geometry": {"coordinates":[-72.75988,41.783781],"type":"Point"}
+  "geometry": {"coordinates":[-72.7632,41.78332],"type":"Point"}
 }

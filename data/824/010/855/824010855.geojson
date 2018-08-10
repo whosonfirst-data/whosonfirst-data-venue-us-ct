@@ -14,6 +14,7 @@
     "geom:longitude":-72.832309,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"197 Bushy Hill Rd",
     "sg:city":"Simsbury",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463452217,
-    "wof:geomhash":"119849e760105e3e9b9b645b3897e160",
+    "wof:geomhash":"ce382a564539d1d6cea19ff1a45dc182",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":824010855,
-    "wof:lastmodified":1472607879,
+    "wof:lastmodified":1533933042,
     "wof:name":"Childrens Center Inc",
     "wof:parent_id":85841787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824091443
+    ],
     "wof:tags":[
         "day"
     ]

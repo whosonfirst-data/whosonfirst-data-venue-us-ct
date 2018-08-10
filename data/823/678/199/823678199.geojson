@@ -2,18 +2,24 @@
   "id": 823678199,
   "type": "Feature",
   "properties": {
-    "addr:full":"132 Water St Norwalk CT 06854",
+    "addr:city":"Norwalk",
+    "addr:full":"132 Water St Norwalk, Ct 06854-3139",
+    "addr:house_number":"132",
     "addr:housenumber":"132",
-    "addr:postcode":"06854",
+    "addr:phone":"+1 203-838-9444",
+    "addr:postcode":"06854-3139",
+    "addr:road":"Water St",
+    "addr:state":"CT",
     "addr:street":"Water St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-73.415167,41.093403,-73.415167,41.093403",
-    "geom:latitude":41.093403,
-    "geom:longitude":-73.415167,
+    "geom:bbox":"-73.41545,41.09517,-73.41545,41.09517",
+    "geom:latitude":41.09517,
+    "geom:longitude":-73.41545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"132 Water St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -34,7 +40,8 @@
         "museum",
         "maritime"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85849909,
         102191575,
@@ -46,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900172,
         "sg:id":"SG_1j61fPTmY39zweXBaZSjY7_41.093403_-73.415167@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463443750,
-    "wof:geomhash":"499070df9644eb55a279d5a14d517f73",
+    "wof:geomhash":"1c3e9b3323c15e2a1b97186effdfe0af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +72,7 @@
         }
     ],
     "wof:id":823678199,
-    "wof:lastmodified":1472613670,
+    "wof:lastmodified":1533933047,
     "wof:name":"Norwalk Seaport Association",
     "wof:parent_id":85849909,
     "wof:placetype":"venue",
@@ -80,10 +88,10 @@
     ]
 },
   "bbox": [
-    -73.415167,
-    41.093403,
-    -73.415167,
-    41.093403
+    -73.41545,
+    41.09517,
+    -73.41545,
+    41.09517
 ],
-  "geometry": {"coordinates":[-73.415167,41.093403],"type":"Point"}
+  "geometry": {"coordinates":[-73.41545000000001,41.09517],"type":"Point"}
 }

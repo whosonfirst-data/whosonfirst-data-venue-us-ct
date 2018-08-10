@@ -14,6 +14,7 @@
     "geom:longitude":-72.93457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Cedar St",
     "sg:city":"New Haven",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449467,
-    "wof:geomhash":"307cb73d6079c4c7dac762ff44e6946b",
+    "wof:geomhash":"d1ba6ec95b3039708a97021629e12ff7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823900631,
-    "wof:lastmodified":1472613930,
+    "wof:lastmodified":1533933050,
     "wof:name":"Yale University of Medicine",
     "wof:parent_id":85879167,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823863433
+    ],
     "wof:tags":[
         "medical"
     ]

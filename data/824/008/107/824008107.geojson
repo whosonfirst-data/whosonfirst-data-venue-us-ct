@@ -2,19 +2,25 @@
   "id": 824008107,
   "type": "Feature",
   "properties": {
-    "addr:full":"2 E Wall St Norwalk CT 06851",
+    "addr:city":"Norwalk",
+    "addr:full":"2 E Wall St Norwalk, Ct 06851",
+    "addr:house_number":"2",
     "addr:housenumber":"2",
+    "addr:phone":"+1 203-846-0525",
     "addr:postcode":"06851",
+    "addr:road":"E Wall St",
+    "addr:state":"CT",
     "addr:street":"E Wall St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-73.408804,41.117825,-73.408804,41.117825",
-    "geom:latitude":41.117825,
-    "geom:longitude":-73.408804,
+    "geom:bbox":"-73.41515,41.11715,-73.41515,41.11715",
+    "geom:latitude":41.11715,
+    "geom:longitude":-73.41515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2 E Wall St",
     "sg:city":"Norwalk",
     "sg:classifiers":[
@@ -28,7 +34,8 @@
     "sg:phone":"+1 203 846 0525",
     "sg:postcode":"06851",
     "sg:province":"CT",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85879317,
         102191575,
@@ -41,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400900025,
         "sg:id":"SG_2g7ASTaZCf8pmTCRx3ORl5_41.117825_-73.408804@1294084077"
     },
     "wof:country":"US",
     "wof:created":1463452159,
-    "wof:geomhash":"1dcde31096a834c1b08139cc1c0c469c",
+    "wof:geomhash":"dfeb40a0676a9242e421a85be79a3ba1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,7 +77,7 @@
         }
     ],
     "wof:id":824008107,
-    "wof:lastmodified":1491922086,
+    "wof:lastmodified":1533933051,
     "wof:name":"Norwalk Historical Society",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
@@ -79,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -73.408804,
-    41.117825,
-    -73.408804,
-    41.117825
+    -73.41515,
+    41.11715,
+    -73.41515,
+    41.11715
 ],
-  "geometry": {"coordinates":[-73.408804,41.117825],"type":"Point"}
+  "geometry": {"coordinates":[-73.41515,41.11715],"type":"Point"}
 }

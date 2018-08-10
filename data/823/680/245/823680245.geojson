@@ -14,6 +14,7 @@
     "geom:longitude":-73.156323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"588 Success Ave",
     "sg:city":"Stratford",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443792,
-    "wof:geomhash":"526bd3bc380978b2072d9665342d69aa",
+    "wof:geomhash":"e49d91d95bc0a904e02c6eadb19b1a98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,13 +58,15 @@
         }
     ],
     "wof:id":823680245,
-    "wof:lastmodified":1472613662,
+    "wof:lastmodified":1533933047,
     "wof:name":"Village Billards Card",
     "wof:parent_id":85876481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823653915
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -14,6 +14,7 @@
     "geom:longitude":-73.077745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Main St",
     "sg:city":"Ansonia",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463443462,
-    "wof:geomhash":"b1ec68755bd3544e77be681611e7cab2",
+    "wof:geomhash":"883969fb2703b0339e5d27c727dafdca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":823665355,
-    "wof:lastmodified":1472613666,
+    "wof:lastmodified":1533933047,
     "wof:name":"Pediatric & Adolescent Health",
     "wof:parent_id":85816245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823626687
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

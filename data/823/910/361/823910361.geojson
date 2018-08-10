@@ -7,6 +7,7 @@
     "addr:postcode":"06905",
     "addr:street":"Summer St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.541284,41.061049,-73.541284,41.061049",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.541284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1200 Summer St",
     "sg:city":"Stamford",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463449756,
-    "wof:geomhash":"91d7fb01d23f39f8b534fe1a84bda095",
+    "wof:geomhash":"0b42c3cb878b4e81e3f52cb1eb212fd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823910361,
-    "wof:lastmodified":1472613896,
+    "wof:lastmodified":1533933045,
     "wof:name":"Andrinas Grgory G Law Offs LLC",
     "wof:parent_id":85844555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823583271
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "legal"

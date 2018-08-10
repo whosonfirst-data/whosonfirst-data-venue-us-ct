@@ -7,6 +7,7 @@
     "addr:postcode":"06401",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-73.077745,41.340758,-73.077745,41.340758",
@@ -14,6 +15,7 @@
     "geom:longitude":-73.077745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"400 Main St",
     "sg:city":"Ansonia",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463442546,
-    "wof:geomhash":"b1ec68755bd3544e77be681611e7cab2",
+    "wof:geomhash":"883969fb2703b0339e5d27c727dafdca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":823626687,
-    "wof:lastmodified":1472613418,
+    "wof:lastmodified":1533933047,
     "wof:name":"Pediatrics Adolecent Hlth Care",
     "wof:parent_id":85816245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823665355
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

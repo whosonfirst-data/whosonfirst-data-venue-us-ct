@@ -14,6 +14,7 @@
     "geom:longitude":-72.80938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1096 N Colony Rd",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1463438903,
-    "wof:geomhash":"34b1a7ee3e53ee4ea26dcdebcd05819c",
+    "wof:geomhash":"3815a3a3a61640117dddd8269790c890",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":823473091,
-    "wof:lastmodified":1472607165,
+    "wof:lastmodified":1533933042,
     "wof:name":"Healthworks",
     "wof:parent_id":85852493,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        824063921
+    ],
     "wof:tags":[
         "club",
         "health",

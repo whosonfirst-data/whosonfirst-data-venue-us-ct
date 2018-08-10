@@ -14,6 +14,7 @@
     "geom:longitude":-72.820454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Center St",
     "sg:city":"Wallingford",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1463444610,
-    "wof:geomhash":"c06f1f98931e16b9a393a7bb88eb2f6b",
+    "wof:geomhash":"d91207b0d4c09192ab37953b25da82d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823718179,
-    "wof:lastmodified":1472613711,
+    "wof:lastmodified":1533933048,
     "wof:name":"Charles B Helm MD",
     "wof:parent_id":85843519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ct",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823763105
+    ],
     "wof:tags":[
         "medical"
     ]
